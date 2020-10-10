@@ -56,11 +56,8 @@ anchor_words:
   - те
   - еще
   - ещё
-comment: |
-  Есть похожая конструкция так называемый NP так называемый образец (ID 320)
 structure_in_ud: |
     [root [amod тот] [advmod ещё] NP-Nom]  [root [amod то]
     [advmod ещё] удовольствие]
 comment: |
-    Example comment in here,
-    which can go over multiple lines.
+    Есть похожая конструкция так называемый NP так называемый образец (ID 320)
