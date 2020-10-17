@@ -5,15 +5,6 @@ def record_to_filename(record):
     return f"data/{str(record).zfill(4)}.yml"
 
 
-def write_list_of_files(all_numbers):
-    all_numbers = sorted(list(set(all_numbers)))
-    with open("files.yml", "w") as f:
-        f.write("---\n")
-        f.write("files:\n")
-        for record in sorted(list(set(all_numbers))):
-            f.write(f"  - {record_to_filename(record)}\n")
-
-
 def split_string(s):
     if s.strip() == "":
         return ["~"]
@@ -108,16 +99,9 @@ def write_record(row, record):
                             f.write(f"      - type: {chunk.strip()}\n")
 
 
-def main():
-    all_numbers = []
+if __name__ == "__main__":
     with open("database-2020-10-12.csv", "r") as f:
         reader = csv.DictReader(f)
         for row in reader:
             record = int(row["ID Number"])
             write_record(row, record)
-            all_numbers.append(record)
-    write_list_of_files(all_numbers)
-
-
-if __name__ == "__main__":
-    main()
