@@ -1,0 +1,45 @@
+---
+record: 362
+name: 'что бы NP-Nom ни VP-Pst, Cl'
+UD_name: 'что бы NP-Nom ни VP-Past, Cl'
+illustration: 'Что бы он ни говорил, я ручаюсь за него.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - Biclausal
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Assertive
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Concession
+    subptypes:
+      - type: Failed expectation

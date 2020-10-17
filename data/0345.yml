@@ -1,0 +1,46 @@
+---
+record: 345
+name: 'NP-Nom ходить в NP-Loc.Pl'
+UD_name: 'NP-Nom ходить в NP-Loc.Plur'
+illustration: 'Она уже давно ходит в невестах.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Verb pattern
+syntactic_function_of_anchor:
+  - Verb pattern
+syntactic_structure_of_anchor:
+  - Verb
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Salient property
+    subptypes:
+      - type: Status
+  - type: Temporary characteristics

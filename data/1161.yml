@@ -1,0 +1,50 @@
+---
+record: 1161
+name: 'ни копейки/гроша не VP'
+UD_name: 'ни копейки/гроша не VP'
+illustration: 'Он ни копейки не потратил.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - Adv
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Degree of intensity
+    subptypes:
+      - type: Minimizer
+        subptypes:
+          - type: Absence
+  - type: Non-existence
+    subptypes:
+      - type: Unaffected small portion

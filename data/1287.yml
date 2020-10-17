@@ -1,0 +1,48 @@
+---
+record: 1287
+name: 'VP под давлением NP-Gen'
+UD_name: 'VP под давлением NP-Gen'
+illustration: 'Правительство под давлением прогрессивной общественности учредило нечто вроде государственной опеки.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Adv
+syntactic_function_of_anchor:
+  - Nominal pattern
+  - Prep
+syntactic_structure_of_anchor:
+  - Nominal pattern
+  - Complex Prep
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Causation
+    subptypes:
+      - type: Indirect
+  - type: Cause

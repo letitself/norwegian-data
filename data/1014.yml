@@ -1,0 +1,46 @@
+---
+record: 1014
+name: 'Если NP-Nom сказал XP – значит, ~XР'
+UD_name: 'Если NP-Nom сказал XP – значит, XР'
+illustration: 'Если Петя сказал красивая, – значит, красивая.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Parenth
+syntactic_function_of_anchor:
+  - Biclausal
+  - Conj
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Assertive
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subptypes:
+      - type: High degree of certainty

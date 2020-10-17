@@ -1,0 +1,46 @@
+---
+record: 449
+name: 'Noun из ~Noun-Gen.Pl'
+UD_name: 'Noun из Noun-Gen.Plur'
+illustration: 'Сейчас покажу вам чудо из чудес, мой новый фотоаппарат!'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Nominal pattern
+syntactic_structure_of_anchor:
+  - Nominal pattern
+  - Reduplication
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Assessment
+    subptypes:
+      - type: Positive

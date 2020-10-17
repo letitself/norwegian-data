@@ -1,0 +1,48 @@
+---
+record: 2323
+name: 'Так-то оно Cop так/так-то да, но Cl'
+UD_name: 'Так-то оно Cop так/так-то да, но Cl'
+illustration: 'Так-то оно так, но он мне всё равно не нравится.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Concession
+    subptypes:
+      - type: Imitative agreement
+  - type: Reaction to the previous discourse
+    subptypes:
+      - type: Disagreement

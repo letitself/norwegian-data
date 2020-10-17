@@ -1,0 +1,49 @@
+---
+record: 1170
+name: 'XP так ~XP!'
+UD_name: 'XP так XP!'
+illustration: 'Это был праздник так праздник!'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Clause
+syntactic_structure_of_anchor:
+  - Conj
+  - Reduplication
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Assessment
+    subptypes:
+      - type: Positive
+  - type: Comparison
+    subptypes:
+      - type: Equality

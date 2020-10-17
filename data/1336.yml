@@ -1,0 +1,45 @@
+---
+record: 1336
+name: 'NP-Nom представлять собой NP-Acc'
+UD_name: 'NP-Nom представлять собой NP-Acc'
+illustration: 'Эта работа представляет собой описание сравнительных конструкций.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Verb pattern
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - Light verb
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Formal
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Salient property
+    subptypes:
+      - type: Property assignment

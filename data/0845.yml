@@ -1,0 +1,49 @@
+---
+record: 845
+name: 'NP вверх дном'
+UD_name: 'NP вверх дном'
+illustration: 'Дом вверх дном: бегают и плачут дети, вещи раскиданы, окна открыты...'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Praedic
+syntactic_function_of_anchor:
+  - Praedic
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Assessment
+    subptypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subptypes:
+      - type: Matching the norm
+      - type: Transformation

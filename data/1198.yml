@@ -1,0 +1,47 @@
+---
+record: 1198
+name: 'не прямо XP, а/но XP'
+UD_name: 'не прямо XP, а/но XP'
+illustration: 'Стоял не прямо перед зеркалом, а чуть в стороне.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Biclausal
+syntactic_function_of_anchor:
+  - Biclausal
+  - Conj
+syntactic_structure_of_anchor:
+  - Conj
+  - Negation
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Comparison
+    subptypes:
+      - type: Contrast

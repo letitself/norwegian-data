@@ -1,0 +1,50 @@
+---
+record: 932
+name: 'гореть-Imp (PronPers-Nom) в огне (за NP-Acc)!'
+UD_name: 'гореть-Imper (PronPers-Nom) в огне (за NP-Acc)!'
+illustration: 'Гори он в огне за такие слова!'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Clause
+syntactic_structure_of_anchor:
+  - VP
+  - PP
+  - simplex prep
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Attitude
+    subptypes:
+      - type: Negative
+  - type: Routine
+    subptypes:
+      - type: Curse

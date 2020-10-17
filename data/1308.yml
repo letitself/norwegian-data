@@ -1,0 +1,44 @@
+---
+record: 1308
+name: 'VP в надежде (на то), что VP'
+UD_name: 'VP в надежде (на то), что VP'
+illustration: 'Каждый оператор сидел в надежде, что запечатлит эти кадры именно он.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Biclausal
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - Conj
+  - Matrix
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Purpose

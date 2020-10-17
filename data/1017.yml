@@ -1,0 +1,50 @@
+---
+record: 1017
+name: 'если хотеть-Prs.2 VP-Inf, ~VP-Imp'
+UD_name: 'если хотеть-Pres.2 VP-Inf, VP-Imper'
+illustration: 'Если хочешь идти, иди.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - Biclausal
+  - Conj
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Assertive
+  - Exclamatory
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Attitude
+    subptypes:
+      - type: Support
+  - type: Root modality
+    subptypes:
+      - type: Permission

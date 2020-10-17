@@ -1,0 +1,51 @@
+---
+record: 905
+name: 'одно и то же NP'
+UD_name: 'одно и то же NP'
+illustration: 'Они учат одно и то же стихотворение.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - NP
+syntactic_function_of_anchor:
+  - Adj
+syntactic_structure_of_anchor:
+  - Adj
+  - Pron
+  - Adv
+  - Conj
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Comparison
+    subptypes:
+      - type: Equality
+  - type: Degree of intensity
+    subptypes:
+      - type: Booster

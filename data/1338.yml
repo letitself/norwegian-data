@@ -1,0 +1,50 @@
+---
+record: 1338
+name: 'VP/NP на веки вечные'
+UD_name: 'VP/NP на веки вечные'
+illustration: 'Нина предложила свою дружбу на веки вечные.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Adv
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - Simplex prep
+  - Nominal pattern
+  - Reduplication
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Phase of action
+    subptypes:
+      - type: Continuative
+  - type: Temporal expression
+    subptypes:
+      - type: Time period

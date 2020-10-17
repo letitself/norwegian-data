@@ -1,0 +1,51 @@
+---
+record: 79
+name: 'NP-Nom Cop всё без NP-Gen и без ~NP-Gen'
+UD_name: 'NP-Nom Cop всё без NP-Gen и без NP-Gen'
+illustration: 'А мы всё без молока и без молока.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Praedic
+  - Adv
+syntactic_function_of_anchor:
+  - Adj
+  - Adv
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Simplex prep
+  - Conj
+  - Adv
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Caritive
+  - type: Degree of intensity
+    subptypes:
+      - type: Booster

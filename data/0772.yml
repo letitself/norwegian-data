@@ -1,0 +1,46 @@
+---
+record: 772
+name: 'У PronPers-Gen/в NP-Loc (не) иметься/быть в наличии NP-Nom'
+UD_name: 'У Pron-Gen/в NP-Loc (не) иметься/быть в наличии NP-Nom'
+illustration: 'У нас в наличии пять книг этого автора.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Praedic
+syntactic_function_of_anchor:
+  - Praedic
+syntactic_structure_of_anchor:
+  - PP
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Possession
+  - type: Temporary characteristics
+    subptypes:
+      - type: Availability

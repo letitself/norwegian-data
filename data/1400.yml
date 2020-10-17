@@ -1,0 +1,50 @@
+---
+record: 1400
+name: 'VP (не) в тему'
+UD_name: 'VP (не) в тему'
+illustration: 'Он сказал это очень в тему!'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Adv
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - PP
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Assessment
+    subptypes:
+      - type: Positive
+      - type: Negative
+  - type: Manner
+  - type: Temporary characteristics
+    subptypes:
+      - type: Appropriateness

@@ -1,0 +1,48 @@
+---
+record: 750
+name: 'в NumCrd-Loc кварталах/домах (от NP-Gen)'
+UD_name: 'в NumCrd-Loc кварталах/домах (от NP-Gen)'
+illustration: 'Этот магазин был в трёх кварталах от почты.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Praedic
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - Nominal pattern
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Measure
+    subptypes:
+      - type: Distance
+  - type: Spatial expression
+    subptypes:
+      - type: Location

@@ -1,0 +1,50 @@
+---
+record: 89
+name: 'NP-Nom Cop всем Noun-Dat.Pl ~Noun-Nom'
+UD_name: 'NP-Nom Cop всем Noun-Dat.Plur Noun-Nom'
+illustration: 'Всем борщам борщ.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Nominal pattern
+syntactic_structure_of_anchor:
+  - Nominal pattern
+  - Reduplication
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Assessment
+    subptypes:
+      - type: Positive
+      - type: Negative
+  - type: Comparison
+    subptypes:
+      - type: Contrast

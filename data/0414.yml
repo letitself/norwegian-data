@@ -1,0 +1,43 @@
+---
+record: 414
+name: 'Cl, с тем чтобы VP-Inf/Cl'
+UD_name: 'Cl, с тем чтобы VP-Inf/Cl'
+illustration: 'Мы встретимся, с тем чтобы закончить эту работу.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Biclausal
+syntactic_function_of_anchor:
+  - Biclausal
+syntactic_structure_of_anchor:
+  - Conj
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Assertive
+usage_label: Obsolete
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Purpose

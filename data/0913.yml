@@ -1,0 +1,46 @@
+---
+record: 913
+name: '(вся) беда/проблема Cop в том, что Cl'
+UD_name: '(вся) беда/проблема Cop в том, что Cl'
+illustration: 'Вся беда в том, что я люблю Петю, а Петя любит Машу.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Matrix
+syntactic_function_of_anchor:
+  - Matrix
+syntactic_structure_of_anchor:
+  - Noun
+  - Simplex prep
+  - Pron
+  - Conj
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Cause

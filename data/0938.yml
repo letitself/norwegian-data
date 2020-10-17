@@ -1,0 +1,47 @@
+---
+record: 938
+name: '(да) (и) с чего бы (это) Cl?'
+UD_name: '(да) (и) с чего бы (это) Cl?'
+illustration: 'Да и с чего бы ему радоваться?'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Clause
+syntactic_structure_of_anchor:
+  - PP
+  - Adv, Conj
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Cause
+  - type: Reaction to the previous discourse
+    subptypes:
+      - type: Disagreement

@@ -1,0 +1,47 @@
+---
+record: 208
+name: 'не то XP, не то XP'
+UD_name: 'не то XP, не то XP'
+illustration: 'Он пошел не то к себе на дачу, не то на станцию.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Biclausal
+syntactic_function_of_anchor:
+  - Biclausal
+  - Conj
+syntactic_structure_of_anchor:
+  - Conj
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Assertive
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subptypes:
+      - type: Low degree of certainty
+  - type: Options

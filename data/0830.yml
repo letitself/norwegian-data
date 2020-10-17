@@ -1,0 +1,48 @@
+---
+record: 830
+name: 'NP-Nom/VP-Inf Cop (NP-Dat) в тягость'
+UD_name: 'NP-Nom/VP-Inf Cop (NP-Dat) в тягость'
+illustration: 'Эта работа была мне в тягость.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Praedic
+syntactic_function_of_anchor:
+  - Praedic
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Obsolete
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Attitude
+    subptypes:
+      - type: Dissatisfaction
+  - type: Temporary characteristics
+    subptypes:
+      - type: Emotional state

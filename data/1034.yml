@@ -1,0 +1,48 @@
+---
+record: 1034
+name: 'за неимением/недостатком/отсутствием NP-Gen VP'
+UD_name: 'за неимением/недостатком/отсутствием NP-Gen VP'
+illustration: 'За неимением денег мы остались дома.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Adv
+syntactic_function_of_anchor:
+  - Nominal pattern
+syntactic_structure_of_anchor:
+  - Nominal pattern
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Formal
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Caritive
+  - type: Cause
+  - type: Possession
+  - type: Temporary characteristics
+    subptypes:
+      - type: Availability

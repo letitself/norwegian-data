@@ -2,7 +2,7 @@ import csv
 
 
 def record_to_filename(record):
-    return f"{str(record).zfill(4)}.yml"
+    return f"data/{str(record).zfill(4)}.yml"
 
 
 def write_list_of_files(all_numbers):

@@ -1,0 +1,45 @@
+---
+record: 1705
+name: 'VP у NP-Gen под носом'
+UD_name: 'VP у NP-Gen под носом'
+illustration: 'Афиша всё это время была у меня под носом, а я заметил её только сейчас.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Adv
+syntactic_function_of_anchor:
+  - Adv
+syntactic_structure_of_anchor:
+  - Nominal pattern
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Spatial expression
+    subptypes:
+      - type: Location

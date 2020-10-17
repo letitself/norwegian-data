@@ -1,0 +1,52 @@
+---
+record: 855
+name: 'NP-Nom вертеть NP-Ins как хотеть'
+UD_name: 'NP-Nom вертеть NP-Ins как хотеть'
+illustration: 'Маша с Петей вертят родителями как хотят.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Clause
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - Assertive
+usage_label: Colloquial
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Assessment
+    subptypes:
+      - type: Negative
+  - type: Attitude
+    subptypes:
+      - type: Disapproval
+  - type: Salient property
+  - type: Temporary characteristics
+    subptypes:
+      - type: Behavior

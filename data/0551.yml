@@ -1,0 +1,46 @@
+---
+record: 551
+name: 'NP-Nom приходиться NP-Dat NP-Ins'
+UD_name: 'NP-Nom приходиться NP-Dat NP-Ins'
+illustration: 'Этот мальчик приходится мне сыном.'
+cefr_level: A1
+definitions:
+  - russian: |
+        "Example definition in Russian.
+        It can go over multiple lines."
+  - english: |
+        "Example definition in English.
+        It can go over multiple lines."
+examples:
+  - |
+    "One example.
+    It can go over multiple lines."
+  - |
+    "Another example.
+    It can go over multiple lines."
+morphology:
+  - ~
+syntactic_function_of_construction:
+  - Verb pattern
+syntactic_function_of_anchor:
+  - Light verb
+  - Verb pattern
+syntactic_structure_of_anchor:
+  - Light verb
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+structure_in_ud: |
+    "Example structure in UD.
+    It can go over multiple lines."
+comment: |
+    "Example comment.
+    It can go over multiple lines."
+semantic_types:
+  - type: Salient property
+    subptypes:
+      - type: Status
