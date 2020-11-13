@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-for file in *.yml; do
+for file in data/*.yml; do
     yamllint $file
 done
