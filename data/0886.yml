@@ -20,14 +20,16 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Clause
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
   - Adv
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - PronInt
+  - Particle
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +41,12 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Cause
   - type: Reaction to the previous discourse
+family:
+  - |
+    ""

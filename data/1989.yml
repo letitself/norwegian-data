@@ -1,7 +1,7 @@
 ---
 record: 1989
-name: 'исключая NP-Acc'
-UD_name: 'исключая NP-Acc'
+name: 'Cl исключая NP-Acc'
+UD_name: 'Cl исключая NP-Acc'
 illustration: 'Пришли все, исключая Петю.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,16 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Verb Pattern
+  - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Converb
+  - Prep
 semantic_roles:
   - ~
 intonation:
@@ -39,5 +41,11 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Exceptive
+family:
+  - |
+    ""

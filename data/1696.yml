@@ -20,14 +20,16 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Clause
+syntactic_type_of_construction:
+  - Cl
+  - XP with parentheticals
 syntactic_function_of_anchor:
-  - Clause
+  - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
@@ -39,8 +41,14 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Mirative
   - type: Reaction to the previous discourse
     subptypes:
       - type: Surprise
+family:
+  - |
+    ""

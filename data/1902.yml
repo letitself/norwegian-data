@@ -1,6 +1,6 @@
 ---
 record: 1902
-name: 'исключая/не считая NP-Acc'
+name: 'исключая/не считая NP-Acc Cl'
 UD_name: 'исключая/не считая NP-Acc'
 illustration: 'Трое в лодке, не считая собаки.'
 cefr_level: A1
@@ -20,14 +20,16 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Verb Pattern
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Converb
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +41,12 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Additive
   - type: Exceptive
+family:
+  - |
+    ""

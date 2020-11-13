@@ -20,16 +20,13 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Praedic
-  - Nominal pattern
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
-  - Nominal pattern
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Adj
   - Noun
-  - Simplex prep
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
@@ -43,7 +40,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
       - type: Equality
+family:
+  - |
+    ""

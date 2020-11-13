@@ -1,7 +1,7 @@
 ---
 record: 619
-name: 'VP ― и будь здоров'
-UD_name: 'VP ― и будь здоров'
+name: 'VP – и будь здоров'
+UD_name: 'VP – и будь здоров'
 illustration: 'Миша забрал книгу – и будь здоров.'
 cefr_level: A1
 definitions:
@@ -20,8 +20,8 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
   - Clause
 syntactic_structure_of_anchor:
@@ -39,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Attitude
     subptypes:
@@ -49,3 +52,6 @@ semantic_types:
   - type: Taxis
     subptypes:
       - type: Subsequent action
+family:
+  - |
+    ""

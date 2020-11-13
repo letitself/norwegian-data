@@ -1,7 +1,7 @@
 ---
 record: 1369
-name: 'NP и ~NP'
-UD_name: 'NP и NP'
+name: '(один) (NP), ~NP и ~NP'
+UD_name: '(один) (NP), NP и NP'
 illustration: 'У меня до самого августа одна работа и работа.'
 cefr_level: A1
 definitions:
@@ -19,20 +19,21 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
+  - NP
+syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Nominal pattern
 syntactic_structure_of_anchor:
-  - Conj
   - Reduplication
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Conj
 semantic_roles:
-  - ~
+  - Activity
+  - Agent
 intonation:
-  - ~
+  - Assertive
 usage_label: Colloquial
 structure_in_ud: |
     "Example structure in UD.
@@ -40,6 +41,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -47,3 +51,6 @@ semantic_types:
   - type: Phase of action
     subptypes:
       - type: Continuative
+family:
+  - |
+    "Семья конструкций с континуативной семантикой и с редупликацией (Continuative constructions with a reduplicative pattern)."

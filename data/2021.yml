@@ -20,14 +20,17 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
 syntactic_function_of_anchor:
-  - ~
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Parenth
+  - NP
+  - VP
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Verb
+  - Particle
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Reaction to the previous discourse
     subptypes:
@@ -46,3 +52,6 @@ semantic_types:
   - type: Timeline
     subptypes:
       - type: Past
+family:
+  - |
+    ""

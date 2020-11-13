@@ -19,18 +19,21 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Adv
+  - NA
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Noun
-  - Simplex prep
+  - PP
+  - Double Negation
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
+  - Negation Marker
 semantic_roles:
-  - ~
+  - Theme
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -40,6 +43,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -49,3 +55,6 @@ semantic_types:
   - type: Non-existence
     subptypes:
       - type: Unaffected small portion
+family:
+  - |
+    "Family of intensifying constructions referring to a minimal portion of activity"

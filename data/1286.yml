@@ -1,7 +1,7 @@
 ---
 record: 1286
-name: 'волей/по воле NP-Gen'
-UD_name: 'волей/по воле NP-Gen'
+name: 'волей/по воле NP-Gen Cl'
+UD_name: 'волей/по воле NP-Gen Cl'
 illustration: 'Волею обстоятельств он оказался в стане противников.'
 cefr_level: A1
 definitions:
@@ -20,16 +20,16 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Adv
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
-  - Prep
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Nominal pattern
-  - Complex Prep
+  - Nominal Pattern
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
@@ -41,5 +41,11 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Cause
+family:
+  - |
+    ""

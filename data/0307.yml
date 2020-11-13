@@ -20,12 +20,13 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Biclausal
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Praedic, Conj
+  - Praedic
+  - Conj
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
@@ -39,6 +40,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Assessment
     subptypes:
@@ -47,3 +51,6 @@ semantic_types:
   - type: Salient property
     subptypes:
       - type: Capacity for an activity
+family:
+  - |
+    ""

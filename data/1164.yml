@@ -20,15 +20,12 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Nominal pattern
-  - Adj
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Nominal pattern
-  - Adj
 syntactic_structure_of_anchor:
   - Adv
-  - Simplex prep
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
@@ -42,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
@@ -49,3 +49,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Maximizer
+family:
+  - |
+    ""

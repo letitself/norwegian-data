@@ -19,17 +19,18 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - Gen
+  - NP
+syntactic_type_of_construction:
+  - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Verb
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Experiencer
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -39,6 +40,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Endresen, Anna, Laura A. Janda. Forthcoming. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subptypes:
@@ -48,3 +52,6 @@ semantic_types:
       - type: Preferences
         subptypes:
           - type: Negative
+family:
+  - |
+    "Family of evaluative constructions Disapproval"

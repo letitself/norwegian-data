@@ -1,8 +1,8 @@
 ---
 record: 2059
-name: 'как раз-таки XP'
-UD_name: 'как раз-таки XP'
-illustration: 'Она как раз-таки хотела нам помочь, в отличие от остальных.'
+name: 'Cl, как раз-таки XP'
+UD_name: 'Cl, как раз-таки XP'
+illustration: '– Маша отказалась нам помогать. – Нет, она как раз-таки хотела нам помочь, в отличие от остальных.'
 cefr_level: A1
 definitions:
   - russian: |
@@ -20,14 +20,18 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Noun
+  - Particle
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Noun
+  - Particle
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +43,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
@@ -46,3 +53,6 @@ semantic_types:
   - type: Discourse structure
     subptypes:
       - type: Emphasis
+family:
+  - |
+    ""

@@ -1,7 +1,7 @@
 ---
 record: 1884
-name: 'наряду с NP-Ins'
-UD_name: 'наряду с NP-Ins'
+name: 'наряду с NP-Ins Cl'
+UD_name: 'наряду с NP-Ins Cl'
 illustration: 'Наряду с российскими спортсменами, в соревновании участвовали иностранцы.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,14 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - PP
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - PP
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Complex prep
+  - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
@@ -39,5 +39,11 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comitative
+family:
+  - |
+    ""

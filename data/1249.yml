@@ -1,7 +1,7 @@
 ---
 record: 1249
-name: 'по-Verb-Pst и хватит'
-UD_name: 'по-VP-Past и хватит'
+name: 'по-VP-Ipfv.Pst и хватит'
+UD_name: 'по-VP-Imp.Past и хватит'
 illustration: 'Погуляли и хватит.'
 cefr_level: A1
 definitions:
@@ -20,8 +20,8 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
   - clause
 syntactic_structure_of_anchor:
@@ -39,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Causation
     subptypes:
@@ -46,3 +49,6 @@ semantic_types:
   - type: Prohibition
     subptypes:
       - type: Continuative prohibitive
+family:
+  - |
+    ""

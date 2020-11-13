@@ -1,7 +1,7 @@
 ---
 record: 7
-name: 'NP-Nom Cop похожий-Short на NP-Acc'
-UD_name: 'NP-Nom Cop похожий-Short на NP-Acc'
+name: 'NP-Nom Cop похожий-Short на NP-Acc (NP-Ins/по NP-Dat)'
+UD_name: 'NP-Nom Cop похожий-Short на NP-Acc (NP-Ins/по NP-Dat)'
 illustration: 'Вася похож на папу.'
 cefr_level: A1
 definitions:
@@ -20,13 +20,12 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Clause
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Praedic
-  - Simplex prep
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
@@ -40,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
       - type: Similarity
+family:
+  - |
+    ""

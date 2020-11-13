@@ -1,8 +1,8 @@
 ---
 record: 1125
-name: 'Adv-Cmp всего VP'
-UD_name: 'Adv-Cmp всего VP'
-illustration: 'Меньше всего я хочу сейчас ругаться.'
+name: 'NP-Nom Cop Adj-Cmp, нежели NP-Nom'
+UD_name: 'NP-Nom Cop Adj-Cmp, нежели NP-Nom'
+illustration: 'Пустые стеллажи лучше, нежели тележки в коридорах.'
 cefr_level: A1
 definitions:
   - russian: |
@@ -20,24 +20,32 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
   - ~
 intonation:
   - ~
-usage_label: ~
+usage_label: Colloquial
 structure_in_ud: |
     "Example structure in UD.
     It can go over multiple lines."
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
-  - type: Measure
+  - type: Comparison
+    subptypes:
+      - type: Inequality
+family:
+  - |
+    ""

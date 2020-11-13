@@ -1,8 +1,8 @@
 ---
 record: 813
-name: '(для NP-Gen) в самый раз'
-UD_name: '(для NP-Gen) в самый раз'
-illustration: 'Для куклы эта шапка в самый раз.'
+name: 'NP-Nom Cop (NP-Dat/для NP-Gen) в самый раз'
+UD_name: 'NP-Nom Cop (NP-Dat/для NP-Gen) в самый раз'
+illustration: 'Для куклы эта шапка в самый раз'
 cefr_level: A1
 definitions:
   - russian: |
@@ -20,10 +20,10 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Praedic
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
@@ -39,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Assessment
     subptypes:
@@ -49,3 +52,6 @@ semantic_types:
   - type: Temporary characteristics
     subptypes:
       - type: Appropriateness
+family:
+  - |
+    ""

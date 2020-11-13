@@ -20,11 +20,10 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Biclausal
+syntactic_type_of_construction:
+  - Connection Construction
 syntactic_function_of_anchor:
-  - Biclausal
-  - Conj
+  - Conjunction
 syntactic_structure_of_anchor:
   - Conj
   - Negation
@@ -41,7 +40,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
       - type: Contrast
+family:
+  - |
+    ""

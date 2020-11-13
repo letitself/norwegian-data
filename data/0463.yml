@@ -1,7 +1,7 @@
 ---
 record: 463
-name: 'VP с Num-Gen лет/часов'
-UD_name: 'VP с Num-Gen лет/часов'
+name: 'VP с NumCrd-Gen лет/часов'
+UD_name: 'VP с NumCrd-Gen лет/часов'
 illustration: 'Я играю в баскетбол с десяти лет.'
 cefr_level: A1
 definitions:
@@ -19,18 +19,22 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Adv
+  - Gen
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
   - PP
-  - Numeral
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
-  - ~
+  - Number
+  - Time
+  - Participant
+  - Action
+  - Situation
 intonation:
   - ~
 usage_label: ~
@@ -40,6 +44,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Phase of action
     subptypes:
@@ -47,3 +54,6 @@ semantic_types:
   - type: Temporal expression
     subptypes:
       - type: Temporal boundary
+family:
+  - |
+    "Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")"

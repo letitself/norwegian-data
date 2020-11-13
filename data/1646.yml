@@ -20,14 +20,18 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
-  - ~
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - NP
+  - VP
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Noun
+  - Pron
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +43,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Temporal expression
     subptypes:
@@ -46,3 +53,6 @@ semantic_types:
   - type: Timeline
     subptypes:
       - type: Future
+family:
+  - |
+    ""

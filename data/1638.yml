@@ -1,7 +1,7 @@
 ---
 record: 1638
-name: 'во времена NP-Gen'
-UD_name: 'во времена NP-Gen'
+name: 'во времена NP-Gen VP'
+UD_name: 'во времена NP-Gen VP'
 illustration: 'Во времена Ивана Грозного народ жил по-другому.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,15 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
@@ -39,7 +40,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Temporal expression
     subptypes:
       - type: Time period
+family:
+  - |
+    ""

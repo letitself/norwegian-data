@@ -20,8 +20,8 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - NP
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Adj
 syntactic_structure_of_anchor:
@@ -42,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
@@ -49,3 +52,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Maximizer
+family:
+  - |
+    ""

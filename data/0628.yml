@@ -19,18 +19,21 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
+  - VP
   - Adv
+  - Cmp
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Adv
-  - Modal
+  - Conj
+  - Predicative
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Predicative
 semantic_roles:
-  - ~
+  - Property
 intonation:
   - ~
 usage_label: Colloquial
@@ -40,6 +43,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673."
 semantic_types:
   - type: Comparison
     subptypes:
@@ -47,3 +53,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Booster
+family:
+  - |
+    "Family of comparative constructions Comparison Inequality and Degree of Intensity: Maximizer or Booster"

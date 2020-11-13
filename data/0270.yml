@@ -19,20 +19,19 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
   - Adj
   - Adv
+  - Cmp
+syntactic_type_of_construction:
+  - Morphological Construction
 syntactic_function_of_anchor:
-  - Adj
-  - Adv
+  - Affix
 syntactic_structure_of_anchor:
-  - Prefix
-  - Suffix
+  - Word-Formation
 part_of_speech_of_anchor:
-  - ~
+  - NA
 semantic_roles:
-  - ~
+  - Property
 intonation:
   - ~
 usage_label: ~
@@ -42,6 +41,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Boguslavsky, I., Iomdin, L. (2009), Semantics of Attenuated Comparatives in Russian, Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), pp. 65–77."
 semantic_types:
   - type: Comparison
     subptypes:
@@ -49,3 +51,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Diminisher
+family:
+  - |
+    "Comparison Inequality + Intensity: Booster, Diminisher, Minimizer"

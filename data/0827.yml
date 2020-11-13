@@ -1,7 +1,7 @@
 ---
 record: 827
-name: 'в течение NP-Gen'
-UD_name: 'в течение NP-Gen'
+name: 'в течение NP-Gen Cl'
+UD_name: 'в течение NP-Gen Cl'
 illustration: 'В течение семестра он не сходил ни на одну лекцию.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,14 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Adv
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Prep
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Complex prep
+  - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
@@ -39,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Temporal expression
     subptypes:
       - type: Time period
+family:
+  - |
+    ""

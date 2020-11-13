@@ -19,20 +19,23 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Verb pattern
+  - VP
+  - Cl
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
   - Verb pattern
 syntactic_structure_of_anchor:
-  - Conj
+  - Reduplication
   - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Negation marker
 semantic_roles:
-  - ~
+  - Activity
+  - Agent
 intonation:
-  - ~
+  - Assertive
 usage_label: Colloquial
 structure_in_ud: |
     "Example structure in UD.
@@ -40,6 +43,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -47,3 +53,6 @@ semantic_types:
   - type: Phase of action
     subptypes:
       - type: Continuative
+family:
+  - |
+    "Семья конструкций с континуативной семантикой и с редупликацией (Continuative constructions with a reduplicative pattern)"

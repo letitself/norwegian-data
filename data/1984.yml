@@ -1,7 +1,7 @@
 ---
 record: 1984
-name: 'до (NumOrd/NumCrd) NP-Gen включительно'
-UD_name: 'до (NumOrd/NumCrd) NP-Gen включительно'
+name: 'VP до (NumOrd/NumCrd) NP-Gen включительно'
+UD_name: 'VP до (NumOrd/NumCrd) NP-Gen включительно'
 illustration: 'Заявки на конференцию принимаются до 25 августа включительно.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,15 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adv
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Prep
 semantic_roles:
   - ~
 intonation:
@@ -39,8 +40,14 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Inclusive
   - type: Temporal expression
     subptypes:
       - type: Temporal boundary
+family:
+  - |
+    ""

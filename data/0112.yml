@@ -19,19 +19,23 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Clause
-syntactic_function_of_anchor:
-  - Clause
-syntactic_structure_of_anchor:
-  - Simplex prep
-  - Pron
+  - Adj
+  - Nom
   - Adv
+  - VP
+syntactic_type_of_construction:
+  - Head + Modifier Construction
+syntactic_function_of_anchor:
+  - Adverbial Modifier
+syntactic_structure_of_anchor:
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Particle
 semantic_roles:
-  - ~
+  - Evaluation
+  - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -41,6 +45,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."
 semantic_types:
   - type: Assessment
     subptypes:
@@ -49,3 +56,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Booster
+family:
+  - |
+    "Семья конструкций с интенсификаторами"

@@ -19,9 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
   - Clause
 syntactic_structure_of_anchor:
@@ -29,7 +30,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -39,7 +40,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Rakhilina, E. V. (2013). “Konduktor, nazhmi na tormoza,” in Computational Linguistics and Intellectual Technologies. Papers from the Annual International 2347 Conference “Dialogue” 12, 665–673."
 semantic_types:
   - type: Prohibition
     subptypes:
       - type: Continuative prohibitive
+family:
+  - |
+    "Семья прохибитивных конструкций Family Strict causation to stop a strongly negative activity. 'Stop doing X'  imperatives"

@@ -1,6 +1,6 @@
 ---
 record: 202
-name: '(NP-Dat) не стоит VP-Inf'
+name: '(NP-Dat) не стоит VP-Ipfv.Inf'
 UD_name: '(NP-Dat) не стоит VP-Inf'
 illustration: 'Не стоит разговаривать с ним.'
 cefr_level: A1
@@ -19,18 +19,21 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NP
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Clause
-  - Verb pattern
+  - Verb
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Assertive
 usage_label: ~
@@ -40,7 +43,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Prohibition
     subptypes:
       - type: Attenuated prohibitive
+family:
+  - |
+    "To be added"

@@ -1,7 +1,7 @@
 ---
 record: 134
-name: 'из-за NP-Gen'
-UD_name: 'из-за NP-Gen'
+name: 'Cl из-за NP-Gen'
+UD_name: 'Cl из-за NP-Gen'
 illustration: 'Это всё из-за тебя.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,14 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Adv
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Prep
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Simple prep
+  - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
@@ -39,5 +39,11 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Cause
+family:
+  - |
+    ""

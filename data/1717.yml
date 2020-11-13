@@ -20,15 +20,18 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Biclausal
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Conj
+  - Verb Pattern
   - Negation
+  - Adv
 part_of_speech_of_anchor:
-  - ~
+  - PronInt
+  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
@@ -41,6 +44,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Mirative
   - type: Spatial expression
@@ -48,3 +54,6 @@ semantic_types:
       - type: Path
         subptypes:
           - type: Source
+family:
+  - |
+    ""

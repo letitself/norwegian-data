@@ -19,17 +19,17 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NA
+syntactic_type_of_construction:
+  - Morphological Construction
 syntactic_function_of_anchor:
-  - ~
+  - Affix
 syntactic_structure_of_anchor:
-  - ~
+  - Word-Formation
 part_of_speech_of_anchor:
-  - ~
+  - NA
 semantic_roles:
-  - ~
+  - Property
 intonation:
   - ~
 usage_label: ~
@@ -39,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."
 semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Diminisher
+family:
+  - |
+    "To be added"

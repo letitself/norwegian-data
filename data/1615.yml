@@ -20,14 +20,19 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Connection Construction
 syntactic_function_of_anchor:
-  - ~
+  - Conjunction
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Adv
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Adv
+  - Prep
+  - Pron
 semantic_roles:
   - ~
 intonation:
@@ -39,7 +44,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Taxis
     subptypes:
       - type: Simultaneous action
+family:
+  - |
+    ""

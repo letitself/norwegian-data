@@ -19,9 +19,12 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NP
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
   - Verb pattern
 syntactic_structure_of_anchor:
@@ -29,9 +32,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
-  - ~
+  - Assertive
+  - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
     "Example structure in UD.
@@ -39,7 +44,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673."
 semantic_types:
   - type: Prohibition
     subptypes:
       - type: Attenuated prohibitive
+family:
+  - |
+    "Family of prohibitive constructions Attenuated prohibition (milder than standard prohibition, kind of advice, request, warning)"

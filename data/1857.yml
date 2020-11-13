@@ -20,12 +20,13 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
+syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:
-  - PP, Num
+  - PP
+  - Num
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
@@ -39,7 +40,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Calculation
     subptypes:
       - type: Subtraction
+family:
+  - |
+    ""

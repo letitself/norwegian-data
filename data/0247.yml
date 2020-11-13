@@ -20,13 +20,12 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Verb pattern
+syntactic_type_of_construction:
+  - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Light verb
-  - Verb pattern
+  - Verb
 syntactic_structure_of_anchor:
-  - Light verb
+  - ~
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
@@ -40,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Salient property
     subptypes:
       - type: Property assignment
+family:
+  - |
+    ""

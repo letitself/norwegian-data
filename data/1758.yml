@@ -1,6 +1,6 @@
 ---
 record: 1758
-name: '(ну/ну это) как V-Pfv.Inf'
+name: '(ну/ну это) как Verb-Pfv.Inf'
 UD_name: '(ну/ну это) как V-Perf.Inf'
 illustration: 'Да ведь такой вывод напрашивается здесь однозначно! – Ну, это как посмотреть. Я на это смотрю иначе.'
 cefr_level: A1
@@ -20,8 +20,8 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
   - Clause
 syntactic_structure_of_anchor:
@@ -39,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Reaction to the previous discourse
     subptypes:
       - type: Disagreement
+family:
+  - |
+    ""

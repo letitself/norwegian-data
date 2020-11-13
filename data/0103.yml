@@ -20,12 +20,11 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Matrix
+syntactic_type_of_construction:
+  - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
-  - Matrix
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Light verb
   - Conj
 part_of_speech_of_anchor:
   - ~
@@ -40,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
       - type: Imitation
+family:
+  - |
+    ""

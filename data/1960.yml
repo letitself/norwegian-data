@@ -1,6 +1,6 @@
 ---
 record: 1960
-name: 'Это все Cop Pred, но Cl'
+name: 'Это всё Cop Pred, но Cl'
 UD_name: 'Это все Cop Praedic, но Cl'
 illustration: 'Это всё хорошо, но самое главное – безопасность.'
 cefr_level: A1
@@ -20,14 +20,15 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - ~
+  - Conjunction
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Pron
 semantic_roles:
   - ~
 intonation:
@@ -39,7 +40,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Discourse structure
     subptypes:
       - type: Topic change
+family:
+  - |
+    ""

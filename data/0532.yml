@@ -20,7 +20,7 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
+syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
   - Clause
@@ -39,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Assessment
     subptypes:
@@ -46,3 +49,6 @@ semantic_types:
   - type: Salient property
     subptypes:
       - type: Matching the standard
+family:
+  - |
+    ""

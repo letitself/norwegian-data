@@ -19,10 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Adj
   - Adv
+  - Adj
+  - Cmp
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Adj
   - Adv
@@ -31,9 +32,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Property
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
 structure_in_ud: |
     "Example structure in UD.
@@ -41,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "См. Zhukova, V. Title. MA thesis."
 semantic_types:
   - type: Comparison
     subptypes:
@@ -48,3 +52,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Booster
+family:
+  - |
+    "Семья конструкций с интенсификаторами Verbs with intensifiers так, все"

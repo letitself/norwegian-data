@@ -19,23 +19,23 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Verb pattern
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Adj
-  - Light verb
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Verb
   - Praedic
-  - Simplex prep
-  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
+  - Pron
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
 structure_in_ud: |
     "Example structure in UD.
@@ -43,7 +43,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
       - type: Similarity
+family:
+  - |
+    "To be added"

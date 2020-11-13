@@ -19,9 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
   - Adj
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Adj
 syntactic_structure_of_anchor:
@@ -32,7 +32,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Property
 intonation:
   - ~
 usage_label: ~
@@ -42,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."
 semantic_types:
   - type: Assessment
     subptypes:
@@ -50,3 +53,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Diminisher
+family:
+  - |
+    "To be added"

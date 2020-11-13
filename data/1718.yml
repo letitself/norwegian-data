@@ -20,14 +20,14 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Biclausal
+syntactic_type_of_construction:
+  - Connection Construction
 syntactic_function_of_anchor:
-  - ~
+  - Conjunction
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Pron
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Spatial expression
     subptypes:
@@ -49,3 +52,6 @@ semantic_types:
       - type: Path
         subptypes:
           - type: Source
+family:
+  - |
+    ""

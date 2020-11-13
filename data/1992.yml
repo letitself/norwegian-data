@@ -20,14 +20,16 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Parenth
+syntactic_type_of_construction:
+  - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
-  - Matrix
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - VP
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Conj
 semantic_roles:
   - ~
 intonation:
@@ -39,8 +41,14 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subptypes:
       - type: Low degree of certainty
   - type: Source of information
+family:
+  - |
+    ""

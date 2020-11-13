@@ -19,17 +19,20 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NA
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - NP
+  - Double Negation
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
@@ -39,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -48,3 +54,6 @@ semantic_types:
   - type: Non-existence
     subptypes:
       - type: Unaffected small portion
+family:
+  - |
+    "Non-existense of action/activity, which is presented as not-affecting even the tiniest piece/portion of the object. Not a single small portion, two negation markers NE and NI"

@@ -1,7 +1,7 @@
 ---
 record: 823
-name: 'в среднем NumCrd NP-Gen'
-UD_name: 'в среднем NumCrd NP-Gen'
+name: 'Cl в среднем NumCrd NP-Gen'
+UD_name: 'Cl в среднем NumCrd NP-Gen'
 illustration: 'В среднем дорога до работы занимает у меня два часа.'
 cefr_level: A1
 definitions:
@@ -20,14 +20,15 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Adj
 semantic_roles:
   - ~
 intonation:
@@ -39,8 +40,14 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Degree of accuracy
     subptypes:
       - type: Approximate
   - type: Measure
+family:
+  - |
+    ""

@@ -20,14 +20,15 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Clause
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation
+  - Pron
 semantic_roles:
   - ~
 intonation:
@@ -39,6 +40,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Assessment
     subptypes:
@@ -50,3 +54,6 @@ semantic_types:
   - type: Salient property
     subptypes:
       - type: Characteristics through specification
+family:
+  - |
+    ""

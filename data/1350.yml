@@ -1,6 +1,6 @@
 ---
 record: 1350
-name: 'все время VP'
+name: 'всё время VP'
 UD_name: 'все время VP'
 illustration: 'Почему ты всё время жалуешься?'
 cefr_level: A1
@@ -20,15 +20,15 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - Adv
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - Noun
-  - Adj
+  - NP
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Pron
 semantic_roles:
   - ~
 intonation:
@@ -40,6 +40,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Phase of action
     subptypes:
@@ -47,3 +50,6 @@ semantic_types:
   - type: Temporal expression
     subptypes:
       - type: Time period
+family:
+  - |
+    ""

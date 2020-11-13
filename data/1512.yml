@@ -20,15 +20,17 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
+syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Predicate
 syntactic_structure_of_anchor:
   - Reduplication
+  - Negation
   - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
@@ -40,7 +42,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subptypes:
       - type: Low degree of certainty
+family:
+  - |
+    ""

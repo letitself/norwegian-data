@@ -19,19 +19,23 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Double Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Prep
+  - Pron
+  - Noun
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Assertive
 usage_label: Colloquial
 structure_in_ud: |
     "Example structure in UD.
@@ -39,6 +43,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -48,3 +55,6 @@ semantic_types:
   - type: Non-existence
     subptypes:
       - type: Unaffected small portion
+family:
+  - |
+    "Family of intensifying constructions refering to minimal portions"

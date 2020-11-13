@@ -19,17 +19,22 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - NP
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - NP
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Noun
 semantic_roles:
-  - ~
+  - Stimulus
+  - Goal
 intonation:
   - Assertive
 usage_label: ~
@@ -39,6 +44,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Causation
     subptypes:
@@ -51,3 +59,6 @@ semantic_types:
   - type: Temporal expression
     subptypes:
       - type: Proper time
+family:
+  - |
+    "To be added"

@@ -19,17 +19,22 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Adv
+  - VP
+  - Ipfv
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Adv
+  - Verb pattern
 syntactic_structure_of_anchor:
   - Adv
+  - Reduplication
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Conj
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -39,6 +44,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "См. Zhukova, V. Title. MA thesis."
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -46,3 +54,6 @@ semantic_types:
   - type: Phase of action
     subptypes:
       - type: Continuative
+family:
+  - |
+    "Семья конструкций с интенсификаторами Verbs with intensifiers так, все"

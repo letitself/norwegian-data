@@ -1,6 +1,6 @@
 ---
 record: 586
-name: 'VP (NP-Dat.Pl) по NP-Dat / по Num-Acc NP-Gen'
+name: 'VP (NP-Dat.Pl) по NP-Dat/по Num-Acc NP-Gen'
 UD_name: 'VP (NP-Dat.Plur) по NP-Dat / по Num-Acc NP-Gen'
 illustration: 'Я дал всем по яблоку и по две конфеты.'
 cefr_level: A1
@@ -20,14 +20,14 @@ examples:
     It can go over multiple lines."
 morphology:
   - ~
-syntactic_function_of_construction:
-  - ~
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Prep
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
@@ -39,7 +39,13 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Actionality
     subptypes:
       - type: Distributive
+family:
+  - |
+    ""

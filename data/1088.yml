@@ -19,17 +19,17 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Adv
+  - VP
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Adverbial Modifier
 syntactic_structure_of_anchor:
   - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Noun
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - ~
 usage_label: ~
@@ -39,6 +39,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Phase of action
     subptypes:
@@ -46,3 +49,6 @@ semantic_types:
   - type: Temporal expression
     subptypes:
       - type: Temporal boundary
+family:
+  - |
+    "Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")"

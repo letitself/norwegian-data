@@ -1,7 +1,7 @@
 ---
 record: 1189
-name: 'немного Adj-Cmp/Adv-Cmp'
-UD_name: 'немного Adj-Cmp/Adv-Cmp'
+name: 'немного/немножко XP'
+UD_name: 'немного/немножко XP'
 illustration: 'Эта задача немного сложнее предыдущей.'
 cefr_level: A1
 definitions:
@@ -19,10 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - Adj
-  - Adv
+  - NA
+syntactic_type_of_construction:
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Adj
   - Adv
@@ -32,7 +31,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Property
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -42,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    ""
 semantic_types:
   - type: Comparison
     subptypes:
@@ -49,3 +52,6 @@ semantic_types:
   - type: Degree of intensity
     subptypes:
       - type: Diminisher
+family:
+  - |
+    ""

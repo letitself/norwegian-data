@@ -19,19 +19,22 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
-syntactic_function_of_construction:
-  - ~
+  - Imper
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Predicate
 syntactic_structure_of_anchor:
   - ~
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 structure_in_ud: |
     "Example structure in UD.
@@ -39,6 +42,9 @@ structure_in_ud: |
 comment: |
     "Example comment.
     It can go over multiple lines."
+references:
+  - |
+    "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"
 semantic_types:
   - type: Causation
     subptypes:
@@ -46,3 +52,6 @@ semantic_types:
   - type: Prohibition
     subptypes:
       - type: Continuative prohibitive
+family:
+  - |
+    "Family of prohibitive constructions Strict causation to stop a strongly negative activity. 'Stop doing X'  imperatives"
