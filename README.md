@@ -13,7 +13,9 @@ $ python convert-db.py database-2020-11-13.csv
 
 ### Combined data file
 
-Generated using:
-```
-$ python combine.py > data-combined.yml
-```
+The individual YAML files are combined into one data on the
+["generated"](https://github.com/constructicon/russian-data/tree/generated)
+branch.
+
+This is done automatically upon each push or pull request towards the `master`
+branch.
