@@ -86,6 +86,9 @@ def write_record(row, record):
         f.write("comment: |\n")
         f.write('    "Example comment.\n')
         f.write('    It can go over multiple lines."\n')
+        f.write("references:\n")
+        f.write("  - |\n")
+        f.write('    "' + row["References"] + '"\n')
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":
@@ -100,6 +103,9 @@ def write_record(row, record):
                             f.write(f"          - type: {second.strip()}\n")
                         else:
                             f.write(f"      - type: {chunk.strip()}\n")
+        f.write("family:\n")
+        f.write("  - |\n")
+        f.write('    "' + row["Family"] + '"\n')
 
 
 if __name__ == "__main__":
