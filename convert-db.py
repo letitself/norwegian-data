@@ -9,6 +9,8 @@ def record_to_filename(record):
 def split_string(s):
     if s.strip() == "":
         return ["~"]
+    if "," in s:
+        return [w.strip() for w in s.split(",")]
     if ";" in s:
         return [w.strip() for w in s.split(";")]
     elif "/" in s:
@@ -61,8 +63,8 @@ def write_record(row, record):
         f.write('    It can go over multiple lines."\n')
         f.write("morphology:\n")
         f.write(print_as_yaml_list(row["Morphology"]))
-        f.write("syntactic_function_of_construction:\n")
-        f.write(print_as_yaml_list(row["Synt. function of construction"]))
+        f.write("syntactic_type_of_construction:\n")
+        f.write(print_as_yaml_list(row["Synt. type of construction"]))
         f.write("syntactic_function_of_anchor:\n")
         f.write(print_as_yaml_list(row["Synt. function of anchor"]))
         f.write("syntactic_structure_of_anchor:\n")
