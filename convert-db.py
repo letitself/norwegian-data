@@ -1,4 +1,5 @@
 import csv
+import sys
 
 
 def record_to_filename(record):
@@ -100,7 +101,7 @@ def write_record(row, record):
 
 
 if __name__ == "__main__":
-    with open("database-2020-10-12.csv", "r") as f:
+    with open(sys.argv[-1], "r") as f:
         reader = csv.DictReader(f)
         for row in reader:
             record = int(row["ID Number"])
