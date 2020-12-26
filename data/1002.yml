@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [некоторое состояние]State неожиданно сменилось на другое (примеры 1, 2, 3). Конструкция может также обозначать, что [объект]Theme исчез или переместился в другое место, поэтому кажется, что его больше нет (примеры 4, 5). Конструкция основана на сравнении: [объект]Theme исчез, и теперь создается впечатление, что его никогда не было.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Положите на веки на 7-8 минут кружочки свежего огурца. [Усталости]State как не бывало…'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Стоит Ире меня обнять ― [обиды]State как не бывало.'
+  - |
+       'Я зачерпнул ладонями воду и плеснул в лицо. [Сна]State как не бывало.'
+  - |
+       'Выходит, не прошли даром последние дни. Морщин вокруг глаз прибавилось, а [нескольких килограммов]Theme как не бывало.'
+  - |
+       'А [старых домов]Theme в центре как не бывало. На их месте теперь раскинулись готовые парки.'
 morphology:
   - NP
   - Gen
@@ -35,12 +35,6 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

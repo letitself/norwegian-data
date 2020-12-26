@@ -13,11 +13,15 @@ definitions:
        'Konstruksjonen understreker at [subjektet]Participant ikke har hatt tilgang til [noe]Theme over svært lang tid.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Август прошёл, а [мы]Participant всё без [воды]Theme и без [воды]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Шли недели, а [он]Participant так и сидел, всё без [денег]Theme и без [денег]Theme.'
+  - |
+       'Неужели не надоело быть [тебе]Participant одной, всё без [мужа]Theme и без [мужа]?'
+  - |
+       'Постоянно чувствую себя уставшей, всё без [сил]Theme и без [сил]Theme.'
+  - |
+       'Всё без [солнца]Theme и без [солнца]Theme  ― пасмурная погода третью неделю подряд.'
 morphology:
   - NP
   - Nom
@@ -41,11 +45,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod всё] [case без] NP-Gen [conj [cc и] [case без] NP-Gen]]; [root [cc а] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока]]'
 references:
   - |
     ""

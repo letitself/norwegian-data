@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что участник ситуации выполняет какое-либо [действие]Action, не используя [инструмент]Instrument, который обычно должен быть у него в руках. Вместо этого, [инструментом]Instrument становятся его руки. В метафорическом значении эта конструкция описывает [ситуацию задержания человека]Action, при которой отсутствие [оружия или специальных средств]Instrument предполагает проффессионализм или специальную подготовку участников.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Не [берите сухой лёд]Action голыми руками, используйте ложку или перчатки.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Она [клала в огонь куски угля]Action голыми руками.'
+  - |
+       'В этом озере столько рыбы, хоть голыми руками [лови]Action.'
+  - |
+       'Алексей Федорович ― человек самостоятельный и независимый, его голыми руками [не возьмешь]Action.'
+  - |
+       'Он умеет прятаться и маскироваться, так что его голыми руками [не взять].'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -34,12 +34,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

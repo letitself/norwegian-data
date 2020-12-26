@@ -7,17 +7,11 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает постепенное нарастание интенсивности действия: в каждый следующий момент времени [характеристика]Property действия становится более интенсивной, чем в предыдущий. Интенсивность действия передается с помощью повторения прилагательного или наречия.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Оказывается, он шёл всё [быстрее]Property и [быстрее]Property и ушёл так далеко, что пришлось его догонять.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Эта проблема всё [больше]Property и [больше]Property увлекала его.'
 morphology:
   - NP
   - Nom
@@ -41,11 +35,9 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [всё [advmod X-ее [conj [cc и] Adj-Cmp/Adv-Cmp]]]; [root [nsubj спортсмен] бежал [advmod всё] [advmod быстрее [conj [cc и] быстрее]]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию всё Adv-Cmp/Adj-Cmp (Шум становился всё сильнее.) In English, comparatives are used to form a similar construction, e.g. “X ran faster and faster”. I norsk brukes komparativer til å danne en lignende konstruksjon, f.eks. ‘X løp raskere og raskere’.'
 references:
   - |
     "См. Zhukova, V. Title. MA thesis."

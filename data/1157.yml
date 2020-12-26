@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Конструкция отличается экспрессивностью. Конструкция является негативно окрашенным синонимом слова "ничего". Выражает негативное отношение говорящего к действию, его результату или несогласие с собеседником или используется в качестве интенсификатора.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Что ты хочешь этим сказать?! Что я ни черта не [делала]Action?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'На самом деле я ни черта не [понимаю в современных дамских романах]Action.'
+  - |
+       'Те, кто кричит о гибели репертуарного театра и идеях Станиславского, ни черта в них не [понимают]Action.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,11 +32,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] VP; [obl [advmod ни] NP-Gen]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ни шагу не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает уверенность говорящего в том, что некоторый [объект]Theme или [участник]Participant по умолчанию обязательно должен быть вовлечён в некоторую ситуацию. С его точки зрения, ситуация не мыслится без этого объекта или участника. Говорящий не понимает, почему его собеседник сомневается, вовлечён ли этот объект или участник в ситуацию или нет.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '– Мы пригласим [дедушку]Theme? – А как же без [дедушки]Theme!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '– У нас есть культурная программа? – Как же без [культурной программы]Theme!'
+  - |
+       'А как же без [вечернего собрания]Theme]! Это наша традиция.'
+  - |
+       'К чаю у нас варенье, а как же без [сладкого]Theme!'
+  - |
+       '– Миша уже пришёл? – А как же без [него]Theme!'
 morphology:
   - NP
   - Gen
@@ -35,12 +35,6 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция понижает степень интенсивности [признака]Property или [действия]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Если честно, становится немного [страшно]Property, ведь это не просто факт, это в своём роде — тенденция.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Почему старый состав оркестра уехал в Испанию? Во-первых, немножко [устали от успеха]Action.'
+  - |
+       '― Мне нужно было приготовиться к тому, что время от времени зрители будут её ненавидеть, потому что она немножко [стерва]Property.'
+  - |
+       'На деле всё вышло немножко [по-другому]Property.'
+  - |
+       'Для меня, повара по специальности, компьютер всегда казался чем-то немного [волшебным]Property, странным, я боялась к нему подходить и даже пыль стирала аккуратно: не дай Бог, коснуться чего-нибудь не того.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,12 +36,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

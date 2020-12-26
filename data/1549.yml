@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [площадь]Quantity [объекта]Theme, измеренную в [стандартных единицах измерения площади, таких как квадратные метры, квадратные километры, гектары, акры и др.]Measure Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Посреди республики Чад лежит Унианга-Кебир -- [озеро]Theme площадью [20]Quantity [квадратных километров]Measure.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Все они проживали в [комнате]Theme площадью в [двадцать один]Quantity [квадратный метр]Measure.'
+  - |
+       'В начале 80-х на окраине Ростова был выделен [участок]Theme площадью [двадцать два]Quantity [гектара]Measure для строительства полиграфического мегаполиса под названием "Издательство Молот".'
+  - |
+       '[Здание]Theme общей площадью в [тридцать пять тысяч]Quantity [квадратных метров]Measure будет семиэтажным, в нём разместятся офисные помещения.'
+  - |
+       'Вскоре на курорте появится приют для бездомных собак и кошек, для него уже выбран [участок земли]Theme площадью в [один]Quantity [гектар]Measure в селе Барановка.'
 morphology:
   - NP
   - NumCrd
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

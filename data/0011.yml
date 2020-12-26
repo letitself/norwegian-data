@@ -5,19 +5,7 @@ UD_name: '(как) по мне, (так) Cl'
 illustration: 'Как по мне, это ещё не беда.'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -35,11 +23,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [obl [case по] мне], [advmod так] Cl]; [root [advmod как] [parataxis [case по] мне], [nsubj это] [advmod ещё] [advmod не] проблема]'
 references:
   - |
     ""

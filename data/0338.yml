@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen understreker at noe har [en kvalitativ egenskap]Evaluation som vurderes negativt.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Весь Саратов ― та еще [дыра]Evaluation, но ясно, что где-то близко к границе, а то она ни за что бы туда не сунулась.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Прикинь, Вова, я бы уж давно был миллионером, если б не Лидка. Та еще [транжира]Evaluation !'
+  - |
+       '― Чудовищная игра, что мы видели, ― та еще [затея]Evaluation !'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -36,11 +36,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [amod тот] [advmod ещё] NP-Nom]; [root [amod то] [advmod ещё] удовольствие]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию так называемый NP (так называемый образец)'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. Forthcoming. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

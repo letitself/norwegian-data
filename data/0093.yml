@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция усиливает разницу по некоторому [признаку]Property между двумя объектами, участниками, ситуациями или действиями в ходе их сравнения.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Кроме того, уезжать всегда гораздо [легче]Property, чем оставаться.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Оказывается, рассуждать публично на такие темы гораздо [труднее]Property, чем кажется.'
+  - |
+       'В реальной жизни я ношу не юбки, а джинсы, потому что это гораздо [удобнее]Property.'
 morphology:
   - Adj
   - Cmp
@@ -37,11 +33,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod гораздо] Adj-Cmp/Adv-Cmp]; [root [nsubj дом] [advmod гораздо] просторнее [nmod квартиры]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию значительно Adj-Cmp/Adv-Cmp (Ресторан значительно дороже кафе.)'
 references:
   - |
     "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."

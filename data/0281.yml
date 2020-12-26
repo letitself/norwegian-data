@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участнику]Experiencer приходится выполнить [действие]Action против своей воли, то есть несмотря на то, что ему этого совсем не хочется.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Волонтерская работа отнимала у Васи много времени, и [ему]Experiencer пришлось [бросить работу менеджера]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Алиса прямо на ходу повисла на нём, обхватила руками. [Ему]Experiencer пришлось [остановиться]Action.'
+  - |
+       'Придется [немного подождать]Action: эксклюзивная пара обуви будет доставлена только через месяц.'
+  - |
+       'Сейчас [нам]Experiencer придется [брать реальные кредиты]Action, чтобы гасить в первую очередь кредиторские задолженности.'
+  - |
+       '[Ей]Experiencer приходится [работать по 10-12 часов в сутки]Action.'
 morphology:
   - NP
   - Dat
@@ -38,11 +38,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root пришлось [nsubj VP-Inf]]; [root пришлось [nsubj выпить [obj лекарство]]]'
 references:
   - |
     ""

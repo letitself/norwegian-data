@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Participant намеренно [совершает некоторое действие]Action. Это действие не соответствует действию, мнению или желанию [другого участника]Maleficiary или [некоторым правилам]Theme.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Я]Participant [буду гулять]Action ночами, наперекор всем [запретам]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Идти]Action наперекор [общественному мнению]Theme способен далеко не каждый.'
+  - |
+       'Надо сказать, что при этом у меня совершенно не было намерений сознательно [поступать]Action наперекор [инструкциям]Theme директора, так сказать, «дразнить тигра».'
+  - |
+       '[Идти]Action наперекор [своим влечениям]Theme в специальное учебное заведение, лишь из желания несколько лучшей карьеры, было бы большой ошибкой.'
+  - |
+       'Но я очень боюсь, что мне придется [поступать]Action наперекор [себе]Maleficiary, своим ощущениям и принципам.'
 morphology:
   - VP
   - NP
@@ -38,12 +38,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию 1787 VP в пику NP-Dat (Открыли магазин здоровой еды в пику фастфуду).'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторому [объекту]Theme или [участнику]Participant присвоено [имя, фамилия, название, чин, звание и т. п.]Property'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'В этом отеле каждый [номер]Theme носит [имя композитора]Property.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Этот [переулок]Theme носил [имя Неждановой]Property.'
+  - |
+       '[Глава церкви]Participant носит [титул патриарха]Property.'
+  - |
+       '[Сергей]Participant носит [фамилию отца]Property.'
+  - |
+       '[Гертруда]Participant гордо носила [звание начальницы]Property.'
 morphology:
   - NP
   - Nom
@@ -39,11 +39,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root носить [obj NP-Acc [nmod NP-Gen]]; [root [nsubj она] носит [obj фамилию [nmod мужа]]'
 references:
   - |
     ""

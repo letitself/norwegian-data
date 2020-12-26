@@ -9,15 +9,17 @@ definitions:
        'Конструкция обозначает, что [участник ситуации]Participant или [объект]Theme не обладает достаточными качествами и недостаточно хорош, чтобы быть как [эталон]Standard. Конструкция основана на сравнении и содержит оценочную характеристику возможностей или качеств [участника]Participant или [объекта]Theme как значительно уступающих возможностям или качествам [того эталона, с которым они сравниваются]Standard.'
   - english: |
        'This construction means that a [participant]Participant or [an object]Theme lacks sufficient qualities and is not good enough in relation to a [standard]Standard.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Видите ли, дело в том, что [губернатору области]Participant ещё далеко до [президента]Standard.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Что бы фашисты ни делали с народами, как бы они ни были жестоки, [им]Participant далеко до [большевиков]Standard.'
+  - |
+       'Не говорю уж о Пушкине, в подлинном воздействии на умы [ему]Participant далеко до [Толстого]Standard или [Достоевского]Standard.'
+  - |
+       '[Этому проекту]Theme явно было далеко до [звания “лучшей в мире компании”.]Standard'
+  - |
+       'Это тоже весьма динамичный автомобиль, но по разгону [ему]Theme далеко до [RS 6]Strandard: и тяжелее лимузин, и моторы у него послабее, а стоит почти столько же.'
 morphology:
   - NP
   - Dat
@@ -38,11 +40,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [obl NP-Dat] далеко [obl [case до] NP-Gen]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'Ср. с похожей конструкцией 100 далеко до NP-Gen (Ещё было далеко до дома.)'
 references:
   - |
     ""

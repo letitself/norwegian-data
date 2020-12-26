@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального [кванта]Theme.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Я не [потратил]Action ни [копейки]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Он не [сделал]Action ни [одного домашнего задания]Theme за полгода.'
+  - |
+       'Он стал гениальным художником, не [имея]Action ни [капли таланта]Theme.'
+  - |
+       'Граждане, не [трогайте]Action ни [одного камня]Theme, охраняйте памятники, здания, старые вещи, документы ― всё это ваша история, ваша гордость.'
+  - |
+       'А вот в том, что Борис Абрамович уж точно просчитал все варианты, я не [сомневаюсь]Action ни [минуты]Theme.'
 morphology:
   - VP
   - NP
@@ -38,11 +38,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] VP [obl [advmod ни] NP-Gen]]; [root [nsubj он] [advmod не] сказал [obl [advmod ни] слова]] [obl [case за] [amod весь] вечер]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP'
 references:
   - |
     ""

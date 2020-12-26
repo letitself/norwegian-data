@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторый [объект]Theme, [компонент]Theme или [участник]Participant не присутствует или не участвует в [действии]Action или [ситуации]Situation. Этот объект или участник может быть конкретным или абстрактным. При этом ожидалось, что объект или участник будет присутствовать в этом действии или этой ситуации.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Капусту следует [тушить]Action без [крышки]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Дети в этой семье [росли]Action без [отца]Participant.'
+  - |
+       '[Его вопрос остался]Situation без [внимания]Theme.'
+  - |
+       'Соня [вошла в комнату]Action без [стука]Theme.'
+  - |
+       'Соль [растворилась в стакане]Action без [остатка]Theme.'
 morphology:
   - VP
   - NP
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

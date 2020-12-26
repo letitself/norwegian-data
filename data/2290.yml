@@ -5,19 +5,7 @@ UD_name: 'Что же это за N такой, (что/если) Cl'
 illustration: 'Что же это за друзья такие, если даже с днем рождения не поздравили!'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -33,12 +21,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

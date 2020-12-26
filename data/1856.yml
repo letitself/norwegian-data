@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию сложения [одного числа]Quantity с [другим]Quantity с указанием [результата]Result (суммы). Слот VP заполняется глагольными формами "равняется", "будет" или "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 2, 4, 5). Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа (примеры 1, 3).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Три]Quantity плюс [три]Quantity будет [шесть]Result. Ловко, не правда ли?!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Так, истина высказывания «[семь]Quantity плюс [три]Quantity равняется [десять]Result» есть истина без начала и конца.'
+  - |
+       '[Четыре]Quantity плюс [пять]Quantity ― получается опять же [девять]Result.'
+  - |
+       'Считать умеете? [Три]]Quantity плюс [семь]Quantity равно [десяти]Result.'
+  - |
+       'Еще по устному счету нет чтобы сложить [пять]Quantity плюс [семь]Quantity равняется [двенадцати]Result, ― он воображал столбик из пяти кубиков...'
 morphology:
   - NumCrd
   - Nom
@@ -37,12 +37,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию 2038 (если) к NumCrd-Dat прибавить NumCrd-Acc будет/получится/выйдет NumCrd-Nom (К четырём прибавить два будет шесть).'
 references:
   - |
     ""

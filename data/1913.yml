@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция указывает на то, что некоторое [действие]Action осуществляется порциями, затрагивая или охватывая поочередно [равные группы]Quantifier [объектов]Theme или [участников]Participant. Объекты или участники объединены в группы, где их некоторое [фиксированное количество]Quantifier. Количество объектов или участников в группе может быть очень большим (десятки, сотни, тысячи), поэтому они объединены в группы достаточно условно.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Люди [заказывают]Action [визитки]Theme [тысячами]Quantifier, и на каждой маленькая рекламка.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Из автомобилей [выходили]Action [люди]Participant - [парами]Quantifier, [тройками]Quantifier, [поодиночке]Quantifier.'
+  - |
+       'Нужно открыть еще десяток пилотских академий и параллельно [строить]Action [корабли]Theme ― [тысячами]Quantifier!'
+  - |
+       '[Слухи]Theme о странном доме и его обитателях [рождаются]Action [десятками]Quantifier.'
+  - |
+       'На стоянке корабля в Порт-Саиде офицеры [дюжинами]Quantifier [покупали]Action [белые кители]Theme.'
 morphology:
   - VP
   - NP
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

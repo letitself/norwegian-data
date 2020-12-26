@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [объём]Quantity [объекта]Theme, измеренный в [стандартных единицах измерения объема, таких как кубические метры, кубические сантиметры, литры, галлоны]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе. Конструкция может употребляться в переносном значении, когда объем измеряется другими единицами (количество денежных средств, размер компьютерной памяти, страницы книги и др.)'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'У Циолковского был проект [дирижабля]Theme объемом [58 миллионов]Quantity [кубических метров]Measure.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Возвращаясь домой, он каждый раз записывал беседу, из этих-то записей и получилась [книга]Theme объемом [более 200]Quantity [страниц]Measure.'
+  - |
+       'Этот [сегмент рынка косметики]Theme объемом [140 миллиардов]Quantity [рублей]Measure был близок к стагнации с 2010 года.'
+  - |
+       'Скачивание [файла]Theme объемом в [несколько]Quantity [мегабайт]Measure уже никого не смущает.'
+  - |
+       'Задать [вопрос]Theme можно будет только на русском языке и объемом [не более 70]Quantity [знаков]Measure.'
 morphology:
   - NP
   - NumCrd
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

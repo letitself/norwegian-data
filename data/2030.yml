@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что при подсчёте [количества чего-либо]Quantity исключается некоторая [часть]Element.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Автору идёт [восемь-десять процентов от стоимости экземпляра]Quantity, за вычетом [полученного ранее аванса]Element.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Он выполнил [весь свой план]Quantity за вычетом [двух пунктов]Element.'
+  - |
+       'Даже завычетом [суммы]Element, которую приходится платить за съёмное жильё, у них остаётся [достаточно денег]Quantity.'
+  - |
+       '[Доходы]Quantity за вычетом [обязательных платежей]Element называются реально располагаемыми.'
+  - |
+       'За вычетом [пачки «Мальборо» и коробочки «Тик-так»]Element у меня оставалось [немного мелочи]Quantity.'
 morphology:
   - NP
   - Gen
@@ -36,12 +36,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие синонимичные конструкции 1902, 2031, 2058.'
 references:
   - |
     ""

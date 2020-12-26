@@ -13,11 +13,15 @@ definitions:
        'Konstruksjonen brukes for å høre hva adressaten tenker om et [tema]Theme som har vært nevnt tidligere.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'А что насчёт [завтра]Theme, мы поедем на дачу?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Так что насчёт [нашего контракта]Theme?'
+  - |
+       'Что насчёт [фильма]Theme? Какой будем сегодня вечером смотреть.'
+  - |
+       'Мыслить то хорошо, а как насчёт [чтобы встать и сделать]Theme?'
+  - |
+       'Можно ли измерить счастье? А как насчёт [качества вашей жизни]Theme? Вы задумывались о том, от чего оно зависит?'
 morphology:
   - XP
   - Cl
@@ -37,11 +41,7 @@ intonation:
   - Interrogative
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [mark а] [mark что [fixed насчёт]] XP?]; [root [mark а] [mark что [fixed насчёт]] пятницы?] Какие у тебя планы?'
 references:
   - |
     ""

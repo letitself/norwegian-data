@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что говорящий угрожает, настоятельно советует участнику ситуации не говорить [другому участнику]Addressee ничего касательно [кого-либо]Theme или [чего-либо]Theme.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Но самое главное — [никому]Addressee ни слова о [нашей находке!]Theme!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Ни слова [своим друзьям]Addressee о [случившейся драке]Theme в школе!'
+  - |
+       'Ни слова [отцу]Addressee о [нашем споре]Theme!'
 morphology:
   - NP
   - Dat
@@ -40,11 +36,7 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod ни] слова [nmod NP-Dat] [nmod [case о] NP-Dat!]]; [root [advmod ни] слова [nmod маме] [nmod [case о] [amod нашей] поездке]]'
 references:
   - |
     ""

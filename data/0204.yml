@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что какая-либо ситуация, участник или объект на самом деле не имеет той [оценочной характеристики]Evaluation, которую ожидал или представлял себе говорящий.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Он не так уж и [добр]Evaluation, как все думали про него.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Слова на телевидении не так уж [важны]Evaluation.'
+  - |
+       'Всю жизнь считалось: что смешно ― то не так уж и  [страшно]Evaluation.'
 morphology:
   - NP
   - Nom
@@ -42,11 +38,9 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] [advmod так] [advmod уж] [advmod и] Adj-Short]; [root [advmod не] [advmod так] [advmod уж] [advmod и] страшно]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию NP-Nom Cop не так (уж и) Pred/Adj.Short/не так (уж и) Adv VP (Всё не так уж и плохо).'
 references:
   - |
     "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."

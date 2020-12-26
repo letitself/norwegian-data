@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [говорящий]Speaker предлагает [собеседнику]Addressee вместе совершить некоторое [действие]Action. Для совершения этого действия им нужно переместиться в другое место.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Может быть, пойдем [гулять на улицу]Action?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Пошли [спать]Action. Сейчас все равно ничего не сделаешь.'
+  - |
+       '― Пока географ не приехал, пошли [поедим]Action, я для вас кое-что вкусненькое приготовил.'
+  - |
+       'Пойдём [посмотрим]Action, кто это к нам приехал.'
+  - |
+       'Сколько можно возиться? Пошли [починим эту машину]Action.'
 morphology:
   - VP
   - Pfv
@@ -41,11 +41,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root пойти [xcomp VP]]; [root пошли [xcomp посмотрим [obj фильм]]]'
 references:
   - |
     ""

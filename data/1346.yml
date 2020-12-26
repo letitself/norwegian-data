@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation длится очень долгое время и актуальна до сих пор.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Соль в этих краях добывали]Situation еще с незапамятных времен.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Вообще-то лошади с незапамятных времен по праву [считаются животными-лекарями]Situation у многих народов мира.'
+  - |
+       'Образ их жизни с древних времен [практически не изменился]Situation.'
+  - |
+       'С древних времен [в школу гейш берут учениц в возрасте шести лет и шести месяцев]Situation.'
+  - |
+       'С древних времен [человек пытался раскрыть секреты Солнца]Situation.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -36,11 +36,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    'To be added'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции VP с (глубокой) древности (Люди с древности пользовались этим советом), VP с давних пор (С давних пор люди придавали цвету особое значение).'
 references:
   - |
     ""

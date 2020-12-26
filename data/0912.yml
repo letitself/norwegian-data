@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation длится очень долгое время и актуальна до сих пор.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― Вы всю жизнь [изучаете микроорганизмы]Situation, в том числе и самые опасные для человека.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Всю жизнь он [панически боялся поражений]Situation.'
+  - |
+       'Я всю жизнь [старался стричься как можно короче]Situation, чтобы не осталось даже намёка на "золотые кудри".'
+  - |
+       'Он всю жизнь [работал в Национальной лаборатории в Лос-Аламосе]Situation.'
+  - |
+       '"Я верил вам, а вы [мне лгали]Situation всю жизнь", ― как ветерок пронеслось в голове Корнилова.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -35,11 +35,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'To be added'
 references:
   - |
     ""

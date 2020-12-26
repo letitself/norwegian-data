@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что для [говорящего или участника]Experiencer какая-либо ситуация долго длилась и была неприятна.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― Может, ещё чего продашь? ― Нет, ― говорю, ― пока с  [тебя]Experiencer хватит.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Папа почему-то твердил, что с [него]Experiencer хватит и он уходит из семьи!'
+  - |
+       'С [него]Experiencer хватит. Он и так уже намучился.'
 morphology:
   - Gen
   - NP
@@ -35,11 +31,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [obl [case с] Pron-Gen] хватит]; [root [obl [case с] меня] хватит]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'см. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться)'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. Forthcoming. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

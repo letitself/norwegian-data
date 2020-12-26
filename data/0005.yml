@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что по мнению говорящего, [никому]Cognizer не известно об [обстоятельствах какой-либо ситуации]Content. Конструкция буквально сообщает, что эта информация известна только некоторому  [невероятному или недоступному участнику]Cognizer. Если [участник ситуации]Topic, описанной в клаузе, имеет женский род и/или стоит в форме множественного числа, то это можно отражать (заполнитель "её" или "их" в слоте PronPers-3) или не отражать (заполнитель "его" в слоте PronPers-3) в первой части конструкции. Ограничение на имя существительное: бог, чёрт, шут, пёс, бес, леший, дьявол, господь.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Чёрт]Cognizer [его]Topic знает, [что она вчера вечером делала в лаборатории]Content.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Бог]Cognizer [его]Topic знает, [где они сейчас]Content.'
+  - |
+       '― [Шут]Cognizer [его]Topic знает, [как оно получилось]Content. Всё считал ― есть сено в запасе, есть. Ещё с прошлого лета стог сена в лесу оставил.'
+  - |
+       '[Чёрт]Cognizer [ее]Topic знает, [что у нее там случилось со здоровьем]Content.'
+  - |
+       '[Бог]Cognizer [их]Topic знает, [зачем они приезжали ― по делам или так, погулять в столице]Content.'
 morphology:
   - Noun
   - Nom
@@ -38,11 +38,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [cc а] [nsubj NP-Nom] [advmod же] [obj его] знает, [advcl Cl]]; [root [nsubj кто] [obj его] знает, [xcomp [advmod почему] [nsubj она] [advmod так] поступила]]'
 references:
   - |
     ""

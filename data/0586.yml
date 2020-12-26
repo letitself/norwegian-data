@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция указывает на ситуацию [распределения]Action [объектов]Theme по нескольким [адресатам]Addressee. При этом говорящий уточняет, сколько [объектов]Theme получает каждый из [адресатов]Addressee. Это [количество]Quantity одинаково для всех из адресатов.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Сядем на вокзале обедать, и она требует самое дорогое и на чай [всем]Addressee [даёт]Action по [рублю]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Отец [передал]Action [сыновьям]Addressee в наследство по [дому]Theme.'
+  - |
+       '[Школьникам]Addressee [вручили]Action по [грамоте]Theme за участие в праздничном концерте.'
+  - |
+       '[Участницы конкурса красоты]Addressee [получили]Action по [номерку.]Theme'
+  - |
+       'Воспитатели [выдали]Action [детям]Addressee по [два]Quantity [полотенца]Theme ― маленькое и большое.'
 morphology:
   - VP
   - NP
@@ -43,11 +43,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nsubj NP-Nom] VP [obl [case по] NP-Dat]]; [root [nsubj я] дал [obl всем] [obl [case по] яблоку]]'
 references:
   - |
     ""

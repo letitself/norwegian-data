@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen betyr at noe, f.eks. жизнь в Саратове ‘livet i Saratov’, ifølge taleren har [en gitt egenskap]Evaluation, f.eks. быть скучной ‘være kjedelig’, i mindre grad enn hva kunne forventes.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Вообще жизнь в Саратове оказалась не такой уж и [скучной]Evaluation, как показалось ей поначалу.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Но это не такой уж и [долгий]Evaluation процесс.'
+  - |
+       'Не такая уж и [тяжёлая]Evaluation ноша – быть родителем.'
 morphology:
   - Adj
 syntactic_type_of_construction:
@@ -37,11 +37,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [amod [advmod не] такой] [advmod уж] [advmod и] Adj]; [root [amod [advmod не] такой] [advmod уж] [advmod и] страшный]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию не такой уж и Adj (Не такой уж и страшный)'
 references:
   - |
     "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."

@@ -9,15 +9,17 @@ definitions:
        'Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне.'
   - english: |
        'The construction is used when the speaker prompts the interlocutor to stop performing [some action]Action, as it seems to him inappropriate or inadequate (for example, not serious enough in a particular situation). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― А куда ж ты саму люстру дел? ― Бросьте [глупости спрашивать]Action! ― не выдержал Валентин.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Брось [вести такие разговоры]Action.'
+  - |
+       'Ребята, бросьте [врать]Action, мы и так знаем правду.'
+  - |
+       'Здесь ещё месяца на три, а то и больше, работы! ― Брось [шутить]Action, дядя, ― говорят они. ― Делов-то всего ― дом построить!'
+  - |
+       '― Бросьте [болтать чепуху]Action, господа, ― лениво проговорила женщина.'
 morphology:
   - Imp
   - VP
@@ -37,11 +39,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root бросить-Imper [xcomp VP-Imp.Inf]]; [root брось [xcomp спорить]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'см. конструкции кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать) Не путать с конструкциями кинуться/броситься/ринуться VP-Inf (Катя кинулась искать свой рюкзак), бросить VP-Inf (Бросил курить)'
 references:
   - |
     "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"

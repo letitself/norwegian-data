@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию деления [одного числа]Quantity на [другое]Quantity с указанием [результата]Result (частного). Слот VP заполняется глагольными формами "будет" и "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используется слово "равно". Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Итого ― три часа. А [три]Quantity разделить на [два]Quantity (путь туда и обратно) ― [полтора]Result. Не так уж далеко.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'О, я считать умею!.. Так, [4 000]Quantity делим на [12]Quantity… Хм, получается очень странная цифра ― [333, 33333]Result…'
+  - |
+       '[Двести девяносто восемь]Quantity разделить на [сорок пять]Quantity ―  [Шесть целых, шестьдесят две сотых]Result.'
+  - |
+       '[Пятьсот]Quantity на [три]Quantity разделить ― тем более поровну ― даже Густав не сможет.'
+  - |
+       'Если вы просто поделите [сто]Quantity на [двадцать четыре]Quantity, то получите примерно [четыре]Result.'
 morphology:
   - NumCrd
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

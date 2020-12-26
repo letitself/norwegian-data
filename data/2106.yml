@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [некоторое действие]Action нужно начинать с начала, заново, не имея предварительной подготовки, капитала, начальных ресурсов, которые могли бы облегчить процесс.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Для подготовки конференции каждый год нужно всё [начинать]Action с нуля: приглашать докладчиков, изыскивать возможности выпускать сборник.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Мне повезло в том, что немецкий язык я с нуля [учила]Action  в Германии.'
+  - |
+       'Значит, он потеряет все свои деньги и ему придётся опять с нуля [копить]Action на старость.'
+  - |
+       'Практически, он [выучился этой профессии]Action с нуля.'
+  - |
+       'Все пришлось [отстраивать]Action с нуля.'
 morphology:
   - VP
   - NP
@@ -36,12 +36,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

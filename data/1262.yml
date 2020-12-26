@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [некоторое действие]Action осуществляется в интересах [группы участников]Beneficiary, в ответ на их нужды и запросы. Как правило, эти нужды и запросы оцениваются говорящим как примитивные, а конструкция в целом имеет негативный оттенок.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Этот фильм ― типичный новодел, поверхностный и [сделанный]Action на потребу [невзыскательному зрителю]Beneficiary.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Все это стало результатом перехода от искусства к поточной культурной индустрии, [создающей стандартизированную продукцию]Action на потребу [капиталистическому рынку]Beneficiary.'
+  - |
+       'Неизвестно, почему в этот интеллигентский круг вдруг пригласили певицу, [работающую]Action на потребу [толпе]Beneficiary.'
+  - |
+       'Последняя газета, которую я регулярно читал, стремительно "желтеет": [публикует слезливые истории и дешевые сенсации]Action на потребу [обывателю]Beneficiary.'
+  - |
+       'Это [профанация]Action на потребу [публике]Beneficiary, которой только дай поглумиться над кем-то, сославшись на авторитет.'
 morphology:
   - NP
   - Dat
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Obsolete
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

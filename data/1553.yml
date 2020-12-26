@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [линейные параметры]Quantity [объекта]Theme или [действия]Action, измеренные в [стандартных единицах измерения длины, таких как километры, метры, мили, футы]Measure. Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта или действия]Theme стоит в аккузативе.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Озеро Восток]Theme ― вытянутое по форме, [имеет]Action в длину [290]Quantity [километров]Measure и в ширину [40]Quantity [километров]Measure.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Изюминкой храма является статуя святого Чан Во. Отлитая целиком из бронзы, [она]Theme весит более трех тонн и [имеет]Action [почти 4]Quantity [метра]Measure в высоту.'
+  - |
+       'Это [большое село]Theme, [семь]Quantity [километров]Measure в длину.'
+  - |
+       'Примерный минимальный [размер основной комнаты русской бани]Theme должен [составлять]Action [два]Quantity [метра]Measure в длину и [1,2]Quantity [метра]Measure в ширину.'
+  - |
+       'Я думаю я могу [прыгнуть]Action [два]Quantity [метра]Measure в длину.'
 morphology:
   - VP
   - NumCrd
@@ -40,12 +40,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'Эта конструкция похожа на конструкцию 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP-Gen (Велодорожка длиной шесть километров), но может описывать характеристики не только объекта, но и действия.'
 references:
   - |
     ""

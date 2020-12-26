@@ -5,19 +5,7 @@ UD_name: 'PronPers-Nom не мог бы VP-Perf.Inf?'
 illustration: 'Ты не мог бы передать соль?'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -33,12 +21,6 @@ semantic_roles:
 intonation:
   - Interrogative
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,15 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Agent долго и интенсивно совершает [действие]Activity, которое названо существительным, образованным от глагола. Повторение существительного передает длительность и интенсивность действия. На этом действии сосредоточено все внимание субъекта действия, оно заполняет все его время и мысли.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Июль и август без конца [работа и работа]Activity. Дел всех не переделать.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Но [Нина]Agent на них не реагирует. [Учеба, учеба и учеба]Activity. А потом [карьера, карьера и карьера]Activity.'
+  - |
+       'Это была наша последняя встреча перед каникулами, потом снова [занятия и занятия]Activity, [чтение и чтение]Activity.'
+  - |
+       '[Маша]Agent может музицировать, но не более двух часов, остальное ― [занятия и занятия]Activity.'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -36,11 +34,7 @@ intonation:
   - Assertive
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root Noun-Nom [conj [cc и] Noun-Nom]]; [root работа [conj [cc и] работа]]'
 references:
   - |
     ""

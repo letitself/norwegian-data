@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется в качестве ответа на вопрос собеседника. Говорящий не согласен с адресатом и сомневается в предложенном [варианте чего-либо]Theme. Конструкция характерна для разговорной речи и невысокого стиля, не употребляется в вежливом общении. На письме конструкция может сопровождаться как восклицательным знаком, так и вопросительным.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― У нас с тобой сегодня по плану шопинг! ― Какой, к чёрту, [шопинг]Theme , у меня голова болит, и вообще я устала.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Ну, подожди, сейчас перестройка. Может, уладится как-нибудь, все изменится. ― Какая, к чёрту, [перестройка]Theme ? Что может измениться?'
+  - |
+       'Район называется Центральный. Тут метро есть, можно на нем доехать. ― Какое, к чёрту, [метро]Theme, я на машине.'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -40,11 +36,7 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [amod какой], [advmod к чёрту], сон]!'
 references:
   - |
     ""

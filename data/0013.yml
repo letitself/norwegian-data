@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen uttrykker at noen er svært lik [en nær eller fjern slektning]Theme. Likhetstrekkene kan være knyttet både til personlighet og utseende. Når konstruksjonen brukes om dårlige likhetstrekk, har den en negativ konnotasjon, f.eks. посмотри на него, свинью, весь в своего отца ‘se på ham, det svinet, han er akkurat som faren’.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Брат так похож на неё лицом и характером. Весь в [маму]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В бабушку, вся в [бабушку]Theme, — говорил иногда старик, рассматривая внучку.'
+  - |
+       'Дочь вся в [папу]Theme пошла.'
 morphology:
   - NP
   - Acc
@@ -38,11 +38,7 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root (пойти) [acl весь [nmod [case в] NP-Acc]]]; [root [nsubj он] пошел [acl весь] [nmod [case в] отца]]'
 references:
   - |
     ""

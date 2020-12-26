@@ -5,19 +5,7 @@ UD_name: 'настанет/придёт время/пора/день/час, к�
 illustration: 'Настанет день, когда все мы будем счастливы.'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -37,12 +25,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

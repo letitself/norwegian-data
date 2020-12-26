@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что какое-либо [действие]Action продолжается долгое время и по-прежнему не заканчивается, несмотря на желание говорящего прекратить или остановить его.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Он никак не [мог закончить домашнее задание.]Action'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Дверь всё никак не [закрывалась.]Action'
+  - |
+       'А мысль крутится, крутится, никак не [останавливается.]Action'
+  - |
+       'Я изо всех сил вслушивался в её голос и всё никак не [мог вспомнить]Action, кому он принадлежит.'
+  - |
+       'Настя искала и все никак не [находила нужный документ]Action, пока из одной из папок не выпала красненькая книжка.'
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -34,11 +34,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod никак] [advmod не] VP-Imp]; [root [nsubj задача] [advmod всё] [advmod никак] [advmod не] решалась]'
 references:
   - |
     ""

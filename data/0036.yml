@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen uttrykker at det er mer av [noe]Property enn det som strengt tatt er nødvendig. En nært beslektet konstruksjon i norsk er “mer enn nok”.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Павел заплатил 100 рублей. Более чем [достаточно]Property.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Эта картина выглядит более чем [странно]Property.'
+  - |
+       'Российская сборная выступила более чем  [достойно]Property.'
 morphology:
   - Adv
   - Pred
@@ -35,11 +35,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [case более [fixed чем]] Adv]; [root [case более [fixed чем]] понятно]'
 references:
   - |
     ""

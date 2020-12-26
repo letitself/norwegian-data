@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется для выражения недоумения или непонимания говорящим логической связи между темой дискуссии и последним приведенным [аргументом]Theme.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Но при чём здесь [недостатки]Theme, когда речь идёт о собственных детях.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― А при чём тут [я]Theme, ― удивилась Ирина.'
+  - |
+       'Я спросил его, при чём здесь [приезжие гости]Theme, если они никакого отношения к сломанному столу не имеют.'
+  - |
+       '― Кредит, ― сказал он грозно, ― портит отношения. При чем здесь был [кредит]Theme, я не понял.'
+  - |
+       'А у нас даже третьей комнаты нет… Мама не поняла, при чем здесь [третья комната]Theme.'
 morphology:
   - Cop
   - NP
@@ -37,11 +37,7 @@ intonation:
   - Exclamatory
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [mark а] [case при] чём [advmod здесь|тут] [nsubj NP-Nom?]]; [root [case при] чём [advmod здесь] [nsubj [amod наши] отношения?]]'
 references:
   - |
     ""

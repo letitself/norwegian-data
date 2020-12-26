@@ -13,11 +13,15 @@ definitions:
        'Konstruksjonen brukes når taleren ønsker at samtalepartneren skal stoppe [handlingen]Action som foregår for tiden. Taleren evaluerer denne handlingen negativt, fordi den forårsaker ham ubehag eller tar for lang tid.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Я им говорю ― вы что, мужики. Хорош [слушать]Action этот концерт по радио!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Хорош [ссориться]Action! ― прервал девушек Илья. ― Неконструктивно.'
+  - |
+       '― Эй, Артем! Хорош [спать]Action! Ну-ка вставай давай! Ты уже семь часов кряду дрыхнешь… Вставай же, соня!'
+  - |
+       '― Хорош там [скакать]Action! ― крикнул Степан девочкам. Он сидел на корточках перед новой газовой плитой, читая руководство по эксплуатации.'
+  - |
+       '― Васька, хорош [тормозить]Action! ― крикнул Андрей. ― Открывай скорее двери!'
 morphology:
   - VP
   - Ipfv
@@ -36,11 +40,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root хорош [nsubj VP-Inf]]; [root хорош [nsubj прыгать]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'см. синонимичные конструкции хватит VP-Inf! (Хватит ругаться!), довольно VP-Inf! (довольно жаловаться). Не путать с конструкциями хороший-Short NP-Nom! (Хорош учёный!), NP-Nom хорош собой (Миша был удивительно хорош собой), NP хороший-Short/плохой-Short тем, что Adj/Cl (Чай хорош тем, что крепок), NP хороший-Short/плохой-Short NP-Ins (Эти места хороши своими лесами)'
 references:
   - |
     "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"

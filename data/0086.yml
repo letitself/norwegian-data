@@ -9,15 +9,17 @@ definitions:
        'Конструкция выражает продолжительное [действие]Action [участника]Participant, которое часто описывается на фоне других событий или по контрасту с другим событием.'
   - english: |
        'This construction expresses a continuous [action]Action that is carried out at the same time as other actions or events by the [participant]Participant.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Наталья]Participant рассказывала истории и всё [наливала]Action да [наливала]Action чай.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Старик переехал в наш район. С тех пор [ [он]Participant всё [строит]Action [строит]Action себе дом.'
+  - |
+       '― Вот [я]Participant вам всё [рассказываю]Action да [рассказываю]Action, ― спохватился Иван, ― а теперь, друзья, расскажите вы что-нибудь из своей жизни.'
+  - |
+       'Хотелось пить или отдохнуть в тени, но не было вокруг ни воды, ни деревьев, а [дорога]Participant всё [бежала]Action и [бежала]Action.'
+  - |
+       'Коротаев плюнул, выругался и пошёл к своей удочке. А [мы с Колей]Participant всё [пели]Action и [пели]Action.'
 morphology:
   - VP
   - Ipfv
@@ -39,11 +41,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod всё] VP-Imp [conj [cc да] VP-Imp]]; [root [nsubj мальчик] [advmod всё] шёл [conj [cc да] шёл]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'Семья континуативных конструкций с семантикой For a long time (непрерывность) - Verbs with intensifiers так, все'
 references:
   - |
     "См. Zhukova, V. Title. MA thesis."

@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция понижает степень интенсивности [признака]Property объекта или участника. Как правило, используется с прилагательными, обозначающими цвет. С другими прилагательными приобретает негативную коннотацию.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Да, он несколько [странноват]Property, но этим и необычен.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'У меня божественное меццо-сопрано, правда, диапазон [слабоват]Property для сольной карьеры.'
+  - |
+       'Каждая строка ― заглядение, а все вместе ― банально и [бледновато]Property.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -34,11 +30,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'To be added'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."

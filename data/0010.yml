@@ -5,19 +5,7 @@ UD_name: '(единственное) что (не) VP, так это (не) VP'
 illustration: 'Чего дочь не сделала, так это не убралась.'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -34,11 +22,7 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nmod единственное] [obj что] [nsubj NP-Nom] [advmod не] VP, [parataxis [advmod так] [pron это] Cl]]; [root [obj чего] [nsubj дочь] [advmod не] сделала, [parataxis [advmod так] [pron это] [advmod не] убралась]]'
 references:
   - |
     ""

@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию извлечения корня [определенной степени]Quantity из [некоторого числа]Quantity и определяет [результат вычисления]Result.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Корень [четвертой]Quantity степени из [шестнадцати]Quantity равен [двум]Result.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Kорень [девятой]Quantity степени из [нуля]Quantity равен [нулю]Result.'
+  - |
+       'Корень [шестой]Quantity степени из [шестидесяти четырех]Quantity равен [двум]Result.'
 morphology:
   - NumOrd
   - Gen
@@ -36,12 +32,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

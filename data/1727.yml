@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation имеет место в [группе людей]Set, объединенных по какому-то признаку. Как правило, эти люди находятся в близких (родственных, дружеских) отношениях.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Она заставила меня задуматься над этим вопросом и даже [поднять его]Situation в кругу [своей семьи]Set.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Здесь можно [не только вкусно и недорого поесть, но и отметить день рождения, сыграть свадьбу, просто посидеть, пообщаться]Situation в кругу [друзей]Set под приятную музыку.'
+  - |
+       'Многие ученые говорили мне, что просто не смогли бы работать без привычной чашки чая, [выпитой]Situation в кругу [коллег]Set.'
+  - |
+       'Сопровождает же фотографии подробное интервью и [невинные снимки политика]Situation в кругу [семьи]Set.'
+  - |
+       'И в полном отчаянии он решился на безумный шаг: прибыл к Шишлину на [домашний праздник]Situation в кругу [родных]Set, [близких]Set, [сотоварищей]Set и [земляков]Set.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что при подсчёте [количества]Quantity или принятии [решения]Result исключается некоторая [часть или фактор]Element. [Часть]Element, которую говорящий исключает, отличается от других [частей]Element по какому-либо признаку, а [фактор]Element важен, но препятствует принятию [решения]Result.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Вес]Quantity на коробке конфет [указан]Result без учёта [упаковки]Element.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В каждой команде по [15 игроков]Quantity без учёта [запасных]Element.'
+  - |
+       'Этот перевод [сделан]Result без учёта [контекста]Element.'
+  - |
+       'Стоимость поездки [500 евро]Quantity без учёта [перелёта]Element.'
+  - |
+       'Меню [было составлено]Result без учёта [индивидуальных предпочтений каждого гостя]Element.'
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -36,12 +36,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции 1902 - не считая (синоним), 2030 - за вычетом, 2058 - если не считать'
 references:
   - |
     ""

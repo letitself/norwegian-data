@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторое [действие]Action осуществляется так, что в нем отсутствует некоторый ожидаемый [компонент]Theme (например, эмоция, усилия и пр.), который как правило выражен абстрактным существительным. При этом говорящий акцентирует внимание на том, что этот [компонент]Theme никаким образом, абсолютно не участвует в ситуации.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Таня [уволилась с работы]Action без всякого [сожаления]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Вы [сможете найти на этой картинке тигра]Action без всякого [труда]Theme.'
+  - |
+       'Дима [явился в гости]Action без всякого [приглашения]Theme.'
+  - |
+       'Он [размышлял о смерти]Action без всякого [страха].'
+  - |
+       'Он [пел]Action без всякого [выражения]Theme, как будто думал в этот момент о чём-то другом.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

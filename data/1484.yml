@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает большое количество [объектов]Theme. Конструкция упоребляется в прямом и переносном смысле. В прямом значении, [объектами]Theme являются любые предметы, которые можно собирать кучей, например, одежда, сыпучие материалы (песок), мелкие предметы, камни и т.д. В переносном употреблении, [объектами]Theme могут являться дела, деньги, информация и др. [Объектами]Theme редко бывают жидкости и эмоции. Объекты могут быть как исчисляемыми (дела, бумаги), так и неисчисляемыми (деньги, время).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'По сравнению с нами у тебя просто куча [времени]Theme!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'У меня куча [дел]Theme, я и так ничего не успеваю, домой прихожу за полночь.'
+  - |
+       'Я мог бы, наверно, заработать кучу [денег]Theme, играя на бирже.'
+  - |
+       'И выложил на стол целую кучу [барахла]Theme.'
+  - |
+       'Портфель открылся, и я нашёл в нём целую кучу [бумаг]Theme.'
 morphology:
   - NP
   - Gen
@@ -35,11 +35,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root куча [nmod NP-Gen.Plur]]; [root куча [nmod дел]]'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

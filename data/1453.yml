@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'При этом ритуал знакомства с женихом ни на йоту не [пострадал]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Меня ни на йоту не [заинтриговали]Action бы подобные приключения.'
+  - |
+       'Мы обещаем вам ни на йоту не [вмешиваться в ваши дела]Action.'
+  - |
+       'Температура воды в чайнике ни на йоту не [превысит 100° C]Action, пока вся она не выкипит.'
+  - |
+       'Ни на йоту не [отступаем от правил]Action даже в ходе элементарной проверки документов.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -37,11 +37,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    'To be added'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ничуть не VP, нисколько не VP, ни на грамм не VP'
 references:
   - |
     ""

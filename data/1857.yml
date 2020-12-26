@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами "будет" и "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используется слово "равно" (пример 1). Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа (пример 3, 4).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Двадцать]Quantity минус [три]Quantity равно [семнадцати]Result.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Я лихорадочно подсчитывал в уме: Ирина зарабатывает $650 в месяц; квартира с газом и светом будет стоить $ 425, значит, получится [650]Quantity минус [425]Quantity ― [около 200]Result долларов нам на проживание в месяц.'
+  - |
+       '[Двадцать восемь]Quantity минус [девять]Quantity ― это будет… Это будет [девятнадцать]Result лет.'
+  - |
+       'Если ты настоящий русский художник, то ты по определению пьяница! Это так же верно, как [ноль]Quantity минус [четыре]Quantity будет опять же [ноль]Result.'
+  - |
+       'А [сорок шесть]Quantity минус [девять]Quantity ― [тридцать семь]Result.'
 morphology:
   - NumCrd
   - Nom
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

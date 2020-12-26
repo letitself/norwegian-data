@@ -9,15 +9,13 @@ definitions:
        'Конструкция используется для того, чтобы напомнить адресату о [каком-либо факте]Theme, который он должен принять во внимание. Этот факт известен всем участникам беседы.'
   - english: |
        'This construction is used to remind the addressee of some [fact]Theme, which they should take into consideration. This fact is known to all participants in the conversation.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Иван поднял голову и спросил: ― А как же [я]Theme? ― Ты будешь жить с женой и воспитывать сына, ― ответила Ирина.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Всё, ― объявил водитель, ― дальше не поеду. ― Как же [деньги]Theme? Я заплатил за билет!'
+  - |
+       'В нашем городе ему предложили хорошую работу, поэтому он недолго думая сорвался с насиженного места и уехал. ― А как же  [жена и дети]Theme? ― поинтересовалась Маша.'
 morphology:
   - NP
   - Nom
@@ -37,11 +35,7 @@ intonation:
   - Interrogative
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root как [advmod же] [nsubj NP-Nom]]; [root [cc а] как [advmod же] [nsubj NP-Nom]]'
 references:
   - |
     ""

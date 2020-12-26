@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция означает, что говорящий спрашивает разрешения у собеседника на совершение некоторого [действия]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Если позволишь, я ещё [немного поразмышляю по-русски]Action, ладно?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― [Я к вам лучше завтра]Action, если позволите.'
+  - |
+       'Однако, если позволите, Александр Львович, сначала у меня к вам [вопрос]Action.'
+  - |
+       '― [Очень дерзкий вопрос]Action, ― тихо сказал Кисан. ― Если позволишь, великий князь. ― Спрашивай. ― Сколько лет твоей супруге, великой княгине Ольге, да продлят боги жизнь ее на этойземле?'
+  - |
+       '― Если позволишь, отец Макарий, я [начну разговор]Action, которого ждет гость.'
 morphology:
   - Fut
   - Cl
@@ -35,12 +35,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Obsolete
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

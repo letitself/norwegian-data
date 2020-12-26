@@ -7,17 +7,15 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция понижает степень интенсивности [признака]Property или [действия]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Надо сказать, пока зарубежные банки не очень-то [охотно]Property приходили в нашу страну.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Он был не слишком-то [дружелюбен и добр]Property к людям ― как и раньше.'
+  - |
+       'Подобная душевная хрупкость не слишком-то [сочеталась]Action с юмором.'
+  - |
+       'Диалог получился не слишком [изящный]Property, но содержательный.'
 morphology:
   - XP
 syntactic_type_of_construction:
@@ -37,12 +35,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'XP может быть заполнено VP (не очень торопился), Adj/Adv (не очень красивый/красиво), NP (не очень-то он и молодец). См. близкие конструкции не сильно XP; немного/немножко XP'
 references:
   - |
     ""

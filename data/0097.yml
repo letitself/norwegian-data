@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает просьбу [говорящего]Speaker к [собеседнику]Addressee не прерывать [действие]Activity, которое выполняет говорящий (примеры 1, 2, 3) или другой участник (пример 4). Также может обозначать рекомендацию не прерывать некоторый естественный процесс, происходящий с [объектом]Theme (пример 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Сейчас лучше зажмуриться и притвориться, что лежишь без сознания, чтобы ничего не видеть, не знать и не говорить. Уйдите и дайте [поспать]Activity.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Отстань от меня, ради бога, дай [ты]Addressee [мне]Speaker [отдохнуть]Activity.'
+  - |
+       '― Ну? ― Да дай [ты]Addressee [мне]Speaker [раздеться]Action! ― сказал он, отпихивая меня в сторону и разматывая шарф.'
+  - |
+       '—  Дай [ты]Addressee [ей]Participant [сказать]Action! Не перебивай! — с раздражением выкрикнул председатель райпотребсоюза.'
+  - |
+       'Вскипятите молоко с кокосовой стружкой и дайте [ему]Theme [постоять в течение часа]Activity.'
 morphology:
   - Imp
   - NP
@@ -43,11 +43,7 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root давать-Imper [xcomp VP-Inf]]; [root дай [xcomp доделать]]'
 references:
   - |
     ""

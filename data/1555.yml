@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция указывает на [стоимость]Quantity определённого [фиксированного количества]Quantifier [товара]Theme.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Особым успехом пользовались [пирожные]Theme по [три]Quantity [рубля]Measure [штука]Quantifier.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В палатке продавались [сигареты]Theme по [300]Quantity [рублей]Measure [пачка]Quantifier.'
+  - |
+       'Филипп привез палку [колбасы]Theme, [триста]Quantity [рублей]Measure [килограмм]Quantifier.'
+  - |
+       'Зинка покупала в поселке [редиску]Theme по [двадцать]Quantity [копеек]Measure [пучок]Quantifier, а потом перепродавала по сорок.'
+  - |
+       'Евгений привык заказывать в ресторане [вино]Theme по [четыре тысячи]Quantity [рублей]Measure [бутылка]Quantifier.'
 morphology:
   - NP
   - NumCrd
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

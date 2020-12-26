@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [некоторому объекту или периоду в истории]Theme присвоено [какое-либо название]Property. Конструкция также может обозначать, что [имя человека]Property заменено на [другое]Property.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Художница Лидия Леонтьева на страницах дневника [упоминается]Action под именем [Дамы Луны]Naming.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Вы открыли новый этап, который в историю нашей революции [войдёт]Action под именем [«эпохи террора»]Naming.'
+  - |
+       'В восточных версиях эта история [фигурирует]Action под именем [Истории мудреца Синдбада]Naming.'
+  - |
+       'Это был старинный напев о жизни Будды, причем жизнь Учителя [была представлена]Action под именем [жизни Иосафа]Naming.'
+  - |
+       '«Легендарный Икар не умер; он воскресает в разные века под разными именами, и в наше время он [возродился]Action под именем [Германа Гансвиндта] Naming.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

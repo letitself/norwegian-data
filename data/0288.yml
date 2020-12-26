@@ -13,11 +13,15 @@ definitions:
        'Konstruksjonen uttrykker at [gjenstand A]Theme har samme dimensjoner som [gjenstand B]Property.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Иное дело лет через двадцать, когда возможности сегодняшнего персонального компьютера сосредоточатся в [устройстве]Theme размером с [мобильный телефон]Property.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Учёные держат в руках [атомы]Theme величиной с [арбуз]Property.'
+  - |
+       'Тут же внесли [торт]Theme размером с [круглый обеденный стол]Property.'
+  - |
+       'Коала ― [маленький медвежонок]Theme, величиной с [подушку]Property, не больше.'
+  - |
+       'Предположим, что [планета]Theme размером с [Юпитер]Property сформировалась где-то далеко от звезды.'
 morphology:
   - NP (размером
   - величиной) с NP-Acc
@@ -36,11 +40,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root размером|величиной [nmod [case с] NP-Acc]]; [root [nsubj собака] [cop была] размером [nmod [case с] лошадь]]'
 references:
   - |
     ""

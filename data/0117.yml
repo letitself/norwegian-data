@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen uttrykker at [noe]Theme forandrer situasjonen eller samtalen på en slik måte at taleren kan forholde seg til den på en annen måte.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Ну вот, теперь совсем другое [дело]Theme. Молодец, что согласился поехать с нами.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Вот это уж другой [разговор]Theme ! ― согласился Яша.'
+  - |
+       'Я не люблю картины, а вот скульптуры — другой [разговор]Theme.'
 morphology:
   - NP
   - Nom
@@ -37,11 +37,7 @@ intonation:
   - Exclamatory
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [amod другой] NP-Nom]; [root [nsubj это] [amod другое] дело]'
 references:
   - |
     ""

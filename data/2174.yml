@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает, что у [участника]Participant в ситуации [похода в гости]Action нет [подарка]Theme, который он должен передать [другому участнику]Addressee или получить от [него]Source в соответствии с правилами этикета. Также конструкция часто описывает ситуацию, когда [участник]Participant [возвращается]Action после некоторой деятельности без [объекта]Theme, который он пытался получить в процессе этой деятельности.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Всем [гостям]Addressee [она]Source дарила [цветы из своего сада]Theme – никто не [уезжал]Action с пустыми руками.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Как это возможно – четыре года не видеть [дочь]Addressee и [приехать]Action с пустыми руками!'
+  - |
+       '[Егору]Participant было очень обидно [возвращаться с охоты домой]Action с пустыми руками.'
+  - |
+       'Неприлично [являться на свадьбу]Action с пустыми руками.'
+  - |
+       'Как обычно, [я]Participant [вернулась из поездки]Action не с пустыми руками.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -41,12 +41,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция означает, что говорящий просит разрешения на некоторое [действие]Action, спрашивая об отношении собеседника или другого участника к этому действию.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Ты не против, если я [буду присутствовать]Action при разговоре?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Мы тут решили, что имя «Анатолий Генрихович» вам не подходит. Вы не против, если мы [будем звать вас Альберт]Action?'
+  - |
+       '– Мы ничего взять с собой не можем… – сказала жена, – а деньги нужны. Ты не будешь против, если я [продам инструмент]Action?'
+  - |
+       '– Вы не будете против, если я сейчас [пойду посплю]Action? – Да иди! Мне-то что!'
+  - |
+       '– А твой брат не будет против, если я [надену его рубашку]Action? – Нет, – я покачала головой. – Надевай её и пойдём.'
 morphology:
   - NP
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

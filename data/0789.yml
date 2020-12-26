@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee (примеры 1, 2, 3). Конструкция может также указывать на [участника или объект]Topic, о котором высказывается [определенное суждение]Evaluation (в этом употреблении слова "в отношении" синонимичны словам "относительно", "насчет") (примеры 4, 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'В отношении [родителей]Addressee запрещается [проявлять даже малейшую грубость или недовольство]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Никаких кадровых [решений]Action в отношении [Кудрина]Àddressee не последует.'
+  - |
+       'Собственно, после истории с Крымом и начались [санкции]Action в отношении [России]Addressee.'
+  - |
+       '[Ошибся]Evaluation Крымов и в отношении своего [собеседника Боголеева]Participant.'
+  - |
+       'Наличие жилья является одной из основных причин возвращения иногородних студентов на родину, несмотря на [отсутствие перспектив]Evaluation в отношении [работы и заработной платы]Theme.'
 morphology:
   - NP
   - VP
@@ -38,12 +38,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию 687 (а) насчёт NP-Gen – Cl (А насчет папы – он уехал на рыбалку).'
 references:
   - |
     ""

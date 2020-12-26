@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [некоторый объект]Theme или [участник]Participant [изменился]Action полностью, очень сильно.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'За последние четверть века [жизнь]Theme успела [измениться]Action до неузнаваемости.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В этом склепе такая акустика, что все [голоса]Theme [искажаются]Action до неузнаваемости.'
+  - |
+       'Он либо сам придумал другой текст, либо [исказил]Action мой [текст]Theme до неузнаваемости.'
+  - |
+       'Усы [меняют]Action [человека]Participant до неузнаваемости.'
+  - |
+       'Так в царском меню появилось новое [название блюда]Theme, которое, выйдя за пределы дворца, [упростилось]Action  до неузнаваемости.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -36,12 +36,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

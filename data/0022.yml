@@ -9,15 +9,17 @@ definitions:
        'Конструкция подчеркивает избыточность некоторого [объекта]Theme, которым располагает [участник]Participant. Количество объекта намного больше, чем необходимо. Упоминание самого [участника]Participant опционально. Конструкция используется в неформальном общении.'
   - english: |
        'This construction is used to emphasise the excess of an [object]Theme that the [participant]Participant has. The amount of the object is much larger than necessary. Mentioning the [participant]Participant is optional.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Нам]Participant [эту картошку]Theme девать некуда.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Начальству]Participant просто [деньги]Theme девать некуда.'
+  - |
+       '[Тебе]Participant что, [время]Theme девать некуда?'
+  - |
+       '― Попробуй, ― с улыбкой согласилась Мария, ― если [силы]Theme девать некуда.'
+  - |
+       'Своих [учителей]Theme девать некуда, голубчик… ― вздохнул директор, даже не интересуясь дипломом.'
 morphology:
   - NP
   - Dat
@@ -37,11 +39,7 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [obl NP-Dat] [obj NP-Acc] девать [advmod некуда]]; [root [obl нам] [advmod уже] [obj еду] девать [advmod некуда]]'
 references:
   - |
     ""

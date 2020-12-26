@@ -7,17 +7,15 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает ослабленное или неполное [действие]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Через месяц, когда я уже, признаться, успел [подзабыть]Action о неудачном эксперименте, он вдруг позвонил мне.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Отличная фотография, просто цвет [подправить]Action.'
+  - |
+       'Любители сладкой овсянки могут [подсластить]Action уже готовую кашу, кроме сахара, изюмом, кусочками абрикосов или бананов.'
+  - |
+       'Если люстра [поднадоела]Action, то подвесной потолок с точечными светильниками ― это как раз для вас.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -34,11 +32,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'To be added'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."

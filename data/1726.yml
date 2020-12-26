@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation имеет место в [группе людей]Set, объединенных по какому-то признаку. Как правило, эти люди относятся к одной профессии или привержены какой-либо идеологии.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'И в среде [интеллигенции]Set] [интерес к русской литературе, музыке как был, так и остаётся достаточно большим]Situation.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Действительно, не каждый день [пишут дипломы о сексуальных отношениях]Situation в среде [людей]Set, лишённых зрения и слуха.'
+  - |
+       'В среде [автомобилистов]Set [имя Kaercher стало нарицательным и ассоциируется с автомоечной станцией]Situation.'
+  - |
+       'В среде [русского крестьянства]Set, наоборот, [чем богаче семья, тем она многочисленнее]Situation.'
+  - |
+       'Даже в среде [членов социал-демократического съезда]Set [такая постановка вопроса вызвала оппозицию]Situation.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation длится неизменным образом очень долгое время и актуальна до сих пор.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Испокон веков [местные жители собирали в лесах грибы]Situation.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Испокон веков [рыжий цвет волос считался признаком боевого духа и бесстрашия]Situation.'
+  - |
+       'Они наверняка удивятся, если им сказать, что [кукуруза не возделывалась нашими предками на этой земле]Situation испокон веков.'
+  - |
+       'Испокон веков, наблюдая за птицами, [люди восхищались их привязанностью к своему гнезду, речке, озеру]Situation.'
+  - |
+       'Речь идёт о [лекарственных травах, которыми лечились]Situation испокон веков.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -34,11 +34,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'To be added'
 references:
   - |
     ""

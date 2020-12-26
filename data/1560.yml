@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся на [небольшом расстоянии]Distance от [места или объекта-ориентира]Landmark. Реальное расстояние длиннее, но конструкция подчеркивает, что дистанция очень мала и ее можно легко и быстро преодолеть. Синонимами являются слова "близко", "рядом". Чаще всего используются числительные "двух", "трёх", "пяти", "нескольких".'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[В двух шагах]Distance от [киоска]Landmark была [рюмочная]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Зато [в двух шагах]Distance [отсюда]Landmark, на шоссе, [имеется ремонт автомобилей]Situation, каждый день мимо их вывески езжу.'
+  - |
+       '[В трех шагах]Distance от [меня]Landmark [Муська и её помощница замерли на месте]Situation.'
+  - |
+       'Как это понимать? [Дом]Theme рядом, [в двух шагах]Distance, [квартира]Theme тоже.'
+  - |
+       'За окном грянули предупредительные гудки: электричка отъезжала от платформы. [Железная дорога]Theme была тут [в двух шагах]Distance.'
 morphology:
   - Cl
   - NumCrd
@@ -41,12 +41,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

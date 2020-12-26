@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Используется в прямом значении с глаголами пить/выпить, проглотить, сделать.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Как полагается, я не ел ни крошки и не [пил]Action ни глотка до самой ночи.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Он потянулся было за чайником, но вспомнил, что еще не [сделал]Action ни глотка из своей полной чашки.'
+  - |
+       '― Я не [дам]Action вам больше ни глотка.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,11 +32,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] VP; [obl [advmod ни] NP-Gen]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни крошки не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, каким образом с помощью [внешней части тела]Location (носки, колени, локти и пр.) участника производится [действие]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Он [лежал]Action [на спине]Location и глядел в небо.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Горбунов, ― говорил он, подходя к нам и [раскачиваясь]Action на  [носочках]Location.'
+  - |
+       'Помощник [стоял]Action на [коленях]Location.'
+  - |
+       'Алексей Тихонович [приподнялся]Action на [локте]Location, жадно глядя на дорогу.'
+  - |
+       '― Не-а, ― возразила девочка, которая [сидела]Action на [коленках]Location лицом в живот, как свернувшийся ёжик.'
 morphology:
   - VP
   - NP
@@ -36,12 +36,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

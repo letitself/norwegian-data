@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что человек совершает некоторое [действие]Action, используя не свое настоящее имя, а [вымышленное]Property. Чаще всего деятельность человека связана с искусством, прежде всего с литературным творчеством.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Никакая же не новость, что она [печатается]Action под псевдонимом. Анжела Анцуп гораздо звучнее, чем Евгения Ильинична Анциферова.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Автор второй книги [скрылся]Action под псевдонимом [Митин]Theme.'
+  - |
+       'Однажды Ильфа и Петрова спросили, приходилось ли им [писать]Action под псевдонимом.'
+  - |
+       'Потом появились Марчес и одна из дам, [работавшая]Action под псевдонимом [Клео Доротти]Theme.'
+  - |
+       'Английский разведчик, [скрывающийся]Action под псевдонимом [Кристофер Крейтон]Theme, продал известному британскому издательству  рукопись книги.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

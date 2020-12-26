@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Используется в прямом значении с глаголами тратить/потратить, заплатить, получить, заработать, дать/давать, брать/взять и др.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Утром-то я поел хлеба с солью и запил его сладким чаем, а теперь был уже пятый час, и есть хотелось ужасно. Только денег ни копейки не [осталось]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Опомнившись, она заявила: ― Ни копейки не [получите]Action! И в доказательство разорвала договор на мелкие клочки.'
+  - |
+       'Могу сказать только одно, я ни копейки не [платила]Action и не собираюсь платить.'
+  - |
+       'Я сказала, что ни копейки не [потрачу]Action на ремонт и покупки в дом.'
+  - |
+       'Из этих денег нам ни копейки не [достается]Action, все забирают.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,11 +36,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] VP; [obl [advmod ни] NP-Gen]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни крошки не VP, ни глотка не VP, не VP ни NP-Gen'
 references:
   - |
     ""

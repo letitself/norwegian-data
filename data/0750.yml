@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся на небольшом [расстоянии]Distance от [заданной точки]Landmark, являющейся ориентиром. Это расстояние равно длине нескольких кварталов или домов, стоящих в ряд.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'В [двух кварталах]Distance [отсюда]Landmark находится [магазин «Охотник»]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Невдалеке, в [двух домах]Distance от [нее]Landmark, [мерцала красно-голубая реклама видеопроката]Situation.'
+  - |
+       'Вдали, в [нескольких кварталах]Distance от [меня]Landmark, появилась [высокая женская фигура в белых одеждах]Participant.'
+  - |
+       'Какая мне разница, Красностуденческий это проезд или Мясницкая, если в Ленинграде [я жил]Situation в [трех домах]Distance от [Невского]Landmark, а в школу ходил по Итальянской?'
+  - |
+       '[Они со Славиком живут]Situation в [трех кварталах]Distance, на Греческом.'
 morphology:
   - Cl
   - NumCrd
@@ -42,12 +42,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

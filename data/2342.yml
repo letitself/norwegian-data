@@ -9,15 +9,17 @@ definitions:
        'Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне.'
   - english: |
        'The construction is used when the speaker prompts the interlocutor to stop performing [some action]Action, as it seems to him inappropriate or inadequate (for example, not serious enough in a particular situation). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'И кончай [жрать в таких количествах]Action, скоро в дверь пролезать не будешь.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Может, портвейн ― это как раз самое главное… ― Кончай, ― говорю, ― [философствовать]Action. В поселок я тебя не отпущу.'
+  - |
+       'Кончай [реветь]Action, бери котенка и уноси. ― Я не реву, ― сказала Даша, вытирая слезы.'
+  - |
+       'Кончайте [ныть]Action! Надоело уже это.'
+  - |
+       'Эдди, включай проигрыватель, ты, Лулу, приглуши свет, а вы все кончайте [болтать]Action.'
 morphology:
   - Imp
   - VP
@@ -37,11 +39,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root кончать-Imper [xcomp VP-Imp.Inf]]; [root кончайте [xcomp паниковать]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'см. конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать)'
 references:
   - |
     "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"

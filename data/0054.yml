@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Agent, который имеет более высокий статус, приказывает другому [участнику]Participant совершить (примеры 1, 2, 3, 4) или не совершать (пример 5) некоторое [действие]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Полицейские]Agent велели [им]Addressee [остановиться]Action, однако подростки не отреагировали на это требование и попытались скрыться.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Наши [экологи]Agent велели [вырубить девятнадцать больных деревьев]Action.'
+  - |
+       '[Касымов]Agent остановился, потом велел [водителю]Addressee [идти к машине]Action и [ждать там]Action.'
+  - |
+       'Нам хотелось схватить щенка в охапку и бежать с ним поскорее до самого нашего дома. Но нас усадили и велели [слушать]Action.'
+  - |
+       '[Он]Agent запер их в пещере и велел не [шевелиться]Action.'
 morphology:
   - NP
   - Nom
@@ -40,11 +40,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root велеть [obl NP-Dat] [xcomp VP-Inf]]; [root [nsubj мать] велела [obl сыну] [xcomp учиться]]'
 references:
   - |
     ""

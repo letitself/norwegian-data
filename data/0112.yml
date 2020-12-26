@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется для выражения удивления говорящим по поводу [какой-либо особенности]Evaluation [участника или объекта]Participant.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Только когда Иван заговорил про еду, Артем вдруг ощутил, до чего [он]Participant был [голоден]Evaluation.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Ну ладно, маленький ты мой, ну до чего  [ты]Participant [смешной]Evaluation, до чего мальчик!'
+  - |
+       'И до чего [старуха]Participant  [докучливая]Evaluation !'
 morphology:
   - Adj
   - Nom
@@ -40,11 +36,7 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nmod [case до] чего] [nsubj NP-Nom] Adj-Nom; [root [nmod [case до] чего] [nsubj ты] злой]'
 references:
   - |
     "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."

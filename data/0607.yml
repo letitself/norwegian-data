@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию умножения [одного числа]Quantity на [другое]Quantity с указанием [результата]Result (произведения). Слот VP заполняется глагольными формами "будет" и "получится".'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Пять]Quantity на [пять]Quantity ― [двадцать пять]Result.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Что не обидит ― это ясно, только ведь у меня своя работа: транспортеры, поилки там, кормораздатчики, вакуумная установка на мне. А тут стаканы на соски надевай; [сорок]Quantity помножить на [четыре]Quantity ― [сто шестьдесят]Result стаканов.'
+  - |
+       '― [Сколько]Result будет [сто]Quantity умножить на [два]Quantity? ― А сто чего: рублей или долларов?'
+  - |
+       '[Пять тысяч]Quantity умножить на [двадцать]Quantity ― что получается? [Сто тысяч]Result рублей!'
+  - |
+       'Сколько будет [триста сорок семь]Quantity помножить на [восемьсот пятьдесят четыре]Quantity? ― [Двести девяносто шесть тысяч шестьсот сорок восемь]Result, ― всхлипнул я.'
 morphology:
   - NumCrd
   - Nom
@@ -38,11 +38,9 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root Num-Nom [nmod [case на] Num-Acc] ― [nmod Num-Nom]]; [root семь [nmod [case на] восемь] ― [nmod пятьдесят шесть]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию 606 NumCrd-Ins NumCrd-Nom – (будет) NumCrd-Nom (Шестью пять – тридцать)'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает причину [ситуации]Situation или [действия]Action. Причиной является то, что некоторый [объект или компонент]Theme отсутствует. Отсутствие объекта или компонента провоцирует данную [ситуацию]Situation. Если бы он присутствовал, ситуация или действие не имели бы места'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'За неимением [оливкового масла]Theme можно [добавить подсолнечное]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'За недостатком [дров]Theme люди [cжигали]Action последнюю мебель.'
+  - |
+       'За неимением [вешалки]Theme соседи [вешали пальто на гвоздь]Action.'
+  - |
+       'За отсутствием [состава преступления]Theme он [был реабилитирован]Situation в 1957 году.'
+  - |
+       'За недостатком [местных специалистов]Theme [в университете преподавали зарубежные учёные]Situation.'
 morphology:
   - NP
   - Gen
@@ -36,12 +36,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. похожую конструкцию 1265 - в отсутствие (синоним)'
 references:
   - |
     ""

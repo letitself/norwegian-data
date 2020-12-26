@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [длину окружности]Quantity [круглого в сечении объекта]Theme, измеренную в [стандартных единицах длины, таких как сантиметры, метры, мили, футы]Measure. Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Корневая система липы мощная, разветвленная, глубоко уходит в землю, а [ствол липы]Theme имеет [100]Quantity [сантиметров]Measure в обхвате.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Перлинь ― [веревка или трос]Theme толщиною [от четырех до шести]Quantity [дюймов]Measure в обхвате.'
+  - |
+       'По сути, это такой бинокль с двумя [трубками]Theme по [сорок]Quantity [сантиметров]Measure в диаметре.'
+  - |
+       '[Стволы]Theme не были толстыми ― всего [шесть-семь]Quantity [сантиметров]Measure в диаметре, ― с очень плотной и тяжёлой древесиной.'
+  - |
+       'Диаметр [ствола]Theme у гигантского каури Те Матуа Нгаере («Отец леса») составляет 5 метров, или [16]Quantity [метров]Measure в обхвате.'
 morphology:
   - VP
   - NP
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

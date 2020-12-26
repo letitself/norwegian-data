@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает большое количество [объектов]Theme. [Объектами]Theme обычно бывают жидкости, эмоции, абстрактные понятия. Слот может заполняться как исчисляемыми существительными (подарки, люди), так и неисчисляемыми (кровь, радость, информация).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Разве мало вам того моря [крови]Theme, того моря [слёз]Theme, что мы пролили за войну?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Прошло без малого 45 лет, а комедия Леонида Гайдая всё так же приносит нам море [радости и оптимизма]Theme.'
+  - |
+       'В сентябре у нас будет проходить суперакция. Море [подарков]Theme от компании «Орифлейм» для всех дам.'
+  - |
+       'В море [информации]Theme человек нашел именно твою книгу, захотел её прочитать, скачал на свой компьютер.'
+  - |
+       'Москва ликовала. Красная площадь представляла собой море [людей]Theme, пляшущих, поющих, обнимающихся.'
 morphology:
   - NP
   - Gen
@@ -35,11 +35,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root куча [nmod NP-Gen.Plur]]; [root куча [nmod дел]]'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

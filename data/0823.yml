@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется для обозначения среднего арифметического значения (число, равное сумме всех чисел множества, делённой на их количество). В неформальном контексте конструкция называет неточное, приблизительное [количество]Quantity [объектов]Theme или [единиц измерения]Measure.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Сила укуса человека составляет в среднем [890]Quantity [ньютонов]Measure.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Один час тренировки стоит в среднем [три тысячи]Quantity [рублей]Measure, которые приходится делить на всех игроков.'
+  - |
+       'Неудивительно, что на создание одного полнометражного мультика уходит в среднем [четыре]Qunatity [года]Measure.'
+  - |
+       'Ежегодно в мире при землетрясениях гибнут в среднем [50 тысяч]Quantity [человек]Theme.'
+  - |
+       'Женщины оказались выносливее ― они живут в среднем [семьдесят два]Quantity [года]Measure.'
 morphology:
   - NumCrd
   - NP
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

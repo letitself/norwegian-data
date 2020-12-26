@@ -7,17 +7,15 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию извлечения квадратного корня из [некоторого числа]Quantity и определяет [результат]Result. Результат выражен формой дательного падежа в случае, если используется слово "равен" (примеры 1, 2). Со словом "это" или если оно опущено, результат всегда выражен формой именительного падежа (примеры 3, 4).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― Ну, робот, [чему]Result равен квадратный корень из [двадцати пяти]Quantity?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Корень из [двадцати семи]Quantity равен [трем]Result.'
+  - |
+       'В школе мы выучили, что квадратный корень из [девяти]Quantity ― это [три]Result.'
+  - |
+       'Какой глупец посмеет оспаривать, что квадратный корень из [шестнадцати]Quantity ― [четыре]Result!'
 morphology:
   - NumCrd
   - Gen
@@ -37,12 +35,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

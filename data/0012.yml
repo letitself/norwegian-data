@@ -5,19 +5,7 @@ UD_name: '(не) время Cop VP-Inf'
 illustration: 'Самое время вершить большие дела.'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -34,11 +22,7 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod не] время [csubj VP-Inf]]; [root [amod самое] время [csubj вершить [obj [amod большие] дела.]]]'
 references:
   - |
     ""

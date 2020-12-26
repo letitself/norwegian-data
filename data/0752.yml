@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает, что к [некоторому участнику]Addressee обращены [реплики]Theme (примеры 1, 2, 3) или [реакции]Theme (примеры 4, 5) со стороны другого участника. Как правило, они являются негативными (примеры 1, 2, 4, 5), но могут быть и одобрительными (пример 3).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Любое неосторожное [слово]Theme в адрес [террористов]Addressee может спровоцировать их на агрессию по отношению к заложникам.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В адрес [собеседника]Addressee летят [иронические замечания]Theme, а любые его серьезные предложения тут же переводятся в шутку.'
+  - |
+       'Редкая рецензия на Кустурицу обходится без [дифирамбов]Theme в адрес [Бреговича]Addressee.'
+  - |
+       'В адрес [нарушителя]Addressee устоев полетело ещё несколько [злобных взглядов]Theme.'
+  - |
+       'Народным [недовольством]Theme в адрес [депутатов]Addressee могут воспользоваться полевые командиры племенных ополчений.'
 morphology:
   - NP
   - Gen
@@ -35,12 +35,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

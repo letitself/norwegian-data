@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation длится очень долгое время и актуальна до сих пор.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Ассоциативные процессы как феномен психики изучали]Situation с древности.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Тис широко и разнообразно используется]Situation с древности: лучшие луки делались из ветвей тиса, дома римских патрициев украшала резная тисовая мебель.'
+  - |
+       'С древности [люди поклонялись человеческой привлекательности]Situation.'
+  - |
+       'Между Индией, Египтом и Месопотамией с глубокой древности [существовали торговые связи]Situation, шел постоянный обмен товарами, изобретениями, идеями.'
+  - |
+       'С глубокой древности [люди стремились украсить своё жилище растениями]Situation.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -36,11 +36,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    'To be added'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции VP с древних/незапамятных времен (Они с древних времен верили, что магия существует), VP с давних пор (С давних пор люди придавали цвету особое значение).'
 references:
   - |
     ""

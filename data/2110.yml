@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция означает, что говорящий спрашивает разрешения у собеседника на совершение некоторого [действия]Action. Говорящий заведомо считает, что это действие не вызовет резких возражений у собеседника.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Ничего, если я [задам пару вопросов]Action? Только заранее извиняюсь, если они покажутся вам неприятными.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Устраивает такой вариант? – Вполне. Вот только: ничего, если я [с Дениской приеду]Action?'
+  - |
+       'Ничего, если я [вам в маленькой комнате постелю]?'
+  - |
+       'Не страшно, если я тебя [задержу ненадолго]Action?'
+  - |
+       'А не страшно если [чуть опоздаю]Action?'
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -33,12 +33,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

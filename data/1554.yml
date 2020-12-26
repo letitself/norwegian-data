@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторое [действие]Action или [ситуация]Situation распространяется на достаточно обширное пространство, имеющее значительную площадь и ограниченное окружностью указанного [радиуса]Distance с [объектом в центре]Theme. Часто конструкцию используют, чтобы обозначить отсутствие объекта на определенной площади.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Там в радиусе [пятидесяти километров]Distance ребята [все обворовали]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Приборчик]Theme размером с пачку сигарет [отключает все телефоны]Action в радиусе [десяти метров]Distance.'
+  - |
+       'Недавно английские журналисты посчитали, что в радиусе [182 метров]Distance от [квартиры, в которой Оруэлл жил в 1948 году, когда писал свой роман]Theme, сейчас [установлено 32 видеокамеры полицейского наблюдения]Action.'
+  - |
+       'Рядом с [нами]Theme, в радиусе [10 ― 11 световых лет]Distance, [есть несколько достопримечательностей]Situation.'
+  - |
+       '[Подземные толчки ощущались]Situation в радиусе [нескольких сот километров]Distance.'
 morphology:
   - VP
   - NumCrd
@@ -40,12 +40,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

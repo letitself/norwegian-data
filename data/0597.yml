@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [некоторый участник]Agent долго и усиленно [делал что-либо]Activity, но в итоге не достиг [желаемого результата]Result. Длительность и интенсивность действия передается с помощью повторения глагола.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Мы]Agent его [ждали-ждали]Activity целый день, а он не [приехал]Result.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Выбираю-выбираю кроватку]Activity для ребенка, а ничего подходящего не могу [найти]Result.'
+  - |
+       'Всё [читаем-читаем эту книгу]Activity, а [найти нужный абзац не можем]Result.'
+  - |
+       'Начали эти шестьдесят тыщ тратить. [Тратили, тратили]Activity, а они не [тратятся]Result.'
+  - |
+       'Товарищ полковник, [я]Agent всё [стучу, стучу]Activity, а вы не [открываете]Result.'
 morphology:
   - VP
   - Cl
@@ -39,11 +39,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [nsubj NP-Nom] VP-VP [conj [cc а] [advmod не] Cl]]; [root [nsubj я] [obj его] просил-просил, [conj [cc а] [nsubj он] [advmod не] соглашается]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. также конструкцию VP-Pst-~VP-Pst и наконец(-то) VP-Pst (Он шёл-шёл и увидел красивый дом).'
 references:
   - |
     ""

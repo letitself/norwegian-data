@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает продолжительное [действие]Action, которое началось в прошлом. Ожидалось, что это действие должно было уже закончиться, но оно продолжается.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Возможности технологий так и [остаются]Action до сих пор только потенциальными, их освоение идёт медленно.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Многие подростки так и [просидят]Action на диване или у компьютера всю молодость.'
+  - |
+       'А достоверные факты, увиденные глазами психолога, так и [остались]Action в научных архивах.'
 morphology:
   - VP
   - Ipfv
@@ -37,11 +33,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nsubj NP-Nom] [advmod так [fixed и]] VP]; [root [nsubj кот [advmod так [fixed и]] сидит]'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Но наши отношения ничуть не [изменились]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'По крайней мере так сделал я. И ничуть не [пожалел об этом]Action.'
+  - |
+       'Я бы ничуть не [удивился]Action, если бы он отправил меня домой, сказав, что у него есть другие дела.'
+  - |
+       'Они умели жить весело, ничуть не [заботясь о своей репутации]Action.'
+  - |
+       'Приветствие это ничуть не [обрадовало]Action Никанора Ивановича.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,11 +36,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    'To be added'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции нисколько не VP, ни на грамм не VP, ни на йоту не VP'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Participant осуждает [другого участника]Maleficiary за какое-либо действие (примеры 1, 2) и, как правило, также показывает свое критическое отношение, [делая словесное замечание]Action в разговоре (примеры 3, 4, 5) или совершая определенный поступок]Action (иллюстрация конструкции).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Церковная власть]Participant [ставит]Action в укор [католикам]Maleficiary, что они проповедуют в современной ситуации свободнее, чем то делали при православии.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Известный физиолог Ферворн]Participant [ставит]Action в укор [Вейсману]Maleficiary то, что последний не принимает во внимание факта постоянного частичного разрушения внутри одноклеточных организмов.'
+  - |
+       'Я терпеть не могу, когда [взрослые]Participant в укор [своим детям]Maleficiary [твердят]Action: «Пожил бы ты в детстве как я!».'
+  - |
+       'В укор [командиру]Maleficiary [он]Participant [повторил]Action: «Слабовато», поджав в подтверждение губы.'
+  - |
+       '― Нет, это [я]Participant тебе [говорю]Action не в укор, а потому, что пришлось к слову.'
 morphology:
   - VP
   - NP
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

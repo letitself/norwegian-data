@@ -9,15 +9,17 @@ definitions:
        'Конструкция обозначает, что в какой-либо [части тела]Location чувствуется [неприятное ощущение]Theme.'
   - english: |
        'This construction signifies that there is an [unpleasant sensation]Theme in some [part of the body]Location.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Когда у сторонников прошла [рябь]Theme в [глазах]Location и к ним, оглушённым, вернулся слух, на сцену поднялся лидер высшего совета Борис Грызлов.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Потом уже возникают другие симптомы: становятся более мягкими косточки, появляются [хруст]Theme в [суставах]Location], костные бугры, расширение грудной клетки.'
+  - |
+       'По их словам, жуткая вонь и [спазмы]Theme в [горле]Location терзали домочадцев всю ночь напролёт, из-за чего они не могли спать.'
+  - |
+       'Только бы не было боли. Пусть слабость, равнодушие, мягкий [звон]Theme в [ушах]Location. Только бы не боль.'
+  - |
+       'На начальной стадии болезни люди часто жалуются на головные боли, головокружения, [шум]Theme в [голове]Location, снижение памяти и работоспособности.'
 morphology:
   - NP
   - Loc
@@ -36,11 +38,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nmod [case в] NP-Loc] NP-Nom]; [root [nmod [case в] животе] боль]'
 references:
   - |
     ""

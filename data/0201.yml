@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen betyr at [den gitte situasjonen]Situation eller [handlingen]Action fortsatt ikke er helt over, eller fortsatt ikke er helt fullført. På norsk kan не совсем ofte oversettes som ‘ikke helt’.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Я ведь еще не совсем [решил]Action, что делать летом.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Юноша еще не совсем [переехал]Action от родителей.'
+  - |
+       'Я не совсем [доделал]Action  домашнее задание.'
 morphology:
   - VP
   - Pst
@@ -38,11 +38,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod [advmod не] совсем] VP-Past]; [root [nsubj он] [advmod [advmod не] совсем] оправился [obl [case от] смерти [nmod родителей]]]'
 references:
   - |
     ""

@@ -5,19 +5,7 @@ UD_name: '(вот) то́-то и оно́, что Cl/XP'
 illustration: 'То-то и оно, что от меня ничего не зависит.'
 cefr_level: A1
 definitions:
-  - russian: |
-       ''
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -34,11 +22,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod вот] то-то [nsubj [advmod и] оно], [mark что] [advcl Cl]]; [root то-то [nsubj [advmod и] оно], [mark что] [advcl [nsubj ничего] [aux бы] [obl [case от] [amod его] помощи] [advmod не] изменилось.]]'
 references:
   - |
     ""

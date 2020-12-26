@@ -13,11 +13,15 @@ definitions:
        'Konstruksjonen betyr at noe har en [egenskap]Property til en svært høy grad. En nærliggende konstruksjon i norsk er ‘forferdelig’. Konstruksjonen brukes både om positive og negative egenskaper, f.eks. ужасно интересная лекция ‘forferdelig spennende forelesning’ og ужасно скучно ‘forferdelig kjedelig’.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Он призадумался. Пауза длилась ужасно [долго]Property.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Он тащил на себе ужасно [большой]Property мешок.'
+  - |
+       'Это была ужасно [интересная]Property лекция.'
+  - |
+       'Мне ужасно [повезло с детьми]Situation.'
+  - |
+       'Ужасно [хочется поехать]Action на море!'
 morphology:
   - XP
 syntactic_type_of_construction:
@@ -36,11 +40,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod Ужасно] XP]; [root [advmod Ужасно] скучно]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию дико XP'
 references:
   - |
     "Zhukova, V. Title. MA thesis."

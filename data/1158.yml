@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Используется в прямом значении с глаголами сделать, ступить, отступить. ИЛИ Конструкция обозначает отсутствие [движения]Action. Конструкция может обозначать, что у участника ситуации нет желания [достигнуть взаимопонимания]Action с собеседником, или отсутствие изменения.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Он решил держаться этой версии и ни шагу не [делать в сторону]Action.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'У него такой вид, ― скажет о нем одна из героинь романа, ― точно он все обдумывает и ни шагу не [ступит]Action, не рассчитав заранее.'
+  - |
+       'Он ни шагу не [хочет сделать]Action мне навстречу.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,11 +32,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] VP; [obl [advmod ни] NP-Gen]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ни черта́ не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
 references:
   - |
     ""

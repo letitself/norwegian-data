@@ -7,17 +7,11 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Agent совершает несколько порций повторяющегося цикличного [действия]Activity, которое прерывается [другим действием или событием]Event. Повторение порций действия выражается повторением глагола, который обычно имеет приставку по-.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Да ты не расстраивайся, [он]Agent часто так поёт. [Попоёт-попоёт]Activity и [перестанет]Event.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Ребенок]Agent [поорёт-поорёт]Activity и [замолчит]Event, а через час снова кричит.'
 morphology:
   - NP
   - Nom
@@ -40,11 +34,7 @@ intonation:
   - Assertive
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root VP-VP [conj [cc и] Cl]]; [root поспит-поспит [conj [cc и] проснётся]]'
 references:
   - |
     ""

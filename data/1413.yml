@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция подчёркивает, что некоторый [объект]Theme очень важен для [участника]Experiencer. Если [объект]Theme отсутствует в ситуации, [участнику]Experiencer становится очень сложно осуществлять свою деятельность. [Объектом]Theme обычно бывает человек или инструмент.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Вася оставил ключи от машины дома, а [он]Experiencer без [машины]Theme как без рук.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Ты мне нужен, [я]Experiencer без [тебя]Theme как без рук.'
+  - |
+       '[Начальник]Theme отдела болен, а [мы]Experiencer без [него]Theme как без рук.'
+  - |
+       'Надо починить лампу, [бабушка]Experiencer без [лампы]Theme как без рук.'
+  - |
+       'Катя стала для Григория Васильевича незаменимым человеком. Без [нее]Theme [он]Experiencer был как без рук.'
 morphology:
   - NP
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

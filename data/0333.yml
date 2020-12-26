@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает большое количество [людей]Theme (примеры 1, 2, 4, 5) или человекоподобных существ (пример 3). Конструкция обычно используется, если эти [люди]Theme находятся близко друг к другу. Слово "толпа" может употребляться как в единственном (примеры 1, 2, 3), так и во множественном числе (примеры 4, 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Толпа [фанатов]Theme требовала автографа у футболиста, когда тот появлялся на улице.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Зверева здесь знают и ждут. Его сразу обступает толпа [болельщиков]Theme. Игра начинается.'
+  - |
+       'Железный воин взмахнул своей палицей и обрушил ее на толпу [орков]Theme.'
+  - |
+       'Толпы [зрителей]Theme наблюдали за гонкой с трибун, еще больше народу развлекалось вне трассы.'
+  - |
+       'Они убеждены, что скоро даже в самые лютые морозы сюда будут приезжать толпы [туристов]Theme.'
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -34,11 +34,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root толпа [nmod NP-Gen.Plur]]; [root толпа [nmod людей]]'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

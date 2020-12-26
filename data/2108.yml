@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторая [ситуация]Situation (разговор, дискуссия, мероприятие и др.) [меняется]Action в неожиданную для говорящего сторону, и говорящий характеризует это изменение через [признак]Property.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Теперь [события]Situation [приняли [новый]Property оборот]Action: новые методы нашли себе опору в старых.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Но [события]Situation вновь [приняли [неожиданный]Property оборот]Action. Люся и Настя наотрез отказались меняться местами.'
+  - |
+       'Тем временем [беседа]Situation об эзотерике [приняла [забавный]Property оборот]Action.'
+  - |
+       '[Дискуссия]Situation [приняла [любопытный]Property оборот]Action, когда время передачи уже истекало.'
+  - |
+       '― Наше [разбирательство]Situation [приняло [неожиданный]Property оборот]Action, ― задумчиво протянул судья.'
 morphology:
   - NP
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

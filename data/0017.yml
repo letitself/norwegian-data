@@ -13,11 +13,11 @@ definitions:
        'Ved hjelp av denne konstruksjonen uttrykker taleren at en gitt [hendelse]Action etter vedkommendes mening allerede burde ha funnet sted, eller at [deltageren i en viss situasjon]Participant allerede burde ha utført en gitt [handling]Action.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Да и [спать]Action давно пора!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Она говорит, что [дочери]Participant давно пора  [найти мужа]Action, но она говорит, что пока ещё не хочет замуж.'
+  - |
+       'Отец объявляет, что [сыну]Participant давно пора [идти домой]Action.'
 morphology:
   - NP
   - Dat
@@ -39,11 +39,7 @@ intonation:
   - Assertive
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nmod NP-Dat] [advmod давно] пора [nsubj VP-Inf]]; [root [nmod детям] [advmod давно] пора [nsubj поесть]]'
 references:
   - |
     ""

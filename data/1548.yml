@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [радиус или диаметр]Quantity [круглого в сечении объекта]Theme, измеренный в [стандартных единицах длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Из фанеры нужно вырезать [кружок]Theme радиусом в [три]Quantity [сантиметра]Measure, наклеить на него плотную чертежную бумагу.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Вокруг деда наметилась [опасная зона]Theme радиусом [полтора]Quantity [метра]Measure.'
+  - |
+       'В меню входит шесть видов [пиццы]Theme диаметром [30]Quantity [сантиметров]Measure.'
+  - |
+       'Единственная находка с места событий ― чёрный камень, по форме представляющий собой идеальную [половину от шара]Theme диаметром в [6]Quantity [см]Measure.'
+  - |
+       'Шансы космического контакта цивилизаций для [галактики]Theme диаметром в [100 тыс.]Quantity [световых лет]Measure чрезвычайно невелики.'
 morphology:
   - NP
   - NumCrd
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [линейные размеры]Quantity [объекта]Theme, измеренные в [стандартных единицах измерения длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Здесь на [пешеходной улице]Theme длиной в [полтора]Quantity [километра]Measure расположились художественные образы из бронзового литья.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Прямоугольная льдина]Theme длиной [52]Quantity [метра]Measure и шириной [40]Quantity [метров]Measure плавает в море.'
+  - |
+       'Каждый шар имеет [окаменевшую оболочку]Theme толщиной в [20-30]Quantity [сантиметров]Measure.'
+  - |
+       'Во время сегодняшнего запуска ракетоноситель "Днепр-1" выведет на [орбиту]Theme высотой [около 650]Quantity [километров]Measure шесть космических аппаратов.'
+  - |
+       'Все восемь колёс оставляют за собой [две колеи]Theme глубиной всего в [пару]Quantity [сантиметров]Measure.'
 morphology:
   - NP
   - NumCrd
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

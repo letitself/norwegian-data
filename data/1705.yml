@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation происходит в непосредственной близости от [участника]Participant или [участник]Agent выполняет [действие]Activity в непосредственной близости от [другого участника]Participant. Это [действие]Activity или [ситуация]Situation, как правило, происходит незаметно для [этого участника]Participant.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Возрождение хип-хопа, легитимизация киберспорта, блогеры как медийные лица]Situation… [Вы]Participant многое пропустили, хотя [всё это]Situation было прямо под носом.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Ты, Володька, дурак и не замечаешь [того, что творится]Situation у [тебя]Participant под носом.'
+  - |
+       'Как отважились [они]Agent под носом у [цензуры]Participant так лихо [заимствовать из этой книги эпизод за эпизодом]Activity?'
+  - |
+       '[Медицинский персонал]Agent работал под огнём: [эвакуировал раненых]Activity практически под носом у [турок]Participant.'
+  - |
+       'Под носом у [властей]Participant [случилось фантастическое событие]Situation, которое по всем представлениям и реалиям тех лет просто не должно было случиться.'
 morphology:
   - VP
   - NP
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

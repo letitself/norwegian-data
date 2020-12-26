@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что в результате [действия]Action в место проживания [участника]Participant направляется некоторый объект (документы, пицца) или другой участник (врач) (примеры 1, 2, иллюстрация). Также конструкция может выражать, что [действие]Activity выполняется вне обычного для него места (пример 3). Часто употребляется в контексте школьных заданий, которые ученики выполняют дома (пример 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Я не могу [послать]Action [ему]Participant на дом эти документы!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В одни сутки все заказанное [будет доcтавлено]Action [вам]Participant на дом.'
+  - |
+       '[Схожу]Action к [профессору]Participant на дом, поговорю с ним.'
+  - |
+       'В таких кругах и за такую цену было принято [работать с выездом]Action на дом.'
+  - |
+       'В школе [задали]Action на дом составить рассказ о своей семье.'
 morphology:
   - NP
   - VP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

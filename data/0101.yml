@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что у говорящего вызывает сомнение некоторое высказанное или потенциальное суждение. Он отрицает [качество, свойство или признак]Property [участника ситуации]Participant (пример 1) или[объекта]Theme (пример 2) или [количественную характеристику множества]Quantity (примеры 3, 4). Речь может также идти об отрицании [обстоятельств]Property некоторой [ситуации]Situation или [действия]Action (пример 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Русское крестьянство]Participant представляло собой далеко не [однородную]Property массу.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Я думаю, это далеко не [самый хороший]Property [шампунь]Theme.'
+  - |
+       'Представление о формировании профессиональной карьеры имеют далеко не [все]Quantity опрошенные [молодые люди.]Participant'
+  - |
+       'Это далеко не [единственное]Quantity решение, которое им предлагается.'
+  - |
+       'Оказалось, что мой новый знакомый ― математик из университета UCLA и что [в Лас-Вегас он попал]Situation далеко не [случайно]Property.'
 morphology:
   - Adj
   - Adv
@@ -40,11 +40,9 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [nsubj NP-Nom] [advmod далеко] [advmod не] [amod Adj/] [advmod Adv] NP]; [root [nsubj он] [advmod далеко] [advmod не] [amod умный] студент]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'Ср. с похожей конструкцией 60 вовсе не XP (Эта одежда вовсе не старая). A closely related construction in English is ‘far from’, e.g. he is far from being a clever student. En nærliggende konstruksjon i norsk er ‘langt fra, f.eks. han er langt fra en smart student.'
 references:
   - |
     ""

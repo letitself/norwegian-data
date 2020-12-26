@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию сложения [одного числа]Quantity с [другим]Quantity с указанием [результата]Result (суммы). Слот VP заполняется глагольными формами "будет" и "получится".'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Помни: к [четырем]Quantity прибавить [четыре]Quantity будет [восемь]Result.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Если к [пяти]Quantity прибавить [три]Quantity, получится [восемь]Result.'
+  - |
+       'К [трем]Quantity прибавить [два]Quantity получится [пять]Result.'
+  - |
+       'Прибавьте [двенадцать дней]Quantity к [25 декабря]Quantity, и получится [6 января]Result.'
+  - |
+       'Вот и считай ― к [одна тысяча девятьсот пятому году]Quantity прибавь [двенадцать]Quantity ― [что]Result будет?'
 morphology:
   - NumCrd
   - Dat
@@ -38,12 +38,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию 1856 NumCrd-Nom плюс/и NumCrd-Nom – (равно/равняется/будет/получится/выйдет) NumCrd-Nom/NumCrd-Dat (Два плюс два равно четыре).'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторая [ситуация]Situation [меняется]Action в хорошую или плохую сторону.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'С 2001 г. [ситуация]Situation начала [меняться]Action к лучшему, и уже в 2002 г. охват прививками вырос и составил в среднем по РФ 88, 1%.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Потом, правда, [отношение ко мне]Situation [изменилось]Action к лучшему и всё стало, как и прежде.'
+  - |
+       'В стране за последние месяцы [все]Situation резко [переменилось]Action к худшему.'
+  - |
+       'И вообще я фаталист, [все, что ни делается,]Situation [делается]Action только к лучшему.'
+  - |
+       'Небо набухало тревожной тяжелой скукой ― [погода]Situation явно [менялась]Action  к худшему.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -35,12 +35,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

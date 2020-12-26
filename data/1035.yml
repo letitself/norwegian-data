@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [ситуация]Situation происходит или [объект]Theme находится в пространстве между грудью и прилегающей к ней одеждой. Объектом часто выступают небольшие предметы, которые необходимо скрыть (примеры 1, 5), или небольшие животные, которых необходимо согреть (пример 2).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Если у вас [пистолет]Theme за пазухой, то на вас всё равно могут напасть.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Лёша поймал у воды одинокого гусенка и стал за пазухой [греть его]Situation.'
+  - |
+       'Заяц в панике говорит медведю: спрячь, мол, куда-нибудь. Я маленький, я и за пазухой [умещусь]Situation.'
+  - |
+       '― Самую дорогую вещь потерял, ― ответил Александр. Он [продолжал искать]Situation за пазухой: может, порвалась цепочка и медальон завалился куда-нибудь.'
+  - |
+       '[Фрукты уносили]Situation в карманах и за пазухой.'
 morphology:
   - NP
   - VP
@@ -36,12 +36,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Obsolete
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает призыв говорящего лишить занимаемой должности [действующего политического лидера]Theme, лишить власти и привелегий некоторый [социальный класс]Theme или [группу людей]Theme, а также отказаться от действующего в данный момент [политического режима]Theme (пример 4), [принятых социальных практик]Theme (праздники) или [негативных общественно важных событий]Theme (война). Конструкция является лозунгом, обращенным к большой группе лиц. Как правило, используется письменно на плакатах во время митингов или озвучивается демонстрантами.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Короны полетели в грязь! Долой  [короны]Theme! Долой аристократов!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В руках у политика плакат: «Долой [фальшивого мэра]Theme!»'
+  - |
+       '«Долой [безумных радикалов, национализирующих систему здравоохранения]Theme!» ― кричали они.'
+  - |
+       'Мы просто не сможем оставаться верными себе, если будем петь “долой [капитализм]Theme!” на стадионах с надписями “Кока-кола” на всю трибуну.'
+  - |
+       'На одном из плакатов было написано «Долой [войну]Theme!».'
 morphology:
   - NP
   - Acc
@@ -35,11 +35,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root долой [obj NP-Acc]]; [root долой [obj демократию]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'см. близкие конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать), кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.)'
 references:
   - |
     "Rakhilina, E. V. (2013). “Konduktor, nazhmi na tormoza,” in Computational Linguistics and Intellectual Technologies. Papers from the Annual International 2347 Conference “Dialogue” 12, 665–673."

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает что некоторое [действие]Action можно совершить, поскольку [участник ситуации]Participant этому не противодействует.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Раз [Вы]Participant не возражаете насчёт русского языка, [перейду на него]Action, учитывая, что я не очень владею английским.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Ну, ладно, раз [ты]Participant не возражаешь, я грузчикам [звоню]Action, и мы [все к тебе таскаем]Action!'
+  - |
+       'Ну, раз [никто]Participant не возражает, [давайте придумаем четкий план действий и распределим силы]Action.'
+  - |
+       'И раз [ты]Participant не возражаешь, я [еду с тобой]Action!'
+  - |
+       'И раз [вы]Participant не возражаете, мы [продолжим]Action.'
 morphology:
   - NP
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

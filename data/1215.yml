@@ -9,15 +9,17 @@ definitions:
        'Конструкция обозначает, что [участнику ситуации]Participant дается разрешение на выполнение некоторого [действия]Action. Конструкция также используется, чтобы выразить просьбу участника дать ему такое разрешение.'
   - english: |
        'This construction expresses that a [participant]Participant receives a permission to perform a certain [action]Action. The construction can also be uesed to express a request for such a permission.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― Можно [мне]Participant [идти]Action? ― спрашиваю я у Екатерины Михайловны. ― Конечно.  Если ты всё понял.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '― Доедай свой гамбургер, дядя Володя ждать не будет. ― Мам, я больше не хочу, ― сказал мальчик, ― можно [собачке отдать]Action?'
+  - |
+       'Вика спрашивает, можно будет [ей]Participant [надеть твои джинсы]Action?'
+  - |
+       '― Это вы у Олега спросите, можно [вам]Participant [звонить]Action или нельзя, это ваши с ним дела.'
+  - |
+       'Практически все дети были лояльны к «компьютерной политике» своих родителей: «Да, нормально, я всегда знаю, когда [мне]Participant можно будет [поиграть]Action».'
 morphology:
   - NP
   - Dat
@@ -39,11 +41,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nmod NP-Dat] можно [nsubj VP-Inf]]; [root [nmod мне] можно [nsubj открыть [obj окно]]]'
 references:
   - |
     ""

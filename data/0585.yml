@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция выражает, что [некоторый участник]Agent [произносит речь]Action, которая обращена к [большой группе людей]Addressee. Речь может также идти о творческом выступлении (песни, танцы, стихи и др.). Конструкция может также обозначать ситуацию, в которой [участник]Agent [отчитывается о своей деятельности]Action, обращаясь к другому [участнику]Addressee, как правило, более высокому по статусу, либо к [группе людей]Addressee.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'В ближайшие дни [он]Agent пожелал [выступить]Action перед [горожанами]Addressee на главной площади и заказал соорудить огромную трибуну.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Теперь [он]Agent знал, что перед [аудиторией]Addressee [читает стихи]Action последний раз.'
+  - |
+       '1 декабря [у меня]Agent [выступление]Action перед [студентами]Addressee Римского университета.'
+  - |
+       'Власти опасались, что если пенсионные деньги раздать частным лицам, то они будут разворованы, а [отвечать]Action перед [пенсионерами]Addressee придётся [государству]Agent.'
+  - |
+       '[Вы]Agent уйдёте на суд Божий и будете [отвечать]Action перед [Богом]Addressee за свои слова.'
 morphology:
   - NP
   - Ins
@@ -38,11 +38,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nsubj NP] VP [obl [case перед] NP]]; [root [nsubj он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]]]'
 references:
   - |
     ""

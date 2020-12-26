@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [говорящий]Speaker предлагает [собеседнику]Participant вместе совершить некоторое [действие]Action.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'А мне скоро будет восемнадцать. Давай [поженимся]Action?'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Давайте [обсудим]Action, как влияют компьютерные игры и интернет на детей.'
+  - |
+       '― Ксения, простите… мне трудно по телефону… Давайте [встретимся]Action.'
+  - |
+       'Давайте [поймем]Action, какие цели у телевидения. Для чего оно, вообще, существует?'
+  - |
+       'Давайте [организуем]Action детям хороший праздник!'
 morphology:
   - VP
   - Fut
@@ -36,11 +36,7 @@ intonation:
   - Exclamatory
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root давай(те) [ccomp VP-Fut.1Plur]]; [root давай(те) [ccomp пойдем [obl [case в] кино]]]'
 references:
   - |
     ""

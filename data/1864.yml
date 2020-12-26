@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция описывает математическое равенство или неравенство [двух величин]Quantity.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Семь]Quantity не равно [восьми]Quantity.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Два]Quantity больше одного, а не меньше и не равняется [одному]Quantity.'
+  - |
+       '[Одна вторая плюс одна третья, минус игрек,]Quantity равно [пять зет]Quantity.'
+  - |
+       '[Два в степени три]Quantity не равно [три в степени два]Quantity.'
+  - |
+       'Хотя «Мы» никогда не существовало, [я плюс я]Quantity не равно [любовь]Quantity, но [я]Quantity равно [любовь]Quantity.'
 morphology:
   - Cl
   - NumCrd
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

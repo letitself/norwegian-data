@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen brukes for å forsterke [en egenskap]Property. Ordet больно kan i denne konstruksjonen betraktes som et synonym til слишком ‘altfor (mye)’ ( i andre kontekster betyr больно ‘vondt, smertelig’).'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Больно [близко]Property к столице располагалась деревня Тропарево.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Уж больно [вкусно]Property мама готовила.'
+  - |
+       'Уж больно [уважительно]Property говорил садовник о грибах.'
 morphology:
   - Adv
   - Adj
@@ -36,11 +36,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [advmod больно] Adv]; [root [advmod больно] сложно]'
 references:
   - |
     ""

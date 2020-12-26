@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция понижает степень интенсивности [признака]Property. Этот признак выражается сравнительной степенью прилагательного или наречия.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Он уже начинал чувствовать приближение ночи, и ему хотелось, чтобы кто-нибудь [посильнее]Property включил лампу.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Другую найдем на ваше рабочее место. [Помоложе]Property и [поумнее]Property.'
+  - |
+       'Он искал работу [поближе]Property к дому.'
 morphology:
   - Adj
   - Adv
@@ -36,11 +32,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root VP [advmod/amod по-XP-ее(ей)]]; [root [obl [case к] сыну] относись [advmod помягче]'
 references:
   - |
     "Boguslavsky, I., Iomdin, L. (2009), Semantics of Attenuated Comparatives in Russian, Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), pp. 65–77."

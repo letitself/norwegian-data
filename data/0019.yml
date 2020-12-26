@@ -9,15 +9,17 @@ definitions:
        'Конструкция обозначает запрет на [некоторое действие]Action как выражение некоторого общего правила, принятого в обществе, в стране или в организации (например, в школе, в тюрьме) на официальном уровне. Действие потенциально может произойти, и наложение запрета должно его предотвратить. [Участник]Participant, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок, администрация учреждения vs посетители). Правило действует для всех членов общества или для определенных групп людей (например, женщины, дети, студенты первого курса университета, заключенные в тюрьме и др.). Часто участник не упоминается, и конструкция используется как безличное предложение. Если участник назван, то он часто представлен целой группой лиц, но может быть и отдельным лицом, в том числе и собеседником говорящего.'
   - english: |
        'This construction expresses the prohibition of [an action]Action. The [participant]Participant has potential control to dictate the prohibition at an official level. This construction is often used in impersonal constructions (without mentioning the participant) to express a commonly accepted rule.'
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'В мае не положено [жениться]Action: муж и жена всю жизнь страдать будут.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Мужчинам]Participant не положено [жаловаться на тоску и плохое настроение]Action.'
+  - |
+       '[Первокурсникам]Participant [жить в общежитии]Action не положено. Ребята принялись искать себе другое жилье.'
+  - |
+       'Любимский музей маленький, и по штату [ему]Participant не положено  [иметь]Action реставрационных мастерских.'
+  - |
+       'По нашим законам [вам]Participant не положено [находиться на территории Германии]Action.'
 morphology:
   - NP
   - Dat
@@ -39,11 +41,9 @@ intonation:
   - Exclamatory
 usage_label: Formal
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] положено [csubj VP-Inf]];  [root [obl NP-Dat] [advmod не] положено [csubj VP-Inf]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. похожие конструкции (NP-Dat) запрещается/воспрещается VP-Imp.Inf (На экзамене запрещается пользоваться мобильными телефонами), (NP-Dat) VP-Imp.Inf запрещено (Купаться запрещено), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят)'
 references:
   - |
     "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"

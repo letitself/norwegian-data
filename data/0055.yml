@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется при измерении большой тяжести / веса [объекта]Theme в стандартных [единицах]Quantity меры тяжести / веса, прежде всего килограммах, пудах, тоннах. Если числительное "один", то [единица измеренения]Measure [объекта]Theme стоит стоит в винительном падеже.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Пусть мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure, но не больше.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Материалы собрали в [770 контейнеров]Theme общим весом в [десять]Quantity [тонн]Measure.'
+  - |
+       '[Один домашний торт]Theme весом в [два]Quantity [килограмма]Measure обходился нам не очень дорого.'
+  - |
+       'В [ракете]Theme массой в [800]Quantity [кг]Measure боевая часть составляет 280 кг!'
+  - |
+       'В опытах использовали [74 морские свинки]Theme массой [200-250]Quantity [грамм]Measure.'
 morphology:
   - NP
   - NumCrd
@@ -39,11 +39,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root весом [nmod [case в] [nummod Num-Acc] NP-Gen]]; [root весом [nmod [case в] [nummod шесть] тонн]]'
 references:
   - |
     ""

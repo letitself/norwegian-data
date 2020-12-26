@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Participant демонстративно [совершает некоторое действие]Action из желания разозлить [другого участника]Maleficiary.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Хомский]Participant [говорил]Action в пику [Якобсону]Maleficiary, что от поэтики до лингвистики — как от французского садоводства до ботаники.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Правда, [М. М. Яншин]Participant, как первый исполнитель роли Лариосика, уже [поставил]Action в пику [МХАТу]Theme этот спектакль.'
+  - |
+       'В 1938 году [Артуро Тосканини]Participant, демонстративно отказавшись от участия в организованных нацистами фестивалях, [основал]Action в пику [им]Maleficiary свой собственный.'
+  - |
+       'Почти все были за него: [он]Participant резко [выступал]Action в пику [правительству]Theme, и этого казалось достаточно.'
+  - |
+       '― [Я]Participant здесь скорее [говорю]Acction в пику [расхожему представлению]Theme, что либерализм ― это обязательно говорильня, критика и недовольство.'
 morphology:
   - VP
   - NP
@@ -38,12 +38,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию 1788 VP наперекор NP-Dat (Наперекор многим коллегам он верит в телепатию и путешествия во времени).'
 references:
   - |
     ""

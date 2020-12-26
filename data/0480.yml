@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется, когда говорящий категорично, но не резко побуждает [участника ситуации]Participant не выполнять [некоторое действие]Action. Это действие может произойти в будущем либо уже произошло и говорящий не хочет его повторения. Говорящий осуждает участника за выполнение этого действия, так как считает, что статус участника, его принадлежность к определенной группе (например, по гендерному или профессиональному признаку), его моральные или иные качества не позволяют ему выполнять это действие. Участник может быть представлен целой группой лиц или отдельным лицом, в том числе и собеседником говорящего. Кроме того, говорящий может обращаться к самому себе.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '― [Девушке]Participant не пристало [звонить кавалеру]Action, это он должен добиваться встречи.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Ему]Participant не пристало [отвлекаться на всякую там чепуху]Action , вроде дурацких игр, детской болтовни и слез по пустякам.'
+  - |
+       'Я бизнесмен серьезный, уважаемый, [[мне]Participant не пристало так [рисковать своей репутацией]Action.'
+  - |
+       '[Историкам]Participant, говорят нам, не пристало [выступать в роли экспертов]Action, они пристрастны не меньше, чем современники событий.'
+  - |
+       '― Да уж, [телезвезде]Participant не пристало [ходить там и сям в джинсах]Action!'
 morphology:
   - NP
   - Dat
@@ -39,11 +39,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [obl NP-Dat] [advmod не] пристало [nsubj VP-Inf]]; [root [obl тебе] [advmod не] пристало [nsubj ходить [obl [case по] дискотекам]]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкую конструкцию (NP-Dat) не стоит VP-Ipfv.Inf (не стоит разговаривать с ним).'
 references:
   - |
     "Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673."

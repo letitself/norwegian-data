@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает предельную [величину]Quantity, которым может обладать [объект или данный тип объектов]Theme, выраженный в [неких единицах измерения]Measure. Обычно конструкция используется при описании видов животных и растений.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Это растение называется рогульник. Растёт в озёрах и заводях медленно текущих рек, достигает до [пяти]Quantity [метров]Measure в длину. У растения характерный плод, внешне напоминающий голову быка.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Самые крупные представители этой вымершей группы животных]Theme достигали в высоту [пять с половиной]Quantity [метров]Measure и весили до двенадцати тонн.'
+  - |
+       'Ученые-палеонтологи обнаружили в Аргентине скелет самого большого в мире динозавра. [Огромный травоядный ящер]Theme достигал [сорока]Quantity [метров]Measure в длину и [двадцати]Quantity [метров]Measure в высоту.'
+  - |
+       'В общей стоимости национального богатства республики [доля земельных ресурсов]Theme достигает [тридцати]Quantity [процентов]Theme.'
+  - |
+       '[Годовой бюджет компании]Theme достигает [сорока миллиардов]Quantity [долларов]Measure.'
 morphology:
   - NP
   - Nom
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

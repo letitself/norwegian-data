@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что участник, перемещаясь, поочёдно [посещает]Action несколько [мест]Location, которые имеют одинаковые функции или относятся к одному типу.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'У неё доставало сил вести этот большой дом, на всех готовить, обстирывать, шить и [ходить]Action по [магазинам]Location.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Священники [ходили]Action по [домам]Location и оповещали население.'
+  - |
+       'Он не так любил [ездить]Action по [гостям]Location, как другой мой дядя.'
+  - |
+       'Самое странное началось много позже, когда я [ходила]Action с романом по [издательствам]Location.'
+  - |
+       'Родственники беспокоились, [возили]Action бедную старушку по [врачам]Location.'
 morphology:
   - VP
   - NP
@@ -38,11 +38,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nsubj NP-Nom] VP [obl [case по] [NP-Dat]]; [root [nsubj они] любили [xcomp [advmod часто] ездить [obl [case по] знакомым]]]'
 references:
   - |
     ""

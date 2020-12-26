@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция указывает на ситуацию распределения [объектов]Theme или [участников]Participant по нескольким местоположениям[Location]. При этом в каждом из местоположений находится одинаковое [количество]Quantity [объектов]Theme, и все объекты занимают одинаковую [позицию]State в пространстве (например, они лежат, стоят и пр.).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[В обеих руках]Location у неё [было]State по [сумке]Theme.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'На столе [возле каждого из игроков]Location [лежит]State по [семь]Quantity [карточек]Theme.'
+  - |
+       '[В двух залах]Location среди кресел и стульев [стояло]State по [роялю]Theme.'
+  - |
+       '[В каждом углу]Location [сидит]State по [кошке]Participant.'
+  - |
+       '[В центре каждого столика]Location [стояло]State по [букету]Theme.'
 morphology:
   - VP
   - Sg
@@ -39,12 +39,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

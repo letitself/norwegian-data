@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что некоторое [действие]Action происходит без видимой [причины]Cause ("на пустом месте") или, наоборот, имеет [основания, базу, причины]Cause ("не на пустом месте"). Действие как правило связано с созиданием или возникновением нового объекта, конкретного (пример 3, 4) или абстрактного (примеры 1, 2) или беспочвенным эмоциональным переживанием (пример 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Национальная идея не может [возникнуть]Action на пустом месте.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Конфликты в семье могут [возникать]Action буквально на пустом месте.'
+  - |
+       'Эта организация [образовалась]Action не на пустом месте, а [на базе своих предшественников]Cause.'
+  - |
+       'Советская авиация [создавалась]Action не на пустом месте: [российские самолеты принимали участие еще в Первой мировой войне]Cause.'
+  - |
+       'Чего она все [страдает]Action абсолютно на пустом месте?'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -38,12 +38,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция понижает степень интенсивности [признака]Property действия или объекта. Как правило, имеет негативную коннотацию.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Придется выкрасить «Антилопу» в желтый цвет. Будет [ярковато]Property, но красиво.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Маше было уже лет тринадцать – [поздновато]Property спортивную карьеру начинать.'
+  - |
+       'Но [дороговато]Property для среднестатистического родителя оплачивать подобные языковые курсы.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -34,11 +30,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'To be added'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."

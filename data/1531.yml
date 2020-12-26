@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает большое количество [объектов]Theme. Объекты могут быть как исчисляемыми (уйма дел), так и неисчисляемыми (деньги, время).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'У меня уйма [времени]Theme и деньги есть, и мне тоже, знаешь, надоело здесь.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Профессор знал уйму [подробностей]Theme.'
+  - |
+       'Прочитал уйму [книг по экономике]Theme, и вообще, за час нашего с ним разговора не изрек ни одного матерного слова.'
+  - |
+       'Между прочим, я должен был вернуть им уйму [денег]Theme, ведь по договору об аренде они оплатили торговые места на квартал вперед.'
+  - |
+       'Это обычно всех детей приводит в восторг и вызывает уйму [идей]Theme.'
 morphology:
   - NP
   - Gen
@@ -35,11 +35,7 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root уйма [nmod NP-Gen.Plur]]; [root уйма [nmod денег]]'
 references:
   - |
     "Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

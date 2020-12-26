@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [обращение или документ]Theme адресованы [официальному лицу или организации]Addressee.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Не успели мы доехать до Парижа, пришёл возмущённый [факс]Theme на имя [Спивакова]Addressee от английского импресарио Юрия Хатуевича.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'В своём [заявлении]Theme на имя [директора]Addressee мне пришлось объяснить, почему я не могу работать в такой обстановке.'
+  - |
+       '― Смотри-ка, ― сказал он мне, ― какое [заявление]Theme на имя [Фризоргера]Addressee прислали.'
+  - |
+       'Нужно было написать [заявление]Theme на имя [старосты]Addressee, указав место жительства и место учебы или работы.'
+  - |
+       'У него были [документы]Theme на имя [штандартенфюрера СС Штирлица]Addressee.'
 morphology:
   - NP
   - Gen
@@ -36,12 +36,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

@@ -7,17 +7,7 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция используется для выражения сходства между [объектом]Theme и [некоторым прототипом]Standard, но необязательно их полного совпадения. Конструкция выражает сравнение и акцентирует сходство двух объектов или ситуаций по некоторому признаку.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
-  - |
-    "One example.
-    It can go over multiple lines."
-  - |
-    "Another example.
-    It can go over multiple lines."
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -34,11 +24,7 @@ intonation:
   - ~
 usage_label: ~
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [nsubj Вася] похож [obl [casе на] NP-Acc]]; [root [nsubj NP-Nom] [cop быть] похож [obl [casе на] NP-Acc]]'
 references:
   - |
     ""

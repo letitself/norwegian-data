@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Participant демонстративно [совершает некоторое действие]Action из желания разозлить [другого участника]Maleficiary. Это действие не соответствует мнению, желанию или совету [другого участника]Maleficiary.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Елена]Participant, никогда прежде в церковь не ходившая, тоже [стала в последнее время богомольничать]Action, как будто назло [Павлу Алексеевичу]Maleficiary].'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '[Я]Participant [записался в детскую библиотеку]Action, может быть, даже назло [домашнему культу]Theme серьезной литературы.'
+  - |
+       'Когда [Ольга]Participant [поступила в училище]Action ― назло [сестре]Maleficiary и [преподавателям]Maleficiary, ― Наташа вместо поздравлений скривила губы.'
+  - |
+       'Поэтому ни солнечного лучика, только тьма зашторенных комнат, и, может быть, [они]Participant и вправду [появлялись]Action назло [ему]Maleficiary] там, где им не полагалось быть.'
+  - |
+       '[Вы]Participant [признались]Action назло [ей]Maleficiary, чтобы ей досадить и чтобы обратить на себя ее внимание.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

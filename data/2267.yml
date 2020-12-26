@@ -7,17 +7,15 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием, которая передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Можно использовать как в прямом значении (о движении: отходить, отступить, приблизиться и др.), так и в переносном – об отсутствии изменений в какой-то ситуации (с глаголами продвинуться, отрасти).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Обычно мама меня ни на шаг не [отпускала]Action в магазине – вдруг потеряюсь.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Его водил под руку сын, молодой физик, который ни на шаг не [отходил]Action от отца.'
+  - |
+       'Хочешь – проверь, я ни на миллиметр не [ошибусь]Action…'
+  - |
+       'Но он только напряг мышцы и с места ни на миллиметр не [сдвинулся]Action.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,12 +34,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ничуть не VP, нисколько не VP, ни на грамм не VP, ни на йоту не VP'
 references:
   - |
     ""

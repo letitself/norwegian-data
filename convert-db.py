@@ -48,19 +48,17 @@ def write_record(row, record):
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
         f.write(f"cefr_level: A1\n")
         f.write("definitions:\n")
-        f.write("  - russian: |\n")
-        f.write(f"       '{row['Definition in Russian'].strip()}'\n")
-        f.write("  - english: |\n")
-        f.write(f"       '{row['Definition in English'].strip()}'\n")
-        f.write("  - norwegian: |\n")
-        f.write(f"       '{row['Definition in Norwegian'].strip()}'\n")
+        for language in ["Russian", "English", "Norwegian"]:
+            entry = row[f"Definition in {language}"].strip()
+            if entry != "":
+                f.write(f"  - {language.lower()}: |\n")
+                f.write(f"       '{entry}'\n")
         f.write("examples:\n")
-        f.write("  - |\n")
-        f.write('    "One example.\n')
-        f.write('    It can go over multiple lines."\n')
-        f.write("  - |\n")
-        f.write('    "Another example.\n')
-        f.write('    It can go over multiple lines."\n')
+        for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
+            entry = row[column].strip()
+            if entry != "":
+                f.write("  - |\n")
+                f.write(f"       '{entry}'\n")
         f.write("morphology:\n")
         f.write(print_as_yaml_list(row["Morphology"]))
         f.write("syntactic_type_of_construction:\n")
@@ -80,12 +78,17 @@ def write_record(row, record):
             )
         )
         f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
-        f.write("structure_in_ud: |\n")
-        f.write('    "Example structure in UD.\n')
-        f.write('    It can go over multiple lines."\n')
-        f.write("comment: |\n")
-        f.write('    "Example comment.\n')
-        f.write('    It can go over multiple lines."\n')
+
+        entry = row["STRUCTURE in UD"].strip()
+        if entry != "":
+            f.write("structure_in_ud: |\n")
+            f.write(f"    '{entry}'\n")
+
+        entry = row["Comment"].strip()
+        if entry != "":
+            f.write("comment: |\n")
+            f.write(f"    '{entry}'\n")
+
         f.write("references:\n")
         f.write("  - |\n")
         f.write('    "' + row["References"] + '"\n')

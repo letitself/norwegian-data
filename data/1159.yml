@@ -7,17 +7,13 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Можно использовать как в прямом значении с глаголами есть/съесть, проглотить, просыпать, уронить, так и в переносном -- с глаголами остаться, достаться, вложить и др.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Но вы же за сутки ни крошки не [съели]Action!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Директор на себя все денежки потратит, и детям ни крошки не [достанется]Action.'
+  - |
+       'Сколько ни пытался, [проглотить]Action ни крошки не [смог]Action.'
 morphology:
   - NA
 syntactic_type_of_construction:
@@ -36,11 +32,9 @@ intonation:
   - ~
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
+    '[root [advmod не] VP; [obl [advmod ни] NP-Gen]]'
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
 references:
   - |
     ""

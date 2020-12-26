@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция формулирует математическую операцию возведения [числа]Quantity в степень, названную [числом]Quantity и определяет [результат]Result. Слот VP заполняется глагольными формами "равняется", "будет" или "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 1, 2). Со словами "будет", "получится" и "это" или если они опущены, результат всегда выражен формой именительного падежа (примеры 3, 4, 5).'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       '[Два]Quantity в степени [ноль]Quantity равно [единице]Result.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'То есть получается, что [три]Quantity в степени [четыре]Quantity равно [восемьдесят один]Result.'
+  - |
+       '[Два]Quantity в степени [четыре]Quantity – [шестнадцать]Result.'
+  - |
+       '[Два]Quantity в степени [нуль]Quantity — это [единица]Result.'
+  - |
+       '[Сколько]Result будет [сто]Quantity в степени [50]Quantity?'
 morphology:
   - NumCrd
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

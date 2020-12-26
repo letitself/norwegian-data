@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что говорящий вежливо просит собеседника выполнить некоторое [действие]Activity. Имеет особую стилистическую окраску: употребляется для того, чтобы обозначить высокий стиль, либо для выражения иронии.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Пожалуйста, соблаговолите [пройти]Action, не задерживайтесь…'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'Если я здесь не нужен, благоволите [выпустить за границу]Action!'
+  - |
+       'Благоволите [принять этот букет]Action.'
+  - |
+       'Соблаговолите [не опаздывать]Action'
+  - |
+       'Благоволите [ответить точнее]Action: знаете или не знаете?'
 morphology:
   - Imp
   - VP
@@ -36,11 +36,7 @@ intonation:
   - Exclamatory
 usage_label: Obsolete
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[благоволите[VP-Inf]]'
 references:
   - |
     ""

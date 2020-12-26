@@ -13,11 +13,11 @@ definitions:
        'Konstruksjonen uttrykker at noen i en gitt situasjon er fullstendig blottet for [en viss følelse]Theme, f.eks. сострадание ‘medlidenhet’. En nærliggende konstruksjon i norsk er ‘å ikke ha/føle det minste X’.'
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Ни капли [сомнения]Theme нет ― мы должны это сделать.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'А у нее даже ни капли [совести]Theme нет.'
+  - |
+       'В тебе ни капли [жалости]Theme, ни капли [чувства]Theme нет!'
 morphology:
   - NP
   - Gen
@@ -38,11 +38,7 @@ intonation:
   - Assertive
 usage_label: Colloquial
 structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
+    '[root [obl [advmod ни] капли [nmod NP-Gen]] нет]; [root [obl [advmod ни] капли [nmod сострадания]] [obl [case к] ней] нет]'
 references:
   - |
     ""

@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает, что [участник]Possessor сожалеет о том, что утрачен или будет утрачен принадлежащий ему ценный [объект]Theme или [ресурс]Theme.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'А денег нам все-таки не отдадут. Плакали [наши]Possessor [денежки]Theme!'
   - |
-    "Another example.
-    It can go over multiple lines."
+       '«Ну, ― говорю я, ― плакал [ваш]Possessor [пиджачок]Theme, попрощайтесь с ним».'
+  - |
+       'Плакал [наш]Possessor [комфорт]Theme! Главное в пещере ― оптимизм.'
+  - |
+       'Не получилось праздника, фейерверк отменился! Плакали [мои]Possessor [надежды]Theme.'
+  - |
+       'За день до самолета я заметила ошибку в паспортных данных полиса. Распереживалась жуть и пулей помчалась в Евроинс. Думала плакал [мой]Possessor [отпуск]Theme и приятно удивлена была - минут за 10 все исправили и извинились.'
 morphology:
   - Pst
   - Nom
@@ -37,12 +37,6 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
-comment: |
-    "Example comment.
-    It can go over multiple lines."
 references:
   - |
     ""

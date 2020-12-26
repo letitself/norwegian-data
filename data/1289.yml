@@ -7,17 +7,17 @@ cefr_level: A1
 definitions:
   - russian: |
        'Конструкция обозначает [действие]Action, осуществление которого зависит от [разрешения или согласия]Cause [другого участника]Participant.'
-  - english: |
-       ''
-  - norwegian: |
-       ''
 examples:
   - |
-    "One example.
-    It can go over multiple lines."
+       'Бывшая домработница, ставшая няней, с разрешения [Саши]Participant, [выбросила все банки с детским питанием]Action и готовила Леночке сама.'
   - |
-    "Another example.
-    It can go over multiple lines."
+       'И тут же, с позволения [собеседника]Participant, он [записал это в свой блокнот]Action.'
+  - |
+       'Этот текст [написан на основе реальной психотерапевтической сессии]Action, с согласия [клиентки]Participant.'
+  - |
+       'Даже священник [совершает богослужения и таинства] только с благословения [архиерея]Participant, на полученном от него антиминсе и используя освященное им святое миро.'
+  - |
+       'Акционерная «закрытость» означает, что учредитель [может передать (продать) свои акции кому-то]Action только с согласия [других акционеров]Participant.'
 morphology:
   - VP
   - NP
@@ -37,12 +37,8 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    "Example structure in UD.
-    It can go over multiple lines."
 comment: |
-    "Example comment.
-    It can go over multiple lines."
+    'Конструкция также может иметь вид VP с Adj-Gen/PronPoss-Gen NP-Gen.Sg в случаях типа Он поехал туда один с маминого/родительского/моего разрешения.'
 references:
   - |
     ""
