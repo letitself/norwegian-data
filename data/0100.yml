@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +31,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Goal
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +50,4 @@ semantic_types:
       - type: Distance
 family:
   - |
-    ""
+    "The DISTANCE family of MEASURE constructions includes constructions that denote distance between two objects."

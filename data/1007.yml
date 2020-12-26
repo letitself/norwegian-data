@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Fut
+  - Cl
 syntactic_type_of_construction:
   - Cl
   - XP with parentheticals
@@ -50,4 +51,4 @@ semantic_types:
       - type: Permission
 family:
   - |
-    ""
+    "A family of constructions asking for permission to carry out an action."

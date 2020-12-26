@@ -1,7 +1,7 @@
 ---
 record: 1560
-name: 'NP-Nom Cop/VP в NumCrd-Loc шагах'
-UD_name: 'NP-Nom Cop/VP в NumCrd-Loc шагах'
+name: 'Cl в NumCrd-Loc шагах'
+UD_name: 'Cl в NumCrd-Loc шагах'
 illustration: 'Магазин тут в трех шагах.'
 cefr_level: A1
 definitions:
@@ -19,9 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Cl
+  - NumCrd
+  - Loc
 syntactic_type_of_construction:
-  - Copula Construction
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
   - Adverbial Modifier
@@ -31,7 +33,11 @@ part_of_speech_of_anchor:
   - Noun
   - Prep
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
+  - Situation
+  - Distance
+  - Landmark
 intonation:
   - ~
 usage_label: Colloquial
@@ -56,4 +62,4 @@ semantic_types:
       - type: Location
 family:
   - |
-    ""
+    "The DISTANCE family of MEASURE constructions includes constructions that denote distance between two objects."

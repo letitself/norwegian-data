@@ -1,7 +1,7 @@
 ---
 record: 1856
-name: 'NumCrd-Nom плюс/и NumCrd-Nom  – (равно/будет/получится/выйдет) NumCrd-Nom'
-UD_name: 'NumCrd-Nom плюс/и NumCrd-Nom  – (равно/будет/получится/выйдет) NumCrd-Nom'
+name: 'NumCrd-Nom плюс/и NumCrd-Nom – (равно/VP) NumCrd-Nom/NumCrd-Dat'
+UD_name: 'NumCrd-Nom плюс/и NumCrd-Nom – (равно/VP) NumCrd-Nom/NumCrd-Dat'
 illustration: 'Два плюс два равно четыре.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NumCrd
+  - Nom
+  - Dat
+  - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -29,7 +32,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Quantity
+  - Result
 intonation:
   - ~
 usage_label: ~
@@ -48,4 +52,4 @@ semantic_types:
       - type: Addition
 family:
   - |
-    ""
+    "CALCULATION constructions"

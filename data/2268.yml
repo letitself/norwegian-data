@@ -19,7 +19,13 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - XP
+  - PP
+  - NP
+  - VP
+  - Adv
+  - Adj
+  - Cl
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -31,7 +37,12 @@ part_of_speech_of_anchor:
   - Adv
   - Negation Marker
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Situation
+  - Property
+  - Evaluation
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -50,6 +61,9 @@ semantic_types:
       - type: Minimizer
         subptypes:
           - type: Absence
+  - type: Reaction to the previous discourse
+    subptypes:
+      - type: Disagreement
 family:
   - |
     ""

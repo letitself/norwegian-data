@@ -1,7 +1,7 @@
 ---
 record: 1726
-name: 'Adj в среде NP-Gen.Pl'
-UD_name: 'Adj в среде NP-Gen.Plur'
+name: 'Cl в среде NP-Gen.Pl'
+UD_name: 'Cl в среде NP-Gen.Plur'
 illustration: 'Он очень извествен в среде журналистов.'
 cefr_level: A1
 definitions:
@@ -19,9 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Cl + Modifier Construction
 syntactic_function_of_anchor:
   - Adverbial Modifier
 syntactic_structure_of_anchor:
@@ -30,7 +32,8 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Situation
+  - Set
 intonation:
   - ~
 usage_label: ~
@@ -50,4 +53,4 @@ semantic_types:
       - type: Location
 family:
   - |
-    ""
+    "Указание на местоположение объекта (нет указания на направление)"

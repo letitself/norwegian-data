@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP (размером
+  - величиной) с NP-Acc
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +30,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Theme
+  - Property
 intonation:
   - ~
 usage_label: ~
@@ -51,4 +53,4 @@ semantic_types:
       - type: Size
 family:
   - |
-    ""
+    "A family of constructions also describe physical parameters of an object, such as size, length or weight."

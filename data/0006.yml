@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - XP
+  - Cl
+  - Adv
+  - NP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:

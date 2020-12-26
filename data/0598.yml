@@ -35,6 +35,8 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Activity
   - Agent
+  - Event
+  - Result
 intonation:
   - Assertive
 usage_label: Colloquial

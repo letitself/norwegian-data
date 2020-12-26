@@ -1,7 +1,7 @@
 ---
 record: 97
-name: 'дать-Imp (ты) (NP-Dat) VP-Inf!'
-UD_name: 'дать-Imper (ты) (NP-Dat) VP-Inf!'
+name: 'дать-Imp (PronPers-2) (NP-Dat) VP-Inf!'
+UD_name: 'дать-Imper (PronPers-2) (NP-Dat) VP-Inf!'
 illustration: 'Дай доделать!'
 cefr_level: A1
 definitions:
@@ -19,7 +19,12 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Imp
+  - NP
+  - Dat
+  - VP
+  - Inf
+  - PronPers
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -29,7 +34,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Speaker
+  - Addressee
+  - Activity
+  - Action
+  - Theme
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -49,4 +58,4 @@ semantic_types:
   - type: Volition
 family:
   - |
-    ""
+    "A family of causative constructions"

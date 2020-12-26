@@ -1,7 +1,7 @@
 ---
 record: 54
-name: 'NP-Nom велеть NP-Dat VP-Inf'
-UD_name: 'NP-Nom велеть NP-Dat VP-Inf'
+name: 'NP-Nom велеть NP-Dat (не) VP-Inf'
+UD_name: 'NP-Nom велеть NP-Dat (не) VP-Inf'
 illustration: 'Мать велела сыну учиться.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Dat
+  - VP
+  - Inf
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
@@ -29,7 +33,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Participant
 intonation:
   - ~
 usage_label: ~
@@ -48,4 +54,4 @@ semantic_types:
       - type: Direct
 family:
   - |
-    ""
+    "A family of causative constructions"

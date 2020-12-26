@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NumCrd
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -49,4 +51,4 @@ semantic_types:
   - type: Measure
 family:
   - |
-    ""
+    "A family of MEASURE constructions that express approximate amounts"

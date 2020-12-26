@@ -19,7 +19,7 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Cl
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
@@ -29,7 +29,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
@@ -48,4 +48,4 @@ semantic_types:
       - type: Permission
 family:
   - |
-    ""
+    "A family of constructions asking for permission to carry out an action."

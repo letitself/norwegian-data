@@ -2,7 +2,7 @@
 record: 177
 name: 'ладно PronPers-2.Dat VP-Ipfv.Inf!'
 UD_name: 'ладно PronPers-2.Dat VP-Imp.Inf!'
-illustration: 'Ладно вам сердиться!'
+illustration: 'Ладно вам спорить!'
 cefr_level: A1
 definitions:
   - russian: |
@@ -29,7 +29,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -41,7 +42,7 @@ comment: |
     It can go over multiple lines."
 references:
   - |
-    ""
+    "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"
 semantic_types:
   - type: Prohibition
     subptypes:
@@ -49,4 +50,4 @@ semantic_types:
   - type: Volition
 family:
   - |
-    ""
+    "Family of prohibitive constructions Quantitative constructions 'enough of doing X' , milder tone that that of the standard prohibition"

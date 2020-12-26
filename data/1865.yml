@@ -1,7 +1,7 @@
 ---
 record: 1865
-name: 'NP-Nom равен/равняется NumCrd-Dat (NP-Dat)'
-UD_name: 'NP-Nom равен/равняется NumCrd-Dat (NP-Dat)'
+name: 'NP-Nom Cop равен/равняется NumCrd-Dat (NP-Dat/NP-Gen)'
+UD_name: 'NP-Nom Cop равен/равняется NumCrd-Dat (NP-Dat/NP-Gen)'
 illustration: 'Количество проданных билетов равняется семидесяти.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,12 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Nom
+  - NumCrd
+  - Dat
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
@@ -29,7 +34,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Quantity
+  - Measure
+  - Theme
 intonation:
   - ~
 usage_label: ~
@@ -46,4 +53,4 @@ semantic_types:
   - type: Measure
 family:
   - |
-    ""
+    "CALCULATION constructions"

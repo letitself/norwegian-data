@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +32,8 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Property
 intonation:
   - ~
 usage_label: ~
@@ -52,4 +55,4 @@ semantic_types:
       - type: Naming
 family:
   - |
-    ""
+    "Указание на имя или название субъекта или объекта (включая фамилию, отчество, псевдоним, кличку, прозвище и т.д.)"

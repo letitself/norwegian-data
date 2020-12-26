@@ -51,6 +51,9 @@ semantic_types:
   - type: Phase of action
     subptypes:
       - type: Continuative
+  - type: Temporal expression
+    subptypes:
+      - type: Time period
 family:
   - |
     ""

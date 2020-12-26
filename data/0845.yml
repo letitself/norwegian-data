@@ -1,7 +1,7 @@
 ---
 record: 845
-name: 'NP вверх дном'
-UD_name: 'NP вверх дном'
+name: 'NP-Nom Cop/VP вверх дном'
+UD_name: 'NP-Nom Cop/VP вверх дном'
 illustration: 'Дом вверх дном: бегают и плачут дети, вещи раскиданы, окна открыты...'
 cefr_level: A1
 definitions:
@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Nom
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +31,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Theme
+  - State
+  - Evaluation
 intonation:
   - ~
 usage_label: ~
@@ -52,4 +57,4 @@ semantic_types:
       - type: Transformation
 family:
   - |
-    ""
+    "Конструкции с семантикой качественного изменения, трансформации объекта."

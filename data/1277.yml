@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Imp
+  - VP
+  - Ipfv
+  - Inf
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -29,7 +32,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -41,7 +45,7 @@ comment: |
     It can go over multiple lines."
 references:
   - |
-    ""
+    "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673."
 semantic_types:
   - type: Causation
     subptypes:
@@ -51,4 +55,4 @@ semantic_types:
       - type: Continuative prohibitive
 family:
   - |
-    ""
+    "A family of prohibitive constructions Attenuative"

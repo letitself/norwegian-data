@@ -19,7 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - Pfv
+  - Fut
+  - Ipfv
+  - Inf
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -30,7 +34,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Speaker
+  - Addressee
 intonation:
   - ~
 usage_label: Colloquial
@@ -50,4 +56,4 @@ semantic_types:
   - type: Purpose
 family:
   - |
-    ""
+    "A family of causative constructions"

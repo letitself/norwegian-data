@@ -1,6 +1,6 @@
 ---
 record: 2175
-name: 'VP невооружённым глазом'
+name: 'XP невооружённым глазом'
 UD_name: 'VP невооружённым глазом'
 illustration: 'Сходство отца и сына видно невооруженным глазом.'
 cefr_level: A1
@@ -19,7 +19,7 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +30,9 @@ part_of_speech_of_anchor:
   - Noun
   - Adv
 semantic_roles:
-  - ~
+  - Theme
+  - Action
+  - Situation
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +51,4 @@ semantic_types:
   - type: Manner
 family:
   - |
-    ""
+    "Caritive constructions without the preposition BEZ"

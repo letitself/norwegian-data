@@ -19,7 +19,7 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -33,7 +33,11 @@ part_of_speech_of_anchor:
   - Adj
   - Negation Marker
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Theme
+  - Addressee
+  - Source
 intonation:
   - ~
 usage_label: ~
@@ -51,4 +55,4 @@ semantic_types:
   - type: Manner
 family:
   - |
-    ""
+    "Caritive constructions without the preposition BEZ"

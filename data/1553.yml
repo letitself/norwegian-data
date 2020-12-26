@@ -1,6 +1,6 @@
 ---
 record: 1553
-name: 'VP NumCrd NP-Gen в длину/ширину/высоту'
+name: 'VP/NP (Prep) NumCrd NP-Gen в длину/ширину/высоту'
 UD_name: 'VP NumCrd NP-Gen в длину/ширину/высоту'
 illustration: 'Вася прыгает два метра в длину.'
 cefr_level: A1
@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NumCrd
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +33,10 @@ part_of_speech_of_anchor:
   - Noun
   - Prep
 semantic_roles:
-  - ~
+  - Theme
+  - Quantity
+  - Measure
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +55,4 @@ semantic_types:
       - type: Dimensions
 family:
   - |
-    ""
+    "A family of constructions also describe physical parameters of an object, such as size, length or weight."

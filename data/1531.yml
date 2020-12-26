@@ -1,8 +1,8 @@
 ---
 record: 1531
-name: 'чёртова уйма/туча NP-Gen.Pl'
-UD_name: 'чёртова уйма/туча NP-Gen.Plur'
-illustration: 'Чёртова уйма денег!'
+name: 'уйма NP-Gen'
+UD_name: 'уйма NP-Gen'
+illustration: 'На все расходы ушла уйма денег.'
 cefr_level: A1
 definitions:
   - russian: |
@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +30,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
@@ -41,7 +42,7 @@ comment: |
     It can go over multiple lines."
 references:
   - |
-    ""
+    "Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -52,4 +53,4 @@ semantic_types:
       - type: Swearing
 family:
   - |
-    ""
+    "Measure constructions with nominal quantifiers."

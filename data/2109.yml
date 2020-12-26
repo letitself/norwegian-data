@@ -1,7 +1,7 @@
 ---
 record: 2109
-name: 'VP с ног на голову'
-UD_name: 'VP с ног на голову'
+name: 'VP (NP-Acc) с ног на голову'
+UD_name: 'VP (NP-Acc) с ног на голову'
 illustration: 'Ситуация перевернулась с ног на голову.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Acc
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +32,8 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Theme
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +52,4 @@ semantic_types:
       - type: Transformation
 family:
   - |
-    ""
+    "Конструкции с семантикой качественного изменения, трансформации объекта."

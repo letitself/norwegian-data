@@ -1,7 +1,7 @@
 ---
 record: 1485
-name: 'груда NP-Gen.Sg'
-UD_name: 'груда NP-Gen.Sing'
+name: 'груда NP-Gen'
+UD_name: 'груда NP-Gen'
 illustration: 'Это целая груда ответственности.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +30,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
@@ -41,7 +42,7 @@ comment: |
     It can go over multiple lines."
 references:
   - |
-    ""
+    "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."
 semantic_types:
   - type: Degree of intensity
     subptypes:
@@ -52,4 +53,4 @@ semantic_types:
       - type: Existential
 family:
   - |
-    ""
+    "Measure constructions with nominal quantifiers."

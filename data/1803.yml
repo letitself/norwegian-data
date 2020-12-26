@@ -1,7 +1,7 @@
 ---
 record: 1803
-name: 'NP-Nom Cop (не) против (того), чтобы Cl'
-UD_name: 'NP-Nom Cop (не) против (того), чтобы Cl'
+name: 'NP-Nom (не) Cop против (того), чтобы Cl/VP-Inf'
+UD_name: 'NP-Nom (не) Cop против (того), чтобы Cl/VP-Inf'
 illustration: 'Я не против, чтобы ты на ней женился.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,12 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Cop
+  - Cl
+  - VP
+  - Inf
 syntactic_type_of_construction:
   - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
@@ -33,7 +38,9 @@ part_of_speech_of_anchor:
   - Conj
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Situation
+  - Participant
 intonation:
   - ~
 usage_label: ~
@@ -56,4 +63,4 @@ semantic_types:
       - type: Disagreement
 family:
   - |
-    ""
+    "Family of constructions that express the attitude of support."

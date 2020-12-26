@@ -2,7 +2,7 @@
 record: 1913
 name: 'VP NP-Acc NP-Ins'
 UD_name: 'VP NP-Acc NP-Instr'
-illustration: 'Продавать яйца десятками'
+illustration: 'Продавать яйца десятками.'
 cefr_level: A1
 definitions:
   - russian: |
@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Acc
+  - Ins
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +32,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - NA
 semantic_roles:
-  - ~
+  - Quantifier
+  - Theme
+  - Participant
+  - Action
 intonation:
   - ~
 usage_label: ~

@@ -1,7 +1,7 @@
 ---
 record: 1289
-name: 'VP с NP-Gen'
-UD_name: 'VP с NP-Gen'
+name: 'VP с NP-Gen.Sg NP-Gen'
+UD_name: 'VP с NP-Gen.Sing NP-Gen'
 illustration: 'Я поехал туда один с согласия родителей.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +31,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Participant
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +53,4 @@ semantic_types:
       - type: Permission
 family:
   - |
-    ""
+    "A family of constructions asking for permission to carry out an action."

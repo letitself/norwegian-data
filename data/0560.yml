@@ -1,7 +1,7 @@
 ---
 record: 560
 name: 'так и VP-Ipfv'
-UD_name: 'NP-Nom так и VP-Imp'
+UD_name: 'так и VP-Imp'
 illustration: 'Кот так и сидит на окне.'
 cefr_level: A1
 definitions:
@@ -31,8 +31,8 @@ part_of_speech_of_anchor:
   - Pron
   - Conj
 semantic_roles:
-  - Presumption
   - Action
+  - Participant
 intonation:
   - ~
 usage_label: ~

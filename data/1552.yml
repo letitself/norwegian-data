@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - NumCrd
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +33,9 @@ part_of_speech_of_anchor:
   - Noun
   - Prep
 semantic_roles:
-  - ~
+  - Theme
+  - Quantity
+  - Measure
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +54,4 @@ semantic_types:
       - type: Dimensions
 family:
   - |
-    ""
+    "A family of constructions also describe physical parameters of an object, such as size, length or weight."

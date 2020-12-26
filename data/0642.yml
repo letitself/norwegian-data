@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Acc
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +32,8 @@ part_of_speech_of_anchor:
   - Prep
   - Pron
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
@@ -52,4 +55,4 @@ semantic_types:
       - type: Transformation
 family:
   - |
-    ""
+    "Конструкции с семантикой качественного изменения, трансформации объекта."

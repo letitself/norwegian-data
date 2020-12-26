@@ -19,7 +19,14 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - XP
+  - NP
+  - Gen
+  - NP
+  - VP
+  - Cl
+  - Adj
+  - Adv
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -31,7 +38,10 @@ part_of_speech_of_anchor:
   - Prep
   - Adv
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Situation
+  - Location
 intonation:
   - ~
 usage_label: ~
@@ -50,4 +60,4 @@ semantic_types:
       - type: Location
 family:
   - |
-    ""
+    "Указание на местоположение объекта (нет указания на направление)"

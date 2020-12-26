@@ -2,7 +2,7 @@
 record: 205
 name: 'не такой уж и Adj'
 UD_name: 'не такой уж и Adj'
-illustration: 'Не такой уж и страшный'
+illustration: 'Не такой уж и страшный.'
 cefr_level: A1
 definitions:
   - russian: |
@@ -32,7 +32,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - Property
+  - Evaluation
 intonation:
   - ~
 usage_label: ~
@@ -55,4 +55,4 @@ semantic_types:
       - type: Diminisher
 family:
   - |
-    "To be added"
+    ""

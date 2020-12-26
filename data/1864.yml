@@ -1,6 +1,6 @@
 ---
 record: 1864
-name: 'Cl (не) равно/равняется NumCrd-Dat (NP-Dat)'
+name: 'Cl (не) равно/равняется NumCrd-Dat/NumCrd-Nom'
 UD_name: 'Cl (не) равно/равняется NumCrd-Dat (NP-Dat)'
 illustration: 'Два плюс один не равно пяти.'
 cefr_level: A1
@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Cl
+  - NumCrd
+  - Dat
+  - Nom
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
@@ -30,7 +33,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Quantity
 intonation:
   - ~
 usage_label: ~
@@ -49,4 +52,4 @@ semantic_types:
       - type: Equation
 family:
   - |
-    ""
+    "CALCULATION constructions"

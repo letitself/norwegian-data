@@ -1,7 +1,7 @@
 ---
 record: 5
-name: '(а) NP-Nom/кто (же) его знает, Cl'
-UD_name: '(а) NP-Nom/кто (же) его знает, Cl'
+name: '(а) Noun-Nom/кто (же) (PronPers-3.Acc) знает, Cl'
+UD_name: '(а) Noun-Nom/кто (же) (PronPers-3.Acc) знает, Cl'
 illustration: 'Кто его знает, почему она так поступила.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Noun
+  - Nom
+  - Cl
 syntactic_type_of_construction:
   - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
@@ -29,7 +31,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Content
+  - Cognizer
+  - Topic
 intonation:
   - ~
 usage_label: Colloquial

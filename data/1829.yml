@@ -43,12 +43,12 @@ references:
   - |
     ""
 semantic_types:
-  - type: Actionality
-    subptypes:
-      - type: Multiplicative
   - type: Phase of action
     subptypes:
       - type: Continuative
+  - type: Pluractionality
+    subptypes:
+      - type: Multiplicative
 family:
   - |
     ""

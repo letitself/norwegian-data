@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Dat
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +31,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Maleficiary
+  - Theme
 intonation:
   - ~
 usage_label: ~
@@ -51,4 +56,4 @@ semantic_types:
       - type: Failed expectation
 family:
   - |
-    ""
+    "Указание на адресата некоторого сообщения (собственно адресат) или действия (~ бенефициант: "в угоду NP-Dat"; малефициант: "назло NP-Dat") - Получатель информации в ситуации речи. Включает бенефицианта и малефицианта."

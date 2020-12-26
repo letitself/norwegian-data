@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NumOrd
+  - Gen
+  - Dat
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -29,7 +31,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Quantity
+  - Result
 intonation:
   - ~
 usage_label: ~
@@ -45,7 +48,7 @@ references:
 semantic_types:
   - type: Calculation
     subptypes:
-      - type: Radical expression
+      - type: Extraction of a root
 family:
   - |
-    ""
+    "CALCULATION constructions"

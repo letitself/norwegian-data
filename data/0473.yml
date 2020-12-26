@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Dat
+  - Gen
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -29,7 +31,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
+  - Strandard
 intonation:
   - ~
 usage_label: Colloquial
@@ -46,6 +50,9 @@ semantic_types:
   - type: Assessment
     subptypes:
       - type: Negative
+  - type: Comparison
+    subptypes:
+      - type: Contrast
 family:
   - |
-    ""
+    "The family of ASSESSMENT constructions, General Holistic Assessment cluster, family of constructions formed by praedicative phrases expressing negative assessement"

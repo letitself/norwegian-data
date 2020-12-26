@@ -1,6 +1,6 @@
 ---
 record: 586
-name: 'VP (NP-Dat.Pl) по NP-Dat/по Num-Acc NP-Gen'
+name: 'VP (NP-Dat.Pl) по NP-Dat/по NumCrd-Acc NP-Gen'
 UD_name: 'VP (NP-Dat.Plur) по NP-Dat / по Num-Acc NP-Gen'
 illustration: 'Я дал всем по яблоку и по две конфеты.'
 cefr_level: A1
@@ -19,7 +19,13 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Dat
+  - Pl
+  - NumCrd
+  - Acc
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +35,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Theme
+  - Addressee
+  - Quantity
 intonation:
   - ~
 usage_label: ~
@@ -48,4 +57,4 @@ semantic_types:
       - type: Distributive
 family:
   - |
-    ""
+    "DISTRIBUTIVE constructions with multiple objects in singular"

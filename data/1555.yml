@@ -1,7 +1,7 @@
 ---
 record: 1555
-name: 'NumCrd NP-Gen NP-Nom'
-UD_name: 'NumCrd NP-Gen NP-Nom'
+name: 'NP (по) NumCrd NP-Gen NP-Nom'
+UD_name: 'NP (по) NumCrd NP-Gen NP-Nom'
 illustration: 'Сколько стоит? Три рубля штучка, двадцать рублей пучок.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - NumCrd
+  - Gen
+  - Nom
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +32,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - NA
 semantic_roles:
-  - ~
+  - Quantity
+  - Quantifier
+  - Theme
 intonation:
   - ~
 usage_label: ~
@@ -51,4 +56,4 @@ semantic_types:
       - type: Money
 family:
   - |
-    ""
+    "DISTRIBUTIVE constructions with multiple objects in singular"

@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +31,8 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Quantity
+  - Element
 intonation:
   - ~
 usage_label: Formal
@@ -48,4 +50,4 @@ semantic_types:
   - type: Exceptive
 family:
   - |
-    ""
+    "Caritive constructions without the preposition BEZ"

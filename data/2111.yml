@@ -1,7 +1,7 @@
 ---
 record: 2111
-name: 'NP-Nom Cop не против, если VP-Fut?'
-UD_name: 'NP-Nom Cop не против, если VP-Fut?'
+name: 'NP-Nom не Cop против, если VP-Fut?'
+UD_name: 'NP-Nom не Cop против, если VP-Fut?'
 illustration: 'Ты не против, если я зайду в магазин?'
 cefr_level: A1
 definitions:
@@ -19,7 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Cop
+  - VP
+  - Fut
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
@@ -48,4 +52,4 @@ semantic_types:
       - type: Permission
 family:
   - |
-    ""
+    "A family of constructions asking for permission to carry out an action."

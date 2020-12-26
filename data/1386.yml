@@ -1,7 +1,7 @@
 ---
 record: 1386
-name: 'VP на дом'
-UD_name: 'VP на дом'
+name: 'NP/VP на дом'
+UD_name: 'NP/VP на дом'
 illustration: 'Можно вызвать врача на дом.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +31,9 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Participant
+  - Activity
 intonation:
   - ~
 usage_label: Colloquial
@@ -54,4 +57,4 @@ semantic_types:
           - type: Goal
 family:
   - |
-    ""
+    "Указание на направление движения"

@@ -1,7 +1,7 @@
 ---
 record: 1425
-name: 'VP наизнанку'
-UD_name: 'VP наизнанку'
+name: 'VP (NP-Acc) наизнанку'
+UD_name: 'VP (NP-Acc) наизнанку'
 illustration: 'Рубашку вывернули наизнанку.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Acc
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +31,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adv
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -50,4 +52,4 @@ semantic_types:
       - type: Transformation
 family:
   - |
-    ""
+    "Конструкции с семантикой качественного изменения, трансформации объекта."

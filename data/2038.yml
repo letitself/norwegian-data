@@ -1,7 +1,7 @@
 ---
 record: 2038
-name: 'к NumCrd-Dat прибавить NumCrd-Acc равно/будет/получится/выйдет NumCrd-Nom'
-UD_name: 'к NumCrd-Dat прибавить NumCrd-Acc равно/будет/получится/выйдет NumCrd-Nom'
+name: '(если) к NumCrd-Dat прибавить NumCrd-Acc VP NumCrd-Nom'
+UD_name: '(если) к NumCrd-Dat прибавить NumCrd-Acc VP NumCrd-Nom'
 illustration: 'К четырём прибавить два будет шесть.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,11 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NumCrd
+  - Dat
+  - Acc
+  - Nom
+  - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -29,7 +33,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Quantity
+  - Result
 intonation:
   - ~
 usage_label: ~
@@ -48,4 +53,4 @@ semantic_types:
       - type: Addition
 family:
   - |
-    ""
+    "CALCULATION constructions"

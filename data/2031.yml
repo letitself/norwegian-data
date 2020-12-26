@@ -1,6 +1,6 @@
 ---
 record: 2031
-name: 'NP/VP без учета NP-Gen'
+name: 'NP/VP без учёта NP-Gen'
 UD_name: 'NP/VP без учета NP-Gen'
 illustration: 'Средний счет в этом ресторане, без учета алкоголя, две тысячи рублей.'
 cefr_level: A1
@@ -30,7 +30,9 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Quantity
+  - Result
+  - Element
 intonation:
   - ~
 usage_label: ~
@@ -48,4 +50,4 @@ semantic_types:
   - type: Exceptive
 family:
   - |
-    ""
+    "Caritive constructions with the preposition BEZ"

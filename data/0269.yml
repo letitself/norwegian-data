@@ -19,7 +19,8 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - Verb
+  - Pst
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -29,7 +30,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Assertive
 usage_label: Colloquial
@@ -51,4 +52,4 @@ semantic_types:
       - type: Continuative prohibitive
 family:
   - |
-    ""
+    "A family of prohibitive constructions Delimitative"

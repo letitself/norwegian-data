@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Cop
+  - Gen
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -32,7 +35,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
@@ -52,4 +56,4 @@ semantic_types:
       - type: Booster
 family:
   - |
-    ""
+    "Caritive constructions with the preposition BEZ"

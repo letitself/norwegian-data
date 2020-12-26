@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - Sg
+  - NP
+  - Dat
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +32,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Theme
+  - Quantity
+  - Location
+  - State
 intonation:
   - ~
 usage_label: ~

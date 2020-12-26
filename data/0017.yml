@@ -33,8 +33,8 @@ part_of_speech_of_anchor:
   - Adv
   - Noun
 semantic_roles:
-  - Stimulus
-  - Goal
+  - Participant
+  - Action
 intonation:
   - Assertive
 usage_label: ~
@@ -61,4 +61,4 @@ semantic_types:
       - type: Proper time
 family:
   - |
-    "To be added"
+    ""

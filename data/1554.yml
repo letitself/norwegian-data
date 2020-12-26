@@ -1,7 +1,7 @@
 ---
 record: 1554
-name: 'VP в радиусе NumCrd-Gen NP-Gen'
-UD_name: 'VP в радиусе NumCrd-Gen NP-Gen'
+name: 'NP-Nom Cop/VP в радиусе NumCrd-Gen NP-Gen'
+UD_name: 'NP-Nom Cop/VP в радиусе NumCrd-Gen NP-Gen'
 illustration: 'В радиусе двух километров от дома нет связи.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,10 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NumCrd
+  - Gen
+  - NP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +33,10 @@ part_of_speech_of_anchor:
   - Noun
   - Prep
 semantic_roles:
-  - ~
+  - Theme
+  - Distance
+  - Action
+  - Situation
 intonation:
   - ~
 usage_label: ~
@@ -52,4 +58,4 @@ semantic_types:
       - type: Location
 family:
   - |
-    ""
+    "The DISTANCE family of MEASURE constructions includes constructions that denote distance between two objects."

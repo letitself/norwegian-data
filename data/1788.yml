@@ -1,7 +1,7 @@
 ---
 record: 1788
-name: 'VP в укор/назидание NP-Dat'
-UD_name: 'VP в укор/назидание NP-Dat'
+name: 'VP в укор NP-Dat'
+UD_name: 'VP в укор NP-Dat'
 illustration: 'Газета напечатала рассказ не как пример для подражания, а в укор Хемингуэю.'
 cefr_level: A1
 definitions:
@@ -19,7 +19,9 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
+  - NP
+  - Dat
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -30,7 +32,9 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Maleficiary
 intonation:
   - ~
 usage_label: ~
@@ -44,6 +48,10 @@ references:
   - |
     ""
 semantic_types:
+  - type: Addressee
+    subptypes:
+      - type: Maleficiary
+  - type: Purpose
 family:
   - |
-    ""
+    "Указание на адресата некоторого сообщения (собственно адресат) или действия (~ бенефициант: "в угоду NP-Dat"; малефициант: "назло NP-Dat") - Получатель информации в ситуации речи. Включает бенефицианта и малефицианта."

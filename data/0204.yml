@@ -37,7 +37,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - Property
+  - Evaluation
 intonation:
   - Assertive
 usage_label: ~
@@ -63,4 +63,4 @@ semantic_types:
       - type: Diminisher
 family:
   - |
-    "To be added"
+    ""

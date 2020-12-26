@@ -19,7 +19,7 @@ examples:
     "Another example.
     It can go over multiple lines."
 morphology:
-  - ~
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -49,4 +49,4 @@ semantic_types:
   - type: Manner
 family:
   - |
-    ""
+    "Caritive constructions without the preposition BEZ"
