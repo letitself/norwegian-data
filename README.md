@@ -5,9 +5,9 @@
 
 ### Auto-generation of YAML files
 
-YAML files are auto-generated from `database-2020-11-13.csv` using:
+YAML files are auto-generated from `database-2020-12-26.csv` using:
 ```
-$ python convert-db.py database-2020-11-13.csv
+$ python convert-db.py database-2020-12-26.csv
 ```
 
 

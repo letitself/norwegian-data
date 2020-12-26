@@ -6,11 +6,11 @@ illustration: 'Вася прыгает два метра в длину.'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает [линейные параметры]Quantity [объекта]Theme или [действия]Action, измеренные в [стандартных единицах измерения длины, таких как километры, метры, мили, футы]Measure. Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта или действия]Theme стоит в аккузативе.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

@@ -6,11 +6,11 @@ illustration: 'Средний счет в этом ресторане, без у
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает, что при подсчёте [количества]Quantity или принятии [решения]Result исключается некоторая [часть или фактор]Element. [Часть]Element, которую говорящий исключает, отличается от других [частей]Element по какому-либо признаку, а [фактор]Element важен, но препятствует принятию [решения]Result.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

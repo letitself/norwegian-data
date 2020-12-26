@@ -6,11 +6,11 @@ illustration: 'Велодорожка длиной шесть километро
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает [линейные размеры]Quantity [объекта]Theme, измеренные в [стандартных единицах измерения длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

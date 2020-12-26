@@ -6,11 +6,11 @@ illustration: 'Взрыв радиусом в десятки метров'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает [радиус или диаметр]Quantity [круглого в сечении объекта]Theme, измеренный в [стандартных единицах длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

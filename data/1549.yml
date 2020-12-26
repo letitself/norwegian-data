@@ -6,11 +6,11 @@ illustration: 'Участок площадью сто гектаров'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает [площадь]Quantity [объекта]Theme, измеренную в [стандартных единицах измерения площади, таких как квадратные метры, квадратные километры, гектары, акры и др.]Measure Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

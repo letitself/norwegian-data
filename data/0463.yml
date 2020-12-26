@@ -6,11 +6,11 @@ illustration: 'Я играю в баскетбол с десяти лет.'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция называет [возраст]Number или [момент времени]Time, с которого [участник]Participant [выполняет некоторое действие]Action или оказывается в [определенной ситуации]Situation.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       'This construction expresses the [age]Number at which a [participant]Participant began [carrying out an action or being in a certain situation]Action.'
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

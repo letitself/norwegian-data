@@ -6,11 +6,11 @@ illustration: 'Собака была размером с лошадь.'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает, что некоторый [объект]Theme имеет параметры некоторого [образца]Property.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       'This construction expresses that [entity A]Theme has the dimensions of [entity B]Property.'
+  - norwegian: |
+       'Konstruksjonen uttrykker at [gjenstand A]Theme har samme dimensjoner som [gjenstand B]Property.'
 examples:
   - |
     "One example.

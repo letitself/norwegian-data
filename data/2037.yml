@@ -6,11 +6,11 @@ illustration: 'Семь делится на три с остатком один.
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает, что в результате математической операции деления [одного числа]Quantity (делимого) на [другое]Quantity (делитель) получается целое число с [остатком]Quantity. Числовое значение остатка может называться или опускаться.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

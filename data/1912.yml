@@ -6,11 +6,11 @@ illustration: 'У каждого входа стоит по часовому.'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция указывает на ситуацию распределения [объектов]Theme или [участников]Participant по нескольким местоположениям[Location]. При этом в каждом из местоположений находится одинаковое [количество]Quantity [объектов]Theme, и все объекты занимают одинаковую [позицию]State в пространстве (например, они лежат, стоят и пр.).'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       ''
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.

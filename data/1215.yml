@@ -6,11 +6,11 @@ illustration: 'Можно мне открыть окно?'
 cefr_level: A1
 definitions:
   - russian: |
-        "Example definition in Russian.
-        It can go over multiple lines."
+       'Конструкция обозначает, что [участнику ситуации]Participant дается разрешение на выполнение некоторого [действия]Action. Конструкция также используется, чтобы выразить просьбу участника дать ему такое разрешение.'
   - english: |
-        "Example definition in English.
-        It can go over multiple lines."
+       'This construction expresses that a [participant]Participant receives a permission to perform a certain [action]Action. The construction can also be uesed to express a request for such a permission.'
+  - norwegian: |
+       ''
 examples:
   - |
     "One example.
