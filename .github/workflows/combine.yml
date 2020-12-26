@@ -27,15 +27,16 @@ jobs:
     - name: Combine data files
       run: |
         python combine.py > data-combined.yml
+        python combine-debug.py > data-combined-debug.yml
     - name: Commit and push to target branch
       run: |-
         git config --global user.email "workflow-bot@example.com"
         git config --global user.name "workflow-bot"
         git checkout --orphan $TARGET_BRANCH
         git rm --cached -r .
-        mv data-combined.yml ..
+        mv data-combined*.yml ..
         rm -rf *
-        mv ../data-combined.yml .
+        mv ../data-combined*.yml .
         git add .
         git commit -m "automatically generated"
         git push --set-upstream origin $TARGET_BRANCH --force
