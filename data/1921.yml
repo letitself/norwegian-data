@@ -29,15 +29,15 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Minimizer
-        subptypes:
+        subtypes:
           - type: Absence
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Disagreement
 family:
   - |

@@ -46,7 +46,7 @@ semantic_types:
   - type: Cause
   - type: Possession
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Availability
 family:
   - |

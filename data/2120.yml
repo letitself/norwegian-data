@@ -26,12 +26,12 @@ references:
     ""
 semantic_types:
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: Internal
   - type: Timeline
-    subptypes:
+    subtypes:
       - type: Future
 family:
   - |

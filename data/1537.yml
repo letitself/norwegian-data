@@ -28,10 +28,10 @@ references:
     ""
 semantic_types:
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Approximate
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Temporal boundary
 family:
   - |

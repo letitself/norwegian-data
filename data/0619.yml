@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disapproval
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Disappear
   - type: Taxis
-    subptypes:
+    subtypes:
       - type: Subsequent action
 family:
   - |

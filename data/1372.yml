@@ -28,7 +28,7 @@ references:
 semantic_types:
   - type: Inclusive
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Property assignment
   - type: Subset
 family:

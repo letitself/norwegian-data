@@ -49,10 +49,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Support
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Agreement
       - type: Disagreement
 family:

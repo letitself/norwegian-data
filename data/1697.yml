@@ -30,13 +30,13 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disillusion
-        subptypes:
+        subtypes:
           - type: Positive
   - type: Mirative
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Surprise
 family:
   - |

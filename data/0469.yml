@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Timeline
-    subptypes:
+    subtypes:
       - type: Future
 family:
   - |

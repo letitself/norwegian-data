@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Agreement
 family:
   - |

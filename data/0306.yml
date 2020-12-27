@@ -27,7 +27,7 @@ references:
 semantic_types:
   - type: Condition
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Value judgment quantifier
 family:
   - |

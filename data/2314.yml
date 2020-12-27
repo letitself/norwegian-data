@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Willing
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Politeness marker
 family:
   - |

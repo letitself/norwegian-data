@@ -26,11 +26,11 @@ references:
     ""
 semantic_types:
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Measure
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Existential
 family:
   - |

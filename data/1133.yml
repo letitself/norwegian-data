@@ -28,10 +28,10 @@ references:
 semantic_types:
   - type: Concession
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Diminisher
   - type: Epistemic modality (Degree of certainty)
-    subptypes:
+    subtypes:
       - type: High degree of certainty
 family:
   - |

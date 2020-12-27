@@ -38,10 +38,10 @@ references:
     "Boguslavsky, I., Iomdin, L. (2009), Semantics of Attenuated Comparatives in Russian, Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), pp. 65–77."
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Inequality
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Diminisher
 family:
   - |

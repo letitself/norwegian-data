@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Support
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Context
       - type: Behavior
 family:

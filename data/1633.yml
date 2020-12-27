@@ -29,10 +29,10 @@ references:
     ""
 semantic_types:
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Temporal boundary
 family:
   - |

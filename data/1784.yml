@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Addressee
-    subptypes:
+    subtypes:
       - type: Beneficiary
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Emotional attitude
   - type: Purpose
 family:

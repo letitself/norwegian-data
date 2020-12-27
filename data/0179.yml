@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Attenuated prohibitive
   - type: Request
 family:

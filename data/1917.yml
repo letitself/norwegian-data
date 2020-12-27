@@ -29,10 +29,10 @@ references:
 semantic_types:
   - type: Condition
   - type: Concession
-    subptypes:
+    subtypes:
       - type: Failed expectation
   - type: Pluractionality
-    subptypes:
+    subtypes:
       - type: Habitual
 family:
   - |

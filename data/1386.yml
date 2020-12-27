@@ -42,12 +42,12 @@ references:
     ""
 semantic_types:
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Functionality
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Path
-        subptypes:
+        subtypes:
           - type: Goal
 family:
   - |

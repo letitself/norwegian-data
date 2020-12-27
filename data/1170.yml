@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Equality
 family:
   - |

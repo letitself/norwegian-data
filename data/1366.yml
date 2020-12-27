@@ -28,13 +28,13 @@ references:
     ""
 semantic_types:
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Existential
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

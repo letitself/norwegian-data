@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Dissatisfaction
   - type: Discourse structure
-    subptypes:
+    subtypes:
       - type: Discourse additive
       - type: Emphasis
 family:

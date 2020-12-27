@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Exact
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
 family:
   - |

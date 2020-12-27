@@ -28,10 +28,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Equality
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Essence
 family:
   - |

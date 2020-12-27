@@ -29,13 +29,13 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Swearing
 family:
   - |

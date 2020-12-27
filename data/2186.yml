@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Capacity for an activity
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Proper time
 family:
   - |

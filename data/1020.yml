@@ -27,11 +27,11 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
       - type: Negative
   - type: Epistemic modality (Degree of certainty)
-    subptypes:
+    subtypes:
       - type: High degree of certainty
   - type: Manner
 family:

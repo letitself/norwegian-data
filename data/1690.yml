@@ -28,10 +28,10 @@ references:
     ""
 semantic_types:
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Unaffected small portion
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

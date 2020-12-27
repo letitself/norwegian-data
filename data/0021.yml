@@ -26,12 +26,12 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: No choice
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: External
 family:
   - |

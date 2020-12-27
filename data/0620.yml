@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

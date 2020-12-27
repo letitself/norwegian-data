@@ -28,10 +28,10 @@ references:
 semantic_types:
   - type: Cause
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Absence
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Availability
 family:
   - |

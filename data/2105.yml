@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Absence
 family:
   - |

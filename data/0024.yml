@@ -28,12 +28,12 @@ references:
     ""
 semantic_types:
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Absence
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Path
-        subptypes:
+        subtypes:
           - type: Goal
 family:
   - |

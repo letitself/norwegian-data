@@ -45,15 +45,15 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: External
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Proper time
 family:
   - |

@@ -29,7 +29,7 @@ references:
 semantic_types:
   - type: Measure
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Proportional
   - type: Subset
 family:

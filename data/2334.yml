@@ -28,16 +28,16 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disapproval
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Continuative prohibitive
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Disagreement
 family:
   - |

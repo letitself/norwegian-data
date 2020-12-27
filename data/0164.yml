@@ -26,9 +26,9 @@ references:
     ""
 semantic_types:
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Universal
-        subptypes:
+        subtypes:
           - type: Free Choice
 family:
   - |

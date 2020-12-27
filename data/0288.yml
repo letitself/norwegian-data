@@ -46,10 +46,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Similarity
   - type: Measure
-    subptypes:
+    subtypes:
       - type: Size
 family:
   - |

@@ -44,7 +44,7 @@ semantic_types:
   - type: Cause
   - type: Condition
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Permission
 family:
   - |

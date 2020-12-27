@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Confidence about knowledge
   - type: Epistemic modality (Degree of certainty)
-    subptypes:
+    subtypes:
       - type: High degree of certainty
   - type: Routine
 family:

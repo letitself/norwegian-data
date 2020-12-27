@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
 family:
   - |

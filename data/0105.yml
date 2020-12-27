@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disapproval
   - type: Reaction to the previous discourse
 family:

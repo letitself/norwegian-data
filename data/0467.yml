@@ -26,12 +26,12 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Path
-        subptypes:
+        subtypes:
           - type: Goal
 family:
   - |

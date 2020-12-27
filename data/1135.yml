@@ -26,15 +26,15 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Preferences
-        subptypes:
+        subtypes:
           - type: Positive
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Capacity for an activity
 family:
   - |

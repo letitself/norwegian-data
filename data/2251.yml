@@ -29,12 +29,12 @@ references:
 semantic_types:
   - type: Measure
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Existential
-        subptypes:
+        subtypes:
           - type: Free Choice
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Permission
 family:
   - |

@@ -26,14 +26,14 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Attenuated prohibitive
   - type: Request
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Politeness marker
 family:
   - |

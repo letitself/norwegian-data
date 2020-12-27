@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Swearing
 family:
   - |

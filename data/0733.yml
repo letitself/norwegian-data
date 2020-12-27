@@ -26,12 +26,12 @@ references:
     ""
 semantic_types:
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: External
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Sircumstances
 family:
   - |

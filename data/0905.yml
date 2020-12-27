@@ -29,10 +29,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Equality
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
 family:
   - |

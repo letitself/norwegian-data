@@ -27,12 +27,12 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Inequality
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Minimizer
-        subptypes:
+        subtypes:
           - type: Absence
 family:
   - |

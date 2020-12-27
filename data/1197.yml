@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Approximate
 family:
   - |

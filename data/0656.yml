@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Apprehension
-    subptypes:
+    subtypes:
       - type: Preventive
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Threat
 family:

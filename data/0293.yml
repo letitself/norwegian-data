@@ -28,13 +28,13 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Cause
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: External
 family:
   - |

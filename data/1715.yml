@@ -29,9 +29,9 @@ semantic_types:
   - type: Cause
   - type: Mirative
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Path
-        subptypes:
+        subtypes:
           - type: Source
 family:
   - |

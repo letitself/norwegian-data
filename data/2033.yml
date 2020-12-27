@@ -26,7 +26,7 @@ references:
     ""
 semantic_types:
   - type: Calculation
-    subptypes:
+    subtypes:
       - type: Fraction
   - type: Measure
 family:

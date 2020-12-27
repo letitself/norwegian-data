@@ -29,10 +29,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Willing
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Agreement
 family:
   - |

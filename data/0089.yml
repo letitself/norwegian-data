@@ -27,11 +27,11 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
       - type: Negative
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
 family:
   - |

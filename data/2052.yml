@@ -27,7 +27,7 @@ references:
 semantic_types:
   - type: Exclusive
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Universal
 family:
   - |

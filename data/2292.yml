@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disapproval
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Attenuated prohibitive
 family:
   - |

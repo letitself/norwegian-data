@@ -41,11 +41,11 @@ references:
     ""
 semantic_types:
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Result
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Transformation
 family:
   - |

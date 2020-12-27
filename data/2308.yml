@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Agreement
 family:
   - |

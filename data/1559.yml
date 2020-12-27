@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Measure
-    subptypes:
+    subtypes:
       - type: Distance
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
       - type: Path
-        subptypes:
+        subtypes:
           - type: Source
 family:
   - |

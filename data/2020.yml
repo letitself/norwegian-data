@@ -29,10 +29,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Confidence about knowledge
   - type: Pluractionality
-    subptypes:
+    subtypes:
       - type: Habitual
 family:
   - |

@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Actionality
-    subptypes:
+    subtypes:
       - type: Distributive
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Universal
 family:
   - |

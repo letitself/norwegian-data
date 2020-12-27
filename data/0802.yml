@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Apprehension
-    subptypes:
+    subtypes:
       - type: Preventive
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Threat
 family:

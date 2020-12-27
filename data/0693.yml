@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Indirect
   - type: Source of opinion
-    subptypes:
+    subtypes:
       - type: Asking for opinion
 family:
   - |

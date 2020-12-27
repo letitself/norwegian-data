@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Concession
-    subptypes:
+    subtypes:
       - type: Extreme limit
 family:
   - |

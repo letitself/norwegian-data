@@ -29,15 +29,15 @@ references:
     ""
 semantic_types:
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Minimizer
-        subptypes:
+        subtypes:
           - type: Absence
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Unaffected small portion
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Prohibitive
 family:
   - |

@@ -27,14 +27,14 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
       - type: Negative
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Maximizer
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Paragon
 family:
   - |

@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Dissatisfaction
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Sircumstances
 family:
   - |

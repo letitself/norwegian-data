@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Curse
   - type: Threat
 family:

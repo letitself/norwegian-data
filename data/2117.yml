@@ -26,9 +26,9 @@ references:
     ""
 semantic_types:
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: Internal
 family:
   - |

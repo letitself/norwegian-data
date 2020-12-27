@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Regret
   - type: Source of information
-    subptypes:
+    subtypes:
       - type: Expressing opinion
 family:
   - |

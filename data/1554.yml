@@ -45,10 +45,10 @@ references:
     ""
 semantic_types:
   - type: Measure
-    subptypes:
+    subtypes:
       - type: Dimensions
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
 family:
   - |

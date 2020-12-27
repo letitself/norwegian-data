@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Concession
-    subptypes:
+    subtypes:
       - type: Imitative agreement
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Disagreement
 family:
   - |

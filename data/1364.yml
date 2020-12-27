@@ -27,16 +27,16 @@ references:
     ""
 semantic_types:
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Status
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Sircumstances
 family:
   - |

@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Dissatisfaction
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Matching the standard
 family:
   - |

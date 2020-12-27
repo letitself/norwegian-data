@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disapproval
   - type: Non-Standard Subject
-    subptypes:
+    subtypes:
       - type: Non-standard subject marking
 family:
   - |

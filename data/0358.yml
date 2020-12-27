@@ -28,13 +28,13 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Equality
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Matching the standard
 family:
   - |

@@ -29,7 +29,7 @@ semantic_types:
   - type: Condition
   - type: Manner
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
 family:
   - |

@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Concession
-    subptypes:
+    subtypes:
       - type: Limitation
 family:
   - |

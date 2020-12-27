@@ -45,10 +45,10 @@ references:
     ""
 semantic_types:
   - type: Addressee
-    subptypes:
+    subtypes:
       - type: Maleficiary
   - type: Concession
-    subptypes:
+    subtypes:
       - type: Failed expectation
 family:
   - |

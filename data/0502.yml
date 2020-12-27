@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Acceptance of the situation
 family:
   - |

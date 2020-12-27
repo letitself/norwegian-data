@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Confidence about knowledge
   - type: Discourse structure
-    subptypes:
+    subtypes:
       - type: Emphasis
 family:
   - |

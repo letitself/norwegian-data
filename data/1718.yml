@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
       - type: Path
-        subptypes:
+        subtypes:
           - type: Goal
       - type: Path
-        subptypes:
+        subtypes:
           - type: Source
 family:
   - |

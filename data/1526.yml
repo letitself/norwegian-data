@@ -28,10 +28,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
 family:
   - |

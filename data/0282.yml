@@ -42,10 +42,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Attenuated prohibitive
   - type: Request
 family:

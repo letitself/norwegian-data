@@ -27,7 +27,7 @@ references:
 semantic_types:
   - type: Result
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Physical state
 family:
   - |

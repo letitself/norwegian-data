@@ -47,10 +47,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Indirect
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Permission
 family:
   - |

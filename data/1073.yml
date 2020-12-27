@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Pluractionality
-    subptypes:
+    subtypes:
       - type: Frequentative
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

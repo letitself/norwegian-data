@@ -28,9 +28,9 @@ references:
     ""
 semantic_types:
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Path
-        subptypes:
+        subtypes:
           - type: Source
 family:
   - |

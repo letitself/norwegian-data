@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Unwilling
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Proper time
 family:
   - |

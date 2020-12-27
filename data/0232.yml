@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Unaffected generally
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
 family:
   - |

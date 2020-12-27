@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Measure
-    subptypes:
+    subtypes:
       - type: Speed
   - type: Mirative
 family:

@@ -26,15 +26,15 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Dissatisfaction
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: External
 family:
   - |

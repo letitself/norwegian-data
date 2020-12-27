@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Exact
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Terminative
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Temporal boundary
 family:
   - |

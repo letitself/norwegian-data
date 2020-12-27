@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Greeting
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Naming
 family:
   - |

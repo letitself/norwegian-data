@@ -42,10 +42,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Imitation
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Naming
 family:
   - |

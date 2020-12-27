@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: No choice
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Surprise
 family:
   - |

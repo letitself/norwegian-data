@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Dissatisfaction
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Warning
   - type: Threat
 family:

@@ -27,11 +27,11 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
       - type: Negative
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Capacity for an activity
 family:
   - |

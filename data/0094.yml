@@ -26,11 +26,11 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Willing
   - type: Salient property
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Emotional state
 family:
   - |

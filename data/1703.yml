@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Spatial characteristics
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
 family:
   - |

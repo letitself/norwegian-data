@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Indirect
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Prohibitive
   - type: Volition
 family:

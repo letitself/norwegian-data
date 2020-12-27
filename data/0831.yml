@@ -26,7 +26,7 @@ references:
     ""
 semantic_types:
   - type: Addressee
-    subptypes:
+    subtypes:
       - type: Beneficiary
   - type: Cause
   - type: Purpose

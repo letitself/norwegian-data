@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Exact
   - type: Taxis
-    subptypes:
+    subtypes:
       - type: Simultaneous action
 family:
   - |

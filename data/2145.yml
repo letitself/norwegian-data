@@ -27,7 +27,7 @@ references:
 semantic_types:
   - type: Condition
   - type: Concession
-    subptypes:
+    subtypes:
       - type: At least
 family:
   - |

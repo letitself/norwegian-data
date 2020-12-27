@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Visual property
 family:
   - |

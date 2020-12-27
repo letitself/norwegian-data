@@ -26,12 +26,12 @@ references:
     ""
 semantic_types:
   - type: Options
-    subptypes:
+    subtypes:
       - type: Universal Free Choice Item
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Universal
-        subptypes:
+        subtypes:
           - type: Free Choice
 family:
   - |

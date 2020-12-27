@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Approximate
   - type: Measure
-    subptypes:
+    subtypes:
       - type: Age
 family:
   - |

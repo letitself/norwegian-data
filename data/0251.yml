@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Skepticism
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Disagreement
 family:
   - |

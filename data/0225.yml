@@ -27,11 +27,11 @@ references:
     ""
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
-    subptypes:
+    subtypes:
       - type: High degree of certainty
   - type: Mirative
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Surprise
 family:
   - |

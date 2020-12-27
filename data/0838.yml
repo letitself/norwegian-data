@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Assessment
-    subptypes:
+    subtypes:
       - type: Positive
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Importance
 family:
   - |

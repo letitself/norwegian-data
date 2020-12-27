@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Taxis
-    subptypes:
+    subtypes:
       - type: Subsequent action
 family:
   - |

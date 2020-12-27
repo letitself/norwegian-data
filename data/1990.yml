@@ -27,10 +27,10 @@ references:
     ""
 semantic_types:
   - type: Concession
-    subptypes:
+    subtypes:
       - type: Failed expectation
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Diminisher
 family:
   - |

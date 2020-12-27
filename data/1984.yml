@@ -28,7 +28,7 @@ references:
 semantic_types:
   - type: Inclusive
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Temporal boundary
 family:
   - |

@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Non-existence
-    subptypes:
+    subtypes:
       - type: Absence
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Proper time
 family:
   - |

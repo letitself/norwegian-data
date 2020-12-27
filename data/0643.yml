@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Degree of accuracy
-    subptypes:
+    subtypes:
       - type: Approximate
   - type: Measure
-    subptypes:
+    subtypes:
       - type: Time
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

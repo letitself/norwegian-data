@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Indirect
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Proper time
 family:
   - |

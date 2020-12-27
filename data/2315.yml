@@ -27,18 +27,18 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Acceptance of the situation
   - type: Concession
-    subptypes:
+    subtypes:
       - type: At least
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Agreement
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Permission
-        subptypes:
+        subtypes:
           - type: External
 family:
   - |

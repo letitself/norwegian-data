@@ -29,10 +29,10 @@ references:
 semantic_types:
   - type: Measure
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Universal
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
 family:
   - |

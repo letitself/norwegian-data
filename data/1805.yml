@@ -30,7 +30,7 @@ references:
 semantic_types:
   - type: Condition
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Agreement
 family:
   - |

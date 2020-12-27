@@ -97,12 +97,12 @@ def write_record(row, record):
             if row[tag] != "":
                 f.write(f"  - type: {tag}\n")
                 if row[tag] != "Unspecified":
-                    f.write(f"    subptypes:\n")
+                    f.write(f"    subtypes:\n")
                     for chunk in row[tag].split(", "):
                         if ":" in chunk:
                             first, second = chunk.split(":")
                             f.write(f"      - type: {first.strip()}\n")
-                            f.write(f"        subptypes:\n")
+                            f.write(f"        subtypes:\n")
                             f.write(f"          - type: {second.strip()}\n")
                         else:
                             f.write(f"      - type: {chunk.strip()}\n")

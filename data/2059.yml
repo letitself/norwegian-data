@@ -30,10 +30,10 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Discourse structure
-    subptypes:
+    subtypes:
       - type: Emphasis
 family:
   - |

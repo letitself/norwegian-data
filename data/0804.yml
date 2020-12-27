@@ -28,7 +28,7 @@ references:
 semantic_types:
   - type: Manner
   - type: Taxis
-    subptypes:
+    subtypes:
       - type: Simultaneous action
 family:
   - |

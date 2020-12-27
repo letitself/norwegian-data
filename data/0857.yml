@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Disapproval
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

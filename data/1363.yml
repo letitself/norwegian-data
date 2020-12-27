@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Continuative
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Location
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

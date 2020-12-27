@@ -27,11 +27,11 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Negative
   - type: Reaction to the previous discourse
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Swearing
 family:
   - |

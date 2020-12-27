@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Dissatisfaction
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Repeatedly the same
 family:
   - |

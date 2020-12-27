@@ -27,7 +27,7 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Concern
   - type: Reaction to the previous discourse
 family:

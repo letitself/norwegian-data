@@ -27,9 +27,9 @@ references:
 semantic_types:
   - type: Manner
   - type: Spatial expression
-    subptypes:
+    subtypes:
       - type: Path
-        subptypes:
+        subtypes:
           - type: Goal
 family:
   - |

@@ -29,7 +29,7 @@ semantic_types:
   - type: Condition
   - type: Manner
   - type: Timeline
-    subptypes:
+    subtypes:
       - type: Future
 family:
   - |

@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Prohibition
-    subptypes:
+    subtypes:
       - type: Prohibitive
   - type: Reaction to the previous discourse
-    subptypes:
+    subtypes:
       - type: Warning
 family:
   - |

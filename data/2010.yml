@@ -29,7 +29,7 @@ references:
 semantic_types:
   - type: Condition
   - type: Taxis
-    subptypes:
+    subtypes:
       - type: Subsequent action
 family:
   - |

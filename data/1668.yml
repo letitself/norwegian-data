@@ -28,10 +28,10 @@ references:
     ""
 semantic_types:
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
   - type: Timeline
-    subptypes:
+    subtypes:
       - type: Recent past
 family:
   - |

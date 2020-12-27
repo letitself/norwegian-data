@@ -27,13 +27,13 @@ references:
     ""
 semantic_types:
   - type: Comparison
-    subptypes:
+    subtypes:
       - type: Contrast
   - type: Pluractionality
-    subptypes:
+    subtypes:
       - type: Alternation
   - type: Quantification
-    subptypes:
+    subtypes:
       - type: Existential
 family:
   - |

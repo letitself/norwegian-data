@@ -26,10 +26,10 @@ references:
     ""
 semantic_types:
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Property assignment
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Relevance
 family:
   - |

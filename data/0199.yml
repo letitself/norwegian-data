@@ -27,10 +27,10 @@ references:
 semantic_types:
   - type: Measure
   - type: Phase of action
-    subptypes:
+    subtypes:
       - type: Terminative
   - type: Temporal expression
-    subptypes:
+    subtypes:
       - type: Time period
 family:
   - |

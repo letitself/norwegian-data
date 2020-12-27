@@ -26,13 +26,13 @@ references:
     ""
 semantic_types:
   - type: Attitude
-    subptypes:
+    subtypes:
       - type: Attraction
   - type: Degree of intensity
-    subptypes:
+    subtypes:
       - type: Booster
   - type: Temporary characteristics
-    subptypes:
+    subtypes:
       - type: Emotional state
 family:
   - |

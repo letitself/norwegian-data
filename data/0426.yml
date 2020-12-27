@@ -30,9 +30,9 @@ references:
 semantic_types:
   - type: Manner
   - type: Root modality
-    subptypes:
+    subtypes:
       - type: Necessity
-        subptypes:
+        subtypes:
           - type: External
 family:
   - |

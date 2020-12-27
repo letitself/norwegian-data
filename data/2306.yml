@@ -26,11 +26,11 @@ references:
     ""
 semantic_types:
   - type: Causation
-    subptypes:
+    subtypes:
       - type: Direct
   - type: Request
   - type: Routine
-    subptypes:
+    subtypes:
       - type: Politeness marker
 family:
   - |

@@ -41,10 +41,10 @@ references:
     ""
 semantic_types:
   - type: Addressee
-    subptypes:
+    subtypes:
       - type: Core Addressee
   - type: Salient property
-    subptypes:
+    subtypes:
       - type: Domain
 family:
   - |
