@@ -46,7 +46,7 @@ def write_record(row, record):
         f.write(f"name: '{row['Name'].strip()}'\n")
         f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
-        f.write(f"cefr_level: A1\n")
+        f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
         for language in ["Russian", "English", "Norwegian"]:
             entry = row[f"Definition in {language}"].strip()
