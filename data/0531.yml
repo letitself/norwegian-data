@@ -1,13 +1,16 @@
 ---
 record: 531
-name: 'NP-Nom над-VP-ся над NP-Ins'
+name: 'NP-Nom над-Verb-ся над NP-Ins'
 UD_name: 'NP-Nom над-VP-ся над NP-Ins'
 illustration: 'Они надругались над законами экономики.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - VP
+  - Ins
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:

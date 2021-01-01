@@ -1,13 +1,17 @@
 ---
 record: 1471
-name: 'VP в Num-Crd раз Adj-Cmp/Adv-Cmp'
-UD_name: 'VP в Num-Crd раз Adj-Cmp/Adv-Cmp'
+name: 'VP в NumCrd раз Adj-Cmp/Adv-Cmp'
+UD_name: 'VP в NumCrd раз Adj-Cmp/Adv-Cmp'
 illustration: 'От этого разговора ему стало в десять раз обиднее.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - VP
+  - NumCrd
+  - Adj
+  - Cmp
+  - Adv
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

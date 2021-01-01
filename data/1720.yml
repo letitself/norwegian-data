@@ -1,13 +1,15 @@
 ---
 record: 1720
-name: 'NP стоять в/на NP-Loc'
-UD_name: 'NP стоять в/на NP-Loc'
+name: 'NP-Nom стоять в/на NP-Loc'
+UD_name: 'NP-Nom стоять в/на NP-Loc'
 illustration: 'Бутылка стоит на столе.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Loc
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:

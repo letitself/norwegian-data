@@ -7,7 +7,10 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Adj
+  - Acc
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:

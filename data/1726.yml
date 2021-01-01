@@ -19,9 +19,10 @@ examples:
   - |
        'Даже в среде [членов социал-демократического съезда]Set [такая постановка вопроса вызвала оппозицию]Situation.'
 morphology:
-  - VP
+  - Cl
   - NP
   - Gen
+  - Pl
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:

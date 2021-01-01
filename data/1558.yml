@@ -1,13 +1,17 @@
 ---
 record: 1558
-name: 'NP-Nom обойти/обогнать/опередить на Num-Acc NP-Gen'
-UD_name: 'NP-Nom обойти/обогнать/опередить на Num-Acc NP-Gen'
+name: 'NP-Nom обойти/обогнать/опередить на NumCrd-Acc NP-Gen'
+UD_name: 'NP-Nom обойти/обогнать/опередить на NumCrd-Acc NP-Gen'
 illustration: 'Победитель обогнал конкурента на две секунды.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - NumCrd
+  - Acc
+  - Gen
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:

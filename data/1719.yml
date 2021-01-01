@@ -1,13 +1,15 @@
 ---
 record: 1719
-name: 'NP лежать в/на NP-Loc'
-UD_name: 'NP лежать в/на NP-Loc'
+name: 'NP-Nom лежать в/на NP-Loc'
+UD_name: 'NP-Nom лежать в/на NP-Loc'
 illustration: 'Хлеб лежит на полке.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Loc
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:

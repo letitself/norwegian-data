@@ -23,8 +23,8 @@ examples:
   - |
        'Предположим, что [планета]Theme размером с [Юпитер]Property сформировалась где-то далеко от звезды.'
 morphology:
-  - NP (размером
-  - величиной) с NP-Acc
+  - NP
+  - Acc
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

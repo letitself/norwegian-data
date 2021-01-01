@@ -7,7 +7,12 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - VP
+  - NumCrd
+  - Acc
+  - Noun
+  - Gen
+  - NP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

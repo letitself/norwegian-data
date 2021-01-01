@@ -7,7 +7,9 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Ins
+  - Cl
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:

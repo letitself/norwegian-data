@@ -7,7 +7,13 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - VP
+  - Pst
+  - Dat
+  - Inf
+  - Pst
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:

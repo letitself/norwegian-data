@@ -21,6 +21,7 @@ examples:
 morphology:
   - NP
   - Nom
+  - Cop
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction

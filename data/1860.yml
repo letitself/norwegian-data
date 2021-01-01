@@ -21,7 +21,10 @@ examples:
 morphology:
   - NumCrd
   - Nom
+  - NumOrd
   - Loc
+  - VP
+  - Dat
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:

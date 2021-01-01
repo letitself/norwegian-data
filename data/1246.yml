@@ -1,6 +1,6 @@
 ---
 record: 1246
-name: 'прекратить/перестать-Imper VP-Ipfv.Inf!'
+name: 'прекратить/перестать-Imp VP-Ipfv.Inf!'
 UD_name: 'прекратить/перестать-Imper VP-Imp.Inf!'
 illustration: 'Прекрати капризничать!'
 cefr_level: B2
@@ -21,7 +21,7 @@ examples:
   - |
        'Перестаньте [драматизировать]Action, ситуации смешные на самом деле.'
 morphology:
-  - Imper
+  - Imp
   - VP
   - Ipfv
   - Inf

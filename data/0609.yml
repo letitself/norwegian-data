@@ -7,7 +7,11 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - PronPers
+  - Dat
+  - NP
+  - Cop
+  - Pred
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:

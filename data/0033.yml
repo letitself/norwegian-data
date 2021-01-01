@@ -6,7 +6,7 @@ illustration: 'Без пяти минут врач'
 cefr_level: A2
 definitions:
   - russian: |
-       'Конструкция обозначает, что [некоторый участник]Participant в ближайшем будущем сменит свой статус на [новый, как правило, более бысокий статус]Evaluation. Как правило речь идет о получении профессии (пример 1), продвижении по карьерной лестнице (примеры 2, 5) или повышении статуса в личных и родственных отношениях (примеры 3, 4). Выражение "без пяти минут" синонимично слову "почти".'
+       'Конструкция обозначает, что [некоторый участник]Participant в ближайшем будущем сменит свой статус на [новый, как правило, более высокий статус]Evaluation. Как правило речь идет о получении профессии (пример 1), продвижении по карьерной лестнице (примеры 2, 5) или повышении статуса в личных или родственных отношениях (примеры 3, 4). Выражение "без пяти минут" синонимично слову "почти". Как если бы на часах оставалось всего пять минут до наступления нового статуса.'
   - english: |
        'This construction is used to show that [a participant]Participant will change his or her status in the near future to the [new and usually higher status]Evaluation.'
 examples:
@@ -21,17 +21,18 @@ examples:
   - |
        '― [Вы]Participant без пяти минут ― [обладатель «Оскара»]Evaluation. ― Вы мне льстите.'
 morphology:
-  - ~
+  - NP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Adj
 syntactic_structure_of_anchor:
-  - Nominal pattern?
+  - Nominal pattern
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Evaluation
 intonation:
   - ~
 usage_label: Colloquial

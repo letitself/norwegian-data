@@ -7,7 +7,13 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Cop
+  - VP
+  - NumCrd
+  - Loc
+  - Gen
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:

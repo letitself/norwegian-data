@@ -21,9 +21,9 @@ examples:
 morphology:
   - NP
   - Nom
+  - Cop
   - NumCrd
   - Dat
-  - NP
   - Gen
 syntactic_type_of_construction:
   - Predicate Argument Construction

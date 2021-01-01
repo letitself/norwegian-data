@@ -7,13 +7,17 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Inf
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Double negation
 part_of_speech_of_anchor:
   - ~
 semantic_roles:

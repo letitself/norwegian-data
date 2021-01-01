@@ -21,6 +21,8 @@ examples:
   - |
        '[Они]Participant [занимали очереди за билетами на фильм Кэмерона]Action с [четырех часов утра]Time.'
 morphology:
+  - VP
+  - NumCrd
   - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction

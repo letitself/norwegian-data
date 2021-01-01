@@ -19,8 +19,8 @@ examples:
   - |
        'Наличие жилья является одной из основных причин возвращения иногородних студентов на родину, несмотря на [отсутствие перспектив]Evaluation в отношении [работы и заработной платы]Theme.'
 morphology:
-  - NP
   - VP
+  - NP
   - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction

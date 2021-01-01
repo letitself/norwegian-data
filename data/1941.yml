@@ -20,6 +20,7 @@ examples:
        'В середине апреля в парижских газетах появилось [сообщение]Theme под заголовком [«Позиция генерала Врангеля»]Theme.'
 morphology:
   - NP
+  - XP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

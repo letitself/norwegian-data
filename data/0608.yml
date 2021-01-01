@@ -7,7 +7,11 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - PronPers
+  - NP
+  - Nom
+  - NumColl
+  - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:

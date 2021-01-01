@@ -7,7 +7,12 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Cop
+  - Noun
+  - Dat
+  - Pl
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:

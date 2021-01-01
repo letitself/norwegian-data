@@ -6,7 +6,7 @@ illustration: 'Ни капли сострадания к ней нет.'
 cefr_level: B1
 definitions:
   - russian: |
-       'Конструкция с двойным отрицанием передает значение категорического (полного) отсутствия [чего-либо]Theme через отрицание наличия даже его минимального [кванта]Theme. Можно использовать как в прямом значении (о жидкостях), так и в переносном -- о чувствах, эмоциях и способностях.'
+       'Конструкция с двойным отрицанием передает значение категорического (полного) отсутствия [чего-либо]Theme через отрицание наличия даже его минимального [кванта]Theme. Можно использовать как в прямом значении (о жидкостях), так и в переносном – о чувствах, эмоциях и способностях (как если бы они были жидкостями).'
   - english: |
        'This construction expresses that, in a certain situation, someone is completely void of [a certain feeling/emotion]Theme, e.g. сострадание ‘compassion’. A closely related construction in English ‘not feel any X’.'
   - norwegian: |
@@ -21,6 +21,7 @@ examples:
 morphology:
   - NP
   - Gen
+  - Cop
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:

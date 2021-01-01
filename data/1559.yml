@@ -1,13 +1,18 @@
 ---
 record: 1559
-name: 'VP/NP в Num-Loc NP-Loc (от NP-Gen)'
-UD_name: 'VP/NP в Num-Loc NP-Loc (от NP-Gen)'
+name: 'VP/NP в NumCrd-Loc NP-Loc (от NP-Gen)'
+UD_name: 'VP/NP в NumCrd-Loc NP-Loc (от NP-Gen)'
 illustration: 'Машина стоит в пяти метрах от дороги.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - VP
+  - NP
+  - NumCrd
+  - Loc
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

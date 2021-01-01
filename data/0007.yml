@@ -9,7 +9,13 @@ definitions:
        'Конструкция используется для выражения сходства между [объектом]Theme и [некоторым прототипом]Standard, но необязательно их полного совпадения. Конструкция выражает сравнение и акцентирует сходство двух объектов или ситуаций по некоторому признаку.'
 examples:
 morphology:
-  - ~
+  - NP
+  - Nom
+  - Cop
+  - Short
+  - Acc
+  - Ins
+  - Dat
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:

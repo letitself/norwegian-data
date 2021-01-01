@@ -19,6 +19,7 @@ examples:
   - |
        'Мы беседовали с профессором Ефимовым в рамках международной конференции по биофизике сердца, [которая прошла]Situation в стенах [МФТИ]Location.'
 morphology:
+  - Cl
   - NP
   - Gen
 syntactic_type_of_construction:

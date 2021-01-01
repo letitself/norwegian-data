@@ -7,7 +7,12 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Gen
+  - VP
+  - Pfv
+  - Inf
+  - Cl
 syntactic_type_of_construction:
   - Cl
   - XP with parentheticals

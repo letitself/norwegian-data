@@ -7,7 +7,8 @@ cefr_level: С1
 definitions:
 examples:
 morphology:
-  - ~
+  - Cl
+  - XP
 syntactic_type_of_construction:
   - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
@@ -27,9 +28,10 @@ references:
   - |
     ""
 semantic_types:
-  - type: Reaction to the previous discourse
+  - type: Discourse structure
     subtypes:
-      - type: Focus
+      - type: Emphasis
+  - type: Reaction to the previous discourse
 family:
   - |
     ""

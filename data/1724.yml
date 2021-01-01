@@ -1,13 +1,16 @@
 ---
 record: 1724
-name: 'VP в окружении NP-Gen.Plur'
+name: 'VP в окружении NP-Gen.Pl'
 UD_name: 'VP в окружении NP-Gen.Plur'
 illustration: 'В окружении цветов растёт большой куст жасмина.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - VP
+  - NP
+  - Gen
+  - Pl
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

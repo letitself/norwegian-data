@@ -1,13 +1,17 @@
 ---
 record: 2067
-name: 'сделать-Imper (PronPers-1.Dat) одолжение, VP-Imper'
+name: 'сделать-Imp (PronPers-1.Dat) одолжение, VP-Imp'
 UD_name: 'сделать-Imper (PronPers-1.Dat) одолжение, VP-Imper'
 illustration: 'Сделай одолжение, принеси мою сумку!'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - Imp
+  - PronPers
+  - 1
+  - Dat
+  - VP
 syntactic_type_of_construction:
   - Cl
   - XP with parentheticals

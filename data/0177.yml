@@ -19,7 +19,12 @@ examples:
   - |
        '.― Да ладно [вам]Participant [стесняться и прятаться]Action. Я вас сразу заметила.'
 morphology:
-  - ~
+  - PronPers
+  - 2
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:

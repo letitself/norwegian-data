@@ -24,12 +24,15 @@ morphology:
   - NP
   - Dat
   - Acc
+  - Cop
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Pron
+  - Verb
 part_of_speech_of_anchor:
   - ~
 semantic_roles:

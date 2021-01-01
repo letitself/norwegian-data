@@ -1,13 +1,16 @@
 ---
 record: 2213
-name: '(Adj) на Adj-Acc.Sg Noun-Sing.Acc'
+name: '(Adj) на Adj-Acc.Sg Noun-Sg.Acc'
 UD_name: '(Adj) на Adj-Acc.Sing Noun-Sing.Acc'
 illustration: 'Лучший на данный момент'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - Adj
+  - Acc
+  - Sg
+  - Noun
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

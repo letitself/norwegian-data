@@ -1,12 +1,12 @@
 ---
 record: 1863
-name: 'корень NumOrd-Gen степени из NumCrd-Gen равен NumCrd-Dat'
-UD_name: 'корень NumOrd-Gen степени из NumCrd-Gen равен NumCrd-Dat'
+name: 'корень NumOrd-Gen степени из NumCrd-Gen – (это) NumCrd-Nom/равен NumCrd-Dat'
+UD_name: 'корень NumOrd-Gen степени из NumCrd-Gen – (это) NumCrd-Nom/равен NumCrd-Dat'
 illustration: 'Корень четвертой степени из шестнадцати равен двум.'
 cefr_level: C1
 definitions:
   - russian: |
-       'Конструкция формулирует математическую операцию извлечения корня [определенной степени]Quantity из [некоторого числа]Quantity и определяет [результат вычисления]Result.'
+       'Конструкция формулирует математическую операцию извлечения корня [определенной степени]Quantity из [некоторого числа]Quantity и определяет [результат вычисления]Result. Результат выражен формой дательного падежа в случае, если используется слово "равен" (примеры 1, 2, 3). Со словом "это" или если оно опущено, результат всегда выражен формой именительного падежа (примеры 4, 5).'
 examples:
   - |
        'Корень [четвертой]Quantity степени из [шестнадцати]Quantity равен [двум]Result.'
@@ -14,9 +14,15 @@ examples:
        'Kорень [девятой]Quantity степени из [нуля]Quantity равен [нулю]Result.'
   - |
        'Корень [шестой]Quantity степени из [шестидесяти четырех]Quantity равен [двум]Result.'
+  - |
+       'То есть корень [третьей]Quantity степени из [-8]Quantity – это [-2]Result?'
+  - |
+       'Например, корень [четвертой]Quantity степени из [числа 625]Quantity – это [числа -5 и 5]Result.'
 morphology:
   - NumOrd
   - Gen
+  - NumCrd
+  - Nom
   - Dat
 syntactic_type_of_construction:
   - Clause

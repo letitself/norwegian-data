@@ -1,13 +1,15 @@
 ---
 record: 2212
-name: '(Adj) на Adj-Acc.Sg взгляд-Sing.Acc'
+name: '(Adj) на Adj-Acc.Sg взгляд-Sg.Acc'
 UD_name: '(Adj) на Adj-Acc.Sing взгляд-Sing.Acc'
 illustration: 'Странный на первый взгляд'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - ~
+  - Adj
+  - Acc
+  - Sg
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:

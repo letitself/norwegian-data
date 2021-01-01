@@ -7,7 +7,10 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - PronPers
+  - Nom
+  - Dat
+  - XP
 syntactic_type_of_construction:
   - Cl
   - XP with parentheticals

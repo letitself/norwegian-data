@@ -6,11 +6,11 @@ illustration: 'Он пошел весь в отца.'
 cefr_level: B1
 definitions:
   - russian: |
-       'Конструкция служит для выражения значительного сходства кого-либо [с его близким или дальним родственником]Theme. Сходство может быть как в характере, так и во внешности. Конструкция может иметь некоторую негативную оценку при сравнении плохих черт характера. Например: "посмотри на него, свинью, весь в своего отца".'
+       'Конструкция служит для выражения значительного сходства кого-либо [с его близким или дальним родственником]Theme. Сходство может быть как в характере, так и во внешности. Конструкция может иметь негативную оценку при сравнении плохих черт характера (пример 5).'
   - english: |
-       'This construction means that someone is very similar to [a close or distant relative]Theme, either in their character or in their looks. When it is used to compare bad character traits, the construction has a negative connotation, e.g. посмотри на него, свинью, весь в своего отца ‘look at him, that swine, he is just like his father’.'
+       'This construction means that someone is very similar to [a close or distant relative]Theme, either in their character or in their looks. When it is used to compare bad character traits, the construction has a negative connotation (example 5).'
   - norwegian: |
-       'Konstruksjonen uttrykker at noen er svært lik [en nær eller fjern slektning]Theme. Likhetstrekkene kan være knyttet både til personlighet og utseende. Når konstruksjonen brukes om dårlige likhetstrekk, har den en negativ konnotasjon, f.eks. посмотри на него, свинью, весь в своего отца ‘se på ham, det svinet, han er akkurat som faren’.'
+       'Konstruksjonen uttrykker at noen er svært lik [en nær eller fjern slektning]Theme. Likhetstrekkene kan være knyttet både til personlighet og utseende. Når konstruksjonen brukes om dårlige likhetstrekk, har den en negativ konnotasjon (eksempel 5).'
 examples:
   - |
        'Брат так похож на неё лицом и характером. Весь в [маму]Theme.'
@@ -18,8 +18,14 @@ examples:
        'В бабушку, вся в [бабушку]Theme, — говорил иногда старик, рассматривая внучку.'
   - |
        'Дочь вся в [папу]Theme пошла.'
+  - |
+       'Рыдала Танюша по поводу Валерки. Тот стал красавцем, весь в [мать]Theme, знал о своей красоте и гулял то с одной девочкой, то с другой.'
+  - |
+       'Характером Карл был весь в [папашу]Theme, поэтому с раннего юношества в семье разражались такие скандалы, что матушка его спасалась вместе с сыном от гнева отца, в спешке убегая.'
 morphology:
   - NP
+  - Nom
+  - Cop
   - Acc
 syntactic_type_of_construction:
   - Copula Construction

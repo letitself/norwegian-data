@@ -7,7 +7,12 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - ~
+  - NP
+  - Acc
+  - Verb
+  - Pfv
+  - Pst
+  - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
