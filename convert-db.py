@@ -52,7 +52,7 @@ def write_record(row, record):
             entry = row[f"Definition in {language}"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
-                f.write(f"       '{entry}'\n")
+                f.write(f"       {entry}\n")
         f.write("examples:\n")
         for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
             entry = row[column].strip()

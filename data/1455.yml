@@ -6,7 +6,7 @@ illustration: 'Из больницы выписали пациента с имм
 cefr_level: 
 definitions:
   - russian: |
-       'X is a zero level = X does not exist or is very low = bad Выписали вроде здорового человека, а в действительности на 90 процентов больного с иммунитетом на нуле.'
+       X is a zero level = X does not exist or is very low = bad Выписали вроде здорового человека, а в действительности на 90 процентов больного с иммунитетом на нуле.
 examples:
 morphology:
   - NP
