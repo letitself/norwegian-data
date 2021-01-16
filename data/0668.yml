@@ -5,6 +5,8 @@ UD_name: 'XP не XP, Cl'
 illustration: 'Экзамены не экзамены, ему сейчас не до этого.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. Correct: Changed illustration. indifference Конструкция используется в ситуации, когда говорящий принимает факт [случившегося]Event и выражает безразличие по отношению к его [последствиям или результату.]Result'
 examples:
 morphology:
   - XP
@@ -24,13 +26,16 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern
+      - type: Acceptance
   - type: Condition
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Reaction to the previous discourse
 family:
   - |
-    ""
+    "Concern"

@@ -5,6 +5,8 @@ UD_name: 'NP-Dat нет дела до NP-Gen'
 illustration: 'Мне нет дела до твоих денег.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern'
 examples:
 morphology:
   - NP
@@ -25,11 +27,15 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern
+      - type: Acceptance
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Concern, Discontent"

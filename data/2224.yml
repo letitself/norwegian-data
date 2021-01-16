@@ -5,6 +5,8 @@ UD_name: 'что (NP-Dat) Cop (по)делать, Cl'
 illustration: 'Что делать, придётся идти!'
 cefr_level: 
 definitions:
+  - russian: |
+       'Acceptance of the situation, usually negative situation, external factor that is out of the speaker's control. Reconciliation примирение. есть редкие употребления со связкой в прош времени. вводное только в наст вр, Но что было делать? Идти вперёд или, может, возвращаться назад?'
 examples:
 morphology:
   - NP
@@ -26,11 +28,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Acceptance of the situation
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
 family:
   - |
-    ""
+    "Reconciliation"

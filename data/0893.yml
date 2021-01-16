@@ -6,6 +6,8 @@ illustration: 'Во́т ты какой!'
 cefr_level: 
 definitions:
 examples:
+  - |
+       '― Так вот ты какой стал теперь! Она посмотрела на меня с интересом: ― Вот ты какой стал! ― А что? ― Гордый.'
 morphology:
   - PronPers
   - Nom
@@ -24,13 +26,15 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: Assessment in relation to quantification
   - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Expressions of surprisal"

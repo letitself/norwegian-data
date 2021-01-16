@@ -3,9 +3,21 @@ record: 1016
 name: 'если NP-Dat Cop угодно, Cl'
 UD_name: 'если NP-Dat Cop угодно, Cl'
 illustration: 'Если вам угодно, называйте меня Генрихом.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       'Конструкция обозначает, что говорящий предлагает некоторые [действия]Action (которые осуществит он сам, собеседник или другой участник) и спрашивает согласия и разрешения [собеседника]Participant на эти действия. Подразумевается, что эти действия в интересах собеседника и что отношение собеседника к ним будет положительным. В редких случаях говорящий обращается не к непосредственному собеседнику, а к другому участнику (пример 2).'
 examples:
+  - |
+       'А [снова встретимся, скажем, завтра,]Action если [вам]Participant будет угодно.'
+  - |
+       'Защита может, если [ей]Participant угодно, [сейчас задавать вопросы]Action.'
+  - |
+       '― Так [я поясню]Situation, если [тебе]Participant угодно, что оружием проблемы не решаются, а только создаются'
+  - |
+       '―  Если [вам]Participant будет угодно, ― произнес черный кардинал с кислой миной, ― [я могу зачитать официальную формулировку, определяющую отношение Департамента темных сил к этомувопросу]Situation.'
+  - |
+       'И духи от Cartier имели оглушительный успех. Во-первых, потому, что они благородные. Во-вторых, потому, что они яркие. В-третьих, потому, что они талантливые. В-четвертых, потому, что они от Cartier и в них дух Cartier. Впрочем, если [вам]Participant угодно, [можете считать именно последнее обстоятельство самым главным]Action.'
 morphology:
   - NP
   - Dat
@@ -21,20 +33,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
   - ~
 usage_label: Obsolete
+comment: |
+    'См. близкую конструкцию 1017 если хотеть-Prs.2 VP-Inf, VP-Imp (Если хочешь идти, иди).'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Support
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Root modality
     subtypes:
       - type: Permission
 family:
   - |
-    ""
+    "Support"

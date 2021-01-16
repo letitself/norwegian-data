@@ -5,7 +5,11 @@ UD_name: 'Так PronPers-Nom и думать-Past/знать-Past, (что) Cl'
 illustration: 'Так я и думал, что ты меня обманешь.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Уверенность в своем мнении о качествах собеседника или субъекта действия'
 examples:
+  - |
+       'Так я и знал, теперь я точно простужусь'
 morphology:
   - PronPers
   - Nom
@@ -27,14 +31,17 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Confidence about knowledge
+      - type: Mental attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement
 family:
   - |
-    ""
+    "Confidence"

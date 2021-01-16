@@ -27,8 +27,11 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Reaction to the previous discourse
 family:
   - |
-    ""
+    "Reconciliation"

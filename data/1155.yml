@@ -1,10 +1,12 @@
 ---
 record: 1155
-name: 'чтоб PronPers-Nom VP-Pfv.Pst!'
-UD_name: 'чтоб PronPers-Nom VP-Perf.Past!'
-illustration: 'Чтоб он пропал!'
+name: 'VP-Imp к чёрту/к чертям/ко всем чертям'
+UD_name: 'VP-Imper к чёрту / к чертям/ ко всем чертям'
+illustration: 'Убирайся отсюда ко всем чертям!'
 cefr_level: 
 definitions:
+  - russian: |
+       'General negative attitude to the situation on the side of the speaker - in all Curse constructions'
 examples:
 morphology:
   - PronPers
@@ -27,9 +29,12 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
     subtypes:
       - type: Negative
   - type: Routine
@@ -37,4 +42,4 @@ semantic_types:
       - type: Curse
 family:
   - |
-    ""
+    "Curses"

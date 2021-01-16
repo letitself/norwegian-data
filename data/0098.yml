@@ -5,6 +5,8 @@ UD_name: '(с)даваться-Past PronPers-Dat этот NP-Nom!'
 illustration: 'Дался тебе этот неудачник!'
 cefr_level: 
 definitions:
+  - russian: |
+       'Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту).initially даваться-Past Pron-Dat этот NP-Nom!'
 examples:
 morphology:
   - Pst
@@ -27,11 +29,15 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+      - type: Assessments specific to people
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Importance/Worth, Importance/Power"

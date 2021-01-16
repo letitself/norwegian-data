@@ -5,6 +5,10 @@ UD_name: 'без преувеличения XP'
 illustration: 'Это без преувеличения великий художник.'
 cefr_level: 
 definitions:
+  - russian: |
+       'слот заполняется оценочными прил и нареч Можно также "без преувеличений", на само. деле, соответствие. сравнизап с той без преувеличения эйфорией, два часа. a lot , to correct value Negative, positive зрелище без преувеличения жуткое Negative, positive зрелище без преувеличения жуткое'
+  - english: |
+       'зрелище без преувеличения жуткое'
 examples:
 morphology:
   - XP
@@ -23,17 +27,20 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: Assessment in relation to quantification
   - type: Degree of accuracy
     subtypes:
       - type: Exact
   - type: Degree of intensity
     subtypes:
       - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "A lot"

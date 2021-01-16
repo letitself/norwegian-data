@@ -3,9 +3,25 @@ record: 212
 name: 'не NP какой-нибудь'
 UD_name: 'не NP какой-нибудь'
 illustration: 'Мы не бомжи какие-нибудь!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       'Конструкция обозначает, что некоторый участник (реже: объект) с точки зрения говорящего не является представителем некоторого [множества участников]Theme, не заслуживающих внимания или уважения и обозначенных с оттенком пренебрежения. Конструкция содержит негативную оценку представителей этого множества и возвышает над ними участника или объект по их статусу, качеству или другим характеристикам. Подразумевается, что этим участником нельзя пренебрегать, а следует оценить по достоинству.'
+  - english: |
+       'This construction expresses that X is not to be compared with [Y]Theme, since X has a much higher status, e.g. мы ‘we’ and бомжи ‘homeless people’. The construction involves a negative evaluation of [Y]Theme.'
+  - norwegian: |
+       'Konstruksjonen uttrykker at X ikke er til å sammenligne med [Y]Theme siden X har en mye høyere status, f.eks. мы ‘we’ and бомжи ‘homeless people’. Konstruksjonen innebærer en negativ evaluering av [Y]Theme.'
 examples:
+  - |
+       'Да и вообще, это звучит гордо: «Ты кем работаешь?» ― «Спасателем!» А не [менеджером]Theme каким-нибудь.'
+  - |
+       'Между прочим, у Веры муж специалист, а не [монтер]Theme какой-нибудь.'
+  - |
+       'Парень молодой, из себя ничего, к тому же из армии, не [сопляк]Theme какой-нибудь, довольно начитан, мог поговорить с девушкой, танцевал какие хотите танцы.'
+  - |
+       'Да я не [проходимец]Theme какой-нибудь, ты не думай.'
+  - |
+       'Я не [детектив]Theme какой-нибудь сочиняю, а рассказываю действительную историю ― да и не историю даже, а случай.'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -17,17 +33,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [advmod не] NP [amod какой-нибудь]]; [root [nsubj мы] [advmod не] бомжи [amod какие-нибудь!]]'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Unknown"

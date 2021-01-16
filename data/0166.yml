@@ -9,11 +9,15 @@ definitions:
        'Конструкция используется в качестве ответа на вопрос собеседника. Говорящий не согласен с адресатом и сомневается в предложенном [варианте чего-либо]Theme. Конструкция характерна для разговорной речи и невысокого стиля, не употребляется в вежливом общении. На письме конструкция может сопровождаться как восклицательным знаком, так и вопросительным.'
 examples:
   - |
-       '― У нас с тобой сегодня по плану шопинг! ― Какой, к чёрту, [шопинг]Theme , у меня голова болит, и вообще я устала.'
+       '― У нас с тобой сегодня по плану шопинг! ― Какой, к чёрту, [шопинг]Theme, у меня голова болит, и вообще я устала.'
   - |
-       '― Ну, подожди, сейчас перестройка. Может, уладится как-нибудь, все изменится. ― Какая, к чёрту, [перестройка]Theme ? Что может измениться?'
+       '― Ну, подожди, сейчас перестройка. Может, уладится как-нибудь, все изменится. ― Какая, к чёрту, [перестройка]Theme? Что может измениться?'
   - |
        'Район называется Центральный. Тут метро есть, можно на нем доехать. ― Какое, к чёрту, [метро]Theme, я на машине.'
+  - |
+       '― Трамвая жду! Дойдя до конца коридора, Мюллер подумал: «Какого, к черту, [трамвая]Theme!» и оглянулся. Штирлица уже не было.'
+  - |
+       '― Нет, она ведьма, ― возражает Дианка, ― она моей бабушке говорила ― к ней духи ходят. ― Какие, к чёрту, [духи]Theme!? ― спрашиваю я.'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -39,9 +43,12 @@ structure_in_ud: |
     '[root [amod какой], [advmod к чёрту], сон]!'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
     subtypes:
       - type: Negative
   - type: Reaction to the previous discourse
@@ -52,4 +59,4 @@ semantic_types:
       - type: Swearing
 family:
   - |
-    "Семья ругательных конструкций"
+    "Swearing"

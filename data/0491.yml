@@ -5,7 +5,15 @@ UD_name: 'NP-Dat Noun-Nom Cop не (в) Noun-Acc (без NP-Gen)'
 illustration: 'Девочкам радость не в радость.'
 cefr_level: 
 definitions:
+  - russian: |
+       'В конструкции отрицаются характерные признаки [объекта]Object или [общего состояния]State[человека]Experiencer (как позитивного, так и негативного). В конструкциях, где описывается [состояние человека]State, используется предлог ["в"]в. bad definition.'
 examples:
+  - |
+       'Но радость была не в радость, потому что зарплату на фабрике задерживали на полтора месяца.'
+  - |
+       'Без театра, без костюмов [ [мне]Experiencer [жизнь]State [не]не [жизнь]'
+  - |
+       '― Поймите, из-за ваших звонков [ [моей жене]Experiencer [жизнь]State не в [жизнь]State и [ [радость]State не в [радость].'
 morphology:
   - NP
   - Dat
@@ -30,14 +38,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Emotional attitude
+      - type: Emotional Attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Temporary characteristics
     subtypes:
       - type: Emotional state
 family:
   - |
-    ""
+    "Specific emotions"

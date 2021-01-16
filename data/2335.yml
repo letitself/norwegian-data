@@ -30,8 +30,11 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Indifference
+      - type: Assessment specific to people
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Temporary characteristics
 family:
   - |
-    ""
+    "Capacity/Intellect"

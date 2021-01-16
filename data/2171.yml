@@ -5,7 +5,11 @@ UD_name: 'эх ты, Cl'
 illustration: 'Эх ты! Зачем же ты молоко в холодильник не убрал!'
 cefr_level: 
 definitions:
+  - russian: |
+       'осуждение, критика поведения.'
 examples:
+  - |
+       'Это зимой-то? Эх ты― мужик! Дурак ты, мужик! Девка из лесу придёт, намерзла небось как цуцик, а ты её― в подполье!'
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -24,11 +28,19 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: General assessment
+      - type: Assessments specific to people
+      - type: Assessment in relation to quantification
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Constructions with interjections"

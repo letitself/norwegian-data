@@ -3,9 +3,21 @@ record: 1210
 name: '(NP-Dat) охота/неохота Cop VP-Inf'
 UD_name: '(NP-Dat) Cop охота/неохота VP-Inf'
 illustration: 'Мне спать охота.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       'Конструкция выражает желание ("охота") или нежелание ("неохота") [участника]Experiencer выполнять некоторое [действие]Action. Это отношение к действию представляется как состояние участника, которое слабо поддается его контролю. Положительное отношение ("охота") как правило подразумевает физические или естественные потребности человека (спать, есть, пить и пр.). Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии. Используется как правило в разговорной речи между равными по статусу участниками. Связочный глагол не согласуется по роду со словами "охота" и "неохота" и в прошедшем времени имеет форму среднего рода: "было".'
 examples:
+  - |
+       '― И [мне]Experiencer охота [похвастаться своей коллекцией]Action. Вы должны оценить, Леон'
+  - |
+       'Королев старался не баловать по садам, хотя всё время было охота [поживиться клубникой, грушовкой]Action.'
+  - |
+       'Ты только представь себе: [кому]Experiencer же будет охота [возвращаться к проекту]Action, если он уже скомпрометирован?'
+  - |
+       'На роль Дианы пробовались несколько молодых актрис. Ира мне нравилась, я ее знала, но она пробовалась так, как будто [ей]Experiencer было неохота [сниматься]Action: нехотя спела, вяло сыграла на гитаре. Мол, не больно-то и хочется. Потом она как-то призналась мне: не люблю пробы.'
+  - |
+       'Я вспомнил о Лёле, о своём обещании "не пропадать" и почувствовал лёгкие угрызения совести. Неохота [мне]Experiencer было [ей звонить…]Action, а с другой стороны, вроде надо бы… Или не надо…'
 morphology:
   - NP
   - Dat
@@ -21,18 +33,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Experiencer
 intonation:
   - ~
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Willing
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Volition
 family:
   - |
-    ""
+    "Willingness"

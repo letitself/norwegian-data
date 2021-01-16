@@ -25,12 +25,19 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: General assessment
+      - type: Assessments specific to people
+      - type: Assessment in relation to quantification
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Constructions with interjections"

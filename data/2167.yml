@@ -5,6 +5,10 @@ UD_name: '(NP-Dat) NP-Nom (не) катить'
 illustration: 'Мне такой аргумент не катит.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Использовать нельзя, потому что неуместен. Сейчас это катит, шпион это круто. В общем, Байрон, как говорят мои студенты, уже «не катил». [Андрей Геласимов. Рахиль // «Октябрь», 2003] в корпусе. в гугле А ещё больше не катил категорический отказ покланяться императору как Богу. редко но бывает в прошедшем конструкции еще и про уместность (whether the object can be of use)'
+  - english: |
+       'В общем, Байрон, как говорят мои студенты, уже «не катил». [Андрей Геласимов. Рахиль // «Октябрь», 2003] в корпусе. в гугле А ещё больше не катил категорический отказ покланяться императору как Богу. редко но бывает в прошедшем'
 examples:
 morphology:
   - NP
@@ -25,12 +29,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Usefulness"

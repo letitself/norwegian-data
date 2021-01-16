@@ -3,9 +3,23 @@ record: 433
 name: 'Noun-то!'
 UD_name: 'Noun-то!'
 illustration: 'Усищи-то!'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       'ОБСУДИТЬ В ВАЛЕЙ И ДАШЕЙ Конструкция обозначает, что говорящий подчеркивает, что [предмет]Theme по определенному признаку превосходит норму. Конструкция часто обозначает, что [предмет]Theme имеет необычно большой размер. ИСХОДНОЕ ТОЛКОВАНИЕ ДРУГОЕ, ПРО ЭМФАЗУ, а не про оценку! Конструкция употребляется, когда говорящий хочет подчеркнуть и выделить в предложении [объект]Theme, к которому "-то" относится, придать объекту особое значение. См. близкую конструкцию 2149 Noun-Gen-то Cop! Народу-то. EMPHASIS: выделение какого-либо элемента высказывания.'
+  - english: |
+       'This construction is used when the speaker wants to emphasise and highlight [the object]Theme in the sentence to which "-то" refers, giving it a particular meaning.'
 examples:
+  - |
+       '[Книгу]Theme-то какую прочёл!'
+  - |
+       '[Я]Theme-то понимаю.'
+  - |
+       '[Ночь]Theme-то какая тёплая!'
+  - |
+       '― Вот сила-то! ― засмеялся Суровцев.'
+  - |
+       '― Кожа-то! Кожа, а? Маргарита Николаевна, ведь ваша кожа светится.'
 morphology:
   - Noun
 syntactic_type_of_construction:
@@ -21,16 +35,21 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root Noun-то!]; [root усищи-то!]'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: Assessment in relation to norms/expectations
   - type: Discourse structure
     subtypes:
       - type: Emphasis
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Deviations from the norm"

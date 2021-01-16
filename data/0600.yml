@@ -5,6 +5,8 @@ UD_name: 'NP-Nom Cop, конечно, NP-Nom, что Cl'
 illustration: 'Я, конечно, дурак, что послушался тебя.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция обозначает, что [участник]Agent ситуации или говорящий оценивает, что совершил [что-то]Action, что по его мнению, совершенно точно (не) нужно было делать. Ограничение на именную группу: [дурак, молодец, глупец, умница, красавчик]Assessment'
 examples:
 morphology:
   - NP
@@ -26,12 +28,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: General assessment
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Assessment of a proposition"

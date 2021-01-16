@@ -45,6 +45,9 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
       - type: Negative
   - type: Temporary characteristics
     subtypes:
@@ -52,4 +55,4 @@ semantic_types:
       - type: Transformation
 family:
   - |
-    "Конструкции с семантикой качественного изменения, трансформации объекта."
+    "Deviations from the norm, Transformation"

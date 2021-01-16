@@ -30,10 +30,13 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Acceptance of the situation
+      - type: Acceptance
   - type: Concession
     subtypes:
       - type: At least
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement
@@ -44,4 +47,4 @@ semantic_types:
           - type: External
 family:
   - |
-    ""
+    "Reconciliation"

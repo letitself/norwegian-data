@@ -13,7 +13,11 @@ examples:
   - |
        'Слова на телевидении не так уж [важны]Evaluation.'
   - |
-       'Всю жизнь считалось: что смешно ― то не так уж и  [страшно]Evaluation.'
+       'Всю жизнь считалось: что смешно ― то не так уж и [страшно]Evaluation.'
+  - |
+       'На этот раз (а это случается не так [часто]Evaluation), фильм действительно достоин хороших сборов.'
+  - |
+       'Стоит она не так [дорого]Evaluation: около 20 рублей за квадратный метр.'
 morphology:
   - NP
   - Nom
@@ -45,18 +49,20 @@ comment: |
     'См. близкую конструкцию NP-Nom Cop не так (уж и) Pred/Adj.Short/не так (уж и) Adv VP (Всё не так уж и плохо).'
 references:
   - |
-    "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333."
+    "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333. Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: Assessment in relation to quantification
   - type: Comparison
     subtypes:
       - type: Inequality
   - type: Degree of intensity
     subtypes:
       - type: Diminisher
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Little, None"

@@ -3,9 +3,21 @@ record: 492
 name: '(NP-Dat) Cop в лом VP-Inf'
 UD_name: '(NP-Dat) Cop в лом VP-Inf'
 illustration: 'Маше вставать с кровати было в лом.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       'Конструкция выражает наивысшую степень нежелания [участника]Experiencer выполнять некоторое [действие]Action. Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии. Используется исключительно в разговорной речи между равными по статусу участниками.'
 examples:
+  - |
+       'А теперь пару десятков километров [вам]Experiencer [пройти]Action в лом?'
+  - |
+       'Mы поражались тому, что [ему]Experiencer в лом было [нанять ассистента]Action, который бы за три ночи снял все фактические ошибки в любом его романе.'
+  - |
+       'И не ты ли отправляла парней за дровами, когда [самой]Experiencer [ходить]Action было в лом.'
+  - |
+       'С Исаевым теперь у них договор ― как только назревает необходимость, он ей сигналит, и Катя программку инсталлирует, [ей]Experiencer не в лом. Тем более, для финансового директора.'
+  - |
+       'Просто [народу]Experiencer в лом [тащиться куда-то, да ещё в субботу]Action.'
 morphology:
   - NP
   - Dat
@@ -21,18 +33,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Experiencer
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [obl NP-Dat] VP-Inf [Cop быть] [advmod [fixed в] лом]]; [root [obl Маше] вставать [obj [case с] кровати] [aux было] [advmod [fixed в] лом]]'
+comment: |
+    'Отрицательная частица "не" ставится перед словам "в лом": "не в лом".'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Volition
 family:
   - |
-    ""
+    "Willingness"

@@ -29,13 +29,16 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessments specific to people
   - type: Attitude
     subtypes:
-      - type: Disapproval
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
 family:
   - |
-    ""
+    "Disapproval"

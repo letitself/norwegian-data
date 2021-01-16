@@ -3,9 +3,23 @@ record: 216
 name: 'невесть PronInt'
 UD_name: 'невесть PronInt'
 illustration: 'Невесть откуда он пришел вчера.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       'Конструкция обозначает, что говорящему неизвестны или непонятны [объект действия, участник действия или обстоятельства ситуации (как, где, когда, почему)]Theme. Конструкция как правило несет негативную оценку.'
+  - english: |
+       'This construction signifies that [an object, exactly how the action was performed or where]Theme is unknown to the speaker. This is an old-fashioned construction.'
 examples:
+  - |
+       'Они сказали невесть [что]Theme, а вы повторяете.'
+  - |
+       'Старшие сестры жили далеко, а брат находился невесть [где]Theme.'
+  - |
+       'Огромная тарелка супа невесть [как]Theme оказалась на обеденном столе.'
+  - |
+       'Невесть [почему]Theme я вспомнила песню про коричневую пуговку, которую мы распевали в детском саду.'
+  - |
+       'Они же думают, что это просто ничего не значащие слова, которые невесть [кто]Theme и [когда]Theme придумал.'
 morphology:
   - PronInt
 syntactic_type_of_construction:
@@ -17,17 +31,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [advmod невесть] PronInt]; [root [advmod [advmod невесть] откуда] [nsubj он] пришел [advmod вчера]]'
+comment: |
+    'См. близкие конструкции 35 бог весть PronInt (Они принесли в пакете бог весть что), 217 незнамо PronInt (Незнамо как я вернулся домой).'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Unknown"

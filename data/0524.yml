@@ -5,6 +5,8 @@ UD_name: '(это Cop) Noun-Nom как Noun-Nom'
 illustration: 'Хлеб как хлеб.'
 cefr_level: 
 definitions:
+  - russian: |
+       'tolko v nastojashem? это был хлеб как хлеб. Раньше это была дача как дача ― обыкновенная деревянная халупа, правда, на довольно большом лесном участке. [Вера Белоусова. Второй выстрел (2000)] Еще час назад это был поезд как поезд. [Сергей Шикера. Египетское метро // «Волга», 2016] Это был человек как человек, только одетый в грязные обноски и с колтунами в волосах, а так общее выражение у него было такое же, какое могло быть и у постового милиционера, и у старшего продавца. в одном углу ее стояла ванна, но вообще это была комната как комната. [И. М. Дьяконов. Книга воспоминаний. Глава четвертая (1928-1929) (1995)] Вместе с тем внешне это была дружба как дружба, внешне они ходили вместе, их все время видели вместе. [Людмила Петрушевская. Стена (1988)] Nominal pattern with reduplication - with the meaning 'the standard''
 examples:
 morphology:
   - Cop
@@ -26,15 +28,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Salient property
     subtypes:
       - type: Paragon
 family:
   - |
-    ""
+    "Standard exemplar"

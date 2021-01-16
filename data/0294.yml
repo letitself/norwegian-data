@@ -6,7 +6,9 @@ illustration: 'С меня хватит!'
 cefr_level: C1
 definitions:
   - russian: |
-       'Конструкция обозначает, что для [говорящего или участника]Experiencer какая-либо ситуация долго длилась и была неприятна.'
+       'Конструкция обозначает, что для [говорящего или участника]Experiencer некоторая неприятная ситуация долго имела место. Говорящий или участник собирается прекратить эту ситуацию.'
+  - english: |
+       'есть в прошедшем Я принимал участие только в части их, но с меня хватило. [Ю. В. Усачев. Дневник космонавта (2001)] ― Не могу читать этот бред ― с меня хватило их показаний на очных ставках, ― в полном отчаянии говорил он. [Анна Ларина (Бухарина). Незабываемое (1986-1990)] Адам не принял участия в опыте, с него хватило оценки тетиного гостинца сестрой. [Вацлав Михальский. Прощеное воскресенье // Октябрь, 2009]'
 examples:
   - |
        '― Может, ещё чего продашь? ― Нет, ― говорю, ― пока с  [тебя]Experiencer хватит.'
@@ -14,6 +16,8 @@ examples:
        'Папа почему-то твердил, что с [него]Experiencer хватит и он уходит из семьи!'
   - |
        'С [него]Experiencer хватит. Он и так уже намучился.'
+  - |
+       'Может быть, имеет смысл просто соединить 294 и 295 в конструкцию, где объект факультативен, и записать как с Pron-Gen хватит (NP-Gen.Plur) Переписать определение, чтобы было и про ситуацию, и про участника. есть в прошедшем Я принимал участие только в части их, но с меня хватило. [Ю. В. Усачев. Дневник космонавта (2001)] ― Не могу читать этот бред ― с меня хватило их показаний на очных ставках, ― в полном отчаянии говорил он. [Анна Ларина (Бухарина). Незабываемое (1986-1990)] Адам не принял участия в опыте, с него хватило оценки тетиного гостинца сестрой. [Вацлав Михальский. Прощеное воскресенье // Октябрь, 2009]'
 morphology:
   - PronPers
   - Gen
@@ -38,16 +42,14 @@ comment: |
     'см. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться)'
 references:
   - |
-    "Endresen, Anna, Laura A. Janda. Forthcoming. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
-  - type: Assessment
-    subtypes:
-      - type: Negative
   - type: Attitude
     subtypes:
-      - type: Preferences
-        subtypes:
-          - type: Negative
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    "Family of evaluative constructions Disapproval"
+    "Disapproval, Discontent"

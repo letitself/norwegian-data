@@ -3,9 +3,23 @@ record: 94
 name: 'готовность NP-Gen VP-Inf'
 UD_name: 'готовность NP-Gen VP-Inf'
 illustration: 'Готовность родителей бороться поразила всех.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       'Конструкция обозначает, что [участник ситуации]Agent способен или согласен выполнять некоторое [действие]Action.'
+  - english: |
+       'This construction signifies that [the subject]Agent is capable or willing [to do something]Action.'
 examples:
+  - |
+       'Каждая женщина подошла к новому союзу по-своему, но все моментально оценили готовность [Ольги]Agent [принять их детей как своих внуков]Action.'
+  - |
+       'Готовность [финансовых групп]Experiencer [оплатить избирательную кампанию кандидата]Action оценивается скептически.'
+  - |
+       'А отношение ребенка к бабушке можно улучшить только неизменной доброжелательностью и готовностью [бабушки]Agent [общаться]Action.'
+  - |
+       'Инвестиции на внутреннем рынке в значительной степени пострадали из-за снижения готовности [инвесторов]Agent [принимать риски]Action.'
+  - |
+       'Подобные здания ― это грандиозные символы силы, богатства и могущества. Они демонстрируют готовность [людей]Agent [добиваться немыслимого]Action, [одерживать успехи во всем]Action, за что бы они ни взялись. Небоскребы ― залог грядущих достижений, «индекс величия» цивилизации.'
 morphology:
   - NP
   - Gen
@@ -20,21 +34,27 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Agent
+  - Action
 intonation:
   - ~
 usage_label: ~
+structure_in_ud: |
+    '[root готовность [nmod NP-Gen] [dep VP-Inf]]; [root [nsubj готовность [nmod родителей] [dep бороться]] поразила [obj всех]]'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Willing
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Salient property
   - type: Temporary characteristics
     subtypes:
       - type: Emotional state
 family:
   - |
-    ""
+    "Willingness"

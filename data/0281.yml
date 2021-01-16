@@ -6,7 +6,7 @@ illustration: 'Пришлось выпить лекарство.'
 cefr_level: B1
 definitions:
   - russian: |
-       'Конструкция обозначает, что [участнику]Experiencer приходится выполнить [действие]Action против своей воли, то есть несмотря на то, что ему этого совсем не хочется.'
+       'Конструкция обозначает, что [участник]Experiencer вынужден выполнить [действие]Action против своей воли, то есть несмотря на то, что ему совсем не хочется выполнять это действие.'
 examples:
   - |
        'Волонтерская работа отнимала у Васи много времени, и [ему]Experiencer пришлось [бросить работу менеджера]Action.'
@@ -45,10 +45,13 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Negative
+      - type: Dissatisfaction
   - type: Causation
     subtypes:
       - type: Direct
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Root modality
     subtypes:
       - type: Necessity
@@ -56,4 +59,4 @@ semantic_types:
           - type: External
 family:
   - |
-    ""
+    "Discontent"

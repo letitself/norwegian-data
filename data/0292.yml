@@ -1,11 +1,27 @@
 ---
 record: 292
-name: '(у NP-Gen) руки не доходить VP-Inf'
-UD_name: '(у NP-Gen) руки не доходить VP-Inf'
+name: '(у NP-Gen) (всё) руки не доходить VP-Inf/до NP-Gen'
+UD_name: '(у NP-Gen) (всё) руки не доходить VP-Inf/до NP-Gen'
 illustration: 'Руки не доходят крышу починить.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       'Конструкция обозначает, что у [участника]Experiencer нет времени, чтобы совершить некоторое нужное [действие]Action или заняться [важным делом или вопросом]Theme. Подразумевается, что участник планирует или хочет совершить это действие уже длительное время, но пока ему не удалось осуществить свои планы, потому что он был занят другими делами. С помощью этой конструкции участник частично снимает с себя ответственность за свое промедление, перекладывая ее на объективные причины, не зависящие от него (прежде всего недостаток времени). В слове "руки" ударение стоит на первом слоге, это форма множественного числа.'
+  - english: |
+       'This construction expresses that the participant does not have the time or capacity to [do something]Action, e.g. крышу починить ‘fix the roof’.'
+  - norwegian: |
+       'Konstruksjonen betyr at deltageren ikke har tid eller kapasitet til å [gjøre noe]Action, f.eks. крышу починить ‘reparere taket’. Nærliggende konstruksjoner i norsk er ‘rekker ikke’, ‘har ikke tid til å’ og ‘tiden strekker ikke til’.'
 examples:
+  - |
+       'У [меня]Experiencer всё руки не доходят [купить новый диван]Action.'
+  - |
+       'Антон заверил её, что извиняться перед ним не нужно, а сам с усмешкой подумал: «Ну и чем таким она может заниматься целыми днями, чтобы у [неё]Experiencer руки не дошли [вещи разобрать]Action?»'
+  - |
+       'Всё у [меня]Experiencer руки не доходят до [диплома]Theme.'
+  - |
+       'Я размышлял: а не позвонить ли и в самом деле Огурцову? Но так и не позвонил, и уже трудно вспомнить почему. Должно быть, как всегда: сначала всё как-то руки не доходили, а когда недели через полторы хватился визитки, её уже не было.'
+  - |
+       'Нахмурившись, Бемби озабоченно проговорила: ―  Надо всё  же [посмотреть в папиных справочниках]Action, никак у [меня]Experiencer руки не дойдут.'
 morphology:
   - NP
   - Gen
@@ -24,16 +40,21 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [nsubj руки] [advmod не] доходят [advcl Cl]; [root [nsubj руки] [advmod не] доходят [xcomp [obl крышу] починить]]'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Temporal expression
     subtypes:
       - type: Proper time
 family:
   - |
-    ""
+    "Willingness"

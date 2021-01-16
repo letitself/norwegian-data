@@ -5,6 +5,8 @@ UD_name: 'Cl, ещё (и) Cl!'
 illustration: 'Он не поздравил меня с днём рождения, ещё и хочет, чтобы я его любила'
 cefr_level: 
 definitions:
+  - russian: |
+       'Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом) nitially ещё (и) Cl! Изменили иллюстрацию: было "еще и учительница называется". Конструкция обозначает, что говорящий добавляет к ранее сказанному [новую негативную информацию]Theme об участнике ситуации или осуждает участника за его действия. Конструкция часто употребляется со следующими глаголами: называться, считаться, зваться.'
 examples:
 morphology:
   - Cl
@@ -23,14 +25,18 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: General assessment
+      - type: Assessment in relation to norms/expectations
   - type: Discourse structure
     subtypes:
       - type: Discourse additive
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Not matching the norm"

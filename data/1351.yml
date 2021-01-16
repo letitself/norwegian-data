@@ -6,6 +6,8 @@ illustration: 'Сколько можно спать!'
 cefr_level: 
 definitions:
 examples:
+  - |
+       'сколько можно было впустую ждать'
 morphology:
   - Cop
   - VP
@@ -25,7 +27,7 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."
 semantic_types:
   - type: Attitude
     subtypes:
@@ -33,9 +35,12 @@ semantic_types:
   - type: Phase of action
     subtypes:
       - type: Continuative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Temporal expression
     subtypes:
       - type: Time period
 family:
   - |
-    ""
+    "Discontent"

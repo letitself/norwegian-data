@@ -3,9 +3,21 @@ record: 948
 name: 'да что/чего Cop VP-Inf!'
 UD_name: 'да что/чего Cop VP-Inf!'
 illustration: 'Да чего его спрашивать!'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       'Конструкция выражает нежелание [участника]Participant выполнять некоторое [действие]Action. Подразумевается, что участник считает это действие нецелесообразным, ненужным.'
 examples:
+  - |
+       'В общем, красавица, подумай. ― Да что тут [думать]Action? ― пожала [она]Participant  плечами.'
+  - |
+       'Да чего [объяснять]Action, если человек не понимает!'
+  - |
+       'Однажды Клавдия Петровна явилась к Данилову с претензией ― как это он не пригласил ее в Клуб медиков. ― Да что было [приглашать]Action? ― удивился [Данилов]Participant с некоей долей притворства. ― Нет, ― сказала Клавдия, ― я на тебя в обиде, о вашем концерте говорят, а я на нем не была…'
+  - |
+       'Сами посудите. Это и физически невозможно, и… да что [говорить]Action! А раз невозможно ― тогда вот… пожалуйте бриться.'
+  - |
+       'Да чего ж тут [сомневаться]Action.'
 morphology:
   - Cop
   - VP
@@ -19,19 +31,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Reaction to the previous discourse
 family:
   - |
-    ""
+    "Willingness; Concern"

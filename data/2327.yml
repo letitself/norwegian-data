@@ -27,9 +27,12 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Disillusion
+      - type: Mental attitude
   - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Result
 family:
   - |
-    ""
+    "Mirativity"

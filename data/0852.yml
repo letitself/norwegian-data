@@ -26,10 +26,6 @@ references:
   - |
     ""
 semantic_types:
-  - type: Assessment
-    subtypes:
-      - type: Positive
-      - type: Negative
   - type: Source of opinion
     subtypes:
       - type: Asking for opinion

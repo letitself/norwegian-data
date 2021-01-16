@@ -5,6 +5,8 @@ UD_name: 'в глубине души VP, (что Cl)'
 illustration: 'В глубине души именно на это я и рассчитывал.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция обозначает, что [участник ситуации]Agent подсознательно, втайне [знает]Sense о чём-то или надеется/верит во что-то, что [произошло]Action или [произойдёт]Action. Имеются в виду самые сокровенные мысли и желания, которые участник ситуации сам не осознаёт. innermost thoughts Конструкция обозначает, что участник ситуации[Agent] подсознательно, втайне знает[Sense] о чём-то или надеется/верит во что-то, что произошло[Action] или произойдёт[Action]. Имеются в виду самые сокровенные мысли и желания, которые участник ситуации сам не осознаёт.'
 examples:
 morphology:
   - VP
@@ -24,12 +26,15 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Emotional attitude
+      - type: Emotional Attitude
   - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Wholehearted emotions"

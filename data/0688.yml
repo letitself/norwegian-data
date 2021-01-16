@@ -29,7 +29,10 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Concern, Willingness"

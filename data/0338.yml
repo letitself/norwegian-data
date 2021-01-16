@@ -6,18 +6,20 @@ illustration: 'То ещё удовольствие.'
 cefr_level: C1
 definitions:
   - russian: |
-       'Конструкция используется в ситуации, когда говорящий хочет подчеркнуть, что что-то имеет [качественную характеристику]Evaluation, которая оценивается негативно.'
+       'Конструкция обозначает, что [объект]Theme или [участник]Participant имеет [качественную характеристику]Evaluation, которая оценивается негативно. Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом).'
   - english: |
        'This construction emphasizes that something has a [qualitative characteristic]Evaluation that is seen as negative.'
   - norwegian: |
        'Konstruksjonen understreker at noe har [en kvalitativ egenskap]Evaluation som vurderes negativt.'
 examples:
   - |
-       'Весь Саратов ― та еще [дыра]Evaluation, но ясно, что где-то близко к границе, а то она ни за что бы туда не сунулась.'
+       'Весь [Саратов]Theme ― та еще [дыра]Evaluation, но ясно, что где-то близко к границе, а то она ни за что бы туда не сунулась.'
   - |
-       'Прикинь, Вова, я бы уж давно был миллионером, если б не Лидка. Та еще [транжира]Evaluation !'
+       'Прикинь, Вова, я бы уж давно был миллионером, если б не [Лидка]Participant. Та еще [транжира]Evaluation!'
   - |
        '― Чудовищная игра, что мы видели, ― та еще [затея]Evaluation !'
+  - |
+       'в косвенном падеже нормально "Тайсон Фьюри - это мужик с тем еще характером"'
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -41,11 +43,15 @@ comment: |
     'См. близкую конструкцию так называемый NP (так называемый образец)'
 references:
   - |
-    "Endresen, Anna, Laura A. Janda. Forthcoming. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: General assessment
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    "Family of Assessment constructions Deviations from the norm"
+    "Not matching the norm"

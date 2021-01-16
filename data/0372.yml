@@ -5,6 +5,8 @@ UD_name: 'что это NP-Nom VP?!'
 illustration: 'Что это вы молчите?!'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция выражает, что говорящий не доволен [действиями]Action [участника]Agent, и интересуется у него, по какой причине он так поступил или поступает. Конструкция может иметь некоторую ироническую коннотацию. Similar to 366 Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство'
 examples:
 morphology:
   - NP
@@ -26,12 +28,16 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Inquiry
+      - type: Dissatisfaction
+      - type: Mental attitude
   - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Discontent, Perplexity"

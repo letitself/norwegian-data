@@ -3,9 +3,23 @@ record: 479
 name: 'NP-Dat Cop не до NP-Gen'
 UD_name: 'NP-Dat Cop не до NP-Gen'
 illustration: 'Мне не до уборки.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       'Конструкция обозначает, что у [участника]Participant нет времени или возможности, чтобы заняться [некоторым делом или вопросом]Theme или обратить внимание на [некоторый объект]Theme или [другого участника]Participant. Подразумевается, что участник занят другими, более важными неотложными делами и по объективным причинам не может уделить время менее важному делу, которое отвлечет его от главного.'
+  - english: |
+       'This construction means that the [participant]Experiencer does not have the opportunity or time to do [something]Theme or pay attention to [someone]Theme or [something]Theme.'
 examples:
+  - |
+       '[Родителям]Experiencer было не до [Ирины]Participant. Она сама формировала и сама заполняла свой день.'
+  - |
+       'В общем, способность генерала обходиться четырьмя часами сна сейчас очень ему пригодится. В ближайшие месяцы [ему]Experiencer будет не до [отдыха]Theme.'
+  - |
+       'Извините, что долго не отвечала, малышка у меня простыла, и было не до [компьютера]Theme.'
+  - |
+       'У нас с этим клубом хорошие отношения, но он переживает непростые времена. Думаю, [им]Experiencer сейчас не до [телевидения]Theme.'
+  - |
+       'Ника разрешила Нюре [позвонить]Theme, но только побыстрей, а то приедут родственники и будет не до [того]Theme.'
 morphology:
   - NP
   - Dat
@@ -20,17 +34,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [iobj NP-Dat] [advmod не] [case до] NP-Gen]; [root [iobj мне] [advmod не] [case до] уборки]'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Willingness"

@@ -5,6 +5,8 @@ UD_name: 'вот тебе и раз/на: Cl'
 illustration: 'Вот тебе и на: у нее три дочки и двое сыновей!'
 cefr_level: 
 definitions:
+  - russian: |
+       'просто удивление, бывает по поводу хорошего'
 examples:
 morphology:
   - Cl
@@ -27,17 +29,19 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Disillusion
-        subtypes:
-          - type: Positive
+      - type: Dissatisfaction
+      - type: Mental attitude
   - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Surprise
 family:
   - |
-    ""
+    "Discontent, Mirativity"

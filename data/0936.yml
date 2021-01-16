@@ -5,9 +5,11 @@ UD_name: 'да ещё (и) XР'
 illustration: 'Платили ей мало, да ещё обещали уволить.'
 cefr_level: 
 definitions:
+  - russian: |
+       'на месте XP может быть VP, NP (да еще в полоску), AdjP (да еще какой) Возможно, стоит заменить тэг Attitude на Emphasis, так как только по конструкции, без контекста, нельзя определить положительное/отрицательное отношение'
 examples:
 morphology:
-  - XР
+  - XP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
@@ -23,7 +25,7 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."
 semantic_types:
   - type: Attitude
     subtypes:
@@ -32,6 +34,9 @@ semantic_types:
     subtypes:
       - type: Discourse additive
       - type: Emphasis
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Discontent"

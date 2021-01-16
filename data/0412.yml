@@ -5,6 +5,8 @@ UD_name: 'Cl, очень даже XP!'
 illustration: 'Твой выбор я очень даже одобряю.'
 cefr_level: 
 definitions:
+  - russian: |
+       'слот заполняется оценочными прил и нареч Initally Cl очень даже XP!. Конструкция обозначает, что говорящий выражает свое [мнение]Theme в противоположность [сказанному, ожидаемому.]Situation. [ [Не знаю, почему тебе не понравился тыквенный суп]Situation, [очень]очень [даже]даже [вкусно]Theme ]XP_очень_даже_XP! ! [ [Значение это совершенно не устаревшее]Situation и [очень]очень [даже]даже [обиходное.]Theme ]XP_очень_даже_XP!'
 examples:
 morphology:
   - Cl
@@ -24,17 +26,20 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: Assessment in relation to quantification
   - type: Degree of intensity
     subtypes:
       - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
 family:
   - |
-    ""
+    "A lot"

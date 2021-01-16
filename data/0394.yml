@@ -28,9 +28,16 @@ references:
   - |
     ""
 semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
   - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+      - type: Mental attitude
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Disapproval, Appropriateness"

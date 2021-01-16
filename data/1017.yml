@@ -3,9 +3,21 @@ record: 1017
 name: 'если хотеть-Prs.2 VP-Inf, ~VP-Imp'
 UD_name: 'если хотеть-Pres.2 VP-Inf, VP-Imper'
 illustration: 'Если хочешь идти, иди.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       'Конструкция обозначает, что говорящий спрашивает [собеседника]Participant о его желаниях или намерениях совершить некоторое [действие]Action и предлагает и разрешает ему следовать этим планам и совершить это [действие]Action. Говорящий таким образом высказывает свое отношение, поддержку намерений собеседника.'
 examples:
+  - |
+       '― У меня нет власти над тем, что здесь произойдет, ― произнесла она тем же томным голосом. ― Если хочешь [уйти]Action, [уйди]Action! Да, да, уйди ― зачем тебе гибнуть вместе со мной?'
+  - |
+       'Если хочешь [исчезнуть]Action, [исчезни]Action, но не полностью, а так, чтобы продолжать наблюдать; иначе зачем исчезать?'
+  - |
+       'И еще раз вспоминаю Макаренко: «Если хотите [воспитывать]Action, [воспитайте]Action прежде всего себя!»'
+  - |
+       'Как сказал бы один из моих дорогих учителей ― «Если хотите [напомнить]Action, [напоминайте]Action без объявления намерений!»'
+  - |
+       '― С таким запугиваньем я не стану работать, я не мальчик. Если хотите [ссориться]Action, [давайте ссориться]Action. ― Ну-ну, шучу, не распаляйтесь, не распаляйтесь.'
 morphology:
   - Prs
   - 2
@@ -21,21 +33,27 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
   - Assertive
   - Exclamatory
 usage_label: ~
+comment: |
+    'См. близкую конструкцию 1016 если NP-Dat Cop угодно, Cl (Если вам угодно, называйте меня Генрихом).'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Support
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Root modality
     subtypes:
       - type: Permission
 family:
   - |
-    ""
+    "Support"

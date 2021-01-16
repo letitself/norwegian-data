@@ -5,6 +5,8 @@ UD_name: 'абы SCONJ'
 illustration: 'Он делал работу хорошо, а не абы как.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Indifference to norms/expectations (как попало) Quality Конструкция используется для того, чтобы показать, что собеседник слишком мало внимания уделяет [некоторому объекту]Actant, [времени]Actant, [месту]Actant или [образу действия]Actant . Говорящий противопоставляет прототипическое представление об этих ситуациях реальным. Негативная оценка.'
 examples:
 morphology:
   - PronInt
@@ -23,11 +25,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Indifference to norms/expectations"

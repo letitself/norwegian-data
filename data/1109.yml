@@ -5,6 +5,8 @@ UD_name: 'как же NP-Dat Cop не VP-Inf?'
 illustration: 'Как же мне не помнить?'
 cefr_level: 
 definitions:
+  - russian: |
+       'The speaker adopts some strategy as the only acceptable in the situation, acceptable according to his her ideas. Confidence about action/decision. Нет выбора. no choicе, obviousness, unequivocalness Конструкция обозначает, что [кому-либо]Patient необходимо, приходится [сделать что-либо]Actionвопреки его желаниям и возможностям и несмотря на препятствия.'
 examples:
 morphology:
   - NP
@@ -27,14 +29,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: No choice
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Surprise
 family:
   - |
-    ""
+    "Reconciliation"

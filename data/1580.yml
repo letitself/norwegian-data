@@ -5,6 +5,8 @@ UD_name: 'VP/AP до смешного/абсурда'
 illustration: 'У некоторых артистов боязнь сцены доходит до абсурда.'
 cefr_level: 
 definitions:
+  - russian: |
+       'слот заполняется оценочными прил и нареч NP-Gen [восприятие ситуации]: смешного, абсурда. Доходить доводит, и часто прилачательные. moved from Attitude to Assessment'
 examples:
 morphology:
   - VP
@@ -25,15 +27,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: Assessment in relation to quantification
   - type: Degree of intensity
     subtypes:
       - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "A lot"

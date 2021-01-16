@@ -5,6 +5,8 @@ UD_name: '(всё) XP да XP'
 illustration: 'На обед каша да каша!'
 cefr_level: 
 definitions:
+  - russian: |
+       'недовольство. (снег да снег кругом. Степь да степь кругом, путь далек лежит.) На обед каша да каша. Постоянно бывает каша, и это плохо. Все жарко да жарко. Не путать с все шел да шел.'
 examples:
 morphology:
   - XP
@@ -24,7 +26,7 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."
 semantic_types:
   - type: Attitude
     subtypes:
@@ -32,9 +34,12 @@ semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Salient property
     subtypes:
       - type: Repeatedly the same
 family:
   - |
-    ""
+    "Discontent"

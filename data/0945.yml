@@ -5,6 +5,8 @@ UD_name: '(Да) NP-Nom, никак, VP'
 illustration: 'Да ты, никак, меня обманываешь?'
 cefr_level: 
 definitions:
+  - russian: |
+       'Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство, подозрение'
 examples:
 morphology:
   - NP
@@ -26,14 +28,17 @@ intonation:
 usage_label: Obsolete
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Concern
+      - type: Mental attitude
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Perplexity"

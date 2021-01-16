@@ -29,13 +29,16 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessments specific to people
   - type: Attitude
     subtypes:
-      - type: Disapproval
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Prohibition
     subtypes:
       - type: Attenuated prohibitive
 family:
   - |
-    ""
+    "Disapproval, Ethics/Behavior"

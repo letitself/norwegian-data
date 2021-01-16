@@ -1,11 +1,23 @@
 ---
 record: 1802
-name: 'NP-Nom Cop (не) против NP-Gen'
-UD_name: 'NP-Nom Cop (не) против NP-Gen'
+name: 'NP-Nom (не) Cop против NP-Gen'
+UD_name: 'NP-Nom (не) Cop против NP-Gen'
 illustration: 'Я против школьной формы!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       'Конструкция выражает отношение [участника]Participant к некоторой [ситуации]Situation, [действиям]Action, [элементу общественного порядка]Theme или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное ("против") либо положительное, но достаточно умеренное или пассивное ("не против").'
 examples:
+  - |
+       'В принципе я не против [этого праздника]Theme: День влюбленных ― это здорово, но для меня это не старый, не узаконенный по календарю день.'
+  - |
+       '― Я с самого начала был против [его кандидатуры]Participant.'
+  - |
+       'Ленин был против [любых контактов с эсерами и меньшевиками]Action даже ради борьбы с Корниловым.'
+  - |
+       'Знакомые уговаривали Нину развестись с Афанасьевым, но Нина боялась ― Афанасьев был против [развода]Situation.'
+  - |
+       'Большинство компаний не будет против [финансового участия]Action, тем более что денег нужно не так много.'
 morphology:
   - NP
   - Nom
@@ -22,21 +34,29 @@ part_of_speech_of_anchor:
   - Prep
   - Negation Marker
 semantic_roles:
-  - ~
+  - Participant
+  - Situation
+  - Action
+  - Theme
 intonation:
   - ~
 usage_label: ~
+comment: |
+    'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1803 и 455.'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Support
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement
       - type: Disagreement
 family:
   - |
-    ""
+    "Support"

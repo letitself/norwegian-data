@@ -5,7 +5,11 @@ UD_name: 'Cl, чем Cop не NP-Nom?'
 illustration: 'Присмотрись к Мише. Чем не жених?'
 cefr_level: 
 definitions:
+  - russian: |
+       'Rethorical questions, Matching the standard'
 examples:
+  - |
+       'Он показал на девушку рядом]Situation. [Чем]чем [не]не [красавица!'
 morphology:
   - Cl
   - Cop
@@ -27,15 +31,18 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: General assessment
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Salient property
     subtypes:
       - type: Matching the standard
 family:
   - |
-    ""
+    "Confirmation requests"

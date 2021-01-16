@@ -31,7 +31,10 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessment in relation to quantification
+  - type: Polarity value
+    subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Expressions of surprisal"

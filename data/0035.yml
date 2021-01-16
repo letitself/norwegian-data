@@ -3,9 +3,21 @@ record: 35
 name: 'бог весть PronInt'
 UD_name: 'бог весть PronInt'
 illustration: 'Они принесли в пакете бог весть что.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       'Конструкция обозначает, что говорящий недоволен выбором собеседника или другого участника в пользу [объекта, участника, времени, места, образа действия или объяснения]Theme. Они незнакомы, неизвестны или непонятны говорящему. Говорящий не уточняет детали этого выбора. Конструкция как правило несет негативную оценку.'
 examples:
+  - |
+       'Федор Сергеевич разозлился: ― Маша! Как ты могла! Съела бог весть [что]Theme! Как ты себя чувствуешь?'
+  - |
+       'Два друга гуляли бог весть [где]Theme, без цели и назначения. Они просто хотели идти вперед без остановки.'
+  - |
+       'Бог весть [кто]Theme надоумил Павла Ивановича Васильева пригласить меня секретарем в редакцию.'
+  - |
+       'Катя позвонила, и голос ответил, что Петра не было на работе уже давно. Ее попросили позвонить попозже. Бог весть [почему]Theme.'
+  - |
+       'Марию просто не следует отпускать в театр одну. Как и позволять возвращаться бог весть [с кем]Theme. Теперь он будет отвозить ее в театр и забирать обратно сам.'
 morphology:
   - PronInt
 syntactic_type_of_construction:
@@ -17,17 +29,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [fixed бог [fixed весть]] PronInt]; [root [nsubj они] принесли [obl [case в] пакете] [obj [fixed бог [fixed весть]] что]]'
+comment: |
+    'См. близкую конструкцию 359 чёрт знает PronInt (Чёрт знает как решать эту задачу).'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Unknown"

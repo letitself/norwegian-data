@@ -30,10 +30,13 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Willing
+      - type: Emotional attitude
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Routine
     subtypes:
       - type: Politeness marker
 family:
   - |
-    ""
+    "Specific emotions"

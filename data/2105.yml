@@ -5,6 +5,8 @@ UD_name: 'NP-Ins (тут/там) и не пахнуть'
 illustration: 'Наукой тут и не пахнет.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция обозначает разочарование говорящего по поводу отсутствия объекта разговора, который должен был уже появиться или находиться изначально. Объектом может быть как конкретное существительное (в том числе и человек), так и абстрактное. ИЛИ то, что имеется, не соответствует ожиданиям говорящего. failed expectation Evaluation by negation of a positive / negative quality - what it is NOT - none, zero level 8'
 examples:
 morphology:
   - NP
@@ -24,14 +26,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessment in relation to quantification
   - type: Non-existence
     subtypes:
       - type: Absence
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "None"

@@ -30,10 +30,13 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
 family:
   - |
-    ""
+    "Willingness"

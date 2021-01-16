@@ -5,6 +5,8 @@ UD_name: 'что/чего с NP-Ins Cop говорить/спорить, Cl'
 illustration: 'Что с ним говорить, он всё равно сделает по-своему.'
 cefr_level: 
 definitions:
+  - russian: |
+       'сомнение говорящего в том, что общение с тем, о ком говорится, будет продуктивным и полезным, буквально "нет смысла говорить с Х" Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)'
 examples:
 morphology:
   - NP
@@ -28,11 +30,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessments specific to people
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Importance/Power"

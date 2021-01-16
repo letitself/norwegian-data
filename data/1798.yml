@@ -29,8 +29,6 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    'To be added'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."
@@ -43,4 +41,4 @@ semantic_types:
       - type: Diminisher
 family:
   - |
-    "To be added"
+    "Attenuative family"

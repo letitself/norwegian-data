@@ -6,6 +6,8 @@ illustration: 'Да тебя послушать, так вообще никуд�
 cefr_level: 
 definitions:
 examples:
+  - |
+       'Тебя послушать, так у нас у всех по одному делу в работе, и только у тебя, несчастного, целых пять'
 morphology:
   - NP
   - Acc
@@ -25,14 +27,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Skepticism
+      - type: Mental attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
 family:
   - |
-    ""
+    "Skepticism"

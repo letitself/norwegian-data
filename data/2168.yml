@@ -5,6 +5,10 @@ UD_name: '(с NP-Ins) NP-Nom/VP-Inf (не) прокатить'
 illustration: 'Думаю, с администрацией так вести себя не прокатит.'
 cefr_level: 
 definitions:
+  - russian: |
+       'использовать нельзя, потому что результат не приведет к желаемому результату. С автомобилями такое не прокатит. Твое фуфло здесь не прокатит. после того, как ланкомовские средства не прокатили особо, думала уже, что не найду уже то, что подойдет… [ Красота, здоровье, отдых: Красота (форум) (2005)] конструкции еще и про уместность (whether the object can be of use)'
+  - english: |
+       'после того, как ланкомовские средства не прокатили особо, думала уже, что не найду уже то, что подойдет… [ Красота, здоровье, отдых: Красота (форум) (2005)]'
 examples:
 morphology:
   - NP
@@ -27,13 +31,15 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Result
 family:
   - |
-    ""
+    "Usefulness"

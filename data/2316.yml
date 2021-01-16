@@ -29,10 +29,13 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessment in relation to norms/expectations
   - type: Attitude
     subtypes:
-      - type: Approval
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
 family:
   - |
-    ""
+    "Reconciliation, Matching the norm"

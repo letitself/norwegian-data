@@ -5,6 +5,8 @@ UD_name: 'VP на пятёрку/пять баллов/отлично'
 illustration: 'Павел знал математику на пятёрку.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Evaluation of intellectual ability, mental ability - 'good at doing something' знать, выучить, сдать, выполнить'
 examples:
 morphology:
   - VP
@@ -26,12 +28,15 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: Assessments specific to people
   - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
 family:
   - |
-    ""
+    "Capacity/Intellect"

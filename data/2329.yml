@@ -31,8 +31,11 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Willing
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Volition
 family:
   - |
-    ""
+    "Willingness, Support"

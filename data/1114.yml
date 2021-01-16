@@ -5,6 +5,8 @@ UD_name: 'как назло VP'
 illustration: 'Он как назло именно сегодня опоздал.'
 cefr_level: 
 definitions:
+  - russian: |
+       'ill-fitting the situation, bad luck. Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation'
 examples:
 morphology:
   - VP
@@ -25,11 +27,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Appropriateness"

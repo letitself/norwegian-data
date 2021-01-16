@@ -3,9 +3,23 @@ record: 40
 name: 'будет PronPers-Dat NP-Nom'
 UD_name: 'будет Pron-Dat NP-Nom'
 illustration: 'Будет тебе счастье, ты только жди.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       'Конструкция обозначает пожелание или прогноз на будущее о том, что у [участника]Recipient в скором времени появится [желаемый объект или состояние]Theme.'
+  - english: |
+       'This construction expresses a wish for the futrue, that [the desired object or state]Theme will soon materialise for [the participant]Recipient.'
 examples:
+  - |
+       'Как-то собрались в Союзе писателей, и я сказал, что вот треплетесь, треплетесь про рыбалку, товарищи писатели, а сдвигов нету никаких. ― Сейчас, сейчас будет [тебе]Recipient [сдвиг]Theme! ― пообещал Виктор Коротаев и начал обзванивать загородных знакомых.'
+  - |
+       'Ему Попова надо? Сейчас будет [ему]Recipient [Попов]Theme. Сейчас они встретятся.'
+  - |
+       'Говорил Кот Зайке: ― Зайка, отправляйся в тёмный лес, иди всё прямо-прямо, и будет [тебе]Recipient [избушка Бабы-яги]Theme.'
+  - |
+       'Хотелось сбежать с незаработанными деньгами, лечь на дно, исчезнуть совсем. «Ну, будет [вам]Recipient [книга]Theme!» ― мстительно бормотал я.'
+  - |
+       'Будет [тебе]Recipient [квартира]Theme, Рубцов, будет, в первом же доме, который на днях сдают, там тебя и поселят.'
 morphology:
   - PronPers
   - Dat
@@ -20,10 +34,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
 intonation:
   - Assertive
 usage_label: Colloquial
+structure_in_ud: |
+    '[root [cop будет] [nmod Pron-Dat] NP-Nom]; [roott [cop будет] [nmod тебе] счастье, [conj [nsubj ты] [advmod только] жди]]'
 references:
   - |
     ""

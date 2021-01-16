@@ -5,6 +5,8 @@ UD_name: 'VP-Imper себе'
 illustration: 'Помалкивай себе!'
 cefr_level: 
 definitions:
+  - russian: |
+       'Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. ПОМЕНЯТЬ иллюстрацию! Конструкция выражает слабое повелительное значение. Говорящий считает, что участник может выполнять [некоторое действие]Action, не обращая внимания на внешние факторы. Я метро вообще не люблю, то ли дело ― сел автобус ― и [ [едь]Action [себе]себе ]VP-Imper_себе тихонечко. - ed' substandard? может 2 конструкиции? она выражает пренебрежение собеседником, другая о пренебрежении обстоятельствами?'
 examples:
 morphology:
   - VP
@@ -25,14 +27,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern
+      - type: Acceptance
   - type: Causation
     subtypes:
       - type: Direct
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Concern"

@@ -5,7 +5,13 @@ UD_name: 'Noun-Nom Cop на Noun-Loc'
 illustration: 'Ошибка на ошибке.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Значение - много ошибок и говорящий оценивает это отрицательно, как небрежность и низкое качество. обман на обмане. часто с отрицательным значением Недовольство однообразием или большим количеством 1'
 examples:
+  - |
+       'мама дорогая, ну как не стыдно так вот издавать ― ошибка на ошибке, и фактические, и другие.'
+  - |
+       'Ошибка была на ошибке и ошибкой погоняла... но мы справились. Ошибка была на ошибке, и сотрудники банка были в шоке оттого, что на одних и тех же документах на бланках Сименса,'
 morphology:
   - Noun
   - Nom
@@ -28,15 +34,21 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessments specific to people
   - type: Attitude
     subtypes:
-      - type: Disapproval
+      - type: Dissatisfaction
   - type: Degree of intensity
     subtypes:
       - type: Booster
   - type: Measure
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Disapproval, Ethics/Behavior"

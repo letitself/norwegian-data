@@ -5,6 +5,8 @@ UD_name: '(NP-Dat) и без NP-Gen Cop тошно'
 illustration: 'Ему и без увольнения тошно.'
 cefr_level: 
 definitions:
+  - russian: |
+       'недовольство'
 examples:
 morphology:
   - NP
@@ -27,14 +29,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."
 semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Temporary characteristics
     subtypes:
       - type: Emotional state
 family:
   - |
-    ""
+    "Discontent"

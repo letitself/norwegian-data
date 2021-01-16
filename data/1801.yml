@@ -3,8 +3,10 @@ record: 1801
 name: 'адски XP'
 UD_name: 'адски XP'
 illustration: 'Была адски скучная лекция.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       'Конструкция обозначает, что [некоторый признак]Property по оценке говорящего проявляется в очень большой степени. Этот признак характеризует участника, объект, [действие]Action или [ситуацию]Situation. Конструкция может использоваться как с положительной (примеры 3, 4), так и с отрицательной оценкой (примеры 1, 2). Слот XP может заполняться ... DEFINITION IS ADOPTED FROM ужасно XP'
 examples:
 morphology:
   - XP
@@ -17,13 +19,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adv
 semantic_roles:
-  - ~
+  - Property
+  - Action
+  - Situation
 intonation:
   - ~
 usage_label: Colloquial
+comment: |
+    'См. близкую конструкцию 342 ужасно XP (Ужасно скучно).'
 references:
   - |
-    ""
+    "Zhukova, V. Title. MA thesis."
 semantic_types:
   - type: Degree of intensity
     subtypes:

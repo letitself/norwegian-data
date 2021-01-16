@@ -5,6 +5,8 @@ UD_name: 'NP-Dat ли Cop не VP-Inf'
 illustration: 'Тебе ли не радоваться!'
 cefr_level: 
 definitions:
+  - russian: |
+       'недоумение и осуждение, Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство Оценка потому что этическая оценка поведения, осуждение, а отношение потому, что с позиции говорящего. Similar to 477 Конструкция выражает уверенность говорящего в том, что [некоторый участник]Experiencer уже знает о [сложившейся ситуации]Situation или [испытывает по этому поводу определенные чувства]Activity. NOT VERY PRESICE DESCRIPTION Disapproval of behavior - осуждение поведения'
 examples:
 morphology:
   - NP
@@ -28,17 +30,20 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessments specific to people
   - type: Attitude
     subtypes:
-      - type: Disapproval
+      - type: Dissatisfaction
   - type: Non-Standard Subject
     subtypes:
       - type: Non-standard subject marking
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Disapproval, Ethics/Behavior, Perplexity"

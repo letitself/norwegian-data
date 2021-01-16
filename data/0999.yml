@@ -3,9 +3,21 @@ record: 999
 name: 'NP-Nom прийтись по вкусу NP-Dat'
 UD_name: 'NP-Nom прийтись по вкусу NP-Dat'
 illustration: 'Не думаю, что ему это придется по вкусу.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       'Конструкция выражает отношение [участника]Experiencer к некоторому [объекту]Theme, [идее]Theme, [качеству]Property, [ситуации]Situation, или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное ("не по вкусу") либо положительное, но достаточно умеренное ("по вкусу"). Как если бы участник попробовал это событие на вкус, как еду или напиток, и вкус ему не понравился. Конструкция как правило используется для выражения негативного отношения.'
 examples:
+  - |
+       '[Дамам]Experiencer, видно, пришелся по вкусу [этот колоритный здоровяк со смешным непонятным акцентом и нахальными руками]Participant.'
+  - |
+       'Оживление публики в зале свидетельствовало о том, что [ансамбль]Participant [многим]Experiencer пришелся по вкусу.'
+  - |
+       'Вернувшись домой, моряки рассказали, что жители Южной Америки ― индейцы ― выращивают удивительные «земляные яблоки». Если их испечь, они становятся мягкими и очень вкусными. Слух о чудесных клубнях разнесся по всем странам. Не везде [новинка]Theme пришлась по вкусу ― кое-где пытались есть клубни в сыром виде и после этого уже ни за что не хотели сажать картофель.'
+  - |
+       'Почти уверен, что [даосская мудрость автора]Property едва ли придется по вкусу [массовому читателю]Experiencer.'
+  - |
+       'А [тем, кто не боится браться за сложные задачи]Experiencer, возможно, придется по вкусу [идея «многоэтажки»]Theme: двухэтажный домик с внутренней лесенкой.'
 morphology:
   - NP
   - Nom
@@ -19,22 +31,29 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
+  - Property
+  - Situation
+  - Participant
 intonation:
   - ~
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: Assessments specific to people
   - type: Attitude
     subtypes:
-      - type: Preferences
-        subtypes:
-          - type: Positive
+      - type: Acceptance
+      - type: Capacity/Preferences
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Support, Discontent, Capacity/Preferences, Ethics/Behavior"

@@ -5,6 +5,8 @@ UD_name: 'NP-Nom VP NP-Dat'
 illustration: 'Он смеялся чужой беде.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция обозначает, что [субъект]Experiencer [испытывает]Action какие-либо эмоции по отношению к [действиям]Theme других участников ситуации. [улыбался]Action [шутке]Theme]'
 examples:
 morphology:
   - NP
@@ -26,11 +28,14 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Attitude
     subtypes:
       - type: Emotional attitude
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Specific emotions"

@@ -32,8 +32,11 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Negative
+      - type: Dissatisfaction
   - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Root modality
     subtypes:
       - type: Necessity
@@ -41,4 +44,4 @@ semantic_types:
           - type: External
 family:
   - |
-    ""
+    "Discontent"

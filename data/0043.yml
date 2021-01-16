@@ -1,16 +1,32 @@
 ---
 record: 43
-name: 'NP-Nom Cop за то, чтобы Cl'
+name: 'NP-Nom Cop за то, чтобы Cl/VP-Inf'
 UD_name: 'NP-Nom Cop за то, чтобы Cl'
 illustration: 'Я за то, чтобы ты у нас жил.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       'Конструкция выражает положительное отношение [участника]Participant к некоторому потенциальному [действию]Action или [ситуации]Situation, которые как правило будут осуществляться другими участниками. Подразумевается, что есть ряд альтернатив развертывания событий, и участник ясно высказывает одобрение и поддержку одного из возможных вариантов. Может использоваться как слово "чтобы", так и его усеченный вариант "чтоб".'
+  - english: |
+       'The construction is used to show that a [participant]Participant approves of a [potential action]Action.'
 examples:
+  - |
+       'Председатель собрания просит голосовать: [кто]Participant за то, чтобы [предоставить квартиру Войновичу]Action?'
+  - |
+       '― Так вы за кого в этой истории? ― [Я]Participant за то, чтобы [всё было по закону]Situation.'
+  - |
+       'При обсуждении наша комиссия из четырех человек раскололась надвое: [двое]Participant были за то, чтобы [дать премию Силвере]Action, а я и еще один профессор женевского университета ― за Клитцинга.'
+  - |
+       'Потом [я]Participant стала членом тарификационной комиссии и всегда была за то, чтобы [актерам платили больше]Situation.'
+  - |
+       'Ферраро заявил, что [он]Participant за то, чтобы [подводный спорт был включен в программу олимпийских игр]Situation.'
 morphology:
   - NP
   - Nom
   - Cop
   - Cl
+  - VP
+  - Inf
 syntactic_type_of_construction:
   - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
@@ -20,17 +36,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Situation
 intonation:
   - ~
 usage_label: ~
+structure_in_ud: |
+    '[root [nsubj NP-Nom] [cop быть [case за] то, [mark чтобы] [advcl Cl]]; [root [nsubj я] [case за] то, [mark чтобы] [advcl [nsubj ты] [obl [case у] нас] жил]]'
+comment: |
+    'См. похожую конструкцию 1804 NP-Nom Cop за NP-Acc (Я за революцию).'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Support
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
 family:
   - |
-    ""
+    "Support"

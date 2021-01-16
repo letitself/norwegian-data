@@ -27,7 +27,13 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Attitude
+    subtypes:
+      - type: Mental attitude
+  - type: Polarity value
+    subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Deviations from the norm, Skepticism"

@@ -5,6 +5,8 @@ UD_name: '(да) что NP-Nom понимать в NP-Loc?'
 illustration: 'Да что ты понимаешь в этих интегралах?'
 cefr_level: 
 definitions:
+  - russian: |
+       'сомнение говорящего в том, что NP разбирается в каком-то конкретном вопросе'
 examples:
 morphology:
   - NP
@@ -27,11 +29,14 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessments specific to people
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Capacity/Intellect"

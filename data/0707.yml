@@ -5,6 +5,8 @@ UD_name: 'Аdj-Nom Cop NP-Nom!'
 illustration: 'Модный наряд!'
 cefr_level: 
 definitions:
+  - russian: |
+       'В этой конструкции всегда есть всегда оценочное прилагательное'
 examples:
 morphology:
   - Аdj
@@ -26,12 +28,14 @@ intonation:
 usage_label: ~
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: General assessment
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Assessment of an entity"

@@ -5,7 +5,11 @@ UD_name: 'VP же NP-Nom!'
 illustration: 'Живут же некоторые!'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция обозначает, что говорящий выражает некоторую зависть, ревность [тому]Theme/ [тем]Theme, кто добился определенных [успехов]Event, [удачлив]Event или [счастлив]Event.'
 examples:
+  - |
+       '[ [Жили]Event [же]же [люди]Theme ]VP_же_NP! когда-то! Жили спокойно и счастливо. Ни тебе проводных телефонов, ни тебе мобильных телефонов.'
 morphology:
   - VP
   - NP
@@ -25,14 +29,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessments specific to people
   - type: Attitude
     subtypes:
-      - type: Disapproval
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Disapproval, Ethics/Behavior"

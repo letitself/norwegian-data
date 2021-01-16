@@ -29,10 +29,13 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessments specific to people
+  - type: Polarity value
+    subtypes:
       - type: Negative
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
 family:
   - |
-    ""
+    "Importance/Power"

@@ -1,15 +1,28 @@
 ---
 record: 2018
-name: 'NP-Nom и слышать не хотеть о NP-Loc'
-UD_name: 'NP-Nom и слышать не хотеть о NP-Loc'
+name: 'NP-Nom и слышать не хотеть о NP-Loc/про NP-Acc'
+UD_name: 'NP-Nom и слышать не хотеть о NP-Loc/про NP-Acc'
 illustration: 'Он и слышать не хочет об этих правилах!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       'Конструкция выражает наивысшую степень нежелания [участника]Experiencer соглашаться на предложенный [вариант развития событий]Theme. Отрицательное отношение к предложенному варианту заключается в том, что участник не согласен даже говорить об этом и слушать возможные аргументы собеседника.'
 examples:
+  - |
+       'Мы три раза обращались к вашему царю с мирными предложениями, мы соглашались на самые тяжелые условия… но [ваш царь]Experiencer и слышать не хотел о [мире]Theme…'
+  - |
+       '[Мать]Experiencer и слышать не хочет про [Сильфиду]Theme: это, говорит, ведьминское имя.'
+  - |
+       'Но [польский король Сигизмунд]Experiencer, ревностный католик, и слышать не хотел о [перемене веры своим сыном]Theme.'
+  - |
+       'Но [Олег]Experiencer и слышать не хотел о [разводе]Theme.'
+  - |
+       'Правда, [мать-старушка]Experiencer, наверное, и слышать не захочет о [его женитьбе на артистке]Theme, но на четвертом десятке с такими вещами мало считаются.'
 morphology:
   - NP
   - Nom
   - Loc
+  - Acc
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
@@ -23,17 +36,21 @@ part_of_speech_of_anchor:
   - Prep
   - Conj
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Willingness; Concern"

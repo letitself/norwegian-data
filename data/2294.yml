@@ -27,7 +27,10 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
+    subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Usefulness"

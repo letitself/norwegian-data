@@ -5,6 +5,8 @@ UD_name: 'как (NP-Dat) не Praedic Cop VP-Inf!'
 illustration: 'Как не стыдно ходить в грязной одежде!'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция с риторическим вопросом-восклицанием обозначает, что говорящий выражает негодование по поводу [действий]Action [какого-либо участника]Experiecner ситуации и таким образом пытается его пристыдить. [Наречие]Condition имеет ограничение на заполнение: стыдно, совестно.'
 examples:
 morphology:
   - NP
@@ -28,11 +30,15 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessments specific to people
+      - type: Assessment in relation to quantification
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Ethics/Behavior, Expressions of surprisal"

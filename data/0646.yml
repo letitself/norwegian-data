@@ -5,6 +5,8 @@ UD_name: 'VP NP-Nom наконец/ в конце концов (или нет)?'
 illustration: 'Починит он наконец компьютер?'
 cefr_level: 
 definitions:
+  - russian: |
+       'Добавить через слэш в конце концов в записи конструкции в конструктиконе'
 examples:
 morphology:
   - VP
@@ -26,7 +28,7 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."
 semantic_types:
   - type: Attitude
     subtypes:
@@ -34,6 +36,9 @@ semantic_types:
   - type: Causation
     subtypes:
       - type: Indirect
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Discontent"

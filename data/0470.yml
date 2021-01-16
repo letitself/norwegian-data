@@ -5,7 +5,17 @@ UD_name: 'NP-Acc (за NP-Acc) убить Cop мало!'
 illustration: 'За такое поведение его убить мало.'
 cefr_level: 
 definitions:
+  - russian: |
+       'Конструкция обозначает негативную реакцию на поведение или действия другого человека. Нередко употребляется с иронией, в юмористическом дружелюбном ключе (примеры 2, 3, 4).'
 examples:
+  - |
+       'Да вас убить мало! Вы ― ренегат! Агент международного империализма!'
+  - |
+       '― Любимов, тебя убить мало! ― высказалась Ирина.'
+  - |
+       'А вышло вот что: награда за то, за что убить мало.'
+  - |
+       'Опозорил ты меня. Да за такое тебя убить мало! ― погрозил Ефим, вылезая из-за стола.'
 morphology:
   - NP
   - Acc
@@ -25,15 +35,21 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: Assessments specific to people
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
   - type: Degree of intensity
     subtypes:
       - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Threat
 family:
   - |
-    ""
+    "Disapproval, Ethics/Behavior"

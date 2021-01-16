@@ -29,7 +29,10 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessments specific to people
+  - type: Polarity value
+    subtypes:
       - type: Positive
 family:
   - |
-    ""
+    "Capacity/Intellect"

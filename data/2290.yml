@@ -26,9 +26,12 @@ references:
   - |
     ""
 semantic_types:
-  - type: Assessment
+  - type: Attitude
+    subtypes:
+      - type: Mental attitude
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Mirativity"

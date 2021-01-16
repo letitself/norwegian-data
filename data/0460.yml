@@ -5,6 +5,8 @@ UD_name: 'NP-Nom Cop что надо'
 illustration: 'Праздник что надо.'
 cefr_level: 
 definitions:
+  - russian: |
+       'синоним общеоценочного предиката хороший. my ustroim prazdnik hto nado есть в винительном но очень маргинально Валюша! ― Да уж… конечно… квартирка что надо. ― Не то что раньше! Раньше-то Сереженька не нам, а Голубятникову хорошие квартирки предлагал. [Андрей Волос. Недвижимость (2000) // «Новый Мир», 2001] ― Девки что надо… ― похвалил Корытин. ― Тем более рыбачки. А матери он сказал, что из мальчика получится "человек что надо". [Эдуард Лимонов. У нас была Великая Эпоха (1987)]Кто сейчас носит мой костюм? Зато на мне куртка что надо. У кого из вас есть такая куртка? [Василий Аксенов. Звездный билет // «Юность», 1961] А он как был, так и остался ― веселый охламон, и волосы на макушке так же несерьезно торчат, но айфон крутой и ботиночки что надо. Раньше другое дело: больные были что надо! Спасибо! Пирожки что надо… И вот она была красотка что надо! [Татьяна Соломатина. Девять месяцев, или «Комедия женских положений» (2010)] НО ЕСТЬ РЕДКО В КОСВЕННОМ ПАДЕЖЕ Вот N ― тот, без сомнения, был директором что надо… [Ксения Букша. Завод «Свобода» // «Новый мир», 2013] В молодости писаным красавцем был, работягой что надо ― любимый всеми человек. [Нонна Мордюкова. Казачка (2005)] из за прошедшего времени Он совсем не был уверен, что хочет докладывать парню что надо о своих разысканиях и вообще обнаруживать какой-то специальный интерес. [Дина Рубина. Белая голубка Кордовы (2008-2009)] НА ПЕРВЫЕ 200 примеров из корпуса 2 употребления в ТВ падеже, в случае с глаголом связкой в прошедшем времени.'
 examples:
 morphology:
   - NP
@@ -25,11 +27,15 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: General assessment
+      - type: Assessment in relation to norms/expectations
+  - type: Polarity value
     subtypes:
       - type: Positive
 family:
   - |
-    ""
+    "Matching the norm"

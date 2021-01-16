@@ -5,6 +5,8 @@ UD_name: 'вот и Praedic!'
 illustration: 'Вот и чудесно!'
 cefr_level: 
 definitions:
+  - russian: |
+       'только в наст времени, не ставим Cop, краткое прил. vot i hudesno, chto... вот и Adj-Short! вот и хорошо, отлично, превосходно, плохо, но ограничения есть. нельзя сказать вот и грустно! . стр 194. В позиции аксиологического оператора используются почти ис­ ключительно общеоценочные предикаты хорошо и плохо, выклю­ ченные из парадигматических отношений со своими эмоциональны­ ми синонимами. Такие оценки как отлично, превосходно, пре­ красно и др. допускают только автономное (отлученное от факто­ образующего придаточного) употребление типа Вот и отлично; Пре­ восходно! Вот это замечательно!'
 examples:
 morphology:
   - Pred
@@ -23,14 +25,17 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: General assessment
   - type: Discourse structure
     subtypes:
       - type: Summary
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
 family:
   - |
-    ""
+    "Assessment of a proposition"

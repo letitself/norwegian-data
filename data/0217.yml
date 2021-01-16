@@ -3,9 +3,23 @@ record: 217
 name: 'незнамо PronInt'
 UD_name: 'незнамо PronInt'
 illustration: 'Незнамо как я вернулся домой.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       'Конструкция обозначает, что говорящему неизвестны или непонятны [объект действия, участник действия или обстоятельства ситуации (как, где, когда, почему)]Theme. Конструкция как правило несет негативную оценку.'
+  - english: |
+       'This construction signifies that [an object, exactly how the action was performed or where]Theme is unknown to the speaker. This is an old-fashioned construction.'
 examples:
+  - |
+       'Сашка в университет поступил! Такие дела, а ты гуляешь незнамо [где]Theme.'
+  - |
+       'Я хозяйка в доме, а ты незнамо [кто]Theme! Веди себя прилично!'
+  - |
+       'Как могло произойти, что администрация не контролировала ход строительных работ и покупку материалов, а впоследствии купила незнамо  [что]Theme?'
+  - |
+       'Живот стал большой и неудобный, а она двигалась по саду осторожно, боясь оступиться и покатиться незнамо [куда]Theme, как колобок.'
+  - |
+       'А ей, как беременной женщине, постоянно хотелось чего-то неизвестного, неопределённого ― словом, поди туда, незнамо [куда]Theme, и принеси то, незнамо [что]Theme.'
 morphology:
   - PronInt
 syntactic_type_of_construction:
@@ -17,17 +31,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - ~
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - ~
 usage_label: Obsolete
+structure_in_ud: |
+    '[root [advmod незнамо [fixed PronInt]] Cl]; [root [advmod незнамо [fixed как]] [nsubj я] вернулся [obl домой]]'
+comment: |
+    'См. близкие конструкции 35 бог весть PronInt (Они принесли в пакете бог весть что), 216 невесть PronInt (Невесть откуда он пришел вчера).'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:
   - |
-    ""
+    "Unknown"

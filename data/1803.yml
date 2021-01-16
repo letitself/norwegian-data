@@ -44,17 +44,22 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+comment: |
+    'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1802 и 455.'
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Support
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement
       - type: Disagreement
 family:
   - |
-    "Family of constructions that express the attitude of support."
+    "Support"

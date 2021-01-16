@@ -29,10 +29,14 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Negative
+      - type: Dissatisfaction
+      - type: Mental attitude
   - type: Degree of intensity
     subtypes:
       - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
-    ""
+    "Swearing, Skepticism"

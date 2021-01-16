@@ -3,9 +3,21 @@ record: 1819
 name: 'Ещё чего, VP-Fut NP-Nom!/Ещё чего, VP-Inf!'
 UD_name: 'Ещё чего, VP-Fut NP-Nom!/Ещё чего, VP-Inf!'
 illustration: 'Ещё чего, будет она готовить его любимые блюда!'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       'Конструкция выражает нежелание [участника]Participant выполнять некоторое [действие]Action. Важная структурная особенность конструкции в том, что субъект действия вклинивается в форму будущего времени глагола и ставится между вспомогательным глаголом и инфинитивом смыслового глагола.'
 examples:
+  - |
+       'А что тут такого ― я всегда езжу на велике по вторым дачам и никогда не сворачиваю. Ещё чего ― [сворачивать]Action! Я рассуждаю так: вовсе не обязательно бультерьеру выскакивать именно в тот момент, когда я проезжаю мимо.'
+  - |
+       'Ещё чего, [последние деньги проигрывать]Action!'
+  - |
+       'Ещё чего, будет [он]Participant [в вашем ресторане травиться]Action, [желудок себе портить]Action!'
+  - |
+       'Ф-ф-ф! – засмеялся Митя. Ещё чего! Будет [он]Participant [чай пить]Action!'
+  - |
+       'Ещё чего, буду [я]Participant [тебе документы предъявлять]Action!'
 morphology:
   - VP
   - Fut
@@ -28,14 +40,18 @@ intonation:
 usage_label: Colloquial
 references:
   - |
-    ""
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unwilling
+      - type: Acceptance
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
 family:
   - |
-    ""
+    "Willingness; Discontent"

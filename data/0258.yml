@@ -29,10 +29,16 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
+      - type: Assessments specific to people
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
       - type: Negative
   - type: Temporary characteristics
     subtypes:
       - type: Physical state
 family:
   - |
-    ""
+    "Disapproval, Ethics/Behavior"
