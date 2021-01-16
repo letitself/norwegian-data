@@ -36,7 +36,7 @@ def print_as_yaml_list(string_spreadsheet):
 
 
 def write_record(row, record):
-    tags = "Actionality,Actuality,Additive,Addressee,Apprehension,Assessment,Attitude,Calculation,Caritive,Causation,Cause,Comitative,Comparison,Condition,Concession,Consequence,Degree of accuracy,Degree of intensity,Discourse structure,Epistemic modality (Degree of certainty),Exceptive,Exclusive,Inclusive,Instrument,Manner,Measure,Mirative,Non-existence,Non-Standard Subject,Options,Phase of action,Pluractionality,Possession,Prohibition,Purpose,Quantification,Reaction to the previous discourse,Request,Result,Root modality,Routine,Salient property,Source of information,Source of opinion,Spatial expression,Subset,Taxis,Temporal expression,Temporary characteristics,Timeline,Threat,Volition".split(
+    tags = "Actionality,Actuality,Additive,Addressee,Apprehension,Assessment,Attitude,Calculation,Caritive,Causation,Cause,Comitative,Comparison,Condition,Concession,Consequence,Degree of accuracy,Degree of intensity,Discourse structure,Epistemic modality (Degree of certainty),Exceptive,Exclusive,Inclusive,Instrument,Manner,Measure,Mirative,Non-existence,Non-Standard Subject,Options,Phase of action,Pluractionality,Polarity value,Possession,Prohibition,Purpose,Quantification,Reaction to the previous discourse,Request,Result,Root modality,Routine,Salient property,Source of information,Source of opinion,Spatial expression,Subset,Taxis,Temporal expression,Temporary characteristics,Timeline,Threat,Volition".split(
         ","
     )
 
