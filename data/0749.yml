@@ -3,7 +3,7 @@ record: 749
 name: 'быть может, Cl'
 UD_name: 'быть может, Cl'
 illustration: 'Быть может, он просто устал.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -14,14 +14,18 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

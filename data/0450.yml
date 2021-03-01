@@ -1,7 +1,7 @@
 ---
 record: 450
 name: 'NP-Nom иметь дело с NP-Ins'
-UD_name: 'NP иметь дело с NP-Ins'
+UD_name: 'NP-Nom иметь дело с NP-Ins'
 illustration: 'Он когда-то имел дело с трудными подростками.'
 cefr_level: 
 definitions:
@@ -13,16 +13,23 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
+  - Light verb
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Noun
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

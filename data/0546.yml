@@ -11,11 +11,12 @@ morphology:
   - NP
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -23,6 +24,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

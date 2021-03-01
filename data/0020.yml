@@ -3,9 +3,19 @@ record: 20
 name: '(NP-Dat) Cop не Prep кто/что VP-Inf'
 UD_name: '(NP-Dat) Cop не Prep кто/что VP-Inf'
 illustration: 'Мне не с кем погулять.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Experiencer выражает недовольство тем, что нет человека, с которым можно было бы совершить какое-либо [действие]Action. При этом предполагается отсутствие определенного субъекта или группы. Смысловое ударение делается на "не". Глагол обычно стоит после сочетания "не с кем", но может и предшествовать ему.
+  - english: |
+       rewrite definition. Specific cases e.g. (NP-Dat) VP-Inf не для чего; (NP-Dat) VP-Inf не про кого; (NP-Dat) VP-Inf не за кем; (NP-Dat) VP-Inf не на кого
 examples:
+  - |
+       '[Мне]Experiencer не с кем [было пойти гулять]Action на улицу.'
+  - |
+       'Когда не с кем [разделить]Action радость, становится грустно.'
+  - |
+       '[Егору]Experiencer завтра не с кем [будет кататься на велосипеде.]Action'
 morphology:
   - NP
   - Dat
@@ -19,17 +29,21 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
-  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "ссылка на иомдина"
 semantic_types:
   - type: Non-existence
     subtypes:

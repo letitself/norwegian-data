@@ -3,7 +3,7 @@ record: 124
 name: 'ещё Adv-Cmp/Adj-Cmp'
 UD_name: 'ещё Adv-Cmp/Adj-Cmp'
 illustration: 'Он стал выглядеть ещё хуже.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -13,17 +13,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
-  - Suffix
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

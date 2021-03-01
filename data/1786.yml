@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Participant демонстративно [совершает некоторое действие]Action из желания разозлить [другого участника]Maleficiary.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant demonstrativt [utfører en handling]Action med et ønske om å gjøre [en annen deltaker]Maleficiary sint.
 examples:
   - |
        '[Хомский]Participant [говорил]Action в пику [Якобсону]Maleficiary, что от поэтики до лингвистики — как от французского садоводства до ботаники.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -38,8 +40,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
-    'См. близкую конструкцию 1788 VP наперекор NP-Dat (Наперекор многим коллегам он верит в телепатию и путешествия во времени).'
+    'См. близкую конструкцию 1787 VP наперекор NP-Dat (Наперекор многим коллегам он верит в телепатию).'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция используется, когда говорящий хочет, чтобы [собеседник]Participant прекратил выполнять [некоторое действие]Action, которое происходит в данный момент. Говорящий оценивает это действие отрицательно, так как оно причиняет ему дискомфорт или кажется слишком длительным. Как правило, речь идет о негативно оцениваемом поведении (врать, ссориться, спорить, примеры 1, 2) либо о негативном эмоциональном состоянии (грустить, горевать, обижаться, пример 3). В редких случаях речь идет о положительном или нейтральном действии, которое в данной ситуации интерпретируется как неуместное (пример 4). Конструкция произносится с дружеским тоном утешения или снисхождения к собеседнику. В ситуации утешения говорящий часто является старше по возрасту, чем собеседник (примеры 3). Побуждение может быть обращено к одному лицу или к группе лиц, которая не включает говорящего. В обоих случаях уместно слово "по́лно". Иногда вместо слова "по́лно" можно встретить уважительную форму "по́лноте" (пример 5), которая имеет еще более устаревший характер и может также использоваться при обращении как к одному лицу, так и к группе лиц.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren vil at [samtalepartneren]Participant skal slutte å utføre en pågående [handling]Action. Taleren har et negativt syn på handlingen fordi den volder ubehag eller synes å vare for lenge. Som regel dreier det seg om en type atferd som betraktes som negativ (lyve, krangle, strides, eksempel 1 og 2) eller en negativ humørtilstand (sørge, gremmes, bli fornærmet, eksempel 3). I sjeldne tilfeller kan det være tale om en positiv eller nøytral handling som i den konkrete situasjonen betraktes som upassende (eksempel 4). Konstruksjonen fremføres i en vennskapelig tone av trøst eller overbærenhet overfor samtalepartneren. I en trøstende kontekst er taleren ofte eldre enn samtalepartneren (eksempel 3). Anmodningen kan rettes til én person eller en gruppe personer som ikke inkluderer taleren. I begge tilfeller er ordet 'по́лно' på sin plass. Av og til er ordet 'по́лно' erstattet av ordet 'по́лноте' (eksempel 5), som har et noe foreldet preg og likeledes kan brukes overfor så vel én person som en gruppe personer.
 examples:
   - |
        '― Конечно, вы, товарищ лейтенант. И полно [вам]Participant [ругаться]Action. Ешьте суп, а то совсем холодный будет.'
@@ -28,19 +30,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - clause
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pred
 semantic_roles:
   - Action
   - Participant
 intonation:
   - ~
 usage_label: Obsolete
-structure_in_ud: |
-    '[root пoлно [obl Pron-2.Dat] [csubj VP-Inf]]; [root пoлно [obl тебе] [csubj плакать]]'
+dependency_structure:
+  - '[root пoлно [obl Pron-2.Dat] [csubj VP-Inf]]'
+  - '[root пoлно [obl тебе] [csubj плакать]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно; глаголы, обозначающие действия, связанные с негативными эмоциями, жалобами, плохим настроением; глаголы, обозначающие неуместное бездействие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
 references:

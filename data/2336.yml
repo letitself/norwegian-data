@@ -1,7 +1,7 @@
 ---
 record: 2336
 name: 'я бы PronPers-Acc попросил VP-Inf'
-UD_name: 'я бы Pron-Acc попросил VP-Inf'
+UD_name: 'я бы PronPers-Acc попросил VP-Inf'
 illustration: 'Я бы вас попросил не ругаться при детях.'
 cefr_level: 
 definitions:
@@ -14,16 +14,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Subject
+  - Discourse Particle
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Part
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

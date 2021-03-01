@@ -1,7 +1,7 @@
 ---
 record: 2005
 name: 'насколько PronPers-1 понимать, Cl'
-UD_name: 'насколько Pron.1 понимать, Cl'
+UD_name: 'насколько PronPers-1 понимать, Cl'
 illustration: 'Ты ещё не готов, насколько я понимаю.'
 cefr_level: 
 definitions:
@@ -16,8 +16,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Adv
-  - VP
+  - Verb
 part_of_speech_of_anchor:
   - Adv
   - Verb
@@ -26,6 +25,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

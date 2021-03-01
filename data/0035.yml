@@ -6,7 +6,9 @@ illustration: 'Они принесли в пакете бог весть что.
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий недоволен выбором собеседника или другого участника в пользу [объекта, участника, времени, места, образа действия или объяснения]Theme. Они незнакомы, неизвестны или непонятны говорящему. Говорящий не уточняет детали этого выбора. Конструкция как правило несет негативную оценку.
+       Конструкция обозначает, что говорящий недоволен выбором собеседника или другого участника в пользу [объекта, участника, времени, места, образа действия или объяснения]Theme. Они незнакомы, неизвестны или непонятны говорящему. Как если бы никто на свете не знал, что это, а знал только бог. Говорящий не уточняет детали этого выбора. Конструкция как правило несет негативную оценку.
+  - norwegian: |
+       Konstruksjonen betyr at taleren er misfornøyd med samtalepartnerens eller en annen deltakers valg av [objekt, deltaker, tidspunkt, sted, handlemåte eller forklaring]. Disse er ukjente, fremmede eller uforståelige for taleren. Det er som om ingen i hele verden vet hva dette er og at bare Gud vet det. Taleren gjør ikke rede for valget i detalj. Konstruksjonen er som regel negativt ladet.
 examples:
   - |
        'Федор Сергеевич разозлился: ― Маша! Как ты могла! Съела бог весть [что]Theme! Как ты себя чувствуешь?'
@@ -23,18 +25,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Verb Pattern
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - NA
 semantic_roles:
   - Theme
 intonation:
   - ~
-usage_label: Colloquial
-structure_in_ud: |
-    '[root [fixed бог [fixed весть]] PronInt]; [root [nsubj они] принесли [obl [case в] пакете] [obj [fixed бог [fixed весть]] что]]'
+usage_label: Obsolete
+dependency_structure:
+  - '[root [fixed бог [fixed весть]] PronInt]'
+  - '[root [nsubj они] принесли [obl [case в] пакете] [obj [fixed бог [fixed весть]] что]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию 359 чёрт знает PronInt (Чёрт знает как решать эту задачу).'
 references:

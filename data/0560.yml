@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает продолжительное [действие]Action, которое началось в прошлом. Ожидалось, что это действие должно было уже закончиться, но оно продолжается.
+  - norwegian: |
+       Konstruksjonen uttrykker en vedvarende [handling]Action som begynte i fortiden. Det var forventet at handlingen skulle ta slutt, men den pågår fortsatt.
 examples:
   - |
        'Возможности технологий так и [остаются]Action до сих пор только потенциальными, их освоение идёт медленно.'
@@ -24,9 +26,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
 part_of_speech_of_anchor:
   - Pron
   - Conj
@@ -36,8 +38,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj NP-Nom] [advmod так [fixed и]] VP]; [root [nsubj кот [advmod так [fixed и]] сидит]'
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod так [fixed и]] VP]'
+  - '[root [nsubj кот [advmod так [fixed и]] сидит]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

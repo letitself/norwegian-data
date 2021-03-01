@@ -1,7 +1,7 @@
 ---
 record: 677
 name: 'VP-Inf не ~VP-Pst, (но Cl)'
-UD_name: 'VP-Inf не ~VP-Past, (но Cl)'
+UD_name: 'VP-Inf не VP-Past, (но Cl)'
 illustration: 'А я и знать не знал, что ты тоже будешь в Берлине.'
 cefr_level: 
 definitions:
@@ -14,16 +14,23 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - ~
+  - Coordinator
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Negation
+  - Reduplication
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

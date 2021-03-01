@@ -3,7 +3,7 @@ record: 724
 name: 'NP-Nom и без NP-Gen знать, (что Cl)'
 UD_name: 'NP-Nom и без NP-Gen знать, (что Cl)'
 illustration: 'Мы и без вас знаем, что делать.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -16,14 +16,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

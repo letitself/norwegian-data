@@ -1,30 +1,40 @@
 ---
 record: 252
-name: 'NP-Nom обойтись в NumCrd-Acc NP-Gen'
-UD_name: 'NP-Nom обойтись в NumCrd-Acc NP-Gen'
+name: 'NP-Nom обойтись в NumCrd-Acc NP'
+UD_name: 'NP-Nom обойтись в NumCrd-Acc NP'
 illustration: 'Новая сумка обошлась в тысячу рублей.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает стоимость некоторого [объекта или услуги]Theme в [единицах]Measure определенной денежной системы (рублях, долларах, евро и других валютах), приводя [количество]Quantity этих единиц. Если использовано числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в винительном падеже, в остальных случаях после предлога "в" в родительном падеже.
+  - english: |
+       По корпусу проверить много ли датива, если да посатавить в скобки, и пров еруть, всегда ли значит, что деньги уже потратили.
 examples:
 morphology:
   - NP
   - Nom
   - NumCrd
   - Acc
-  - Gen
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
+  - Government
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

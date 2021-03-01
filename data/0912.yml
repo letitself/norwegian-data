@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation длится очень долгое время и актуальна до сих пор. Как если бы ее длительность была сопоставима со всей жизнью человека.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation har vedvart svært lenge og fremdeles er aktuell. Det er som om situasjonens varighet er sammenliknbar med hele menneskelivet.
 examples:
   - |
        '― Вы всю жизнь [изучаете микроорганизмы]Situation, в том числе и самые опасные для человека.'
@@ -23,9 +25,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Noun
   - Pron
@@ -34,6 +36,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

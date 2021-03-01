@@ -14,13 +14,12 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Clause
+  - Matrix Predicate Construction
 syntactic_function_of_anchor:
   - Subject
-  - Predicate
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - NP
-  - VP
+  - Verb pattern
 part_of_speech_of_anchor:
   - Noun
   - Verb
@@ -29,6 +28,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

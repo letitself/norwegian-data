@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation происходит [на территории какого-либо заведения]Location. Как если бы эта ситуация была ограничена стенами здания этого заведения.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation foregår [innenfor en institusjons område]Location. Det er som om situasjonen er avgrenset av veggene til institusjonsbygningen.
 examples:
   - |
        'Годом рождения иммунологии считается 1881 год, когда [учёный Луи Пастер прочитал свой знаменитый публичный доклад]Situation в стенах [Французской академии наук]Location.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

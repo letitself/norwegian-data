@@ -1,12 +1,14 @@
 ---
 record: 1548
-name: 'NP радиусом/диаметром (в) NumCrd-Acc NP-Gen'
-UD_name: 'NP радиусом/диаметром (в) NumCrd-Acc NP-Gen'
+name: 'NP радиусом/диаметром (в) NumCrd-Acc NP'
+UD_name: 'NP радиусом/диаметром (в) NumCrd-Acc NP'
 illustration: 'Взрыв радиусом в десятки метров'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает [радиус или диаметр]Quantity [круглого в сечении объекта]Theme, измеренный в [стандартных единицах длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
+  - norwegian: |
+       Konstruksjonen betegner [radiusen eller diameteren]Quantity av [et objekt med rundt snitt]Theme, målt i [standardiserte målenheter for lengde, f.eks. meter, kilometer, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
   - |
        'Из фанеры нужно вырезать [кружок]Theme радиусом в [три]Quantity [сантиметра]Measure, наклеить на него плотную чертежную бумагу.'
@@ -26,7 +28,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:
@@ -39,6 +41,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

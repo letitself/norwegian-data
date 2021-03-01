@@ -3,9 +3,21 @@ record: 1296
 name: 'VP по NP-Dat'
 UD_name: 'VP по NP-Dat'
 illustration: 'По состоянию здоровья он был отпущен домой.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое качество, физическое или эмоциональное состояние]Cause участника стало причиной некоторого [действия]Action или [ситуации]Situation, произошедших с этим (или, реже, другим - пример 5) участником.
 examples:
+  - |
+       'Если [Елена вышла замуж за Тихомирова]Action по [любви]Cause, то ей нечего стыдиться ни первого мужа, ни людей.'
+  - |
+       '[Он мало что мог делать]Situation и по [возрасту]Cause, и по [здоровью]Cause, и по [незнанию французского языка]Cause.'
+  - |
+       'Проков, постоянно мрачный, винил себя, что [руку потерял]Situation по [глупости]Cause.'
+  - |
+       'Признаю, [шутка вышла неудачной]Situation, но это по [неопытности]Cause.'
+  - |
+       '[Лены на работе не было ― была в отпуске]Situation по [болезни сына]Cause.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,25 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
-  - ~
-usage_label: Formal
+  - Assertive
+usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'Не путать с конструкцией 1297 VP по NP-Dat (По внешнему виду мебели можно подумать, что она переходит из поколения в поколение).'
 references:
   - |
     ""

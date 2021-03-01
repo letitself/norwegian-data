@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает, что [некоторый участник]Agent [произносит речь]Action, которая обращена к [большой группе людей]Addressee. Речь может также идти о творческом выступлении (песни, танцы, стихи и др.). Конструкция может также обозначать ситуацию, в которой [участник]Agent [отчитывается о своей деятельности]Action, обращаясь к другому [участнику]Addressee, как правило, более высокому по статусу, либо к [группе людей]Addressee.
+  - norwegian: |
+       Konstruksjonen uttrykker at [en deltaker]Agent [holder en tale]Action, henvendt til [en stor gruppe mennesker]Addressee. Det kan også dreie seg om en kunstnerisk opptreden (sang, dans, diktopplesning m.m.). Konstruksjonen kan også betegne en situasjon, der [en deltaker]Agent [rapporterer om sin virksomhet]Action, henvendt til en annen [deltaker)Addressee, som regel av høyere status, eller til [en gruppe mennesker]Addressee.
 examples:
   - |
        'В ближайшие дни [он]Agent пожелал [выступить]Action перед [горожанами]Addressee на главной площади и заказал соорудить огромную трибуну.'
@@ -25,11 +27,12 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Prep
+  - Modifier
 syntactic_structure_of_anchor:
-  - PP
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - Agent
   - Action
@@ -37,8 +40,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj NP] VP [obl [case перед] NP]]; [root [nsubj он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]]]'
+dependency_structure:
+  - '[root [nsubj NP] VP [obl [case перед] NP]]'
+  - '[root [nsubj он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

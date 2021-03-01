@@ -7,8 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что в какой-либо [части тела]Location чувствуется [неприятное ощущение]Theme.
-  - english: |
-       This construction signifies that there is an [unpleasant sensation]Theme in some [part of the body]Location.
+  - norwegian: |
+       Konstruksjonen betegner en følelse av [ubehag]Theme i [en kroppsdel]Location.
 examples:
   - |
        'Когда у сторонников прошла [рябь]Theme в [глазах]Location и к ним, оглушённым, вернулся слух, на сцену поднялся лидер высшего совета Борис Грызлов.'
@@ -26,19 +26,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - Location
   - Theme
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nmod [case в] NP-Loc] NP-Nom]; [root [nmod [case в] животе] боль]'
+dependency_structure:
+  - '[root [nmod [case в] NP-Loc] NP-Nom]'
+  - '[root [nmod [case в] животе] боль]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

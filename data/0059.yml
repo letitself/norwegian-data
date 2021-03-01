@@ -1,11 +1,27 @@
 ---
 record: 59
-name: 'во всяком случае, Cl'
-UD_name: 'во всяком случае, Cl'
+name: 'во всяком случае, Cl/XP'
+UD_name: 'во всяком случае, Cl/XP'
 illustration: 'Во всяком случае, эксперты не исключают такого исхода событий.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция сужает  уже сделанное утверждение говорящего до того частного [аспекта]ContentOfSpeech, в котором он полностью уверен. Так, конструкция вводит дополнительный частный аргумент в пользу общего утверждения.
+  - english: |
+       This construction specifies [in which sense]Theme or [in which case]Theme the previous statement is valid. The construction can often be translated as ‘in any case’ or ‘at least’, e.g. Лариса глубоко убеждена, что должен родиться мальчик. Во всяком случае, она находит этому подтверждение по многим признакам ‘Larisa is deeply convinced that she will have a boy. At least she finds many signs that support that’.
+  - norwegian: |
+       Konstruksjonen spesifiserer [på hvilken måte]Theme eller [i hvilket tilfelle]Theme the foregående utsagnet er gyldig. Konstruksjonen kan ofte oversettes med ‘i alle tilfelle’ eller ‘i hvert fall’, f.eks. Лариса глубоко убеждена, что должен родиться мальчик. Во всяком случае, она находит этому подтверждение по многим признакам ‘Larisa er dypt overbevist om at hun kommer til å få en gutt. I alle tilfelle finner hun mange tegn som tyder på det’.
 examples:
+  - |
+       'И хотя сейчас врачи точно определить пол будущего ребёнка не могут, Лариса глубоко убеждена, что должен родиться мальчик. Во всяком случае, [она находит этому подтверждение по многим признакам.]ContentOfSpeech'
+  - |
+       'Но сам ему ничего рассказывать не буду. Во всяком случае ― [пока]ContentOfSpeech.'
+  - |
+       'Ей преподаватели нравятся. Я лично общалась пока только с учительницей биологии ― во всяком случае, [явной антипатии с первого взгляда она не вызывает]ContentOfSpeech.'
+  - |
+       'Нина стала верить в переселение душ и обратилась в индуизм. Во всяком случае, [так она называла свои новые убеждения]ContentOfSpeech.'
+  - |
+       'До недавнего времени (во всяком случае, [до середины 20-го века]ContentOfSpeech) у малых народностей северной Сибири знание пяти-шести языков было нормой ― во время кочевий неизбежно сталкивались с другими народами, надо было как-то общаться.'
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -14,17 +30,23 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
+  - Pron
 semantic_roles:
-  - ~
+  - ContentOfSpeech
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "Апресян В.Ю. Уступительность в языке и слова со значением уступки // ВЯ. 1999. № 5. С. 24-44."
 semantic_types:
   - type: Concession
 family:

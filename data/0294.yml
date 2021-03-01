@@ -26,18 +26,23 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Verb
 semantic_roles:
   - Experiencer
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [obl [case с] Pron-Gen] хватит]; [root [obl [case с] меня] хватит]'
+dependency_structure:
+  - '[root [obl [case с] Pron-Gen] хватит]'
+  - '[root [obl [case с] меня] хватит]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'см. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться)'
 references:

@@ -3,9 +3,21 @@ record: 51
 name: 'Cl в условиях NP-Gen Cl'
 UD_name: 'Cl в условиях NP-Gen Cl'
 illustration: 'В условиях подъёма экономики России выросла роль временных миграций.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что при наличии [чего-либо окружающего или сопутствующего]Theme может осуществляться [какая-либо ситуация.]Situation
+  - english: |
+       This construction expresses that [something]Situation can, may, or has taken place under [certain conditions]Theme, e.g. В условиях подъёма экономики России, выросла роль временных миграций ’In a period when Russian economy has become stronger, seasonal migration (to Russia) has received a more important role’.
+  - norwegian: |
+       Konstruksjonen uttrykker at [noe]Situation kan skje, eller har skjedd under [visse forhold]Theme, f.eks. ‘I en periode med sterkere russisk økonomi, har sesongarbeidsinnvandring (til Russland) fått en viktigere rolle’.
 examples:
+  - |
+       'В условиях [современной динамики]Situation во всех сферах хозяйства[ важное значение приобретает своевременный контроль развития территорий.]Situation'
+  - |
+       'Это означает, что [система может использоваться]Situation в условиях [самых жёстких внешних воздействий.]Theme'
+  - |
+       'Можно ли в условиях [невесомости]Theme [перелить воду из этого сосуда в другой такой же сосуд?]Situation'
 morphology:
   - Cl
   - NP
@@ -13,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -24,6 +36,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

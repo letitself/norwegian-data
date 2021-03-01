@@ -1,7 +1,7 @@
 ---
 record: 2207
 name: 'Adj на весь Noun-Acc.Sg (NP-Ins)'
-UD_name: 'Adj на весь Noun-Sing.Acc (NP-Ins)'
+UD_name: 'Adj на весь N-Acc.Sing (NP-Ins)'
 illustration: 'Известный на весь мир'
 cefr_level: 
 definitions:
@@ -16,16 +16,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

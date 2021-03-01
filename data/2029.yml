@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme, [компонент]Theme или [участник]Participant не присутствует или не участвует в [действии]Action или [ситуации]Situation. Этот объект или участник может быть конкретным или абстрактным. При этом ожидалось, что объект или участник будет присутствовать в этом действии или этой ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at [et objekt]Theme, [en komponent]Theme eller [en deltaker]Participant ikke er til stede eller ikke deltar i [en handling]Action eller [en situasjon]Situation. Objektet eller deltakeren kan være konkret eller abstrakt. Samtidig var det forventet at objektet eller deltakeren ville være til stede i denne handlingen eller situasjonen.
 examples:
   - |
        'Капусту следует [тушить]Action без [крышки]Theme.'
@@ -25,9 +27,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -38,6 +41,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

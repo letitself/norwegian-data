@@ -6,9 +6,7 @@ illustration: 'Что насчёт пятницы? Какие у тебя пла
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий интересуется каким-либо [вопросом]Theme или [темой]Theme, о которой говорилось раньше.
-  - english: |
-       This construction is used to ask about the addressee’s thoughts on [a topic]Theme that has been mentioned earlier.
+       Конструкция обозначает, что говорящий интересуется каким-либо [вопросом]Theme или [темой]Theme, о которой говорилось раньше. Слот может заполняться именной группой, глагольной группой или наречием.
   - norwegian: |
        Konstruksjonen brukes for å høre hva adressaten tenker om et [tema]Theme som har vært nevnt tidligere.
 examples:
@@ -19,29 +17,36 @@ examples:
   - |
        'Что насчёт [фильма]Theme? Какой будем сегодня вечером смотреть.'
   - |
-       'Мыслить то хорошо, а как насчёт [чтобы встать и сделать]Theme?'
+       '― Так что насчёт [моей просьбы]Theme? ― Еще раз взвесим.'
   - |
-       'Можно ли измерить счастье? А как насчёт [качества вашей жизни]Theme? Вы задумывались о том, от чего оно зависит?'
+       'Вы ранее говорили, что скучаете по своему делу. А что насчёт [вернуться к нему]Theme?'
 morphology:
   - XP
-  - Cl
   - Adv
   - NP
+  - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
   - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Pron
+  - Prep
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - Interrogative
 usage_label: ~
-structure_in_ud: |
-    '[root [mark а] [mark что [fixed насчёт]] XP?]; [root [mark а] [mark что [fixed насчёт]] пятницы?] Какие у тебя планы?'
+dependency_structure:
+  - '[root [mark а] [mark что [fixed насчёт]] XP?]'
+  - '[root [mark а] [mark что [fixed насчёт]] пятницы?] Какие у тебя планы?'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. не путать с конструкциями 147 как насчёт XP? (Как насчёт выпить?); 687 (а) насчёт NP-Gen – Cl (А насчёт папы – он уехал на рыбалку).'
 references:
   - |
     ""

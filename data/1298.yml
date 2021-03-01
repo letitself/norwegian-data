@@ -3,9 +3,21 @@ record: 1298
 name: 'VP на NP-Acc'
 UD_name: 'VP на NP-Acc'
 illustration: 'Все обернулись на её смех.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция указывает на [внешний раздражитель]Stimulus, который является причиной того, что [участник]Experiencer совершает [движение или иное действие]Action в его направлении. Как правило, таким раздражителем выступает резкий свет, звук или запах.
 examples:
+  - |
+       'На [шум]Stimulus [в палату пришел]Action [санитар]Experiencer.'
+  - |
+       '[Настя]Experiencer [кинулась]Action на [голос]Stimulus и увидела Лизу у двери гостиной.'
+  - |
+       'На незнакомой терриории я чувствую себя [древним человеком]Experiencer, который [вылез из пещеры]Action на [свет]Stimulus и увидел вместо привычного леса  улицу в горящих неоновых вывесках.'
+  - |
+       'На газете разложили зеленый лук, хлеб, немного сала, на [запах которого]Stimulus [пришла, робко мяукая]Action, [серая кошка]Experiencer.'
+  - |
+       'На [лай собаки]Stimulus [вышел]Action [старик]Experiencer и начал рассматривать меня.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Experiencer
+  - Stimulus
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

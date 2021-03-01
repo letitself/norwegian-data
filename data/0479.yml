@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает, что у [участника]Participant нет времени или возможности, чтобы заняться [некоторым делом или вопросом]Theme или обратить внимание на [некоторый объект]Theme или [другого участника]Participant. Подразумевается, что участник занят другими, более важными неотложными делами и по объективным причинам не может уделить время менее важному делу, которое отвлечет его от главного.
   - english: |
        This construction means that the [participant]Experiencer does not have the opportunity or time to do [something]Theme or pay attention to [someone]Theme or [something]Theme.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Participant ikke har tid eller anledning til å gå i gang med [et gitt gjøremål eller spørsmål]Theme eller til å vie [et gitt objekt]Theme eller [en annen deltaker]Participant oppmerksomhet. Det er underforstått at deltakeren er opptatt med andre, viktigere og mer presserende saker og av objektive grunner ikke kan bruke tid på noe som er mindre viktig og avleder vedkommende fra hovedanliggendet.
 examples:
   - |
        '[Родителям]Experiencer было не до [Ирины]Participant. Она сама формировала и сама заполняла свой день.'
@@ -30,17 +32,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Prep
 semantic_roles:
   - Experiencer
   - Action
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [iobj NP-Dat] [advmod не] [case до] NP-Gen]; [root [iobj мне] [advmod не] [case до] уборки]'
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] [case до] NP-Gen]'
+  - '[root [iobj мне] [advmod не] [case до] уборки]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

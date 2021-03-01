@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action происходит без видимой [причины]Cause ("на пустом месте") или, наоборот, имеет [основания, базу, причину]Cause ("не на пустом месте"). Действие, как правило, связано с созиданием или возникновением нового объекта, конкретного (пример 3, 4) или абстрактного (примеры 1, 2) или беспочвенным эмоциональным переживанием (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action pågår uten noen synlig [årsak]Cause ('на пустом месте') eller, tvert i mot, at den har [en begrunnelse, et grunnlag eller en årsak]Cause ('не на пустом месте'). Handlingen har som regel sammenheng med at det dannes eller oppstår et nytt objekt, enten konkret (eksempel 3 og 4) eller abstrakt (eksempel 1 og 2), eller den kan ha sammenheng med en grunnløs emosjonell opplevelse (eksempel 5).
 examples:
   - |
        'Национальная идея не может [возникнуть]Action на пустом месте.'
@@ -23,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Negation
@@ -38,6 +40,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,28 +1,48 @@
 ---
 record: 1832
-name: 'XP, то бишь XP'
-UD_name: 'XP, то бишь XP'
+name: 'XP/Cl, то бишь XP/Cl'
+UD_name: 'XP/Cl, то бишь XP/Cl'
 illustration: 'Почему-то этот замкнутый человек хочет работать с детьми, то бишь учителем.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "то бишь", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "то бишь", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som står etter ordene 'то бишь', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Sloten XP kan fylles av en nominalfrase, preposisjonsfrase eller en verbalfrase.
 examples:
+  - |
+       'Вот эту проблему я и хотел [распутать]Topic, то бишь [решить]Theme в своей книге.'
+  - |
+       'Сам собой возникает вопрос: о чем, простите, 400-страничный фолиант? Начнем [с начала]Topic, то бишь [с заглавия]Theme.'
+  - |
+       'Кондитерская [«Норд»]Topic, то бишь [«Север»]Theme, слыхал?'
+  - |
+       'Считаю, что нужно уже начать правильно питаться, ну, не есть всякую ерунду, витамины поглощать, например. Ну и [женская красота]Topic ― то бишь [фигура, количество морщин и пр.]Theme Возвращаюсь к вопросу, что лично делаете Вы, на чем основывается Ваше количество тренировок, виды процедур, кремов и пр.'
+  - |
+       'А мне прямым текстом это говорили, [чтобы мы расстались]Topic, то бишь, [чтобы я отпустила мужа, а он бы нашёл себе нормальную девушку, которая родит ему наследника]Theme.'
 morphology:
   - XP
+  - NP
+  - PP
+  - VP; Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Coordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
   - Conj
 semantic_roles:
-  - ~
+  - Topic
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -32,4 +52,4 @@ semantic_types:
       - type: Clarification
 family:
   - |
-    ""
+    "Clarification via rephrasing"

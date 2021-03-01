@@ -1,7 +1,7 @@
 ---
 record: 1943
 name: 'Как Cop PronPoss имя/фамилия/отчество?'
-UD_name: 'как Adj.Pron имя/фамилия/отчество?'
+UD_name: 'Как Cop PronPoss имя/фамилия/отчество?'
 illustration: 'Как ваше имя?'
 cefr_level: 
 definitions:
@@ -14,15 +14,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - NP
+  - N
+  - A
 part_of_speech_of_anchor:
   - Noun
-  - PronInt
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

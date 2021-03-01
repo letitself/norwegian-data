@@ -3,9 +3,23 @@ record: 61
 name: 'NP-Nom возьми и VP-Imp'
 UD_name: 'NP-Nom возьми и VP-Imper'
 illustration: 'А он возьми и купи новую машину!'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent неожиданно для говорящего совершил [действие]Action, которое резко изменило ход событий. Действие происходит быстро и за один этап, часто спонтанно или неожиданно. Оба глагола стоят в одной грамматической форме и не согласуются с подлежащим по лицу и числу.
+  - english: |
+       Нужно отразить в формуле, что императив слот всегда будет в единственном числе, а не императив на -те, и в совершенном виде. То есть NP-Nom возьми и VP-Pfv.Imp.Sg
 examples:
+  - |
+       'Петров в шутку предложил ей пойти на свидание. А [она]Agent ― возьми и [согласись.]Action'
+  - |
+       'Вдруг вчера [этот Витя]Agent возьми и [скажи]Action: «Иди ко мне в секретари работать, место есть».'
+  - |
+       'Отличница должна была написать про успех русских поэтов, а [она]Agent возьми и [напиши то, про что пишет всякий троечник]Action.'
+  - |
+       '― Это, наверное, большой человек к вам приезжал, кто он? Тут [Слава]Agent возьми и [пошути]Action: ― Ты прав, отец. Человек действительно большой.'
+  - |
+       'А [она]Agent возьми и [приди]Action ― пожалуй, не в самый подходящий момент.'
 morphology:
   - NP
   - Nom
@@ -14,19 +28,28 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Conj
 semantic_roles:
-  - ~
+  - Action
+  - Agent
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. 57 NP-Nom взять и VP-Pfv (Он взял и увез меня в деревню).'
 references:
   - |
-    ""
+    "В литературе описывается в терминах псевдоимператива, то есть императива в неимперативном значении. Stojnova, N. M. (2007), The construction vzjat’ i sdelat’ ‘take and do’ in Russian [Konstrukcija vzjat’ i sdelat’ v russkom jazyke], Dudčuk, F. I., Ivlieva, N. V., Podobrjaev, A. V. (eds.), Structures and interpretations: Studies in theoretical and applied linguistics by young researchers [Struktury i interpretacii: raboty molodyx issledovatelej po teoretičeskoj i prikladnoj lingvistike], Moscow State University, Moscow, pp. 158–189."
 semantic_types:
   - type: Mirative
 family:

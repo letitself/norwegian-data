@@ -3,25 +3,41 @@ record: 712
 name: 'VP без боя'
 UD_name: 'VP без боя'
 illustration: 'Я не сдамся без боя.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник не стремится активно действовать, чтобы предотвратить некоторое нежелательное [действие]Action.
 examples:
+  - |
+       'Похоже, он решил [сдаться]Action без боя.'
+  - |
+       'Она бы без боя [не дала потратить столько денег на подарок]Action.'
+  - |
+       'Миша не умеет [отдавать]Action свое без боя.'
+  - |
+       'Они без боя [смирились со своим положением]Action.'
+  - |
+       'Для них этот матч очень важен, без боя нам никто [уступать]Action не будет.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

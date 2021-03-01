@@ -12,16 +12,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Not Applicable
 syntactic_structure_of_anchor:
-  - Noun
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - NA
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

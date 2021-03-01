@@ -1,28 +1,48 @@
 ---
 record: 1831
-name: 'XP, то есть XP'
-UD_name: 'XP, то есть XP'
+name: 'XP/Cl, то есть XP/Cl'
+UD_name: 'XP/Cl, то есть XP/Cl'
 illustration: 'У меня в доме живет и теща, то есть мать моей жены, и дети.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "то есть", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "то есть", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som står etter ordene 'то есть', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Sloten XP kan fylles av en nominalfrase, preposisjonsfrase eller en verbalfrase.
 examples:
+  - |
+       'По сообщению Всемирного фонда дикой природы, поголовье морских коньков стремительно сокращается. В Красную книгу внесены [тридцать видов этих рыб]Topic, то есть [почти все виды, известные науке]Theme.'
+  - |
+       'В последней подсистеме планируется использование [технологий интеллектуальной аналитической обработки данных]Topic, то есть [технологий "Data mining"]Theme.'
+  - |
+       'По некоторым сведениям он сидит на необитаемом острове. Вот его [координаты]Topic! То есть, чтобы понятнее, ― [адрес]Theme.'
+  - |
+       'Редакторская группа снова слушала о необходимости [менять контент]Topic, то есть [предлагать идеи, которые бы работали на привлечение масс]Theme.'
+  - |
+       'Просто все мои предки-женщины были замужем.  [И все они воспитывались в семьях]Topic, то есть [и они были предрасположены к тому, чтобы самим иметь семью и быть жёнами, матерями]Theme.'
 morphology:
   - XP
+  - NP
+  - PP
+  - VP; Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Coordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
   - Conj
 semantic_roles:
-  - ~
+  - Topic
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -32,4 +52,4 @@ semantic_types:
       - type: Clarification
 family:
   - |
-    ""
+    "Clarification via rephrasing"

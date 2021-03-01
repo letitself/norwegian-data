@@ -1,14 +1,14 @@
 ---
 record: 40
 name: 'будет PronPers-Dat NP-Nom'
-UD_name: 'будет Pron-Dat NP-Nom'
+UD_name: 'будет PronPers-Dat NP-Nom'
 illustration: 'Будет тебе счастье, ты только жди.'
 cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает пожелание или прогноз на будущее о том, что у [участника]Recipient в скором времени появится [желаемый объект или состояние]Theme.
-  - english: |
-       This construction expresses a wish for the futrue, that [the desired object or state]Theme will soon materialise for [the participant]Recipient.
+  - norwegian: |
+       Konstruksjonen betegner et ønske eller en fremtidsutsikt om at [et ønsket objekt eller en ønsket tilstand]Theme i nær fremtid vil bli [deltakeren]Recipient til del.
 examples:
   - |
        'Как-то собрались в Союзе писателей, и я сказал, что вот треплетесь, треплетесь про рыбалку, товарищи писатели, а сдвигов нету никаких. ― Сейчас, сейчас будет [тебе]Recipient [сдвиг]Theme! ― пообещал Виктор Коротаев и начал обзванивать загородных знакомых.'
@@ -28,19 +28,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Participant
   - Theme
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [cop будет] [nmod Pron-Dat] NP-Nom]; [roott [cop будет] [nmod тебе] счастье, [conj [nsubj ты] [advmod только] жди]]'
+dependency_structure:
+  - '[root [cop будет] [nmod Pron-Dat] NP-Nom]; [roott [cop будет] [nmod тебе] счастье'
+  - '[conj [nsubj ты] [advmod только] жди]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

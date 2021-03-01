@@ -7,10 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme имеет параметры некоторого [образца]Property, задающего стандарт определенной величины. Объект соответствует этому стандарту приблизительно.
-  - english: |
-       This construction expresses that [entity A]Theme has the dimensions of [entity B]Property.
   - norwegian: |
-       Konstruksjonen uttrykker at [gjenstand A]Theme har samme dimensjoner som [gjenstand B]Property.
+       Konstruksjonen betyr at et [objekt]Theme har samme dimensjoner som en [modell]Property som setter standarden for en bestemt størrelse. Objektet er i samsvar med denne standarden på en omtrentlig måte.
 examples:
   - |
        'Иное дело лет через двадцать, когда возможности сегодняшнего персонального компьютера сосредоточатся в [устройстве]Theme размером с [мобильный телефон]Property.'
@@ -28,19 +26,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Prep
 semantic_roles:
   - Theme
   - Property
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root размером|величиной [nmod [case с] NP-Acc]]; [root [nsubj собака] [cop была] размером [nmod [case с] лошадь]]'
+dependency_structure:
+  - '[root размером|величиной [nmod [case с] NP-Acc]]'
+  - '[root [nsubj собака] [cop была] размером [nmod [case с] лошадь]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

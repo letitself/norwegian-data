@@ -14,18 +14,25 @@ morphology:
   - Ins
   - Acc
 syntactic_type_of_construction:
-  - Clause
+  - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
+  - Government
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Obsolete
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

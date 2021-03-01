@@ -3,27 +3,48 @@ record: 1838
 name: 'XP, в смысле XP'
 UD_name: 'XP, в смысле XP'
 illustration: 'Я пригласила только самых близких подруг, в смысле тебя, Машу и Катю.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "в смысле", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил. Говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "в смысле", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Часто говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Подразумевается, что первоначальный вариант формулировки будет непонятен собеседнику или может быть понят им неправильно. Слот XP может заполняться именной, предложной или глагольной группой.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'в смысле', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Ofte er det som om taleren korrigerer sin opprinnelige, noe upresise, formulering ved å foreslå en alternativ formulering. Det er underforstått at den opprinnelige versjonen av formuleringen vil være uforståelig for samtalepartneren eller at vedkommende kan komme til å forstå den forkjært. Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
+  - |
+       'Но если бы этого всего не было, то [всё]Topic было бы по-другому, в смысле [моя жизнь]Theme, это же понятно.'
+  - |
+       'Он прилип к одной из дам и стал выспрашивать, [всё ли у неё дома в порядке]Topic, в смысле ― [исправно ли работают электробытовые приборы]Theme.'
+  - |
+       'Никаких настоящих ковбоев с пистолетами я так и не встретила в Техасе, но всё же техасцы ― народ более [дикий]Topic (в смысле [прямолинейный]Theme), чем все остальные американцы.'
+  - |
+       'К вечеру бабки появятся.  Я вздрогнул при слове "бабки".  Бригадир пояснил; ― В смысле ― деньги…'
+  - |
+       'Сторонники [левых]Topic (в смысле ― [социалистических]Theme) идей обычно уверены, что разрыв между богатыми и бедными углубляется, приобретая просто катастрофические масштабы.'
 morphology:
   - XP
+  - NP
+  - PP
+  - VP
+  - Adj
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Coordinator
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Topic
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -33,4 +54,4 @@ semantic_types:
       - type: Clarification
 family:
   - |
-    ""
+    "Clarification via rephrasing"

@@ -1,7 +1,7 @@
 ---
 record: 2157
 name: 'только/лишь/хоть бы VP-Pfv.Pst'
-UD_name: 'только/лишь/хоть бы VP-Past.Perf'
+UD_name: 'только/лишь/хоть бы VP-Perf.Past'
 illustration: 'Tолько бы они оставили меня в покое.'
 cefr_level: 
 definitions:
@@ -13,16 +13,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - Conj
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

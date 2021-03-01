@@ -11,11 +11,9 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Predicate
-  - Clause
+  - Coordinator
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - VP
-  - Conj
   - Negation
 part_of_speech_of_anchor:
   - Verb
@@ -26,6 +24,10 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

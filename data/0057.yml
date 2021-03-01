@@ -1,31 +1,52 @@
 ---
 record: 57
-name: 'NP-Nom взять и VP'
-UD_name: 'NP-Nom взять и VP'
+name: 'NP-Nom взять и VP-Pfv'
+UD_name: 'NP-Nom взять и VP-Perf'
 illustration: 'Он взял и увез меня в деревню.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent неожиданно совершил некоторое [действие]Action, которое резко изменило ход событий. Действие происходит быстро и за один этап, часто спонтанно или неожиданно. Оба глагола стоят в одной грамматической форме и согласуются с подлежащим.
 examples:
+  - |
+       'Ни с того ни с сего [главный тренер]Agent взял и [пригласил]Action в сборную Александра Юдина.'
+  - |
+       'Ну хорошо, думал я, возьму и [женюсь]Action.'
+  - |
+       'Я просто представить себе не мог, что [он]Agent вот так возьмет и [скажет: «Я не поеду»]Action.'
+  - |
+       '[Ты]Agent ведь не мог так просто взять и [бросить учебу]Action.'
+  - |
+       'Она ему всю душу отдала, а [он]Agent взял и [уехал]Action.'
 morphology:
   - NP
   - Nom
   - VP
+  - Pfv
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'При описании прошедшего события в настоящем времени (presens historicum), глагол совершенного вида "взять" заменяется на глагол несовершенного вида "брать", и последующий глагол также ставится в форме несовершенного вида: И каково же было мое удивление, когда я дошел до места, где умирает его отец, и он берет и говорит: «В тот момент у меня переменилось мировоззрение». См. близкую конструкцию 61 NP-Nom возьми и VP-Imp (А он возьми и купи новую машину!).'
 references:
   - |
-    ""
+    "Stojnova, N. M. (2007), The construction vzjat’ i sdelat’ ‘take and do’ in Russian [Konstrukcija vzjat’ i sdelat’ v russkom jazyke], Dudčuk, F. I., Ivlieva, N. V., Podobrjaev, A. V. (eds.), Structures and interpretations: Studies in theoretical and applied linguistics by young researchers [Struktury i interpretacii: raboty molodyx issledovatelej po teoretičeskoj i prikladnoj lingvistike], Moscow State University, Moscow, pp. 158–189."
 semantic_types:
   - type: Mirative
   - type: Result

@@ -1,7 +1,7 @@
 ---
 record: 2027
 name: 'PronPers-Nom у меня до-Verb-ся'
-UD_name: 'Pron-Nom у меня до-V-ся'
+UD_name: 'PronPers-Nom у меня до-V-ся'
 illustration: 'Они у меня допрыгаются!'
 cefr_level: 
 definitions:
@@ -13,11 +13,9 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Predicate
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
-  - Word-Formation
 part_of_speech_of_anchor:
   - Prep
   - Pron
@@ -26,6 +24,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

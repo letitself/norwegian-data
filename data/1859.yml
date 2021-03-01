@@ -1,12 +1,14 @@
 ---
 record: 1859
 name: 'NumCrd-Nom в квадрате/кубе – (равно/VP) NumCrd-Nom/NumCrd-Dat'
-UD_name: 'NumCrd-Nom в квадрате/кубе – (равно/VP) NumCrd-Nom'
+UD_name: 'NumCrd-Nom в квадрате/кубе – (равно/VP) NumCrd-Nom/NumCrd-Dat'
 illustration: 'Шесть в квадрате равно тридцать шесть.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция формулирует математическую операцию возведения [числа]Quantity во вторую степень (квадрат) или в третью степень (куб) и называет [результат]Result. Слот VP заполняется глагольными формами "равняется" и "будет". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 2, 3, 4, 5). Со словом "будет" или если оно опущено, результат всегда выражен формой именительного падежа (пример 1).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å opphøye [et tall]Quantity i annen potens (å kvadrere) eller i tredje potens (å kubere), og angir [svaret]Result. Sloten VP fylles av verbformene 'равняется' og 'будет'. Ved bruk av ordene 'равно' eller 'равняется' kan svaret stå i nominativ eller dativ (eksempel 2, 3, 4 og 5). Sammen med ordet 'будет', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 1).
 examples:
   - |
        '[Три]Quantity в квадрате будет [девять]Result, [три]Quantity в кубе будет [двадцать семь]Result.'
@@ -26,17 +28,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
+  - Pred
 semantic_roles:
   - Quantity
   - Result
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

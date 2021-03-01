@@ -1,28 +1,32 @@
 ---
 record: 323
-name: 'такой NP, который XP Cl'
-UD_name: 'такой NP, который XP Cl'
+name: 'такой NP, который Cl, Cl'
+UD_name: 'такой NP, который Cl, Cl'
 illustration: 'Таких домов, которые нужно расселить, много.'
 cefr_level: 
 definitions:
 examples:
 morphology:
   - NP
-  - XP
   - Cl
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

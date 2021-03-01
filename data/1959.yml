@@ -7,13 +7,14 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - Сl
+  - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
-  - Conj
+  - N
+  - A
 part_of_speech_of_anchor:
   - Conj
 semantic_roles:
@@ -21,6 +22,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

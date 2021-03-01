@@ -28,10 +28,13 @@ def normalize_usage_label(s):
     return s
 
 
-def print_as_yaml_list(string_spreadsheet):
+def print_as_yaml_list(string_spreadsheet, add_quotes=False):
     s = ""
     for line in split_string(string_spreadsheet):
-        s += f"  - {line}\n"
+        if add_quotes:
+            s += f"  - '{line}'\n"
+        else:
+            s += f"  - {line}\n"
     return s
 
 
@@ -64,7 +67,7 @@ def write_record(row, record):
         f.write("syntactic_type_of_construction:\n")
         f.write(print_as_yaml_list(row["Synt. type of construction"]))
         f.write("syntactic_function_of_anchor:\n")
-        f.write(print_as_yaml_list(row["Synt. function of anchor"]))
+        f.write(print_as_yaml_list(row["Synt. func. of anchor"]))
         f.write("syntactic_structure_of_anchor:\n")
         f.write(print_as_yaml_list(row["Synt. structure of anchor"]))
         f.write("part_of_speech_of_anchor:\n")
@@ -79,10 +82,14 @@ def write_record(row, record):
         )
         f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
 
-        entry = row["STRUCTURE in UD"].strip()
-        if entry != "":
-            f.write("structure_in_ud: |\n")
-            f.write(f"    '{entry}'\n")
+        f.write("dependency_structure:\n")
+        f.write(print_as_yaml_list(row["Dependency Structure"], add_quotes=True))
+        f.write("dependency_structure_of_illustration:\n")
+        f.write(
+            print_as_yaml_list(
+                row["Dependency Structure of Illustration"], add_quotes=True
+            )
+        )
 
         entry = row["Comment"].strip()
         if entry != "":

@@ -1,7 +1,7 @@
 ---
 record: 1672
 name: 'до-Verb'
-UD_name: 'до-Verb'
+UD_name: 'до-V'
 illustration: 'Иван дочитал книгу.'
 cefr_level: 
 definitions:
@@ -11,9 +11,10 @@ morphology:
 syntactic_type_of_construction:
   - Morphological Construction
 syntactic_function_of_anchor:
-  - Affix
-syntactic_structure_of_anchor:
   - Word-Formation
+syntactic_structure_of_anchor:
+  - N
+  - A
 part_of_speech_of_anchor:
   - NA
 semantic_roles:
@@ -21,6 +22,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

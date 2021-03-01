@@ -3,24 +3,43 @@ record: 1302
 name: 'Cl ради того, чтобы Cl'
 UD_name: 'Cl ради того, чтобы Cl'
 illustration: 'По сюжету им предстоит объединить усилия ради того, чтобы совершить ограбление.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на [цель]Purpose, ради которой [участник]Agent совершает некоторое [действие]Action или происходит некоторая [ситуация]Situation. При этом, по субъективной оценке участника, достижение цели необходимо или приносит пользу. Для достижения цели участник часто поступается своими интересами. Конструкция может начинаться с описания совершаемого действия (примеры 1-4) или цели (пример 5).
 examples:
+  - |
+       'Обычно [они не способны сдерживать свои потребности]Situation ради того, чтобы [получить выгоду в отдаленном будущем]Purpose.'
+  - |
+       '[К вершине стремятся]Action не ради победы, а ради того, чтобы [открылась неведомая даль]Purpose.'
+  - |
+       '[Они]Agent [затеяли эти дела]Action ради того, чтобы [отец прислал денег на мое лечение]Purpose.'
+  - |
+       '[Василий]Agent [отказался от своей доли прибыли]Action ради того, чтобы [довести работу до конца]Purpose.'
+  - |
+       'Ради того, чтобы [продать лошадь покупателю]Purpose, [они]Agent [прибегали к разным ухищрениям]Action, мучительным для лошадей.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
-  - ~
+  - Agent
+  - Action
+  - Situation
+  - Purpose
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

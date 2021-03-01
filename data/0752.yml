@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает, что к [некоторому участнику]Addressee обращены [реплики]Theme (примеры 1, 2, 3) или [реакции]Theme (примеры 4, 5) со стороны другого участника. Как правило, они являются негативными (примеры 1, 2, 4, 5), но могут быть и одобрительными (пример 3).
+  - norwegian: |
+       Konstruksjonen uttrykker at noen [replikker]Theme (eksempel 1, 2 og 3) eller [reaksjoner]Theme (eksempel 4 og 5) er stilet til [en deltaker]Addressee fra en annen deltaker. Som regel er de negative (eksempel 1, 2, 4 og 5), men de kan også være anerkjennende (eksempel 3).
 examples:
   - |
        'Любое неосторожное [слово]Theme в адрес [террористов]Addressee может спровоцировать их на агрессию по отношению к заложникам.'
@@ -24,17 +26,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - Addressee
   - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -13,18 +13,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Object
+  - Modifier
 syntactic_structure_of_anchor:
+  - Negation
+  - Adj
+part_of_speech_of_anchor:
   - Adj
   - Pron
-  - Negation
-part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

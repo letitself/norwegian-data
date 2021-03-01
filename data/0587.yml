@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что участник, перемещаясь, поочёдно [посещает]Action несколько [мест]Location, которые имеют одинаковые функции или относятся к одному типу.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker, ved å forflytte seg, [besøker]Action flere [steder]Location etter tur, der alle stedene har lik funksjon eller er av samme type.
 examples:
   - |
        'У неё доставало сил вести этот большой дом, на всех готовить, обстирывать, шить и [ходить]Action по [магазинам]Location.'
@@ -26,9 +28,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -37,8 +40,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [nsubj NP-Nom] VP [obl [case по] [NP-Dat]]; [root [nsubj они] любили [xcomp [advmod часто] ездить [obl [case по] знакомым]]]'
+dependency_structure:
+  - '[root [nsubj NP-Nom] VP [obl [case по] [NP-Dat]]'
+  - '[root [nsubj они] любили [xcomp [advmod часто] ездить [obl [case по] знакомым]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

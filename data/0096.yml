@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что [говорящий]Speaker предлагает [собеседнику]Participant вместе совершить некоторое [действие]Action.
+  - norwegian: |
+       Konstruksjonen betyr at [taleren]Speaker foreslår overfor [samtalepartneren]Participant at de sammen skal utføre en gitt [handling]Action.
 examples:
   - |
        'А мне скоро будет восемнадцать. Давай [поженимся]Action?'
@@ -26,18 +28,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
 intonation:
   - Exclamatory
 usage_label: ~
-structure_in_ud: |
-    '[root давай(те) [ccomp VP-Fut.1Plur]]; [root давай(те) [ccomp пойдем [obl [case в] кино]]]'
+dependency_structure:
+  - '[root давай(те) [ccomp VP-Fut.1Plur]]'
+  - '[root давай(те) [ccomp пойдем [obl [case в] кино]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

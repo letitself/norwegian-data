@@ -11,16 +11,21 @@ morphology:
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Coordinator
 syntactic_structure_of_anchor:
-  - Conj
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

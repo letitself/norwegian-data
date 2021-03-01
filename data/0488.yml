@@ -5,6 +5,12 @@ UD_name: 'NP-Dat удалось VP-Inf'
 illustration: 'Мише удалось покурить.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция используется для выражения успешно совершенного [действия]Action, которое потребовало усилий от [участника]Experiencer.
+  - english: |
+       NP-Dat удаться-3.Sg/удаваться-3.Sg VP-Inf. Если мы поставим удаваться/удаться, то это не отразит, что на самом деле есть только 4 формы, которые используются. удалось удается удастся удавалось. Если ставить в формуле инфинитивы, как отразить тогда, что это безличное, не берем случаи типа Мише удалась песня. ДАША: предлагаю оставить в формуле удаться, а в толковании прописать, что используются 4 формы: удалось, удастся, удавалось, удается.
+  - norwegian: |
+       Как ему удается создавать столь живые, бессмертные и бессменные творения, я до сих пор не понимаю… Но важно ли это?
 examples:
 morphology:
   - NP
@@ -12,18 +18,23 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Clause
+  - Matrix Predicate Construction
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

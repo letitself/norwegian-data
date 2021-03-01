@@ -1,12 +1,14 @@
 ---
 record: 607
-name: 'NumCrd-Nom (умножить/помножить) на NumCrd-Acc – (равно/VP) NumCrd-Nom'
-UD_name: 'NumCrd-Nom (умножить/помножить) на NumCrd-Acc – (равно/VP) NumCrd-Nom'
+name: 'NumCrd-Acc (умножить/помножить) на NumCrd-Acc – (равно/VP) NumCrd-Nom'
+UD_name: 'NumCrd-Acc (умножить/помножить) на NumCrd-Acc – (равно/VP) NumCrd-Nom'
 illustration: 'Семь на восемь – пятьдесят шесть.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция формулирует математическую операцию умножения [одного числа]Quantity на [другое]Quantity с указанием [результата]Result (произведения). Слот VP заполняется глагольными формами "будет" и "получится".
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å multiplisere [et tall]Quantity med [et annet]Quantity og angir [svaret]Result (produktet). Sloten VP fylles med verbformene 'будет' og 'получится'.
 examples:
   - |
        '[Пять]Quantity на [пять]Quantity ― [двадцать пять]Result.'
@@ -20,26 +22,30 @@ examples:
        'Сколько будет [триста сорок семь]Quantity помножить на [восемьсот пятьдесят четыре]Quantity? ― [Двести девяносто шесть тысяч шестьсот сорок восемь]Result, ― всхлипнул я.'
 morphology:
   - NumCrd
-  - Nom
   - Acc
   - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Government
+  - Verb Predicate
+  - Praedicative Expression
 syntactic_structure_of_anchor:
-  - PP
-  - Num
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Quantity
   - Result
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    '[root Num-Nom [nmod [case на] Num-Acc] ― [nmod Num-Nom]]; [root семь [nmod [case на] восемь] ― [nmod пятьдесят шесть]]'
+dependency_structure:
+  - '[root Num-Nom [nmod [case на] Num-Acc] ― [nmod Num-Nom]]'
+  - '[root семь [nmod [case на] восемь] ― [nmod пятьдесят шесть]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию 606 NumCrd-Ins NumCrd-Nom – (будет) NumCrd-Nom (Шестью пять – тридцать)'
 references:

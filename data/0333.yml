@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает большое количество [людей]Theme (примеры 1, 2, 4, 5) или человекоподобных существ (пример 3). Конструкция обычно используется, если эти [люди]Theme находятся близко друг к другу. Слово "толпа" может употребляться как в единственном (примеры 1, 2, 3), так и во множественном числе (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betegner et stort antall [mennesker]Theme (eksempel 1, 2, 4 og 5) eller menneskeliknende vesener (eksempel 3). Konstruksjonen brukes vanligvis dersom disse [menneskene]Theme befinner seg nært hverandre. Ordet 'толпа' kan brukes så vel i entall (eksempel 1, 2 og 3) som i flertall (eksempel 4 og 5).
 examples:
   - |
        'Толпа [фанатов]Theme требовала автографа у футболиста, когда тот появлялся на улице.'
@@ -25,18 +27,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Nominal Quantifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Noun
 semantic_roles:
   - Theme
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root толпа [nmod NP-Gen.Plur]]; [root толпа [nmod людей]]'
+dependency_structure:
+  - '[root толпа [nmod NP-Gen.Plur]]'
+  - '[root толпа [nmod людей]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

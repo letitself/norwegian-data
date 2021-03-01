@@ -1,7 +1,7 @@
 ---
 record: 303
-name: 'сегодня ХP, (а) завтра XP'
-UD_name: 'сегодня ХP, (а) завтра XP'
+name: 'сегодня XP, (а) завтра XP'
+UD_name: 'сегодня XP, (а) завтра XP'
 illustration: 'Зима в Москве суровая. Сегодня здоров, завтра – болен.'
 cefr_level: 
 definitions:
@@ -11,9 +11,10 @@ morphology:
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Modifier
+  - Coordinator
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
   - Conj
 part_of_speech_of_anchor:
   - Adv
@@ -23,6 +24,10 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

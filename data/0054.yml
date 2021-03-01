@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent, который имеет более высокий статус, приказывает другому [участнику]Participant совершить (примеры 1, 2, 3, 4) или не совершать (пример 5) некоторое [действие]Action.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Agent med høyest status gir en annen [deltaker]Participant ordre om å utføre (eksempel 1, 2, 3 og 4) eller ikke utføre (eksempel 5) en gitt [handling]Action.
 examples:
   - |
        '[Полицейские]Agent велели [им]Addressee [остановиться]Action, однако подростки не отреагировали на это требование и попытались скрыться.'
@@ -27,11 +29,12 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Negation Marker
 semantic_roles:
   - Action
   - Agent
@@ -39,8 +42,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root велеть [obl NP-Dat] [xcomp VP-Inf]]; [root [nsubj мать] велела [obl сыну] [xcomp учиться]]'
+dependency_structure:
+  - '[root велеть [obl NP-Dat] [xcomp VP-Inf]]'
+  - '[root [nsubj мать] велела [obl сыну] [xcomp учиться]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

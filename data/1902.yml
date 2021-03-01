@@ -1,7 +1,7 @@
 ---
 record: 1902
 name: 'исключая/не считая NP-Acc Cl'
-UD_name: 'исключая/не считая NP-Acc'
+UD_name: 'исключая/не считая NP-Acc Cl'
 illustration: 'Трое в лодке, не считая собаки.'
 cefr_level: 
 definitions:
@@ -13,18 +13,22 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Verb Pattern
   - Negation
 part_of_speech_of_anchor:
-  - Converb
+  - Conv
   - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

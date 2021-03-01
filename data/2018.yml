@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает наивысшую степень нежелания [участника]Experiencer соглашаться на предложенный [вариант развития событий]Theme. Отрицательное отношение к предложенному варианту заключается в том, что участник не согласен даже говорить об этом и слушать возможные аргументы собеседника.
+  - norwegian: |
+       Konstruksjonen uttrykker den høyeste grad av [en deltakers]Experiencer motvilje mot å gå med på et foreslått [alternativ av et hendelsesforløp]Theme. Den negative holdningen til det foreslåtte alternativet består i at deltakeren ikke engang er villig til å snakke om det eller lytte til samtalepartnerens eventuelle argumenter.
 examples:
   - |
        'Мы три раза обращались к вашему царю с мирными предложениями, мы соглашались на самые тяжелые условия… но [ваш царь]Experiencer и слышать не хотел о [мире]Theme…'
@@ -26,10 +28,10 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
+  - Modifier
 syntactic_structure_of_anchor:
-  - VP
-  - Verb Pattern
+  - Verb pattern
   - Negation
 part_of_speech_of_anchor:
   - Verb
@@ -41,6 +43,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

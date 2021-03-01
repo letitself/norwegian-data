@@ -3,7 +3,7 @@ record: 88
 name: 'всего-навсего NP'
 UD_name: 'всего-навсего NP'
 illustration: 'Это был всего-навсего старый диван.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту) Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
@@ -15,17 +15,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
+  - Modifier
 syntactic_structure_of_anchor:
   - Reduplication
-  - Adv
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

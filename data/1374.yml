@@ -3,25 +3,44 @@ record: 1374
 name: 'VP по секрету'
 UD_name: 'VP по секрету'
 illustration: 'Он рассказал мне о повышении по секрету.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [говорящий]Speaker [сообщает]Action [собеседнику]Addressee [некоторую информацию]ContentOfSpeech и при этом рассчитывает, что собеседник никому не передаст эту информацию.
 examples:
+  - |
+       '[Ты]Speaker как-то ещё до армии по секрету [мне]Addressee [признался]Action, [что тебе нравится Шарипова дочка]ContentOfSpeech.'
+  - |
+       '[Вы]Speaker [мне]Addressee по секрету [расскажите]Action, я никому не выдам.'
+  - |
+       '[Я]Speaker [сказала]Action [дедушке]Addressee по секрету, [что Катя часто плачет]ContentOfSpeech.'
+  - |
+       'Потом [расскажу]Action по секрету, может быть.'
+  - |
+       'Впрочем, [сознаюсь]Action [Вам]Addressee по секрету, [что в итоге Вы прекрасно отвлекли меня тогда]ContentOfSpeech.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Speaker
+  - Action
+  - Addressee
+  - ContentOfSpeech
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -3,9 +3,19 @@ record: 58
 name: 'Cl вне зависимости от NP-Gen'
 UD_name: 'Cl вне зависимости от NP-Gen'
 illustration: 'Вне зависимости от результатов мы продолжим работу.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция подчеркивает, что [некоторое потенциальное условие]Theme не важно для принятия решения или ситуации.
+  - english: |
+       This construction emphasises that [a potential factor]Theme is not important in order to accept a decision or situation.
 examples:
+  - |
+       'У нас многонациональная страна. Человек может относить себя к той нации, к которой хочет, вне зависимости от [национальности родителей]Theme.'
+  - |
+       'В соответствии с законом автомобили должны двигаться только с включёнными фарами вне зависимости от [времени года]Theme.'
+  - |
+       'Сегодня можно смоделировать практически любой предмет вне зависимости от [его сложности]Theme.'
 morphology:
   - Cl
   - NP
@@ -13,7 +23,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -24,6 +34,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

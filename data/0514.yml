@@ -1,10 +1,12 @@
 ---
 record: 514
-name: '(у NP-Gen) NP-Nom занять/занимать NumCrd-Acc NP-Acc'
-UD_name: '(у NP-Gen) NP-Nom занять/занимать NumCrd-Acc NP-Acc'
+name: '(у NP-Gen) NP-Nom занять/занимать NumCrd-Acc NP'
+UD_name: '(у NP-Gen) NP-Nom занять/занимать NumCrd-Acc NP'
 illustration: 'У меня это заняло десять минут.'
 cefr_level: 
 definitions:
+  - russian: |
+       Если использовано числительное "один" или "одна", то [единица измерения]Measure [объекта]Theme стоит в винительном падеже (одну минуту), в остальных случаях в родительном падеже (пять минут).
 examples:
 morphology:
   - NP
@@ -15,16 +17,22 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

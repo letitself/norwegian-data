@@ -3,25 +3,45 @@ record: 588
 name: 'VP под шумок'
 UD_name: 'VP под шумок'
 illustration: 'Маша ушла под шумок.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent ситуации совершил [действие]Action незаметно для других, пока их внимание было занято другими делами или событиями. Часто речь идет о том, что участник незаметно уходит, исчезает (примеры 1, 2) или ему удается украсть или транспортировать объект (примеры 3, 4). Ударение: шумóк.
+  - english: |
+       This construction signifies that a [participant]Participant has committed [an action]Action, while those around were occupied with other things. The participant remained unnoticed. Stress: шумóк.
 examples:
+  - |
+       'Хозяйка пришла, с весёлой улыбкой наливает гостям шипучее. Хозяин под шумок куда-то [пропал]Action.'
+  - |
+       'Тем временем женщина спрятала непроданные талоны и под шумок [стала продвигаться к выходу]Action.'
+  - |
+       'Под шумок Женька и Пальма [стырили]Action по конфете.'
+  - |
+       'И тут только я, зачарованный его таинственным рассказом, догадался, что он под шумок [выпил всю нашу оставшуюся водку]Action.'
+  - |
+       'В столовой ждет шофер, его засыпают вопросами, а я под шумок быстро [одеваюсь]Action и [вхожу в столовую]Action одетая.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию с тем же предлогом 635 VP под NP-Acc (Она танцевала под музыку).'
 references:
   - |
     ""

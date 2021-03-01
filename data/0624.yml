@@ -1,7 +1,7 @@
 ---
 record: 624
 name: '(Cl, но) всë-таки/всë ж таки/всë же/всë равно Cl'
-UD_name: '(Cl, но) все-таки/все ж таки/всë же/все равно Cl'
+UD_name: '(Cl, но) всë-таки/всë ж таки/всë же/всë равно Cl'
 illustration: 'Была плохая погода, но мы все-таки пошли гулять.'
 cefr_level: 
 definitions:
@@ -11,9 +11,9 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
 part_of_speech_of_anchor:
   - Adv
 semantic_roles:
@@ -21,6 +21,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

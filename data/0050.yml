@@ -3,9 +3,17 @@ record: 50
 name: 'в то́м-то и NP-Nom, (что) Cl'
 UD_name: 'в то́м-то и NP-Nom, (что) Cl'
 illustration: 'В том-то и дело, что не знаем.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий выделяет [самое главное ]Themeиз слов собеседника. Говорящий уверен, что его [слова]Theme – это суть и главное.
 examples:
+  - |
+       'В том-то и [дело]Theme, что [они похожи.]Situation'
+  - |
+       'В том-то и [особенность классической литературы]Theme, что [она универсальна на многие времена]Situation'
+  - |
+       'Но в том-то и [сложность]Theme, что [XIII и XIV века были для Новгорода сложным периодом]Situation'
 morphology:
   - NP
   - Nom
@@ -15,14 +23,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

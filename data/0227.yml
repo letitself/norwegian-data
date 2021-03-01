@@ -1,7 +1,7 @@
 ---
 record: 227
 name: 'ни за какие NP-Acc.Pl (в мире) не VP'
-UD_name: 'ни за какие NP-Acc.Pl (в мире) не VP'
+UD_name: 'ни за какие NP-Acc.Plur (в мире) не VP'
 illustration: 'Ни за какие деньги не продам дом!'
 cefr_level: 
 definitions:
@@ -14,16 +14,25 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Prep
+  - Pron
+  - Noun
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

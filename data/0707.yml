@@ -3,29 +3,34 @@ record: 707
 name: 'Аdj-Nom Cop NP-Nom!'
 UD_name: 'Аdj-Nom Cop NP-Nom!'
 illustration: 'Модный наряд!'
-cefr_level: 
+cefr_level: A1
 definitions:
   - russian: |
        В этой конструкции всегда есть всегда оценочное прилагательное
 examples:
 morphology:
-  - Аdj
+  - Adj
   - Nom
   - Cop
   - NP
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Not Applicable
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - NA
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

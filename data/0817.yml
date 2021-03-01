@@ -3,24 +3,46 @@ record: 817
 name: 'в силу того, что Cl'
 UD_name: 'в силу того, что Cl'
 illustration: 'В силу того, что ваши рестораны доступны по цене, в них собирается много разных людей.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action или [ситуации]Situation.
 examples:
+  - |
+       'Но именно в силу того, что [они умели работать в команде, хорошо и быстро писать на заданную тему]Cause, [большинство из них в результате ушло в проекты]Action.'
+  - |
+       '[Педагог, в силу того, что [он педагог]Cause, не должен это игнорировать]Situation.'
+  - |
+       '[Постепенно мы там прижились]Situation еще и в силу того, что [отец мой поддерживал связь с отцом Георгием]Cause.'
+  - |
+       'С точки зрения материалистической философии [животные не могут обладать сознанием]Situation уже в силу того, что [не организуют производства]Cause.'
+  - |
+       'Последним конкурентом остается Пекин, но в силу того, что [он уже принимал Олимпиаду летом 2008-го]Cause, [шансов на еще одни Игры у Китая немного]Situation.'
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Connection Construction
+  - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
+  - Matrix Predicate
 syntactic_structure_of_anchor:
+  - PP
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию 816 Cl в силу NP-Gen (В силу своего размера страна нуждается в большой армии).'
 references:
   - |
     ""

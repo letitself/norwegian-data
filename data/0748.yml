@@ -3,11 +3,21 @@ record: 748
 name: '(у NP-Gen) NP-Nom Cop не как у людей'
 UD_name: '(у NP-Gen) NP-Nom Cop не как у людей'
 illustration: 'У вас всё не как у людей.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Deviation from the norm: negative assessment
+       Конструкция обозначает, что [стиль жизни, привычки или свойства]Theme [участника ситуации]Participant или некоторый [предмет]Theme в представлении говорящего не соответствуют общественному стандарту, нормальному порядку вещей. Как правило, говорящий негативно оценивает ситуацию.
 examples:
+  - |
+       'Почему все живут как люди, а у [неё]Experiencer ― [всё]Theme не как у людей? Что она сделала не так?'
+  - |
+       'Дима размышлял о своей собачьей жизни. Даже [выходной]Theme не как у людей, а почему-то в понедельник…'
+  - |
+       'Я пошевелила головой, но рука Глеба настойчиво обнимала мою голову. «У [него]Experiencer даже [проявление ласки]Theme не как у людей», ― мелькнула мысль.'
+  - |
+       '– Ой, – он вздыхал, ―–не знаю, не знаю. Это же у черта на куличках! Куда занесло? Почему не в Данию, не в Финляндию?.. [Всё]Theme у [тебя]Experiencer не как у людей. – Ох, надо бы узнать, какие там прививки. Это ж тропики, болота, малярия…'
+  - |
+       'У [Ефима Граника]Experiencer  [всё]Theme не как у людей ― когда ему слишком хорошо, он говорит, этого не может быть, это просто сон.'
 morphology:
   - NP
   - Gen
@@ -16,16 +26,25 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
+  - Modifier
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Adv
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Adv
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
@@ -38,4 +57,4 @@ semantic_types:
       - type: Negative
 family:
   - |
-    "Assessment of an entity"
+    "Assessment of an entity, Deviation from the norm"

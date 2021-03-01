@@ -1,7 +1,7 @@
 ---
 record: 1367
 name: 'про-Verb (целый/весь) NP-Acc'
-UD_name: 'про-Verb (целый/весь) NP-Acc'
+UD_name: 'про-V (целый/весь) NP-Acc'
 illustration: 'Отец проработал на заводе пять лет.'
 cefr_level: 
 definitions:
@@ -13,17 +13,22 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Affix
+  - Word-Formation
 syntactic_structure_of_anchor:
-  - Prefixed verb
-  - Adj
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Adj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

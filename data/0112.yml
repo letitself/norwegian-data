@@ -29,21 +29,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Pron
-  - Particle
+  - Part
 semantic_roles:
   - Evaluation
   - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [nmod [case до] чего] [nsubj NP-Nom] Adj-Nom; [root [nmod [case до] чего] [nsubj ты] злой]'
+dependency_structure:
+  - '[root [nmod [case до] чего] [nsubj NP-Nom] Adj-Nom'
+  - '[root [nmod [case до] чего] [nsubj ты] злой]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333. Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

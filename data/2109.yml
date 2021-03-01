@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает кардинальное [изменение]Action [ситуации]Theme в противоположную сторону. Как правило, это изменение является глобальным и всеохватывающим. Как если бы эта ситуация была человеком, которого перевернули и поставили не на ноги, а на голову.
+  - norwegian: |
+       Konstruksjonen betegner en total [endring]Action av [situasjonen]Theme til det motsatte. Som regel er endringen universell og altomfattende. Det er som om situasjonen er et menneske som er snudd opp ned og plassert på hodet i stedet for på beina.
 examples:
   - |
        'Влюбленные в своей глупости способны перевернуть миры, [поставить]Action [всё]Theme с ног на голову.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

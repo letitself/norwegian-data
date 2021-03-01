@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция формулирует математическую операцию извлечения квадратного корня из [некоторого числа]Quantity и определяет [результат]Result. Результат выражен формой дательного падежа в случае, если используется слово "равен" (примеры 1, 2). Со словом "это" или если оно опущено, результат всегда выражен формой именительного падежа (примеры 3, 4).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å trekke ut kvadratroten av [et tall]Quantity og angir [svaret]Result. Ved bruk av ordet 'равeн', står svaret i dativ (eksempel 1 og 2). Sammen med ordet 'это', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 3 og 4).
 examples:
   - |
        '― Ну, робот, [чему]Result равен квадратный корень из [двадцати пяти]Quantity?'
@@ -26,17 +28,25 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Subject
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Adj
+  - Noun
+  - Prep
+  - Pred
 semantic_roles:
   - Quantity
   - Result
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

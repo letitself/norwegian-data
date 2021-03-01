@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает запрет на [некоторое действие]Action, которое потенциально может произойти или уже происходит. Запрет является командой, которую отдает говорящий собеседнику или группе лиц безапелляционным тоном. Команда как правило относится к физическим действиям человека (примеры 1, 3, 5). Часто такая формулировка используется на табличках с правилами поведения в общественных местах (пример 1). Конструкция также может использоваться в инструкциях по приготовлению блюд, в рецептах (пример 2). Участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок, администрация учреждения vs посетители). Участник, которому адресован запрет, не называется, потому что понятен из ситуации. В устной форме такой запрет как правило обращен к собеседнику, а в письменной форме – ко всем присутствующим.
+  - norwegian: |
+       Konstruksjonen uttrykker et forbud mot [en handling]Action som potensielt kan inntreffe eller allerede pågår. Forbudet er en kommando som taleren gir samtalepartneren eller en gruppe personer på en kategorisk måte. Som regel gjelder kommandoen fysiske handlinger som utføres av mennesker (eksempel 1, 3 og 5). Formuleringer av denne typen brukes ofte på skilt som informerer om regler for atferd på offentlig sted (eksempel 1). Konstruksjonen kan også brukes i matlagingsinstruksjoner og oppskrifter (eksempel 2). Deltakeren som innfører forbudet, har høyere rang enn den forbudet gjelder (f.eks. som sjef vs. underordnet, voksen vs. barn, ansatt vs. besøkende). Deltakeren forbudet er rettet mot, nevnes ikke, ettersom det fremgår av situasjonen hvem vedkommende er. I muntlig tale er forbudet som regel rettet til samtalepartneren, mens det i skrift er rettet til alle de tilstedeværende.
 examples:
   - |
        'В Роттердаме как-то в городском парке мы сели в открытом кафе, а рядом были такие красивые клумбы ― в России обязательно бы стояла табличка «По газонам не [ходить]Action!»'
@@ -25,16 +27,20 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
 semantic_roles:
   - Action
 intonation:
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

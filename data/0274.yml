@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [говорящий]Speaker предлагает [собеседнику]Addressee вместе совершить некоторое [действие]Action. Для совершения этого действия им нужно переместиться в другое место.
+  - norwegian: |
+       Konstruksjonen betyr at [taleren]Speaker foreslår overfor [samtalepartneren]Participant at de sammen skal utføre en viss [handling]Action. For å utføre denne handlingen, må de forflytte seg til et annet sted.
 examples:
   - |
        'Может быть, пойдем [гулять на улицу]Action?'
@@ -27,12 +29,12 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
   - Speaker
@@ -40,8 +42,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root пойти [xcomp VP]]; [root пошли [xcomp посмотрим [obj фильм]]]'
+dependency_structure:
+  - '[root пойти [xcomp VP]]'
+  - '[root пошли [xcomp посмотрим [obj фильм]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

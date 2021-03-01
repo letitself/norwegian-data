@@ -3,24 +3,44 @@ record: 48
 name: 'в жизни не VP (ничего подобного)'
 UD_name: 'в жизни не VP (ничего подобного)'
 illustration: 'Я в жизни никуда не опаздывал.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник никогда и ни при каких условиях не выполнял какое-либо [действие.]Action
+  - english: |
+       This construction means that the participant never, under any circumstance, has performed [a certain activity]Action.
+  - norwegian: |
+       Konstruksjonen uttrykker at deltageren aldri under noen omstendighet har utført [en viss handling]Action.
 examples:
+  - |
+       'Он в жизни [ничего для неё не писал. ]Action'
+  - |
+       'Мне бы в жизни [не пришло в голову обидеть тебя.]Action'
+  - |
+       'Они в жизни [ничего не делают]Action или делают только то, что им захочется!'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Negation Marker
+  - Pron
+  - Adj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

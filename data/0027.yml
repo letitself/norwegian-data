@@ -3,9 +3,21 @@ record: 27
 name: '(NP-Nom) это Cop в первую очередь NP-Nom'
 UD_name: '(NP-Nom) это Cop в первую очередь NP-Nom'
 illustration: 'Это в первую очередь его заслуга.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что для какого-либо [объекта/сущности]Theme что-то является главным, важным. Несмотря на какие-либо обстоятельства, прежде всего нужно считаться с данным [объектом]Theme. ЗЗЗ Примеры типа Это в первую очередь затронет интересы России, США и Китая. не подходят сюда. Вместо Клаузы это именная группа как правило. Может быть, инф. Связка в прош времени Это было в первую очередь обличение и осуждение коммунизма,
+  - english: |
+       This construction points to something as being the most important or relevant in a certain [matter]Theme. The meaning of the construction is close to the English expression “First and foremost”.
+  - norwegian: |
+       Denne konstruksjonen uttrykker hva som (ifølge taleren) er viktigst i et visst [anliggende]Theme. Nært beslektede konstruksjoner i norsk er “først og fremst” og “i første rekke”.
 examples:
+  - |
+       '[Свобода]Theme - это в первую очередь [обязанность]Theme, а не привилегии.'
+  - |
+       '[Воспитание]Theme - это в первую очередь [работа родителей над собой.]Theme'
+  - |
+       '[Сертификат]Theme для меня — это в первую очередь [проверка моих личных знаний.]Theme'
 morphology:
   - NP
   - Nom
@@ -15,14 +27,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Prep
+  - Num
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

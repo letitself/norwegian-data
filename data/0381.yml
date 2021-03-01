@@ -1,7 +1,7 @@
 ---
 record: 381
 name: 'чтоб(ы) PronPers-Nom Verb-Pst!'
-UD_name: 'чтоб(ы) Pron-Nom V-Past!'
+UD_name: 'чтоб(ы) PronPers-Nom V-Past!'
 illustration: 'Чтобы он опоздал?! Он всегда выходит вовремя.'
 cefr_level: 
 definitions:
@@ -14,16 +14,20 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

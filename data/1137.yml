@@ -3,9 +3,21 @@ record: 1137
 name: 'на PronPoss-Acc взгляд, Cl'
 UD_name: 'на PronPoss-Acc взгляд, Cl'
 illustration: 'На мой взгляд, это не искусство.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает мнение [говорящего]Speaker или [другого участника]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция имеет значение 'я считаю, что Cl'. Конструкция может стоять как в начале предложения (пример 1), так и вклиниваться в середину высказывания (примеры 2, 3, 4, 5).
 examples:
+  - |
+       'На [мой]Speaker взгляд, [он рассуждает в правильном направлении]Evaluation.'
+  - |
+       'Пенсионерка Алевтина Малкова и её дочь написали в редакцию письмо, которое, на [наш]Speaker взгляд, [ярко характеризует мнение большинства читателей]Evaluation.'
+  - |
+       'Маша пригубила кофе. Он оказался удивительно вкусным, [чересчур, на [ее]Participant взгляд, сладким]Evaluation и слишком крепким.'
+  - |
+       'Это была, на [его]Participant взгляд, [увлекательная игра]Evaluation.'
+  - |
+       'Старшеклассникам было предложено отметить, что, на [их]Participant взгляд, [важно для достижения успеха в жизни]Evaluation.'
 morphology:
   - PronPoss
   - Acc
@@ -16,14 +28,23 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
-  - ~
+  - Speaker
+  - Participant
+  - Evaluation
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожие конструкции 11 (как) по мне, (так) Cl (Как по мне, это ещё не беда); 264 по мнению NP-Gen, Cl (По мнению властей, необходимо принять меры и остановить загрязнение реки).'
 references:
   - |
     ""
@@ -33,4 +54,4 @@ semantic_types:
       - type: Expressing opinion
 family:
   - |
-    ""
+    "Reference to the owner of opinion"

@@ -1,12 +1,14 @@
 ---
 record: 1034
 name: 'за неимением/недостатком/отсутствием (у NP-Gen) NP-Gen VP'
-UD_name: 'за неимением/недостатком/отсутствием NP-Gen VP'
+UD_name: 'за неимением/недостатком/отсутствием (у NP-Gen) NP-Gen VP'
 illustration: 'За неимением денег мы остались дома.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает причину [ситуации]Situation или [действия]Action. Причиной является то, что некоторый [объект или компонент]Theme отсутствует. Отсутствие объекта или компонента провоцирует данную [ситуацию]Situation. В конструкции может факультативно выражаться [участник с ролью обладателя]Possessor при якорных словах "за неимением" и "за отсутствием".
+  - norwegian: |
+       Konstruksjonen uttrykker årsaken som ligger til grunn for [en situasjon]Situation eller [en handling]Action. Årsken består i at [et objekt eller en komponent]Theme mangler. Det er mangelen på objektet eller komponenten som forårsaker [situasjonen]Situation. I konstruksjonen er det valgfritt å uttrykke [deltakeren som opptrer som eier]Possessor når ankerordene 'за неимением' og 'за отсутствием' er med.
 examples:
   - |
        'За неимением у [вас]Possessor [оливкового масла]Theme можно [добавить подсолнечное]Action.'
@@ -26,7 +28,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. похожую конструкцию 1265 - в отсутствие (синоним)'
 references:

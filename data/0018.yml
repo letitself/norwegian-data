@@ -3,9 +3,21 @@ record: 18
 name: '(NP-Dat) не мешало бы/не мешает VP-Pfv.Inf'
 UD_name: '(NP-Dat) не мешало бы/не мешает VP-Perf.Inf'
 illustration: 'Нам не мешало бы подкрепиться.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий считает, что [кому-либо]Experiencer следует выполнить [какое-либо действие]Action, которое он считает приемлемым и уместным в какой-либо конкретной ситуации.
+  - english: |
+       This construction means that, according to the speaker, it would be appropriate or a good idea to perform [a certain action]Action. A [dative subject]Experiencer is included if the given action should be performed by someone in particular.
+  - norwegian: |
+       Konstruksjonen uttrykker at det ifølge taleren i en gitt situasjon ville være riktig eller lurt å utføre en viss [handling]Action. Et [dativsubjekt]Experiencer inkluderes hvis denne handlingen bør utføres av en bestemt person.
 examples:
+  - |
+       'Тут не мешало бы [дать небольшое уточнение.]Action'
+  - |
+       'Пиво не мешало бы [подержать в холодильнике]Action.'
+  - |
+       'Время уже позднее, [вам]Experiencer не мешало бы [отдохнуть.]Action'
 morphology:
   - NP
   - Dat
@@ -15,19 +27,25 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Verb
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "Ему не мешает ей позвонить степени облигаторности Цейтлин С.Н. Необходимость //Теория функциональной грамматики. Темпорвльность. Модальность. - Л.,1990. С.142 и след. см.: Шведова Н.Е. о семантических компонентах высказываний со значением долженствования. Русская грамматика. - К.,1980. Т.2. С.П6 и след. Лексемы следует, лучше, не мешает, стоит и некоторые другие используются для передачи факта нереализованного, например: Раз вы не застали его дома, следовало оставить ей записку."
 semantic_types:
   - type: Causation
     subtypes:

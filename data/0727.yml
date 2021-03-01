@@ -3,9 +3,21 @@ record: 727
 name: 'VP бок о бок (с NP-Ins)'
 UD_name: 'VP бок о бок (с NP-Ins)'
 illustration: 'Мы работаем бок о бок с такими талантами.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Participant находится в непосредственной близости к другому [участнику или участникам]Associated при совершении некоторого [действия]Action. Как если бы их бока соприкасались друг с другом.
 examples:
+  - |
+       '[Они]Participant [прожили]Action бок о бок до самой смерти.'
+  - |
+       '[Он]Participant [тренируется]Action бок о бок с [наиболее сильными и опытными спортсменами]Associated.'
+  - |
+       'Если [ты]Participant давно [живешь]Action бок о бок с [одними и теми же людьми]Associated, то находишь объяснение всем их поступкам.'
+  - |
+       'Офисная жизнь – это когда [случайные люди]Participant сходятся вместе и [вынуждены сидеть]Action бок о бок.'
+  - |
+       'Там тесно, бок о бок, [стояли]Action [машины]Participant.'
 morphology:
   - VP
   - NP
@@ -13,19 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - PP
-  - Nominal Pattern
-  - Reduplication
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Associated
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

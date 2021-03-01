@@ -1,7 +1,7 @@
 ---
 record: 851
-name: 'век VP.Ipfv.Fut'
-UD_name: 'век VP.Fut.Ipf'
+name: 'век VP-Ipfv.Fut'
+UD_name: 'век VP-Imp.Fut'
 illustration: 'Она одного меня любит и век будет любить.'
 cefr_level: 
 definitions:
@@ -13,9 +13,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - N
+  - A
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
@@ -23,6 +24,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Obsolete
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

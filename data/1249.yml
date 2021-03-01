@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мягкий запрет на продолжение [действия]Action. Запрет может быть обращен к собеседнику, к самому говорящему или к группе лиц, которая может включать или не включать самого говорящего. Действие, которое нужно с точки зрения говорящего прекратить, продолжалось некоторое время. Это выражено глаголом с приставкой по-. Как правило, речь идет о развлечениях и веселом времяпрепровождении (гулять, шутить, играть, развлекаться, веселиться, шалить и др.), негативных эмоциональных переживаниях и их проявлениях (переживать, плакать) или действиях, связанных с речью (говорить, кричать, петь). В момент речи продолжение этого действия неуместно, поскольку нужно перейти к другому действию, более серьезному или спокойному. Говорящий одобряет прекращение действия и предлагает его закончить. Конструкция имеет разговорный характер и может звучать грубо по отношению к малознакомым людям.
+  - norwegian: |
+       Konstruksjonen uttrykker et mildt forbud mot å fortsette å utføre [en handling]Action. Forbudet kan være rettet til samtalepartneren, taleren selv eller en gruppe personer, med eller uten taleren. Handlingen som taleren mener må stanses, har pågått i noen tid. Dette formidles av et verb med forstavelsen по-. Som regel er det snakk om underholdning og moro (være ute, spøke, leke, forlyste seg, more seg, tøyse m.m.), negative emosjonelle opplevelser og manifestasjoner av slike (bekymre seg, gråte) eller talerelaterte handlinger (snakke, rope, synge). I taleøyeblikket er det upassende å la handlingen fortsette, ettersom det er nødvendig å gå over til en annen handling, av et mer seriøst eller rolig slag. Taleren bifaller at handlingen stanses og foreslår å stanse den. Konstruksjonen har et talespråklig preg og kan klinge grovt overfor noen en kjenner dårlig.
 examples:
   - |
        'Может, тебе пора завести подружку? ― Ладно, [посмеялись]Action, и хватит. Работаем дальше…'
@@ -23,20 +25,25 @@ morphology:
   - Ipfv
   - Pst
 syntactic_type_of_construction:
-  - Clause
+  - Biclausal Construction
 syntactic_function_of_anchor:
-  - clause
+  - Word-Formation
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Verb
 semantic_roles:
   - Action
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root по-VP-Past [parataxis и [fixed хватит]]]; [root погуляли [parataxis и [fixed хватит]]]'
+dependency_structure:
+  - '[root по-VP-Past [parataxis и [fixed хватит]]]'
+  - '[root погуляли [parataxis и [fixed хватит]]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие веселое, непринужденное времяпрепровождение, развлечения; глаголы речи; глаголы, обозначающие негативные эмоциональные переживания.'
 references:

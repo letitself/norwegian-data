@@ -2,10 +2,22 @@
 record: 262
 name: 'NP-Nom переименовать NP-Acc в NP-Acc'
 UD_name: 'NP-Nom переименовать NP-Acc в NP-Acc'
-illustration: 'В 1991 переименовали Ленинград в Санкт-Петербург.'
-cefr_level: 
+illustration: 'Николай II переименовал Петербург в Петроград.'
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [название]Property некоторого [объекта или места]Theme целенаправленно заменяют на [другое]Property. Обычно речь идет об изменении названия городов, улиц, кафе, организаций.
 examples:
+  - |
+       'Владелец его переименовал [ресторан]Theme в [«Медведь»]Property.'
+  - |
+       'Съезд Советов постановил переименовать [Петроград]Property в [Ленинград.]Property'
+  - |
+       '[Пантелеймоновскую улицу]Theme переименовали в [улицу Пестеля.]Property'
+  - |
+       'Переименуйте [«Правду»]Theme в [«Истину»]Property, будет та же самая газета.'
+  - |
+       'Можно переименовать  [Совет]Theme в  [Думу.]Property'
 morphology:
   - NP
   - Nom
@@ -13,16 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
+  - Government
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
 semantic_roles:
-  - ~
+  - Property
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

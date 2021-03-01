@@ -1,12 +1,14 @@
 ---
 record: 2175
 name: 'XP невооружённым глазом'
-UD_name: 'VP невооружённым глазом'
+UD_name: 'XP невооружённым глазом'
 illustration: 'Сходство отца и сына видно невооруженным глазом.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что какую-то [визуальную информацию]Theme можно [получить]Action, не используя специальный оптический прибор, поскольку эта информация является достаточно очевидной и доступной, лежит на поверхности (примеры 1, 2). В переносном употреблении конструкции речь идет уже не о визуальной информации, а о любого рода наблюдениях о [ситуации]Situation, которые представляются говорящему очевидными и лежащими на поверхности (примеры 3, 4, 5). Слот XP может заполняться глаголом (заметить, отличить, угадываться), предикативом (видно, заметно) или прилагательным (заметный).
+  - norwegian: |
+       Konstruksjonen betyr at det er mulig å [motta]Action [visuell informasjon]Theme uten å bruke noe spesielt optisk apparat, ettersom denne informasjonen er ganske åpenbar og tilgjengelig, dvs. selvinnlysende (eksempel 1 og 2). I overført bruk av konstruksjonen er det ikke lenger tale om visuell informasjon, men om en hvilken som helst type observasjon om [en situasjon]Situation som taleren synes er åpenbar og selvinnlysende (eksempel 3, 4 og 5). Sloten XP kan fylles av et verb (заметить, отличить, угадываться), et predikativ (видно, заметно) eller et adjektiv (заметный).
 examples:
   - |
        'Кейт сделала заявление только тогда, когда [беременность]Theme можно было уже [заметить]Action невооружённым глазом.'
@@ -23,12 +25,12 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Noun
-  - Adv
+  - Ptcp
 semantic_roles:
   - Theme
   - Action
@@ -36,6 +38,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

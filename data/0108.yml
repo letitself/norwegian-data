@@ -3,7 +3,7 @@ record: 108
 name: 'деньги на NP-Acc'
 UD_name: 'деньги на NP-Acc'
 illustration: 'Он откладывал деньги на покупку машины.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -12,16 +12,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Argument
 syntactic_structure_of_anchor:
   - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,30 +1,52 @@
 ---
 record: 188
-name: 'на PronPers-Gen месте Cl/на месте NP-Gen Cl бы'
-UD_name: 'на PronPers-Gen месте Cl/на месте NP-Gen Cl бы'
-illustration: 'на его месте я бы поступила в другой университет'
-cefr_level: 
+name: 'на PronPoss-Loc месте/на месте NP-Gen Cl бы'
+UD_name: 'на PronPoss-Loc месте/на месте NP-Gen Cl бы'
+illustration: 'На его месте я бы поступила в другой университет.'
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает мнение говорящего о том, как следует себя вести в ситуации, в которой оказался его [собеседник]Listener или другой [участник]Participant. Говорящий сообщает, как бы он [действовал]Action в этой ситуации, если бы оказался в положении этого человека (примеры 1, 2, 3, 4). Конструкция также используется, когда говорящий предполагает, в каком [эмоциональном состоянии]State он бы находился, если бы оказался в этой ситуации вместо его собеседника или другого участника (пример 5).
+  - english: |
+       Исправили формулу
 examples:
+  - |
+       'Так что на [твоем]Listener месте я [бы не рассчитывал на быстрый результат]Action.'
+  - |
+       'Я бы на [вашем]Listener месте [срочно пошла к дерматологу]Action.'
+  - |
+       'Что он мог еще сделать? На [его]Participant месте я [бы тоже принял любые условия]Action.'
+  - |
+       '– Я склонен поддержать авиадиспетчеров. На [их]Participant месте я [просто не пошел бы работать, если зарплату не дают]Action.'
+  - |
+       'Я бы на месте [автора]Participant тоже [очень обеспокоилась]State.'
 morphology:
-  - PronPers
+  - PronPoss
+  - Loc
   - Gen
   - Cl
   - NP
 syntactic_type_of_construction:
-  - Cl
-  - XP with parentheticals
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Listener
+  - Action
+  - State
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -34,4 +56,4 @@ semantic_types:
       - type: Expressing opinion
 family:
   - |
-    ""
+    "Оpinion through hypothetical situation"

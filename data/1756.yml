@@ -1,7 +1,7 @@
 ---
 record: 1756
 name: '(а) (вот) тут/здесь PronPers-Nom VP!'
-UD_name: '(а) (вот) тут/здесь Pron-Nom VP!'
+UD_name: '(а) (вот) тут/здесь PronPers-Nom VP!'
 illustration: 'А вот тут ты ошибаешься! Предела нет и быть не может!'
 cefr_level: 
 definitions:
@@ -13,16 +13,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

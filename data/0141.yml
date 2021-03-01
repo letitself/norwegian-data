@@ -3,7 +3,7 @@ record: 141
 name: 'как известно, Cl'
 UD_name: 'как известно, Cl'
 illustration: 'Как известно, он мастер стихи сочинять.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -14,18 +14,25 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
 semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Objectivity
   - type: Source of information
 family:
   - |

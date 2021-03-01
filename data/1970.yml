@@ -1,12 +1,14 @@
 ---
 record: 1970
 name: 'плакать-Pst PronPoss-Nom NP-Nom!'
-UD_name: 'плакать-Pst PronPoss-Nom NP-Nom!'
+UD_name: 'плакать-Past PronPoss-Nom NP-Nom!'
 illustration: 'Плакал мой чемодан!'
 cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Possessor сожалеет о том, что утрачен или будет утрачен принадлежащий ему ценный [объект]Theme или [ресурс]Theme. Как если бы этот ценный объект плакал, расставаясь с этим участником как со своим владельцем.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Possessor er lei for at et verdifullt [objekt]Theme eller en verdifull [ressurs]Theme vedkommende eier, er gått eller vil gå tapt. Det er som om dette verdifulle objektet gråter over adskillelsen fra sin eier, som er deltakeren.
 examples:
   - |
        'А денег нам все-таки не отдадут. Плакали [наши]Possessor [денежки]Theme!'
@@ -26,9 +28,10 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Predicate
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - VP
+  - N
+  - A
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
@@ -37,6 +40,10 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -47,4 +54,4 @@ semantic_types:
       - type: Disappear
 family:
   - |
-    "A family of constructions that signify that an object disappears unexpectedly"
+    "Object disappears"

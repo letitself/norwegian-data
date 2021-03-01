@@ -3,16 +3,24 @@ record: 1666
 name: 'VP-Pst на днях'
 UD_name: 'VP-Past на днях'
 illustration: 'Родители заезжали к нам на днях.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation имела место в течение нескольких предыдущих дней, однако точное время, когда она произошла, неизвестно или неважно.
 examples:
+  - |
+       '[Досмотрел фильм]Situation буквально на днях и жалею, что не посмотрел классику Советского кино раньше.'
+  - |
+       'По центральному телеканалу на днях [передали]Situation , что в Южной Африке одна 92-летняя бабушка, возмутившись огромными счётами за электричество, обратилась в суд и выиграла его.'
+  - |
+       'Тут на днях [мы с мамой поехали кататься на коньках]Situation .'
 morphology:
   - VP
   - Pst
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -23,6 +31,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'Не путать с конструкцией 1655 VP-Fut на днях (Они зайдут в гости на днях).'
 references:
   - |
     ""

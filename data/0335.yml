@@ -13,16 +13,24 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
+  - Verb Predicate
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Verb
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

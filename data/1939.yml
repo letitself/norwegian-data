@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторому объекту или периоду в истории]Theme присвоено [какое-либо название]Property. Конструкция также может обозначать, что [имя человека]Property заменено на [другое]Property.
+  - norwegian: |
+       Konstruksjonen betyr at [et objekt eller en historisk periode]Theme er gitt [et navn]Property. Konstruksjonen kan også bety at [et personnavn]Property er erstattet med [et annet]Property.
 examples:
   - |
        'Художница Лидия Леонтьева на страницах дневника [упоминается]Action под именем [Дамы Луны]Naming.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,7 +1,7 @@
 ---
 record: 2002
 name: 'по представлениям NP-Gen/по PronPoss-Dat представлениям, Cl'
-UD_name: 'по представлениям NP-Gen/по Adj.Pron-Dat представлениям, Cl'
+UD_name: 'по представлениям NP-Gen/по PronPoss-Dat представлениям, Cl'
 illustration: 'По представлению матери, Миша обязательно должен был закончить музыкальную школу.'
 cefr_level: 
 definitions:
@@ -27,6 +27,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

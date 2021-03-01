@@ -7,6 +7,10 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального [кванта]Theme.
+  - english: |
+       Комментарий. Возможно употребление с числительным  один. Ни одного ни одной. ОПлюс в пополнения вклпчить конструкцию с числительным не прочитал и трех страниц  и/даже Num-Gen NP-Gen
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og betegner en kategorisk (fullstendig) avvisning av en [handling]Action ved å avvise dens minste [bestanddel]Theme.
 examples:
   - |
        'Я не [потратил]Action ни [копейки]Theme.'
@@ -25,8 +29,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Predicate
-  - Object
+  - Discourse Particle
 syntactic_structure_of_anchor:
   - Double Negation
 part_of_speech_of_anchor:
@@ -37,8 +40,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod не] VP [obl [advmod ни] NP-Gen]]; [root [nsubj он] [advmod не] сказал [obl [advmod ни] слова]] [obl [case за] [amod весь] вечер]]'
+dependency_structure:
+  - '[root [advmod не] VP [obl [advmod ни] NP-Gen]]'
+  - '[root [nsubj он] [advmod не] сказал [obl [advmod ни] слова]] [obl [case за] [amod весь] вечер]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP'
 references:

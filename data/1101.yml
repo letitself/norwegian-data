@@ -15,16 +15,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Part
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

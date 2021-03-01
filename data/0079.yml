@@ -7,10 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция подчеркивает длительное отсутствие некоторого [объекта]Theme в пользовании [участника]Participant. При этом подразумевается, что этот объект нужен или полезен участнику.
-  - english: |
-       This construction stresses that the participant]Participant has not had access to [something]Theme for a very long time. It is implied that the participant needs this object.
   - norwegian: |
-       Konstruksjonen understreker at [subjektet]Participant ikke har hatt tilgang til [noe]Theme over svært lang tid.
+       Konstruksjonen understreker at [et objekt]Theme har vært ute av [deltakerens]Participant bruk i lengre tid. Samtidig er det underforstått at dette objektet er nødvendig eller nyttig for deltakeren.
 examples:
   - |
        'Август прошёл, а [мы]Participant всё без [воды]Theme и без [воды]Theme.'
@@ -33,19 +31,21 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Reduplication
-  - Simplex prep
-  - Conj
-  - Adv
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Conj
 semantic_roles:
   - Participant
   - Theme
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod всё] [case без] NP-Gen [conj [cc и] [case без] NP-Gen]]; [root [cc а] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока]]'
+dependency_structure:
+  - '[root [advmod всё] [case без] NP-Gen [conj [cc и] [case без] NP-Gen]]'
+  - '[root [cc а] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

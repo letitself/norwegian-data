@@ -3,26 +3,45 @@ record: 56
 name: 'весь в NP-Loc'
 UD_name: 'весь в NP-Loc'
 illustration: 'Он пришел весь в синяках.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [что-то или кто-то ]Theme находится в чем-либо целиком, полностью. Указывает на полный охват предмета или человека. Обычно оценка того, в чем находится предмет или человек, имеет негативную или ироническую коннотацию. Дефиниция мне не нравится, ее надо переписать. Нужно обязательно сказать, что объект покрыт чем-то.
+  - english: |
+       This construction describes [something or someone]Theme as being completely covered in something. Usually, what they are covered in, is negative, e.g. синяки ‘bruises’ and слёзы ‘tears’, or has an ironic connotation in the particular context, e.g. мехи ‘fur coats’. A similar construction is sometimes used in English, e.g. she was all in tears.
+  - norwegian: |
+       Konstruksjonen uttrykker at [noe eller noen]Theme har noe over hele seg. Det som dekker, er vanligvis noe negativt, f.eks. синяки ‘blåmerker’ eller слёзы ‘tårer’, eller gir en ironisk effekt i den aktuelle konteksten, f.eks. мехи ‘pelskåper’. På norsk kan konstruksjoner med hel(t) brukes for å uttrykke denne betydningen, f.eks. “han hadde blåmerker over hele seg”, “hun var helt oppløst i tårer”, osv.
 examples:
+  - |
+       'Она пришла ко мне вся в [слезах]Theme.'
+  - |
+       'Придя в себя, весь в [бинтах и мазях]Theme, Павел мрачно отвечал, что ничего не помнит.'
+  - |
+       'Видела только, что диван был весь в [крови]Theme, и не понимала, чья это кровь.'
+  - |
+       'Она нарядилась сегодня и была вся в [мехах]Theme.'
 morphology:
   - NP
   - Loc
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Predic
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

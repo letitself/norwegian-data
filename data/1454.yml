@@ -1,7 +1,7 @@
 ---
 record: 1454
-name: 'ни бум-бум на/в NP-Loc/по-Adj-ски'
-UD_name: 'ни бум-бум на/в NP-Loc/по-Adj-ски'
+name: 'NP-Nom Cop ни бум-бум на/в NP-Loc/по-Adj-ски'
+UD_name: 'NP-Nom Cop ни бум-бум на/в NP-Loc/по-Adj-ски'
 illustration: 'Вася в математике ни бум-бум.'
 cefr_level: 
 definitions:
@@ -11,13 +11,13 @@ morphology:
   - Loc
   - Adj
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
-syntactic_structure_of_anchor:
-  - Negation
-  - Reduplication
   - Word-Formation
+  - Praedicative Expression
+  - Government
+syntactic_structure_of_anchor:
+  - Double Negation
 part_of_speech_of_anchor:
   - Negation Marker
   - Prep
@@ -27,6 +27,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

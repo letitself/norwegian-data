@@ -3,9 +3,21 @@ record: 776
 name: 'VP в ногу (с NP-Ins)'
 UD_name: 'VP в ногу (с NP-Ins)'
 illustration: 'Солдаты идут в ногу.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом значении (примеры 1, 2), конструкция обозначает, что [участник]Participant синхронизирует фазу шага при ходьбе с [другими участниками]Standard. В переносном значении (примеры 3, 4, 5), конструкция обозначает, что [участник]Participant синхронизирует темп развития своей [деятельности]Activity с темпом развития какого-то [явления]Standard.
 examples:
+  - |
+       '[Я]Participant шёл с нею рядом, стараясь [идти]Activity в ногу, и, к удивлению моему, совершенно не чувствовал себя стеснённым.'
+  - |
+       'И как [шли]Activity, то в ногу, то не в ногу, потому что у него шаг — два моих.'
+  - |
+       'Причем задача переводчика в шоу вроде этого заключается в том, чтобы прежде всего грамотно работать с музыкой, [перевод]Participant должен [идти]Activity с [ней]Standard в ногу.'
+  - |
+       '[Он]Participant [идёт]Activity в ногу со [временем]Standard, мимикрирует и приспосабливается к новым условиям.'
+  - |
+       'Были и в нашей истории времена, когда [мы]Participant [шли]Activity в ногу со [всеми]Standard по главной дороге человечества.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Activity
+  - Standard
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

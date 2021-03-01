@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Participant намеренно [совершает некоторое действие]Action, как бы преодолевая какие-то возражения. Это действие не соответствует действию, мнению или желанию [другого участника]Maleficiary или [некоторым правилам]Theme.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant bevisst [utfører en handling]Action som innebærer å måtte tåle innvendinger. Handlingen er ikke i samsvar med handlingen, meningen eller ønsket til [den andre deltakeren]Maleficiary eller [visse regler]Theme.
 examples:
   - |
        '[Я]Participant [буду гулять]Action ночами, наперекор всем [запретам]Theme.'
@@ -25,9 +27,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -38,8 +41,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
-    'См. близкую конструкцию 1787 VP в пику NP-Dat (Открыли магазин здоровой еды в пику фастфуду).'
+    'См. близкую конструкцию 1786 VP в пику NP-Dat (Открыли магазин здоровой еды в пику фастфуду).'
 references:
   - |
     ""

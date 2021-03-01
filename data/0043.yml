@@ -1,14 +1,12 @@
 ---
 record: 43
 name: 'NP-Nom Cop за то, чтобы Cl/VP-Inf'
-UD_name: 'NP-Nom Cop за то, чтобы Cl'
+UD_name: 'NP-Nom Cop за то, чтобы Cl/VP-Inf'
 illustration: 'Я за то, чтобы ты у нас жил.'
 cefr_level: A1
 definitions:
   - russian: |
        Конструкция выражает положительное отношение [участника]Participant к некоторому потенциальному [действию]Action или [ситуации]Situation, которые как правило будут осуществляться другими участниками. Подразумевается, что есть ряд альтернатив развертывания событий, и участник ясно высказывает одобрение и поддержку одного из возможных вариантов. Может использоваться как слово "чтобы", так и его усеченный вариант "чтоб".
-  - english: |
-       The construction is used to show that a [participant]Participant approves of a [potential action]Action.
 examples:
   - |
        'Председатель собрания просит голосовать: [кто]Participant за то, чтобы [предоставить квартиру Войновичу]Action?'
@@ -32,9 +30,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Conj
 semantic_roles:
   - Participant
   - Action
@@ -42,8 +42,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj NP-Nom] [cop быть [case за] то, [mark чтобы] [advcl Cl]]; [root [nsubj я] [case за] то, [mark чтобы] [advcl [nsubj ты] [obl [case у] нас] жил]]'
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop быть [case за] то'
+  - '[mark чтобы] [advcl Cl]]; [root [nsubj я] [case за] то'
+  - '[mark чтобы] [advcl [nsubj ты] [obl [case у] нас] жил]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. похожую конструкцию 1804 NP-Nom Cop за NP-Acc (Я за революцию).'
 references:

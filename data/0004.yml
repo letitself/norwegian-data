@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция используется для выражения недоумения или непонимания говорящим логической связи между темой дискуссии и последним приведенным [аргументом]Theme.
+  - norwegian: |
+       Konstruksjonen anvendes for å uttrykke at taleren er i villrede eller ikke forstår den logiske forbindelsen mellom samtalens tema og det sist anførte [argumentet]Theme.
 examples:
   - |
        'Но при чём здесь [недостатки]Theme, когда речь идёт о собственных детях.'
@@ -27,17 +29,22 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Adv
 semantic_roles:
   - Theme
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: ~
-structure_in_ud: |
-    '[root [mark а] [case при] чём [advmod здесь|тут] [nsubj NP-Nom?]]; [root [case при] чём [advmod здесь] [nsubj [amod наши] отношения?]]'
+dependency_structure:
+  - '[root [mark а] [case при] чём [advmod здесь|тут] [nsubj NP-Nom?]]'
+  - '[root [case при] чём [advmod здесь] [nsubj [amod наши] отношения?]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

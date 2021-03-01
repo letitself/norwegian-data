@@ -3,11 +3,21 @@ record: 747
 name: 'NP-Nom Cop сам не свой'
 UD_name: 'NP-Nom Cop сам не свой'
 illustration: 'Папа сегодня сам не свой.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Emotion/Psychological state -- Evaluation of psychological properties or emotional state of a person (Психологическая оценка) оценочные характеристики, характеристика несет оценку. Отклонение от нормы
+       Конструкция характеризует эмоциональное состояние [участника ситуации]Experiencer как сильное отклонение от его нормального состояния. Конструкция обозначает, что участник взволнован, растерян, испуган или огорчен до такой степени, что перемена в нем заметна говорящему и окружающим людям. Внешние проявления этого состояния включают медлительность, задумчивость, необщительность, неестесвенное поведение или странный внешний вид. Как если бы этот человек больше не принадлежал самому себе, потеряв душевное спокойствие и равновесие. Причина такого состояния участника, как правило, негативная, может быть выражена именной группой с предлогом "от". Конструкция используется в единственном числе, а во множественном числе встречается реже (пример 5).
 examples:
+  - |
+       '– Что-то случилось? [Ты]Experiencer стал сам не свой. – Ничего, Люленька, не обращай внимания.'
+  - |
+       'Всю среду [я]Experiencer был сам не свой. Иногда встретишь кого-нибудь, вроде и знаком тебе, а не вспомнишь. И под этим впечатлением ходишь весь день.'
+  - |
+       'Между прочим, [кот]Experiencer по тебе скучает, два дня был сам не свой, все ходил, искал.'
+  - |
+       '[Аська]Experiencer с утра была сама не своя, что называется — как на иголках. Каждые пять минут хваталась за телефон и чего-то ждала. Смотреть на неё было больно и страшно, и мы все за неё переживали.'
+  - |
+       'Сегодня [мои дети]Experiencer сами не свои: плаксивые, вредные. До обеда успели довести меня до истерики (почти).'
 morphology:
   - NP
   - Nom
@@ -19,12 +29,17 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Adj
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

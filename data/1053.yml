@@ -3,24 +3,44 @@ record: 1053
 name: '(Cl) для того, чтобы Cl'
 UD_name: '(Cl) для того, чтобы Cl'
 illustration: 'Мы долго обсуждали с ним план для того, чтобы не возникло проблем.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на [цель]Purpose, ради которой [участник]Agent совершает некоторое [действие]Action или происходит некоторое [событие]Event. Конструкция может начинаться с описания совершаемого действия (примеры 1-4) или цели (пример 5).
 examples:
+  - |
+       '[Столь сложный аппарат понадобился]Event для того, чтобы [получать рентгеновские снимки мозга]Purpose.'
+  - |
+       'Воскресное утро самое лучшее время для того, чтобы [застать человека дома]Purpose.'
+  - |
+       '[Кино создано]Event для того, чтобы [люди отвлекались от окружающих проблем]Purpose.'
+  - |
+       '[Он]Agent [пришел]Action для того, чтобы [просто, по-человечески перед смертью попросить у нее прощения]Purpose.'
+  - |
+       'Для того, чтобы [убедиться, что гусь готов]Purpose, [проткните]Action острым ножом бедро.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
-  - ~
+  - Purpose
+  - Agent
+  - Action
+  - Event
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -3,7 +3,7 @@ record: 720
 name: 'Cl, но (всё) без толку/но всё впустую/но всё зря/но всё напрасно'
 UD_name: 'Cl, но (всё) без толку/но всё впустую/но всё зря/но всё напрасно'
 illustration: 'Он час пытался открыть дверь, но без толку.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -11,10 +11,10 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
-  - Adv
+  - Adverb
 part_of_speech_of_anchor:
   - Prep
   - Noun
@@ -25,6 +25,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

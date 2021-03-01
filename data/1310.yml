@@ -1,7 +1,7 @@
 ---
 record: 1310
-name: 'VP во благо (NP-Gen / NP-Dat)'
-UD_name: 'VP во благо (NP-Gen / NP-Dat)'
+name: 'VP во благо (NP-Gen/NP-Dat)'
+UD_name: 'VP во благо (NP-Gen/NP-Dat)'
 illustration: 'Единственное, что я могу сказать вам до суда, – всё было сделано во благо ребёнка.'
 cefr_level: 
 definitions:
@@ -14,7 +14,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -25,6 +25,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,12 +1,14 @@
 ---
 record: 1546
-name: 'NP объёмом (в) NumCrd-Acc NP-Gen'
-UD_name: 'NP объёмом (в) NumCrd-Acc NP-Gen'
+name: 'NP объёмом (в) NumCrd-Acc NP'
+UD_name: 'NP объёмом (в) NumCrd-Acc NP'
 illustration: 'Книга объёмом в сто страниц'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает [объём]Quantity [объекта]Theme, измеренный в [стандартных единицах измерения объема, таких как кубические метры, кубические сантиметры, литры, галлоны]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе. Конструкция может употребляться в переносном значении, когда объем измеряется другими единицами (количество денежных средств, размер компьютерной памяти, страницы книги и др.)
+  - norwegian: |
+       Konstruksjonen betegner [et objekts]Theme [volum]Quantity, målt i [standardiserte målenheter for volum, f.eks. kubikkmeter, kubikkcentimenter, liter eller galloner]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ. Konstruksjonen kan brukes i overført betydning når mengden måles i andre målenheter (pengebeløp, dataminne, boksider m.m.).
 examples:
   - |
        'У Циолковского был проект [дирижабля]Theme объемом [58 миллионов]Quantity [кубических метров]Measure.'
@@ -26,7 +28,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:
@@ -39,6 +41,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 55 NP весом/массой (в) NumCrd-Acc NP (Баржа весом в шесть тонн), 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP (Велодорожка длиной шесть километров).'
 references:
   - |
     ""

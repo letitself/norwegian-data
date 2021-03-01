@@ -2,35 +2,59 @@
 record: 1105
 name: 'как говорится, XP'
 UD_name: 'как говорится, XP'
-illustration: 'Как говорится, будем!'
-cefr_level: 
+illustration: 'Я работаю, как говорится, по полной программе.'
+cefr_level: C2
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "иначе говоря", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил.
+       Конструкция выделяет в тексте [некоторую формулировку]Theme, которую выбирает говорящий для выражения своей мысли. Говорящий апеллирует к широко известному расхожему выражению, которое употребляется в переносном смысле, является идиомой или термином. Часто слова "как говорится" вклиниваются внутрь этого выражения (примеры 1, 3, 5). Слот XP может заполняться именной, предложной или глагольной группой.
+  - english: |
+       Intersubjectivity. Their role is like of the English “as they say”. They refer to a common standard, often idiomatic, way of naming something and thus appeal to a larger than speaker community of speakers. [A]n evaluation is subjective if the issuer presents it as being strictly his/her own responsibility; it is intersubjective if (s)he indicates that (s)he shares it with a wider group of people, possibly including the hearer. (Nuyts 2005: 14).
+  - norwegian: |
+       Konstruksjonen fremhever [en gitt formulering]Theme som taleren velger for å uttrykke sin tanke. Taleren appellerer til et velkjent og vanlig uttrykk som brukes i overført betydning og som er et idiom eller en fagterm. Ordene 'как говорится' tar ofte plass inne i dette uttrykket (eksempel 1, 3 og 5). Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
+  - |
+       'Уже готов корпус, закуплено оборудование для цехов штамповки, сварки, сборки и окраски. [Отступать, как говорится, некуда]Theme.'
+  - |
+       'Сегодня мы слушали человека, который играет ключевую роль в корабельной энергетике, так что получили, как говорится, информацию [из первых рук]Theme.'
+  - |
+       'А вот совсем уж странное творение человеческого гения: здесь алжирская музыка рай встречается с ямайской музыкой реггей в пределах одной композиции. [Нарочно, как говорится, не придумаешь]Theme: сложно представить два более несовместных стиля.'
+  - |
+       '― У меня нет всех документов, связанных с этим делом, но я работаю, как говорится, [по полной программе]Theme.'
+  - |
+       'Они не допустили сбоёв, хотя работали в сложной обстановке. Им [пришлось, как говорится, попотеть]Theme.'
 morphology:
   - XP
+  - NP
+  - PP
+  - VP
 syntactic_type_of_construction:
   - Cl
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Verb
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 2179 что называется, XP (Первую попытку я сделал, что называется, наугад) и 1120 так сказать, XP (Это один из тех фильмов, которые, так сказать, на века).'
 references:
   - |
     ""
 semantic_types:
   - type: Discourse structure
     subtypes:
-      - type: Clarification
+      - type: Intersubjectivity
 family:
   - |
-    ""
+    "Intersubjectivity"

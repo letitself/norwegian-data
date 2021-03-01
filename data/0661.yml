@@ -13,16 +13,20 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Biclausal
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Reduplication
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

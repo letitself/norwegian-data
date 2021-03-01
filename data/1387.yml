@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что [действие]Activity (как правило, некоторая медицинская или образовательная услуга) совершается [участником]Agent в месте проживания его самого или [другого участника]Beneficiary (получателя услуги). Конструкция подчеркивает неофициальность обстановки, а не конкретное расположение. К кому именно относится указанное место проживания, как правило, ясно из характера деятельности. Также конструкция может относиться к деятельности, организованной в домашних условиях.
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Activity (som regel en helse- eller undervisningsrelatert tjeneste) utføres av [en deltaker]Agent hjemme hos vedkommende eller hos [en annen deltaker]Beneficiary (mottakeren av tjenesten). Konstruksjonen understreker det uformelle i situasjonen og ikke den konkrete beliggenheten. Akkurat hvem sin bolig det er, fremgår som regel av typen aktivitet. Dessuten kan konstruksjonen gjelde aktiviteter som iverksettes i hjemmet.
 examples:
   - |
        'Мама работала педиатром и весь день по вызовам [оказывала помощь]Activity на дому.'
@@ -24,7 +26,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

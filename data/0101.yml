@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что у говорящего вызывает сомнение некоторое высказанное или потенциальное суждение. Он с уверенностью отрицает [качество, свойство или признак]Property [участника ситуации]Participant (пример 1) или[объекта]Theme (пример 2) или [количественную характеристику множества]Quantity (примеры 3, 4). Речь может также идти об отрицании [обстоятельств]Property некоторой [ситуации]Situation или [действия]Action (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at taleren forholder seg tvilende til et uttalt eller potensielt utsagn. Vedkommende avviser bestemt [en egenskap, et trekk eller et kjennetegn]Property ved [en deltaker i situasjonen]Participant (eksempel 1), [et objekt]Theme (eksempel 2) eller [en mengdes kvantitative beskaffenhet]Quantity (eksempel 3 og 4). Det kan også dreie seg om avvisning av [omstendighetene]Property rundt en gitt [situasjon]Situation eller [handling]Action (eksempel 5).
 examples:
   - |
        '[Русское крестьянство]Participant представляло собой далеко не [однородную]Property массу.'
@@ -24,11 +26,12 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Negation Marker
 semantic_roles:
   - Theme
   - Participant
@@ -39,8 +42,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj NP-Nom] [advmod далеко] [advmod не] [amod Adj/] [advmod Adv] NP]; [root [nsubj он] [advmod далеко] [advmod не] [amod умный] студент]'
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod далеко] [advmod не] [amod Adj/] [advmod Adv] NP]'
+  - '[root [nsubj он] [advmod далеко] [advmod не] [amod умный] студент]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Ср. с похожей конструкцией 60 вовсе не XP (Эта одежда вовсе не старая). A closely related construction in English is ‘far from’, e.g. he is far from being a clever student. En nærliggende konstruksjon i norsk er ‘langt fra, f.eks. han er langt fra en smart student.'
 references:

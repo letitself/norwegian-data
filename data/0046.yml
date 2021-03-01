@@ -3,9 +3,17 @@ record: 46
 name: 'быть-Pst бы NP-Nom, а Cl'
 UD_name: 'быть-Past бы NP-Nom, а Cl'
 illustration: 'Было бы желание, а деньги найдутся.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сожаление говорящего по поводу отсутствия какого-либо [объекта]Theme, который мог бы быть основой ([условием]Condition) для осуществления им (говорящим) какого-то интересующего его дела.
 examples:
+  - |
+       'В конце концов, была бы [проблема]Theme, а [решение для нее непременно найдется.]Condition'
+  - |
+       'Были бы [деньги]Theme, а [создать приемлемые для жизни условия ― не проблема.]Condition'
+  - |
+       'Была бы [идея]Theme, а уж [до логического конца мы ее доведем.]Condition'
 morphology:
   - Pst
   - NP
@@ -14,16 +22,24 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Biclausal
+  - Verb Predicate
+  - Discourse Particle
+  - Coordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Verb?
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Part
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

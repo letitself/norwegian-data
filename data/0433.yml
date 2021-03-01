@@ -1,42 +1,48 @@
 ---
 record: 433
 name: 'Noun-то!'
-UD_name: 'Noun-то!'
+UD_name: 'N-то!'
 illustration: 'Усищи-то!'
 cefr_level: A2
 definitions:
   - russian: |
-       ОБСУДИТЬ В ВАЛЕЙ И ДАШЕЙ Конструкция обозначает, что говорящий подчеркивает, что [предмет]Theme по определенному признаку превосходит норму. Конструкция часто обозначает, что [предмет]Theme имеет необычно большой размер. ИСХОДНОЕ ТОЛКОВАНИЕ ДРУГОЕ, ПРО ЭМФАЗУ, а не про оценку! Конструкция употребляется, когда говорящий хочет подчеркнуть и выделить в предложении [объект]Theme, к которому "-то" относится, придать объекту особое значение. См. близкую конструкцию 2149 Noun-Gen-то Cop! Народу-то. EMPHASIS: выделение какого-либо элемента высказывания.
-  - english: |
-       This construction is used when the speaker wants to emphasise and highlight [the object]Theme in the sentence to which "-то" refers, giving it a particular meaning.
+       Конструкция употребляется, когда говорящий хочет подчеркнуть и выделить в предложении [объект]Theme, к которому "-то" относится, придать объекту особое значение. Конструкция часто подчеркивает, что [предмет]Theme по определенному признаку превосходит норму, например имеет необычно большой размер. См. близкую конструкцию 2149 Noun-Gen-то Cop! (Народу-то).
+  - norwegian: |
+       Konstruksjonen anvendes når taleren vil understreke og fremheve det [objektet]Theme i setningen som '-то' står til, gi dette objektet en særlig tyngde. Konstruksjonen understreker ofte at [en gjenstand]Theme, i kraft av et bestemt kjennetegn, overgår det normale, f.eks. at den har uvanlig store dimensjoner. Jf. den nærliggende konstruksjonen  2149 Noun-Gen-то Cop! (Народу-то).
 examples:
+  - |
+       '― Кожа-то! Кожа, а? Маргарита Николаевна, ведь ваша кожа светится.'
+  - |
+       '― Вот сила-то! ― засмеялся Суровцев.'
+  - |
+       '[Ночь]Theme-то какая тёплая!'
   - |
        '[Книгу]Theme-то какую прочёл!'
   - |
        '[Я]Theme-то понимаю.'
-  - |
-       '[Ночь]Theme-то какая тёплая!'
-  - |
-       '― Вот сила-то! ― засмеялся Суровцев.'
-  - |
-       '― Кожа-то! Кожа, а? Маргарита Николаевна, ведь ваша кожа светится.'
 morphology:
   - Noun
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Adj
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root Noun-то!]; [root усищи-то!]'
+dependency_structure:
+  - '[root Noun-то!]'
+  - '[root усищи-то!]'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию 2149 Noun-Gen-то Cop! (Народу-то).'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

@@ -15,7 +15,7 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Double Negation
@@ -28,6 +28,10 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

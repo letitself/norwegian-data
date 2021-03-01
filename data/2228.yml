@@ -3,24 +3,40 @@ record: 2228
 name: 'Cl, тем более что Cl'
 UD_name: 'Cl, тем более что Cl'
 illustration: 'Уже поздно что-то менять, тем более что результат вышел неплохой.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция вводит дополнительный и существенный довод, аргумент, который должен подкрепить только что [высказанную мысль]Evaluation или обосновать [действие]Action, подтвердить их правильность. Как правило, говорящий называет [сопутствующие обстоятельства]Circumstance, которые с его точки зрения облегчают наступление некоторой [ситуации]Situation.
 examples:
+  - |
+       '[Выполнение этих действий не вызывает трудностей]Evaluation, тем более что [задача достаточно проста]Circumstance.'
+  - |
+       '[Девушка обещала ждать его возвращения]Situation, тем более, что [ждать надо было не так уж и долго]Circumstance.'
+  - |
+       '[Идея интересная]Evaluation, тем более, что [её реализация укрепила бы стабильность во всем мире]Circumstance.'
+  - |
+       'Но [я была уже большая и могла ходить на занятия самостоятельно]Situation, тем более что [школа была недалеко от нашего дома]Circumstance.'
+  - |
+       'Я [согласилась выступить по радио]Action, тем более что [к нему у меня было очень хорошее отношение]Circumstance.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

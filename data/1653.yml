@@ -1,17 +1,29 @@
 ---
 record: 1653
-name: 'NP не за горами'
-UD_name: 'NP не за горами'
+name: 'NP (уже) не за горами'
+UD_name: 'NP (уже) не за горами'
 illustration: 'Зарплата уже не за горами.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation будет иметь место в относительно скором будущем. Говорящий ранее ожидал, что [ситуация]Situation наступит в отдалённом будущем, а теперь момент её наступления приблизился.
 examples:
+  - |
+       'Эх, [богатство]Situation не за горами!'
+  - |
+       'Будем надеяться, что [прогресс в этой области]Situation не за горами!'
+  - |
+       'На этот большой маршрут требовалось много времени, а [осень]Situation уже не за горами.'
+  - |
+       'Они глубоко верили, что уже не за горами [победа]Situation.'
+  - |
+       'Кажется, совсем недавно начался учебный год, а уже не за горами и [конец первой четверти]Situation.'
 morphology:
   - NP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Negation
@@ -20,10 +32,14 @@ part_of_speech_of_anchor:
   - Noun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

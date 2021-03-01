@@ -3,25 +3,42 @@ record: 714
 name: 'VP без оглядки'
 UD_name: 'VP без оглядки'
 illustration: 'Я бежал без оглядки.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает, что, [участник]Participant [движется]Action в одном направлении так быстро и стремительно, что не успевает оглядываться назад. В прямом значении, как правило, употребляется с глаголами движения (примеры 1, 2, 3). В переносном значении конструкция обозначает, что [участник]Participant совершает [действие]Action без сожаления и без сомнения, как если бы он не оглядывался на чужое мнение. В переносном значении употребляется с глаголами "жить", "любить", "говорить" и др. (примеры 4, 5).
 examples:
+  - |
+       'От страха [Миша]Participant захотел тотчас же [бежать]Action отсюда без оглядки.'
+  - |
+       '[Он]Participant готов был встать и [уйти]Action без оглядки, не сожалея ни о чем.'
+  - |
+       '[Она]Participant [неслась]Action по этой жизни без оглядки.'
+  - |
+       'В решающий момент [он]Participant [действовал]Action смело, без оглядки.'
+  - |
+       'Его историям [мы]Participant [верили]Action без оглядки, даже самым нелепым из них.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

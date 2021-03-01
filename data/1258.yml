@@ -3,9 +3,23 @@ record: 1258
 name: 'VP по вине NP-Gen'
 UD_name: 'VP по вине NP-Gen'
 illustration: 'По вине подрядчика работы не были выполнены в срок.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для обозначения [участника]Causer, чьи действия привели к неприятной [ситуации]Situation. Участником может быть конкретный человек (пример 4), группа лиц (пример 2) или организация (банк, фирма, редакция, пример 3). Вина может также приписываться совокупности действий (таких как политика) или положению дел (обстоятельства в примере 5), которые таким образом персонифицируются.
+  - english: |
+       Заменить VP на Cl?
 examples:
+  - |
+       'Как отмечают эксперты, [около 80% лесных пожаров ежегодно возникает]Situation по вине [человека]Causer.'
+  - |
+       'Порой уникальная техника [ломается]Action по вине [тех]Causer, кто ее обслуживает.'
+  - |
+       'По вине [редакции]Causer [был потерян]Action адрес Натальи, чья статья про родинки оказалась одной из лучших в январском номере.'
+  - |
+       'Каспаров не раз говорил о том, что [негативный образ гроссмейстера сложился]Situation во многом по вине [Набокова]Causer и [Цвейга]Causer.'
+  - |
+       'В музыкальном даре Оборина присутствовало то, что можно назвать гениальностью, и в этом смысле он [полностью не реализовал себя]Action. По своей вине? По вине [обстоятельств]Cause? И то, и другое, вероятно…'
 morphology:
   - VP
   - NP
@@ -13,17 +27,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Causer
+  - Situation
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

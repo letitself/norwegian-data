@@ -3,7 +3,7 @@ record: 148
 name: 'NP-Nom как начать VP-Inf!'
 UD_name: 'NP-Nom как начать VP-Inf!'
 illustration: 'А он как начал кричать!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -14,16 +14,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

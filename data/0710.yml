@@ -1,9 +1,9 @@
 ---
 record: 710
 name: 'ах, во́т PronPers-Nom о чём!'
-UD_name: 'ах, вот PronPers-Nom о чем!'
+UD_name: 'ах, во́т PronPers-Nom о чём!'
 illustration: 'Ах, во́т ты о чём!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -12,16 +12,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Intj
+  - Part
+  - Prep
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

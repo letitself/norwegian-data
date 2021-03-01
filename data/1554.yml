@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action или [ситуация]Situation распространяется на достаточно обширное пространство, имеющее значительную площадь и как бы ограниченное окружностью указанного [радиуса]Distance с [объектом в центре]Theme. Часто конструкцию используют, чтобы обозначить отсутствие объекта на определенной площади.
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Action eller [en situasjon]Situation strekker seg ut over et ganske stort område med et betydelig flateinnhold, der en oppgitt [radius]Distance fra [et objekt i midten]Theme liksom markerer yttergrensen. Ofte brukes konstruksjonen for å uttrykke at et objekt er fraværende i et bestemt område.
 examples:
   - |
        'Там в радиусе [пятидесяти километров]Distance ребята [все обворовали]Action.'
@@ -28,7 +30,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -42,6 +44,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

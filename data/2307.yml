@@ -12,16 +12,23 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - ~
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Praedic
 part_of_speech_of_anchor:
-  - ~
+  - Pred
+  - Prep
+  - Pron
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

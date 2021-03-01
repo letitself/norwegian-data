@@ -1,7 +1,7 @@
 ---
 record: 293
-name: 'с какой стати NP-Nom должен/NP-Dat нужно VP'
-UD_name: 'с какой стати NP-Nom должен/NP-Dat нужно VP'
+name: 'с какой стати NP-Nom должен/NP-Dat нужно VP-Inf?'
+UD_name: 'с какой стати NP-Nom должен/NP-Dat нужно VP-Inf?'
 illustration: 'С какой стати я должен тебе помогать?'
 cefr_level: 
 definitions:
@@ -11,21 +11,29 @@ morphology:
   - Nom
   - Dat
   - VP
+  - Inf
 syntactic_type_of_construction:
-  - Copula Construction
+  - Clause
 syntactic_function_of_anchor:
   - Praedicаtive Expression
+  - Modifier
 syntactic_structure_of_anchor:
-  - PP
-  - Adj
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Noun
+  - Pred
 semantic_roles:
   - ~
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

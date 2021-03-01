@@ -3,25 +3,43 @@ record: 875
 name: 'VP во всеуслышание'
 UD_name: 'VP во всеуслышание'
 illustration: 'Он готов заявить об этом во всеуслышание.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Speaker [сообщает]Action [некоторую информацию]Content вслух, публично, не скрывая.
 examples:
+  - |
+       '[Объявлять]Action во всеуслышание [о нашем открытии]Content не следует.'
+  - |
+       '[Многие]Speaker [твердят]Action [о любви]Content во всеуслышание и не сгорают со стыда.'
+  - |
+       '[Николай]Speaker потом во всеуслышание [сказал]Action, [что никогда еще не был так счастлив]Content.'
+  - |
+       'Даже если спецслужбы знают их имена, навряд ли [они]Speaker [расскажут]Action [об этом]Content во всеуслышание.'
+  - |
+       '[Представитель крупного бизнеса]Speaker во всеуслышание [сказал]Action, [какие партии он финансирует]Content.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Speaker
+  - Action
+  - Content
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

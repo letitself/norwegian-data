@@ -1,7 +1,7 @@
 ---
 record: 953
 name: 'дай бог PronPers-Dat NP-Gen!'
-UD_name: 'дай бог Pron-Dat NP-Gen!'
+UD_name: 'дай бог PronPers-Dat NP-Gen!'
 illustration: 'Дай бог тебе здоровья!'
 cefr_level: 
 definitions:
@@ -14,16 +14,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

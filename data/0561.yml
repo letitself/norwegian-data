@@ -1,7 +1,7 @@
 ---
 record: 561
 name: 'таки VP'
-UD_name: 'NP-Nom таки VP'
+UD_name: 'таки VP'
 illustration: 'Он таки добился успеха несмотря на все сложности.'
 cefr_level: 
 definitions:
@@ -11,16 +11,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Particle
+  - N
+  - A
 part_of_speech_of_anchor:
-  - Particle
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

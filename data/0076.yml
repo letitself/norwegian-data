@@ -3,7 +3,7 @@ record: 76
 name: 'вроде (как) XP/Cl'
 UD_name: 'вроде (как) XP/Cl'
 illustration: 'Он вроде как идет.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -15,14 +15,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

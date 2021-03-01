@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторая [ситуация]Situation [меняется]Action в хорошую или плохую сторону.
+  - norwegian: |
+       Konstruksjonen betyr at en [situasjon]Situation [endrer seg]Action til det bedre eller til det verre.
 examples:
   - |
        'С 2001 г. [ситуация]Situation начала [меняться]Action к лучшему, и уже в 2002 г. охват прививками вырос и составил в среднем по РФ 88, 1%.'
@@ -23,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -35,6 +37,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

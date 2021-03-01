@@ -9,6 +9,8 @@ definitions:
        Конструкция называет [возраст]Number или [момент времени]Time, с которого [участник]Participant [выполняет некоторое действие]Action или оказывается в [определенной ситуации]Situation.
   - english: |
        This construction expresses the [age]Number at which a [participant]Participant began [carrying out an action or being in a certain situation]Action.
+  - norwegian: |
+       Konstruksjonen betegner [den alderen]Number eller [det tidspunktet]Time som markerer startpunktet for hvor lenge [en deltaker]Participant allerede har holdt på med [en gitt handling]Action eller befunnet seg i [en bestemt situasjon]Situation.
 examples:
   - |
        '[Я]Participant [писал стихи]Action всегда, а точнее, с [шести]Number лет.'
@@ -27,7 +29,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -42,8 +44,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj/obj NP] VP [obl [case с] [nummod Num-Gen] лет]]; [root [nsubj я] играю [obl [case в] баскетбол] [obl [case с] [nummod десяти] лет]]'
+dependency_structure:
+  - '[root [nsubj/obj NP] VP [obl [case с] [nummod Num-Gen] лет]]'
+  - '[root [nsubj я] играю [obl [case в] баскетбол] [obl [case с] [nummod десяти] лет]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")'
 references:

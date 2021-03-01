@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся очень далеко от ориентира (говорящего или другого участника ситуации), в далекой стране. В некоторых случаях конструкция сохраняет свое прямое значение, когда подразумевается, что между ориентиром и далеким местом действительно находится преграда в виде моря или океана. Как правило, ударение стоит на предлоге "за".
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant, et [objekt]Theme eller [en situasjon]Situation befinner seg veldig langt fra et orienteringspunkt (taleren eller en annen deltaker i situasjonen), i et fjerntliggende land. I noen tilfeller bevarer konstruksjonen sin direkte betydning, når det er underforstsått at det mellom orienteringspunktet og det fjerntliggende stedet virkelig befinner seg en hindring i form av en sjø eller et hav. Som regel ligger trykket på preposisjonen 'за'.
 examples:
   - |
        'Иса рассказал собравшимся в племени, что народ Марии и Ульяны, который [живет]Situation далеко за морем, победил всех своих врагов и теперь ему принадлежит половина мира.'
@@ -24,11 +26,12 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - Nominal pattern
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - Participant
   - Theme
@@ -36,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Obsolete
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

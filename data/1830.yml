@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [обращение или документ]Theme адресованы [официальному лицу или организации]Addressee.
+  - norwegian: |
+       Konstruksjonen betyr at [en henvendelse eller et dokument]Theme er adressert til [en offisiell person eller instans]Addressee.
 examples:
   - |
        'Не успели мы доехать до Парижа, пришёл возмущённый [факс]Theme на имя [Спивакова]Addressee от английского импресарио Юрия Хатуевича.'
@@ -24,7 +26,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -36,6 +38,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

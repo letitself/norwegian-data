@@ -1,7 +1,7 @@
 ---
 record: 1845
 name: 'PronPers-Dat бы (лучше) VP-Inf'
-UD_name: 'Pron-Dat бы (лучше) VP-Inf'
+UD_name: 'PronPers-Dat бы (лучше) VP-Inf'
 illustration: 'Тебе бы лучше немного поспать.'
 cefr_level: 
 definitions:
@@ -14,16 +14,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Adj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

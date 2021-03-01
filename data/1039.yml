@@ -3,25 +3,43 @@ record: 1039
 name: 'VP за шиворот'
 UD_name: 'VP за шиворот'
 illustration: 'Полицейский тащит его за шиворот.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent при выполнении [действия]Action держит [другого участника]Patient за воротник или за находящуюся рядом с воротником часть одежды или тела. [Вторым участником]Patient может быть животное (примеры 4, 5).
 examples:
+  - |
+       'Надо было [схватить]Action [тебя]Patient за шиворот и [втащить]Action в вагон.'
+  - |
+       '[Оля]Agent [схватила]Action [Лену]Patient за шиворот и [потянула]Action к реке.'
+  - |
+       'Одной рукой за шиворот, другой за ухо [он]Agent [волок]Action [меня]Patient в наш двор.'
+  - |
+       '[Я]Agent [схватил]Action [собаку]Patient за шиворот и, оттащив в сторону, посадил на поводок.'
+  - |
+       '[Я]Agent [взял]Action [львенка]Patient за шиворот и водрузил на место.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Agent
+  - Action
+  - Patient
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

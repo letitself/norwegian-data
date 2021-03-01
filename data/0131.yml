@@ -3,7 +3,7 @@ record: 131
 name: 'NP-Nom Cop здоров VP-Inf'
 UD_name: 'NP-Nom Cop здоров VP-Inf'
 illustration: 'Он здоров врать.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что субъект имеет какие-либо способности, ловок, искусен [чем-либо заниматься]Action. Конструкция дает оценочную характеристику (обычно негативную) кого-либо как неутомимого, ловкого, искусного в чём-либо. Употребляется обычно с восклицанием. Слово "здоров" используется здесь только в краткой форме. Оценка кого-л. как неутомимого, ловкого, искусного в чем-либо. two constructions: 'stop doing Y' (we do not find it in data, corpus), 'X is good at doing Y' Evaluation of intellectual ability, mental ability - 'good at doing something'
@@ -19,14 +19,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Praedic
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pred
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

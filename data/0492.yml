@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает наивысшую степень нежелания [участника]Experiencer выполнять некоторое [действие]Action. Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии. Используется исключительно в разговорной речи между равными по статусу участниками.
+  - norwegian: |
+       Konstruksjonen uttrykker den høyeste grad av en [deltakers]Experiencer motvilje mot å utføre en gitt [handling]Action. Den negative holdningen til handlingen består i mangel på entusiasme og en tilstand av kjedsomhet og apati. Brukes utelukkende i dagligtale mellom deltakere med lik status.
 examples:
   - |
        'А теперь пару десятков километров [вам]Experiencer [пройти]Action в лом?'
@@ -29,17 +31,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - Action
   - Experiencer
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [obl NP-Dat] VP-Inf [Cop быть] [advmod [fixed в] лом]]; [root [obl Маше] вставать [obj [case с] кровати] [aux было] [advmod [fixed в] лом]]'
+dependency_structure:
+  - '[root [obl NP-Dat] VP-Inf [Cop быть] [advmod [fixed в] лом]]'
+  - '[root [obl Маше] вставать [obj [case с] кровати] [aux было] [advmod [fixed в] лом]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Отрицательная частица "не" ставится перед словам "в лом": "не в лом".'
 references:

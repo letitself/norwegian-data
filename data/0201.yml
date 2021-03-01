@@ -7,10 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, в какой степени [ситуация]Situation или [действие]Action реализованы. Если отрицательная частица "не" присутствует, то конструкция указывает на приближение ситуации или действия к выраженной в глаголе и неполноту действия. Если отрицательная частица "не" отсутствует, то конструкция выражает, что действие или ситуация совершены полностью, доведены до конца.
-  - english: |
-       This construction means that the given [situation]Situation or [action]Action is not yet over or not yet entirely finished. In English, не совсем can often be translated as ‘not completely’.
   - norwegian: |
-       Konstruksjonen betyr at [den gitte situasjonen]Situation eller [handlingen]Action fortsatt ikke er helt over, eller fortsatt ikke er helt fullført. På norsk kan не совсем ofte oversettes som ‘ikke helt’.
+       Konstruksjonen angir i hvilken grad [en situasjon]Situation eller [en handling]Action er realisert. Sammen med nektelsespartikkelen 'ikke' viser konstruksjonen til at situasjonen eller handlingen nærmer seg den handlingen verbet uttrykker og at den ikke er fullført. Uten nektelsespartikkelen 'ikke' uttrykker konstruksjonen at handlingen eller situasjonen er helt fullført, ført til ende.
 examples:
   - |
        'Я ведь еще не совсем [решил]Action, что делать летом.'
@@ -28,9 +26,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
   - Negation
 part_of_speech_of_anchor:
   - Adv
@@ -41,8 +39,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod [advmod не] совсем] VP-Past]; [root [nsubj он] [advmod [advmod не] совсем] оправился [obl [case от] смерти [nmod родителей]]]'
+dependency_structure:
+  - '[root [advmod [advmod не] совсем] VP-Past]'
+  - '[root [nsubj он] [advmod [advmod не] совсем] оправился [obl [case от] смерти [nmod родителей]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

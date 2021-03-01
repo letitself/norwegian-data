@@ -1,7 +1,7 @@
 ---
 record: 569
 name: 'чуть (было) не VP-Pfv.Pst'
-UD_name: 'чуть (было) не VP-Past.Perf'
+UD_name: 'чуть (было) не VP-Perf.Past'
 illustration: 'Он чуть было не забыл про экзамен.'
 cefr_level: 
 definitions:
@@ -13,19 +13,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - Adv
   - Negation
 part_of_speech_of_anchor:
   - Adv
   - Negation Marker
-  - Particle
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

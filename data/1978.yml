@@ -3,9 +3,25 @@ record: 1978
 name: 'VP на NP-Loc'
 UD_name: 'VP на NP-Loc'
 illustration: 'Считать на калькуляторе'
-cefr_level: 
+cefr_level: А1
 definitions:
+  - russian: |
+       Конструкция обозначает [действие]Action, которое участник выполняет с помощью некоторого [объекта]Instrument. Обычно это гаджет (примеры 1, 2), устройство, прибор (примеры 3, 4) или музыкальный инструмент (пример 5).
+  - english: |
+       планшете, телефоне, калькуляторе, счетах
+  - norwegian: |
+       Он лежал прикованный к кровати и все время что-то печатал на ноутбуке.
 examples:
+  - |
+       'Шведские биологи [смоделировали]Action на [компьютере]Instrument историю эволюции глаза.'
+  - |
+       'Я гулял с детьми на площадке и заодно [смотрел]Action на [телефоне]Instrument новости, фэйсбук.'
+  - |
+       'На выставке можно будет войти в Интернет, все, что понравится, тут же [распечатать]Action на [принтере]Instrument, а картинку унести домой.'
+  - |
+       'Я позвонил и [оставил сообщение]Action на [автоответчике]Instrument, предложил встретиться в том же фойе.'
+  - |
+       'Из вагона доносилась песня, там пели хором, [играли]Activity на [гитаре]Instrument.'
 morphology:
   - VP
   - NP
@@ -13,16 +29,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Instrument
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

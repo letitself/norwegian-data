@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает запрет на [некоторое действие]Action как выражение некоторого общего правила, принятого в обществе, в организации (например, в школе, в тюрьме) или в общественном месте (например, в парке) на официальном уровне. Действие может произойти после момента речи, и наложение запрета должно его предотвратить. Участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем [тот]Participant , к кому запрет обращен (например, отношения начальник vs подчиненный, администрация учреждения vs посетители). Правило действует для всех членов общества или для определенных групп людей (например, женщины, дети, студенты первого курса университета, заключенные в тюрьме и др.). Часто участник не упоминается. Если [участник]Participant назван, то он как правило представлен целой группой лиц, но может быть и отдельным лицом, в том числе и собеседником говорящего. Конструкция может использоваться при описании условий игры, спортивных соревнований (пример 4), в инструкциях по использованию бытовых приборов (пример 2), правил поведения в общественных местах (пример 1), в описании ограничений на свободу действий как форму наказания (пример 5) и др.
+  - norwegian: |
+       Konstruksjonen betegner at [en gitt handling]Action omfattes av et forbud som gjenspeiler en allmenn regel i et samfunn, et land eller en organisasjon (f.eks. på en skole eller i et fengsel), eller en regel på offentlig sted (f.eks. i en park), vedtatt på offisielt nivå. Handlingen kan komme til å inntreffe etter taleøyeblikket, hvilket innføringen av forbudet skal forhindre. Deltakeren som ilegger forbudet, har høyere sosial status enn [den]Participant forbudet gjelder (f.eks. som sjef vs. underordnet, voksen vs. barn, ansatt vs. besøkende). Regelen omfatter alle medlemmene av samfunnet eller bestemte grupper mennesker (f.eks. kvinner, barn, førsteårsstudenter på universitetet, innsatte i fengsler m.fl.). Ofte er ikke deltakeren nevnt. Når [deltakeren]Participant nevnes, er det oftest snakk om en hel gruppe personer, skjønt det også kan være en enkeltperson, herunder talerens samtalepartner. Konstruksjonen kan brukes for å beskrive spilleregler, idrettskonkurranser (eksempel 4), bruksanvisninger for husholdningsapparater (eksempel 2), regler for atferd på offentlig sted (eksempel 1), innskrenket handlefrihet som straffeform (eksempel 5) m.m.
 examples:
   - |
        'Там на видном месте висел плакат: «[Приносить]Action и [распивать спиртные напитки]Action строго воспрещается!».'
@@ -27,17 +29,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
   - Participant
 intonation:
   - Exclamatory
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. похожие конструкции (NP-Dat) не положено VP-Imp.Inf (Детям не положено гулять поздно), (NP-Dat) VP-Imp.Inf запрещено (Купаться запрещено), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят)'
 references:

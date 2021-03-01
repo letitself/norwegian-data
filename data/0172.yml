@@ -1,7 +1,7 @@
 ---
 record: 172
 name: 'NP-Nom Cop куда Adj-Сmp/VP куда Adv-Cmp'
-UD_name: 'куда Adj-Сmp/Adv-Cmp'
+UD_name: 'NP-Nom Cop куда Adj-Сmp/VP куда Adv-Cmp'
 illustration: 'Куда веселее было бы поехать в деревню, а не в другую страну.'
 cefr_level: 
 definitions:
@@ -11,21 +11,26 @@ morphology:
   - Nom
   - Cop
   - Adj
-  - Сmp
+  - Cmp
   - Adv
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Adv
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

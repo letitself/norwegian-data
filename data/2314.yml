@@ -1,7 +1,7 @@
 ---
 record: 2314
 name: '(PronPers-Nom) с радостью/удовольствием VP-Fut'
-UD_name: '(Pron-Nom) с радостью/удовольствием VP-Fut'
+UD_name: '(PronPers-Nom) с радостью/удовольствием VP-Fut'
 illustration: 'С радостью помогу.'
 cefr_level: 
 definitions:
@@ -13,17 +13,23 @@ morphology:
   - Fut
 syntactic_type_of_construction:
   - Clause
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

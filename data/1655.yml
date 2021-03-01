@@ -3,26 +3,44 @@ record: 1655
 name: 'VP-Fut на днях'
 UD_name: 'VP-Fut на днях'
 illustration: 'Они зайдут в гости на днях.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation будет иметь место в следующие несколько дней, однако точное время наступления этой ситуации неизвестно.
 examples:
+  - |
+       '[Я вам еще позвоню]Situation на днях.'
+  - |
+       '[Бал художников состоится]Situation на днях.'
+  - |
+       'Обещают на днях [привести это дело в ясность]Situation.'
+  - |
+       'Редакционный совет [примет]Situation на днях решение.'
+  - |
+       'Лежите спокойно, принимайте лекарства, на днях [мы вас в обычную палату переведём из реанимации]Situation.'
 morphology:
   - VP
   - Fut
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'Не путать с конструкцией 1666 VP-Pst на днях (Родители заезжали к нам на днях).'
 references:
   - |
     ""

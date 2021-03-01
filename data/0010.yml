@@ -6,12 +6,14 @@ illustration: 'Чего дочь не сделала, так это не убр�
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция особо подчеркивает и конкретизирует некоторое единственное [действие]Action, которое выполнил или не выполнил [участник ситуации]Participant. В некоторых контекстах с отрицанием может иметь следующее значение: на [участника]Experiencer были возложены определенные ожидания по осуществлению действия, однако он их не оправдал. Слот XP может заплняться глагольной группой (VP), именной группой (NP) или предложной группой (PP).
+       Конструкция особо подчеркивает и конкретизирует некоторое единственное [действие]Action, которое выполнил или не выполнил [участник ситуации]Participant. В некоторых контекстах с отрицанием (примеры 1, 2) может иметь следующее значение: ожидалось, что участник выполнит некоторое действие, однако этого не произошло. Слот XP может заполняться глагольной группой (VP), именной группой (NP) или предложной группой (PP).
+  - norwegian: |
+       Konstruksjonen fremhever og konkretiserer en [enkelthandling]Action som [en deltaker i situasjonen]Participant har utført eller ikke har utført. I noen tilfeller med nektelse (eksempel 1 og 2) kan den ha følgende betydning: Det var forventet at deltakeren ville utøføre en gitt handling, men det skjedde ikke. Sloten XP kan fylles av en verbalfrase (VP), en nominalfrase (NP) eller en preposisjonsfrase (PP).
 examples:
   - |
        'Единственное что [он]Experiencer не [понимал]Action, так это [почему все вокруг говорят вполголоса.]Theme'
   - |
-       'Чего не [хватает]Action [у моих детей]Experiencer, так это [скромности]Theme.'
+       'Чего не [хватает]Action [у моих детей]Participant, так это [скромности]Theme.'
   - |
        'Единственное в чем [я]Experiencer [сомневаюсь]Action, так это [в твоей преданности]Theme.'
   - |
@@ -28,18 +30,28 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - ~
+  - Argument
+  - Subordinator
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Pron
+  - Negation Marker
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    '[root [nmod единственное] [obj что] [nsubj NP-Nom] [advmod не] VP, [parataxis [advmod так] [pron это] Cl]]; [root [obj чего] [nsubj дочь] [advmod не] сделала, [parataxis [advmod так] [pron это] [advmod не] убралась]]'
+dependency_structure:
+  - '[root [nmod единственное] [obj что] [nsubj NP-Nom] [advmod не] VP'
+  - '[parataxis [advmod так] [pron это] Cl]]; [root [obj чего] [nsubj дочь] [advmod не] сделала'
+  - '[parataxis [advmod так] [pron это] [advmod не] убралась]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

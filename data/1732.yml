@@ -3,9 +3,21 @@ record: 1732
 name: 'VP NP-Ins на NP-Loc'
 UD_name: 'VP NP-Ins на NP-Loc'
 illustration: 'Йоги могут лежать спиной на гвоздях.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на местоположение человека (или, реже, животного) в пространстве: конструкция обозначает [место]Landmark, с которым участник [соприкасается]State [частью своего тела]Theme.
 examples:
+  - |
+       'За время сна Петров успел сдвинуть подушку в сторону и [лежал]State [головой]Theme на [простыне]Landmark.'
+  - |
+       'Он [лежал]State [щекой]Theme на [холодном бетоне]Landmark и слышал собственный голос.'
+  - |
+       '― Ры-ы-ба, ― говорил Алеша благоговейно, [стоя]State [коленями]Theme на [стуле]Landmark и придвинув нос к самому стеклу аквариума.'
+  - |
+       'Он [распластался]State [спиной]Theme на [двери]Landmark, расставил руки и ноги в упор.'
+  - |
+       'Санька не отвечал, [висел]State [животом]Theme на [срубе колодца]Landmark, сталкивал вниз гнилые щепочки.'
 morphology:
   - VP
   - NP
@@ -14,19 +26,26 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - State
+  - Theme
+  - Landmark
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "Рахилина, Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, изд. 2, испр. и доп. – 448 с. (стр. 266)"
 semantic_types:
   - type: Manner
   - type: Spatial expression

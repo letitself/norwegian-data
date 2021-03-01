@@ -1,7 +1,7 @@
 ---
 record: 285
-name: 'ради бога/всего святого/христа, VP-Imp!'
-UD_name: 'ради бога/всего святого/христа, VP-Imper!'
+name: 'ради бога/всего святого/Христа, VP-Imp!'
+UD_name: 'ради бога/всего святого/Христа, VP-Imper!'
 illustration: 'Ради бога, успокойся!'
 cefr_level: 
 definitions:
@@ -15,14 +15,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
+  - Adj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

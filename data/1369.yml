@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent долго и интенсивно совершает [действие]Activity, которое названо существительным, образованным от глагола. Повторение существительного передает длительность и интенсивность действия. На этом действии сосредоточено все внимание субъекта действия, оно заполняет все его время и мысли.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent lenge og intensivt har holdt på med [en handling]Activity. Handlingen er benevnt med et substantiv som er dannet av et verb. Gjentakelsen av substantivet uttrykker at handlingen er langvarig og intensiv. Handlingen er gjenstand for handlingssubjektets fulle oppmerksomhet, den opptar vedkommendes tid og tanker helt og fullt.
 examples:
   - |
        'Июль и август без конца [работа и работа]Activity. Дел всех не переделать.'
@@ -21,7 +23,8 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Nominal quantifier
+  - Coordinator
 syntactic_structure_of_anchor:
   - Reduplication
 part_of_speech_of_anchor:
@@ -33,8 +36,11 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    '[root Noun-Nom [conj [cc и] Noun-Nom]]; [root работа [conj [cc и] работа]]'
+dependency_structure:
+  - '[root Noun-Nom [conj [cc и] Noun-Nom]]'
+  - '[root работа [conj [cc и] работа]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

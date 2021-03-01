@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция используется, когда говорящий категорично, но не резко побуждает участника ситуации не выполнять [некоторое действие]Action. Это действие может произойти в будущем либо уже произошло и говорящий не хочет его повторения. Говорящий осуждает участника за выполнение этого действия, так как считает, что статус участника, его принадлежность к определенной группе (например, по гендерному или профессиональному признаку), его моральные или иные качества не позволяют ему выполнять это действие. Участник может быть представлен целой группой лиц, которая не включает говорящего, или отдельным лицом, в том числе и собеседником говорящего.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren bestemt, men ikke skarpt, anmoder en deltaker i situasjonen om ikke å utføre [en gitt handling]Action. Handlingen kan inntreffe i fremtiden eller har allerede inntruffet, og taleren vil at den ikke skal gjenta seg. Taleren fordømmer deltakeren for denne handlingen og mener at deltakerens status og tilhørighet til en bestemt gruppe (f.eks. basert på kjønn eller yrke), samt moralske eller andre fortrinn, ikke tillater vedkommende å utføre denne handlingen. Deltakeren kan være en gruppe personer som ikke inkluderer taleren, eller en enkeltperson, herunder talerens samtalepartner.
 examples:
   - |
        'Целый ряд подобных стихов был в той рукописи, и Рубцов категорически выступал против них, утверждал, что женщине не подобает [писать стихи такого рода]Action.'
@@ -26,9 +28,9 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Predicate
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - VP
+  - Verb pattern
   - Negation
 part_of_speech_of_anchor:
   - Verb
@@ -38,8 +40,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [obl NP-Dat] [advmod не] подобает [nsubj VP-Inf]]; [root [obl тебе] [advmod не] подобает [nsubj кланяться]]'
+dependency_structure:
+  - '[root [obl NP-Dat] [advmod не] подобает [nsubj VP-Inf]]'
+  - '[root [obl тебе] [advmod не] подобает [nsubj кланяться]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'см. конструкцию NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам)'
 references:

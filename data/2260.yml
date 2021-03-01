@@ -7,22 +7,26 @@ cefr_level:
 definitions:
 examples:
 morphology:
-  - VP
+  - XP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Parenthetical
 syntactic_structure_of_anchor:
-  - Conj
-  - Adj
+  - N
+  - A
 part_of_speech_of_anchor:
-  - Conj
-  - Adj
+  - Intj
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

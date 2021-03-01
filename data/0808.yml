@@ -3,9 +3,21 @@ record: 808
 name: 'VP в результате NP-Gen'
 UD_name: 'VP в результате NP-Gen'
 illustration: 'Несколько человек пострадало в результате взрыва.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action или [событие]Event приводит к [определенной ситуации]Result. Конструкция характерна прежде всего для книжных письменных текстов.
 examples:
+  - |
+       'Хотелось бы, чтобы в результате [встречи]Event [родилась общая идея, общий проект]Result.'
+  - |
+       'В результате [сочетания противоположных по смыслу понятий]Event [возникает новое смысловое качество]Result.'
+  - |
+       'В результате [исследования]Action [определяют объём и методы реставрационных работ, разрабатывают методику их выполнения]Result.'
+  - |
+       'В результате [урагана]Event [в Москве и Подмосковье 29 мая погибли как минимум 11 человек, более 50 получили травмы; повреждены сотни автомобилей и объекты инфраструктуры]Result.'
+  - |
+       'В результате [изменения государственной политики в отношении культурных ценностей, а также политики в экономической сфере в целом]Event [создаются предпосылки для развития антикварного рынка]Result.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,25 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Event
+  - Result
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию 1682 в результате VP (В результате он оказался прав).'
 references:
   - |
     ""

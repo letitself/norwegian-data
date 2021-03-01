@@ -1,7 +1,7 @@
 ---
 record: 2155
 name: 'не VP-Pfv.Inf бы (NP-Dat)!'
-UD_name: 'не VP-Inf.Perf бы (NP-Dat)!'
+UD_name: 'не VP-Perf.Inf бы (NP-Dat)!'
 illustration: 'Не опоздать бы к обеду!'
 cefr_level: 
 definitions:
@@ -14,16 +14,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,12 +1,16 @@
 ---
 record: 55
-name: 'NP весом/массой (в) NumCrd-Acc NP-Gen'
-UD_name: 'NP весом/массой (в) Num-Acc NP-Gen'
-illustration: 'Баржа весом в шесть тонн'
+name: 'NP весом/массой (в) NumCrd-Acc NP'
+UD_name: 'NP весом/массой (в) NumCrd-Acc NP'
+illustration: 'Баржа весом в шесть тонн.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется при измерении большой тяжести / веса [объекта]Theme в стандартных [единицах]Quantity меры тяжести / веса, прежде всего килограммах, пудах, тоннах. Если числительное "один", то [единица измеренения]Measure [объекта]Theme стоит стоит в винительном падеже.
+       Конструкция используется при измерении большой тяжести / веса [объекта]Theme в стандартных [единицах]Quantity меры тяжести / веса, прежде всего килограммах, пудах, тоннах. Комментарий: Если использовано числительное "один" или "одна", то [единица измерения]Measure [объекта]Theme после предлога "в" стоит в винительном падеже, в остальных случаях после предлога "в" в родительном падеже. Если нет предлога "в", то числительное стоит в именительном падеже.
+  - english: |
+       Примеры должны показывать большее разнообразие, с разными падежами, без предлога, с числ 1
+  - norwegian: |
+       Konstruksjonen anvendes i forbindelse med at [et objekt]Theme med stor tyngde/vekt måles i standardiserte [målenheter]Quantity for tyngde/vekt, først og fremst i kilo, pud og tonn. Hvis tallordet er 'один', står [objektets]Theme [målenhet]Measure i akkusativ kasus.
 examples:
   - |
        'Пусть мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure, но не больше.'
@@ -22,15 +26,15 @@ morphology:
   - NP
   - NumCrd
   - Acc
-  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Prep
 semantic_roles:
   - Theme
   - Measure
@@ -38,8 +42,13 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root весом [nmod [case в] [nummod Num-Acc] NP-Gen]]; [root весом [nmod [case в] [nummod шесть] тонн]]'
+dependency_structure:
+  - '[root весом [nmod [case в] [nummod Num-Acc] NP-Gen]]'
+  - '[root весом [nmod [case в] [nummod шесть] тонн]]'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP (Велодорожка длиной шесть километров), 1546 NP объёмом (в) NumCrd-Acc NP (Книга объёмом в сто страниц).'
 references:
   - |
     ""

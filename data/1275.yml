@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция используется, когда говорящий побуждает временно приостановить [некоторое действие]Action, которое уже происходит в настоящий момент или вот-вот начнется. Как если бы говорящий просил подождать того момента, когда можно было бы начать это действие. С точки зрения говорящего, это действие является преждевременным либо совсем не должно иметь место. Существуют [сведения]Situation, которые собеседник должен узнать и учесть, принимая решение продолжить это действие или вести себя иначе. Побуждение может быть обращено к собеседнику или к группе лиц, которая не включает говорящего.
+  - norwegian: |
+       Konstruksjonen benyttes når taleren anmoder om  midlertidig å stanse en [handling]Action som allerede er i gang eller er i ferd med å begynne. Det er som om taleren ber handlingens starttidspunkt om å vente. Etter talerens mening er handlingen forhastet eller bør slett ikke finne sted. Det foreligger [opplysninger]Situation som samtalepartneren må få og ta hensyn til når beslutningen skal tas om enten å  fortsette med handlingen eller å opptre på en annen måte. Anmodningen kan være rettet til samtalepartneren eller til en gruppe personer som ikke inkluderer taleren.
 examples:
   - |
        'Обернувшись, я увидел, как он выглядывает из приоткрытой двери. ― Ты подожди [уходить]Action. [У меня к тебе дело]Situation.'
@@ -26,17 +28,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
   - Situation
 intonation:
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Частотными заполнителями слота являются глаголы, обозначающие эмоциональные состояния (как положительные, так и отрицательные); глаголы «расставания»; глаголы, обозначающие благодарность.'
 references:

@@ -9,6 +9,8 @@ definitions:
        Конструкция выражает, что необходимо выполнить [некоторое действие]Action, приложив максимальное количество усилий [по одному параметру.]Property
   - english: |
        This construction is used to express that it is necessary to perform an [action]Action, applying the maximum amount of effort [on one specific aspect]Property.
+  - norwegian: |
+       Konstruksjonen uttrykker at det er nødvendig å utføre [en gitt handling]Action på den måten at  maksimal innsats rettes mot [én parameter]Property.
 examples:
   - |
        'Моим намереньем было как можно [быстрее]Property [вступить в наследование]Action, с тем чтобы продать все движимое и недвижимое имущество и покинуть этот город, где я доселе не был и надеялся более не оказаться.'
@@ -27,10 +29,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Conj
-  - Predicative
+  - N
+  - A
 part_of_speech_of_anchor:
   - Pron
   - Predicative
@@ -40,8 +42,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[advmod [fixed как] можно] Adv-Cmp/Adj-Cmp]] VP]; [root нужно [nsubj приехать [obl нам] [advmod [advmod [fixed как] можно] скорее]]'
+dependency_structure:
+  - '[advmod [fixed как] можно] Adv-Cmp/Adj-Cmp]] VP]'
+  - '[root нужно [nsubj приехать [obl нам] [advmod [advmod [fixed как] можно] скорее]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673."

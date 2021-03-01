@@ -1,42 +1,48 @@
 ---
 record: 37
-name: 'больно Adv/Adj'
-UD_name: 'больно Adv/Adj'
+name: 'больно Adv/Adj/Pred'
+UD_name: 'больно Adv/Adj/Praedic'
 illustration: 'Больно сложно'
 cefr_level: B1
 definitions:
   - russian: |
        Конструкция повышает степень интенсивности [признака]Property объекта или ситуации. Может использоваться говорящим, чтобы объяснить его отказ от выполнения некоторого действия.
-  - english: |
-       This construction intensifies the characteristics of [a certain property]Property. In it, the word больно can be seen as a synonym of слишком ‘too (much)’ (in other contexts, больно can mean ‘badly, painfully’).
   - norwegian: |
-       Konstruksjonen brukes for å forsterke [en egenskap]Property. Ordet больно kan i denne konstruksjonen betraktes som et synonym til слишком ‘altfor (mye)’ ( i andre kontekster betyr больно ‘vondt, smertelig’).
+       Konstruksjonen gjør at [et kjennetegn]Property ved et objekt eller en situasjon får økt intensitet. Den kan brukes av taleren for å forklare hvorfor vedkommende avslår å utføre en gitt handling.
 examples:
-  - |
-       'Больно [близко]Property к столице располагалась деревня Тропарево.'
   - |
        'Уж больно [вкусно]Property мама готовила.'
   - |
-       'Уж больно [уважительно]Property говорил садовник о грибах.'
+       'Эта технология казалась уж больно [заманчивой]Property ― настолько все дешево, просто и доступно.'
+  - |
+       '― Курточка у тебя больно [хороша]Property.'
+  - |
+       'Кто в колхозе-то этим заниматься будет, кому больно [нужно]Property?'
+  - |
+       'У вас в Калифорнии больно [жарко]Property.'
 morphology:
   - Adv
   - Adj
+  - Pred
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
-  - Conj
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - Property
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod больно] Adv]; [root [advmod больно] сложно]'
+dependency_structure:
+  - '[root [advmod больно] Adv]'
+  - '[root [advmod больно] сложно]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -3,25 +3,44 @@ record: 722
 name: 'VP без умолку'
 UD_name: 'VP без умолку'
 illustration: 'Она болтала без умолку.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Action совершается [участником ситуации]Agent непрерывно и с высокой интенсивностью. Конструкция используется только с глаголами речи. Как если бы участник никогда не умолкал.
 examples:
+  - |
+       '[Она]Participant [принялась болтать]Action без умолку.'
+  - |
+       '– [Он]Participant [говорил]Action без умолку и, видимо, вправду был озадачен и поражен.'
+  - |
+       '[Я]Participant без умолку [объяснял разные подробности своей работы]Action.'
+  - |
+       '[Они]Participant без умолку [болтали друг с другом по-итальянски]Action, и ничего не могло отвлечь их от этого занятия.'
+  - |
+       '[Он]Participant [твердит об этом]Action без умолку.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожую конструкцию 504 VP без устали (Жена готовила без устали)'
 references:
   - |
     ""

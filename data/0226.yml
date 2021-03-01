@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает запрет на [некоторое действие]Action, которое уже происходит или может произойти в будущем. Запрет связан с мнением говорящего. Говорящий считает, что участник ситуации (часто собеседник, но может быть и некое третье лицо) не должен совершать какое-либо [действие]Action, потому что оно неразумно или неуместно.
+  - norwegian: |
+       Konstruksjonen uttrykker et forbud mot [en handling]Action som allerede pågår eller kan komme til å inntreffe i fremtiden. Forbudet har sammenheng med talerens mening. Taleren mener at en deltaker i situasjonen (ofte samtalepartneren, men det kan også være en tredjeperson) må avstå fra å utføre en [handling]Action fordi den er ufornuftig eller upassende.
 examples:
   - |
        'Я привыкла схватывать на лету, и если мне что-то не даётся с первого раза, я считаю, что это не моё и нечего [пытаться]Action.'
@@ -28,16 +30,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Negatiom Marker
 semantic_roles:
   - Action
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root нечего [nsubj VP-inf]]; [root нечего [nsubj баловать [obj детей]]'
+dependency_structure:
+  - '[root нечего [nsubj VP-inf]]'
+  - '[root нечего [nsubj баловать [obj детей]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

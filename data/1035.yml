@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation происходит или [объект]Theme находится в пространстве между грудью и прилегающей к ней одеждой, которое называется "пазуха". Объектом часто выступают небольшие предметы, которые необходимо скрыть (примеры 1, 5), или небольшие животные, которых необходимо согреть (пример 2).
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation utspiller seg eller [et objekt]Theme befinner seg i området som kalles 'пазуха', mellom brystet og klesplagget som ligger inntil det. Objektet er ofte en liten gjenstand som må skjules (eksempel 1 og 5) eller et lite dyr som må varmes (eksempel 2).
 examples:
   - |
        'Если у вас [пистолет]Theme за пазухой, то на вас всё равно могут напасть.'
@@ -24,7 +26,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -36,6 +38,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Obsolete
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

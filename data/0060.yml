@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает несогласие говорящего с только что полученной им информацией о [ситуации]Situation, [участнике]Participant или [объекте]Theme. В зависимости от заполнения слота различными элементами конструкция может отрицать совершение [действия]Action (пример 1), [обстоятельства]Circumstance ситуации (пример 2) или действия (пример 4), [характеристику]Property объекта (пример 5) или суждение целиком (пример 3). Слот XP может заполняться предложной группой, именной группой, глагольной группой, прилагательным, наречием или целой клаузой.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren er uenig i informasjonen vedkommende nettopp har mottatt om [en situasjon]Situation, [en deltaker]Participant eller [et objekt]Theme. Avhengig av hvilket element som fyller sloten, kan konstruksjonen bestride det at en [handling]Action har funnet sted (eksempel 1), visse [omstendigheter]Circumstance rundt en situasjon (eksempel 2) eller en handling (eksempel 4), et objekts [egenart]Property (eksempel 5) eller utsagnet i sin helhet (eksempel 3). Sloten XP kan fylles av en preposisjonsfrase, en nominalfrase, en verbalfrase, et adjektiv, et adverb eller en hel leddsetning.
 examples:
   - |
        '– Товарищ директор, но [вы обещали выплатить зарплату еще вчера…]Situation – Я вовсе не [обещал]Action. Работайте.'
@@ -27,18 +29,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Negation Marker
 semantic_roles:
   - Situation
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod [advmod вовсе] не] XP]; [root [nsubj [amod эта] одежда] [advmod [advmod вовсе] не] старая]'
+dependency_structure:
+  - '[root [advmod [advmod вовсе] не] XP]'
+  - '[root [nsubj [amod эта] одежда] [advmod [advmod вовсе] не] старая]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. похожие конструкции 101 далеко не Adj/Adv (Он далеко не умный студент) и 2267 совсем не XP (Я совсем не знаю этого человека).'
 references:

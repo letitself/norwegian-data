@@ -11,9 +11,11 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
+  - Coordinator
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Praedic
+  - Reduplication
 part_of_speech_of_anchor:
   - Оnomatopoeia
 semantic_roles:
@@ -21,6 +23,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -3,25 +3,46 @@ record: 1080
 name: 'XP из-за рубежа'
 UD_name: 'XP из-за рубежа'
 illustration: 'Гости из-за рубежа'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [объекты]Theme или [участники]Participant имеют иностранное происхождение (примеры 1, 2). Также может обозначать, что исходной точкой их [перемещения]Action является другое государство (примеры 3, 4, 5). "Рубеж" в данном случае обозначает государственную границу. Слот XP может заполняться именной или глагольной группой.
 examples:
+  - |
+       'Ежегодные визиты [туристов]Participant из-за рубежа на Рождество Христово стали уже традицией.'
+  - |
+       'Их высокий экономический потенциал привлекает серьёзных [инвесторов]Participant со всей России и из-за рубежа.'
+  - |
+       'Он основал фирму, занимавшуюся [поставками]Action [продуктов]Theme из-за рубежа.'
+  - |
+       'Из всех городов России и из-за рубежа сюда [приезжают]Action поклонники творчества Чехова.'
+  - |
+       'И это при том, что мы практически всю [мебель]Theme [ввозим]Action из-за рубежа.'
 morphology:
   - XP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal pattern
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Set
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. синонимичную конструкцию 1079 XP из-за границы (Товары из-за границы)'
 references:
   - |
     ""

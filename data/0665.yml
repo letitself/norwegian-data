@@ -1,7 +1,7 @@
 ---
 record: 665
 name: 'Verb-Prs.2.Sg не ~Verb-Prs.2.Sg, а Cl'
-UD_name: 'VP-Pres.2.Sing не V-Pres.2.Sing, а Cl'
+UD_name: 'V-Pres.2.Sing не V-Pres.2.Sing, а Cl'
 illustration: 'Хочешь не хочешь, а встанем рано утром.'
 cefr_level: 
 definitions:
@@ -15,16 +15,22 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Coordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Reduplication
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

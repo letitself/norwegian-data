@@ -1,12 +1,14 @@
 ---
 record: 1549
-name: 'NP площадью (в) NumCrd-Acc NP-Gen'
-UD_name: 'NP площадью (в) NumCrd-Acc NP-Gen'
+name: 'NP площадью (в) NumCrd-Acc NP'
+UD_name: 'NP площадью (в) NumCrd-Acc NP'
 illustration: 'Участок площадью сто гектаров'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает [площадь]Quantity [объекта]Theme, измеренную в [стандартных единицах измерения площади, таких как квадратные метры, квадратные километры, гектары, акры и др.]Measure Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
+  - norwegian: |
+       Konstruksjonen betegner [et objekts]Theme [flateinnhold]Quantity, målt i [standardiserte målenheter for areal, f.eks. kvadratmeter, kvadratkilometer, hektar, acre m.fl.]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
   - |
        'Посреди республики Чад лежит Унианга-Кебир — [озеро]Theme площадью [20]Quantity [квадратных километров]Measure.'
@@ -26,7 +28,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:
@@ -39,6 +41,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

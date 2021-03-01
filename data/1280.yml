@@ -3,24 +3,46 @@ record: 1280
 name: 'Cl, благодаря чему Cl'
 UD_name: 'Cl, благодаря чему Cl'
 illustration: 'Грудное молоко имеет особую структуру, благодаря чему оно хорошо усваивается.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной и благоприятным условием для другого [действия]Action или [ситуации]Situation. Как если бы можно было поблагодарить первое действие (причину) за то, что наступило второе действие.
+  - norwegian: |
+       Konstruksjonen betyr at en [handling eller situasjon]Cause fremstår som en årsak og et godt utgangspunkt for en annen [handling]Action eller [situasjon]Situation. Det er som om det går an å takke den første handlingen (årsaken) for at den andre handlingen fant sted.
 examples:
+  - |
+       '[В возрасте 19 лет он удачно женился на богатой вдове]Cause, благодаря чему [вошел в светское общество]Situation.'
+  - |
+       '[Они открывали мусульманские начальные школы при мечетях]Cause, благодаря чему [повышался уровень грамотности и образованности сибирских татар]Situation.'
+  - |
+       '[Книга состоит из небольших глав]Cause, благодаря чему [ее легко читать и просматривать]Situation.'
+  - |
+       '[Команда очень хорошо сыграла в третьем периоде]Cause, благодаря чему [добилась победы]Action.'
+  - |
+       '[Корпус телефона достаточно большой]Cause, благодаря чему [аппарат удобно лежит в руке]Situation.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
   - Assertive
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 726 Cl благодаря тому, что Cl (Мы успели в аэропорт благодаря тому, что выехали заранее) и 1290 VP благодаря NP-Dat (Благодаря труду человек выделился из природы)'
 references:
   - |
     ""

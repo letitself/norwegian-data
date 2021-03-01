@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что участник ситуации выполняет какое-либо [действие]Action, не используя [инструмент]Instrument, который обычно должен быть у него в руках. Вместо этого, [инструментом]Instrument становятся его руки. В метафорическом значении эта конструкция описывает [ситуацию задержания человека]Action, при которой отсутствие [оружия или специальных средств]Instrument предполагает проффессионализм или специальную подготовку участников.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker i en situasjon utfører en [handling]Action uten å bruke [et redskap]Instrument vedkommende vanligvis har for hånden. Samtidig blir hendene [et redskap]Instrument. I metaforisk forstand beskriver konstruksjonen [en situasjon med et menneske som anholdes]Action, der fraværet av [våpen eller tvangsmidler]Instrument krever at deltakerne har fagkunnskaper eller spesialopplæring.
 examples:
   - |
        'Не [берите сухой лёд]Action голыми руками, используйте ложку или перчатки.'
@@ -23,9 +25,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Noun
   - Adj
@@ -34,6 +36,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

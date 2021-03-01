@@ -3,9 +3,21 @@ record: 1294
 name: 'VP за NP-Ins'
 UD_name: 'VP за NP-Ins'
 illustration: 'Пациенты выбрасывают свои очки за ненадобностью.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает причину [действия]Action или [ситуации]Situation. Причиной является [отсутствие некоторого качества]Cause или [действие, которое не имеет места]Cause. Отсутствие качества или действия провоцирует данную [ситуацию]Situation. Конструкция характерна прежде всего для книжных письменных текстов, особенно по юриспруденции, для официальных отчетов.
 examples:
+  - |
+       '[Дело было прекращено]Situation за [недоказанностью преступления]Cause.'
+  - |
+       '[Суд не состоялся]Situation за [неявкой истца]Cause.'
+  - |
+       '[Производство остановили]Action за [нерентабельностью]Cause.'
+  - |
+       'Я заметил, что за [негодностью дорог]Cause [люди Древней Руси предпочитают водный путь]Situation.'
+  - |
+       'Я сбросил туфли, уселся на диване в позу лотос, закрыл глаза и, за [незнанием буддистских мантр]Cause, [сделал глубокий вдох-выдох и прочел «Отче наш» раз десять]Action.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
-  - ~
-usage_label: ~
+  - Assertive
+usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

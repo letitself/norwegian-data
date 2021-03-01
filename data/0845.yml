@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает, что участник [переворачивает]Action некоторый [контейнер]Theme (сумку, бутылку, тарелку и др.) нижней стороной кверху. В переносном значении, конструкция обозначает, что некоторое [место]Theme оказывается [в большом беспорядке, хаосе]State. Это состояние [оценивается]Evaluation негативно, как отклонение от нормы.
+  - norwegian: |
+       Konstruksjonen brukes både i direkte og overført betydning. I direkte betydning betyr konstruksjonen at deltakeren [snur]Action en [beholder]Theme (veske, flaske, tallerken m.m.) med undersiden opp. I overført betydning betyr konstruksjonen at et [sted]Theme havner [i stor uorden, kaos]State. Denne tilstanden [betraktes]Evaluation som noe negativt, som et avvik fra det normale.
 examples:
   - |
        'Света [перевернула]Action [сумку]Theme вверх дном: на веранду посыпалась черешня, три лимона и три яблока.'
@@ -24,13 +26,16 @@ morphology:
   - Cop
   - VP
 syntactic_type_of_construction:
+  - Copula Construction
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Praedicаtive Expression
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Noun
 semantic_roles:
   - Action
   - Theme
@@ -39,6 +44,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожие конструкции 846 "VP вверх ногами/тормашками" (Вертит рисунок, поворачивает его вверх ногами, берёт в руки, внимательно всматривается.), 1246 "VP вниз головой" (Девочка висит вниз головой.).'
 references:
   - |
     ""

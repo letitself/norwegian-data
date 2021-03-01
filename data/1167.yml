@@ -3,9 +3,21 @@ record: 1167
 name: 'VP под защитой NP-Gen'
 UD_name: 'VP под защитой NP-Gen'
 illustration: 'Памятник архитектуры находится под защитой ЮНЕСКО.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что один [участник ситуации]Agent оберегает [другого участника]Beneficiary, а также может способствовать тому, чтобы [действие]Action, выполняемое [другим участником]Beneficiary и дальше протекало привычным образом (примеры 4, 5). Такая ситуация, как правило длится долгое время и не имеет естественного предела. Вместо [участника ситуации]Agent могут быть другие действующие силы (закон, организация и др.).
 examples:
+  - |
+       'Они не трогают ребенка, потому что пока [он]Beneficiary под защитой [закона]Agent.'
+  - |
+       'Там были сожжены сотни [храмов и монастырей]Beneficiary, находившихся под защитой [ЮНЕСКО]Agent.'
+  - |
+       'И там же газета пишет о том, что [бандиты]Beneficiary находились под защитой [местной администрации]Agent.'
+  - |
+       '[Авторы]Beneficiary до поры [оставались в безопасности]Action под защитой [высоких покровителей]Agent.'
+  - |
+       '[Фермеры и бизнесмены]Beneficiary по-прежнему [занимаются своим делом]Action под защитой [закона]Agent, отныне единого для всех.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,25 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Agent
+  - Beneficiary
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 1165 VP под прикрытием NP-Gen (Корабли маневрировали под прикрытием авиации.), 1169 VP под знаком NP-Gen (Выступление проходило под знаком протеста.)'
 references:
   - |
     ""

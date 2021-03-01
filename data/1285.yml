@@ -3,9 +3,21 @@ record: 1285
 name: 'VP по случаю NP-Gen'
 UD_name: 'VP по случаю NP-Gen'
 illustration: 'По случаю юбилея жены он сам помоет тарелки.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action или [ситуации]Situation. Как правило, в роли причины выступает важное событие: торжественное (день рождения, юбилей, праздник и др.) или, напротив, трагическое (смерть, потеря родственника и др.).
 examples:
+  - |
+       'Сияло солнце, да и [храм хорошо осветили]Action по случаю [праздника]Cause.'
+  - |
+       '[В пятьдесят восьмом году, по случаю [пятидесятилетнего юбилея советского цирка]Cause, многим артистам присвоили звания народных артистов республики]Action.'
+  - |
+       '[Зоопарк объявил акцию]Action по случаю [своего дня рождения]Cause.'
+  - |
+       '[Вчера состоялось торжественное собрание]Situation по случаю [открытия училища]Cause.'
+  - |
+       '[Анне пенсию назначили]Action по случаю [потери кормильца]Cause.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

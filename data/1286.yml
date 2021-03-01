@@ -3,9 +3,21 @@ record: 1286
 name: 'волей/по воле NP-Gen Cl'
 UD_name: 'волей/по воле NP-Gen Cl'
 illustration: 'Волею обстоятельств он оказался в стане противников.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что причиной [ситуации]Situation является желание некоторой [высшей инстанции]Causer. В роли такой инстанции может выступать человек или группа людей (примеры 4, 5), однако, как правило, речь идет о недоступной для понимания высшей силе (судьба, Бог, случай и др., примеры 1-3). Конструкция подразумевает, что участник ситуации не может повлиять на ход событий.
 examples:
+  - |
+       '[Через год волею [судьбы]Causer Александр оказался в Красноярске]Situation.'
+  - |
+       'Волей [Божией]Causer [остался мой дедушка в живых]Situation.'
+  - |
+       'По воле [случая]Causer [наши команды должны были играть друг против друга]Situation.'
+  - |
+       '[Своё нынешнее имя Новосибирск получил по воле [советской власти]Causer в 1926 г.]Situation'
+  - |
+       '[Лёня стал ювелиром поневоле]Situation, то есть по воле [его родителей]Causer, отдавших мальчика в 14 лет на обучение к ювелиру, чтобы парень получил денежную профессию, и самого Лёню тогда никто не спросил.'
 morphology:
   - NP
   - Gen
@@ -13,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal Pattern
   - PP
@@ -21,10 +33,17 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Causer
+  - Situation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'В конструкции допускается вариативность формы Творительного падежа слова "воля": волей или волею.'
 references:
   - |
     ""

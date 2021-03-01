@@ -1,11 +1,21 @@
 ---
 record: 437
 name: 'Noun-Nom ~Noun-Ins, а/но Cl'
-UD_name: 'Noun-Nom Noun-Ins, а/но Cl'
+UD_name: 'N-Nom N-Ins, а/но Cl'
 illustration: 'Дружба дружбой, но я влюбился в нее.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция завершает обсуждение одной темы и переводит внимание на другую тему разговора. Конструкция обозначает, что [существование какой-либо ситуации]Theme не должно повлиять на событие, происходящие параллельно. См. 1960.
+  - english: |
+       This construction signifies that [the existence of a situation]Theme should not affect the event occurring parallel to it. In the construction the object is duplicated.
 examples:
+  - |
+       '[Уроки]Theme-[уроками]Actant, [а]а  [цель у нас совсем другая.]Event'
+  - |
+       '[Дела]Theme-[делами]Actant, [а]а  [обед стынет.]Event'
+  - |
+       '[Шутки]Theme  [шутками]Actant, [но]но  [Германия, кажется, проиграет.]Event'
 morphology:
   - Noun
   - Nom
@@ -14,21 +24,27 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
-  - Clause
+  - Coordinator
 syntactic_structure_of_anchor:
-  - Nominal pattern
   - Reduplication
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj Noun-Nom]-Noun-Ins [conj [cc а/но] Cl]]; [root [nsubj дружба] дружбой'
+  - '[conj [cc но] [nsubj я] влюбился [obl [case в] нее]]'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'см. конструкцию спросить спрошу, но он может не знать'
 references:
   - |
-    ""
+    "Janda, Laura A., Mihail Kopotev and Tore Nesset. 2020. “Constructions, their families and their neighborhoods: the case of дурак дураком ‘a fool times two’”. In Russian Linguistics 44, 109-127."
 semantic_types:
   - type: Concession
     subtypes:

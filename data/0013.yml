@@ -7,10 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция служит для выражения значительного сходства кого-либо [с его близким или дальним родственником]Theme. Сходство может быть как в характере, так и во внешности. Конструкция может иметь негативную оценку при сравнении плохих черт характера (пример 5).
-  - english: |
-       This construction means that someone is very similar to [a close or distant relative]Theme, either in their character or in their looks. When it is used to compare bad character traits, the construction has a negative connotation (example 5).
   - norwegian: |
-       Konstruksjonen uttrykker at noen er svært lik [en nær eller fjern slektning]Theme. Likhetstrekkene kan være knyttet både til personlighet og utseende. Når konstruksjonen brukes om dårlige likhetstrekk, har den en negativ konnotasjon (eksempel 5).
+       Konstruksjonen uttrykker at noen har vesentlige likhetstrekk med [en nær eller fjern slektning]Theme. Likhetstrekkene kan komme til uttrykk så vel i karakteren som i utseendet. Ved sammenlikning av dårlige karaktertrekk kan konstruksjonen ha en negativ valør (eksempel 5).
 examples:
   - |
        'Брат так похож на неё лицом и характером. Весь в [маму]Theme.'
@@ -32,8 +30,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Verb
-  - Praedic
+  - Verb Pattern
 part_of_speech_of_anchor:
   - Verb
   - Prep
@@ -43,8 +40,11 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    '[root (пойти) [acl весь [nmod [case в] NP-Acc]]]; [root [nsubj он] пошел [acl весь] [nmod [case в] отца]]'
+dependency_structure:
+  - '[root (пойти) [acl весь [nmod [case в] NP-Acc]]]'
+  - '[root [nsubj он] пошел [acl весь] [nmod [case в] отца]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

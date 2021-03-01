@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторая [ситуация]Situation (разговор, дискуссия, мероприятие и др.) [меняется]Action в неожиданную для говорящего сторону, и говорящий характеризует это изменение через [признак]Property.
+  - norwegian: |
+       Konstruksjonen betyr at en [situasjon]Situation (en samtale, diskusjon, tilstelning m.m.) [endrer seg]Action på en måte som er uventet for taleren, og taleren beskriver endringen ved hjelp av [et kjennetegn]Property.
 examples:
   - |
        'Теперь [события]Situation [приняли [новый]Property оборот]Action: новые методы нашли себе опору в старых.'
@@ -25,11 +27,12 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Noun
 semantic_roles:
   - Situation
   - Action
@@ -37,6 +40,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

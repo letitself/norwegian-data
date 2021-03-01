@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция означает, что говорящий спрашивает разрешения у собеседника на совершение некоторого [действия]Action. Говорящий заведомо считает, что это действие не вызовет резких возражений у собеседника.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ber om samtalepartnerens tillatelse til å utføre en gitt [handling]Action. Taleren mener å vite at handlingen ikke vil fremkalle sterke motforestillinger fra samtalepartnerens side.
 examples:
   - |
        'Ничего, если я [задам пару вопросов]Action? Только заранее извиняюсь, если они покажутся вам неприятными.'
@@ -23,16 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - ~
+  - Praedicative Expression
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pron
+  - Conj
 semantic_roles:
   - Action
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

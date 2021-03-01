@@ -1,7 +1,7 @@
 ---
 record: 1306
 name: 'Да VP-Prs/VP-Fut NP-Nom!'
-UD_name: 'Да VP-Prs/VP-Fut NP-Nom!'
+UD_name: 'Да VP-Pres/VP-Fut NP-Nom!'
 illustration: 'Да будет свет!'
 cefr_level: 
 definitions:
@@ -15,16 +15,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - Conj
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

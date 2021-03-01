@@ -1,11 +1,17 @@
 ---
 record: 487
 name: 'только бы/лишь/хоть (NP-Dat) Cop VP-Pfv.Inf'
-UD_name: 'только бы/лишь/хоть (NP-Dat) Cop VP-Inf.Perf'
+UD_name: 'только бы/лишь/хоть (NP-Dat) Cop VP-Perf.Inf'
 illustration: 'Мне только бы увидеть ее.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция обозначает сильное желание [участника]Participant выполнить [действие]Action.
+  - english: |
+       только бы/лишь бы/хоть бы (NP-Dat) Cop VP-Pfv.Inf
 examples:
+  - |
+       '[Мне]Participant  [только]только  [бы]бы  [показать]Action  ]NP-Dat_только_бы_VP-Inf кому-нибудь мои стихотворения, и я уверен, что это произведёт впечатление.'
 morphology:
   - NP
   - Dat
@@ -16,16 +22,21 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

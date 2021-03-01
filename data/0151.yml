@@ -3,7 +3,7 @@ record: 151
 name: 'как ни VP, (а) Cl'
 UD_name: 'как ни VP, (а) Cl'
 illustration: 'Как он ни старался, экзамен сдать не смог.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -12,16 +12,22 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Biclausal
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Part
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

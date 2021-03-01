@@ -1,7 +1,7 @@
 ---
 record: 1435
 name: 'за-Verb в NP-Acc/к NP-Dat (за NP-Ins)'
-UD_name: 'за-Verb в NP-Acc/к NP-Dat (за NP-Ins)'
+UD_name: 'за-V в NP-Acc/к NP-Dat (за NP-Ins)'
 illustration: 'По дороге домой я заехал в магазин за цветами.'
 cefr_level: 
 definitions:
@@ -15,16 +15,21 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Affix
+  - Word-Formation
 syntactic_structure_of_anchor:
-  - Verb
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

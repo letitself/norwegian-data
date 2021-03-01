@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает запрет на [некоторое действие]Action как выражение некоторого общего правила, принятого в обществе, в организации (например, в школе, в тюрьме) или в общественном месте (например, в парке) на официальном уровне. Действие может произойти после момента речи, и наложение запрета должно его предотвратить. Такой запрет часто соответствует правилам поведения лиц определенной организации (например, школы, рабочего предприятия) включая ограничения на внешний вид, правилам игры, правилам техники безопасности или рекомендациям врачей, связанным с ограничениями действий пациента по состоянию здоровья. Говорящий ссылается на более общую и высокую по статусу инстанцию или свои представления о том, как нужно себя вести. Правило действует для всех членов общества или для определенных групп людей (например, женщины, дети, студенты первого курса университета, заключенные в тюрьме и др.). Часто участник не упоминается. Если [участник]Participant назван, то он как правило представлен целой группой лиц, но может быть и отдельным лицом, в том числе и собеседником говорящего. Слот глагольной группы VP-Inf как правило заполняется глаголами несовершенного вида (Imp), но иногда можно встретить моментативные глаголы совершенного вида (Perf) типа допустить, позволить, оставить.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action omfattes av et forbud som gjenspeiler en allmenn regel i et samfunn, et land eller en organisasjon (f.eks. på en skole eller i et fengsel), eller en regel på offentlig sted (f.eks. i en park), vedtatt på offisielt nivå. Handlingen kan komme til å inntreffe etter taleøyeblikket, hvilket innføringen av forbudet skal forhindre. Slike forbud er ofte i tråd med atferdsreglementer på f.eks. skoler eller arbeidsplasser, herunder kleskoder, samt med spilleregler, regler om verneutstyr eller legens råd om å innskrenke en pasients handleevne av helsemessige årsaker. Taleren viser til en instans av mer allmenn gyldighet og høyere status, eller til sine egne forestillinger om god oppførsel. Regelen omfatter alle medlemmene av et samfunn eller bestemte grupper mennesker (f.eks. kvinner, barn, førsteårsstudenter, innsatte i fengsler o.a.). Ofte er ikke deltakeren nevnt. Når [deltakeren]Participant nevnes, er det oftest snakk om en hel gruppe mennesker, skjønt det også kan være en enkeltperson, herunder talerens samtalepartner. Sloten for verbalfrasen VP-Inf fylles som regel av verb av imperfektivt aspekt (Imp.), men momentative perfektive verb av typen 'допустить', 'позволить', 'оставить' forekommer også.
 examples:
   - |
        'А я не понимала ПОЧЕМУ нельзя [носить серьги]Action, каким образом серьги в моих ушах влияют на то КАК я учусь??? и бунтовала.'
@@ -29,15 +31,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pred
 semantic_roles:
   - Action
   - Participant
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

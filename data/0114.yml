@@ -3,7 +3,7 @@ record: 114
 name: 'довольно (PronPers-2.Dat) VP-Ipfv.Inf!'
 UD_name: 'довольно (PronPers-2.Dat) VP-Imp.Inf!'
 illustration: 'Довольно жаловаться!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -16,16 +16,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

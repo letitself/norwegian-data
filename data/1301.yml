@@ -3,24 +3,43 @@ record: 1301
 name: 'Cl с той целью, чтобы Cl'
 UD_name: 'Cl с той целью, чтобы Cl'
 illustration: 'Но упомянул это определение с той целью, чтобы вывести либералов на признание.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на [цель]Purpose, ради которой [участник]Agent совершает некоторое [действие]Action или происходит некоторая [ситуация]Situation. Конструкция может начинаться только с описания совершаемого действия и не может начинаться с описания цели.
 examples:
+  - |
+       'И письмо-то [написано]Action с той целью, чтобы [Вам как можно легче было уклониться]Purpose.'
+  - |
+       'Я подписывала какие-то бумаги, которые он мне подсовывал, но [я]Agent [делала это]Action вовсе не с той целью, чтобы [потом платить по ним]Purpose.'
+  - |
+       'Эта столь обычная у нас птица [была ввезена]Action в Соединённые Штаты намеренно с той целью, чтобы [она уничтожала там вредных насекомых]Purpose.'
+  - |
+       '[Картинам даются самые громкие названия]Situation, совершено не соответствующие их содержанию, исключительно с той целью, чтобы [сильнее привлечь к картине внимание]Purpose.'
+  - |
+       'Зуев заявил, что [он]Agent [намазался]Action с той целью, чтобы [его не никто не узнал]Purpose.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
-  - ~
+  - Agent
+  - Action
+  - Situation
+  - Purpose
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

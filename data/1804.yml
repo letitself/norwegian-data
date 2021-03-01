@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция выражает положительное отношение [участника]Participant к другому [участнику]Participant, [политической партии, общественному строю, идее]Theme или потенциальной [ситуации]Situation. Подразумевается, что есть ряд альтернатив, и участник ясно высказывает одобрение и поддержку одного из возможных вариантов или кандидатов.
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Participant positive holdning til en annen [deltaker]Participant, [et politisk parti, en samfunnsorden eller en ide]Theme, eller til en potensiell [situasjon]Situation. Det er underforstått at det finnes en rekke alternativer, og deltakeren gir klart uttrykk for sin anerkjennelse og støtte til en av de aktuelle valgmulighetene eller kandidatene.
 examples:
   - |
        '[Вы]Participant за [демократов]Theme или за [коммунистов]Theme, отвечайте…». Она: «За демократов!» Он: «Ну вот, ведь это смешно, смешно…».'
@@ -28,7 +30,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -38,6 +41,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. похожую конструкцию 43 NP-Nom Cop за то, чтобы Cl/VP-Inf (Я за то, чтобы ты у нас жил).'
 references:

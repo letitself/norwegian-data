@@ -3,24 +3,43 @@ record: 63
 name: 'вот бы Cl'
 UD_name: 'вот бы Cl'
 illustration: 'Вот бы мама испекла вкусный пирог!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает пожелание говорящего, чтобы [некоторая ситуация]Situation исполнилась в будущем. Может относиться как к реально возможным событиям, так и к неосуществимым.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       'Вот бы [такую таблетку изобрели, чтобы спать и не просыпаться]Situation.'
+  - |
+       'Я засыпаю и думаю, вот бы [приснилось, как мы все вместе приехали в деревню]Situation.'
+  - |
+       'Вот бы [вам с ним поговорить]Situation ― он такой умный, не как я!'
+  - |
+       'Вот бы [он спал]Situation, когда я приду.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

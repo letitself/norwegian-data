@@ -1,7 +1,7 @@
 ---
 record: 1607
 name: 'VP еже-Noun-но'
-UD_name: 'VP еже-N-но VP'
+UD_name: 'VP еже-N-но'
 illustration: 'Эта газета выходит ежедневно.'
 cefr_level: 
 definitions:
@@ -12,9 +12,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Word-Formation
+  - N
+  - A
 part_of_speech_of_anchor:
   - NA
 semantic_roles:
@@ -22,6 +23,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

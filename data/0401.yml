@@ -13,14 +13,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - PP
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Pron
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

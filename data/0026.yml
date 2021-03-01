@@ -1,30 +1,44 @@
 ---
 record: 26
-name: '(NP-Nom) только что VP-Pfv.Pst'
-UD_name: '(NP-Nom) только что VP-Perf.Past'
+name: 'только что VP-Pfv.Pst'
+UD_name: 'только что VP-Perf.Past'
 illustration: 'Вася только что принес деньги.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает [действие]Action [участника]Participant, которое произошло в ближайшем прошедшем времени. Говорящий оценивает результат этого действия.
+  - english: |
+       This construction is used to express a [participant's]Participant [action]Action that has just recently taken place. The speaker evaluates the result of this action.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       'На кухне ужинал Олег. Видимо, только что [вернулся с работы]Action.'
+  - |
+       '[Министр образования]Participant только что [объявил о том]Action, что конкурс на получение стипендии будет проведён 27 марта.'
+  - |
+       'Только что [посмотрели в кинотеатре фильм Чарли Чаплина]Action. Два часа подряд! Какой восторг!'
 morphology:
-  - NP
-  - Nom
   - VP
   - Pfv
   - Pst
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

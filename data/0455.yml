@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция выражает отношение [участника]Participant к совершению им некоторого [действия]Action. Участник поддерживает действие, согласен его выполнить, его отношение положительное, но достаточно умеренное. Слот VP может заполняться глаголами обоих видов.
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Participant holdning til å utføre en gitt [handling]Action. Deltakeren støtter handlingen, går med på å utføre den og forholder seg positivt til den, men bare måtelig. Sloten VP kan fylles av verb av begge aspekter.
 examples:
   - |
        'Я познакомился с ней как-то в октябрьский денёк: на дачный участок она приехала не одна, а со своей внучкой. [Она]Participant  была не против [помочь бабушке]Action.'
@@ -29,17 +31,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pred
 semantic_roles:
   - Participant
   - Action
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj NP] [advmod не] против]; [root [nsubj я] [advmod не] против]'
+dependency_structure:
+  - '[root [nsubj NP] [advmod не] против]'
+  - '[root [nsubj я] [advmod не] против]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции 1802, 1803.'
 references:

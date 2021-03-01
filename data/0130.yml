@@ -3,7 +3,7 @@ record: 130
 name: 'NP-Nom за-Verb VP-Pfv.Inf'
 UD_name: 'NP-Nom за-V VP-Perf.Inf'
 illustration: 'Я зашел поговорить.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -14,18 +14,24 @@ morphology:
   - Pfv
   - Inf
 syntactic_type_of_construction:
-  - Predicate Argument Construction
+  - Matrix Predicate Construction
 syntactic_function_of_anchor:
-  - Affix
+  - Word-Formation
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Verb
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - NA
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

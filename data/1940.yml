@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что человек совершает некоторое [действие]Action, используя не свое настоящее имя, а [вымышленное]Property. Чаще всего деятельность человека связана с искусством, прежде всего с литературным творчеством.
+  - norwegian: |
+       Konstruksjonen betyr at et menneske under utførelsen av [en handling]Action bruker [et oppdiktet navn]Property i stedet for sitt rette. Som oftest er personen engasjert i kunstnerisk arbeid, først og fremst forfattervirksomhet.
 examples:
   - |
        'Никакая же не новость, что она [печатается]Action под псевдонимом. Анжела Анцуп гораздо звучнее, чем Евгения Ильинична Анциферова.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

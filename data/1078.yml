@@ -3,15 +3,27 @@ record: 1078
 name: 'VP из угла в угол'
 UD_name: 'VP из угла в угол'
 illustration: 'Он ходил из угла в угол.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Agent хаотично [передвигается]Action по помещению, в котором он находится: его передвижение ненаправленно и не имеет цели, как если бы он ходил от одного угла помещения к другому.
 examples:
+  - |
+       'Но [она]Agent весь вечер [слонялась]Action из угла в угол как не своя.'
+  - |
+       '[Петя]Agent тяжело вздохнул, встал, [походил]Action из угла в угол и снова сел.'
+  - |
+       'Во время обеденного перерыва [Петя]Agent не пошёл в столовую, [шагал]Action из угла в угол по своему кабинету.'
+  - |
+       'По одной из комнат часами [ходил]Action из угла в угол [Холодилов]Agent , обдумывая свое рискованное предприятие.'
+  - |
+       '[Аня]Agent вертела что-то в руках, [двигалась]Action из угла в угол и всё не могла остановиться, словно сверкающая птичка по весне.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Reduplication
@@ -19,10 +31,17 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Agent
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. синонимичную конструкцию 1748 VP туда-сюда (Собака бегала туда-сюда.)'
 references:
   - |
     ""

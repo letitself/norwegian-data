@@ -3,11 +3,15 @@ record: 158
 name: 'какое NP-Dat дело Cop до NP-Gen'
 UD_name: 'какое NP-Dat дело Cop до NP-Gen'
 illustration: 'В конце концов, какое ей дело до его отношений с Ритой!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. не суй нос
+       Конструкция содержит риторический вопрос и употребляется, когда говорящий считает, что другой [участник]Experiencer не должен вмешиваться в определенную [ситуацию или проблему]Theme.
 examples:
+  - |
+       'Какое [ему]Experiencer дело до [моей сестры]Theme? У него своя жизнь, у нас своя.'
+  - |
+       'Глупая, нахальная девчонка. Какое  [ей]Experiencer дело до [научных исследований!]Theme'
 morphology:
   - NP
   - Dat
@@ -18,15 +22,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Adj
+  - Noun
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

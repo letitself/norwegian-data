@@ -1,12 +1,14 @@
 ---
 record: 2031
 name: 'NP/VP без учёта NP-Gen'
-UD_name: 'NP/VP без учета NP-Gen'
+UD_name: 'NP/VP без учёта NP-Gen'
 illustration: 'Средний счет в этом ресторане, без учета алкоголя, две тысячи рублей.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что при подсчёте [количества]Quantity или принятии [решения]Result исключается некоторая [часть или фактор]Element. [Часть]Element, которую говорящий исключает, отличается от других [частей]Element по какому-либо признаку, а [фактор]Element важен, но препятствует принятию [решения]Result.
+  - norwegian: |
+       Konstruksjonen betyr at [en del eller en faktor]Element utelates når [en mengde]Quantity telles opp eller [en beslutning]Result skal tas. [Den delen]Element taleren utelater, har et kjennetegn som skiller den fra de øvrige [delene]Element, og [faktoren]Element er viktig, men til hinder for at [beslutningen]Result kan tas.
 examples:
   - |
        '[Вес]Quantity на коробке конфет [указан]Result без учёта [упаковки]Element.'
@@ -19,11 +21,13 @@ examples:
   - |
        'Меню [было составлено]Result без учёта [индивидуальных предпочтений каждого гостя]Element.'
 morphology:
-  - ~
+  - VP
+  - NP
+  - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -36,6 +40,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции 1902 - не считая (синоним), 2030 - за вычетом, 2058 - если не считать'
 references:

@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое действие]Action нужно начинать с начала, заново, не имея предварительной подготовки, капитала, начальных ресурсов, которые могли бы облегчить процесс.
+  - norwegian: |
+       Konstruksjonen betyr at det er nødvendig å sette i gang [en handling]Action helt fra starten, på nytt igjen, uten foranstaltninger, kapital eller startmidler som ville gjort prosessen lettere.
 examples:
   - |
        'Для подготовки конференции каждый год нужно всё [начинать]Action с нуля: приглашать докладчиков, изыскивать возможности выпускать сборник.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -36,6 +38,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

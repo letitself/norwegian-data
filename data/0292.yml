@@ -6,9 +6,7 @@ illustration: 'Руки не доходят крышу починить.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что у [участника]Experiencer нет времени, чтобы совершить некоторое нужное [действие]Action или заняться [важным делом или вопросом]Theme. Подразумевается, что участник планирует или хочет совершить это действие уже длительное время, но пока ему не удалось осуществить свои планы, потому что он был занят другими делами. С помощью этой конструкции участник частично снимает с себя ответственность за свое промедление, перекладывая ее на объективные причины, не зависящие от него (прежде всего недостаток времени). В слове "руки" ударение стоит на первом слоге, это форма множественного числа.
-  - english: |
-       This construction expresses that the participant does not have the time or capacity to [do something]Action, e.g. крышу починить ‘fix the roof’.
+       Конструкция обозначает, что у [участника]Experiencer нет времени, чтобы совершить некоторое нужное [действие]Action или заняться [важным делом или вопросом]Theme. Подразумевается, что участник планирует или хочет совершить это действие уже длительное время, но пока ему не удалось осуществить свои планы, потому что он был занят другими делами. Как если бы руки могли ходить, как ноги, но еще не успели "дойти" до важных дел. С помощью этой конструкции участник частично снимает с себя ответственность за свое промедление, перекладывая ее на объективные причины, не зависящие от него, прежде всего недостаток времени. В слове "руки" ударение стоит на первом слоге, это форма множественного числа.
   - norwegian: |
        Konstruksjonen betyr at deltageren ikke har tid eller kapasitet til å [gjøre noe]Action, f.eks. крышу починить ‘reparere taket’. Nærliggende konstruksjoner i norsk er ‘rekker ikke’, ‘har ikke tid til å’ og ‘tiden strekker ikke til’.
 examples:
@@ -30,18 +28,24 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Noun
+  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [nsubj руки] [advmod не] доходят [advcl Cl]; [root [nsubj руки] [advmod не] доходят [xcomp [obl крышу] починить]]'
+dependency_structure:
+  - '[root [nsubj руки] [advmod не] доходят [advcl Cl]'
+  - '[root [nsubj руки] [advmod не] доходят [xcomp [obl крышу] починить]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

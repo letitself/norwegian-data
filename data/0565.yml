@@ -1,7 +1,7 @@
 ---
 record: 565
 name: 'NP-Nom умудриться/ухитриться VP-Inf'
-UD_name: 'умудриться/ухитриться VP-Inf'
+UD_name: 'NP-Nom умудриться/ухитриться VP-Inf'
 illustration: 'Он умудрился упасть.'
 cefr_level: 
 definitions:
@@ -14,16 +14,21 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

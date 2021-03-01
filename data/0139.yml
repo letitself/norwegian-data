@@ -3,7 +3,7 @@ record: 139
 name: 'каждый/всякий раз VP, (когда/как Cl)'
 UD_name: 'каждый/всякий раз VP, (когда/как Cl)'
 illustration: 'Каждый раз улыбаюсь, когда вижу её.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -12,16 +12,23 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Biclausal
+  - Modifier
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal Pattern
 part_of_speech_of_anchor:
-  - ~
+  - Adj
+  - Noun
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

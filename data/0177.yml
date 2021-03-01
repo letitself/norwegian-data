@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция используется, когда говорящий побуждает [собеседника]Participant прекратить выполнять [некоторое действие]Action, которое происходит в данный момент. Говорящий оценивает это действие отрицательно, подвергает критике, потому что, с его точки зрения, у действия нет серьезных оснований. Как правило, речь идет о негативном и неуместном поведении (врать, прикидываться, язвить, геройствовать, оправдываться, ныть, спорить и др.). Иногда речь идет о положительном или нейтральном действии, которое в данной ситуации интерпретируется как неуместное (пример 5). Побуждение может быть обращено к одному лицу (примеры 4, 5) или к группе лиц, которая не включает самого говорящего (примеры 1, 2, 3). Конструкция подразумевает отсутствие социальной иерархии между говорящим и собеседником и произносится в дружеском тоне.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren anmoder [samtalepartneren]Participant om å slutte å utføre en pågående [handling]Action. Taleren vurderer handlingen negativt og kritiserer den for ikke å være tilstrekkelig velbegrunnet. Det dreier seg vanligvis om dårlig og upassende atferd (lyve, forstille seg, syte, krangle osv.). Av og til er det tale om en positiv eller nøytral handling som i gitte situasjon oppfattes som upassende (eksempel 5). Anmodningen kan være rettet til én person (eksempel 4 og 5) eller til en gruppe personer som ikke inkluderer taleren (eksempel 1, 2 og 3). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
 examples:
   - |
        '― Да ладно [вам]Participant [охать-ахать]Action, ничего особенно трагического не произошло, а травма у него символическая.'
@@ -28,19 +30,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pred
 semantic_roles:
   - Participant
   - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root ладно [obl Pron-2.Dat] [csubj VP-Inf]]; [root ладно [obl вам] [csubj спорить]]'
+dependency_structure:
+  - '[root ладно [obl Pron-2.Dat] [csubj VP-Inf]]'
+  - '[root ладно [obl вам] [csubj спорить]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно, и глаголы, обозначающие неуместное действие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
 references:

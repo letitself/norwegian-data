@@ -3,9 +3,21 @@ record: 2012
 name: 'VP на NP-Loc'
 UD_name: 'VP на NP-Loc'
 illustration: 'До библиотеки можно добраться на троллейбусе или на автобусе.'
-cefr_level: 
+cefr_level: А1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник [перемещается]Action в пространстве с помощью [транспортного средства]Theme (по земле, по воде или по воздуху).
 examples:
+  - |
+       '–  Я в гимназии учусь, можно на [автобусе]Theme две остановки [проехать]Action, а можно через парк пешком пройти.'
+  - |
+       'Туда надо было [ехать]Action на [машине]Theme 40 километров.'
+  - |
+       'Ему тридцать семь лет, он на [лыжах]Theme [бегает]Action, как эскимос, а на [велосипеде]Theme [гоняет]Action по шоссе ― как истинный гонщик.'
+  - |
+       'Они долго [ехали]Action на [метро]Theme, потом на [троллейбусе]Theme.'
+  - |
+       'Она долго думала, как лучше [добираться]Action ― на [самолете]Theme или на [корабле]Theme.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожую по значению конструкцию 1980 NP-Nom добираться/ехать/лететь NP-Ins (Из Варшавы в Москву нужно ехать поездом всю ночь). Не путать с конструкцией 1978 VP на NP-Loc (Считать на калькуляторе).'
 references:
   - |
     ""

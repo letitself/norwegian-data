@@ -1,7 +1,7 @@
 ---
 record: 225
-name: 'неужели/неужто (не) VP'
-UD_name: 'неужели/неужто (не) VP'
+name: 'неужели/неужто (не) VP?'
+UD_name: 'неужели/неужто (не) VP?'
 illustration: 'Неужели он отказался помочь?'
 cefr_level: 
 definitions:
@@ -11,17 +11,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - Adv
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

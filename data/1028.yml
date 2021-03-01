@@ -3,25 +3,46 @@ record: 1028
 name: 'VP за глаза'
 UD_name: 'VP за глаза'
 illustration: 'Он за глаза называет ее глупой.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на то, что [некоторый участник]Speaker [говорит]Action о [другом участнике]Maleficiary, когда он не слышит. Как правило, [информация]Content, которую сообщает говорящий, неприятная для участника, и [говорящий]Speaker не хотел бы, чтобы [он]Maleficiary, услышал её.
 examples:
+  - |
+       '[Студенты]Speaker за глаза [дразнили]Action [его]Maleficiary ["живчиком"]Content.'
+  - |
+       'Сейчас мне стыдно, что за глаза [я]Speaker нередко [посмеивался]Action над [ним]Maleficiary.'
+  - |
+       'Если она мне такое в лицо говорит ― то [что]Content же [она]Speaker [говорит]Action про [меня]Maleficiary за глаза!'
+  - |
+       '[Продавщицы]Speaker только тем и занимались, что за глаза [перемывали]Action [Нине]Maleficiary косточки.'
+  - |
+       '[Соседи]Speaker сразу же стали [ее]Maleficiary за глаза [звать]Action [буржуйкой]Content.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Speaker
+  - Action
+  - Maleficiary
+  - Content
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. синонимичную конструкцию 1037 VP за спиной (у NP-Gen) (Он обсуждал проект за спиной у руководителя.) и антонимичную конструкцию 767 VP в лоб (Он спросил его в лоб: "Где деньги?")'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

@@ -1,7 +1,7 @@
 ---
 record: 2156
 name: 'не VP-Pfv.Pst бы (NP-Nom)!'
-UD_name: 'не VP-Past.Perf бы (NP-Nom)!'
+UD_name: 'не VP-Perf.Past бы (NP-Nom)!'
 illustration: 'Не опоздал бы он!'
 cefr_level: 
 definitions:
@@ -15,16 +15,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

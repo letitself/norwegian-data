@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий предлагает некоторые [действия]Action (которые осуществит он сам, собеседник или другой участник) и спрашивает согласия и разрешения [собеседника]Participant на эти действия. Подразумевается, что эти действия в интересах собеседника и что отношение собеседника к ним будет положительным. В редких случаях говорящий обращается не к непосредственному собеседнику, а к другому участнику (пример 2).
+  - norwegian: |
+       Konstruksjonen betyr at taleren foreslår visse [handlinger]Action (som taleren selv, samtalepartneren eller en annen deltaker skal utføre) og ber om [samtalepartnerens]Participant samtykke og tillatelse til disse handlingene. Det er underforstått at handlingene er i samtalepartnerens interesse og at samtalepartnerens holdning til dem vil være positiv. I sjeldne tilfeller henvender taleren seg ikke til samtalepartneren, men til en annen deltaker (eksempel 2).
 examples:
   - |
        'А [снова встретимся, скажем, завтра,]Action если [вам]Participant будет угодно.'
@@ -29,15 +31,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Praedic
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Pred
 semantic_roles:
   - Action
   - Participant
 intonation:
   - ~
 usage_label: Obsolete
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию 1017 если хотеть-Prs.2 VP-Inf, VP-Imp (Если хочешь идти, иди).'
 references:

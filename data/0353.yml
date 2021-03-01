@@ -2,12 +2,24 @@
 record: 353
 name: 'чего (это) NP-Nom VP?'
 UD_name: 'чего (это) NP-Nom VP?'
-illustration: 'Чего лежишь?'
-cefr_level: 
+illustration: 'Чего это ты лежишь?'
+cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется, когда говорящий спрашивает участника ситуации о причине его [действия]Action. Слово «чего» синонимично словам «почему» и «зачем». Similar to 366 Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство
+       Конструкция используется говорящим для выражения недоумения и нередко также недовольства. Говорящий не понимает, почему [участник]Participant выполняет (или выполнил) [некоторое действие]Action. Говорящий считает, что таких причин нет. Конструкция часто передает недовольство говорящего сложившейся ситуацией, его неодобрение действий или бездействия участника. Участник часто формально не выражен, так как понятен из контекста. Участником может быть и сам [говорящий]Speaker (пример 4). Слово "чего" в данном случае означает 'почему?', 'зачем?'
+  - norwegian: |
+       Konstruksjonen kan oversettes med ‘hvorfor’ og er derfor et nærsynonym til почему ‘hvorfor’ og зачем ‘hvorfor’. Til forskjell fra konstruksjonene med почему og зачем, brukes ofte konstruksjonen med чего som et retorisk spørsmål i situasjoner hvor taleren mener adressaten bør holde opp med [det de gjør]Action.
 examples:
+  - |
+       'Чего [разоралась]Action? Я тут совсем ни при чём.'
+  - |
+       '[Ты]Participant чего это [молчишь]Action?'
+  - |
+       'Чего [загрустил]Action?'
+  - |
+       '― Чего это [я]Speaker [болтаю всякую ерунду]Action? И сам же ответил: ― Потому что настроение хорошее!'
+  - |
+       'Чего это [он]Participant [меня испугался]Action? ― подумал Ослик.'
 morphology:
   - NP
   - Nom
@@ -15,18 +27,27 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
 syntactic_structure_of_anchor:
+  - N
+  - A
+part_of_speech_of_anchor:
   - Adv
   - Pron
-part_of_speech_of_anchor:
-  - ~
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Speaker
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию  366.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

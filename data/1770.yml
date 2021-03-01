@@ -1,7 +1,7 @@
 ---
 record: 1770
 name: 'ещё бы PronPers-Dat не Verb-Inf, Cl!'
-UD_name: 'ещё бы Pron-Dat не V-Inf, Cl!'
+UD_name: 'ещё бы PronPers-Dat не V-Inf, Cl!'
 illustration: 'Ещё бы им не любить работу, когда они выросли в деревне!'
 cefr_level: 
 definitions:
@@ -15,16 +15,22 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Part
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

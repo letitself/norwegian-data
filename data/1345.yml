@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation длится очень долгое время (как если бы она происходила еще в древнем мире) и актуальна до сих пор.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation har pågått i svært lang tid (som om den pågikk allerede i oldtiden) og fremdeles er aktuell.
 examples:
   - |
        '[Ассоциативные процессы как феномен психики изучали]Situation с древности.'
@@ -23,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -35,8 +37,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    'To be added'
+dependency_structure:
+  - 'To be added'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции VP с древних/незапамятных времен (Они с древних времен верили, что магия существует), VP с давних пор (С давних пор люди придавали цвету особое значение).'
 references:

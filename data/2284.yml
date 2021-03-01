@@ -1,7 +1,7 @@
 ---
 record: 2284
 name: '(а) (PronPers-Dat) почём Cop знать, (Sconj) Cl?'
-UD_name: '(а) (PronPers-Dat) почём Cop знать, Cl?'
+UD_name: '(а) (PronPers-Dat) почём Cop знать, (SCONJ) Cl?'
 illustration: 'Почём мне было знать, когда ты вернёшься.'
 cefr_level: 
 definitions:
@@ -15,16 +15,23 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
+  - Discourse Particle
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Adv
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

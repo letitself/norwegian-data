@@ -1,17 +1,29 @@
 ---
 record: 872
 name: 'VP во все глаза'
-UD_name: 'во все глаза VP'
+UD_name: 'VP во все глаза'
 illustration: 'Смотри во все глаза, чтобы никто не прошёл!'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция указывает на максимальную степень интенсивности признака или действия. Конструкция обозначает, что [некоторый участник]Participant [смотрит]Action на [объект]Theme с большим вниманием, очень пристально.
 examples:
+  - |
+       '[Сын]Participant с любопытством [глядел]Action во все глаза на [действия папы]Theme.'
+  - |
+       'А [она]Participant стоит и [смотрит]Action на [меня]Theme во все глаза.'
+  - |
+       '[Я]Participant во все глаза [уставился]Action на [нее]Theme.'
+  - |
+       '[Какая-то старуха]Participant [глазела]Action на [него]Theme во все глаза.'
+  - |
+       '[Толпа]Participant во все глаза [разглядывала]Action [принцессу]Theme.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -19,10 +31,16 @@ part_of_speech_of_anchor:
   - Noun
   - Pron
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

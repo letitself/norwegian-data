@@ -1,7 +1,7 @@
 ---
 record: 1755
 name: 'а вот это PronPers зря: (Cl)'
-UD_name: 'а вот это Pron зря: (Cl)'
+UD_name: 'а вот это PronPers зря: (Cl)'
 illustration: 'Я разволновалась. –  А вот это зря. Плохой начальник – не повод для волнений.'
 cefr_level: 
 definitions:
@@ -12,16 +12,23 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Biclausal
+  - Discourse Particle
+  - Praedicative Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Pron
+  - Pred
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,29 +1,36 @@
 ---
 record: 132
-name: 'NP-Nom знать NP-Gen по NP-Dat'
-UD_name: 'NP-Nom знать NP-Gen по NP-Dat'
+name: 'NP-Nom знать NP-Acc по NP-Dat'
+UD_name: 'NP-Nom знать NP-Acc по NP-Dat'
 illustration: 'Он знал актера по фильмам.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
   - NP
   - Nom
-  - Gen
+  - Acc
   - Dat
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
+  - Government
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Veb
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

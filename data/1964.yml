@@ -18,12 +18,17 @@ syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
-  - Noun; Pron
+  - Noun
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

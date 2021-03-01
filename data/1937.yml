@@ -1,7 +1,7 @@
 ---
 record: 1937
 name: 'как PronPers-Acc Cop по NP-Dat (звать)?'
-UD_name: 'как Pron-Acc Cop по NP-Dat (звать)?'
+UD_name: 'как PronPers-Acc Cop по NP-Dat (звать)?'
 illustration: 'Как вас по отчеству? Сергеевич?'
 cefr_level: 
 definitions:
@@ -15,9 +15,13 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
+  - Modifier
   - Praedicаtive Expression
+  - Verb Predicate
+  - Government
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
   - Pron
@@ -27,6 +31,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -11,16 +11,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Conj
+  - Coordinator
 syntactic_structure_of_anchor:
-  - Conj
+  - Adv
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Part
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

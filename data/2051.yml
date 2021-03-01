@@ -1,7 +1,7 @@
 ---
 record: 2051
 name: 'NP-Nom пользоваться услугами NP-Gen'
-UD_name: 'пользоваться услугами NP-Gen'
+UD_name: 'NP-Nom пользоваться услугами NP-Gen'
 illustration: 'Если детей не с кем оставить, мама может воспользоваться услугами няни  .'
 cefr_level: 
 definitions:
@@ -13,16 +13,22 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
+  - Government
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Таким квантом представляется греческая буква йота, соответствующая латинской букве "i", которая кажется очень маленькой по размеру, если сравнивать с остальными.
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og uttrykker en kategorisk (fullstendig) avvisning av [en handling]Action ved å avvise dens minste bestanddel. En slik bestanddel kan være den greske bokstaven jota, analog med den latinske 'i', som virker svært liten, sammenliknet med de øvrige.
 examples:
   - |
        'При этом ритуал знакомства с женихом ни на йоту не [пострадал]Action.'
@@ -23,9 +25,8 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - PP
   - Double Negation
 part_of_speech_of_anchor:
   - Prep
@@ -36,8 +37,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    'To be added'
+dependency_structure:
+  - 'To be added'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции ничуть не VP, нисколько не VP, ни на грамм не VP'
 references:

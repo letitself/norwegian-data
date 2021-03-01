@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий вежливо просит собеседника выполнить некоторое [действие]Activity. Конструкция устарела, поэтому она имеет особую стилистическую окраску: употребляется для того, чтобы обозначить высокий стиль, либо для выражения иронии.
+  - norwegian: |
+       Konstruksjonen betyr at taleren høflig ber samtalepartneren utføre en gitt [handling]Activity. Konstruksjonen er foreldet og har derfor et spesielt stilpreg. Den brukes til å markere høyt stilnivå eller for å uttrykke ironi.
 examples:
   - |
        'Пожалуйста, соблаговолите [пройти]Action, не задерживайтесь…'
@@ -25,18 +27,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
 intonation:
   - Exclamatory
 usage_label: Obsolete
-structure_in_ud: |
-    '[благоволите[VP-Inf]]'
+dependency_structure:
+  - '[благоволите[VP-Inf]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

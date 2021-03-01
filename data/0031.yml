@@ -3,9 +3,17 @@ record: 31
 name: 'ах PronPers-Nom NP-Nom!'
 UD_name: 'ах PronPers-Nom NP-Nom!'
 illustration: 'Ах ты подлец!'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция используется для выражения экспрессивной [качественной оценки]Evaluation [адресата]Participant. Чаще всего это негативная оценка, но возможна и положительная.
 examples:
+  - |
+       '― Андрей, я ничего не понимаю! ― Ах [ты]Participant [мерзавец]Evaluation! ― замахнулась на него кружкой Ирина.'
+  - |
+       '«Дядь, дай рубль на хлеб!» Я думаю: ах [ты]Participant [наглец]Evaluation!'
+  - |
+       '― Ах ты! Ах [ты]Participant [умница]Evaluation! ― громко радовался и удивлялся Воскобоев.'
 morphology:
   - PronPers
   - Nom
@@ -13,16 +21,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Intj
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

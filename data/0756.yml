@@ -3,26 +3,43 @@ record: 756
 name: 'VP в двух словах'
 UD_name: 'VP в двух словах'
 illustration: 'Он в двух словах рассказал про свою книгу.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [говорящий]Speaker говорит о [чём-либо]Theme кратко и по сути, без лишних деталей. Как если бы можно было использовать только два слова.
 examples:
+  - |
+       '[Ученик]Speaker напомнил [содержание «Войны и мира»]Theme в двух словах.'
+  - |
+       '[Кто]Speaker расскажет мне в двух словах [об этом проекте]Theme?'
+  - |
+       'Но в двух словах, чтобы объясниться, все [я]Speaker же опишу [ситуацию]Theme.'
+  - |
+       '[Я]Speaker напомню в двух словах, [что происходит]Theme.'
+  - |
+       'В двух словах [Миша]Speaker рассказал, [как болел гриппом]Theme, и как Света делала ему уколы.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
-  - NumCrd
+  - Num
 semantic_roles:
-  - ~
+  - Speaker
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

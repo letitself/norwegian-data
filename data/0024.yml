@@ -3,9 +3,21 @@ record: 24
 name: '(NP-Dat) VP-Inf Cop некуда'
 UD_name: '(NP-Dat) VP-Inf Cop некуда'
 illustration: 'Дальше идти некуда.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что нет такого места, куда бы можно было [пойти]Action или [поместить]Action что-либо. "Некуда" может как предшествовать глаголу, так и следовать за глаголом.
+  - english: |
+       This construction means that the dative subject has nowhere to [go]Action or [put]Action something. The dative subject can be implicit. Некуда ‘nowhere’ is positioned either before or after the verb.
+  - norwegian: |
+       Konstruksjonen forteller at dativsubjektet ikke har noe sted å [gå til]Action eller [plassere]Action noe. Dativsubjektet kan være implisitt. Некуда ‘nowhere’ står enten før eller etter verbet.
 examples:
+  - |
+       'Мне некуда [идти.]Action'
+  - |
+       '[Возвращаться]Action некуда. Остаётся вот этот пустой дом, затерянный в снегах.'
+  - |
+       'А бытовая необходимость: некуда было [уложить]Action трёх детей.'
 morphology:
   - NP
   - Dat
@@ -18,17 +30,20 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
-  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "ссылка на иомдина"
 semantic_types:
   - type: Non-existence
     subtypes:

@@ -1,28 +1,43 @@
 ---
 record: 29
 name: 'абы PronInt'
-UD_name: 'абы SCONJ'
+UD_name: 'абы PronInt'
 illustration: 'Он делал работу хорошо, а не абы как.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Indifference to norms/expectations (как попало) Quality Конструкция используется для того, чтобы показать, что собеседник слишком мало внимания уделяет [некоторому объекту]Actant, [времени]Actant, [месту]Actant или [образу действия]Actant . Говорящий противопоставляет прототипическое представление об этих ситуациях реальным. Негативная оценка.
+       Конструкция используется для того, чтобы показать, что собеседник слишком мало внимания уделяет [некоторому объекту]Actant, [времени]Actant, [месту]Actant или [образу действия]Actant . Говорящий противопоставляет прототипическое представление об этих ситуациях реальным. Негативная оценка. комментарий ndifference to norms/expectations (как попало) Quality Он любил читать, да не абы что, а стихи и философскую литературу. означает неважно, безразлично, все равно. Абы как без старания и тщания; без заинтересованности в качественном результате; не добросовестно, не аккуратно, лишь бы поскорее Удивительное дело, но эта топорная вещь, сработанная грубо и абы как, за долгие годы не то что не износилась, а вроде бы стала крепче.
+  - english: |
+       This construction compares a real action with [one]Actant that involves a low standard by means of the phrase абы как. To illustrate, Он любил читать, да не абы что, а стихи и философскую литературу ‘He liked to read, but not [anything]Actant, only poetry and philosophical writings’ means that the subject only reads poetry and philosophical writings (standard) as opposed to абы что ‘any (type of literature)’ (low standard).
+  - norwegian: |
+       Ved hjelp av абы как sammenligner konstruksjonen en virkelig handling som innebærer en viss standard, med [en tilsvarende handling som innebærer en lav standard]Actant. I setningen Он любил читать, да не абы что, а стихи и философскую литературу ‘Han likte å lese, men ikke [hva som helst]Actant, bare dikt og filosofi’ understrekes det at subjektet kun leser poesi og filosofiske tekster (standard) i motsetning til не абы что ‘hva som helst’ (ingen standard).
 examples:
+  - |
+       'Всех наша мамочка учила относиться к делу не абы [как]Actant, а с полной ответственностью.'
+  - |
+       'Он любил читать, да не абы [что]Actant, а стихи и философскую литературу.'
+  - |
+       'Здесь ведь жили даже рыцари, а до того, как попасть на этот остров, они поездили по миру, многое повидали и абы [где]Actant останавливаться бы не стали.'
 morphology:
   - PronInt
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

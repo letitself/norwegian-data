@@ -3,7 +3,7 @@ record: 74
 name: 'время NP-Gen (не) пришло'
 UD_name: 'время NP-Gen (не) пришло'
 illustration: 'Время серьезного разговора пришло.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -12,16 +12,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Subject
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb Pattern
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

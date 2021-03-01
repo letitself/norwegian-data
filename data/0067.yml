@@ -1,31 +1,54 @@
 ---
 record: 67
-name: 'вот уже NumCrd-Nom NP-Gen Cop как Cl'
-UD_name: 'вот уже Num-Nom NP-Gen Cop как Cl'
+name: 'вот уже (NumCrd-Nom/NumCrd-Acc) NP Cop как Cl/NP-Nom вот уже (NumCrd-Acc) NP как XP'
+UD_name: 'вот уже (NumCrd-Nom/NumCrd-Acc) NP Cop как Cl/NP-Nom вот уже (NumCrd-Acc) NP как XP'
 illustration: 'Вот уже три месяца как она уехала.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы акцентировать внимание на [времени]Time, которое прошло с [некоторого важного события]Event в жизни участников. Как правило, речь идет о длинном промежутке времени, в течение которого продолжается наступившая ситуация. Эффект действия или ситуации как правило актуален в момент речи.
+  - english: |
+       Тенденция употребляеться с круглыми датами. Вот уже неделя как , неделю как я брожу без дела. Номинатив, Аккузатив, Генитив. Связка как оправило н вастоящем времени. Подчинение, связка. Вот уже неделю как
 examples:
+  - |
+       'А я [два]Quantity [года]Time как [университет окончила]Action.'
+  - |
+       'Он всё равно лучший из всех людей. Несмотря на то что мы [десять]Quantity [лет]Time как [в разводе]Situation.'
+  - |
+       'У меня к тому времени уже [пять]Time [лет]Theme как [была своя фирма]Situation.'
+  - |
+       '– Это наш главный, Альберт Аркадьевич, – сказала Ева, – неужели не слышали? – Не слышал, я всего [три]Quantity [часа]Time как [приехал из-за границы]Action, – сказал пришедший.'
+  - |
+       'Самолет до Саратова уже [год]Time как [отменили]Action.'
 morphology:
   - NumCrd
   - Nom
   - NP
-  - Gen
   - Cop
   - Cl
 syntactic_type_of_construction:
   - Copula Construction
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Conj
 semantic_roles:
-  - ~
+  - Quantity
+  - Time
+  - Action
+  - Situation
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

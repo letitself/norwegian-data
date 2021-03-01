@@ -3,9 +3,21 @@ record: 713
 name: 'VP без ведома NP-Gen'
 UD_name: 'VP без ведома NP-Gen'
 illustration: 'Без ведома жены он отнес деньги в казино.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Participant совершает некоторое [действие]Action, о котором [другой участник]Beneficiary не знает. Совершаемое [действие]Action касается [второго участника]Beneficiary, но он, скорее всего, не одобрил бы это [действие]Action, если бы знал о нём. Часто этот участник находится выше в иерархии (семейной, рабочей или социальной), чем первый.
 examples:
+  - |
+       '[Он]Participant [опубликовал книгу]Action без ведома [автора]Beneficiary.'
+  - |
+       '[Никто]Participant не мог это [сделать]Action без ведома [президента]Beneficiary'
+  - |
+       '[Он]Participant не мог [уйти с работы]Action без ведома [начальника]Beneficiary.'
+  - |
+       '[Я]Participant не могу [принимать это лекарство]Action без ведома [врача]Beneficiary.'
+  - |
+       'Это была интересная деталь: чужую вещь [дикари]Participant [дарили]Action без ведома [хозяина]Beneficiary.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Beneficiary
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

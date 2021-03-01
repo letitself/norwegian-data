@@ -1,9 +1,9 @@
 ---
 record: 118
-name: 'едва (ли) не ХP'
-UD_name: 'едва (ли) не ХP'
+name: 'едва (ли) не XP'
+UD_name: 'едва (ли) не XP'
 illustration: 'Актёр едва ли не упал перед зрителями.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -11,16 +11,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Part
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

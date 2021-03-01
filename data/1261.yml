@@ -3,9 +3,23 @@ record: 1261
 name: 'VP по причине NP-Gen'
 UD_name: 'VP по причине NP-Gen'
 illustration: 'Ребёнок не пришел в школу по причине плохого самочувствия.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает [причину]Cause некоторого нежелательного [действия]Action или [ситуации]Situation.
+  - english: |
+       Заменить VP на Cl
 examples:
+  - |
+       'Специалисты утверждают, что мужчины склонны [закурить]Action по причине [усталости]Cause, [скуки]Cause, а женщины быстрее начинают курить в ответ на стресс.'
+  - |
+       'Пожар [возник]Action по причине [неисправной проводки]Cause. Никто не виноват.'
+  - |
+       'Пиджак, [снятый]Action по причине [жары]Action, он оставил в такси, которое уехало.'
+  - |
+       'И стала Клавдия Петровна брать уроки музыки частным образом, потому что в музыкальную школу ее по причине [возраста]Cause уже [не брали]Action.'
+  - |
+       'Я сел на скамейку и подумал: а что если она [делает это]Action не только по причине [своего легкомыслия]Cause и [неумения следить за временем]Cause?'
 morphology:
   - VP
   - NP
@@ -13,17 +27,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

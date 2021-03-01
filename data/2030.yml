@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что при подсчёте [количества чего-либо]Quantity исключается некоторая [часть]Element. Как если бы исключенная часть подвергласть арифметическому действию вычитания из общего количества.
+  - norwegian: |
+       Konstruksjonen betyr at en [del]Element [av en mengde]Quantity ikke tas med i opptellingen . Det er som om den utelatte delen har vært gjenstand for den aritmetiske handlingen å subtrahere noe fra en mengde.
 examples:
   - |
        'Автору идёт [восемь-десять процентов от стоимости экземпляра]Quantity, за вычетом [полученного ранее аванса]Element.'
@@ -24,7 +26,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -36,6 +38,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие синонимичные конструкции 1902, 2031, 2058.'
 references:

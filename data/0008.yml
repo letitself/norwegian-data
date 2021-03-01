@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий подтверждает правдивость суждения собеседника о [некоторой ситуации]Situation или ее [обстоятельствах]Theme и акцентирует на этом особое внимание. Обычно конструкция используется в ситуации диалога и выражает реакцию говорящего на предшествующую реплику собеседника (примеры 1, 2, 3). Конструкция также встречается при передаче внутренней речи говорящего, которая конструируется как диалог говорящего с самим собой (примеры 4, 5). Часто произносится с укором или назиданием.
+  - norwegian: |
+       Konstruksjonen betyr at taleren bekrefter riktigheten av samtalepartnerens utsagn om [en gitt situasjon]Situation eller [omstendighetene]Theme rundt den, og vektlegger dette. Vanligvis brukes konstruksjonen i en dialogsituasjon og uttrykker talerens reaksjon på samtalepartnerens foregående replikk (eksempel 1, 2 og 3). Konstruksjonen forekommer også ved gjengivelse av indre tale når den tar form av en dialog taleren fører med seg selv (eksempel 4 og 5). Fremføres ofte i en bebreidende eller belærende tone.
 examples:
   - |
        'Вот то-то и оно, что [все наши претензии к банкам (ну не все, а 90%) ― лишь следствие причиненных нам неудобств]Situation.'
@@ -26,17 +28,22 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Matrix
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Conj
 semantic_roles:
   - Situation
   - Theme
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod вот] то-то [nsubj [advmod и] оно], [mark что] [advcl Cl]]; [root то-то [nsubj [advmod и] оно], [mark что] [advcl [nsubj ничего] [aux бы] [obl [case от] [amod его] помощи] [advmod не] изменилось.]]'
+dependency_structure:
+  - '[root [advmod вот] то-то [nsubj [advmod и] оно]'
+  - '[mark что] [advcl Cl]]; [root то-то [nsubj [advmod и] оно]'
+  - '[mark что] [advcl [nsubj ничего] [aux бы] [obl [case от] [amod его] помощи] [advmod не] изменилось.]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

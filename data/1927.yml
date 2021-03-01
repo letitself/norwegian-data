@@ -1,7 +1,7 @@
 ---
 record: 1927
 name: 'PronPoss дело, XP'
-UD_name: 'Adj.Pron дело, XP'
+UD_name: 'PronPoss дело, XP'
 illustration: 'Твоё дело, прогуливать занятия или нет.'
 cefr_level: 
 definitions:
@@ -14,7 +14,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - NP
+  - N
+  - A
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
@@ -22,6 +23,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

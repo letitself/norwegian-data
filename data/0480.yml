@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция используется, когда говорящий категорично, но не резко побуждает [участника ситуации]Participant не выполнять [некоторое действие]Action. Это действие может произойти в будущем либо уже произошло и говорящий не хочет его повторения. Говорящий осуждает участника за выполнение этого действия, так как считает, что статус участника, его принадлежность к определенной группе (например, по гендерному или профессиональному признаку), его моральные или иные качества не позволяют ему выполнять это действие. Участник может быть представлен целой группой лиц или отдельным лицом, в том числе и собеседником говорящего. Кроме того, говорящий может обращаться к самому себе.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren bestemt, men ikke skarpt, anmoder [en deltaker i situasjonen]Participant om ikke å utføre [en gitt handling]Action. Handlingen kan inntreffe i fremtiden eller har allerede inntruffet, og taleren vil at den ikke skal gjenta seg. Taleren fordømmer deltakeren for å ha utført handlingen og mener at deltakerens status, tilhørighet til en bestemt gruppe (f.eks. basert på kjønn eller yrke), samt moralske eller andre fortrinn ikke tillater vedkommende å utføre handlingen. Deltakeren kan være en gruppe personer eller en enkeltperson, herunder talerens samtalepartner. Dessuten kan taleren henvende seg til seg selv.
 examples:
   - |
        '― [Девушке]Participant не пристало [звонить кавалеру]Action, это он должен добиваться встречи.'
@@ -26,11 +28,12 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Verb
 semantic_roles:
   - Participant
   - Action
@@ -38,8 +41,11 @@ intonation:
   - Assertive
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [obl NP-Dat] [advmod не] пристало [nsubj VP-Inf]]; [root [obl тебе] [advmod не] пристало [nsubj ходить [obl [case по] дискотекам]]]'
+dependency_structure:
+  - '[root [obl NP-Dat] [advmod не] пристало [nsubj VP-Inf]]'
+  - '[root [obl тебе] [advmod не] пристало [nsubj ходить [obl [case по] дискотекам]]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию (NP-Dat) не стоит VP-Ipfv.Inf (не стоит разговаривать с ним).'
 references:

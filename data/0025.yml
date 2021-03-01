@@ -3,9 +3,21 @@ record: 25
 name: '(NP-Dat) VP-Inf Cop нечего'
 UD_name: '(NP-Dat) VP-Inf Cop нечего'
 illustration: 'Есть было нечего.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что отстуствует что-либо, что могло бы быть объектом [действия]Action.
+  - english: |
+       This construction means that the object of the [activity]Action is missing.
+  - norwegian: |
+       Konstruksjonen betyr at objektet for [handlingen]Action er fraværende.
 examples:
+  - |
+       'Присоединяюсь к поздравлениям! [Добавить]Action нечего. Успехов нашим деткам!'
+  - |
+       'Так что об их расставании больше и [сказать]Action нечего.'
+  - |
+       '[Мне]Agent было нечего [терять]Action, поэтому я не боялся.'
 morphology:
   - NP
   - Dat
@@ -18,17 +30,20 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
-  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "ссылка на иомдина"
 semantic_types:
   - type: Non-existence
     subtypes:

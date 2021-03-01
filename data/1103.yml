@@ -1,7 +1,7 @@
 ---
 record: 1103
 name: 'Как PronPers говорить-Prs? XP?'
-UD_name: 'Как Pron говорить-Pres? XP?'
+UD_name: 'Как PronPers говорить-Pres? XP?'
 illustration: 'Как вы говорите? Коллайдер?'
 cefr_level: 
 definitions:
@@ -13,16 +13,21 @@ morphology:
 syntactic_type_of_construction:
   - Discourse "Echo" Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Interrogative
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,12 +1,16 @@
 ---
 record: 204
-name: 'NP-Nom Cop не так (уж и) Pred/Adj.Short/не так (уж и) Adv VP'
-UD_name: 'NP-Nom Cop не так (уж и) Praedic/Adj.Short/не так (уж и) Adv VP'
+name: 'NP-Nom Cop не так (уж и) Pred/Adj-Short/не так (уж и) Adv VP'
+UD_name: 'NP-Nom Cop не так (уж и) Praedic/Adj-Short/не так (уж и) Adv VP'
 illustration: 'Всё не так уж и плохо.'
 cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что какая-либо ситуация, участник или объект на самом деле не имеет той [оценочной характеристики]Evaluation, которую ожидал или представлял себе говорящий.
+  - english: |
+       (NP-Nom) Cop не так (уж и) Adj-Short/Pred/ не так (уж и) Adv VP
+  - norwegian: |
+       Konstruksjonen betyr at en situasjon, en deltaker eller et objekt faktisk ikke besitter det [antatte kjennetegnet]Evaluation som taleren hadde forventet eller forestilt seg.
 examples:
   - |
        'Он не так уж и [добр]Evaluation, как все думали про него.'
@@ -30,23 +34,27 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Discourse Particle
+  - Modifier
 syntactic_structure_of_anchor:
   - Negation
-  - Adv
-  - Pron
-  - Conj
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Adv
+  - Part
 semantic_roles:
   - Evaluation
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod не] [advmod так] [advmod уж] [advmod и] Adj-Short]; [root [advmod не] [advmod так] [advmod уж] [advmod и] страшно]'
+dependency_structure:
+  - '[root [advmod не] [advmod так] [advmod уж] [advmod и] Adj-Short]'
+  - '[root [advmod не] [advmod так] [advmod уж] [advmod и] страшно]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
-    'См. близкую конструкцию NP-Nom Cop не так (уж и) Pred/Adj.Short/не так (уж и) Adv VP (Всё не так уж и плохо).'
+    'См. близкую конструкцию NP-Nom Cop не так (уж и) Pred/Adj-Short/не так (уж и) Adv VP (Всё не так уж и плохо).'
 references:
   - |
     "Rakhilina, Ekaterina Vladimirovna. 2015. “Stepeni sravnenija v svete russkoj grammatiki ošibok.” In Trudy instituta russkogo jazyka im. V.V.Vinogradova. Vol.6. 310-333. Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

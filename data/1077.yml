@@ -3,25 +3,44 @@ record: 1077
 name: 'NP из среды NP-Gen'
 UD_name: 'NP из среды NP-Gen'
 illustration: 'Постоянные читатели из среды ученых'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Participant принадлежит или раньше принадлежал к [некоторой социальной группе]Set.
 examples:
+  - |
+       'Есть у меня [друзья]Participant из среды [военных]Set.'
+  - |
+       'В зрелые годы число [новых друзей]Theme, как правило, не увеличивается. Тем более, [из среды иностранцев]Set.'
+  - |
+       'В любой стране [люди этой профессии]Participant не подбираются из среды [интеллектуалов]Set.'
+  - |
+       'Среди участников демонстрации 25 августа было [два человека]Participant из среды [«структурных лингвистов»]Set.'
+  - |
+       'Ещё когда мама была совсем маленькой, её [крестная мать]Participant из среды [сельской интеллигенции]Set и священник сказали дедушке с бабушкой: "Учите девочку".'
 morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal pattern
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Set
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

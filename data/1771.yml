@@ -1,7 +1,7 @@
 ---
 record: 1771
 name: 'ещё бы PronPers-Nom не Verb-Pst, Cl!'
-UD_name: 'ещё бы Pron-Nom не V-Past, Cl!'
+UD_name: 'ещё бы PronPers-Nom не V-Past, Cl!'
 illustration: 'А он даст лодку? – Ещё бы он не дал, я же его любимчик!'
 cefr_level: 
 definitions:
@@ -15,16 +15,22 @@ morphology:
 syntactic_type_of_construction:
   - Discourse "Echo" Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Part
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

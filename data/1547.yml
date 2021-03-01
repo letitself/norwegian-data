@@ -1,12 +1,14 @@
 ---
 record: 1547
-name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP-Gen'
-UD_name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP-Gen'
+name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP'
+UD_name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP'
 illustration: 'Велодорожка длиной шесть километров.'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает [линейные размеры]Quantity [объекта]Theme, измеренные в [стандартных единицах измерения длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
+  - norwegian: |
+       Konstruksjonen betegner [et objekts]Theme [lengdemål]Quantity, målt i [standardiserte målenheter for lengde, f.eks. meter, kilometer, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
   - |
        'Здесь на [пешеходной улице]Theme длиной в [полтора]Quantity [километра]Measure расположились художественные образы из бронзового литья.'
@@ -26,7 +28,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:
@@ -39,6 +41,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 55 NP весом/массой (в) NumCrd-Acc NP (Баржа весом в шесть тонн), 1546 NP объёмом (в) NumCrd-Acc NP (Книга объёмом в сто страниц).'
 references:
   - |
     ""

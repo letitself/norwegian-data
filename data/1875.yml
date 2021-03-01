@@ -9,19 +9,24 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
-  - XP with parentheticals
+  - Connection Construction
 syntactic_function_of_anchor:
-  - Parenthetical
+  - Coordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Prep
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

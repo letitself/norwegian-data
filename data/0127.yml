@@ -3,7 +3,7 @@ record: 127
 name: 'VP за NP-Acc'
 UD_name: 'VP за NP-Acc'
 illustration: 'Мать за дочь сделала домашнее задание.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -13,9 +13,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -23,6 +24,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

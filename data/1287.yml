@@ -3,9 +3,21 @@ record: 1287
 name: 'VP под давлением NP-Gen'
 UD_name: 'VP под давлением NP-Gen'
 illustration: 'Правительство под давлением прогрессивной общественности учредило нечто вроде государственной опеки.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник, обладающий силой, властью или авторитетом]Causer, заставляет другого [участника]Causee совершить некоторое [действие]Action. [Участник]Causee не стал бы выполнять это действие, если бы действовал самостоятельно.
 examples:
+  - |
+       'Под давлением [революционной власти]Causer [он]Causee [подал прошение об увольнении]Action, которое 6 марта было удовлетворено.'
+  - |
+       '[Это решение было принято]Situation под давлением [окружающих]Causer.'
+  - |
+       'Не позволяйте [себе]Causee под давлением [оппонента]Causer [растерять собственную самооценку]Situation.'
+  - |
+       '[Переселение]Action под давлением [застройщиков]Causer является обычной практикой в Китае.'
+  - |
+       '[В Великобритании под давлением [Лондона]Causer из школ вытеснялись ирландский, шотландский и валлийский языки]Action.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Causee
+  - Causer
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

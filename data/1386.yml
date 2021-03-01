@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что в результате [действия]Action в место проживания [участника]Participant направляется некоторый объект (документы, пицца) или другой участник (врач) (примеры 1, 2, иллюстрация). Также конструкция может выражать, что [действие]Activity выполняется вне обычного для него места (пример 3). Часто употребляется в контексте школьных заданий, которые ученики выполняют дома (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at det som følge av [en handling]Action sendes et objekt (dokumenter, pizza) eller en annen deltaker (lege) (eksempel 1 og 2 og illustrasjonen) til [deltakerens]Participant bolig. Dessuten kan konstruksjonen uttrykke at [en handling]Activity utføres utenfor det sedvanlige stedet (eksempel 3). Brukes ofte om skoleoppgaver som elevene gjør hjemme (eksempel 5).
 examples:
   - |
        'Я не могу [послать]Action [ему]Participant на дом эти документы!'
@@ -24,7 +26,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

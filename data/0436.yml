@@ -1,7 +1,7 @@
 ---
 record: 436
 name: 'Noun-Nom PronPers-3.Nom и есть ~Noun-Nom'
-UD_name: 'Noun-Nom PronPers-3.Nom и есть Noun-Nom'
+UD_name: 'N-Nom PronPers-3.Nom и есть N-Nom'
 illustration: 'Мужик он и есть мужик.'
 cefr_level: 
 definitions:
@@ -14,18 +14,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - Conj
   - Reduplication
-  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

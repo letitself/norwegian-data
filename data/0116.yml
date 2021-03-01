@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает призыв говорящего лишить занимаемой должности [действующего политического лидера]Theme, лишить власти и привелегий некоторый [социальный класс]Theme или [группу людей]Theme, а также отказаться от действующего в данный момент [политического режима]Theme (пример 4), [принятых социальных практик]Theme (праздники) или [негативных общественно важных событий]Theme (война). Конструкция является лозунгом, обращенным к большой группе лиц. Как правило, используется письменно на плакатах во время митингов или озвучивается демонстрантами.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens appell om å avsette [fungerende politiske leder]Theme, frata en gitt [samfunnsklasse]Theme eller [gruppe mennesker]Theme deres makt og privilegier, samt ta avstand fra gjeldende [politiske regime]Theme (eksempel 4), [en allment akseptert sosial praksis]Theme (høytidsdager) eller [negative, viktige samfunnsbegivenheter]Theme (krig). Konstruksjonen er et slagord, rettet til en stor gruppe personer. I skrift brukes den som regel på plakater under massemønstringer, og i tale blir den som regel fremført av demonstranter.
 examples:
   - |
        'Короны полетели в грязь! Долой  [короны]Theme! Долой аристократов!'
@@ -24,18 +26,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - Theme
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root долой [obj NP-Acc]]; [root долой [obj демократию]]'
+dependency_structure:
+  - '[root долой [obj NP-Acc]]'
+  - '[root долой [obj демократию]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'см. близкие конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать), кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.)'
 references:

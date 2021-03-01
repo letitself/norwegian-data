@@ -2,7 +2,7 @@
 record: 2050
 name: 'Cl так, как если бы Cl'
 UD_name: 'Cl так, как если бы Cl'
-illustration: 'О тех временах он помнил так, как если б это было вчера.'
+illustration: 'О тех временах он помнил так, как если бы это было вчера.'
 cefr_level: 
 definitions:
 examples:
@@ -11,16 +11,20 @@ morphology:
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,7 +1,7 @@
 ---
 record: 210
 name: 'не Noun, а ~Noun-ище'
-UD_name: 'не Noun, а Noun-ище'
+UD_name: 'не N, а N-ище'
 illustration: 'Это было не болото, а болотище.'
 cefr_level: 
 definitions:
@@ -11,19 +11,23 @@ morphology:
 syntactic_type_of_construction:
   - Discourse "Echo" Construction
 syntactic_function_of_anchor:
-  - Conj
-  - Nominal pattern
+  - Coordinator
+  - Word-Formation
 syntactic_structure_of_anchor:
   - Nominal pattern
   - Reduplication
-  - Suffix
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,8 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает продолжительное [действие]Action [участника]Participant, которое часто описывается на фоне других событий или по контрасту с другим событием.
-  - english: |
-       This construction expresses a continuous [action]Action that is carried out at the same time as other actions or events by the [participant]Participant.
+  - norwegian: |
+       Konstruksjonen uttrykker en [deltakers]Participant vedvarende [handling]Action, ofte skildret på bakgrunn av andre hendelser eller i kontrast til en annen hendelse.
 examples:
   - |
        '[Наталья]Participant рассказывала истории и всё [наливала]Action да [наливала]Action чай.'
@@ -26,10 +26,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
-  - Verb pattern
+  - Modifier
+  - Coordinator
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
   - Reduplication
 part_of_speech_of_anchor:
   - Pron
@@ -40,8 +40,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod всё] VP-Imp [conj [cc да] VP-Imp]]; [root [nsubj мальчик] [advmod всё] шёл [conj [cc да] шёл]]'
+dependency_structure:
+  - '[root [advmod всё] VP-Imp [conj [cc да] VP-Imp]]'
+  - '[root [nsubj мальчик] [advmod всё] шёл [conj [cc да] шёл]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Семья континуативных конструкций с семантикой For a long time (непрерывность) - Verbs with intensifiers так, все'
 references:

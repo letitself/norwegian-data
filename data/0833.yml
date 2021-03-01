@@ -3,25 +3,43 @@ record: 833
 name: 'VP в упор'
 UD_name: 'VP в упор'
 illustration: '– Ты меня не любишь? – спросил он её в упор.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает [действие]Action, которое выполняется близко, почти вплотную к объекту или участнику (примеры 1, 2). В переносном значении, употребляется с глаголами речи в значении 'говорить прямо, сразу по сути, без  предисловий' (пример 3). Также "в упор" может усиливать отрицание при глаголе и означать 'совсем' (примеры 4, 5).
 examples:
+  - |
+       '― Ну и ружья у тебя, хозяин, ― сказал Андрей, ― из такого ружья по динозаврам [бить]Action, да и то в упор.'
+  - |
+       'Открыл глаза ― [она]Participant в упор [смотрела]Action на [меня]Theme.'
+  - |
+       'Нагнулся к окошечку и [спросил]Action в упор у этой: ― У вас, наверное, сын такой, как я, да?'
+  - |
+       'Где-то все витала в абстракции, и [не видела]Action в упор — вещи, людей, обстоятельства, не видела то, что было перед носом.'
+  - |
+       'Оказывается, подруга меня спьяну покрасила «в блондинку», а я в упор [не помню]Action.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожую конструкцию 767 "VP в упор" (Он спросил его в лоб: "Где деньги?")'
 references:
   - |
     ""

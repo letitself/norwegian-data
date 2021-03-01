@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, возможно или нет разделить [одно число]Quantity на [другое]Quantity без остатка, то есть получив в результате целое число. Это значение конструкции сохраняется, даже если слова "нацело" и "без остатка" опущены. Таким образом, выражение типа "число А делится на число B" означает, что А можно разделить на B так, что в результате получится целое число без остатка. Выражение типа "число А не делится на число B" означает, что, хотя операцию деления провести можно, целое число без остатка в результате получить нельзя.
+  - norwegian: |
+       Konstruksjonen uttrykker hvorvidt det er mulig eller ikke å dele [et tall]Quantity med [et annet]Quantity uten rest, altså med et helt tall som svar. Denne betydningen av konstruksjonen består, selv når ordene 'нацело' og 'без остатка' er utelatt. Dermed betyr et uttrykk av typen 'число А делится на число В' at A kan deles med B slik at svaret blir et helt tall uten rest. Uttrykk av typen 'число А не делится на число B' betyr at skjønt det er mulig å dele, vil man ikke få noe helt tall uten rest som svar.
 examples:
   - |
        '[Десять]Quantity не делится на [четыре]Quantity.'
@@ -25,16 +27,27 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Verb Predicate
+  - Government
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pred
+  - Verb
+  - Adv
 semantic_roles:
   - Quantity
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию 2037 NumCrd-Nom делится на NumCrd-Acc с остатком (NumCrd-Nom) (Семь делится на три с остатком один).'
 references:

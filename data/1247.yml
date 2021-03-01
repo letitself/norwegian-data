@@ -10,7 +10,7 @@ definitions:
   - english: |
        The construction is used when the speaker prompts the interlocutor to stop performing [some action]Action. The speaker evaluates this action negatively, as it causes them discomfort or seems too long. The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone.
   - norwegian: |
-       Konstruksjonen brukes når taleren ønsker at samtalepartneren skal stoppe [handlingen]Action som foregår for tiden. Taleren evaluerer denne handlingen negativt, fordi den forårsaker ham ubehag eller tar for lang tid.
+       Konstruksjonen anvendes når taleren anmoder samtalepartneren om å slutte å utføre [en handling]Action. Taleren har et negativt syn på handlingen fordi den volder ubehag eller synes å vare for lenge. Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
 examples:
   - |
        'Я им говорю ― вы что, мужики. Хорош [слушать]Action этот концерт по радио!'
@@ -31,7 +31,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Praedic
+  - N
+  - A
 part_of_speech_of_anchor:
   - Adj
 semantic_roles:
@@ -39,8 +40,11 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root хорош [nsubj VP-Inf]]; [root хорош [nsubj прыгать]]'
+dependency_structure:
+  - '[root хорош [nsubj VP-Inf]]'
+  - '[root хорош [nsubj прыгать]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'см. синонимичные конструкции хватит VP-Inf! (Хватит ругаться!), довольно VP-Inf! (довольно жаловаться). Не путать с конструкциями хороший-Short NP-Nom! (Хорош учёный!), NP-Nom хорош собой (Миша был удивительно хорош собой), NP хороший-Short/плохой-Short тем, что Adj/Cl (Чай хорош тем, что крепок), NP хороший-Short/плохой-Short NP-Ins (Эти места хороши своими лесами)'
 references:

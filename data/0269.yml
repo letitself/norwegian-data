@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция используется, когда говорящий побуждает прекратить выполнять [некоторое действие]Action, которое происходит в настоящий момент. Побуждение может быть обращено к собеседнику, к самому говорящему или к группе лиц, которая может включать или не включать говорящего. Действие, которое нужно прекратить, продолжалось некоторое время. Это выражено глаголом с приставкой по-. Как правило, речь идет о развлечениях и веселом времяпрепровождении (гулять, шутить, играть, развлекаться, веселиться, шалить и др.), негативных эмоциональных переживаниях и их проявлениях (переживать, плакать) или действиях, связанных с речью (говорить, кричать, петь). В момент речи продолжение этого действия неуместно, поскольку нужно перейти к другому действию, более серьезному или спокойному. Конструкция обычно используется в дружеском разговоре.
+  - norwegian: |
+       Konstruksjonen brukes når taleren anmoder [samtalepartneren]Participant om å slutte å utføre [en handling]Action som pågår i øyeblikket. Anmodningen kan være rettet til samtalepartneren, til taleren selv eller til en gruppe personer, med eller uten taleren. Handlingen som må stanses, har pågått i noen tid. Dette uttrykkes av et verb med forstavelsen по-. Som regel dreier det seg om underholdning og moro (være ute, spøke, leke, forlyste seg, more seg, tøyse m.m.), negative emosjonelle opplevelser og manifestasjoner av slike (bekymre seg, gråte) eller talerelaterte handlinger (snakke, rope, synge). I taleøyeblikket er det upassende å la handlingen fortsette, ettersom det er nødvendig å gå over til en annen handling, av et mer seriøst eller rolig slag. Konstruksjonen brukes vanligvis i vennskapelige samtaler.
 examples:
   - |
        '― Ну, хорошо, ― сказал, наконец, Павел. ― [Поговорили]Action и будет. Он бросил на стол кредитку, допил коньяк и, не прощаясь, ушел.'
@@ -22,20 +24,26 @@ morphology:
   - Verb
   - Pst
 syntactic_type_of_construction:
-  - Clause
+  - Biclausal Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Word-Formation
+  - Praedicаtive Expression
+  - Coordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Verb
 semantic_roles:
   - Action
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    '[root по-VP-Past [parataxis и [fixed будет]]]; [root погуляли [parataxis и [fixed будет]]]'
+dependency_structure:
+  - '[root по-VP-Past [parataxis и [fixed будет]]]'
+  - '[root погуляли [parataxis и [fixed будет]]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие веселое, непринужденное времяпрепровождение, развлечения; глаголы речи; глаголы, обозначающие негативные эмоциональные переживания.'
 references:

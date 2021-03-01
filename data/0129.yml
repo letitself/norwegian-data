@@ -1,10 +1,12 @@
 ---
 record: 129
-name: 'NP/VP за NumCrd-Acc рублей'
-UD_name: 'NP/VP за NumCrd-Acc рублей'
+name: 'NP/VP за NumCrd-Acc рубль'
+UD_name: 'NP/VP за NumCrd-Acc рубль'
 illustration: 'Открытка за пять рублей'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция используется в ситуации, когда участник собирается приобрести товар, [индивидуальная стоимость]Quantity которого равна [заявленной]Quantity. Может также быть копеек, кров, евро и другие валюты.
 examples:
 morphology:
   - NP
@@ -14,16 +16,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

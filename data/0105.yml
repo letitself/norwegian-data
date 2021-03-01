@@ -3,7 +3,7 @@ record: 105
 name: 'делать PronPers-Dat Cop нечего!'
 UD_name: 'делать PronPers-Dat Cop нечего!'
 illustration: 'Делать тебе нечего!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Disapproval of behavior - осуждение поведения Нужно добавить, что кроме местоимения здесь возможна именная группа NP. Еще нужно подобрать более понятные по лексике примеры.
@@ -15,16 +15,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Verb Pattern
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

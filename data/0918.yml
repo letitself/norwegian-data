@@ -1,7 +1,7 @@
 ---
 record: 918
-name: '(выходит,) PronPers-Nom (c NP-Ins) квиты'
-UD_name: '(выходит,) PronPers-Nom (c NP-Ins) квиты'
+name: '(выходит,) PronPers-Nom (c NP-Ins) Cop квиты'
+UD_name: '(выходит,) PronPers-Nom (c NP-Ins) Cop квиты'
 illustration: 'Выходит, мы квиты?'
 cefr_level: 
 definitions:
@@ -12,18 +12,26 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Clause
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Parenthetical
+  - Modifier
+  - Praedicative Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Praedic
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

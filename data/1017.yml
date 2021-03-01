@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий спрашивает [собеседника]Participant о его желаниях или намерениях совершить некоторое [действие]Action и предлагает и разрешает ему следовать этим планам и совершить это [действие]Action. Говорящий таким образом высказывает свое отношение, поддержку намерений собеседника.
+  - norwegian: |
+       Konstruksjonen betyr at taleren forhører seg med [samtalepartneren]Participant angående vedkommendes ønsker eller planer om å utføre en gitt [handling]Action og at taleren foreslår og tillater at samtalepartneren følger disse planene og gjennomfører [handlingen]Action. Taleren tilkjennegir slik sin holdning til støtte for samtalepartnerens planer.
 examples:
   - |
        '― У меня нет власти над тем, что здесь произойдет, ― произнесла она тем же томным голосом. ― Если хочешь [уйти]Action, [уйди]Action! Да, да, уйди ― зачем тебе гибнуть вместе со мной?'
@@ -27,11 +29,13 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Conj
+  - Subordinator
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Verb
 semantic_roles:
   - Action
   - Participant
@@ -39,6 +43,10 @@ intonation:
   - Assertive
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию 1016 если NP-Dat Cop угодно, Cl (Если вам угодно, называйте меня Генрихом).'
 references:

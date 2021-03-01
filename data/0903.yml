@@ -1,6 +1,6 @@
 ---
 record: 903
-name: 'Не все ли Cop равно (NP-Dat), Sconj Cl?'
+name: 'Не всё ли Cop равно (NP-Dat), Sconj Cl?'
 UD_name: 'Не все ли Cop равно (NP-Dat), SCONJ Cl?'
 illustration: 'Тебе не всё ли равно, что они думают?'
 cefr_level: 
@@ -19,14 +19,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pron
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

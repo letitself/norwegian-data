@@ -3,9 +3,21 @@ record: 1976
 name: 'VP по NP-Dat'
 UD_name: 'VP по NP-Dat'
 illustration: 'Говорить по телефону'
-cefr_level: 
+cefr_level: А1
 definitions:
+  - russian: |
+       Конструкция обозначает [действие]Action, которое участник выполняет с помощью [прибора, программы или другого средства связи]Instrument. Обычно это телефон, телевизор, радио, почта, интернет, видеосвязь, банковская карта и др.
 examples:
+  - |
+       'Ехать в Японию смотреть футбол ― не необходимость, можно [посмотреть]Action по [телевизору]Instrument: дешевле обойдётся, только за электричество нужно заплатить.'
+  - |
+       '– Надо еще наушники… Наверняка мама опять взяла, вечно она фильмы смотрит или с подружками по [скайпу]Instrument [общается]Action.'
+  - |
+       'До получения кредитки я не очень много [платил]Action по [карте]Instrument, но бензин всегда удобнее [платить]Action по [ней]Instrument, чем наличными.'
+  - |
+       'На том ресурсе много полезной информации, а хозяйка сайта [отвечает на вопросы]Action в форумах и по [почте]Instrument.'
+  - |
+       'Преподаватели могут туда ездить или [вести занятия]Action по [Интернету]Instrument.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Instrument
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

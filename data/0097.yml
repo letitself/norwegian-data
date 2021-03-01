@@ -1,12 +1,14 @@
 ---
 record: 97
-name: 'дать-Imp (PronPers-2) (NP-Dat) VP-Inf!'
-UD_name: 'дать-Imper (PronPers-2) (NP-Dat) VP-Inf!'
+name: 'дать-Imp (PronPers-2.Nom) (NP-Dat) VP-Inf!'
+UD_name: 'дать-Imper (PronPers-2.Nom) (NP-Dat) VP-Inf!'
 illustration: 'Дай доделать!'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает просьбу [говорящего]Speaker к [собеседнику]Addressee не прерывать [действие]Activity, которое выполняет говорящий (примеры 1, 2, 3) или другой участник (пример 4). Как если бы говорящий просил собеседника дать ему не какой-то предмет (как это обычно бывает), а действие, которое он хочет выполнить. Также конструкция может обозначать рекомендацию не прерывать некоторый естественный процесс, происходящий с [объектом]Theme (пример 5).
+  - norwegian: |
+       Konstruksjonen uttrykker [talerens]Speaker bønn til [samtalepartneren]Addressee om ikke å avbryte [handlingen]Activity som utføres av taleren (eksempel 1, 2 og 3) eller en annen deltaker (eksempel 4). Det er som om taleren ber samtalepartneren om å få noe, ikke en gjenstand (slik det vanligvis er), men den handlingen taleren vil utføre. Dessuten kan konstruksjonen være en anbefaling om ikke å avbryte en naturlig prosess som skjer med [et objekt]Theme (eksempel 5).
 examples:
   - |
        'Сейчас лучше зажмуриться и притвориться, что лежишь без сознания, чтобы ничего не видеть, не знать и не говорить. Уйдите и дайте [поспать]Activity.'
@@ -26,14 +28,16 @@ morphology:
   - Inf
   - PronPers
   - 2
+  - Nom
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Speaker
   - Addressee
@@ -43,8 +47,11 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root давать-Imper [xcomp VP-Inf]]; [root дай [xcomp доделать]]'
+dependency_structure:
+  - '[root давать-Imper [xcomp VP-Inf]]'
+  - '[root дай [xcomp доделать]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

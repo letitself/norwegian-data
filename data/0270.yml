@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция понижает степень интенсивности [признака]Property на некоторое не очень большое значение (помягче = 'немного мягче'). Этот признак выражается сравнительной степенью прилагательного или наречия.
+  - norwegian: |
+       Konstruksjonen senker et [kjennetegns]Property intensitet til et ikke særlig høyt nivå (помягче = 'немного мягче'). Kjennetegnet uttrykkes ved hjelp av den komparative formen av et adjektiv eller et adverb.
 examples:
   - |
        'Он уже начинал чувствовать приближение ночи, и ему хотелось, чтобы кто-нибудь [посильнее]Property включил лампу.'
@@ -25,9 +27,10 @@ morphology:
 syntactic_type_of_construction:
   - Morphological Construction
 syntactic_function_of_anchor:
-  - Affix
-syntactic_structure_of_anchor:
   - Word-Formation
+syntactic_structure_of_anchor:
+  - N
+  - A
 part_of_speech_of_anchor:
   - NA
 semantic_roles:
@@ -35,8 +38,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root VP [advmod/amod по-XP-ее(ей)]]; [root [obl [case к] сыну] относись [advmod помягче]'
+dependency_structure:
+  - '[root VP [advmod/amod по-XP-ее(ей)]]'
+  - '[root [obl [case к] сыну] относись [advmod помягче]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Boguslavsky, I., Iomdin, L. (2009), Semantics of Attenuated Comparatives in Russian, Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), pp. 65–77."

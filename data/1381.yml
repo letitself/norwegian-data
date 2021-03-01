@@ -3,25 +3,42 @@ record: 1381
 name: 'VP с разбега'
 UD_name: 'VP с разбега'
 illustration: 'Он с разбега врезался в столб.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник] Agent разгоняется, чтобы осуществить некоторое [действие] Action. Иногда таким действием является резкая остановка.
 examples:
+  - |
+       '[Ромка]Agent выскочил в коридор и с разбега [вышиб дверь в ванную]Action.'
+  - |
+       '[Он]Agent радостно машет руками и с разбега [прыгает на песок]Action.'
+  - |
+       '[Он]Agent с разбега [вскочил на высокий перрон]Action.'
+  - |
+       'C визгом [она]Agent с разбега [бросилась]Action на шею Николаю Сергеевичу.'
+  - |
+       'С разбега [я]Agent [падаю]Action на кровать и забираюсь под одеяло.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Agent
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

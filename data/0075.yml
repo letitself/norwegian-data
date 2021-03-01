@@ -3,7 +3,7 @@ record: 75
 name: 'время NP-Gen прошло'
 UD_name: 'время NP-Gen прошло'
 illustration: 'Время сомнений прошло.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -12,16 +12,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Subject
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb Pattern
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

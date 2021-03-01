@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция используется, когда говорящий побуждает [собеседника]Participant прекратить выполнять [некоторое действие]Action, которое происходит в данный момент. Говорящий оценивает это действие отрицательно, подвергает критике, потому что, с его точки зрения, у действия нет серьезных оснований или оно кажется слишком длительным. Как правило, речь идет о негативно оцениваемом поведении (врать, ссориться, издеваться), негативном эмоциональном состоянии (сердиться, охать) или неуместном бездействии (сидеть) и др. В редких случаях речь идет о положительном или нейтральном действии, которое в данной ситуации интерпретируется как неуместное (примеры 4, 5). Побуждение может быть обращено к одному лицу (примеры 1,3,4,5) или к группе лиц, которая не включает самого говорящего (пример 2). Конструкция подразумевает отсутствие социальной иерархии между говорящим и собеседником и произносится в дружеском тоне.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren anmoder [samtalepartneren]Participant om å slutte å utføre en pågående [handling]Action. Taleren vurderer handlingen negativt og kritiserer den for ikke å være tilstrekkelig velbegrunnet, eller for å vare for lenge. Som regel dreier det seg om en type atferd som betraktes som negativ (lyve, krangle, håne), en negativ humørtilstand (være sint, jamre seg) eller upassende uvirksomhet (sitte) m.fl.. I sjeldne tilfeller er det tale om en positiv eller nøytral handling som i situasjonen oppfattes som upassende (eksempel 4 og 5). Anmodningen kan være rettet til én person (eksempel 1, 3, 4 og 5) eller til en gruppe personer som ikke inkluderer taleren (eksempel 2). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
 examples:
   - |
        '― Ты не гляди, что он тут перед тобой заикается. В банке от него другие заиками становятся. ― Да будет [тебе]Participant [врать-то]Action, ― буркнул Коломнин.'
@@ -27,19 +29,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
   - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root будет [obj [Pron-Dat] [xcomp VP-Inf]]; [root будет [obj тебе] [xcomp врать!]]'
+dependency_structure:
+  - '[root будет [obj [Pron-Dat] [xcomp VP-Inf]]'
+  - '[root будет [obj тебе] [xcomp врать!]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно; глаголы, обозначающие действия, связанные с негативными эмоциями, жалобами, плохим настроением; глаголы, обозначающие неуместное бездействие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
 references:

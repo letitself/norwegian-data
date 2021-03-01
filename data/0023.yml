@@ -3,9 +3,19 @@ record: 23
 name: '(NP-Dat) VP-Inf Cop незачем'
 UD_name: '(NP-Dat) VP-Inf Cop незачем'
 illustration: 'Жить ему было незачем.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает ситуацию, в которой нет необходимости или причины выполнять некоторое [действие]Action.
+  - english: |
+       This construction denotes a situation when there is no necessity or reason for carrying out a certain [action]Action.
 examples:
+  - |
+       '[Волноваться]Action было незачем, на всякий случай я легла поспать.'
+  - |
+       '[Одному мне]Agent [ехать]Action незачем, один я этого дела не сделаю.'
+  - |
+       '[Честному человеку ]Agent[клясться]Action незачем, он всегда прямолинеен.'
 morphology:
   - NP
   - Dat
@@ -18,17 +28,20 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
-  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "ссылка на иомдина"
 semantic_types:
   - type: Non-existence
     subtypes:

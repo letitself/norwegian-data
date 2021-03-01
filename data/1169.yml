@@ -3,9 +3,21 @@ record: 1169
 name: 'VP под знаком NP-Gen'
 UD_name: 'VP под знаком NP-Gen'
 illustration: 'Выступление проходило под знаком протеста.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на [значимую характеристику]Property того, как протекала некоторая [ситуация]Situation. Эта характеристика могла оказывать существенное влияние на ход [этой ситуации]Situation.
 examples:
+  - |
+       '[Все, что делается]Situation под знаком [любви]Property, не может быть порочным, стыдным.'
+  - |
+       '[Борьба на автомобильном рынке по-прежнему проходит]Situation под знаком [противостояния российских и иностранных производителей]Participant.'
+  - |
+       '[Весь послеолимпийский год для российского спорта прошёл]Situation под знаком [допинговых разбирательств]Property.'
+  - |
+       '[2003 год прошел]Situation под знаком [стабильности]Property: заводы работали бесперебойно, войн не было.'
+  - |
+       '[Карнавал проходит]Situation под знаком [политического протеста]Property.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Property
+  - Situation
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию 1168 VP под эгидой NP-Gen (Конференция пройдёт под эгидой ООН.)'
 references:
   - |
     ""

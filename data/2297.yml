@@ -1,7 +1,7 @@
 ---
 record: 2297
-name: 'Речь не о том, Cl или Сl'
-UD_name: 'Речь не о том, Cl или Сl'
+name: 'Речь не о том, Cl или Cl'
+UD_name: 'Речь не о том, Cl или Cl'
 illustration: 'Речь не о том, правы они или не правы.'
 cefr_level: 
 definitions:
@@ -11,16 +11,25 @@ morphology:
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Coordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Negation Marker
+  - Prep
+  - Pron
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый объект]Theme или [участник]Participant [изменился]Action полностью, очень сильно. Как если бы после этих изменений его совсем нельзя было узнать.
+  - norwegian: |
+       Konstruksjonen betyr at [et objekt]Theme eller [en deltaker]Participant har [forandret seg]Action fullstendig, veldig sterkt. Det er som om vedkommende slett ikke er til å kjenne igjen etter disse forandringene.
 examples:
   - |
        'За последние четверть века [жизнь]Theme успела [измениться]Action до неузнаваемости.'
@@ -23,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -36,6 +38,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

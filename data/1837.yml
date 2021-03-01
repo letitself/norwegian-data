@@ -3,29 +3,46 @@ record: 1837
 name: 'VP так/таким образом/следующим образом: Cl'
 UD_name: 'VP так/таким образом/следующим образом: Cl'
 illustration: 'Делается это так: ровно разложите салфетку и загните все четыре угла к центру.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "иначе говоря", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил.
+       Конструкция вводит в текст [пояснение]Theme того, каким образом осуществляется некоторое [действие]Action.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av hvordan en gitt  [handling]Action gjennomføres.
 examples:
+  - |
+       '― Обычно это [делается]Action таким образом: [новое направление испытывает сам шеф. Затем ― один из учеников]Theme.'
+  - |
+       '[Проблему решили]Action таким образом: [напротив дворца Объединенных наций есть здание, где обучают переводчиков, там, в небольшом конференц-зале, собрали послов разных государств]Theme.'
+  - |
+       'Температурный режим в холодильнике [выбирается]Action следующим образом: [открывается полностью окно в поддоне, а ручка терморегулятора устанавливается в среднее положение, деление "3"]Theme.'
+  - |
+       'На практике это [выглядит]Action следующим образом: [мы 90 процентов своих доходов зарабатываем в реальном секторе экономики и делим эти доходы между нашими клиентами]Theme.'
+  - |
+       'Поэтому многие психологи [поступают]Action так: [выполняют диссертацию по какой-то "понятной" традиционным специалистам теме, а после погружаются в практическую работу]Theme.'
 morphology:
   - VP
   - Cl
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Noun
   - Adj
   - Pron
 semantic_roles:
-  - ~
+  - Theme
+  - Action
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -35,4 +52,4 @@ semantic_types:
       - type: Clarification
 family:
   - |
-    ""
+    "Clarification via additional information"

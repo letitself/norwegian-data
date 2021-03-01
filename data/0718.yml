@@ -3,25 +3,44 @@ record: 718
 name: 'VP без разбора'
 UD_name: 'VP без разбора'
 illustration: 'Он ест всё без разбора.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Participant проявляет безразличие при выборе объектов, на которые направлено совершаемое им [действие]Action. Это действие совершается непрерывно и с высокой интенсивностью. Как правило, говорящий отрицательно оценивает это действие.
 examples:
+  - |
+       'Чтобы скорее выздороветь, [Игорь]Participant [принимал все лекарства]Action без разбора.'
+  - |
+       '[Новый начальник]Participant [грозит всех уволить]Action без разбора.'
+  - |
+       '[Он]Participant [бросал вещи]Action без разбора в два распахнутых чемодана.'
+  - |
+       '[Мы]Participant без разбора [смотрим все фильмы с его участием]Action.'
+  - |
+       'Нас поражало, что [он]Participant умел [любить всех]Action без разбора.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'Может употребляться в форме "VP без разбору"'
 references:
   - |
     ""

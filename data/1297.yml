@@ -3,9 +3,21 @@ record: 1297
 name: 'VP по NP-Dat'
 UD_name: 'VP по NP-Dat'
 illustration: 'По внешнему виду мебели можно подумать, что она переходит из поколения в поколение.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый предмет, признак или действие]Cause служит характерным проявлением некоторой [ситуации]Situation. Как правило, речь идет о [внешних характеристиках]Property (лицо, взгляд и т. п.) или [признаках, доступных для восприятия другими органами чувств]Property (голос, смех, запах и т. п.). Эти признаки позволяют сделать выводы о состоянии участника (пример 1) или события (пример 2), дают возможность распознать участника среди множества других (примеры 3-5). Предлог "по" в данной конструкции близок по значению предлогу "судя по".
 examples:
+  - |
+       'По [голосу Паши]Cause [было понятно, что он тоже заболел]Situation.'
+  - |
+       'По [шуму голосов]Cause [стало ясно ― конференция только что закончилась]Situation.'
+  - |
+       'Когда мы отчаялись поймать его, [мы пробовали вычислить его]Action по [почерку]Property.'
+  - |
+       'Ученые обнаружили, что [комар Aedes aegypti умеет различать людей]State по [запаху]Property.'
+  - |
+       '[Мы научимся друг друга в толпе угадывать]Situation по [смеху]Property.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,25 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Cause
+  - Property
+  - Situation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'Не путать с конструкцией 1296 VP по NP-Dat (По состоянию здоровья он был отпущен домой).'
 references:
   - |
     ""

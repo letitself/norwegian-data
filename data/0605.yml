@@ -1,10 +1,12 @@
 ---
 record: 605
-name: 'NumCrd (NP-Gen) с копейками'
-UD_name: 'NumCrd (NP-Gen) с копейками'
+name: 'NumCrd (NP) с копейками'
+UD_name: 'NumCrd (NP) с копейками'
 illustration: 'Прошло 100 дней с копейками.'
 cefr_level: 
 definitions:
+  - russian: |
+       ? кандидат в комментарий, может надо исравить. Если использовано числительное "один" или "одна", то [единица измерения]Measure [объекта]Theme согласуется по падежу с ... стоит в винительном падеже (одну минуту), в остальных случаях в родительном падеже (пять минут).
 examples:
 morphology:
   - NumCrd
@@ -13,16 +15,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

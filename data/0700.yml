@@ -1,7 +1,7 @@
 ---
 record: 700
 name: 'а хотел бы PronPers знать/посмотреть/послушать, Sconj Cl'
-UD_name: 'а хотел бы Pron знать/посмотреть/послушать, SCONJ Cl'
+UD_name: 'а хотел бы PronPers знать/посмотреть/послушать, SCONJ Cl'
 illustration: 'А хотел бы я знать, почему дети ещё не в постели!'
 cefr_level: 
 definitions:
@@ -15,14 +15,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Verb
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

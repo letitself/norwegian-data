@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает нежелание [участника]Participant выполнять некоторое [действие]Action. Важная структурная особенность конструкции в том, что субъект действия вклинивается в форму будущего времени глагола и ставится между вспомогательным глаголом и инфинитивом смыслового глагола.
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Participant motvilje mot å utføre en gitt [handling]Action. Et viktig trekk ved konstruksjonens struktur er at subjektet for handlingen splitter verbets fremtidsform og tar plass mellom hjelpeverbet og infinitiven av det meningsbærende verbet.
 examples:
   - |
        'А что тут такого ― я всегда езжу на велике по вторым дачам и никогда не сворачиваю. Ещё чего ― [сворачивать]Action! Я рассуждаю так: вовсе не обязательно бультерьеру выскакивать именно в тот момент, когда я проезжаю мимо.'
@@ -30,14 +32,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

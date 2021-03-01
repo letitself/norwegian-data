@@ -3,9 +3,21 @@ record: 49
 name: 'Cl в зависимости от NP-Gen'
 UD_name: 'Cl в зависимости от NP-Gen'
 illustration: 'Уровень зарплаты определяется в зависимости от опыта работы.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает наличие [важного параметра]Theme, который играет ключевую роль при оценке некоторого явления.
+  - english: |
+       This construction expresses that something, e.g. уровень зарплаты ‘income level’ depends on [something else]Theme, e.g. опыт работы ‘work experipence’. In English the same meaning is often expressed with the construction ‘depending on X’.
+  - norwegian: |
+       Konstruksjonen uttrykker at noe, f.eks. уровень зарплаты ‘lønnsnivå’, avhenger av [noe annet], f.eks. опыт работы ‘arbeidserfaring’. I norsk kan samme betydning ofte uttrykkes vha. konstruksjonen ‘avhengig av X’.
 examples:
+  - |
+       'Цена такого набора варьируется в зависимости от [качества и дизайна]Theme.'
+  - |
+       'Сегодня учителя получают зарплату в зависимости от [количества часов, которые они провели в классе]Theme.'
+  - |
+       'Детям можно давать от 2 до 6 яиц в день в зависимости от [возраста]Theme.'
 morphology:
   - Cl
   - NP
@@ -13,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -24,6 +36,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

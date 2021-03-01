@@ -3,7 +3,7 @@ record: 95
 name: 'грех Cop не VP-Pfv.Inf!'
 UD_name: 'грех Cop не VP-Perf.Inf!'
 illustration: 'Грех не выпить!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -16,14 +16,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Noun
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

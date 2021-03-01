@@ -1,13 +1,13 @@
 ---
 record: 861
-name: 'Сl, но NP-Nom виду не подавать, (что Cl)'
-UD_name: 'Сl, но NP-Nom виду не подавать, (что Cl)'
+name: 'Cl, но NP-Nom виду не подавать, (что Cl)'
+UD_name: 'Cl, но NP-Nom виду не подавать, (что Cl)'
 illustration: 'Он обиделся, но виду не подаёт.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - Сl
+  - Cl
   - NP
   - Nom
 syntactic_type_of_construction:
@@ -15,14 +15,22 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Noun
+  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

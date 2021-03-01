@@ -1,7 +1,7 @@
 ---
 record: 1441
 name: 'Noun-Nom, PronPers-3.Nom и в Африке ~Noun-Nom'
-UD_name: 'Noun-Nom, PronPers-3.Nom и в Африке N-Nom'
+UD_name: 'N-Nom, PronPers-3.Nom и в Африке N-Nom'
 illustration: 'Сахар он и в Африке сахар.'
 cefr_level: 
 definitions:
@@ -14,19 +14,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Coordinator
+  - Modifier
 syntactic_structure_of_anchor:
   - Reduplication
-  - Pron
-  - Conj
-  - Simplex prep
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

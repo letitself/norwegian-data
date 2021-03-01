@@ -14,15 +14,21 @@ syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Pred
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Interrogative
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

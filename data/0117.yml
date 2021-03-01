@@ -7,10 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [что-то]Theme изменяет ситуацию, заставляет говорящего отнестись иначе к этой ситуации, чем он был настроен изначально. Ограничение на именную группу: история, проблема, дело, разговор. Как если бы в ходе деятельности или беседы происходил переход от одного дела к другому, от одной истории к другой, от одного разговора к другому и проч.
-  - english: |
-       This construction expresses that [something]Theme changes the situation or conversation in such a way that the speaker can feel differently about it.
   - norwegian: |
-       Konstruksjonen uttrykker at [noe]Theme forandrer situasjonen eller samtalen på en slik måte at taleren kan forholde seg til den på en annen måte.
+       Konstruksjonen uttrykker at [noe]Theme endrer situasjonen på en slik måte at taleren må forholde seg til den på en annen måte enn det vedkommende først var innstilt på. Utvalget av nominalfraser begrenser seg til: история, проблема, дело, разговор. Det er som om det mens virksomheten eller samtalen pågår skjer en overgang fra en sak til en annen, fra en historie til en annen, fra en samtale til en annen, osv.
 examples:
   - |
        'Ну вот, теперь совсем другое [дело]Theme. Молодец, что согласился поехать с нами.'
@@ -32,7 +30,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Adj
+  - N
+  - A
 part_of_speech_of_anchor:
   - Pron
   - Adv
@@ -41,8 +40,11 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: ~
-structure_in_ud: |
-    '[root [amod другой] NP-Nom]; [root [nsubj это] [amod другое] дело]'
+dependency_structure:
+  - '[root [amod другой] NP-Nom]'
+  - '[root [nsubj это] [amod другое] дело]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

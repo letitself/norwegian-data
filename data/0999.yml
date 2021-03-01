@@ -6,7 +6,9 @@ illustration: 'Не думаю, что ему это придется по вк�
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция выражает отношение [участника]Experiencer к некоторому [объекту]Theme, [идее]Theme, [качеству]Property, [ситуации]Situation, или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное ("не по вкусу") либо положительное, но достаточно умеренное ("по вкусу"). Как если бы участник попробовал это событие на вкус, как еду или напиток, и вкус ему не понравился. Конструкция как правило используется для выражения негативного отношения.
+       Конструкция выражает отношение [участника]Experiencer к некоторому [объекту]Theme, [идее]Theme, [качеству]Property, [ситуации]Situation, или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное ("не по вкусу") либо положительное, но достаточно умеренное ("по вкусу"). Как если бы участник попробовал это событие на вкус, как еду или напиток, и вкус ему не понравился ("не по вкусу") или понравился ("по вкусу"). Конструкция как правило используется для выражения негативного отношения.
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Experiencer holdning til et gitt [objekt]Theme, [en ide]Theme, [en egenskap]Property, [en situasjon]Situation eller en annen [deltaker]Participant. Deltakerens holdning består i å støtte disse, eller ikke. Holdningen er enten utpreget negativ ('не по вкусу'), eller den er positiv, men bare måtelig ('по вкусу'). Det er som om deltakeren smaker på hendelsen, som på mat og drikke, og enten ikke liker smaken ('не по вкусу') eller liker smaken ('по вкусу'). Konstruksjonen anvendes som regel for å uttrykke en negativ holdning.
 examples:
   - |
        '[Дамам]Experiencer, видно, пришелся по вкусу [этот колоритный здоровяк со смешным непонятным акцентом и нахальными руками]Participant.'
@@ -25,11 +27,13 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
+  - Noun
 semantic_roles:
   - Experiencer
   - Theme
@@ -39,6 +43,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

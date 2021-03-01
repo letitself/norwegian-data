@@ -1,12 +1,14 @@
 ---
 record: 1553
 name: 'VP/NP (Prep) NumCrd NP-Gen в длину/ширину/высоту'
-UD_name: 'VP NumCrd NP-Gen в длину/ширину/высоту'
+UD_name: 'VP/NP (Prep) NumCrd NP-Gen в длину/ширину/высоту'
 illustration: 'Вася прыгает два метра в длину.'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает [линейные параметры]Quantity [объекта]Theme или [действия]Action, измеренные в [стандартных единицах измерения длины, таких как километры, метры, мили, футы]Measure. Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта или действия]Theme стоит в аккузативе.
+  - norwegian: |
+       Konstruksjonen betegner [lineære parametre]Quantity ved [et objekt]Theme eller [en handling]Action, målt i [standardiserte målenheter for lengde, f.eks. kilometer, meter, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet eller handlingen]Theme i akkusativ.
 examples:
   - |
        '[Озеро Восток]Theme ― вытянутое по форме, [имеет]Action в длину [290]Quantity [километров]Measure и в ширину [40]Quantity [километров]Measure.'
@@ -27,7 +29,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -41,6 +43,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Эта конструкция похожа на конструкцию 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP-Gen (Велодорожка длиной шесть километров), но может описывать характеристики не только объекта, но и действия.'
 references:

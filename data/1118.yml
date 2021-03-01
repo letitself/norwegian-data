@@ -3,9 +3,21 @@ record: 1118
 name: 'как правило, Cl'
 UD_name: 'как правило, Cl'
 illustration: 'Как правило, история людей ничему не учит.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает тенденцию, в соответствии с которой [действие]Action или [ситуация]Situation происходит в большинстве случаев, но не всегда.
 examples:
+  - |
+       'И в этот день, как правило, [мужчины решают проявить свои кулинарные способности]Event.'
+  - |
+       'Учитель, как правило, [помогает]Event ученику в выборе темы исследования.'
+  - |
+       'Как правило, философы [пишут плохо]Situation.'
+  - |
+       'А в Одессе зимой, как правило, [нелётная погода]Situation.'
+  - |
+       'Как правило, близким [дарят]Event нечто самое дорогое и приятное.'
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -14,14 +26,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Verb
 semantic_roles:
-  - ~
+  - Event
+  - Situation
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

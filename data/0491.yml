@@ -1,12 +1,14 @@
 ---
 record: 491
-name: 'NP-Dat Noun-Nom Cop не (в) ~Noun-Acc (без NP-Gen)'
-UD_name: 'NP-Dat Noun-Nom Cop не (в) Noun-Acc (без NP-Gen)'
+name: 'NP-Dat Noun-Nom Cop не (в) ~Noun (без NP-Gen)'
+UD_name: 'NP-Dat N-Nom Cop не (в) N (без NP-Gen)'
 illustration: 'Девочкам радость не в радость.'
 cefr_level: 
 definitions:
   - russian: |
        В конструкции отрицаются характерные признаки [объекта]Object или [общего состояния]State[человека]Experiencer (как позитивного, так и негативного). В конструкциях, где описывается [состояние человека]State, используется предлог ["в"]в. bad definition.
+  - english: |
+       NP-Dat Noun-Nom Cop не (в) ~Noun (без NP-Gen) - не утрочнять падеж, так как может быть номинатив или аккузатив в зависимости от отсутствия или наличия предлога.
 examples:
   - |
        'Но радость была не в радость, потому что зарплату на фабрике задерживали на полтора месяца.'
@@ -26,16 +28,21 @@ syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
+  - Modifier
 syntactic_structure_of_anchor:
-  - Nominal pattern
-  - Reduplication
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что при оценивании ситуации[Situation], некоторый [элемент]Element исключается из рассмотрения, из набора объектов или участников этой ситуации. Как если бы набор объектов пересчитывали, а этот элемент не учитывали при счете. Получается, что с одной стороны, для формулировки весомой оценки ситуации этим элементом можно пренебречь. С другой стороны, данный элемент тем не менее упоминается в виде оговорки, таким образом смягчая категоричность всего высказывания. Исключение элемента из ситуации определяет справедливость предлагаемой оценки ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at [et element]Element ikke tas med i behandlingen eller utelukkes fra utvalget av objekter eller deltakere i [en situasjon]Situation som skal vurderes. Det er som om objektutvalget er telt opp på ny og dette elementet ikke er tatt med i opptellingen. På den ene side får vi da at det er mulig å neglisjere dette elementet og likevel formulere en tungtveiende vurdering av situasjonen. På den annen side tas det, ikke desto mindre, et forbehold om dette elementet, slik at det samlede utsagnet fremstår som mindre absolutt. At elementet er utelatt fra situasjonen, rettferdiggjør den foreslåtte vurderingen av situasjonen.
 examples:
   - |
        '[Таких заводов в стране ещё нет]Situation, если не считать [экспериментальной установки в Рязани]Element.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Verb Pattern
   - Negation
@@ -39,6 +41,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. синонимичные конструкции 1902, 2030, 2031.'
 references:

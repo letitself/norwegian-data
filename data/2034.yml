@@ -1,7 +1,7 @@
 ---
 record: 2034
 name: 'одна NumOrd-Sg.F (часть/доля) (NP-Gen)'
-UD_name: 'одна NumOrd-Sg.Fem (часть/доля) (NP-Gen)'
+UD_name: 'одна NumOrd-Sing.F (часть/доля) (NP-Gen)'
 illustration: 'Добавить одну пятую ложки сахара.'
 cefr_level: 
 definitions:
@@ -15,16 +15,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Nominal Quantifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Num
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

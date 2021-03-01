@@ -3,11 +3,21 @@ record: 364
 name: 'что же NP-Nom VP?'
 UD_name: 'что же NP-Nom VP?'
 illustration: 'Что же он сидит?'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется говорящим для выражения недоумения и нередко также недовольства. Говорящий не понимает, почему [участник]Participant выполняет (или выполнил) [некоторое действие]Action. Конструкция часто передает недовольство говорящего сложившейся ситуацией. Конструкция как правило используется в настоящем и прошедшем времени. Similar to 354 Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство
+       Конструкция используется говорящим для выражения недоумения и нередко также недовольства. Говорящий не понимает, почему [участник]Participant выполняет (или выполнил) [некоторое действие]Action. Говорящий считает, что таких причин нет. Конструкция часто передает недовольство говорящего сложившейся ситуацией, его неодобрение действий или бездействия участника. Участником может быть и сам говорящий (пример 5). Конструкция как правило используется в настоящем и прошедшем времени.
 examples:
+  - |
+       'Папа крикнул дочери: – Машенька, ну что же [ты]Participant  [стоишь]Action, родная! Заходи скорее в дом.'
+  - |
+       '– Что же [вы]Participant [плачете]Action? ― улыбнулась мать и налила Кате ещё чашку чая.'
+  - |
+       'Юрий! Что же [вы]Participant [молчите]Action? Скажите хоть слово!'
+  - |
+       'Что же [Андрей]Participant меня так [не любит-то]Action?'
+  - |
+       'Что же [я]Participant [сознался в воровстве]Action. Как думаете, что будет дальше? Тюрьма?'
 morphology:
   - NP
   - Nom
@@ -15,18 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
-  - Pron
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Part
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

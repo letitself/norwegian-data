@@ -3,9 +3,21 @@ record: 1290
 name: 'VP благодаря NP-Dat'
 UD_name: 'VP благодаря NP-Dat'
 illustration: 'Благодаря труду человек выделился из природы.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция указывает на [предмет, участника, качество или событие]Cause, которые выступают причиной или благоприятным условием для некоторой [ситуации]Situation. Как правило, наступившая ситуация положительно оценивается говорящим. Как если бы можно было поблагодарить названного человека, предмет, качество или событие (причину) за то, что ситуация наступила.
 examples:
+  - |
+       'Есенин был первый поэт, благодаря [которому]Cause [я понял, что в стихах есть музыка и что по-другому не скажешь]Situation.'
+  - |
+       'Благодаря [социальным сетям]Cause, которыми пользуется в основном молодежь, [легкая атлетика становится популярной и среди них]Situation.'
+  - |
+       'Благодаря [упорству]Cause [он достигнет желаемого]Situation.'
+  - |
+       'А благодаря [своему характеру, умению дружить с сотрудниками]Cause [Николай создал очень хорошую научную группу]Situation.'
+  - |
+       '[Что важного мы узнали]Situation благодаря [этому исследованию]Cause?'
 morphology:
   - VP
   - NP
@@ -13,16 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Cause
+  - Situation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 726 Cl благодаря тому, что Cl (Мы успели в аэропорт благодаря тому, что выехали заранее) и 1280 Cl, благодаря чему Cl (Грудное молоко имеет особую структуру, благодаря чему оно хорошо усваивается)'
 references:
   - |
     ""

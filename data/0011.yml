@@ -5,7 +5,19 @@ UD_name: '(как) по мне, (так) Cl'
 illustration: 'Как по мне, это ещё не беда.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция имеет значение 'я считаю, что Cl'.
 examples:
+  - |
+       'Давно собирался посмотреть этот фильм и хотел было уже покупать dvd, а тут узнал, что его как раз по ТВ показывают. И хорошо, что всё-таки не потратил денег — как по мне, [фильм того совершенно не стоил]Evaluation.'
+  - |
+       'Как по мне, так [в вагончике, где мы переодевались и обедали было не намного чище, чем на улице]Evaluation.'
+  - |
+       'Не знаю, по мне, так [ее голос идеально подходит для колыбельной!]Evaluation'
+  - |
+       'Она была в красном платье. Элегантна, стройна, изящна. Но на любителя. По мне ― [больно худая]Evaluation: сразу захотелось накормить ее котлетами.'
+  - |
+       'По мне, так [это все какая-то большая глупость]Evaluation.'
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -14,16 +26,24 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Prep
+  - Pron
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [obl [case по] мне], [advmod так] Cl]; [root [advmod как] [parataxis [case по] мне], [nsubj это] [advmod ещё] [advmod не] проблема]'
+dependency_structure:
+  - '[root [obl [case по] мне]'
+  - '[advmod так] Cl]; [root [advmod как] [parataxis [case по] мне]'
+  - '[nsubj это] [advmod ещё] [advmod не] проблема]'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожие конструкции 264 по мнению NP-Gen, Cl (По мнению властей, необходимо принять меры и остановить загрязнение реки); 1137 на PronPoss-Acc взгляд, Cl (На мой взгляд, это не искусство).'
 references:
   - |
     ""
@@ -33,4 +53,4 @@ semantic_types:
       - type: Expressing opinion
 family:
   - |
-    ""
+    "Reference to the owner of opinion"

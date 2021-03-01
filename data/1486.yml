@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает большое количество [объектов]Theme. [Объектами]Theme обычно бывают маленькие предметы в воздухе (песок, брызги) или небольшие летающие животные и насекомые (мухи, комары, летающие мыши), скопление которых визуально напоминает тучу. Также конструкция может обозначать большое скопление людей. Объект может быть выражен как исчисляемыми существительными (комары, воробьи, брызги в примерах 1, 2, 4), так и неисчисляемыми (народ, пыль в примерах 3 и 5).
+  - norwegian: |
+       Konstruksjonen betegner en stor mengde [objekter]Theme. [Objektene]Theme er vanligvis små gjenstander i lufta (sand, sprut) eller små flyvende dyr og insekter (fluer, mygg, flaggermus), som når de er samlet, visuelt minner om en uværssky. Dessuten kan konstruksjonen betegne en stor opphopning av mennesker. Objektet kan være representert ved så vel tellelige substantiver (комары, воробьи og брызги i eksempel 1, 2 og 4) som utellelige (народ og пыль i eksempel 3 og 5)
 examples:
   - |
        'Тучи [комаров]Theme облепляли лицо ― без сетки нельзя было сделать шага.'
@@ -26,7 +28,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Nominal quantifier
 syntactic_structure_of_anchor:
-  - Nominal Pattern
+  - N
+  - A
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
@@ -34,8 +37,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root туча [nmod NP-Gen.Plur]]; [root тучи [nmod песчинок]]'
+dependency_structure:
+  - '[root туча [nmod NP-Gen.Plur]]'
+  - '[root тучи [nmod песчинок]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

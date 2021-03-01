@@ -1,28 +1,37 @@
 ---
 record: 349
-name: 'хорошо Cop бы VP-Inf'
-UD_name: 'хорошо Cop бы VP-Inf'
+name: 'хорошо Cop бы (NP-Dat) VP-Inf'
+UD_name: 'хорошо Cop бы (NP-Dat) VP-Inf'
 illustration: 'Хорошо бы покурить.'
 cefr_level: 
 definitions:
 examples:
+  - |
+       'Хорошо бы Вике сегодня здесь остаться на ночь.'
 morphology:
   - Cop
   - VP
   - Inf
+  - NP
+  - Dat
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Praedic
 part_of_speech_of_anchor:
-  - ~
+  - Pred
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

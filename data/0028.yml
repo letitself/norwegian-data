@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent совершает несколько порций повторяющегося цикличного [действия]Activity, которое прерывается [другим действием или событием]Event. Повторение порций действия выражается повторением глагола, который обычно имеет приставку по-.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utfører flere omganger av en gjentakende, syklisk [handling]Activity, som avbrytes av [en annen handling eller hendelse]Event. Det at handlingen gjentar seg gang på gang, uttrykkes ved å gjenta verbet, som vanligvis har forstavelsen по-.
 examples:
   - |
        'А [голова]Agent [поболит-поболит]Activity и [перестанет]Event!'
@@ -26,11 +28,9 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
-  - Affix
+  - Word-Formation
 syntactic_structure_of_anchor:
   - Reduplication
-  - Word-formation
 part_of_speech_of_anchor:
   - Conj
 semantic_roles:
@@ -40,8 +40,11 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    '[root VP-VP [conj [cc и] Cl]]; [root поспит-поспит [conj [cc и] проснётся]]'
+dependency_structure:
+  - '[root VP-VP [conj [cc и] Cl]]'
+  - '[root поспит-поспит [conj [cc и] проснётся]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

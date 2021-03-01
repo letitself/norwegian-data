@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation длится неизменным образом очень долгое время и актуальна до сих пор.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation vedvarer uforandret i svært lang tid og fremdeles er aktuell.
 examples:
   - |
        'Испокон веков [местные жители собирали в лесах грибы]Situation.'
@@ -23,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal pattern
 part_of_speech_of_anchor:
@@ -33,6 +35,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Конструкция имеет устаревшие варианты с фиксированной частью "испокон века" и "испокон веку".'
 references:

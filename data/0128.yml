@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что количество [объектов]Theme превышает ближайший [крупный числовой ориентир]Landmark. Ориентир часто выражен круглыми числами (числительные "тридцать", "сорок"; существительные "десяток", "сотня", "тысяча"). Объекты могут быть конкретными (депутаты в примере 3, товары в примере 4) или абстрактными (градусы, годы в примерах 1, 2, 5). Как если бы числовой ориентир представлялся препятствием, которое преодолела некоторая количественная характеристика и оказалась ЗА ним.
+  - norwegian: |
+       Konstruksjonen betyr at antallet [objekter]Theme overstiger det nærmeste [store orienteringstallet]Landmark. Orienteringstallet er ofte et rundt tall (tallordene 'тридцать' og 'сорок' og substantivene 'десяток', 'сотня' og 'тысяча'). Objektene kan være konkrete (депутаты i eksempel 3 og товары i eksempel 4) eller abstrakte (градусы og годы i eksempel 1, 2 og 5). Det er som om orienteringstallet fremstår som et hinder som en viss kvantitativ størrelse har forsert, slik at den er havnet PÅ DEN ANDRE SIDEN AV det.
 examples:
   - |
        'Мороз уже за [тридцать]Landmark [градусов]Theme.'
@@ -27,19 +29,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Nominal Quantifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - Theme
   - Landmark
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [obl [case за] Num-Acc] NP-Gen.Plur]; [root набралось [obl [case за] [nummod сотню] желающих]]'
+dependency_structure:
+  - '[root [obl [case за] Num-Acc] NP-Gen.Plur]'
+  - '[root набралось [obl [case за] [nummod сотню] желающих]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

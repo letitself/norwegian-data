@@ -15,19 +15,24 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
+  - Parenthetical
   - Praedicаtive Expression
+  - Verb predicate
 syntactic_structure_of_anchor:
-  - Conj
-  - Noun
-  - Adv
-  - Verb
+  - Praedic
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Noun
+  - Pred
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

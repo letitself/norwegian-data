@@ -3,9 +3,21 @@ record: 1168
 name: 'VP под эгидой NP-Gen'
 UD_name: 'VP под эгидой NP-Gen'
 illustration: 'Конференция пройдёт под эгидой ООН.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на то, что некоторое [событие]Event или [действие]Action проходит по инициативе или при поддержке [участника]Participant.
 examples:
+  - |
+       'В Париже в конце этого года под эгидой [ООН]Participant пройдет [большая экологическая конференция]Event.'
+  - |
+       '[Семинар]Event был проведён под эгидой [Минздрава Узбекистана]Participant.'
+  - |
+       'Команда ученых под эгидой [Университета Южной Калифорнии]Participant [провела исследование мозга у больных раком]Event.'
+  - |
+       '[Протестующие собрались на митинг]Action под эгидой [партии «Русское единство»]Participant.'
+  - |
+       '[Состязания проходят]Event под эгидой [Министрества Спорта]Participant.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,25 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Event
+  - Action
+  - Participant
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкие конструкции 1169 VP под знаком NP-Gen (Выступление проходило под знаком протеста.), 1167 VP под защитой NP-Gen (Памятник архитектуры находится под защитой ЮНЕСКО).'
 references:
   - |
     ""

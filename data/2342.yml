@@ -9,6 +9,8 @@ definitions:
        Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне.
   - english: |
        The construction is used when the speaker prompts the interlocutor to stop performing [some action]Action, as it seems to him inappropriate or inadequate (for example, not serious enough in a particular situation). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren anmoder samtalepartneren om å slutte å utføre [en gitt handling]Action fordi taleren finner den malplassert eller upassende (f.eks. spøke når man burde være alvorlig eller sørge når man burde være glad). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
 examples:
   - |
        'И кончай [жрать в таких количествах]Action, скоро в дверь пролезать не будешь.'
@@ -28,9 +30,10 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Predicate
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - VP
+  - N
+  - A
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
@@ -38,8 +41,11 @@ semantic_roles:
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root кончать-Imper [xcomp VP-Imp.Inf]]; [root кончайте [xcomp паниковать]]'
+dependency_structure:
+  - '[root кончать-Imper [xcomp VP-Imp.Inf]]'
+  - '[root кончайте [xcomp паниковать]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'см. конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать)'
 references:

@@ -3,9 +3,21 @@ record: 790
 name: 'VP в память о NP-Loc'
 UD_name: 'VP в память о NP-Loc'
 illustration: 'Он посадил дерево в память о брате.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action посвящается конкретному [человеку]Participant, [группе людей]Participant или [событию]Event. Этот человек, группа людей или событие важны для участника ситуации или обладают исторической значимостью.
 examples:
+  - |
+       '[Затем город стал новой столицей Римской империи и назвался Константинополем]― в память о [первом христианском императоре Константине Великом]Participant.'
+  - |
+       '[Вместе со всеми я сажала деревья в парке]Action в память о [посещении дома великого композитора]Event.'
+  - |
+       'Перстень теперь у нас, [Люля недавно в память о [нашей дружбе]State подарила его Володе после концерта]Action.'
+  - |
+       'В память о [нем]Participant [мы сегодня пьем крымский «херес»]Action ― вино мужское, творческое, очень адекватное нашей беседе.'
+  - |
+       'В память о [Войне Алой и Белой розы]Event [каждый год проводятся спортивные соревнования между университетами]Action ― мы танцевали с алыми повязками на рукаве, йоркские студенты ― с белыми.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Event
+  - Participant
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

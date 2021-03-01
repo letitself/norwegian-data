@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция понижает степень интенсивности [признака]Property или [действия]Action.
+  - norwegian: |
+       Konstruksjonen gjør at [et kjennetegn]Property eller [en handling]Action blir mindre intensivt.
 examples:
   - |
        'Надо сказать, пока зарубежные банки не очень-то [охотно]Property приходили в нашу страну.'
@@ -21,20 +23,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
   - Negation
 part_of_speech_of_anchor:
   - Adv
   - Negation Marker
-  - Particle
+  - Part
 semantic_roles:
   - Property
   - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'XP может быть заполнено VP (не очень торопился), Adj/Adv (не очень красивый/красиво), NP (не очень-то он и молодец). См. близкие конструкции не сильно XP; немного/немножко XP'
 references:

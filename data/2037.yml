@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что в результате математической операции деления [одного числа]Quantity (делимого) на [другое]Quantity (делитель) получается целое число с [остатком]Quantity. Числовое значение остатка может называться или опускаться.
+  - norwegian: |
+       Konstruksjonen betyr at man som svar på regneoperasjonen å dele [et tall]Quantity (dividend) med [et annet]Quantity (divisor) får et helt tall med [rest]Quantity. Restens tallverdi kan være nevnt eller utelatt.
 examples:
   - |
        '[Семнадцать]Quantity делится на [пять]Quantity с остатком [два]Quantity.'
@@ -25,16 +27,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Verb Predicate
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
 semantic_roles:
   - Quantity
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию 2036 NumCrd-Nom (не) делится (нацело) на NumCrd-Acc (Семь не делится нацело на два).'
 references:

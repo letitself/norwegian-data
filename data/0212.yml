@@ -6,11 +6,9 @@ illustration: 'Мы не бомжи какие-нибудь!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый участник (реже: объект) с точки зрения говорящего не является представителем некоторого [множества участников]Theme, не заслуживающих внимания или уважения и обозначенных с оттенком пренебрежения. Конструкция содержит негативную оценку представителей этого множества и возвышает над ними участника или объект по их статусу, качеству или другим характеристикам. Подразумевается, что этим участником нельзя пренебрегать, а следует оценить по достоинству.
-  - english: |
-       This construction expresses that X is not to be compared with [Y]Theme, since X has a much higher status, e.g. мы ‘we’ and бомжи ‘homeless people’. The construction involves a negative evaluation of [Y]Theme.
+       Конструкция обозначает, что некоторый участник (реже: объект) с точки зрения говорящего не является [представителем некоторого множества участников]Theme. Подразумевается, что представители этого множества  не заслуживают внимания или уважения. Конструкция содержит негативную оценку представителей этого множества и возвышает над ними участника или объект по их статусу, качеству или другим характеристикам. Подразумевается, что этим участником нельзя пренебрегать, а следует оценить по достоинству.
   - norwegian: |
-       Konstruksjonen uttrykker at X ikke er til å sammenligne med [Y]Theme siden X har en mye høyere status, f.eks. мы ‘we’ and бомжи ‘homeless people’. Konstruksjonen innebærer en negativ evaluering av [Y]Theme.
+       Konstruksjonen betyr at en deltaker (sjeldnere: et objekt), etter talerens mening, ikke er [representant for en gitt mengde deltakere]Theme. Det er underforstått at representantene for denne mengden ikke fortjener oppmerksomhet eller respekt. Konstruksjonen inneholder en nedvurdering av representantene for denne mengden og setter deltakeren eller objektet høyere enn dem, grunnet status, gode egenskaper eller andre kjennetegn. Det er underforstått at deltakeren ikke må ringeaktes, men vedsettes ordentlig.
 examples:
   - |
        'Да и вообще, это звучит гордо: «Ты кем работаешь?» ― «Спасателем!» А не [менеджером]Theme каким-нибудь.'
@@ -27,18 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Praedic
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Pronoun
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pron
 semantic_roles:
   - Participant
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod не] NP [amod какой-нибудь]]; [root [nsubj мы] [advmod не] бомжи [amod какие-нибудь!]]'
+dependency_structure:
+  - '[root [advmod не] NP [amod какой-нибудь]]'
+  - '[root [nsubj мы] [advmod не] бомжи [amod какие-нибудь!]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

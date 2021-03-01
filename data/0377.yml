@@ -3,28 +3,49 @@ record: 377
 name: 'что NP-Nom устроить!'
 UD_name: 'что NP-Nom устроить!'
 illustration: 'Что ты устроил! Почему вокруг грязь?'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для выражения негативной оценки действий [участника]Participant. Говорящий недоволен результатом действий участника, который оказывается для него неожиданным. Заменить пример с позитивной коннотацией!
+       Конструкция выражает негативную оценку действий [собеседника]Listener или другого [участника ситуации]Participant. Говорящий недоволен результатом этих действий, результат оказывается для него неожиданным. Как правило, речь идет о создании беспорядка, хаоса, сломанных или запачканных вещах (в физическом пространстве) или скандальном, агрессивном или слишком эмоциональном поведении (в социальном пространстве). Конструкция обычно используется в прошедшем времени. Вместо "что" может использоваться более разговорная форма "чего".
+  - english: |
+       This constrution involves a rhetorical question and is used when [someone]Participant is responsible for something that surprizes and strongly affects the speaker on an emotional level. The particular situation is understood from context and is often negative, but can also be positive. In written text, the question can be followed by either a question mark or an exclamation mark.
+  - norwegian: |
+       Konstruksjonen innebærer et retorisk spørsmål og brukes når [noen]Participant er ansvarlig for noe som overrasker og fremkaller sterke følelser hos taleren. Den aktuelle situasjonen forståes ut fra konteksten og er ofte negativ, men kan også være positiv. I skrift er både spørsmålstegn og utropstegn mulig.
 examples:
+  - |
+       '― Юрка вскочил на ноги и разозлился из-за полного беспорядка вокруг. ― [Вы]Listener чего тут устроили!'
+  - |
+       'Что [вы]Listener устроили в моем доме? Кто эти люди, и почему они здесь танцуют? Я не потерплю такой невоспитанности!'
+  - |
+       'Что [они]Participant тут устроили. Все носятся! Туда-сюда, туда-сюда! Старики, старухи, дети... Кричат, гогочут – прямо как стая ворон.'
+  - |
+       'Пожарный выскочил из кабины и закричал: Что [вы]Listener тут устроили? Ваша база горит!'
+  - |
+       'Боже мой, что [она]Participant тут устроила, цирк, да и только. Вся комната разгромлена, везде мусор и осколки.'
 morphology:
   - NP
   - Nom
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Object
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Verb
 semantic_roles:
-  - ~
+  - Listener
+  - Participant
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

@@ -9,18 +9,24 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Connection Construction
+  - Cl
+  - XP with parentheticals
 syntactic_function_of_anchor:
-  - Conjunction
+  - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

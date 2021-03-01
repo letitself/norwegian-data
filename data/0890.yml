@@ -1,7 +1,7 @@
 ---
 record: 890
 name: 'во́т PronPers-Nom Cop где!'
-UD_name: 'вот PronPers-Nom Cop где!'
+UD_name: 'во́т PronPers-Nom Cop где!'
 illustration: 'Во́т он где!'
 cefr_level: 
 definitions:
@@ -14,15 +14,22 @@ syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на ситуацию распределения [объектов]Theme или [участников]Participant по нескольким местоположениям[Location]. При этом в каждом из местоположений находится одинаковое [количество]Quantity [объектов]Theme, и все объекты занимают одинаковую [позицию]State в пространстве (например, они лежат, стоят и пр.).
+  - norwegian: |
+       Konstruksjonen viser til en situasjon, der [objekter]Theme eller [deltakere]Participant fordeles på flere steder[Location] og det på hvert sted befinner seg en lik [mengde]Quantity [objekter]Theme som inntar samme [posisjon]State i rommet (f.eks. de ligger, står e.l.).
 examples:
   - |
        '[В обеих руках]Location у неё [было]State по [сумке]Theme.'
@@ -26,9 +28,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Subject
+  - Government
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -39,6 +42,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

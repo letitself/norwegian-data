@@ -3,8 +3,10 @@ record: 754
 name: 'VP в границах NP-Gen'
 UD_name: 'VP в границах NP-Gen'
 illustration: 'Около 15 миллионов человек проживает в границах Москвы.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Participant взволнован, растерян, испуган или огорчен до такой степени, что перемена в нем заметна говорящему и (или) окружающим людям. Причина состояния [участника]Participant может быть выражена именной группой с предлогом от (пример 6).
 examples:
 morphology:
   - VP
@@ -13,7 +15,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -24,6 +26,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

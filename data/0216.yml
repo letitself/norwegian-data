@@ -7,8 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящему неизвестны или непонятны [объект действия, участник действия или обстоятельства ситуации (как, где, когда, почему)]Theme. Конструкция как правило несет негативную оценку.
-  - english: |
-       This construction signifies that [an object, exactly how the action was performed or where]Theme is unknown to the speaker. This is an old-fashioned construction.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke kjenner til eller ikke forstår [objektet for handlingen, en deltaker i handlingen eller omstendighetene rundt situasjonen (hvordan, hvor, når og hvorfor)]Theme. Konstruksjonen er som regel negativt ladet.
 examples:
   - |
        'Они сказали невесть [что]Theme, а вы повторяете.'
@@ -25,18 +25,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - Theme
 intonation:
   - ~
-usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod невесть] PronInt]; [root [advmod [advmod невесть] откуда] [nsubj он] пришел [advmod вчера]]'
+usage_label: Obsolete
+dependency_structure:
+  - '[root [advmod невесть] PronInt]'
+  - '[root [advmod [advmod невесть] откуда] [nsubj он] пришел [advmod вчера]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции 35 бог весть PronInt (Они принесли в пакете бог весть что), 217 незнамо PronInt (Незнамо как я вернулся домой).'
 references:

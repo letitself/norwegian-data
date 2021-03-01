@@ -1,19 +1,19 @@
 ---
 record: 963
-name: 'VР день и ночь'
-UD_name: 'VР день и ночь'
+name: 'VP день и ночь'
+UD_name: 'VP день и ночь'
 illustration: 'День и ночь мы готовились к экзамену.'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - VР
+  - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Noun
   - Conj
@@ -22,6 +22,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -1,11 +1,23 @@
 ---
 record: 834
 name: 'VP в ущерб/во вред NP-Dat'
-UD_name: 'VP в ущерб / во вред NP-Dat'
+UD_name: 'VP в ущерб/во вред NP-Dat'
 illustration: 'Зачем заниматься спортом в ущерб здоровью?'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation или выполнение [действия]Action влечет за собой вред или ущерб названному [объекту]Theme.
 examples:
+  - |
+       'Но никогда здесь [не примут решения о минимизации затрат]Action в ущерб [качеству обслуживания]Theme, установленному внутренними правилами клиники.'
+  - |
+       'По всей стране искали детей с необходимыми данными и талантами, десятки тысяч из них были отправлены на тренировки, которые зачастую [проходили]Situation в ущерб [учебе]Theme.'
+  - |
+       '― [Пражские соглашения пошли]Situation на благо или во вред [шахматам]Theme?'
+  - |
+       'И если вам кажется, что Нестор [делает что-то]Action [себе]Theme во вред, помните ― он никогда не ошибается.'
+  - |
+       'Разве Костя может [захотеть]Action хоть что-нибудь во вред [ей]Theme?'
 morphology:
   - VP
   - NP
@@ -13,17 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Situation
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

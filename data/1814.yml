@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает уверенность говорящего в том, что некоторый [объект]Theme или [участник]Participant по умолчанию обязательно должен быть вовлечён в некоторую ситуацию. С его точки зрения, ситуация не мыслится без этого объекта или участника. Говорящий выражает свою уверенность в виде риторического вопроса с вопросительным словом "как". Как если бы он не понимал, почему его собеседник сомневается, вовлечён ли этот объект или участник в ситуацию или нет.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens overbevisning om at et gitt [objekt]Theme eller en gitt [deltaker]Participant opplagt og absolutt må være inkludert i en situasjon. Etter talerens oppfatning er situasjonen utenkelig uten dette objektet eller denne deltakeren. Taleren uttrykker sin overvbevisning ved hjelp av et retorisk spørsmål med spørreordet 'как'. Det er som om vedkommende ikke forstår hvordan samtalepartneren kan tvile på at objektet eller deltakeren er inkludert i situasjonen.
 examples:
   - |
        '– Мы пригласим [дедушку]Theme? – А как же без [дедушки]Theme!'
@@ -24,17 +26,24 @@ morphology:
 syntactic_type_of_construction:
   - Discourse "Echo" Construction
 syntactic_function_of_anchor:
-  - ~
+  - Praedicаtive Expression
+  - Discourse Particle
 syntactic_structure_of_anchor:
-  - ~
+  - Pron
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Pron
+  - Prep
 semantic_roles:
   - Theme
   - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает неточное количество [объектов]Theme, которое немного меньше, чем ближайший [крупный числовой ориентир]Landmark. Ориентир как правило выражен целыми и и часто круглыми числами (числительные "десять", "сорок"; существительные "десяток", "сотня", "тысяча"). Объекты могут быть конкретными (люди, автомобили, рубли) или абстрактными (годы).
+  - norwegian: |
+       Konstruksjonen betegner [objekter]Theme av et upresist antall som er litt mindre enn nærmeste [store orienteringstall]Landmark. Orienteringstallet er som regel et helt og ofte rundt tall (tallordene 'десять', 'сорок' eller substantivene 'десяток', 'сотня', 'тысяча'). Objektene kan være konkrete (mennesker, biler, rubler) eller abstrakte (år).
 examples:
   - |
        'И всё-таки мы женаты без малого [десять]Landmark [лет]Theme.'
@@ -25,19 +27,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Adj
 semantic_roles:
   - Theme
   - Landmark
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [case без] [amod малого] [nummod Num] NP-Gen]; [root [case без] [amod малого] [nummod двадцать] лет]'
+dependency_structure:
+  - '[root [case без] [amod малого] [nummod Num] NP-Gen]'
+  - '[root [case без] [amod малого] [nummod двадцать] лет]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

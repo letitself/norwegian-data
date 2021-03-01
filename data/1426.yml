@@ -3,28 +3,45 @@ record: 1426
 name: 'VP вниз головой'
 UD_name: 'VP вниз головой'
 illustration: 'Девочка висит вниз головой.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на местоположение человека (или, реже, животного, пример 5) в пространстве: конструкция обозначает, что участник [находится]State в подвешенном состоянии, причем его ноги оказываются сверху, а голова внизу. Конструкция также может обозначать, что участник совершает некоторое [движение]Action, при котором голова оказывается впереди (примеры 3, 4).
 examples:
+  - |
+       'Папа показал мне фотографию, на которой они вдвоем дурачатся, [висят]State на перекладине вниз головой.'
+  - |
+       'Я перекинул ноги через перекладину и [повис]State вниз головой.'
+  - |
+       'Соня бельё вешала, встала на стул и [упала]Action вниз головой.'
+  - |
+       'Она разбежалась и [прыгнула в воду]Action вниз головой.'
+  - |
+       'Рядом кошачий цирк, где лохматые акробаты [ползают по шестам]Action вниз головой.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - State
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "Рахилина, Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, изд. 2, испр. и доп. – 448 с. (стр. 264)"
 semantic_types:
   - type: Manner
   - type: Temporary characteristics

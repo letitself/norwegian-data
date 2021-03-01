@@ -1,7 +1,7 @@
 ---
 record: 1267
 name: 'PronPers-Pl с NP-Ins'
-UD_name: 'PronPers-Pl с NP-Ins'
+UD_name: 'PronPers-Plur с NP-Ins'
 illustration: 'Нам с Машей это не нравится.'
 cefr_level: 
 definitions:
@@ -14,16 +14,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Prep
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

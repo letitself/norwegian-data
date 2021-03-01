@@ -1,7 +1,7 @@
 ---
 record: 466
 name: 'NP-Acc не проведёшь'
-UD_name: 'NP-Acc не проведешь'
+UD_name: 'NP-Acc не проведёшь'
 illustration: 'Почтальона не проведёшь.'
 cefr_level: 
 definitions:
@@ -12,16 +12,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Negation marker
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

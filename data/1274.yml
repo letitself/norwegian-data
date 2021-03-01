@@ -9,6 +9,8 @@ definitions:
        Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, которое выражено существительным (например, довольно дурацких замечаний = довольно делать дурацкие замечания, довольно убийств = довольно убивать, довольно крови = довольно проливать кровь = убивать и пр.) Говорящий оценивает это действие отрицательно, так как оно кажется ему слишком длительным или неуместным. Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником. Конструкция может также использоваться говорящим по отношению к самому себе (пример 4).
   - english: |
        The construction is used when the speaker prompts the other person to stop doing [some action]Action,which is expressed by a noun. The speaker evaluates this action negatively, since it seems to them too long or inappropriate. The construction expresses a categorical requirement of the speaker and implies the immediate fulfillment of this requirement by the interlocutor. The construction can also be used by the speaker in relation to themselves (example 4).
+  - norwegian: |
+       Konstruksjonen benyttes når taleren anmoder samtalepartneren om å slutte å utføre [en handling]Action som er uttrykt ved hjelp av et substantiv (f.eks. довольно дурацких замечаний = довольно делать дурацкие замечания, довольно убийств = довольно убивать, довольно крови = довольно проливать кровь = убивать m.fl.). Taleren har et negativt syn på handlingen fordi den synes å være for langvarig eller upassende. Konstruksjonen fremstår som et absolutt krav fra talerens side, og det er underforstått at samtalepartneren må innfri det umiddelbart. I tillegg kan taleren bruke konstruksjonen overfor seg selv (eksempel 4).
 examples:
   - |
        '― Довольно [крови]Action, довольно [убийств]Action! ― сказала она ровно, заученно и громко.'
@@ -26,17 +28,24 @@ morphology:
   - NP
 syntactic_type_of_construction:
   - Copula Construction
+  - Clause
 syntactic_function_of_anchor:
+  - Verb Predicate
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pred
 semantic_roles:
   - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'см. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться), хорош VP-Imp.Inf! (Эй, наверху! Хорош прыгать!). Не путать с конструкциями с Pron-Gen хватит/довольно (NP-Gen.Plur) (с меня хватит), NP-Gen хватить за глаза (Этого хватит за глаза), довольно/достаточно Adv/Adj (я ждал её довольно долго).'
 references:

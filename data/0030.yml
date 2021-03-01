@@ -3,25 +3,43 @@ record: 30
 name: 'ай да NP-Nom!'
 UD_name: 'ай да NP-Nom!'
 illustration: '– Ай да герой! – крикнул директор в восторге.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения одобрения действий участника и, как правило, для выражения позитивной [оценки]Evaluation. Обычно на письме сопровождается восклицательным знаком. Only in present tense.
+  - english: |
+       This construction is used to give an [evaluation]Evaluation of someone for something they have done. In writing, the construction tends to be followed by an exclamation mark.
+  - norwegian: |
+       Konstruksjonen brukes for å gi [evaluering]Evaluation av noen for noe vedkommende har gjort. I skrift etterfølges konstruksjonen som regel av utropstegn.
 examples:
+  - |
+       'Братья потирали в восторге руки, хихикали: " Ай да [мы]Evaluation...!" Их, конечно, можно понять.'
+  - |
+       'Ай да [Бенкендорф]Evaluation, ай да [сукин сын]Evaluation!'
+  - |
+       'Ай да [Хрипушин]Evaluation! Ай да [свинья]Evaluation! Нашёл что придумать!» ― подумала она.'
 morphology:
   - NP
   - Nom
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Intj
+  - Pron
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

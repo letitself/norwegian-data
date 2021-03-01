@@ -3,7 +3,7 @@ record: 73
 name: 'время от времени Cl'
 UD_name: 'время от времени Cl'
 illustration: 'Время от времени я перестаю что-либо успевать.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -11,17 +11,22 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Nominal Pattern
   - Reduplication
 part_of_speech_of_anchor:
   - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

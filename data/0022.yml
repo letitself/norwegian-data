@@ -1,14 +1,14 @@
 ---
 record: 22
 name: '(NP-Dat) Cop девать некуда NP-Acc'
-UD_name: '(NP-Dat)  Cop девать некуда NP-Acc'
+UD_name: '(NP-Dat) Cop девать некуда NP-Acc'
 illustration: 'Нам уже еду девать некуда.'
 cefr_level: A2
 definitions:
   - russian: |
        Конструкция подчеркивает избыточность некоторого [объекта]Theme, которым располагает [участник]Participant. Количество объекта намного больше, чем необходимо. Упоминание самого [участника]Participant опционально. Конструкция используется в неформальном общении.
-  - english: |
-       This construction is used to emphasise the excess of an [object]Theme that the [participant]Participant has. The amount of the object is much larger than necessary. Mentioning the [participant]Participant is optional.
+  - norwegian: |
+       Konstruksjonen understreker en overflod av [et objekt]Theme som [deltakeren]Participant besitter. Mengden av objektet er mye større enn nødvendig. Å nevne [deltakeren]Participant er valgfritt. Konstruksjonen brukes i uformell kommunikasjon.
 examples:
   - |
        '[Нам]Participant [эту картошку]Theme девать некуда.'
@@ -31,21 +31,23 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
-  - Pron
-  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Adv
 semantic_roles:
   - Theme
   - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [obl NP-Dat] [obj NP-Acc] девать [advmod некуда]]; [root [obl нам] [advmod уже] [obj еду] девать [advmod некуда]]'
+dependency_structure:
+  - '[root [obl NP-Dat] [obj NP-Acc] девать [advmod некуда]]'
+  - '[root [obl нам] [advmod уже] [obj еду] девать [advmod некуда]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "ссылка на иомдина"
 semantic_types:
   - type: Measure
 family:

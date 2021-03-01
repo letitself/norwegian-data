@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция используется для обозначения среднего арифметического значения (число, равное сумме всех чисел множества, делённой на их количество). В неформальном контексте конструкция называет неточное, приблизительное [количество]Quantity [объектов]Theme или [единиц измерения]Measure.
+  - norwegian: |
+       Konstruksjonen brukes for å angi en gjennomsnittlig tallverdi (det tallet som er lik summen av alle tallene i en mengde, delt på antall tall). I en uformell kontekst betegner konstruksjonen en upresis, omtrentlig [mengde]Quantity [objekter]Theme eller [måleenheter]Measure.
 examples:
   - |
        'Сила укуса человека составляет в среднем [890]Quantity [ньютонов]Measure.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -38,6 +40,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

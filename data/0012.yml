@@ -1,11 +1,23 @@
 ---
 record: 12
-name: '(не) время Cop VP-Inf'
-UD_name: '(не) время Cop VP-Inf'
+name: '(не/самое) время Cop VP-Inf'
+UD_name: '(не/самое) время Cop VP-Inf'
 illustration: 'Самое время вершить большие дела.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что для совершения некоторого [действия]Action наступил удачный, подходящий момент и этим нужно воспользоваться. Когда используется "не", конструкция обозначает, что момент речи не является удачным для совершения этого действия, а слот заполняется только глаголами несовершенного вида.
 examples:
+  - |
+       'Сейчас не время [спорить.]Action'
+  - |
+       'Но не время было [размышлять]Action. Иван Дмитриевич бросился девушке на помощь, поручик ― за ним.'
+  - |
+       '― Ладно, мы ходим, ходим, а время [обедать]Action. Давайте купим поесть чего-нибудь и пойдем к тебе.'
+  - |
+       'Сейчас было самое время слегка [проветриться]Action, [прогуляться]Action, [прийти в себя]Action.'
+  - |
+       'Если фрау Урф дает обед в честь русских писателей, то она постарается. Об этом еще будет время [рассказать]Action.'
 morphology:
   - Cop
   - VP
@@ -15,16 +27,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod не] время [csubj VP-Inf]]; [root [amod самое] время [csubj вершить [obj [amod большие] дела.]]]'
+dependency_structure:
+  - '[root [advmod не] время [csubj VP-Inf]]'
+  - '[root [amod самое] время [csubj вершить [obj [amod большие] дела.]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -37,4 +53,4 @@ semantic_types:
       - type: Proper time
 family:
   - |
-    ""
+    "Proper time"

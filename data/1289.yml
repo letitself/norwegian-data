@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает [действие]Action, осуществление которого зависит от [разрешения или согласия]Cause [другого участника]Participant.
+  - norwegian: |
+       Konstruksjonen betegner [en handling]Action som er avhengig av [en annen deltakers]Participant [tillatelse eller samtykke]Cause for å kunne gjennomføres.
 examples:
   - |
        'Бывшая домработница, ставшая няней, с разрешения [Саши]Participant, [выбросила все банки с детским питанием]Action и готовила Леночке сама.'
@@ -26,9 +28,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -36,8 +39,12 @@ semantic_roles:
   - Cause
   - Participant
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Конструкция также может иметь вид VP с Adj-Gen/PronPoss-Gen NP-Gen.Sg в случаях типа Он поехал туда один с маминого/родительского/моего разрешения.'
 references:

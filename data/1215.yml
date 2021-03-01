@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает, что [участнику ситуации]Participant дается разрешение на выполнение некоторого [действия]Action. Конструкция также используется, чтобы выразить просьбу участника дать ему такое разрешение.
   - english: |
        This construction expresses that a [participant]Participant receives a permission to perform a certain [action]Action. The construction can also be uesed to express a request for such a permission.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i en situasjon]Participant gis tillatelse til å utføre en gitt [handling]Action. Konstruksjonen brukes også for å uttrykke at deltakeren ber om å få en slik tillatelse.
 examples:
   - |
        '― Можно [мне]Participant [идти]Action? ― спрашиваю я у Екатерины Михайловны. ― Конечно.  Если ты всё понял.'
@@ -31,17 +33,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Pred
 semantic_roles:
   - Action
   - Participant
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nmod NP-Dat] можно [nsubj VP-Inf]]; [root [nmod мне] можно [nsubj открыть [obj окно]]]'
+dependency_structure:
+  - '[root [nmod NP-Dat] можно [nsubj VP-Inf]]'
+  - '[root [nmod мне] можно [nsubj открыть [obj окно]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

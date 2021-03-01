@@ -1,7 +1,7 @@
 ---
 record: 757
 name: 'NP/VP в духе NP-Gen'
-UD_name: 'в духе NP-Gen'
+UD_name: 'NP/VP в духе NP-Gen'
 illustration: 'Рассказ в духе Чехова'
 cefr_level: 
 definitions:
@@ -13,16 +13,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Nominal pattern
+  - Modifier
 syntactic_structure_of_anchor:
+  - Complex prep
   - Nominal pattern
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

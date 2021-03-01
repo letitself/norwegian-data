@@ -1,7 +1,7 @@
 ---
 record: 229
-name: '(у NP-Gen) ни капли NP-Gen нет/не Cop'
-UD_name: '(у NP-Gen) ни капли NP-Gen нет/не Cop'
+name: '(у NP-Gen) ни капли NP-Gen нет'
+UD_name: '(у NP-Gen) ни капли NP-Gen нет'
 illustration: 'Ни капли сострадания к ней нет.'
 cefr_level: B1
 definitions:
@@ -10,7 +10,7 @@ definitions:
   - english: |
        This construction expresses that, in a certain situation, someone is completely void of [a certain feeling/emotion]Theme, e.g. сострадание ‘compassion’. A closely related construction in English ‘not feel any X’.
   - norwegian: |
-       Konstruksjonen uttrykker at noen i en gitt situasjon er fullstendig blottet for [en viss følelse]Theme, f.eks. сострадание ‘medlidenhet’. En nærliggende konstruksjon i norsk er ‘å ikke ha/føle det minste X’.
+       Konstruksjonen har dobbel nektelse og betegner et totalt (fullstendig) fravær av [noe]Theme ved å avvise at selv den minste [bestanddel]Theme av det, foreligger. Konstruksjonen kan brukes så vel i direkte betydning (om flytende væsker, eksempel 1) som i overført, om følelser, emosjoner og evner (som om de var flytende væsker, eksempel 2, 3, 4 og 5).
 examples:
   - |
        'Долгое время геологи полагали, что Луна засушливее любой пустыни, что там нет ни капли [воды]Theme.'
@@ -25,7 +25,6 @@ examples:
 morphology:
   - NP
   - Gen
-  - Cop
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -42,8 +41,13 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [obl [advmod ни] капли [nmod NP-Gen]] нет]; [root [obl [advmod ни] капли [nmod сострадания]] [obl [case к] ней] нет]'
+dependency_structure:
+  - '[root [obl [advmod ни] капли [nmod NP-Gen]] нет]'
+  - '[root [obl [advmod ни] капли [nmod сострадания]] [obl [case к] ней] нет]'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'В данном случае слово "нет" – это экзистенциальный глагол, а не связочный, в прошедшем времени он заменяется на "не было", а в будущем на "не будет".'
 references:
   - |
     ""

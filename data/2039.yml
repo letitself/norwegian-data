@@ -1,12 +1,14 @@
 ---
 record: 2039
 name: 'из NumCrd-Gen вычесть NumCrd-Acc равно/VP NumCrd-Nom/NumCrd-Dat'
-UD_name: 'из NumCrd-Gen вычесть NumCrd-Acc равно/VP NumCrd-Nom'
+UD_name: 'из NumCrd-Gen вычесть NumCrd-Acc равно/VP NumCrd-Nom/NumCrd-Dat'
 illustration: 'Из семи вычесть два получится пять.'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами "будет", "получится" или "равняется". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (пример 5). Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа (примеры 1, 2, 3, 4).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет', 'получится' eller 'равняется'. Ved bruk av ordene 'равно' eller 'равняется' står svaret i nominativ eller dativ (eksempel 5). Sammen med ordene будет og получится, eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 1, 2, 3 og 4).
 examples:
   - |
        '― А из [восьмидесяти]Quantity вычесть [восемьнадцать]Quantity? ― [Шестьдесят два]Result! ― быстро ответил летчик.'
@@ -28,17 +30,26 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Government
+  - Verb Predicate
+  - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Verb
+  - Pred
 semantic_roles:
   - Quantity
   - Result
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции 1857 NumCrd-Nom минус NumCrd-Nom – (равно/будет/получится/выйдет) NumCrd-Nom/NumCrd-Dat (Пять минус три будет два) и 2040 от NumCrd-Gen отнять NumCrd-Acc равно/будет/получится/выйдет NumCrd-Nom (От восьми отнять три будет пять).'
 references:

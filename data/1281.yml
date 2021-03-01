@@ -3,24 +3,44 @@ record: 1281
 name: 'Cl оттого, что Cl'
 UD_name: 'Cl оттого, что Cl'
 illustration: 'Боли могут быть оттого, что носишь тяжести.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action или [ситуации]Situation.
+  - norwegian: |
+       Konstruksjonen betyr at én [handling eller situasjon]Cause er årsak til en annen [handling]Action eller [situasjon]Situation.
 examples:
+  - |
+       '[Анна проснулась]Action оттого, что [в окно светило солнце]Cause.'
+  - |
+       '[Сара чувствовала себя уставшей]Situation оттого, что [мало спала]Cause.'
+  - |
+       '[Он молчал]Action оттого, что [был несколько ошеломлен рассказом]Cause.'
+  - |
+       'Отец говорил, [волки воют весной]Situation оттого, что [им есть теперь нечего]Cause.'
+  - |
+       '[Люди страдают]Situation оттого, что [неправильно живут]Cause.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

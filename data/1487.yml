@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает большое количество [объектов]Theme. [Объектами]Theme обычно бывают жидкости, эмоции, абстрактные понятия. Слот может заполняться как исчисляемыми существительными (подарки, люди), так и неисчисляемыми (кровь, радость, информация).
+  - norwegian: |
+       Konstruksjonen betegner et stor mengde [objekter]Theme. [Objektene]Theme er vanligvis flytende væsker, emosjoner og abstrakte begreper. Sloten kan fylles av så vel tellelige substantiver (gaver, mennesker) som av utellelige (blod, glede, informasjon).
 examples:
   - |
        'Разве мало вам того моря [крови]Theme, того моря [слёз]Theme, что мы пролили за войну?'
@@ -26,7 +28,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Nominal quantifier
 syntactic_structure_of_anchor:
-  - Nominal Pattern
+  - N
+  - A
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
@@ -34,8 +37,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root море [nmod NP-Gen.Plur]]; [root море [nmod цветов]]'
+dependency_structure:
+  - '[root море [nmod NP-Gen.Plur]]'
+  - '[root море [nmod цветов]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

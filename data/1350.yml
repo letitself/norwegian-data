@@ -1,7 +1,7 @@
 ---
 record: 1350
 name: 'всё время VP'
-UD_name: 'все время VP'
+UD_name: 'всё время VP'
 illustration: 'Почему ты всё время жалуешься?'
 cefr_level: 
 definitions:
@@ -11,9 +11,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
 part_of_speech_of_anchor:
   - Noun
   - Pron
@@ -22,6 +22,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция выражает постепенное нарастание интенсивности действия или характеристики предмета: в каждый следующий момент времени [характеристика]Property действия постепенно усиливается и становится более интенсивной.
+  - norwegian: |
+       Konstruksjonen uttrykker at en handling eller et kjennetegn ved en gjenstand blir stadig mer intensivt: for hvert øyeblikk som går, blir [kjennetegnet]Property ved handlingen gradvis sterkere og mer intensivt.
 examples:
   - |
        'Он улыбается. Улыбается всё [шире]Property, а я отворачиваюсь.'
@@ -27,21 +29,24 @@ morphology:
   - VP
   - Adv
 syntactic_type_of_construction:
+  - Copula Construction
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Pron
 semantic_roles:
   - Property
 intonation:
   - Assertive
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod всё] XP-ее]; [root [nsubj шум] становился [advmod [advmod всё] сильнее]]'
+dependency_structure:
+  - '[root [advmod всё] XP-ее]'
+  - '[root [nsubj шум] становился [advmod [advmod всё] сильнее]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию всё NP-Nom Cop всё Adj-Cmp и ~Adj-Cmp/ VP Adv-Cmp и ~Adv-Cmp (Спортсмен бежал всё быстрее и быстрее.)'
 references:

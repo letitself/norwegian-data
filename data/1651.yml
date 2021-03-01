@@ -3,15 +3,27 @@ record: 1651
 name: 'со дня на день VP'
 UD_name: 'со дня на день VP'
 illustration: 'Со дня на день вернутся родители.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что, судя по текущим обстоятельствам, некоторая [ситуация]Situation будет иметь место в ближайшие несколько дней, однако точное время наступления этой ситуации неизвестно. В некоторых случаях, ситуация может не наступить.
 examples:
+  - |
+       'Со дня на день [должен был приехать врач]Situation.'
+  - |
+       'Со дня на день [новые сапоги появятся в магазинах]Situation.'
+  - |
+       'На работе обещают со дня на день [заплатить за январь]Situation.'
+  - |
+       'Спорю на рубль, Зудин со дня на день [позвонит]Situation и попросит денег взаймы.'
+  - |
+       'Вроде [у тебя жена должна родить]Situation со дня на день?'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Nominal Pattern
@@ -20,10 +32,14 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

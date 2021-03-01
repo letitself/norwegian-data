@@ -3,9 +3,21 @@ record: 816
 name: 'Cl в силу NP-Gen'
 UD_name: 'Cl в силу NP-Gen'
 illustration: 'В силу своего размера страна нуждается в большой армии.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [качество или особенность предмета]Property или [событие]Event является причиной [действия]Action или [ситуации]Situation.
 examples:
+  - |
+       '[Мать не умела жаловаться]Situation ― в силу [гордости и врождённых понятий о том, как следует вести себя в обществе]Property.'
+  - |
+       'Хотя в силу [занятости]Property [мы встречались с соседкой не слишком часто]Situation, но чувствовали друг к другу взаимную симпатию.'
+  - |
+       'В силу [общности интересов и жизненных ценностей]Property [хакеры обмениваются опытом и информацией, объединяются в группы и реализуют коллективные проекты, периодически съезжаются на семинары и конгрессы]Situation.'
+  - |
+       'Но в силу [специфики своей источниковой базы]Property [археология самостоятельно изучает опять-таки не целостный этногенез, а лишь его важную часть ― культурогенез]Situation.'
+  - |
+       '[Расходы российских туристов будут сокращаться]Situation в силу [снижения покупательной способности]Event ― из-за роста цен и инфляции.'
 morphology:
   - Cl
   - NP
@@ -13,17 +25,26 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Event
+  - Property
+  - Situation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию 817 в силу того, что Cl (В силу того, что ваши рестораны доступны по цене, в них собирается много разных людей).'
 references:
   - |
     ""

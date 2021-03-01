@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Participant осуждает [другого участника]Maleficiary за какое-либо действие (примеры 1, 2) и, как правило, также показывает свое критическое отношение, [делая словесное замечание]Action в разговоре (примеры 3, 4, 5) или совершая определенный поступок]Action (иллюстрация конструкции). Он делает это как бы с целью укорить адресата.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant fordømmer [en annen deltaker]Maldficiary for en handling (eksempel 1 og 2) og i tillegg som regel tilkjennegir sin kritiske holdning [i form av en muntlig bemerkning]Action i en samtale (eksempel 3, 4 og 5) eller ved å utføre en bestemt [handling]Action (illustrasjon av konstruksjonen). Dette gjøres liksom for å bebreide adressaten.
 examples:
   - |
        '[Церковная власть]Participant [ставит]Action в укор [католикам]Maleficiary, что они проповедуют в современной ситуации свободнее, чем то делали при православии.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -38,8 +40,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
-    'См. близкую по структуре конструкцию цели 1787 VP в пику NP-Dat (Открыли магазин здоровой еды в пику фастфуду), а также другие целевые конструкции НОМЕРА на потребу, наперекор, назло.'
+    'См. близкую по структуре конструкцию цели 1786 VP в пику NP-Dat (Открыли магазин здоровой еды в пику фастфуду), а также другие целевые конструкции: 904 VP назло NP-Dat (Назло кондуктору куплю билет), 1262 VP на потребу NP-Dat (Они торгуют сувенирами на потребу туристам), 1787 VP наперекор NP-Dat (Наперекор многим коллегам он верит в телепатию).'
 references:
   - |
     ""

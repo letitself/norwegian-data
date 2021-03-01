@@ -1,7 +1,7 @@
 ---
 record: 1588
 name: 'NP-Nom на ~NP-Acc не приходится'
-UD_name: 'NP-Nom на ~NP-Acc не приходится'
+UD_name: 'NP-Nom на NP-Acc не приходится'
 illustration: 'День на день не приходится: то работы много, то сижу без дела.'
 cefr_level: 
 definitions:
@@ -13,8 +13,7 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Subject
-  - Predicate
+  - Verb Predicate
 syntactic_structure_of_anchor:
   - Nominal Pattern
   - Reduplication
@@ -29,6 +28,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

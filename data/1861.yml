@@ -1,12 +1,14 @@
 ---
 record: 1861
 name: 'NumCrd-Nom в степени NumCrd-Nom – (равно/это/VP) NumCrd-Nom/NumCrd-Dat'
-UD_name: 'NumCrd-Nom в степени NumCrd-Nom – (равно/это/VP) NumCrd-Nom'
+UD_name: 'NumCrd-Nom в степени NumCrd-Nom – (равно/это/VP) NumCrd-Nom/NumCrd-Dat'
 illustration: 'Два в степени пять равно тридцать два.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция формулирует математическую операцию возведения [числа]Quantity в степень, названную [числом]Quantity и определяет [результат]Result. Слот VP заполняется глагольными формами "равняется", "будет" или "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 1, 2). Со словами "будет", "получится" и "это" или если они опущены, результат всегда выражен формой именительного падежа (примеры 3, 4, 5).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å opphøye [et tall]Quantity i en potens som er markert med [et tall]Quantity, og angir [svaret]Result. Sloten VP fylles av verbformene 'равняется', 'будет' eller 'получится'. Ved bruk av ordene 'равно' eller 'равняется' kan svaret stå i nominativ eller dativ (eksempel 1 og 2). Sammen med ordene 'будет', 'получится' og 'это', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 3, 4 og 5).
 examples:
   - |
        '[Два]Quantity в степени [ноль]Quantity равно [единице]Result.'
@@ -26,17 +28,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
+  - Pred
 semantic_roles:
   - Quantity
   - Result
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

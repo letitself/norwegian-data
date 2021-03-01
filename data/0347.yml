@@ -1,7 +1,7 @@
 ---
 record: 347
-name: 'ходить NP-Nom о/про NP-Loc'
-UD_name: 'ходить NP-Nom о/про NP-Loc'
+name: 'ходить NP-Nom о NP-Loc/про NP-Acc'
+UD_name: 'ходить NP-Nom о NP-Loc/про NP-Acc'
 illustration: 'Ходят слухи об отъезде Петровых.'
 cefr_level: 
 definitions:
@@ -10,19 +10,26 @@ morphology:
   - NP
   - Nom
   - Loc
+  - Acc
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Verb pattern
+  - Verb Predicate
 syntactic_structure_of_anchor:
   - Verb
+  - Goverment
 part_of_speech_of_anchor:
-  - ~
+  - Verb
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

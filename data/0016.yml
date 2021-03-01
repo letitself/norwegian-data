@@ -3,11 +3,21 @@ record: 16
 name: '(NP-Dat) грех Cop VP-Inf'
 UD_name: '(NP-Dat) грех Cop VP-Inf'
 illustration: 'Грех обижаться на взрослых.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       грех было бы упрекнуть, грех было не воспользоваться, грех было отказываться, грех было отказать.
+       Конструкция обозначает, что говорящий считает [действие]Action [участника ситуации]Experiencer предосудительным, стыдным, нехорошим. неправильным
+  - english: |
+       This construction means that [a given activity]Action, such as смеяться над старыми ‘make fun of old people’, is reprehensible, shameful or in other ways wrong. грех было бы упрекнуть, грех было не воспользоваться, грех было отказываться, грех было отказать.грех было бы упрекнуть, грех было не воспользоваться, грех было отказываться, грех было отказат0ь. может в настоящем времени только нес вид? проверять по корпусу
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action, f.eks. смеяться над старыми ‘le av gamle mennesker’, er kritikkverdig, skammelig eller på andre måter galt.
 examples:
+  - |
+       'И в общем-то грех [требовать]Action от наших врачей какого-то сочувствия.'
+  - |
+       'Грех [упускать возможную выгоду.]Action'
+  - |
+       '[Им]Experiencer грех [жаловаться]Action ― не бедствуют, живут в хорошей квартире, ездят на хорошей машине.'
 morphology:
   - NP
   - Dat
@@ -19,14 +29,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

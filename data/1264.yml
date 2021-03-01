@@ -1,29 +1,45 @@
 ---
 record: 1264
-name: 'С какой (такой) радости Cl?'
-UD_name: 'С какой (такой) радости Cl?'
+name: 'С какой (это) (такой) радости Cl?'
+UD_name: 'С какой (это) (такой) радости Cl?'
 illustration: 'С какой радости ты меня провожаешь?'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий не понимает, почему происходит некоторая [ситуация]Situation, и испытывает удивление, недоумение и раздражение. Слова "с какой радости" означают 'почему'. Конструкция может также обозначать отказ говорящего выполнять действие (пример 3). Конструкция звучит грубо и невежливо по отношению к малознакомым людям.
 examples:
+  - |
+       'Если нет электричества, то с какой радости [электрозамок будет работать]Situation?'
+  - |
+       'Ну с какой это радости [усталый, измученный, голодный человек, у которого ещё уроки не сделаны, должен полчаса торчать под дождём]Situation?'
+  - |
+       'С какой это радости я [буду для вас стараться]Situation?'
+  - |
+       '[Валерка вернулся на флот]Situation. Угадай, с какой такой радости? Открылась возможность продавать корабли. Продают целыми эскадрами.'
+  - |
+       'С какой это радости [хозяин фирмы околачивается на пустом складе]Situation? Ведь не ради того, чтобы пересчитать коробки с апельсинами.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
-  - PronInt
+  - Pron
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

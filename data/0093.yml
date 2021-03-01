@@ -2,11 +2,15 @@
 record: 93
 name: 'гораздо Adj-Cmp/Adv-Cmp'
 UD_name: 'гораздо Adj-Cmp/Adv-Cmp'
-illustration: 'Дом гораздо просторнее квартиры.'
+illustration: 'Этот дом гораздо удобнее.'
 cefr_level: B1
 definitions:
   - russian: |
        Конструкция усиливает разницу по некоторому [признаку]Property между двумя объектами, участниками, ситуациями или действиями в ходе их сравнения.
+  - english: |
+       добавить пример с генитивом  (NP-Gen/чем XP) дом просторнее квартиры
+  - norwegian: |
+       Konstruksjonen forsterker det som skiller to objekter, deltakere, situasjoner eller handlinger når man sammenlikner et gitt [kjennetegn]Property ved dem.
 examples:
   - |
        'Кроме того, уезжать всегда гораздо [легче]Property, чем оставаться.'
@@ -25,19 +29,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - Property
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [advmod гораздо] Adj-Cmp/Adv-Cmp]; [root [nsubj дом] [advmod гораздо] просторнее [nmod квартиры]]'
+dependency_structure:
+  - '[root [advmod гораздо] Adj-Cmp/Adv-Cmp]'
+  - '[root [nsubj дом] [advmod гораздо] просторнее [nmod квартиры]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию значительно Adj-Cmp/Adv-Cmp (Ресторан значительно дороже кафе.)'
 references:

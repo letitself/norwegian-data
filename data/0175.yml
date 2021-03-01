@@ -1,7 +1,7 @@
 ---
 record: 175
-name: 'ладно (бы) XP/Cl, но/так XP/Cl!'
-UD_name: 'ладно (бы) XP/Cl, но XP/Cl!'
+name: 'ладно (бы) XP/Cl, но/так XP/Cl'
+UD_name: 'ладно (бы) XP/Cl, но/так XP/Cl'
 illustration: 'Ладно бы он, но ты-то что в нем нашла.'
 cefr_level: 
 definitions:
@@ -12,16 +12,21 @@ morphology:
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

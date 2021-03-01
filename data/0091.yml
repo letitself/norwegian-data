@@ -3,7 +3,7 @@ record: 91
 name: 'где бы ни VP-Pst, Cl'
 UD_name: 'где бы ни VP-Past, Cl'
 illustration: 'Где бы он ни появлялся, сразу становился душой общества.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -13,17 +13,22 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - ~
+  - Subordinator
 syntactic_structure_of_anchor:
   - Conj
-  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Part
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

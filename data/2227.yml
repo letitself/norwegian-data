@@ -6,21 +6,27 @@ illustration: 'Я опоздал, так что праздник начался 
 cefr_level: 
 definitions:
 examples:
+  - |
+       'Я вырос в глухой сибирской деревне, так что все игрушки у меня были самодельные.'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

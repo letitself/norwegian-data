@@ -18,7 +18,7 @@ syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Nominal Pattern
@@ -30,6 +30,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

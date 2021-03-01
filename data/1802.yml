@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает отношение [участника]Participant к некоторой [ситуации]Situation, [действиям]Action, [элементу общественного порядка]Theme или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное ("против") либо положительное, но достаточно умеренное или пассивное ("не против").
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Participant holdning til å utføre en gitt [handling]Action. Deltakeren støtter handlingen, går med på å utføre den og forholder seg positivt til den, men bare måtelig. Sloten VP kan fylles av verb av begge aspekter.
 examples:
   - |
        'В принципе я не против [этого праздника]Theme: День влюбленных ― это здорово, но для меня это не старый, не узаконенный по календарю день.'
@@ -28,7 +30,6 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Prep
   - Negation
 part_of_speech_of_anchor:
   - Prep
@@ -41,6 +42,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1803 и 455.'
 references:

@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает большое количество [объектов]Theme. Конструкция употребляется в прямом и переносном значении. В прямом значении (примеры 1, 2, 3, 4), конструкция указывает на неупорядоченное скопление большого числа физических [объектов]Theme, которое визуально напоминает гору. Обычно речь идет о тяжелых предметах (камни, книги) или строительных материалах (доски, кирпичи), часто сломанных и брошенных в одно место. Объекты могут быть как исчисляемыми (груда камней), так и неисчисляемыми (груда мусора). В переносном значении (пример 5), конструкция указывает на большое количество абстрактных объектов (груда фактов, мыслей).
+  - norwegian: |
+       Konstruksjonen betegner en stor mengde [objekter]Theme. Konstruksjonen brukes i direkte og overført betydning. I direkte betydning (eksempel 1, 2, 3 og 4) viser konstruksjonen til en uryddig opphopning av en stor mengde fysiske [objekter]Theme som visuelt minner om et fjell. Vanligvis er det tale om tunge gjenstander (steiner, bøker) eller byggematerialer (planker, mursteiner), ofte ødelagte og kastet på ett sted. Objektene kan være så vel tellelige (en haug med steiner) som utellelige (en haug med søppel). I overført betydning (eksempel 5) viser konstruksjonen til en stor mengde abstrakte objekter (en haug med fakta eller tanker).
 examples:
   - |
        'Нашего дома больше не существовало. Вместо него бабка увидела покрытую пылью груду [кирпичей и досок]Theme.'
@@ -26,7 +28,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Nominal quantifier
 syntactic_structure_of_anchor:
-  - Nominal Pattern
+  - N
+  - A
 part_of_speech_of_anchor:
   - Noun
 semantic_roles:
@@ -34,8 +37,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root груда [nmod NP-Gen.Plur]]; [root груда [nmod ответственности]]'
+dependency_structure:
+  - '[root груда [nmod NP-Gen.Plur]]'
+  - '[root груда [nmod ответственности]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

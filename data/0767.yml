@@ -3,25 +3,44 @@ record: 767
 name: 'VP в лоб'
 UD_name: 'VP в лоб'
 illustration: 'Он спросил его в лоб: "Где деньги?"'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Speaker [говорит]Action что-либо прямо и буквально, и это ставит другого участника в неловкое положение. Как если бы участник ударил другого по лбу, но не физически, как это обычно бывает, а вербально – словами.
 examples:
+  - |
+       '[Маша]Speaker всегда [задавала вопросы]Action в лоб.'
+  - |
+       '– А ты хотел бы стать отцом: - [спросила]Action [она]Speaker в лоб. Антон молчал. Пауза становилась невыносимой.'
+  - |
+       '[Я]Speaker постеснялся [спрашивать]Action в лоб, поэтому начал издалека.'
+  - |
+       '[Автор статьи]Speaker об этом в лоб не [говорит]Action.'
+  - |
+       '[Она]Speaker [спросила]Action в лоб: «Могу ли я опоздать?»'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Speaker
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. похожую конструкцию 833 VP в упор (– Ты меня не любишь? – спросил он её в упор.)'
 references:
   - |
     ""

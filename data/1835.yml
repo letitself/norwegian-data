@@ -1,31 +1,52 @@
 ---
 record: 1835
-name: 'XP, или, скорее, XP'
-UD_name: 'XP, или, скорее, XP'
+name: 'XP/Cl, или, скорее, XP/Cl'
+UD_name: 'XP/Cl, или, скорее, XP/Cl'
 illustration: 'И тогда я понял или, скорее, вспомнил, что это не Соня.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "или, скорее", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил. Говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "или, скорее", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. С помощью этой конструкции говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Слот XP может заполняться именной, предложной или глагольной группой.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'или скорее', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Det er som om taleren ved hjelp av denne konstruksjonen korrigerer sin opprinnelige, noe upresise, formulering ved å foreslå en alternativ formulering. Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
+  - |
+       'Наш отель находился в [приморском городке]Topic или, скорее, [деревушке]Theme под названием Колимпари.'
+  - |
+       'Перед нами современный «офисный планктон» Саймон Джеймс, неуверенный в себе молодой человек. В один [прекрасный]Topic (или, скорее, [странный]Theme) день он встречает Джеймса Саймона, свою полную противоположность при полном внешнем сходстве.'
+  - |
+       'Мы теперь опишем день встреч, случившийся [в самом конце 88-го]Topic, или, скорее, [в самом начале 89-го]Theme года.'
+  - |
+       'На мгновение они встретились взглядами, и маклер, парень лет двадцати пяти, его [не узнал]Topic. Или, скорее, [не разглядел]Theme: он был очень близорук, но очки, если не имел дело с бумагами, не носил.'
+  - |
+       'Казалось, [между вампирами и магами установилось перемирие]Topic или, скорее, [в бою наступило затишье]Theme.'
 morphology:
   - XP
+  - NP
+  - PP
+  - VP; Cl
+  - Adj
 syntactic_type_of_construction:
   - Cl
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Adv
-  - Conj
+  - N
+  - A
 part_of_speech_of_anchor:
   - Adv
   - Conj
 semantic_roles:
-  - ~
+  - Topic
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
@@ -35,4 +56,4 @@ semantic_types:
       - type: Clarification
 family:
   - |
-    ""
+    "Clarification via rephrasing"

@@ -1,7 +1,7 @@
 ---
 record: 682
 name: '(а) как же PronPers-Dat не быть, если Cl'
-UD_name: '(а) как же Pron-Dat не быть, если Cl'
+UD_name: '(а) как же PronPers-Dat не быть, если Cl'
 illustration: 'У вас такая чистота! А как же ей не быть, если в доме ребёнок.'
 cefr_level: 
 definitions:
@@ -13,16 +13,27 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Coordinator
+  - Praedicаtive Expression
+  - Discourse Particle
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Adv
+  - Part
+  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

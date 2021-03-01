@@ -1,7 +1,7 @@
 ---
 record: 525
 name: 'NP-Nom как VP-Pfv.Fut!'
-UD_name: 'NP-Nom как VP-Fut.Perf!'
+UD_name: 'NP-Nom как VP-Perf.Fut!'
 illustration: 'Вся волчья стая как набросится на меня!'
 cefr_level: 
 definitions:
@@ -15,16 +15,21 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

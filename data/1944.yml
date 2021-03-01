@@ -3,9 +3,23 @@ record: 1944
 name: 'NP-Acc зовут NP-Nom'
 UD_name: 'NP-Acc зовут NP-Nom'
 illustration: 'Мою дочку зовут Маша.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Property.
+  - english: |
+       звали?
 examples:
+  - |
+       'Октябрина Михайловна говорит, что [актрису]Participant зовут [Одри Хепберн]Property.'
+  - |
+       '[Нашего водителя]Participant зовут [Перт]Property.'
+  - |
+       '― [Меня]Participant зовут [Ира]Property, и я не люблю, когда на меня долго смотрят и молчат.'
+  - |
+       '[Главного героя]Participant зовут [Мозес]Property, он ― юноша неземной красоты со сложным заболеванием.'
+  - |
+       '― [Вас]Participant зовут [Сара]Property? ― перешел я на английский. ― Да, ― ответила она.'
 morphology:
   - NP
   - Acc
@@ -14,9 +28,10 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Predicate
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - VP
+  - N
+  - A
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
@@ -24,6 +39,12 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'См. близкую конструкцию 465 NP-Acc звать NP-Ins/NP-Nom (Мальчика звать Юрой).'
 references:
   - |
     ""

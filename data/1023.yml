@@ -1,28 +1,32 @@
 ---
 record: 1023
-name: 'ещё как VР/Adj-Short!'
-UD_name: 'ещё как VР/Adj-Short!'
+name: 'ещё как VP/Adj-Short!'
+UD_name: 'ещё как VP/Adj-Short!'
 illustration: 'Ещё как занимаюсь!'
 cefr_level: 
 definitions:
 examples:
 morphology:
-  - VР
+  - VP
   - Adj
   - Short
 syntactic_type_of_construction:
   - Discourse "Echo" Construction
 syntactic_function_of_anchor:
-  - Clause
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

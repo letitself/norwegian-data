@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся на [небольшом расстоянии]Distance от [места или объекта-ориентира]Landmark. Реальное расстояние длиннее, но конструкция подчеркивает, что дистанция очень мала (как если бы это было несколько шагов), и ее можно легко и быстро преодолеть. Синонимами являются слова "близко", "рядом". Чаще всего используются числительные "двух", "трёх", "пяти", "нескольких".
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation befinner seg i [kort avstand]Distance fra [et orienteringspunkt eller et orienteringsobjekt]Landmark. Den reelle avstanden er større, men konstruksjonen understreker at avstanden er svært liten (som om det var noen skritt) og at den kan tilbakelegges lett og raskt. Synonymer er ordene 'близко' og 'рядом'. Som oftest brukes tallordene 'двух', 'трёх', 'пяти' og 'нескольких'.
 examples:
   - |
        '[В двух шагах]Distance от [киоска]Landmark была [рюмочная]Theme.'
@@ -25,8 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -41,6 +42,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

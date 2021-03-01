@@ -1,7 +1,7 @@
 ---
 record: 2209
 name: 'Adj на Noun-Acc.Sg'
-UD_name: 'Adj на Noun-Acc.Sing'
+UD_name: 'Adj на N-Acc.Sing'
 illustration: 'Лёгкий на руку'
 cefr_level: 
 definitions:
@@ -14,16 +14,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

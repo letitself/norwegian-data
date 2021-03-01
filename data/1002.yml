@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое состояние]State неожиданно сменилось на другое (примеры 1, 2, 3). Конструкция может также обозначать, что [объект]Theme исчез или переместился в другое место, поэтому кажется, что его больше нет (примеры 4, 5). Конструкция основана на сравнении: [объект]Theme исчез, и теперь создается впечатление, что его никогда не было.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt tilstand]State uventet er blitt avløst av en annen (eksempel 1, 2 og 3). Konstruksjonen kan også bety at [et objekt]Theme er forsvunnet eller har forflyttet seg til et annet sted, slik at det tilsynelatende ikke finnes lenger (eksempel 4 og 5). Konstruksjonen er basert på en sammenlikning: [Objektet]Theme er borte, og nå dannes det et inntrykk av at det aldri har eksistert.
 examples:
   - |
        'Положите на веки на 7-8 минут кружочки свежего огурца. [Усталости]State как не бывало…'
@@ -24,17 +26,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Negation Marker
+  - Verb
 semantic_roles:
   - State
   - Theme
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

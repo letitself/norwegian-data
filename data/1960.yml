@@ -1,10 +1,12 @@
 ---
 record: 1960
 name: 'Это всё Cop Pred, но Cl'
-UD_name: 'Это все Cop Praedic, но Cl'
+UD_name: 'Это всё Cop Praedic, но Cl'
 illustration: 'Это всё хорошо, но самое главное – безопасность.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция завершает обсуждение одной темы и переводит внимание на другую тему разговора. Конструкция обозначает, что [существование какой-либо ситуации]Theme не должно повлиять на событие, происходящие параллельно. См. 437
 examples:
 morphology:
   - Cop
@@ -13,7 +15,8 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Coordinator
+  - Subject
 syntactic_structure_of_anchor:
   - Conj
 part_of_speech_of_anchor:
@@ -24,6 +27,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,8 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция используется для того, чтобы напомнить адресату о [каком-либо факте]Theme, который он должен принять во внимание. Этот факт известен всем участникам беседы.
-  - english: |
-       This construction is used to remind the addressee of some [fact]Theme, which they should take into consideration. This fact is known to all participants in the conversation.
+  - norwegian: |
+       Konstruksjonen anvendes for å minne adressaten på [et faktum]Theme som vedkommende må ta i betraktning. Faktumet er kjent for alle deltakerne i samtalen.
 examples:
   - |
        'Иван поднял голову и спросил: ― А как же [я]Theme? ― Ты будешь жить с женой и воспитывать сына, ― ответила Ирина.'
@@ -28,18 +28,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
 part_of_speech_of_anchor:
-  - Pron
-  - Adv
   - Conj
+  - Adv
+  - Part
 semantic_roles:
   - Theme
 intonation:
   - Interrogative
 usage_label: ~
-structure_in_ud: |
-    '[root как [advmod же] [nsubj NP-Nom]]; [root [cc а] как [advmod же] [nsubj NP-Nom]]'
+dependency_structure:
+  - '[root как [advmod же] [nsubj NP-Nom]]'
+  - '[root [cc а] как [advmod же] [nsubj NP-Nom]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

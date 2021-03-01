@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation имеет место в [группе людей]Set, объединенных по какому-то признаку. Как правило, эти люди относятся к одной профессии, привержены какой-либо идеологии или имеют общие интересы.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation finner sted i [en gruppe mennesker]Set som har noe til felles. Som regel har disse menneskene tilhørighet til samme yrke eller ideologi, eller de har felles interesser.
 examples:
   - |
        'Однажды собрался туда даже вдвоем с женой, которую в кругах [московской богемы]Set под влиянием Хемингуэя [называли Брет Эшли]Situation.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

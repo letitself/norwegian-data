@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, каким образом с помощью [внешней части тела]Location (носки 'пальцы ног', колени, локти и пр.) участника производится [действие]Action.
+  - norwegian: |
+       Konstruksjonen angir hvordan en deltaker utfører [en handling]Action ved hjelp av [en ytre kroppsdel]Lokation (tåspissene, knærne, albuene m.m.).
 examples:
   - |
        'Он [лежал]Action [на спине]Location и глядел в небо.'
@@ -25,9 +27,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -36,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

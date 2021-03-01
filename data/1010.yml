@@ -11,16 +11,22 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Particle
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

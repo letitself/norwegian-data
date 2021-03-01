@@ -5,6 +5,8 @@ UD_name: 'только и NP-Gen.Plur Cop, что Cl'
 illustration: 'Только и разговоров, что о доме.'
 cefr_level: 
 definitions:
+  - russian: |
+       updated formula NP-Gen.Pl Cop, что о NP-Loc/про  NP-Acc/VP-Inf только и что это эмфатическое, а не столько подчинение. Сейчас стояло Matrix + Subordinate Clause Construction. Это неверно? Получается, это все одна клауза. Copula Construction OR clause?
 examples:
 morphology:
   - NP
@@ -16,15 +18,21 @@ syntactic_type_of_construction:
   - Matrix + Subordinate Clause Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

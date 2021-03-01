@@ -1,11 +1,23 @@
 ---
 record: 771
-name: 'NP/VP в награду (за NP-Acc)'
-UD_name: 'NP/VP в награду (за NP-Acc)'
-illustration: 'В награду за отличную работу он получил премию.'
-cefr_level: 
+name: 'VP в назидание NP-Dat'
+UD_name: 'VP в назидание NP-Dat'
+illustration: 'Мы показали этот фильм в назидание потомкам.'
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent [совершает некоторое действие]Action  с целью изменить поведение [другого участника]Maleficiary в будущем или предотвратить нежелательные действия с его стороны. Зачастую это [действие]Action является реакцией на какое-то нежелательное для этого [участника]Agent событие.
 examples:
+  - |
+       'Воронова в назидание [другим редакторам]Maleficiary [сняли с должности]Action.'
+  - |
+       'Может быть, монумент восстановят, а может, [воздвигнут новый]Action, в назидание [нынешнему и будущим поколениям]Maleficiary.'
+  - |
+       'Трое солдат в назидание [всем остальным]Maleficiary [приговорены к смертной казни]Action.'
+  - |
+       'Этот эпизод я [рассказываю]Action в назидание [своим внукам]Maleficiary, которые любят носить майки со всякими непонятными надписями.'
+  - |
+       'Там Абеляр [напишет]Action в назидание [потомкам]Maleficiary «Историю своих бедствий».'
 morphology:
   - NP
   - VP
@@ -13,21 +25,32 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Maleficiary
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
 semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Maleficiary
   - type: Cause
+  - type: Purpose
   - type: Result
 family:
   - |

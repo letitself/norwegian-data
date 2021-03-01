@@ -3,7 +3,7 @@ record: 149
 name: 'как Cop не VP-Inf!'
 UD_name: 'как Cop не VP-Inf!'
 illustration: 'Как не знать!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -15,15 +15,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

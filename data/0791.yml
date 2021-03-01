@@ -1,7 +1,7 @@
 ---
 record: 791
 name: 'в NumOrd-F.Acc.Sg/Adj-F.Acc.Sg очередь XP'
-UD_name: 'в NumOrd-F.Acc.Sg/Adj-Fem.Acc.Sing очередь XP'
+UD_name: 'в NumOrd-F.Acc.Sing/Adj-F.Acc.Sing очередь XP'
 illustration: 'Он в первую очередь отец, а потом учёный.'
 cefr_level: 
 definitions:
@@ -19,14 +19,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - PP
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

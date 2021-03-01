@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Конструкция отличается экспрессивностью. Конструкция является негативно окрашенным синонимом слова "ничего". Выражает негативное отношение говорящего к действию, его результату или несогласие с собеседником или используется в качестве интенсификатора.
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og uttrykker en kategorisk (fullstendig) avvisning av [en handling]Action ved å avvise dens minste bestanddel. Konstruksjonen har et ekspressivt preg. Konstruksjonen er et negativt ladet synonym til ordet 'ничего'. Den uttrykker at taleren forholder seg negativt til handlingen eller handlingens resultat eller er uenig med samtalepartneren, eller den brukes som intensifikator.
 examples:
   - |
        'Что ты хочешь этим сказать?! Что я ни черта не [делала]Action?'
@@ -23,9 +25,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - NP
+  - Nominal pattern
   - Double Negation
 part_of_speech_of_anchor:
   - Noun
@@ -35,8 +37,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod не] VP; [obl [advmod ни] NP-Gen]]'
+dependency_structure:
+  - '[root [advmod не] VP'
+  - '[obl [advmod ни] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкие конструкции ни шагу не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
 references:

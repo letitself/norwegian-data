@@ -1,7 +1,7 @@
 ---
 record: 1753
 name: '(так) что/чего (же/ж) PronPers-Nom раньше/сразу не VP-Pst?'
-UD_name: '(так) что/чего (же/ж) Pron-Nom раньше/сразу не VP-Past?'
+UD_name: '(так) что/чего (же/ж) PronPers-Nom раньше/сразу не VP-Past?'
 illustration: 'Тебе деньги нужны? Чего же ты раньше не сказал?'
 cefr_level: 
 definitions:
@@ -14,16 +14,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Part
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - Interrogative
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

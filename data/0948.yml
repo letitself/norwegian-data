@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает нежелание [участника]Participant выполнять некоторое [действие]Action. Подразумевается, что участник считает это действие нецелесообразным, ненужным.
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Participant motvilje mot å utføre en gitt [handling]Action. Det er underforstått at deltakeren mener handlingen er uhensiktsmessig og unødvendig.
 examples:
   - |
        'В общем, красавица, подумай. ― Да что тут [думать]Action? ― пожала [она]Participant  плечами.'
@@ -25,17 +27,24 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
+  - Discourse Particle
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Part
+  - Pron
 semantic_roles:
   - Action
 intonation:
   - Interrogative
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

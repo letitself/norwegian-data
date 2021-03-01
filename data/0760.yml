@@ -3,9 +3,21 @@ record: 760
 name: 'VP в знак NP-Gen'
 UD_name: 'VP в знак NP-Gen'
 illustration: 'В знак признания он подарил цветы.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник совершает [действие]Action, которое может служить доказательством, внешним проявлением (то есть знáком) его [позиции или отношения к чему-либо]Motivation.
 examples:
+  - |
+       '[Все за столом дружно зашумели]Action в знак [согласия]Motivation .'
+  - |
+       'А как быть с малышом, который в знак [протеста]Motivation [забрался на дерево]Action и только по счастливой случайности не свалился?'
+  - |
+       '[Шараев склонил голову]Action в знак [благодарности]Motivation и извлёк из портфеля лист бумаги.'
+  - |
+       'В знак [дружбы между Россией и Голландией]Motivation [правительству Нидерландов будет передан в дар памятник Петру I работы скульптора Леонида Баранова]Action.'
+  - |
+       '[Директор в знак [солидарности со словами брата]Motivation стремительно возвращается к своему рабочему столу]Action.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,22 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Motivation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

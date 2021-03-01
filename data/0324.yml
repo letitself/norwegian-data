@@ -13,16 +13,21 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Conj
+  - Modifier
 syntactic_structure_of_anchor:
-  - Conj
+  - Adj
 part_of_speech_of_anchor:
-  - ~
+  - Pron
+  - Conj
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -3,15 +3,27 @@ record: 1076
 name: 'VP из рук в руки'
 UD_name: 'VP из рук в руки'
 illustration: 'Большие деньги переходили из рук в руки.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция указывает на постоянную [смену]Action владельца некоторого [объекта]Theme. При этом, говорящий, как правило, не одобряет такую частую смену владельцев.
 examples:
+  - |
+       'После того как мебельная фабрика обанкротилась, [земля]Theme на Тульской улице несколько раз [переходила]Action из рук в руки.'
+  - |
+       'Ведь альманах ― это уже что-то вроде организации, а не просто подборка [стихотворений]Theme, которые [качуют]Action из рук в руки.'
+  - |
+       'Мы прочитали эту книгу с большим удовольствием, и теперь [она]Theme  [путешествует]Action по деревне из рук в руки.'
+  - |
+       'После революции 1917 года [портрет]Theme был вывезен за границу, [переходил]Action из рук в руки, от владельца к владельцу.'
+  - |
+       'На пути к конечному потребителю [квартиры]Theme много раз [переходят]Action из рук в руки.'
 morphology:
   - VP
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
   - Reduplication
@@ -19,10 +31,15 @@ part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Action
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

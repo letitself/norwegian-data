@@ -7,8 +7,6 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [объект]Theme или [участник]Participant имеет [качественную характеристику]Evaluation, которая оценивается негативно. Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом).
-  - english: |
-       This construction emphasizes that something has a [qualitative characteristic]Evaluation that is seen as negative.
   - norwegian: |
        Konstruksjonen understreker at noe har [en kvalitativ egenskap]Evaluation som vurderes negativt.
 examples:
@@ -25,10 +23,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Attributive
+  - Modifier
 syntactic_structure_of_anchor:
   - Adj
-  - Adv
 part_of_speech_of_anchor:
   - Pron
   - Adv
@@ -37,8 +34,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [amod тот] [advmod ещё] NP-Nom]; [root [amod то] [advmod ещё] удовольствие]'
+dependency_structure:
+  - '[root [amod тот] [advmod ещё] NP-Nom]'
+  - '[root [amod то] [advmod ещё] удовольствие]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию так называемый NP (так называемый образец)'
 references:

@@ -3,7 +3,7 @@ record: 119
 name: 'едва ли XP/Cl'
 UD_name: 'едва ли XP/Cl'
 illustration: 'Едва ли Паша заплатит.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -12,17 +12,21 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Adverb
-  - Particle
 part_of_speech_of_anchor:
-  - Adverb
+  - Adv
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

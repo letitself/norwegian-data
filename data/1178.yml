@@ -16,12 +16,16 @@ syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:
   - Pron
-  - Particle
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

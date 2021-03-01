@@ -1,7 +1,7 @@
 ---
 record: 632
 name: 'VP лучше/не хуже PronPers-Gen'
-UD_name: 'VP лучше/не хуже Pron-Gen'
+UD_name: 'VP лучше/не хуже PronPers-Gen'
 illustration: 'Я знаю лучше вашего.'
 cefr_level: 
 definitions:
@@ -13,9 +13,9 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Adv
+  - Adverb
   - Negation
 part_of_speech_of_anchor:
   - Adv
@@ -25,6 +25,10 @@ semantic_roles:
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

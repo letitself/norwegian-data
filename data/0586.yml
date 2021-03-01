@@ -1,12 +1,14 @@
 ---
 record: 586
 name: 'VP (NP-Dat.Pl) по NP-Dat/по NumCrd-Acc NP-Gen'
-UD_name: 'VP (NP-Dat.Plur) по NP-Dat / по Num-Acc NP-Gen'
+UD_name: 'VP (NP-Dat.Plur) по NP-Dat/по NumCrd-Acc NP-Gen'
 illustration: 'Я дал всем по яблоку и по две конфеты.'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на ситуацию [распределения]Action [объектов]Theme по нескольким [адресатам]Addressee. При этом говорящий уточняет, сколько [объектов]Theme получает каждый из [адресатов]Addressee. Это [количество]Quantity одинаково для всех адресатов.
+  - norwegian: |
+       Konstruksjonen viser til en situasjon, der [objekter]Theme [fordeles]Action på flere [mottakere]Addressee. I den forbindelse presiserer taleren hvor mange [objekter]Theme hver av [mottakerne]Addressee får. Dette [antallet]Quantity er likt for alle mottakerne.
 examples:
   - |
        'Сядем на вокзале обедать, и она требует самое дорогое и на чай [всем]Addressee [даёт]Action по [рублю]Theme.'
@@ -29,9 +31,10 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
@@ -42,8 +45,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [nsubj NP-Nom] VP [obl [case по] NP-Dat]]; [root [nsubj я] дал [obl всем] [obl [case по] яблоку]]'
+dependency_structure:
+  - '[root [nsubj NP-Nom] VP [obl [case по] NP-Dat]]'
+  - '[root [nsubj я] дал [obl всем] [obl [case по] яблоку]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

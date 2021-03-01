@@ -3,27 +3,43 @@ record: 664
 name: 'VP-Pfv в два счёта'
 UD_name: 'VP-Perf в два счёта'
 illustration: 'Я могу договориться в два счёта.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник справился или может справиться с некоторой [задачей]Action очень быстро и легко. Как если бы это было так же быстро и легко, как досчитать до двух.
 examples:
+  - |
+       'Она в два счёта [научила]Action Мишу мыть посуду.'
+  - |
+       'Он [догнал]Action меня в два счёта.'
+  - |
+       'Ваня в два счёта [смог найти дорогу домой]Action.'
+  - |
+       'Мобильным телефоном, который мы подарили на день рождения, бабушка [овладела]Action в два счёта.'
+  - |
+       'Что может в два счёта [поднять вам настроение]Action?'
 morphology:
   - VP
   - Pfv
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
-  - NumCrd
+  - Num
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

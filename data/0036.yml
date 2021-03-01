@@ -1,16 +1,14 @@
 ---
 record: 36
-name: 'более чем Adv/Pred'
-UD_name: 'более чем Adv/Praedic'
+name: 'более чем Adv/Adj/Pred'
+UD_name: 'более чем Adv/Adj/Praedic'
 illustration: 'Более чем понятно'
 cefr_level: B1
 definitions:
   - russian: |
        Конструкция повышает степень интенсивности [признака]Property объекта или ситуации. Показывает, что интенсивность признака выше, чем ожидалось или было необходимо.
-  - english: |
-       This construction means that there is more of [something]Property than what is strictly needed. A closely related construction in English is “more than enough”.
   - norwegian: |
-       Konstruksjonen uttrykker at det er mer av [noe]Property enn det som strengt tatt er nødvendig. En nært beslektet konstruksjon i norsk er “mer enn nok”.
+       Konstruksjonen gjør at [et kjennetegn]Property ved et objekt eller en situasjon får økt intensitet. Den viser at kjennetegnet gjør seg gjeldende med større intensitet enn det som var forventet eller nødvendig.
 examples:
   - |
        'Павел заплатил 100 рублей. Более чем [достаточно]Property.'
@@ -24,22 +22,27 @@ examples:
        'Свободное время, которого было более чем [предостаточно]Property, он коротал сначала за сидением с Аглаей, чтением газет, журналов, бюллетеней и книг, смотрением телевизора, разговорами с соседями, а также разными прочими бытовыми заботами.'
 morphology:
   - Adv
+  - Adj
   - Pred
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Adv
+  - Pron
 semantic_roles:
   - Property
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [case более [fixed чем]] Adv]; [root [case более [fixed чем]] понятно]'
+dependency_structure:
+  - '[root [case более [fixed чем]] Adv]'
+  - '[root [case более [fixed чем]] понятно]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

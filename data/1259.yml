@@ -3,24 +3,42 @@ record: 1259
 name: 'Cl из-за того, что Cl'
 UD_name: 'Cl из-за того, что Cl'
 illustration: 'Я обиделся из-за того, что ты ничего мне об этом не сказала.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая, обычно нежелательная, [ситуация]Situation происходит по причине другой [ситуации или действия]Cause.
 examples:
+  - |
+       'Родители во всём мире жалуются на то, что [детей невозможно оторвать от компьютера]Situation, что [они не гуляют, не учатся, не высыпаются]Situation из-за того, что [дни и ночи или играют, или сидят в Интернете]Cause.'
+  - |
+       'Из-за чего [разводятся]Situation? Из-за того, что [кто-то утром не моет посуду]Cause.'
+  - |
+       '[Я всегда безумно жалел маму и страдал]Situation из-за того, что [она страдала]Cause.'
+  - |
+       '– Слушай, а, может, [ты разозлился]Situation из-за того, что [я тебе тогда деньги давал]Cause?'
+  - |
+       'Вы считаете, что [язык деградирует]Situation из-за того, что [кофе переходит из мужского рода в средний]Cause?'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
-  - Conj
+  - Prep
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Conj
 semantic_roles:
-  - ~
+  - Situation
+  - Cause
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

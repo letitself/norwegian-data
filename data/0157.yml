@@ -3,7 +3,7 @@ record: 157
 name: 'каков Cop NP-Nom!'
 UD_name: 'каков Cop NP-Nom!'
 illustration: 'Каков подлец!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -15,14 +15,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adj
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Obsolete
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

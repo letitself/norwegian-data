@@ -1,7 +1,7 @@
 ---
 record: 1014
-name: 'Если NP-Nom сказал XP – значит, ~XР'
-UD_name: 'Если NP-Nom сказал XP – значит, XР'
+name: 'Если NP-Nom сказал XP – значит, ~XP'
+UD_name: 'Если NP-Nom сказал XP – значит, XP'
 illustration: 'Если Петя сказал красивая, – значит, красивая.'
 cefr_level: 
 definitions:
@@ -13,16 +13,24 @@ morphology:
 syntactic_type_of_construction:
   - Discourse "Echo" Construction
 syntactic_function_of_anchor:
-  - Conj
+  - Subordinator
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Reduplication
+  - Conj
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

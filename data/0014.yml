@@ -3,27 +3,35 @@ record: 14
 name: '(Cl) разве что/только Cl'
 UD_name: '(Cl) разве что/только Cl'
 illustration: 'Не буду пить, разве что пригублю.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает условие, на котором говорящий готов пойти на уступку. " "Имеет место ситуация Q. Говорящий считает, что для Q нет достаточных оснований. говорящий был бы готов признать Q обоснованным, если бы имела место как минимум ситуация Р".
 examples:
+  - |
+       '[На самом деле хороших печатных СМИ практически не осталось]Situation, разве что ["Комсомольская правда".]Consession'
 morphology:
   - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
-    ""
+    "см. подкласс 7 в классификации уступительных конструкций В.Ю. Апресян, описанный в статье Апресян В.Ю. 1999. Слова со значением уступки."
 semantic_types:
   - type: Concession
   - type: Exclusive

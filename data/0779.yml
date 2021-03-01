@@ -3,9 +3,21 @@ record: 779
 name: 'VP в обстановке NP-Gen'
 UD_name: 'VP в обстановке NP-Gen'
 illustration: 'Собрание проходит в обстановке строгой секретности.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция указывает на эмоциональное, социальное или событийное [окружение]Circumstance, в котором происходит [ситуация]Situation и которое на неё влияет .
 examples:
+  - |
+       '[Моё детство и юность прошли]Situation в обстановке [коммунальной квартиры]Circumstance, но память не сохранила негативных воспоминаний от этой, чисто советской реальности.'
+  - |
+       '[Многие люди чувствуют себя комфортно]Situation именно в обстановке [легкого хаоса]Circumstance.'
+  - |
+       'По указу Екатерины II в 1785 году в обстановке [строжайшей секретности]Circumstance [в Москву была доставлена женщина лет сорока]Situation.'
+  - |
+       'Крайне редко [это происходило]Situation в обстановке [спокойной взаимной симпатии]Circumstance, в комфортной тишине, обычно все было нервно, наскоро, торопливо, смущенно и глупо.'
+  - |
+       'В обстановке [тотального абсурда]Circumstance [это выглядело даже логично]Situation.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Circumstance
+  - Situation
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
+comment: |
+    'От конструкции 51 "в условиях NP-Gen Cl" (В условиях подъёма экономики России выросла роль временных миграций.) отличается тем, что описывает влияние, обусловленное эмоциями и социальными взаимодействиями, тогда как "в условиях NP-Gen Cl" — фактическое или физическое влияние.'
 references:
   - |
     ""

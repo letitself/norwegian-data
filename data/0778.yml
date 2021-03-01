@@ -3,9 +3,21 @@ record: 778
 name: 'VP в обнимку (с NP-Ins)'
 UD_name: 'VP в обнимку (с NP-Ins)'
 illustration: 'Дети спят в обнимку с игрушками.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом значении (примеры 1, 2, 3), конструкция обозначает, что [участник ситуации]Participant выполняя некоторое [действие]Action, обнимает [другого участника]Associated или некоторый [объект]Theme. В переносном значении (примеры 4, 5), конструкция обозначает, что [участник]Participant, не обнимая [объект]Theme буквально, на протяжении некоторого времени находится очень близко к этому объекту, в непрерывном контакте с ним или непрерывно пользуется им.
 examples:
+  - |
+       '[Они]Participant ругаются, как извозчики, а потом [засыпают]Action в обнимку с [плюшевыми собачками и сердечками]Theme.'
+  - |
+       'Только разделся, открылась дверь, [вошла]Action [Маша]Participant в обнимку с [подушкой]Theme.'
+  - |
+       'Долго [мы]Participant [стояли]Action в обнимку с [Колей]Associated, не шевелились и ничего не говорили.'
+  - |
+       'У меня сохранились слепые машинокопии его переводов, которые я делал на печатной машинке: [я]Participant в обнимку с [ней]Theme [провел]Action много ночей.'
+  - |
+       'После того памятного аукциона [я]Participant два дня [отлеживалась]Action в обнимку с [флаконом успокоительной микстуры]Theme.'
 morphology:
   - VP
   - NP
@@ -13,17 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
   - Prep
   - Noun
 semantic_roles:
-  - ~
+  - Participant
+  - Action
+  - Associated
+  - Theme
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

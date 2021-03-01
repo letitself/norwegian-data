@@ -1,7 +1,7 @@
 ---
 record: 1015
-name: '(если уж) Verb-Inf – так XР'
-UD_name: '(если уж) V-Inf – так XР'
+name: '(если уж) Verb-Inf – так XP'
+UD_name: '(если уж) V-Inf – так XP'
 illustration: 'Если уж петь – так до хрипоты.'
 cefr_level: 
 definitions:
@@ -9,22 +9,27 @@ examples:
 morphology:
   - Verb
   - Inf
-  - XР
+  - XP
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
-  - Conjunction
+  - Subordinator
+  - Discourse Particle
 syntactic_structure_of_anchor:
   - Conj
-  - Adv
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Assertive
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

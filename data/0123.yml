@@ -3,7 +3,7 @@ record: 123
 name: 'ещё бы Cl!'
 UD_name: 'ещё бы Cl!'
 illustration: 'Ещё бы ты был недоволен!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -11,17 +11,21 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - Adverb
-  - Particle
 part_of_speech_of_anchor:
-  - Adverb
+  - Adv
+  - Part
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

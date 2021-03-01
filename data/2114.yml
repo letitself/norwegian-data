@@ -1,7 +1,7 @@
 ---
 record: 2114
 name: 'у NP-Gen Aux PtcpPass/Cop Pred'
-UD_name: 'у NP-Gen Aux PartPass/Cop Praedic'
+UD_name: 'у NP-Gen Aux PtcpPass/Cop Praedic'
 illustration: 'У меня всё сделано.'
 cefr_level: 
 definitions:
@@ -16,16 +16,21 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Prep
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

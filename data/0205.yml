@@ -7,10 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что какой-либо участник или объект на самом деле не имеет той [оценочной характеристики]Evaluation, которую ожидал или представлял себе говорящий.
-  - english: |
-       This construction expresses that, according to the speaker, something, e.g. жизнь в Саратове ‘life in Saratov’, has [a certain property]Evaluation, e.g. быть скучной ‘be boring’, to a lesser extent than what could be expected.
   - norwegian: |
-       Konstruksjonen betyr at noe, f.eks. жизнь в Саратове ‘livet i Saratov’, ifølge taleren har [en gitt egenskap]Evaluation, f.eks. быть скучной ‘være kjedelig’, i mindre grad enn hva kunne forventes.
+       Konstruksjonen betyr at en deltaker eller et objekt faktisk ikke besitter det [antatte kjennetegnet]Evaluation som taleren hadde forventet eller forestilt seg.
 examples:
   - |
        'Вообще жизнь в Саратове оказалась не такой уж и [скучной]Evaluation, как показалось ей поначалу.'
@@ -27,21 +25,24 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adj
+  - Modifier
 syntactic_structure_of_anchor:
   - Negation
   - Adj
-  - Adv
-  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pron
+  - Part
 semantic_roles:
   - Evaluation
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root [amod [advmod не] такой] [advmod уж] [advmod и] Adj]; [root [amod [advmod не] такой] [advmod уж] [advmod и] страшный]'
+dependency_structure:
+  - '[root [amod [advmod не] такой] [advmod уж] [advmod и] Adj]'
+  - '[root [amod [advmod не] такой] [advmod уж] [advmod и] страшный]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию не такой уж и Adj (Не такой уж и страшный)'
 references:

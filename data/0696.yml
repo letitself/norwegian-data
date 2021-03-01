@@ -1,7 +1,7 @@
 ---
 record: 696
 name: 'Cl, а PronPers-то думал!'
-UD_name: 'Cl, а Pron-то думал!'
+UD_name: 'Cl, а PronPers-то думал!'
 illustration: 'Такой простой ответ, а я-то думал!'
 cefr_level: 
 definitions:
@@ -15,14 +15,19 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Verb
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

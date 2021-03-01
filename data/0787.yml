@@ -3,7 +3,7 @@ record: 787
 name: 'XP, особенно/в особенности XP'
 UD_name: 'XP, особенно/в особенности XP'
 illustration: 'Он любит русскую кухню, особенно пироги с капустой.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -11,16 +11,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - ~
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - PP
+  - Adverb
 part_of_speech_of_anchor:
-  - ~
+  - Prep
+  - Noun
+  - Adv
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -13,16 +13,24 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Clause
+  - Discourse Particle
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Conj
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Adv
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - Exclamatory
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

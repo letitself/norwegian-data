@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает что некоторое [действие]Action можно совершить, поскольку [участник ситуации]Participant не высказывает своего несогласия.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action kan utføres, ettersom [deltakeren i situasjonen]Participant ikke erklærer seg uenig.
 examples:
   - |
        'Раз [Вы]Participant не возражаете насчёт русского языка, [перейду на него]Action, учитывая, что я не очень владею английским.'
@@ -25,18 +27,25 @@ morphology:
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
-  - Biclausal
+  - Coordinator
+  - Verb Predicate
 syntactic_structure_of_anchor:
+  - Negation
   - Conj
-  - Verb
 part_of_speech_of_anchor:
-  - Action
-  - Participant
+  - Part
+  - Conj
+  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

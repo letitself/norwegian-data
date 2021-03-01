@@ -3,9 +3,23 @@ record: 1257
 name: 'VP ввиду NP-Gen'
 UD_name: 'VP ввиду NP-Gen'
 illustration: 'Он не пришёл ввиду болезни.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [причину]Cause некоторого [действия]Action или [ситуации]Situation, обычно нежелательных.
+  - english: |
+       Заменить VP на Cl?
 examples:
+  - |
+       'Ввиду [неявки на это заседание представителей Следственного комитета]Cause [его перенесли на 16 августа]Situation.'
+  - |
+       'Ввиду [разницы в возрасте]Cause, [мне трудно было его догнать]Situation.'
+  - |
+       'Ввиду [наступившей русской зимы]Cause, москвичи [с энтузиазмом покупают шубы]Action ― для москвичей это не роскошь, а средство утепления.'
+  - |
+       '– Ввиду [сложности и ответственности дела]Cause [разрешите]Action мне ехать немедленно.'
+  - |
+       '[Рейсы могут быть отменены]Situation ввиду [бездорожья]Cause.'
 morphology:
   - VP
   - NP
@@ -13,16 +27,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
   - ~
 usage_label: Formal
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

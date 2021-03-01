@@ -1,12 +1,14 @@
 ---
 record: 1864
 name: 'Cl (не) равно/равняется NumCrd-Dat/NumCrd-Nom'
-UD_name: 'Cl (не) равно/равняется NumCrd-Dat (NP-Dat)'
+UD_name: 'Cl (не) равно/равняется NumCrd-Dat/NumCrd-Nom'
 illustration: 'Два плюс один не равно пяти.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция описывает математическое равенство или неравенство [двух величин]Quantity.
+  - norwegian: |
+       Konstruksjonen beskriver matematisk likhet eller ulikhet [mellom to størrelser]Quantity.
 examples:
   - |
        '[Семь]Quantity не равно [восьми]Quantity.'
@@ -26,17 +28,22 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - PP
-  - Num
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Pred
+  - Verb
 semantic_roles:
   - Quantity
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

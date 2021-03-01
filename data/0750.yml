@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся на небольшом [расстоянии]Distance от [заданной точки]Landmark, являющейся ориентиром. Это расстояние равно длине нескольких кварталов или домов, стоящих в ряд.
+  - norwegian: |
+       Konstruksjonen betyr at en [deltaker]Participant, et [objekt]Theme eller en [situasjon]Situation befinner seg i kort [avstand]Distance fra [et oppgitt punkt]Landmark som fungerer som orienteringspunkt. Avstanden er lik lengden av noen kvartaler eller hus som ligger etter hverandre.
 examples:
   - |
        'В [двух кварталах]Distance [отсюда]Landmark находится [магазин «Охотник»]Theme.'
@@ -27,7 +29,7 @@ morphology:
 syntactic_type_of_construction:
   - Cl + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -42,6 +44,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

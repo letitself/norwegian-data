@@ -3,9 +3,21 @@ record: 1291
 name: 'VP за NP-Acc'
 UD_name: 'VP за NP-Acc'
 illustration: 'Я люблю Петра за скромность.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [действие или качество участника]Cause является причиной другого [действия]Action или [ситуации]Situation. Как правило, наступившие действие или ситуация являются поощрением участника (примеры 1, 2) или, напротив, служат для него наказанием (примеры 3-5).
 examples:
+  - |
+       '[Ди Каприо сейчас получит статуэтку]Situation за [работу в фильме «Выживший»]Cause.'
+  - |
+       '[Дети получали грамоты]Situation за [участие на выставке]Cause.'
+  - |
+       '[Тягин сердито отчитал Тазова]Action за [болтливость]Cause.'
+  - |
+       'Нет ничего «справедливого» в том, чтобы [наказывать детей]Action за [грехи отцов]Cause.'
+  - |
+       'Нет, я, конечно, умной была, а [двойки мне ставили учителя]Action за [поведение]Cause, особенно по русскому языку.'
 morphology:
   - VP
   - NP
@@ -13,16 +25,23 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
-  - Prep
+  - N
+  - A
 part_of_speech_of_anchor:
   - Prep
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Situation
 intonation:
-  - ~
+  - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

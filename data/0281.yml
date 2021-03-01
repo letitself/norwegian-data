@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Experiencer вынужден выполнить [действие]Action против своей воли, то есть несмотря на то, что ему совсем не хочется выполнять это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Experiencer er nødt til å utføre [handlingen]Action mot sin vilje, dvs. til tross for at vedkommende slett ikke har lyst til å utføre denne handlingen.
 examples:
   - |
        'Волонтерская работа отнимала у Васи много времени, и [ему]Experiencer пришлось [бросить работу менеджера]Action.'
@@ -24,21 +26,25 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Predicate Argument Construction
+  - Matrix Predicate Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Matrix Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Verb
 semantic_roles:
   - Action
   - Experiencer
 intonation:
   - ~
 usage_label: ~
-structure_in_ud: |
-    '[root пришлось [nsubj VP-Inf]]; [root пришлось [nsubj выпить [obj лекарство]]]'
+dependency_structure:
+  - '[root пришлось [nsubj VP-Inf]]'
+  - '[root пришлось [nsubj выпить [obj лекарство]]]'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation имеет место в [группе людей]Set, объединенных по какому-то признаку. Как правило, эти люди находятся в близких (родственных, дружеских) отношениях. Kак если бы эти люди сели рядом, и получился круг.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation finner sted i [en gruppe mennesker]Set, som har noe til felles. Som regel står disse menneskene i nær relasjon til hverandre (som slektninger eller venner). Det er som om det oppstår en ring hvis disse menneskene setter seg ved siden av hverandre.
 examples:
   - |
        'Она заставила меня задуматься над этим вопросом и даже [поднять его]Situation в кругу [своей семьи]Set.'
@@ -25,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -37,6 +39,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

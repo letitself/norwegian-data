@@ -23,6 +23,10 @@ semantic_roles:
 intonation:
   - Interrogative
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

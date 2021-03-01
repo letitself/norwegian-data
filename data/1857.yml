@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами "будет" и "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используется слово "равно" (пример 1). Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа (пример 3, 4).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет' og 'получится'. Ved bruk av ordet 'равно' kan svaret stå i nominativ eller dativ (eksempel 1). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 3 og 4).
 examples:
   - |
        '[Двадцать]Quantity минус [три]Quantity равно [семнадцати]Result.'
@@ -26,18 +28,23 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - ~
+  - Coordinator
 syntactic_structure_of_anchor:
-  - PP
-  - Num
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Pred
 semantic_roles:
   - Quantity
   - Result
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

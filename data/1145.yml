@@ -1,7 +1,7 @@
 ---
 record: 1145
 name: 'VP с Adj видом'
-UD_name: 'VP с AP видом'
+UD_name: 'VP с Adj видом'
 illustration: 'Он стоит здесь с умным видом.'
 cefr_level: 
 definitions:
@@ -12,7 +12,7 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adverbial Modifier
+  - Modifier
 syntactic_structure_of_anchor:
   - PP
 part_of_speech_of_anchor:
@@ -23,6 +23,10 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

@@ -3,7 +3,7 @@ record: 72
 name: 'вот-вот VP-Fut NP-Nom'
 UD_name: 'вот-вот VP-Fut NP-Nom'
 illustration: 'Вот-вот прилетит самолет.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -14,16 +14,20 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - Reduplication
 part_of_speech_of_anchor:
-  - ~
+  - Part
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""

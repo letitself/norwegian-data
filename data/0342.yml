@@ -7,10 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый признак]Property по оценке говорящего проявляется в очень большой степени. Этот признак характеризует участника, объект, [действие]Action или [ситуацию]Situation. Конструкция может усиливать как положительную (примеры 3, 4), так и отрицательную оценку (примеры 1, 2).
-  - english: |
-       This construction means that something has a [property]Property to a very high degree. A related construction in English is ‘terribly’. The construction can be used about negative and positive properties, e.g. ужасно интересная лекция ‘terribly interesting lecture’ and ужасно скучно ‘terribly boring’.
   - norwegian: |
-       Konstruksjonen betyr at noe har en [egenskap]Property til en svært høy grad. En nærliggende konstruksjon i norsk er ‘forferdelig’. Konstruksjonen brukes både om positive og negative egenskaper, f.eks. ужасно интересная лекция ‘forferdelig spennende forelesning’ og ужасно скучно ‘forferdelig kjedelig’.
+       Konstruksjonen betyr at [et kjennetegn]Property, slik taleren vurderer det, er svært fremtredende. Kjennetegnet beskriver en deltaker, et objekt, [en handling]Action eller [en situasjon]Situation. Konstruksjonen kan forsterke så vel en positiv (eksempel 3 og 4) som en negativ (eksempel 1 og 2) karakteristikk.
 examples:
   - |
        'Он призадумался. Пауза длилась ужасно [долго]Property.'
@@ -27,11 +25,12 @@ morphology:
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
-  - Adv
+  - Modifier
 syntactic_structure_of_anchor:
-  - ~
+  - N
+  - A
 part_of_speech_of_anchor:
-  - ~
+  - Adv
 semantic_roles:
   - Property
   - Action
@@ -39,8 +38,11 @@ semantic_roles:
 intonation:
   - ~
 usage_label: Colloquial
-structure_in_ud: |
-    '[root [advmod Ужасно] XP]; [root [advmod Ужасно] скучно]'
+dependency_structure:
+  - '[root [advmod Ужасно] XP]'
+  - '[root [advmod Ужасно] скучно]'
+dependency_structure_of_illustration:
+  - '~'
 comment: |
     'См. близкую конструкцию дико XP'
 references:

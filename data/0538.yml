@@ -1,6 +1,6 @@
 ---
 record: 538
-name: 'NP-Nom не иметь (Adj) значения'
+name: 'NP-Nom не иметь (Adj/никакого) значения'
 UD_name: 'NP-Nom не иметь (Adj) значения'
 illustration: 'Деньги уже не имеют значения.'
 cefr_level: 
@@ -15,16 +15,24 @@ morphology:
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Verb
+  - Verb Predicate
 syntactic_structure_of_anchor:
-  - ~
+  - Negation
+  - Light verb
+  - Verb pattern
 part_of_speech_of_anchor:
-  - ~
+  - Negation Marker
+  - Verb
+  - Noun
 semantic_roles:
   - ~
 intonation:
   - Assertive
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

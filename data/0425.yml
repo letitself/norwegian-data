@@ -1,7 +1,7 @@
 ---
 record: 425
-name: 'Cl, если PronPers-2 Cop не Adv/Pred'
-UD_name: 'Cl, если PronPers-2 Cop не Adv/Praedic'
+name: 'Cl, если (PronPers-2.Dat) Cop не Pred'
+UD_name: 'Cl, если (PronPers-2.Dat) Cop не Praedic'
 illustration: 'Прочитай мой рассказ, если тебе не трудно.'
 cefr_level: 
 definitions:
@@ -10,8 +10,8 @@ morphology:
   - Cl
   - PronPers
   - 2
+  - Dat
   - Cop
-  - Adv
   - Pred
 syntactic_type_of_construction:
   - Cl
@@ -19,14 +19,20 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - ~
+  - Conj
+  - Negation
 part_of_speech_of_anchor:
-  - ~
+  - Conj
+  - Negation Marker
 semantic_roles:
   - ~
 intonation:
   - ~
 usage_label: ~
+dependency_structure:
+  - '~'
+dependency_structure_of_illustration:
+  - '~'
 references:
   - |
     ""
