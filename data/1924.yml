@@ -3,26 +3,42 @@ record: 1924
 name: 'о том, чтобы Cl, (тут/здесь/сейчас) и речи быть не может/могло'
 UD_name: 'о том, чтобы Cl, (тут/здесь/сейчас) и речи быть не может/могло'
 illustration: 'О том, чтобы поехать отдыхать, и речи быть не может.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action или [ситуация]Situation находятся под запретом (примеры 1-2) или невозможны по объективным причинам (примеры 3-5). Запрет или сообщение о невозможности выполнения действия произносятся безапелляционным тоном. Как правило, участник, устанавливающий запрет или сообщающий о невозможности выполнить действие, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок, администрация учреждения vs посетители), или является более компетентным в конкретном вопросе. Участник, которому адресован запрет, не называется, потому что понятен из ситуации.
 examples:
+  - |
+       'После операции необходимо несколько реабилитационных дней, а о том, чтобы [сейчас кому-либо из родных или друзей разрешили навещать меня]Situation, и речи быть не может.'
+  - |
+       'Разумеется, о том, чтобы [нарушить предписанные врачом правила]Action, и речи быть не могло.'
+  - |
+       'Лестницы в старых домах очень узкие, поэтому о том, чтобы [пронести по лестнице хотя бы ночную тумбочку]Action, и речи быть не может.'
+  - |
+       'Рита, я могу еще подумать о том, чтобы пойти работать к Рудину, но о том, чтобы [помогать в расследовании сейчас]Action, и речи быть не может.'
+  - |
+       'Заместитель он, как выясняется, никудышный, поэтому о том, чтобы [получить и возглавить группу]Action, и речи быть не может.'
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Light Verb Construction
   - Negation
 part_of_speech_of_anchor:
   - Noun
   - Verb
-  - Adv
-  - Prep
+  - Adverb
+  - Particle
+  - Preposition
+  - Pronoun
+  - Conjunction
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -30,6 +46,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. конструкции ни о какой-Loc NP-Loc (тут/здесь/сейчас) и речи быть не может (Ни о каких компьютерных играх тут и речи быть не может.), о NP-Loc (тут/здесь/сейчас) и речи быть не может (О присутствии адвоката и речи быть не может).'
 references:
   - |
     ""
@@ -45,6 +63,9 @@ semantic_types:
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement
+  - type: Root modality
+    subtypes:
+      - type: Possibility
 family:
   - |
     ""

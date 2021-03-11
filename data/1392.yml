@@ -15,15 +15,16 @@ morphology:
   - Acc
 syntactic_type_of_construction:
   - Predicate Argument Construction
+  - Matrix + Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Adj
   - Negation
+  - Argument Structure
 part_of_speech_of_anchor:
   - Negation Marker
-  - Adj
-  - Prep
+  - Adjective
+  - Preposition
 semantic_roles:
   - ~
 intonation:

@@ -24,7 +24,8 @@ morphology:
   - XP
   - NP
   - PP
-  - VP; Cl
+  - VP
+  - Cl
   - Adj
 syntactic_type_of_construction:
   - Cl
@@ -32,11 +33,10 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Adv
-  - Conj
+  - Adverb
+  - Conjunction
 semantic_roles:
   - Topic
   - Theme

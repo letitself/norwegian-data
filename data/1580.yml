@@ -1,7 +1,7 @@
 ---
 record: 1580
-name: 'VP/AP до смешного/абсурда'
-UD_name: 'VP/AP до смешного/абсурда'
+name: 'VP/Adj до смешного/абсурда'
+UD_name: 'VP/Adj до смешного/абсурда'
 illustration: 'У некоторых артистов боязнь сцены доходит до абсурда.'
 cefr_level: 
 definitions:
@@ -10,17 +10,18 @@ definitions:
 examples:
 morphology:
   - VP
-  - AP
+  - Adj
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - PP
+  - Prepositional Phrase
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
+  - Adjective
   - Noun
-  - Adj
 semantic_roles:
   - ~
 intonation:

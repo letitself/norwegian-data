@@ -6,18 +6,22 @@ illustration: 'Это в первую очередь его заслуга.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что для какого-либо [объекта/сущности]Theme что-то является главным, важным. Несмотря на какие-либо обстоятельства, прежде всего нужно считаться с данным [объектом]Theme. ЗЗЗ Примеры типа Это в первую очередь затронет интересы России, США и Китая. не подходят сюда. Вместо Клаузы это именная группа как правило. Может быть, инф. Связка в прош времени Это было в первую очередь обличение и осуждение коммунизма,
+       Конструкция обозначает, [что]Theme является самым главным, важным с точки зрения говорящего для некоторого [объекта]Theme или в определенном [вопросе]Theme.
   - english: |
-       This construction points to something as being the most important or relevant in a certain [matter]Theme. The meaning of the construction is close to the English expression “First and foremost”.
+       This construction points to something as being the most important or relevant to a certain [object]Theme or in a certain [matter]Theme, from the speaker's point of view.
   - norwegian: |
-       Denne konstruksjonen uttrykker hva som (ifølge taleren) er viktigst i et visst [anliggende]Theme. Nært beslektede konstruksjoner i norsk er “først og fremst” og “i første rekke”.
+       Konstruksjonen uttrykker hva som (ifølge taleren) er viktigst i et visst [anliggende]Theme.
 examples:
   - |
-       '[Свобода]Theme - это в первую очередь [обязанность]Theme, а не привилегии.'
+       '[Свобода]Theme – это в первую очередь [обязанность]Theme, а не привилегии.'
   - |
-       '[Воспитание]Theme - это в первую очередь [работа родителей над собой.]Theme'
+       '[Воспитание]Theme – это в первую очередь [работа родителей над собой.]Theme'
   - |
-       '[Сертификат]Theme для меня — это в первую очередь [проверка моих личных знаний.]Theme'
+       '[Сертификат]Theme для меня – это в первую очередь [проверка моих личных знаний.]Theme'
+  - |
+       'Темы его выступлений не отличались большим многообразием. Это было в первую очередь [обличение и осуждение коммунизма]Theme, тоталитарного режима в СССР.'
+  - |
+       'Даже Каштанов, для которого [человеческое тело]Theme было в первую очередь [материалом для исследования]Theme, вздрогнул.'
 morphology:
   - NP
   - Nom
@@ -27,14 +31,14 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - PP
+  - Prepositional Phrase
 part_of_speech_of_anchor:
-  - Pron
-  - Prep
-  - Num
+  - Particle
+  - Preposition
+  - Numeral
   - Noun
 semantic_roles:
-  - ~
+  - Theme
 intonation:
   - Assertive
 usage_label: ~
@@ -42,6 +46,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
   - |
     ""

@@ -3,9 +3,17 @@ record: 195
 name: '(NP-Dat) не грех Cop и VP-Pfv.Inf'
 UD_name: '(NP-Dat) не грех Cop и VP-Perf.Inf'
 illustration: 'Теперь не грех нам и отдохнуть.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации считает, что какое-то [действие]Action разрешено и не оценивается негативно. Конструкция обозначает, что говорящий считает, что неплохо было бы совершить некоторое [действие]Action, воспользовавшись подходящей ситуацией.
 examples:
+  - |
+       'Ради такого случая не грех и пораньше [встать]Action.'
+  - |
+       'Но прежде не грех и [поучиться]Action у профессионалов.'
+  - |
+       'Я устал, поэтому не грех и [поспать]Action немножко.'
 morphology:
   - NP
   - Dat
@@ -21,8 +29,8 @@ syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:
   - Negation Marker
-  - Noun
-  - Conj
+  - Predicative
+  - Particle
 semantic_roles:
   - ~
 intonation:
@@ -32,6 +40,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'В прошедшем времени используется форма связочного глагола "было", которая не согласуется по роду со словом "грех". Не путать с конструкцией с противоположным значением 16 (NP-Dat) грех Cop VP-Inf (Грех обижаться на взрослых).'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

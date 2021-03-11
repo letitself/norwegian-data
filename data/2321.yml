@@ -18,12 +18,13 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Coordinator
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Subject + Predicate
+  - Argument Structure
 part_of_speech_of_anchor:
-  - Pron
-  - Part
+  - Pronoun
+  - Particle
   - Verb
-  - Prep
+  - Preposition
   - Negation Marker
 semantic_roles:
   - ~

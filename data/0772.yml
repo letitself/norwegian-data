@@ -1,7 +1,7 @@
 ---
 record: 772
-name: 'У PronPers-Gen/в NP-Loc (не) иметься/быть в наличии NP-Nom'
-UD_name: 'У PronPers-Gen/в NP-Loc (не) иметься/быть в наличии NP-Nom'
+name: 'У PronPers-Gen/Prep NP-Loc (не) иметься/быть в наличии NP-Nom'
+UD_name: 'У PronPers-Gen/Prep NP-Loc (не) иметься/быть в наличии NP-Nom'
 illustration: 'У нас в наличии пять книг этого автора.'
 cefr_level: C1
 definitions:
@@ -17,11 +17,13 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - PP
+  - Light Verb Construction
+  - Negation
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
   - Negation Marker
   - Verb
+  - Noun
 semantic_roles:
   - ~
 intonation:

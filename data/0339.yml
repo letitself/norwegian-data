@@ -3,9 +3,19 @@ record: 339
 name: 'у NP-Gen быть NP-Nom'
 UD_name: 'у NP-Gen быть NP-Nom'
 illustration: 'У Паши есть кот.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция с [внешним посессором]Theme. Используется для выражения [обладателя]Experiencer в безличном предложении.
+  - english: |
+       This construction with an [external possessor]Theme expresses ownership by [a participant]Experiencer in an impersonal sentence.
 examples:
+  - |
+       'У [меня]Experiencer была [подруга]Theme по имени Душка.'
+  - |
+       'Разве плохо, что у [людей]Experiencer есть [выбор]Theme, где и как им жить?'
+  - |
+       'Многие из них хотели бы создать свой бизнес ― у [ребят]Experiencer есть [идеи, энергия, навыки]Theme.'
 morphology:
   - NP
   - Gen
@@ -15,10 +25,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Goverment
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
   - Verb
 semantic_roles:
   - ~

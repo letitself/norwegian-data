@@ -3,7 +3,7 @@ record: 1980
 name: 'NP-Nom добираться/ехать/лететь/плыть NP-Ins'
 UD_name: 'NP-Nom добираться/ехать/лететь NP-Ins'
 illustration: 'Из Варшавы в Москву нужно ехать поездом всю ночь.'
-cefr_level: А1
+cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent перемещается в пространстве с помощью [транспортного средства]Theme (по земле, по воде или по воздуху). Говорящий называть тип транспортного средства (примеры 1, 2, 3) или транспортную компанию (примеры 4, 5) или класс обслуживания (пример 5).
@@ -29,7 +29,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Not Applicable
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:

@@ -3,13 +3,21 @@ record: 537
 name: 'NP-Nom Cop (NP-Nom) не из Adj-Gen.Pl'
 UD_name: 'NP-Nom Cop (NP-Nom) не из Adj-Gen.Plur'
 illustration: 'Спа – это удовольствие не из дешёвых.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       expensive, частнооценочное значение функциональность, пригодность usefulness evaluation Конструкция используется, чтобы подчеркнуть, что [некоторый объект]Theme не обладает [данным признаком]Evaluation . Говорящий намеренно акцентирует внимание на этом факте. Поездка в Рим это удоволс0твие не из дешевых
-  - norwegian: |
-       Поездка в Рим это удоволс0твие не из дешевых
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant не обладает определенным [признаком]Property, не принадлежит к [числу объектов или участников, которые этот признак имеют]Set.
 examples:
+  - |
+       'Вот, племянник, один из секретов того, почему [твоя тетя Маро]Participant не из [самых бедных]Set.'
+  - |
+       '[Он]Participant был не из [местных]Set, так как вырос в недалёком местечке, там же получил воспитание.'
+  - |
+       '― [Вопрос]Theme ― не из [приятных]Set, но раз задан, то отвечу на него так.'
+  - |
+       'Сегодня у нее был тяжелый день. Но у мужчины, как видно, тоже [день]Theme был не из [легких]Set.'
+  - |
+       '[Прошедший год]Theme для продвижения товара на региональный рынок был не из [лучших]Set.'
 morphology:
   - NP
   - Nom
@@ -23,12 +31,13 @@ syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
-  - PP
+  - Nominal Pattern
 part_of_speech_of_anchor:
-  - Negatin Marker
-  - Prep
+  - Negation Marker
+  - Preposition
 semantic_roles:
-  - ~
+  - Theme
+  - Property
 intonation:
   - ~
 usage_label: ~
@@ -36,6 +45,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

@@ -10,16 +10,16 @@ morphology:
   - Cl
 syntactic_type_of_construction:
   - Cl/XP with parentheticals
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Parenthetical
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Light Verb
-  - Nominal pattern
+  - Light Verb Construction
 part_of_speech_of_anchor:
   - Verb
   - Noun
+  - Conjunction
 semantic_roles:
   - ~
 intonation:

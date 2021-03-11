@@ -1,15 +1,29 @@
 ---
 record: 1271
-name: 'Не VP-Fut.2!'
-UD_name: 'Не VP-Fut.2!'
+name: 'PronPers-Nom не VP-Fut!'
+UD_name: 'PronPers-Nom не VP-Fut!'
 illustration: 'Никуда ты не пойдёшь!'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает запрет говорящего на [действие]Action, которое собирается совершить [собеседник или другой участник]Participant ситуации. При сопротивлении с их стороны говорящий готов оказать им противодействие. Конструкция произносится строгим приказным тоном. Как правило, слот VP-Fut заполняется глаголом совершенного вида.
 examples:
+  - |
+       '[Ты]Participant больше не [выпьешь]Action ни грамма, понял?'
+  - |
+       'Ни за какой руль [ты]Participant у меня не [сядешь]Action.'
+  - |
+       '[Вы]Participant не [уйдете в отставку]Action, ― ответил прокурор решительно.'
+  - |
+       'Никуда [он]Participant не [пойдет]Action, ― сухо сказала мама.'
+  - |
+       '[Ты]Participant их не [троне]Action. Я запрещаю. Если с ними что-нибудь случится, ты об этом пожалеешь.'
 morphology:
   - VP
   - Fut
   - 2
+  - PronPers
+  - Nom
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -19,7 +33,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -27,6 +41,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. конструкции не дать-Fut.1/позволить-Fut.1 NP-Dat VP-Inf (Я не позволю вам так себя вести!), только попробовать-Imper/пусть только попробовать-Fut.3 VP-Inf! (Пусть только попробует меня не пустить!).'
 references:
   - |
     ""

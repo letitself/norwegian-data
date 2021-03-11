@@ -29,13 +29,14 @@ morphology:
   - Inf
 syntactic_type_of_construction:
   - Copula Construction
+  - Matrix + Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:
   - Negation Marker
-  - Pred
+  - Predicative
 semantic_roles:
   - Participant
   - Action
@@ -48,10 +49,10 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '~'
 comment: |
-    'См. похожие конструкции (NP-Dat) запрещается/воспрещается VP-Imp.Inf (На экзамене запрещается пользоваться мобильными телефонами), (NP-Dat) VP-Imp.Inf запрещено (Купаться запрещено), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят)'
+    'См. похожие конструкции (NP-Dat) запрещается/воспрещается VP-Imp.Inf (На экзамене запрещается пользоваться мобильными телефонами), (NP-Dat) VP-Imp.Inf запрещено (Купаться запрещено), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят).'
 references:
   - |
-    "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"
+    "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673."
 semantic_types:
   - type: Prohibition
     subtypes:

@@ -3,9 +3,25 @@ record: 521
 name: 'NP из-под NP-Gen'
 UD_name: 'NP из-под NP-Gen'
 illustration: 'Коробка из-под торта'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция означает, что некоторый [объект]Container раньше был контейнером или упаковкой для другого [объекта]Content, но теперь не используется для этого.
+  - english: |
+       This construction signifies that an [object]Container used to be a container or packaging for another [object]Content, but is no longer used for this purpose.
+  - norwegian: |
+       Ср. конструкцию 521 NP из-под NP-Gen (Коробка из-под торта)
 examples:
+  - |
+       'Мы наконец выкинули все [старые коробки]Container из-под [обуви]Content.'
+  - |
+       'На столе стояли два букета полевых цветов в [банке]Container из-под [варенья]Content.'
+  - |
+       'Бабушка хранила украшения в [коробке]Container из-под [конфет]Content.'
+  - |
+       '― Я зажег свечи, поставил алую розу в [бутылку]Container из-под [шампанского]Content. Мы недооцениваем мелочей, а женщины устроены по-другому.'
+  - |
+       'А для тепла мы на ночь влезали еще в [мешки]Container из-под [картофеля]Content.'
 morphology:
   - NP
   - Gen
@@ -14,12 +30,12 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Nominal Pattern
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
 semantic_roles:
-  - ~
+  - Container
+  - Content
 intonation:
   - ~
 usage_label: ~
@@ -29,7 +45,7 @@ dependency_structure_of_illustration:
   - '~'
 references:
   - |
-    ""
+    "This is termed as "the retrospective construction" of the preposition из-под in the article Kuznetsova, Plungian, Rakhilina. 2013. "Time as secondary to space: Russian pod ‘under’and iz-pod ‘from-under’in temporal constructions". Russian Linguistics 37 (3), Special Issue: Time and Space in Russian Temporal Expressions, 293-316. See pp. 307-310."
 semantic_types:
   - type: Salient property
     subtypes:

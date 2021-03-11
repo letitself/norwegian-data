@@ -3,11 +3,23 @@ record: 649
 name: 'VP-Ipfv почём зря'
 UD_name: 'VP-Imp почём зря'
 illustration: 'Паша ругается почём зря каждый день.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       Конструкция означает, что [участник]Participant выполняет [некоторое действие]Action слишком часто и без оснований. Словосочетание "почём зря" может как следовать за упоминанием действия, так и предшествовать ему. Негативная оценка. TOO Often
+       Конструкция обозначает, что [некоторое действие]Action выполняется [участником]Participant без причины, необоснованно или слишком часто. Конструкция обычно выражает негативную оценку говорящего.
+  - english: |
+       This construction indicates that the participant performs an [action]Action too often and for no reason. The phrase "почём зря" can come before or after the verb. Negative evaluation.
 examples:
+  - |
+       'Обращусь к Василию за помощью только когда совсем плохо станет. Не люблю почём зря [людей тревожить]Action.'
+  - |
+       'Случилось так, что в это же самое время Гаврилов расстался со своей женой. Да и как не расстаться, коли она [пила]Action почем зря.'
+  - |
+       'У деток все хорошо. Илья [в гейм бой играет]Action почем зря. Доигрался так, что я у него отобрала его на месяц.'
+  - |
+       'Так что не нужно [очернять]Action почём зря достойного человека!'
+  - |
+       'Жаль Сашу, с его способностями [пропадает]Action почем зря.'
 morphology:
   - VP
   - Ipfv
@@ -16,11 +28,12 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Adverb
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Adv
+  - Adverb
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
   - ~
 usage_label: Colloquial
@@ -28,6 +41,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'Словосочетание "почём зря" может стоять перед глаголом или после него.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

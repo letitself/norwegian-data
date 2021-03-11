@@ -1,7 +1,7 @@
 ---
 record: 2340
-name: 'NP-Dat не подобает/подобало VP-Inf'
-UD_name: 'NP-Dat не подобает/подобало VP-Inf'
+name: 'NP-Dat не подобает/подобало VP-Ipfv.Inf'
+UD_name: 'NP-Dat не подобает/подобало VP-Imp.Inf'
 illustration: 'Не подобает московскому царю кланяться польскому королю.'
 cefr_level: C2
 definitions:
@@ -24,13 +24,14 @@ morphology:
   - NP
   - Dat
   - VP
+  - Ipfv
   - Inf
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Verb Pattern
   - Negation
 part_of_speech_of_anchor:
   - Verb
@@ -46,7 +47,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '~'
 comment: |
-    'см. конструкцию NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам)'
+    'См. конструкцию NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не нужно/надо VP-Inf (не нужно опекать детей до безрассудства), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
 references:
   - |
     "См. статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"

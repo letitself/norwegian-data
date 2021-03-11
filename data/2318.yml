@@ -9,17 +9,17 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Subject + Predicate
+  - Verb Pattern
 part_of_speech_of_anchor:
-  - Pron
-  - Part
-  - Pred
+  - Pronoun
+  - Particle
   - Verb
-  - Conj
+  - Conjunction
 semantic_roles:
   - ~
 intonation:

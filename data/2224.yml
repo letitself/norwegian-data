@@ -14,14 +14,15 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Biclausal Construction
+  - Cl
+  - XP with parentheticals
 syntactic_function_of_anchor:
   - Object
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Verb + Object
 part_of_speech_of_anchor:
-  - Pron
+  - Pronoun
   - Verb
 semantic_roles:
   - ~

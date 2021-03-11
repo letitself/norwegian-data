@@ -6,18 +6,22 @@ illustration: 'Грех обижаться на взрослых.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий считает [действие]Action [участника ситуации]Experiencer предосудительным, стыдным, нехорошим. неправильным
+       Конструкция обозначает, что говорящий считает [действие]Action [участника]Participant ситуации неправильным, предосудительным, стыдным, нехорошим. Слот VP-Inf обычно заполняется глаголом несовершенного вида (примеры 1-4), но встречаются и глаголы совершенного вида (пример 5).
   - english: |
-       This construction means that [a given activity]Action, such as смеяться над старыми ‘make fun of old people’, is reprehensible, shameful or in other ways wrong. грех было бы упрекнуть, грех было не воспользоваться, грех было отказываться, грех было отказать.грех было бы упрекнуть, грех было не воспользоваться, грех было отказываться, грех было отказат0ь. может в настоящем времени только нес вид? проверять по корпусу
+       This construction signifies that the speaker evaluates a certain [action]Action of the [participant]Participant as reprehensible, shameful, bad or in other ways wrong. The slot VP-Inf is usually filled with an imperfective verb (examples 1-4), but perfective verbs can also appear there (example 5).
   - norwegian: |
-       Konstruksjonen betyr at [en gitt handling]Action, f.eks. смеяться над старыми ‘le av gamle mennesker’, er kritikkverdig, skammelig eller på andre måter galt.
+       Konstruksjonen betyr at [en gitt handling]Action er kritikkverdig, skammelig eller på andre måter galt.
 examples:
-  - |
-       'И в общем-то грех [требовать]Action от наших врачей какого-то сочувствия.'
   - |
        'Грех [упускать возможную выгоду.]Action'
   - |
-       '[Им]Experiencer грех [жаловаться]Action ― не бедствуют, живут в хорошей квартире, ездят на хорошей машине.'
+       '[Им]Participant грех [жаловаться]Action ― не бедствуют, живут в хорошей квартире, ездят на хорошей машине.'
+  - |
+       'От такого предложения грех было [отказываться]Action.'
+  - |
+       'Я не знаю, насколько это прямой аналог, но если у ведущих государств мира есть это, то [нам]Participant грех было бы [отставать от этого процесса]Action.'
+  - |
+       '―  Я пришла сделать вам укольчик,  ― ласково сообщила она. Ее улыбка была столь очаровательной, что ей грех было [отказать]Action.'
 morphology:
   - NP
   - Dat
@@ -26,15 +30,16 @@ morphology:
   - Inf
 syntactic_type_of_construction:
   - Copula Construction
+  - Matrix + Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Noun
+  - Predicative
 semantic_roles:
-  - ~
+  - Participant
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
@@ -42,6 +47,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'В прошедшем времени используется форма связочного глагола "было", которая не согласуется по роду со словом "грех". Не путать с конструкцией с противоположным значением 95 грех Cop не VP-Pfv.Inf! (Грех не выпить!).'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

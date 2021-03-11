@@ -3,11 +3,25 @@ record: 223
 name: 'нет чтобы/бы VP-Inf, Cl'
 UD_name: 'нет чтобы/бы VP-Inf, Cl'
 illustration: 'Нет чтобы подождать, он ушел без нас!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Subgroup 2: Biclausal constructions with negative evaluation of the choice of behavior 3
+       Конструкция обозначает, что говорящий выражает свое недовольство тем, что участник не совершил какое-либо [действие]Action, а совершает или совершил [другое]Action.
+  - english: |
+       The construction indicates that the speaker expresses dissatisfaction with the fact that the interlocutor has not taken a given [action]Action or is undertaking or has undertaken a different [action]Action.
+  - norwegian: |
+       Комментарий: Выражение "нет чтобы/бы" похоже по значению на союз "вместо того, чтобы". Ударение стоит на слове "нет".
 examples:
+  - |
+       'Нет чтобы [помочь]Action, [сидит сложа руки!]Action'
+  - |
+       'Нет бы [прийти]Action вовремя, [опять опоздает!]Action'
+  - |
+       'Нет чтобы нормально [поесть]Action суп, [он все бутербродами питается.]Action'
+  - |
+       '― А потом мои снова завели кошку и опять уехали. Нет бы [с собой забрать]Action ― мне [оставили]Action, а ни к чему ее не приучили.'
+  - |
+       '― Знаешь куда он [перечислил все деньги]Action? В фонд помощи беспризорным собакам!!! Нет чтобы [отдать их мне]Action, своему троюродному брату, а он… каким-то шавкам…'
 morphology:
   - VP
   - Inf
@@ -19,10 +33,12 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:
-  - Part
-  - Conj
+  - Predicative
+  - Conjunction
+  - Negation Marker
+  - Particle
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -30,6 +46,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. близкие по значению конструкции 356 чем бы VP, VP (бы) (Чем бы учиться, он гуляет); 222 нет бы (NP-Dat) VP-Inf (Нет бы сделать домашнее задание пораньше).'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

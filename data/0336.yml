@@ -15,15 +15,15 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
   - Subordinator
 syntactic_structure_of_anchor:
-  - Conj
+  - Multiword Conjunction
 part_of_speech_of_anchor:
-  - Part
-  - Conj
+  - Particle
+  - Conjunction
 semantic_roles:
   - ~
 intonation:

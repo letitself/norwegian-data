@@ -3,7 +3,7 @@ record: 1976
 name: 'VP по NP-Dat'
 UD_name: 'VP по NP-Dat'
 illustration: 'Говорить по телефону'
-cefr_level: А1
+cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает [действие]Action, которое участник выполняет с помощью [прибора, программы или другого средства связи]Instrument. Обычно это телефон, телевизор, радио, почта, интернет, видеосвязь, банковская карта и др.
@@ -27,10 +27,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
 semantic_roles:
   - Action
   - Instrument

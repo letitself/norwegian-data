@@ -1,7 +1,7 @@
 ---
 record: 1032
-name: 'VP за компанию'
-UD_name: 'VP за компанию'
+name: 'VP за компанию (с NP-Ins)'
+UD_name: 'VP за компанию (с NP-Ins)'
 illustration: 'Пойдёшь с нами за компанию?'
 cefr_level: 
 definitions:
@@ -13,9 +13,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - PP
+  - Prepositional Phrase
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
   - Noun
 semantic_roles:
   - ~

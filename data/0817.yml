@@ -21,15 +21,17 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Subordinator
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - PP
-  - Conj
+  - Prepositional Phrase
 part_of_speech_of_anchor:
-  - Conj
+  - Preposition
+  - Noun
+  - Pronoun
+  - Conjunction
 semantic_roles:
   - Action
   - Cause

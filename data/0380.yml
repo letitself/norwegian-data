@@ -1,13 +1,28 @@
 ---
 record: 380
-name: 'чтоб(ы) PronPers больше не VP-Pst!'
-UD_name: 'чтоб(ы) PronPers больше не VP-Past!'
+name: 'чтоб(ы) PronPers-Nom/PronDem-Nom/PronDem-Gen больше не VP-Pst!'
+UD_name: 'чтоб(ы) PronPers-Nom/PronDem-Nom/PronDem-Gen больше не VP-Past!'
 illustration: 'Чтобы я больше об этом не слышала!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает запрет на повторение некоторого [действия]Action, которое однажды уже происходило. Запрет является командой, которую отдает говорящий собеседнику или группе лиц безапелляционным тоном. Говорящий высказывает запрет на появление [предмета]Theme или [участника]Participant в личном пространстве говорящего, имея в виду как физическое, так и информационное пространство. Как правило, участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок, администрация учреждения vs посетители). Участник, которому адресован запрет, не называется, потому что понятен из ситуации. Обычно такой запрет используется только в устной форме и обращен к собеседнику. В тех случаях, когда слот PronPers-Nom указывает на самого говорящего (пример 1), запрет тоже обращен не к говорящему, а собеседнику, и направлен на действия собеседника, которые нежелательны для говорящего.
 examples:
+  - |
+       'Чтобы [я]Speaker не [слышала]Action больше про этого проходимца!'
+  - |
+       'Чтобы [этого]Situation больше не [повторялось]Action!'
+  - |
+       'И чтобы [ты]Participant больше не [смел так о ней говорить]Action!'
+  - |
+       'Да, кстати. Егоровна насплетничала, будто бы вы сомневаетесь, ехать ли вам послезавтра на елку. Чтобы [я]Speaker больше этих глупостей не [слышала]Action!'
+  - |
+       'Что хочешь, то и делай с ним, но чтобы [я]Speaker больше его не [видела]Action!'
 morphology:
   - PronPers
+  - Nom
+  - PronDem
+  - Gen
   - VP
   - Pst
 syntactic_type_of_construction:
@@ -17,13 +32,14 @@ syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
   - Negation
-  - Conj
 part_of_speech_of_anchor:
-  - Conj
-  - Adv
+  - Particle
+  - Adverb
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Theme
+  - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -31,9 +47,11 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. близкую конструкцию 382 чтобы (никакой-Gen) NP-Gen PP/Adv (не было)! (Чтобы животных здесь не было!).'
 references:
   - |
-    ""
+    "Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673."
 semantic_types:
   - type: Causation
     subtypes:

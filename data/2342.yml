@@ -6,9 +6,9 @@ illustration: '– Кончайте паниковать! – строго ск�
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне.
+       Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять некоторое [действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне.
   - english: |
-       The construction is used when the speaker prompts the interlocutor to stop performing [some action]Action, as it seems to him inappropriate or inadequate (for example, not serious enough in a particular situation). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone.
+       The construction is used when the speaker prompts the interlocutor to stop performing some [action]Action, as it seems to him inappropriate or inadequate (for example, not serious enough in a particular situation). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone.
   - norwegian: |
        Konstruksjonen anvendes når taleren anmoder samtalepartneren om å slutte å utføre [en gitt handling]Action fordi taleren finner den malplassert eller upassende (f.eks. spøke når man burde være alvorlig eller sørge når man burde være glad). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
 examples:
@@ -32,8 +32,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
@@ -47,10 +46,10 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '~'
 comment: |
-    'см. конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать)'
+    'См. конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать).'
 references:
   - |
-    "См. статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"
+    "См. статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673."
 semantic_types:
   - type: Prohibition
     subtypes:

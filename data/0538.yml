@@ -17,13 +17,14 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
+  - Light Verb Construction
   - Negation
-  - Light verb
-  - Verb pattern
+  - Double Negation
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
   - Noun
+  - Pronoun
 semantic_roles:
   - ~
 intonation:

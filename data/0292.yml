@@ -26,13 +26,14 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Predicate Argument Construction
+  - Matrix + Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Negation
 part_of_speech_of_anchor:
-  - Pron
+  - Preposition
+  - Pronoun
   - Noun
   - Negation Marker
   - Verb

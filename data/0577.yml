@@ -3,11 +3,21 @@ record: 577
 name: 'NP-Nom Cop NP-Nom VP-Inf'
 UD_name: 'NP-Nom Cop NP-Nom VP-Inf'
 illustration: 'Он мастер готовить.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something' молодец, охотник, любитель, мастер
+       Конструкция обозначает, что [участник]Participant имеет большие [способности]Evaluation или любит заниматься определенным [делом]Action.
 examples:
+  - |
+       'Ну а [ученые-психологи]Participant ― вообще [мастера]Evaluation [выдумывать мудреные теории для объяснения самых простых и очевидных явлений]Action.'
+  - |
+       '[Она]Paticipant была [мастерица]Evaluation [пересказывать прочитанные книги]Action, да так умно и толково!'
+  - |
+       '[Я]Paticipant вообще не [любительница]Evaluation [готовить]Action, но теперь умею разделывать и жарить рыбу.'
+  - |
+       'Еще [я]Participant большой [любитель]Evaluation [ходить в магазины]Action, но против использования полиэтиленовых пакетов.'
+  - |
+       'Он хочет услышать от него самого все эти фантастические истории с арестами и побегами. Но [Зимин]Participant не [охотник]Evaluation [рассказывать о себе]Action.'
 morphology:
   - NP
   - Nom
@@ -19,12 +29,13 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - NA
+  - Not Applicable
 semantic_roles:
-  - ~
+  - Participant
+  - Evaluation
+  - Action
 intonation:
   - ~
 usage_label: Colloquial
@@ -32,6 +43,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

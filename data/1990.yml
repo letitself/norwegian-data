@@ -1,23 +1,22 @@
 ---
 record: 1990
-name: 'мало-мальски VP/AP'
-UD_name: 'мало-мальски VP/AP'
+name: 'мало-мальски VP/Adj'
+UD_name: 'мало-мальски VP/Adj'
 illustration: 'В каждом мало-мальски крупном городе была своя газета.'
 cefr_level: 
 definitions:
 examples:
 morphology:
   - VP
-  - AP
+  - Adj
 syntactic_type_of_construction:
   - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Adverb
   - Reduplication
 part_of_speech_of_anchor:
-  - Adv
+  - Adverb
 semantic_roles:
   - ~
 intonation:

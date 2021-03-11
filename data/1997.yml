@@ -14,12 +14,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - VP
-  - Conj
+  - Argument Structure
 part_of_speech_of_anchor:
   - Verb
-  - Conj
-  - Pron
+  - Conjunction
+  - Pronoun
 semantic_roles:
   - ~
 intonation:

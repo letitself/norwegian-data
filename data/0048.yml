@@ -6,18 +6,22 @@ illustration: 'Я в жизни никуда не опаздывал.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что участник никогда и ни при каких условиях не выполнял какое-либо [действие.]Action
+       Конструкция обозначает, что участник никогда и ни при каких условиях не выполнял некоторое [действие.]Action
   - english: |
-       This construction means that the participant never, under any circumstance, has performed [a certain activity]Action.
+       This construction means that the participant never, under any circumstance, has performeda certain [action]Action.
   - norwegian: |
        Konstruksjonen uttrykker at deltageren aldri under noen omstendighet har utført [en viss handling]Action.
 examples:
   - |
-       'Он в жизни [ничего для неё не писал. ]Action'
+       'Надо знакомых фотографов прислать, такое чудо заснять! В жизни не [видел]Action ничего подобного!'
+  - |
+       '―  Боже мой, какой изысканный, какой оригинальный комплимент! Никогда в жизни не [слышала]Action ничего подобного.'
+  - |
+       '"Бог с тобой, ― махнула рукой прабабушка, ― я пятёрок в жизни не [получала]Action.'
+  - |
+       'Я чужого в жизни не [возьму]Action.'
   - |
        'Мне бы в жизни [не пришло в голову обидеть тебя.]Action'
-  - |
-       'Они в жизни [ничего не делают]Action или делают только то, что им захочется!'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -25,15 +29,16 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Nominal pattern
   - Negation
+  - Double Negation
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
+  - Noun
   - Negation Marker
-  - Pron
-  - Adj
+  - Pronoun
+  - Adjective
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: ~

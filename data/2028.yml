@@ -1,29 +1,42 @@
 ---
 record: 2028
-name: 'только попробовать-Imp/пусть только попробовать-Fut.3 VP-Inf!'
-UD_name: 'только попробовать-Imper/пусть только попробовать-Fut.3 VP-Inf!'
+name: 'только попробовать-Imp/пусть (PronPers-3) только попробовать-Fut.3 VP-Inf!'
+UD_name: 'только попробовать-Imper/пусть (PronPers-3) только попробовать-Fut.3 VP-Inf!'
 illustration: 'Пусть только попробует меня не пустить!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает запрет говорящего на [действие]Action, которое потенциально может произойти. Говорящий готов противостоять собеседнику или другому [участнику]Participant ситуации, который собирается осуществить данное действие. При этом говорящий часто сопровождает данную конструкцию прямой угрозой (пример 4). Конструкция произносится строгим приказным тоном. Как правило, слот VP-Inf заполняется глаголом совершенного вида.
 examples:
+  - |
+       'И только попробуй [сказать об этом в школе]Action!'
+  - |
+       'Только попробуйте не [вернуть мне деньги]Action!'
+  - |
+       'Пусть только попробует не [выполнить наше желание]Action!'
+  - |
+       'Только попробуйте [отнять моего ребёнка]Action, я всех убью.'
+  - |
+       'Жена сказала мужу, что Жанну на порог не пустит, пусть только попробует [привести]Action.'
 morphology:
   - Imp
   - Fut
   - 3
   - VP
   - Inf
+  - PronPers
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Verb Pattern
 part_of_speech_of_anchor:
   - Verb
-  - Adv
-  - Part
+  - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
   - ~
 usage_label: Colloquial
@@ -31,6 +44,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. близкие конструкции Не VP-Fut.2! (Никуда ты не пойдёшь!), не дать-Fut.1/позволить-Fut.1 NP-Dat VP-Inf (Я не позволю вам так себя вести!).'
 references:
   - |
     ""

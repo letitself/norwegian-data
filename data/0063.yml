@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает пожелание говорящего, чтобы [некоторая ситуация]Situation исполнилась в будущем. Может относиться как к реально возможным событиям, так и к неосуществимым.
-  - english: |
-       N/A
-  - norwegian: |
-       N/A
 examples:
   - |
        'Вот бы [такую таблетку изобрели, чтобы спать и не просыпаться]Situation.'
@@ -27,10 +23,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Part
+  - Particle
 semantic_roles:
   - ~
 intonation:

@@ -3,9 +3,21 @@ record: 635
 name: 'VP под NP-Acc'
 UD_name: 'VP под NP-Acc'
 illustration: 'Она танцевала под музыку.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action протекает одновременно с [музыкальным сопровождением или другими звуками]BackgroundSituation. Существительное часто отглагольное (шум, звуки, крик, визг) и всегда обозначает звуковой фон действия.
 examples:
+  - |
+       'Он [вышел на сцену]Action под [гром аплодисментов]Theme.'
+  - |
+       'Я [уснул]Action под [шум дождя и монотонные воспоминания напарника]Theme.'
+  - |
+       'Уроки я обычно [делаю]Action под [электронику]Theme – позволяет держаться в тонусе.'
+  - |
+       'Рассказчик [поет]Action под [фонограмму песни]Theme из любимого мультфильма.'
+  - |
+       'Эти напевы [звучали бы неплохо]Action под [аккомпанемент звонкой гармошки]Theme.'
 morphology:
   - VP
   - NP
@@ -15,12 +27,12 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Theme
 intonation:
   - ~
 usage_label: ~
@@ -30,7 +42,7 @@ dependency_structure_of_illustration:
   - '~'
 references:
   - |
-    ""
+    "This is termed as "the simultaneity construction" of the preposition pod in the article Kuznetsova, Plungian, Rakhilina. 2013. "Time as secondary to space: Russian pod ‘under’and iz-pod ‘from-under’in temporal constructions". Russian Linguistics 37 (3), Special Issue: Time and Space in Russian Temporal Expressions, 293-316. See pp. 301-302."
 semantic_types:
   - type: Manner
 family:

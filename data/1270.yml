@@ -1,11 +1,23 @@
 ---
 record: 1270
-name: 'PronPers не дать-Fut.1/позволить-Fut.1 NP-Dat VP-Inf'
-UD_name: 'PronPers не дать-Fut.1/позволить-Fut.1 NP-Dat VP-Inf'
+name: 'PronPers-1 не дать-Fut.1/позволить-Fut.1 (NP-Dat) VP-Inf!'
+UD_name: 'PronPers-1 не дать-Fut.1/позволить-Fut.1 (NP-Dat) VP-Inf!'
 illustration: 'Я не позволю вам так себя вести!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает запрет [говорящего]Speaker на [действие]Action, которое потенциально может произойти. Как правило, говорящий считает данное действие аморальным и готов противостоять тем, кто собирается его осуществить. Запрет может быть обращен как к [собеседнику]Listener (пример 4), так и к другому [участнику]Participant ситуации (пример 5). Конструкция произносится строгим приказным тоном.
 examples:
+  - |
+       '[Я]Speaker отвечаю за людей и не дам их [погубить]Action.'
+  - |
+       '[Мы]Speaker не дадим тебя [обидеть]Action.'
+  - |
+       '[Я]Speaker житель этого города в пятнадцатом поколении и не позволю его [разрушать]Action!'
+  - |
+       'Ольга, [я]Speaker не позволю [тебе]Listener [сломать нашу жизнь]Action!'
+  - |
+       '[Мы]Speaker больше не позволим [им]Participant [рубить]Action наш лес и [отравлять]Action наши озера!'
 morphology:
   - PronPers
   - Fut
@@ -20,11 +32,15 @@ syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
   - Negation
+  - Verb Pattern
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
-  - ~
+  - Speaker
+  - Action
+  - Listener
+  - Participant
 intonation:
   - Exclamatory
 usage_label: ~
@@ -32,6 +48,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. конструкции Не VP-Fut.2! (Никуда ты не пойдёшь!), только попробовать-Imper/пусть только попробовать-Fut.3 VP-Inf! (Пусть только попробует меня не пустить!).'
 references:
   - |
     ""

@@ -13,14 +13,13 @@ morphology:
   - Sconj
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Pred
+  - Predicative
 semantic_roles:
   - ~
 intonation:

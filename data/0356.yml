@@ -3,11 +3,25 @@ record: 356
 name: 'чем бы VP, VP (бы)'
 UD_name: 'чем бы VP, VP (бы)'
 illustration: 'Чем бы учиться, он гуляет.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       similar to 223 Subgroup 2: Biclausal constructions with negative evaluation of the choice of behavior 3
+       Конструкция обозначает, что говорящий выражает свое недовольство тем, что участник не совершил какое-либо [действие]Action, а совершает или совершил [другое]Action. Выражение "чем бы" соответствует союзу "вместо того, чтобы". Возможны два варианта употребления: 1) После "чем бы" называется ненужное действие, имеющее место в реальности, а после запятой называется альтернативное нужное действие, которое нужно предпочесть с точки зрения говорящего (пример 1); 2) После "чем бы" называется нужное действие, которое следует предпочесть, а после запятой называется ненужное действие, имеющее место в реальности (примеры 2, 3, 4). Пример 5 иллюстрирует еще один вариант: После "чем бы" называется ненужное, но ожидаемое действие, а после запятой называется альтернативное нужное действие, которое имеет место в реальности.
+  - english: |
+       The construction indicates that the speaker expresses dissatisfaction with the fact that the interlocutor has not taken a given [action]Action or is undertaking or has undertaken a different [action]Action.
+  - norwegian: |
+       ? VP-Inf Нет с другими формами! На сайте приведен невозможный пример Чем бы деньги [тратил]Action, [накопил]Action бы на свадьбу. Комментарий: Выражение "чем бы" соответствует союзу "вместо того, чтобы".
 examples:
+  - |
+       'Чем бы по улицам [болтаться]Action, [почитал]Action бы книжку.'
+  - |
+       'Чем бы [пойти]Action на работу, [лежит]Action целый день на диване.'
+  - |
+       'Чем бы [работать]Action, так он [лодырничает]Action.'
+  - |
+       'Чем бы [уделить его старому отцу немного денег из своих достатков]Action, он [пьянствует]Action.'
+  - |
+       'К тому же и жизнь ее после этого, чем бы [ухудшиться и омрачиться]Action, [изменилась к лучшему]Action.'
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -16,12 +30,12 @@ syntactic_function_of_anchor:
   - Subordinator
   - Discourse Particle
 syntactic_structure_of_anchor:
-  - Conj
+  - Multiword Conjunction
 part_of_speech_of_anchor:
-  - Noun
-  - Part
+  - Conjunction
+  - Particle
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Exclamatory
 usage_label: Obsolete
@@ -29,6 +43,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. близкие по значению конструкции 223 нет чтобы/бы VP-Inf, Cl (Нет чтобы подождать, он ушел без нас!); 222 нет бы (NP-Dat) VP-Inf (Нет бы сделать домашнее задание пораньше).'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

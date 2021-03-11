@@ -13,12 +13,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Nominal Pattern
   - Double Negation
 part_of_speech_of_anchor:
   - Negation Marker
-  - Prep
-  - Pron
+  - Preposition
+  - Pronoun
 semantic_roles:
   - ~
 intonation:

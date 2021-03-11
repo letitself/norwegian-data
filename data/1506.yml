@@ -13,12 +13,12 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Subordinator
 syntactic_structure_of_anchor:
-  - PP
-  - Conj
+  - Multiword Conjunction
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
   - Noun
-  - Pron
+  - Pronoun
+  - Conjunction
 semantic_roles:
   - ~
 intonation:

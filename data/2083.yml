@@ -1,6 +1,6 @@
 ---
 record: 2083
-name: 'Прошу прошения за NP-Acc/за то, что Cl'
+name: 'Прошу прощения за NP-Acc/за то, что Cl'
 UD_name: 'Прошу прошения за NP-Acc/за то, что Cl'
 illustration: 'Прошу прощения за опоздание.'
 cefr_level: 
@@ -15,11 +15,15 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Light Verb Construction
+  - Verb + Object
+  - Argument Structure
 part_of_speech_of_anchor:
   - Verb
   - Noun
-  - Prep
+  - Preposition
+  - Pronoun
+  - Conjunction
 semantic_roles:
   - ~
 intonation:

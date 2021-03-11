@@ -31,12 +31,14 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Modifier
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Verb Pattern
   - Negation
+  - Argument Structure
 part_of_speech_of_anchor:
+  - Particle
   - Verb
-  - Prep
-  - Conj
+  - Preposition
+  - Negation Marker
 semantic_roles:
   - Experiencer
   - Theme

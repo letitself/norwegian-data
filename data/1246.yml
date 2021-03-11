@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция используется, когда говорящий побуждает собеседника больше не выполнять [некоторое действие]Action, которое происходит в данный момент. Часто глагол обозначает целую последовательность действий, а не единичное действие (пример 2). Говорящий оценивает это действие отрицательно, так как оно отрицательно по своей природе или неуместно в конкретной ситуации (пример 1). Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником.
   - english: |
-       The construction is used when the speaker prompts the interlocutor to finish doing [some action]Action. An action is interpreted not as a single and continuous one, which must be stopped in the middle (cf .: *prekrati otkryvatʹ glaza ’stop opening your eyes'), but as a sequence of such actions that must be stopped. The speaker evaluates this action negatively; (s)he is also confident that this point of view is known to the addressee. The design is a categorical order of the speaker and implies the immediate fulfillment of this order by the interlocutor.
+       The construction is used when the speaker prompts the interlocutor to finish doing [some action] Action. An action is interpreted not as a single and continuous one, which must be stopped in the middle (cf .: *prekrati otkryvatʹ glaza 'stop opening your eyes'), but as a sequence of such actions that must be stopped. The speaker evaluates this action negatively; (s)he is also confident that this point of view is known to the addressee. The design is a categorical order of the speaker and implies the immediate fulfillment of this order by the interlocutor.
   - norwegian: |
        Konstruksjonen anvendes når taleren anmoder samtalepartneren om ikke lenger å utføre en pågående [handling]Action. Ofte betegner verbet en hel serie handlinger, og ikke en enkelthandling (eksempel 2). Taleren har et negativt syn på handlingen fordi den er negativ i seg selv eller upassende i den konkrete situasjonen (eksempel 1). Konstruksjonen er et absolutt krav, fremsatt av taleren, og det er underforstått at samtalepartneren må innfri det umiddelbart.
 examples:
@@ -32,8 +32,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
@@ -47,7 +46,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '~'
 comment: |
-    'см. конструкции см. конструкции бросить-Imper VP-Imp.Inf (брось спорить), кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.)'
+    'См. конструкции бросить-Imper VP-Imp.Inf (брось спорить), кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.)'
 references:
   - |
     "См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ, 2013, 665-673. https://rakhilina.ru/files/rakhilinaev.pdf"

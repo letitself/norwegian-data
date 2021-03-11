@@ -3,9 +3,21 @@ record: 382
 name: 'чтобы (никакой-Gen) NP-Gen PP/Adv (не было)!'
 UD_name: 'чтобы (никакой-Gen) NP-Gen PP/Adv (не было)!'
 illustration: 'Чтобы животных здесь не было!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает запрет на повторное появление некоторого [участника]Participant или [объекта]Theme, который находится [в одном пространстве]Location с говорящим. Запрет является командой, которую отдает говорящий собеседнику или группе лиц безапелляционным тоном. Как правило, участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок, администрация учреждения vs посетители). Участник, которому адресован запрет, не называется, потому что понятен из ситуации. Обычно такой запрет используется только в устной форме и обращен к собеседнику.
 examples:
+  - |
+       'Собери, пожалуйста, свою жену и отвези её домой. Чтобы [её]Participant [здесь]Location не было. Понял?'
+  - |
+       'Скажи, что получил телеграмму от матери, и уезжай! Чтоб завтра [тебя]Participant [в городе]Location не было! Слышишь?'
+  - |
+       'Как ты варишь суп? Чтоб [картофеля]Theme совсем [в нем]Location не было! Я проверю.'
+  - |
+       '― И чтобы [духу твоего]Participant [тут]Location не было! ― ревел Корабельников.'
+  - |
+       '― Марш ― кому говорят! ― приступом шла на мужика Дарья. Он пятился, ошеломленный ее страшным, на все готовым видом. ― Чтоб сейчас же [тебя]Participant [тут]Location не было, поганая твоя душа!'
 morphology:
   - Gen
   - NP
@@ -16,14 +28,17 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:
-  - Conj
   - Negation
+  - Double Negation
 part_of_speech_of_anchor:
-  - Conj
-  - Pron
+  - Particle
+  - Pronoun
   - Negation Marker
+  - Verb
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
+  - Location
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -31,6 +46,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. близкую конструкцию 380 чтоб(ы) PronPers-Nom/PronDem-Nom/PronDem-Gen больше не VP-Pst! (Чтобы я больше об этом не слышала!).'
 references:
   - |
     ""

@@ -3,9 +3,23 @@ record: 984
 name: 'NP до NP-Gen'
 UD_name: 'NP до NP-Gen'
 illustration: 'Юбка до пят'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme (обычно, волосы или одежда) имеет длину, которая ограничена снизу [уровнем]Limit одной из частей тела человека (плечи, локти, пояс, колени, пятки и др.).
+  - english: |
+       См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма). Ограничение сверху передается конструкцией с предлогом "по" в 1516 NP Cop/VP по NP-Acc (Воды было по колено).
 examples:
+  - |
+       '― Была у нас фельдшер, женщина, лет тридцати с небольшим. Симпатичная женщина, фигуристая, с [косой]Theme до [пояса]Limit.'
+  - |
+       'Она была коротко подстрижена и в [юбке]Theme до [колен]Limit.'
+  - |
+       'Александра вышла провожать брата, простоволосая, в одном платье с [рукавами]Theme до [локтя]Limit, в туфлях на босу ногу.'
+  - |
+       'Ещё больше стало видно, что он красив ― длинные, до [плеч]Limit, тёмные [волосы]Theme почти сходились в овал.'
+  - |
+       'Друзей было семь или восемь, все в узких чёрных брюках, с [чёлками]Theme до [бровей]Limit под Брюса Ли.'
 morphology:
   - NP
   - Gen
@@ -14,12 +28,12 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Nominal pattern
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
 semantic_roles:
-  - ~
+  - Theme
+  - Limit
 intonation:
   - ~
 usage_label: Colloquial
@@ -27,6 +41,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма).'
 references:
   - |
     ""

@@ -3,9 +3,19 @@ record: 579
 name: 'NP-Nom Verb VP'
 UD_name: 'NP-Nom V VP'
 illustration: 'Он идёт шатается.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent одновременно выполняет два [действия]Action в рамках одной и той же ситуации. Глагол, называющий первое действие, обычно имеет более общее значение, а второй глагол его уточняет, конкретизирует с точки зрения образа действия.
+  - english: |
+       КАЖЕТСЯ, ПЕРВЫЙ ГЛАВНЫЙ ГЛАГОЛ ЭТО ОБЫЧНО ГЛАГОЛ ДВИЖЕНИЯ, НО ЕСТЬ ИСКЛЮЧЕНИЯ.
 examples:
+  - |
+       'Сегодня позвонили жене, взяла трубку, [стоит]Action [слушает.]Action'
+  - |
+       'А [мальчик]Agent [говорит]Action [бормочет]Action что-то невнятное, когда ему задают прямые вопросы.'
+  - |
+       'Второй день [я]Agent [хожу]Action [хромаю]Action, ногу, кажется, подвернула.'
 morphology:
   - NP
   - Nom
@@ -16,10 +26,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Serial Verb Construction
 part_of_speech_of_anchor:
-  - NA
+  - Not Applicable
 semantic_roles:
   - ~
 intonation:

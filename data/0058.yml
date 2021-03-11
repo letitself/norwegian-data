@@ -6,16 +6,14 @@ illustration: 'Вне зависимости от результатов мы п
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция подчеркивает, что [некоторое потенциальное условие]Theme не важно для принятия решения или ситуации.
+       Конструкция обозначает, что [некоторое потенциальное условие]Condition не важно для принятия решения или для некоторой [ситуации]Situation.
   - english: |
-       This construction emphasises that [a potential factor]Theme is not important in order to accept a decision or situation.
+       This construction signifies that a potential [factor]Condition is not important for making a certain decision or for a certain [situation]Situation.
 examples:
   - |
-       'У нас многонациональная страна. Человек может относить себя к той нации, к которой хочет, вне зависимости от [национальности родителей]Theme.'
+       'У нас многонациональная страна. Человек может [относить себя к той нации, к которой хочет,]Action вне зависимости от [национальности родителей]Condition.'
   - |
-       'В соответствии с законом автомобили должны двигаться только с включёнными фарами вне зависимости от [времени года]Theme.'
-  - |
-       'Сегодня можно смоделировать практически любой предмет вне зависимости от [его сложности]Theme.'
+       'Автомобили должны [двигаться только с включёнными фарами]Action вне зависимости от [времени года]Theme.'
 morphology:
   - Cl
   - NP
@@ -25,10 +23,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - PP
+  - Multiword Preposition
 part_of_speech_of_anchor:
-  - Prep
-  - Noun
+  - Preposition
 semantic_roles:
   - ~
 intonation:

@@ -32,11 +32,13 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Nominal Pattern
 part_of_speech_of_anchor:
   - Verb
-  - Prep
+  - Preposition
   - Noun
+  - Conjunction
+  - Particle
 semantic_roles:
   - Speaker
   - Agent

@@ -1,28 +1,40 @@
 ---
 record: 572
-name: 'NP-Nom Cop Adj-Nom до NP-Gen'
-UD_name: 'NP-Nom Cop Adj-Nom до NP-Gen'
-illustration: 'Родители религиозные до фанатизма.'
-cefr_level: 
+name: 'Adj до NP-Gen NP'
+UD_name: 'Adj до NP-Gen NP'
+illustration: 'Религиозные до фанатизма родители'
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme проявляет [качество или признак]Property в крайней степени, до [предела]Limit. Признак может быть положительным или отрицательным. Предел может быть определен обобщенно (например, до крайности, до предела, до невозможности) или в соответствии с тем признаком, о котором идет речь (например, загорелый до черноты, сладкий до приторности).
 examples:
+  - |
+       'Моему сыну 13, [проблемный]Property до [невозможности]Limit.'
+  - |
+       'Не писал, не телеграфировал, просто приехал! Всё такой же ― бледный, редковолосый, но милый, [милый]Property до [невозможности]Limit! До чего же люблю его, старшенького!'
+  - |
+       'Открывается дверь, появляется [человек]Participant лет пятидесяти, весь [мокрый]Property до [нитки]Limit, капли капают с волос, бровей, носа.'
+  - |
+       'В Андрее Николаевиче закопошилась [смелая]Property до [безумия]Limit [идея]Theme ― как изменить общественный строй в СССР.'
+  - |
+       'Из карасей получалась [сладкая]Property до [приторности]Limit [уха]Theme.'
 morphology:
   - NP
-  - Nom
-  - Cop
   - Adj
   - Gen
 syntactic_type_of_construction:
-  - Copula Construction
+  - Head + Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Nominal Pattern
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Property
+  - Limit
 intonation:
   - ~
 usage_label: Colloquial
@@ -30,6 +42,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа. Прилагательное может стоять в полной или краткой форме. См. близкую конструкцию с прямым значение предлога "до" в 984 NP до NP-Gen (Юбка до пят).'
 references:
   - |
     ""

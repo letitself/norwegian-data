@@ -16,9 +16,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Goverment
+  - Verb + Object
+  - Argument Structure
 part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
   - Verb
 semantic_roles:
   - ~

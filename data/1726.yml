@@ -1,8 +1,8 @@
 ---
 record: 1726
-name: 'Cl в среде NP-Gen.Pl'
+name: 'Cl в среде NP-Gen'
 UD_name: 'Cl в среде NP-Gen.Plur'
-illustration: 'Он очень извествен в среде журналистов.'
+illustration: 'Он очень известен в среде журналистов.'
 cefr_level: B2
 definitions:
   - russian: |
@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en situasjon]Situation finner sted i [en gruppe mennesker]Set som har noe til felles. Som regel har disse menneskene tilhørighet til samme yrke eller ideologi.
 examples:
   - |
-       'И в среде [интеллигенции]Set [интерес к русской литературе, музыке как был, так и остаётся достаточно большим]Situation.'
+       'В среде [автомобилистов]Set [имя Kaercher стало нарицательным и ассоциируется с автомоечной станцией]Situation.'
   - |
        'Действительно, не каждый день [пишут дипломы о сексуальных отношениях]Situation в среде [людей]Set, лишённых зрения и слуха.'
   - |
-       'В среде [автомобилистов]Set [имя Kaercher стало нарицательным и ассоциируется с автомоечной станцией]Situation.'
+       'Даже в среде [членов социал-демократического съезда]Set [такая постановка вопроса вызвала оппозицию]Situation.'
+  - |
+       'И в среде [интеллигенции]Set [интерес к русской литературе, музыке как был, так и остаётся достаточно большим]Situation.'
   - |
        'В среде [русского крестьянства]Set, наоборот, [чем богаче семья, тем она многочисленнее]Situation.'
-  - |
-       'Даже в среде [членов социал-демократического съезда]Set [такая постановка вопроса вызвала оппозицию]Situation.'
 morphology:
   - Cl
   - NP
@@ -30,9 +30,10 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - PP
+  - Prepositional Phrase
+  - Nominal Pattern
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
   - Noun
 semantic_roles:
   - Situation
@@ -44,6 +45,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'Существительное обычно стоит в форме множественного числа, но может стоять в едионственном числе, если является собирательным (например, в среде интеллигенции, крестьянства и др.).'
 references:
   - |
     ""

@@ -11,15 +11,16 @@ morphology:
   - NP
   - Nom
 syntactic_type_of_construction:
-  - Clause
+  - Biclausal Construction
 syntactic_function_of_anchor:
   - Subject
   - Nominal Quantifier
 syntactic_structure_of_anchor:
-  - Conj
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Pron
-  - Part
+  - Pronoun
+  - Numeral
+  - Particle
 semantic_roles:
   - ~
 intonation:

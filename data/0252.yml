@@ -1,33 +1,47 @@
 ---
 record: 252
-name: 'NP-Nom обойтись в NumCrd-Acc NP'
-UD_name: 'NP-Nom обойтись в NumCrd-Acc NP'
-illustration: 'Новая сумка обошлась в тысячу рублей.'
+name: 'NP-Nom обойтись NP-Dat в NumCrd-Acc NP'
+UD_name: 'NP-Nom обойтись NP-Dat в NumCrd-Acc NP'
+illustration: 'Новая сумка мне обошлась в тысячу рублей.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция указывает стоимость некоторого [объекта или услуги]Theme в [единицах]Measure определенной денежной системы (рублях, долларах, евро и других валютах), приводя [количество]Quantity этих единиц. Если использовано числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в винительном падеже, в остальных случаях после предлога "в" в родительном падеже.
+       Конструкция обозначает итоговую стоимость [товара]Theme, которую оплатил или оплатит [покупатель]Experiencer. Называется [количество]Quantity [единиц]Measure определенной валюты (рубли, доллары, евро и др.). Если использовано числительное "один" или "одна", то [единица измеренения]Measure стоит в винительном падеже (в один рубль), в остальных случаях после предлога "в" в родительном падеже (в два рубля).
   - english: |
-       По корпусу проверить много ли датива, если да посатавить в скобки, и пров еруть, всегда ли значит, что деньги уже потратили.
+       This construction expresses the [total cost]Number of [something]Theme.
+  - norwegian: |
+       Konstruksjonen uttrykker [totalkostnaden]Number for [noe]Theme.
 examples:
+  - |
+       'По предварительным расчетам, [музей]Theme обойдётся [владельцу]Experiencer в [20 млн]Quantity [долларов]Measure.'
+  - |
+       'К примеру, [шесть снежинок ручной работы]Theme обойдутся [вам]Experiencer в [110]Quantity [рублей]Measure.'
+  - |
+       'По некоторым данным, [автоматизированная скоринговая система и персонал]Theme обошлись [банку]Experiencer в [миллионы]Quantity [долларов]Measure.'
+  - |
+       '[Это новшество]Theme может обойтись [городу]Experincer в [несколько сотен тысяч]Quantity [долларов]Measure.'
+  - |
+       'Врач говорит пациенту: ― [Операция]Theme обойдется [вам]Experiencer в [50 тысяч]Quantity.'
 morphology:
   - NP
   - Nom
   - NumCrd
   - Acc
+  - Dat
 syntactic_type_of_construction:
   - Predicate Argument Construction
 syntactic_function_of_anchor:
   - Verb Predicate
   - Government
 syntactic_structure_of_anchor:
-  - Verb
-  - Goverment
+  - Argument Structure
 part_of_speech_of_anchor:
   - Verb
-  - Prep
+  - Preposition
 semantic_roles:
-  - ~
+  - Experiencer
+  - Quantity
+  - Measure
 intonation:
   - ~
 usage_label: ~

@@ -29,11 +29,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Goverment
+  - Argument Structure
 part_of_speech_of_anchor:
   - Verb
-  - Pred
+  - Preposition
+  - Adjective
 semantic_roles:
   - Quantity
   - Result

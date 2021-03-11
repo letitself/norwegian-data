@@ -31,10 +31,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Pred
+  - Predicative
 semantic_roles:
   - Action
   - Participant
@@ -45,6 +44,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'Cм. похожие по значению конструкции: 19 (NP-Dat) не положено VP-Inf (Детям не положено гулять поздно), 1269 Запрещается/воспрещается VP-Inf (На экзамене запрещается пользоваться мобильными телефонами), 1223 VP-Inf запрещено (Купаться запрещено), 2341 здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят).'
 references:
   - |
     ""

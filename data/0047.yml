@@ -7,8 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник ситуации]Experiencer внутри себя, втайне [знает, надеется или верит]Sense, что произошло или произойдёт какое-то [событие]Event или [ситуация]Situation. Имеются в виду самые сокровенные мысли и переживания, которые участник ситуации иногда сам не осознаёт и не показывает окружающим людям. Как если бы душа человека была контейнером и чувства находились глубоко внутри него.
-  - english: |
-       This construction means that deep inside the [subject]Agent [knows, hopes or believes]Sense in [something that has happened or will happen]Action. The subject may not be aware of these thoughts or feelings themselves. A closely related construction in English is “deep inside”, e.g.в глубине души именно на это я и рассчитывал ‘deep inside this was exactly what I was counting on’.
   - norwegian: |
        Konstruksjonen betyr at [subjektet]Agent innerst inne [håper, tror, eller er klar over]Sense [noe]Action. Disse tankene og følelsene kan være ubevisste. En nærliggende konstruksjon i norsk er “innerst inne”, e.g. в глубине души именно на это я и рассчитывал ‘innerst inne var det akkurat det jeg regnet med’. NOT FINAL
 examples:
@@ -30,11 +28,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Nominal pattern
+  - Nominal Pattern
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
   - Noun
-  - Conj
+  - Conjunction
 semantic_roles:
   - Sense
   - Action

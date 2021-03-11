@@ -3,9 +3,25 @@ record: 261
 name: 'VP NP-Acc под NP-Acc'
 UD_name: 'VP NP-Acc под NP-Acc'
 illustration: 'Однако после революции они переделали церковь под склад.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [действие]Action, которое трансформирует некоторый [объект]Theme так, что его можно будет использовать в другом качестве, с другим назначением, а именно как контейнер нового содержимого. ИЛИ Конструкция обозначает [действие]Action, которое трансформирует некоторое [помещение]Container так, что его можно использовать в новом качестве, с другим [назначением]Content/Purpose.
+  - english: |
+       переделать, приспособить, преобразовать, перепланировать, переоборудовать vs. отвести, отдать? две разные близкие конструкции? X pod Y refers to a space X where someone intends to place Y.  The intended purpose of X is not yet realized and will only be realized in future. Now the extension is not used as a pool, the patch is not a place where the cucumbers grow. The prospective construction is used to describe the intended or future purpose of an object.  Возьмем мы лопаты да выроем здесь котлован под бассейн! На даче Фадеева рабочие готовили грядки под клубнику. Я стала уговаривать поехать на дачу, отвезти рассаду, вскопать грядки под картошку.  Мэрия временно отдала полгостиницы под школу. можно «передвинуть», чтобы освободить место под застройку
+  - norwegian: |
+       Ср. родственную конструкцию 521 NP из-под NP-Gen (Коробка из-под торта).
 examples:
+  - |
+       'К стенам подземного зала, спешно переделанного под кабинет для заседаний, были прибиты длинные полки. Огромная часть подвалов не использовалась вообще никак. Не мудрено: окон нет, доступного прохода тоже нет, ни под офис, ни под склад не приспособить.'
+  - |
+       'Теперь мечта наконец-то осуществилась: громадная кухня-столовая, просторная ванная,  кладовка и две светлые комнаты. Одну она приспособила под кабинет и спальню Он [ [переделал]переделать  [роль]Patient  [под]под  [нее]Theme]переделать_NP-Acc_под_NP-Acc, под ее индивидуальность, под ее характер.'
+  - |
+       'Помимо локальных торговых комплексов, преобразуются, перепланируются первые этажи зданий под офисы, магазины.'
+  - |
+       'Москва пока идет по другому пути ― индустриальные здания либо сносят, либо, приспосабливают под офисы.'
+  - |
+       'Там на втором этаже «было оборудовано место под приготовление пищи и обогрев, а именно несколько кирпичей, на которые ставили кастрюли и разогревали пищу.  Когда магазин восточных сладостей закрыли, Рашель переоборудовала магазин под библиотеку.'
 morphology:
   - VP
   - NP
@@ -15,10 +31,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Government
 syntactic_structure_of_anchor:
-  - N
-  - A
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Prep
+  - Preposition
 semantic_roles:
   - ~
 intonation:
@@ -30,7 +45,7 @@ dependency_structure_of_illustration:
   - '~'
 references:
   - |
-    ""
+    "A related construction NP-Acc под NP-Acc is termed "the prospective construction" of the preposition pod in the article Kuznetsova, Plungian, Rakhilina. 2013. "Time as secondary to space: Russian pod ‘under’and iz-pod ‘from-under’in temporal constructions". Russian Linguistics 37 (3), Special Issue: Time and Space in Russian Temporal Expressions, 293-316. See pp. 305-307."
 semantic_types:
   - type: Purpose
   - type: Temporary characteristics
@@ -38,4 +53,4 @@ semantic_types:
       - type: Transformation
 family:
   - |
-    ""
+    "Transformation"

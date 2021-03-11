@@ -18,9 +18,10 @@ syntactic_function_of_anchor:
   - Subject
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb pattern
+  - Subject + Predicate
 part_of_speech_of_anchor:
-  - Part
+  - Conjunction
+  - Particle
   - Verb
   - Noun
 semantic_roles:

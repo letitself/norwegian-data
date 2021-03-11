@@ -15,11 +15,11 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Adj
+  - Negation
 part_of_speech_of_anchor:
-  - Pron
-  - Part
-  - Prep
+  - Pronoun
+  - Negation Marker
+  - Preposition
   - Verb
 semantic_roles:
   - ~

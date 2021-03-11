@@ -1,27 +1,37 @@
 ---
 record: 600
-name: 'NP-Nom Cop, конечно, NP-Nom, что Cl'
-UD_name: 'NP-Nom Cop, конечно, NP-Nom, что Cl'
+name: 'NP-Nom Cop (, конечно,) NP-Nom, что VP'
+UD_name: 'NP-Nom Cop (, конечно,) NP-Nom, что VP'
 illustration: 'Я, конечно, дурак, что послушался тебя.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что [участник]Agent ситуации или говорящий оценивает, что совершил [что-то]Action, что по его мнению, совершенно точно (не) нужно было делать. Ограничение на именную группу: [дурак, молодец, глупец, умница, красавчик]Assessment
+       Конструкция выражает, как говорящий оценивает [действия]Action другого [участника]Agent или свои собственные действия. Конструкция может выражать  [похвалу или осуждение]Evaluation в зависимости от того, нужно или не нужно (по оценке говорящего) было совершать эти действия. Второй слот NP-Nom заполняется только оценочными словами молодец, умница, дурак, дура, идиот, идиотка и подобными.
 examples:
+  - |
+       '[Ты]Agent, Позднякова, [молодец]Evaluation, [что тогда мне позвонила насчет Галины]Action, это нам, действительно, здорово помогло.'
+  - |
+       '― [Я]Speaker [дурак]Evaluation, что [расстался с тобой]Action. Вся моя жизнь пошла наперекосяк после этого.'
+  - |
+       'Какие же [мы]Agent были [дураки]Evaluation, что [сразу вскочили и побежали]Action. К нашему удивлению, солдаты промахнулись. Но мы еще долго лежали, притворяясь мертвыми, прежде чем решились подняться и уйти с этого места.'
+  - |
+       'И [ты]Agent [умница]Evaluation, что [не стала конфликтовать]Action, а [сумела договориться]Action.'
+  - |
+       '― Цирк, ― сказал он вслух. А про себя подумал: какой [он]Agent [идиот]Evaluation, что [приехал сюда без машины]Action,  [послушал Лидию]Action. Разве можно в таких случаях слушать людей, у которых нет и никогда небудет машины?'
 morphology:
   - NP
   - Nom
   - Cop
-  - Cl
+  - VP
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Conj
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Conj
-  - Part
+  - Conjunction
+  - Particle
 semantic_roles:
   - ~
 intonation:
@@ -31,6 +41,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

@@ -1,17 +1,29 @@
 ---
 record: 236
-name: 'никакой PronPers Cop не XP'
-UD_name: 'никакой PronPers Cop не XP'
+name: 'никакой PronPers/это Cop не XP'
+UD_name: 'никакой PronPers/это Cop не XP'
 illustration: 'Никакой он не гений.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Evaluation by negation of a positive / negative quality - what it is NOT - none, zero level 8 В приведенных в конструктиконе примерах запись конструкции дается то с восклицательным знаком, то без него. Нужно унифицировать. В принципе, восклицательный знак подходит, но тогда нужно его добавить и в главную запись конструкции, и в ключевую иллюстрацию.
+       Конструкция обозначает, что говорящий отрицает [характеристику]Property другого [участника]Participant или [объекта]Theme и говорит, что он вовсе не такой, каким все его себе представляют. Отрицаться может как положительное, так и отрицательное качество.
 examples:
+  - |
+       'Жорка, конечно, хороший малый, но никакой [он]Participant не [писатель]Property, а просто литературный щелкунчик, создатель заводских эпопей.'
+  - |
+       '― Никакая [онa]Participant не [гениальная]Property, а просто глупая.'
+  - |
+       'Зря на нее наговаривают. Никакая [она]Participant не [грымза]Property.'
+  - |
+       '― Да-да! И никакая [она]Participant не [больная]Property, твоя мамаша, а просто притворщица. И со справкой всех обманула. Не хочется ей в колхозе работать, торговлей занялась.'
+  - |
+       'Никакая [это]Theme не [ложь]Property.'
 morphology:
   - PronPers
   - Cop
   - XP
+  - NP
+  - Adj
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -19,10 +31,12 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Double Negation
 part_of_speech_of_anchor:
-  - Pron
+  - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
+  - Property
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -30,6 +44,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

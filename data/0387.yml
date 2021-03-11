@@ -3,11 +3,21 @@ record: 387
 name: 'это ли Cop не NP-Nom?'
 UD_name: 'это ли Cop не NP-Nom?'
 illustration: 'Это ли не чудо?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Rethorical questions, Matching the standard
+       Конструкция обозначает, что по оценке говорящего [ситуация]Situation полностью соответствует некоторому абстрактному [понятию]Evaluation (такому как счастье, радость, безумие, ужас и др.). Конструкция построена как риторический вопрос и подчеркивает, что говорящий полностью уверен в правильности своей оценки.
 examples:
+  - |
+       '[Когда твое творчество востребовано]Situation, это ли не [радость для пишущего человека]Evaluation?'
+  - |
+       '[Отдельное жилище, уют, созданный своими руками]Situation, ― это ли не [счастье]Evaluation!'
+  - |
+       '[Пару раз Рита участвовала и в других телепередачах, но уже как почетная гостья.]Situation Это ли не [слава]Evaluation?'
+  - |
+       '[Женщина говорит по телефону, стоя на балкончике своего дома, а в это самое время ее дом с другого конца ломают экскаватором]Situation. Это ли не [безумие]Evaluation?'
+  - |
+       '[Надо отметить, что цена увеличивается в 10 раз]Situation. Это ли не [показатель эффективности работы]Evaluation?'
 morphology:
   - Cop
   - NP
@@ -20,11 +30,11 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:
-  - Pron
-  - Part
+  - Pronoun
+  - Particle
   - Negation Marker
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - Interrogative
   - Exclamatory
@@ -33,6 +43,8 @@ dependency_structure:
   - '~'
 dependency_structure_of_illustration:
   - '~'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

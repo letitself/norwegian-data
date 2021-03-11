@@ -9,16 +9,15 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Subordinate Clause Construction
+  - Matrix + Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Praedic
-  - Verb pattern
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Pred
+  - Adjective
   - Verb
-  - Pron
+  - Conjunction
 semantic_roles:
   - ~
 intonation:
