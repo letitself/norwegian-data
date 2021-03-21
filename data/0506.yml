@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] в-Verb-ся [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod хорошо] вживается [obl [case в] образ].]'
 references:
   - |
     ""

@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Gen] [cop Cop] пруд [fixed пруди]]'
+  - '[root [nsubj NP-Gen] [advmod хоть] пруд [fixed пруди]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Свободного] времени] пруд [fixed пруди].]'
 references:
   - |
     ""

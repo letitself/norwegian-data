@@ -12,7 +12,8 @@ morphology:
   - NumCrd
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +28,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obj [nummod NumCrd] NP [nmod [case с] человека]]]'
+  - '[dep [nsubj NP] [nummod NumCrd] NP [nmod [case с] человека]]'
+  - '[root VP [obj [nummod NumCrd] NP [nmod [case с] носа]]]'
+  - '[dep [nsubj NP] [nummod NumCrd] NP [nmod [case с] носа]]'
+  - '[root VP [obj [nummod NumCrd] NP [nmod [case с] каждого]]]'
+  - '[dep [nsubj NP] [nummod NumCrd] NP [nmod [case с] каждого]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Плата [nmod [case за] вход]] – [nummod:gov двести] рублей [nmod [case с] человека].]'
 references:
   - |
     ""

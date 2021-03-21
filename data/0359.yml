@@ -21,11 +21,13 @@ examples:
 morphology:
   - PronInt
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
@@ -35,10 +37,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [nsubj чёрт] знает [advmod PronInt]'
-  - '[root [nsubj чёрт] знает [advmod как] [xcomp решать [obj [amod эту] задачу]]]'
+  - '[root [nsubj чёрт] знает [ccomp PronInt]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Чёрт] знает [ccomp [advmod как] решать [obj [det эту] задачу]]!]'
 comment: |
     'См. близкую конструкцию 35 бог весть PronInt (Они принесли в пакете бог весть что).'
 references:

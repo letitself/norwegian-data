@@ -24,9 +24,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] [obl [case у] них] VP-Pst]'
+  - '[mark то] [advmod и] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [obl [case у] них] получилось]'
+  - '[mark то] [nsubj [advmod и] мы] можем.]'
 references:
   - |
     ""

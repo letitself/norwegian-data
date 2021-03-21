@@ -34,9 +34,11 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а] [obj что] [nsubj NP-Nom] мочь [xcomp [advmod ещё] VP-Inf]]?]'
+  - '[root Cl, [conj [cc а] [obj что] [nsubj NP-Nom] мочь [xcomp VP-Inf]]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Пришлось [csubj признаться]'
+  - '[conj [cc а] [obj что] [nsubj он] мог [xcomp [advmod ещё] сказать]]?]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

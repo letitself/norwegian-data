@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[parataxis пожалуйста]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] килограмм [nmod конфет]'
+  - '[parataxis пожалуйста].]'
 references:
   - |
     ""

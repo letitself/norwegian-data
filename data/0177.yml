@@ -42,10 +42,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root ладно [obl Pron-2.Dat] [csubj VP-Inf]]'
-  - '[root ладно [obl вам] [csubj спорить]]'
+  - '[root ладно [iobj PronPers-2.Dat] [csubj VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Ладно [iobj вам] [csubj спорить]!]'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно, и глаголы, обозначающие неуместное действие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
 references:

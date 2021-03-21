@@ -26,9 +26,10 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc а] [nsubj что] [advmod сегодня] [case с] NP-Ins?]'
+  - '[root [cc а] [nsubj что] [case с] NP-Ins?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [nsubj что] [advmod сегодня] [case с] погодой?]'
 references:
   - |
     ""

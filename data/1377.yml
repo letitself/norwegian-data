@@ -22,7 +22,8 @@ morphology:
   - VP
   - PronPoss
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,9 +38,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case под] [det PronPoss] руководством]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Приятно [csubj работать [obl [case под] [det вашим] [amod чутким] руководством]].]'
 comment: |
     'См. близкую конструкцию 1168 VP под эгидой NP-Gen (Конференция пройдёт под эгидой ООН.'
 references:

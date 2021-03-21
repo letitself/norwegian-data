@@ -3,8 +3,10 @@ record: 1623
 name: 'едва (лишь/только) VP, (как) VP'
 UD_name: 'едва (лишь/только) VP, (как) VP'
 illustration: 'Едва старик ушел, в сад быстро вошел доктор.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие]Action совершается сразу после другого [действия]Action.
 examples:
 morphology:
   - VP
@@ -23,9 +25,15 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark едва] VP], Cl]]'
+  - '[root [advcl [mark едва] [advmod лишь] VP], Cl]]'
+  - '[root [advcl [mark едва] [advmod только] VP], Cl]]'
+  - '[root [advcl [mark едва] VP], [mark как] Cl]]'
+  - '[root [advcl [mark едва] [advmod лишь] VP], [mark как] Cl]]'
+  - '[root [advcl [mark едва] [advmod только] VP], [mark как] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Едва] [nsubj старик] ушел]'
+  - '[obl [case в] сад] [advmod быстро] вошел [nsubj доктор].]'
 references:
   - |
     ""
@@ -35,4 +43,4 @@ semantic_types:
       - type: Subsequent action
 family:
   - |
-    ""
+    "Immediate consecution"

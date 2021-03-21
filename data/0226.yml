@@ -40,10 +40,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root нечего [nsubj VP-inf]]'
-  - '[root нечего [nsubj баловать [obj детей]]'
+  - '[root нечего [cop Cop] [csubj VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Нечего [csubj баловать [obj детей]]!]'
 references:
   - |
     ""

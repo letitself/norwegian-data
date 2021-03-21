@@ -26,9 +26,16 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc да] [advmod как [advmod же]] [expl это] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [advmod как [advmod же]] [expl это] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [cc да] [advmod как] [expl это] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [cc да] [advmod как [advmod же]] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [advmod как] [expl это] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [advmod как [advmod же]] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [cc да] [advmod как] [cop Cop] можно [csubj Cl]?!]'
+  - '[root [advmod как] [cop Cop] можно [csubj Cl]?!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Да] [advmod как [advmod же]] [expl это] можно [obl [case в] деревне] [obl [case без] кур]!]'
 references:
   - |
     ""

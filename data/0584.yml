@@ -11,7 +11,8 @@ morphology:
   - Prep
   - NP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Subordinator
 syntactic_structure_of_anchor:
@@ -24,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case как] NP]]'
+  - '[root VP [obl [case как] [case Prep] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] мог [obl [case к] нему] [xcomp прийти] [obl [case как] ученик].]'
 references:
   - |
     ""

@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Adj-[advmod то] [nsubj PronPers-Nom] [conj Adj], [conj [cc но] Cl]]'
+  - '[root Adj-[advmod то] [nsubj PronPers-Nom] [conj Adj], [conj [cc да] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Больной-[advmod то] [nsubj он] [conj больной]'
+  - '[conj [cc но] [obl [case на] работу] должен [xcomp ходить]].]'
 references:
   - |
     ""
@@ -37,6 +39,8 @@ semantic_types:
     subtypes:
       - type: Imitative agreement
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
 family:
   - |
     ""

@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obj NP-Acc] прозвали [xcomp NP-Ins] [obl [case за] NP-Acc]]'
+  - '[root [obj NP-Acc] прозвали [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case За] внешность] [obj Квазимодо] прозвали [xcomp Горбуном].]'
 references:
   - |
     ""

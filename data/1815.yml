@@ -22,9 +22,13 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ну]'
+  - '[parataxis разумеется]'
+  - 'XP!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [obj [amod Крепкие] напитки] [nsubj он] [advmod не] любит.]\n[root – [discourse Ну]'
+  - '[parataxis разумеется]'
+  - '[advmod не] любит.]'
 references:
   - |
     ""

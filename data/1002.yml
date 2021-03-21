@@ -40,9 +40,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Gen] [mark как] [advmod не] бывало]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Простуды] [mark как] [advmod не] бывало.]'
 references:
   - |
     ""

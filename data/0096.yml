@@ -39,10 +39,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '[root давай(те) [ccomp VP-Fut.1Plur]]'
-  - '[root давай(те) [ccomp пойдем [obl [case в] кино]]]'
+  - '[root [advmod давайте] VP-Fut.1.Pl!]'
+  - '[root [advmod давай] VP-Fut.1.Pl!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Давайте] пойдем [obl [case в] кино]!]'
 references:
   - |
     ""

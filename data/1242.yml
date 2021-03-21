@@ -37,9 +37,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [advmod затем'
+  - '[advcl [mark чтобы] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] пришли [advmod затем'
+  - '[advcl [mark чтобы] победить]].]'
 references:
   - |
     ""

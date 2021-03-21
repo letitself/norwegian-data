@@ -24,9 +24,9 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl чего [case ради]] VP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl Чего [case ради]] [nsubj я] [aux буду] [iobj вам] помогать?]'
 references:
   - |
     ""

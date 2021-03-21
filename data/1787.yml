@@ -25,7 +25,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -41,9 +42,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case наперекор] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Наперекор] [amod многим] коллегам] [nsubj он] верит [obl [case в] телепатию].]'
 comment: |
     'См. близкую конструкцию 1786 VP в пику NP-Dat (Открыли магазин здоровой еды в пику фастфуду).'
 references:

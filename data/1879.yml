@@ -14,7 +14,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Verb + Object
+  - Verb
+  - Object
 part_of_speech_of_anchor:
   - Verb
   - Pronoun
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root скажу [iobj вам] [advmod больше], [parataxis Cl]]'
+  - '[root скажу [iobj вам] [advmod даже] [advmod больше], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Скажу [iobj вам] [advmod больше]'
+  - '[parataxis [nsubj он] пообещал [xcomp выступить [obl [case на] конференции]]].]'
 references:
   - |
     ""

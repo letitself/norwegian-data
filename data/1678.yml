@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] доводить [obj NP-Acc] [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мальчик] довел [obj девочку] [obl [case до] слёз].]'
 references:
   - |
     ""

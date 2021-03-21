@@ -28,9 +28,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] [advmod ещё] рано [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [cop Cop] рано [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [cop Cop] [advmod уже] поздно [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [cop Cop] поздно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Ему] [advmod ещё] рано [csubj есть [nsubj сахар]].]'
 references:
   - |
     ""

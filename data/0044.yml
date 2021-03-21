@@ -39,9 +39,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] полный-Short [obl NP-Gen].]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [cop был] полон [obl энтузиазма].]'
 comment: |
     'Полная форма прилагательного "полный" используется в аттрибутивной функции с тем же управлением: ср. Ведь все мы ― сильные, смелые, полные [убеждений]Contained, ― в сущности, такие ранимые и крошечные перед лицом смерти. Французская кухня и ресторанный бизнес ― мир, полный [противоречий]Contained.'
 references:

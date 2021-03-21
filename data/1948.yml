@@ -27,9 +27,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [cop Cop] [case при] себе [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [nsubj паспорт] [advmod всегда] [case при] себе.]'
 references:
   - |
     ""
@@ -37,4 +37,4 @@ semantic_types:
   - type: Possession
 family:
   - |
-    ""
+    "Possession Object is Possessed"

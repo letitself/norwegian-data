@@ -24,9 +24,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [parataxis [advmod мягко] говоря]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он]'
+  - '[parataxis [advmod мягко] говоря]'
+  - '[advmod не] подарок.]'
 references:
   - |
     ""

@@ -28,9 +28,12 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case при] [det весь-Loc] NP-Loc [nmod [case к] PronPers-Dat]], Cl]'
+  - '[root [parataxis [case при] [det весь-Loc] NP-Loc], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case При] [det всём] уважении [nmod [case к] Вам'
+  - '[vocative профессор]]]'
+  - '[nsubj я] [advmod не] могу [xcomp [obl [case с] Вами] согласиться].]'
 references:
   - |
     ""

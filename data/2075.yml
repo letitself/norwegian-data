@@ -29,9 +29,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root спасибо [iobj NP-Dat] [obl [case за] NP-Acc]!]'
+  - '[root спасибо [iobj NP-Dat] [obl [case за] то, [acl [mark что] Cl]]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Спасибо [iobj тебе] [obl [case за] помощь]!]'
 references:
   - |
     ""

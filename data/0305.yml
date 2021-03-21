@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [root [nsubj NP-Nom] сидеть [xcomp VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Сижу [xcomp курю].]'
 references:
   - |
     ""

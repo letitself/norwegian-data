@@ -29,9 +29,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case в] теме [nmod NP-Gen]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] теме [nmod NP-Gen]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case в] теме]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] теме]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] [case в] теме [nmod [amod последних] [amod модных] тенденций].]'
 references:
   - |
     ""

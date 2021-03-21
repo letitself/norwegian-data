@@ -39,9 +39,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case ради] того'
+  - '[acl [mark чтобы] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case По] сюжету] [iobj им] предстоит [csubj объединить [obj усилия]] [obl [case ради] того'
+  - '[acl [mark чтобы] совершить [obj ограбление]]].]'
 references:
   - |
     ""

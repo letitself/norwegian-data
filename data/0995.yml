@@ -13,7 +13,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -28,9 +29,17 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root достаточно [cop Cop] [advmod лишь] [nsubj NP-Gen], [advcl [mark чтобы] VP-Inf]]'
+  - '[root достаточно [cop Cop] [nsubj NP-Gen], [advcl [mark чтобы] VP-Inf]]'
+  - '[root достаточно [cop Cop] [advmod лишь] [csubj VP-Inf], [advcl [mark чтобы] VP-Inf]]'
+  - '[root достаточно [cop Cop] [csubj VP-Inf], [advcl [mark чтобы] VP-Inf]]'
+  - '[root нужно [cop Cop] [advmod лишь] [nsubj NP-Gen], [advcl [mark чтобы] VP-Inf]]'
+  - '[root нужно [cop Cop] [nsubj NP-Gen], [advcl [mark чтобы] VP-Inf]]'
+  - '[root нужно [cop Cop] [advmod лишь] [csubj VP-Inf], [advcl [mark чтобы] VP-Inf]]'
+  - '[root нужно [cop Cop] [csubj VP-Inf], [advcl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Достаточно [cop было] [nsubj [det одного] [det ее] взгляда]'
+  - '[advcl [mark чтобы] влюбиться].]'
 references:
   - |
     ""

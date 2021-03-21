@@ -3,13 +3,16 @@ record: 1139
 name: 'VP на берегу'
 UD_name: 'VP на берегу'
 illustration: 'О таких вещах нужно договариваться на берегу, то есть заранее.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторая договоренность]Action между участниками должна быть достигнута перед тем, как приступить к действию, заранее. Эта договоренность может быть выражена глаголами решать, договариваться, обсуждать, проговаривать и т. д
 examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +26,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case на] берегу]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case О] [det таких] вещах] нужно [csubj договариваться] [obl [case на] берегу'
+  - '[conj [mark то [fixed есть]] заранее]].]'
 references:
   - |
     ""
@@ -36,4 +40,4 @@ semantic_types:
       - type: Preceding action
 family:
   - |
-    ""
+    "Precedence"

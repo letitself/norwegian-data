@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Gen] [advmod видимо–[conj невидимо]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Народу] собралось [advmod видимо–[conj невидимо]].]'
 references:
   - |
     ""

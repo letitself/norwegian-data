@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [advmod ещё] [cop Cop] VP-Inf]'
+  - '[root [iobj NP-Dat] [cop Cop] VP-Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] [advmod ещё] [obl [case с] собакой] гулять.]'
 references:
   - |
     ""

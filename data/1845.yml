@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj PronPers-Dat] [aux бы] лучше [csubj VP-Inf]]'
+  - '[root [iobj PronPers-Dat] [aux бы] VP-Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Тебе] [aux бы] лучше [csubj [advmod немного] поспать].]'
 references:
   - |
     ""

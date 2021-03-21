@@ -28,9 +28,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod ещё] [nummod один] NP-Nom [cop Cop]] – [cc и] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Ещё] [nummod одна] драка] – [cc и] [obj ребят] заберут [obl [case в] полицию].]'
 references:
   - |
     ""

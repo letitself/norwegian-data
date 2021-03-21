@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [obj что] [advmod ни] VP-Imp]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [obj Что] [advmod ни] надень [obl [case на] неё]] – [nsubj всё] [cop будет] элегантным.]'
 references:
   - |
     ""

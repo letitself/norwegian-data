@@ -46,9 +46,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] обойтись [iobj NP-Dat] [obl [case в] NumCrd-Acc] [obl NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Новая] сумка] [iobj мне] обошлась [obl [case в] тысячу] [obl рублей].]'
 references:
   - |
     ""

@@ -18,8 +18,8 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Coordinator
 syntactic_structure_of_anchor:
-  - Subject + Predicate
-  - Argument Structure
+  - Subject
+  - Predicate, Argument Structure
 part_of_speech_of_anchor:
   - Pronoun
   - Particle
@@ -32,9 +32,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj кто] [aux бы] говорил [obl [case о] NP-Loc]]'
+  - '[root [nsubj кто] [aux бы] говорил [obl [case о] NP-Loc], [conj [cc но] [advmod только] [advmod не] NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Кто] [aux бы] говорил [obl [case о] [amod правильном] питании]!]'
 references:
   - |
     ""

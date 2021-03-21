@@ -30,9 +30,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [advmod и] [case в] мыслях [advmod не] [cop было] [csubj VP-Inf]]'
+  - '[root [advmod и] [case в] мыслях [advmod не] [cop было] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [advmod и] [case в] мыслях [advmod не] [cop было] [csubj [obj её] обижать].]'
 references:
   - |
     ""

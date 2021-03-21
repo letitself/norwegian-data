@@ -39,9 +39,12 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[advcl [mark потому [fixed что]] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Все] думают'
+  - '[ccomp [mark что] [nsubj я] интеллектуал]'
+  - '[advcl [mark потому [fixed что]] [nsubj я] ношу [obj очки]].]'
 references:
   - |
     ""

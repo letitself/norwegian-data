@@ -32,9 +32,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[amod Adj-оватый]'
+  - '[amod Adj-еватый]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Кирпич] [obl [case в] Голландии] имеет [obj [amod коричневатый] оттенок].]'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."

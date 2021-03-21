@@ -11,7 +11,8 @@ morphology:
   - Cmp
   - Adj
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[advmod Adv-Cmp [obl остальных]]'
+  - '[advmod Adv-Cmp [obl [det всех] остальных]]'
+  - '[root Adj-Cmp [obl остальных]]'
+  - '[root Adj-Cmp [obl [det всех] остальных]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] прибежала [obl [case к] финишу] [advmod быстрее] [obl остальных].]'
 references:
   - |
     ""

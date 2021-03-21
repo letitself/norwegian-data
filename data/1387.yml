@@ -24,7 +24,8 @@ morphology:
   - NP
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -41,9 +42,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case на] дому]]'
+  - '[dep NP [nmod [case на] дому]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Врач] принимал [obl [case на] дому].]'
 references:
   - |
     ""

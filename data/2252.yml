@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obj NP-Gen] [advmod не] напасёшься [obl [case на] NP-Acc]]'
+  - '[root [advmod не] напасёшься [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] всех] [advmod не] напасёшься.]'
 references:
   - |
     ""

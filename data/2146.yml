@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod добро] [aux бы] Cl]'
+  - '[case но] Cl!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc И] [advmod что] [nsubj она] пытается [xcomp [iobj всем] понравиться]'
+  - '[advcl [advmod добро] [aux бы] [advmod ещё] [cop была] красивая]!]'
 references:
   - |
     ""

@@ -26,9 +26,9 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc а] что [csubj [mark если] [iobj NP-Dat] VP-Inf]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] что [csubj [mark если] [iobj нам] устроить [obj праздник]]?]'
 references:
   - |
     ""

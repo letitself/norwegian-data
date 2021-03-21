@@ -26,9 +26,14 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [parataxis [advmod верно] [advmod ведь] [nsubj я] говорю]?]'
+  - '[root Cl, [parataxis [advmod верно] [nsubj я] говорю]?]'
+  - '[root Cl, [parataxis верно [advmod ведь]]?]'
+  - '[root Cl, [parataxis верно]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [amod хорошие] ребята'
+  - '[conj [advmod не] злые [obl [case по] существу]]'
+  - '[parataxis верно [advmod ведь]]?]'
 references:
   - |
     ""

@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [dep Noun] XP'
+  - '[conj [dep Noun] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [obj час] работает'
+  - '[conj [obl час] отдыхает].]'
 references:
   - |
     ""

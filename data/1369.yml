@@ -37,10 +37,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root Noun-Nom [conj [cc и] Noun-Nom]]'
-  - '[root работа [conj [cc и] работа]]'
+  - '[dep [det один] NP [conj [cc и] NP]]'
+  - '[root [det один] NP [conj [cc и] NP] [conj [cc и] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] меня [obl [case до] [amod самого] августа] [nsubj [det одна] работа [conj [cc и] работа]].]'
 references:
   - |
     ""
@@ -53,4 +53,4 @@ semantic_types:
       - type: Continuative
 family:
   - |
-    "Семья конструкций с континуативной семантикой и с редупликацией (Continuative constructions with a reduplicative pattern)."
+    "Continuativity by reduplication"

@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod небось]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Устаешь [obl [case после] работы]'
+  - '[advmod небось]?]'
 references:
   - |
     ""

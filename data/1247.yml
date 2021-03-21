@@ -40,10 +40,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root хорош [nsubj VP-Inf]]'
-  - '[root хорош [nsubj прыгать]]'
+  - '[root хорош [csubj VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Эй]'
+  - 'наверху!]\n[root Хорош [csubj прыгать]!]'
 comment: |
     'см. синонимичные конструкции хватит VP-Inf! (Хватит ругаться!), довольно VP-Inf! (довольно жаловаться). Не путать с конструкциями хороший-Short NP-Nom! (Хорош учёный!), NP-Nom хорош собой (Миша был удивительно хорош собой), NP хороший-Short/плохой-Short тем, что Adj/Cl (Чай хорош тем, что крепок), NP хороший-Short/плохой-Short NP-Ins (Эти места хороши своими лесами)'
 references:

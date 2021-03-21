@@ -41,9 +41,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] лень [cop Cop] [csubj VP-Inf]]'
+  - '[root лень [cop Cop] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] лень [csubj готовить].]'
 comment: |
     'Отрицательная частица "не" ставится перед словом "лень": "не лень".'
 references:

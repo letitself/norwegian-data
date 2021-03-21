@@ -25,14 +25,17 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc да] [advmod не] Adj [dep XP]!]'
+  - '[root [cc да] [advmod не] [advmod Adv] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Да] [advmod не] грязные [nsubj [det эти] чашки]!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     ""

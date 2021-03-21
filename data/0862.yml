@@ -24,9 +24,10 @@ intonation:
   - Assertive
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root видишь [ccomp [mark advmod] Cl]]'
+  - '[root вишь [ccomp [mark advmod] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case В] этом [advmod и] [nsubj проблема].]\n[root Вишь [ccomp [mark advmod] вышло].]'
 references:
   - |
     ""

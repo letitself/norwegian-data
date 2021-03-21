@@ -28,9 +28,13 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc не [fixed то] [fixed чтобы]] Cl, [conj [cc но] Cl]]'
+  - '[root [cc не [fixed то] [fixed чтобы]] Cl, [conj [cc а] Cl]]'
+  - '[root [cc не [fixed то] [fixed чтобы]] XP, [conj [cc но] XP]]'
+  - '[root [cc не [fixed то] [fixed чтобы]] XP, [conj [cc а] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [cc не [fixed то] [fixed чтобы]] расстроился'
+  - '[conj [cc но] огорчился].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

@@ -24,7 +24,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -38,9 +39,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod [case до] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[dep Юбка [nmod [case до] пят]]'
 comment: |
     'См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма).'
 references:

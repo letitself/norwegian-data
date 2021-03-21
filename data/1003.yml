@@ -23,9 +23,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [mark Если] [aux бы] Cl!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [mark Если] [aux бы] [obl [case у] них] были [nsubj деньги]!]'
 references:
   - |
     ""

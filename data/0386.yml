@@ -9,7 +9,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -26,9 +27,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod как [fixed раз]] то, [dep что] Cl]'
+  - '[root [advmod ровно] то, [dep что] Cl]'
+  - '[root [obl [case в] точности] то, [dep что] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это] [advmod как [fixed раз]] то'
+  - '[obj чего] [nsubj я] [acl:relcl боюсь].]'
 references:
   - |
     ""

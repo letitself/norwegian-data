@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] грани [nmod NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] [case на] грани [nmod [amod нервного] срыва].]'
 references:
   - |
     ""

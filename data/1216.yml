@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] надо [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [cop Cop] нужно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] нужно [csubj бежать]'
+  - '[parataxis извините].]'
 references:
   - |
     ""

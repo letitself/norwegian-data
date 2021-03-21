@@ -27,7 +27,8 @@ morphology:
   - Cmp
   - Adv
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -40,10 +41,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [advmod гораздо] Adj-Cmp/Adv-Cmp]'
-  - '[root [nsubj дом] [advmod гораздо] просторнее [nmod квартиры]]'
+  - '[root [advmod гораздо] Adj-Cmp]'
+  - '[root [advmod гораздо] Adv-Cmp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дом] [advmod гораздо] просторнее [obl квартиры].]'
 comment: |
     'См. близкую конструкцию значительно Adj-Cmp/Adv-Cmp (Ресторан значительно дороже кафе.)'
 references:

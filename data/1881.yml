@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case в] [det такой [advmod же]] мере], [obl [case как] Cl]'
+  - '[root Cl [obl [case в] [det той [advmod же]] мере], [obl [case как] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Спорт] [obl [case в] [det такой [advmod же]] мере] определяет [obj культуру [nmod нации]]'
+  - '[obl [case как] [advmod и] [amod духовная] культура].]'
 references:
   - |
     ""

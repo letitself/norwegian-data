@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] иметь [obj [amod Adj-Acc] силу]]'
+  - '[root [nsubj NP-Nom] иметь [obj силу]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Это] требование] имеет [obj [amod юридическую] силу].]'
 references:
   - |
     ""

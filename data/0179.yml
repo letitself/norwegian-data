@@ -36,9 +36,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod лучше] [advmod не] VP-Imp]'
+  - '[root [advmod лучше] VP-Imp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Лучше] [advmod не] говори [iobj мне] [obl [case про] это].]'
 references:
   - |
     ""

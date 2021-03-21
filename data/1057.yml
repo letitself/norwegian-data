@@ -10,7 +10,8 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -26,9 +27,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc и] надо [advmod же] [cop Cop]'
+  - '[csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc И] надо [advmod же]'
+  - '[csubj [mark чтобы] [nsubj он] [obl [advmod именно] [case в] [det тот] день] опоздал]!]'
 references:
   - |
     ""

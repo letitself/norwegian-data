@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [advmod честно] говоря]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [advmod Честно] говоря]'
+  - '[nsubj я] [obl [case с] вами] согласен.]'
 references:
   - |
     ""

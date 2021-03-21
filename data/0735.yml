@@ -25,14 +25,18 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root будет [iobj NP-Dat] [nsubj NP-Nom]!]'
+  - '[root [discourse ну] будет [iobj NP-Dat] [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cop Будет] [iobj ему] пирог!]'
 references:
   - |
     ""
 semantic_types:
+  - type: Concession
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
 family:
   - |
-    ""
+    "Forced agreement"

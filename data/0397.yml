@@ -27,9 +27,12 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] поздравлять [obl [case с] NP-Ins] [obj NP-Acc]!]'
+  - '[root [nsubj NP-Nom] поздравлять [obl [case с] NP-Ins]!]'
+  - '[root [case с] NP-Ins [obj NP-Acc]!]'
+  - '[root [case с] NP-Ins!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case С] [amod Новым] годом!]'
 references:
   - |
     ""

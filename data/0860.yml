@@ -23,9 +23,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis видно], Cl]'
+  - '[root [parataxis видимо], Cl]'
+  - '[root [parataxis очевидно], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Видно]'
+  - '[nsubj он] [advmod сегодня] [advmod уже] [advmod не] придёт.]'
 references:
   - |
     ""

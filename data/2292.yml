@@ -37,9 +37,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod как] можно [cop Cop] [csubj VP-Inf]!]'
+  - '[root [advmod как] можно [cop Cop] [csubj [advmod не] VP-Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как] можно [csubj грубить [iobj родителям]]!]'
 comment: |
     'Не путать с конструкцией VP как можно Adv-Comp (Пиши как можно чаще).'
 references:

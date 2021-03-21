@@ -42,10 +42,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl NP-Dat] [obj NP-Acc] девать [advmod некуда]]'
-  - '[root [obl нам] [advmod уже] [obj еду] девать [advmod некуда]]'
+  - '[root [iobj NP-Dat] [csubj [obj NP-Acc] девать] [cop Cop] некуда]'
+  - '[root [csubj [obj NP-Acc] девать] [cop Cop] некуда]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Нам] [advmod уже] [csubj [obj еду] девать] некуда.]'
 references:
   - |
     "ссылка на иомдина"

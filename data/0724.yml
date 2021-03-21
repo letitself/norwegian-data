@@ -12,7 +12,8 @@ morphology:
   - Gen
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -28,14 +29,18 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod и] [obl [case без] NP-Gen] знать, [ccomp [mark что] Cl]]'
+  - '[root [nsubj NP-Nom] [advmod и] [obl [case без] NP-Gen] знать, [ccomp Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod и] [obl [case без] вас] знаем'
+  - '[ccomp [obj что] делать].]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
 family:
   - |
     ""

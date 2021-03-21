@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod давай] [dep PronPers-2] VP]'
+  - '[root [advmod давайте] [dep PronPers-2] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Давай] [nsubj ты] [advmod не] [aux будешь] [advmod [advmod так] быстро] ехать?]'
 references:
   - |
     ""

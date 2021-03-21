@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep XP] [advmod никуда] [advmod не] годиться]'
+  - '[root [dep XP] [advmod не] годиться]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Эта] машина] [advmod никуда] [advmod не] годится.]'
 references:
   - |
     ""

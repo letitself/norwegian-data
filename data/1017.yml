@@ -44,9 +44,11 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] хотеть-Prs.2 [xcomp VP-Inf]]'
+  - 'conj VP-Imp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] хочешь [xcomp идти]]'
+  - 'иди.]'
 comment: |
     'См. близкую конструкцию 1016 если NP-Dat Cop угодно, Cl (Если вам угодно, называйте меня Генрихом).'
 references:

@@ -23,9 +23,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [dep никто] [advmod не] VP]'
+  - '[root [dep ничто] [advmod не] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Никто] [advmod не] [aux будет] [obj тебя] ругать.]'
 references:
   - |
     ""

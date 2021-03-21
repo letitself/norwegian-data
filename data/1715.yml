@@ -25,9 +25,9 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod откуда] взялся [nsubj NP-Nom]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Откуда] взялся [nsubj [det этот] [amod странный] запах]?]'
 references:
   - |
     ""

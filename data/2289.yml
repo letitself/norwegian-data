@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod Что] [expl это] [advmod вдруг] Cl?]'
+  - '[root [advmod чего] [expl это] [advmod вдруг] Cl?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Что] [expl это] [advmod вдруг] [obj тебя] заинтересовала [nsubj литература]?]'
 references:
   - |
     ""

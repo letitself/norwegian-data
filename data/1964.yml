@@ -26,9 +26,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [det что] [case за] птица [cop Cop] [nsubj NP-Nom]?]'
+  - '[root [det что] [case за] фрукт [cop Cop] [nsubj NP-Nom]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [det Что] [case за] птица'
+  - '[obl [case в] конце] [nmod концов]'
+  - '[nsubj [det этот] Кандинский]?]'
 references:
   - |
     ""

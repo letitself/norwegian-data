@@ -25,7 +25,8 @@ morphology:
   - VP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -42,9 +43,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod [case с] торца [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case с] торца]]'
+  - '[root VP [nmod [case с] торца [nmod NP-Gen]]]'
+  - '[root VP [nmod [case с] торца]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вход] [case с] торца.]'
 references:
   - |
     ""

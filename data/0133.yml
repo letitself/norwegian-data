@@ -5,14 +5,27 @@ UD_name: 'VP из NP-Gen (к NP-Dat)'
 illustration: 'Иван из милости забрал к себе кота.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что причиной некоторого [действия]Action является [чувство или эмоция]Cause, которые участник испытывает по отношению к другому [участнику]Participant, [идее]Theme или [ситуации]Situation. Эмоции обычно положительные (1, 2, 3), но могут быть и отрицательными (примеры 4, 5).
 examples:
+  - |
+       'Увидев открытую дверь, горничная [заглянула в номер]Action из  [любопытства]Cause.'
+  - |
+       'Не все были такие уж уникальные, встречались и средние музыканты, а то и просто профнепригодные. Кого-то [держали в оркестре]Action из [жалости]Cause к [семье]Participant, кого-то ― из [сочувствия]Cause к [годам]Circumstances.'
+  - |
+       'Тут, правда, дело не в деньгах ― [за работу мы брались]Action из [любви]Cause к [искусству]Theme.'
+  - |
+       'Вся в слезах, она излагала маме или бабушке, как ее [обидели]Action ни за что, ни про что, а просто из [зависти]Cause к [таланту]Theme…'
+  - |
+       'И в Москве я обнаружил хорошие спортивные способности в легкой атлетике. Но [заниматься в спортивных секциях не стал]Action из [отвращения]Cause к [соревнованиям]Situation всякого рода.'
 morphology:
   - VP
   - NP
   - Gen
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -20,17 +33,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Cause
+  - Participant
+  - Theme
+  - Situation
 intonation:
   - ~
-usage_label: ~
+usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case из] NP-Gen] [obl [case к] NP-Dat]]'
+  - '[root VP [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Иван] [obl [case из] милости] забрал [obl [case к] себе] [obj кота].]'
 references:
   - |
-    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
+    "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."
 semantic_types:
   - type: Attitude
     subtypes:

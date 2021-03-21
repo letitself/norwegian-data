@@ -10,7 +10,8 @@ morphology:
   - Imp
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root сказать-Imp [obl [case на] милость]'
+  - '[ccomp Cl]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Скажи [obl [case на] милость]'
+  - '[parataxis [ccomp почему] [nsubj я] должен [xcomp [iobj тебе] верить]]?]'
 references:
   - |
     ""

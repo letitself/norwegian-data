@@ -47,11 +47,13 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root [nmod единственное] [obj что] [nsubj NP-Nom] [advmod не] VP'
-  - '[parataxis [advmod так] [pron это] Cl]]; [root [obj чего] [nsubj дочь] [advmod не] сделала'
-  - '[parataxis [advmod так] [pron это] [advmod не] убралась]]'
+  - '[root [advcl [obj что] [advmod не] VP], [mark так] [expl это] [advmod не] VP]'
+  - '[root единственное [acl [obj что] [advmod не] VP], [csubj [mark так] [expl это] [advmod не] VP]]'
+  - '[root [advcl [obj что] VP], [mark так] [expl это] VP]'
+  - '[root единственное [acl [obj что] VP], [csubj [mark так] [expl это] VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [obj Чего] [nsubj дочь] [advmod не] сделала]'
+  - '[mark так] [expl это] [advmod не] conj убралась.]'
 references:
   - |
     ""

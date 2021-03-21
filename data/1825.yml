@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom.Pl] пере-Verb]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Все] дети [nmod [case в] садике]] переболели [iobj гриппом].]'
 references:
   - |
     ""

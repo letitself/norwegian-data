@@ -30,9 +30,28 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] минутах [nmod ходьбы] [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] минутах [nmod езды] [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] минутах [nmod лёта] [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] минутах [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] минутах]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] минутах [nmod ходьбы] [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] минутах [nmod езды] [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] минутах [nmod лёта] [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] минутах [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] минутах]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] часах [nmod ходьбы] [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] часах [nmod езды] [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] часах [nmod лёта] [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] часах [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] часах]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] часах [nmod ходьбы] [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] часах [nmod езды] [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] часах [nmod лёта] [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] часах [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] часах]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] живу [obl [case в] [nummod пяти] минутах [nmod [case от] метро]].]'
 references:
   - |
     ""

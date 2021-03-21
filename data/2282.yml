@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[parataxis да]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вы] придёте [advmod завтра] [obl [case в] гости]'
+  - '[parataxis да]?]'
 references:
   - |
     ""

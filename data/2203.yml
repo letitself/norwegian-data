@@ -3,9 +3,21 @@ record: 2203
 name: 'NP-Nom скинуться на NP-Acc'
 UD_name: 'NP-Nom скинуться на NP-Acc'
 illustration: 'Мужики скинулись на пиво.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает совместную покупку некоторого [предмета]Theme, которую совершает некоторый [участник]Agent вместе с другим [участником или группой участников]Assosiated.
 examples:
+  - |
+       '― Юра, [мы]Agent тут скинулись на [холодильник]Theme и на [подарки]Theme детям его. Сам знаешь, как он живет.'
+  - |
+       '[Ребята]Agent [скинулись]Action на [четыре бутылки]Theme «Спрайта».'
+  - |
+       'Когда Галку прямо из школы увезли в больницу с аппендицитом, весь [класс]Agent пошел ее проведать, скинувшись на [яблоки]Theme.'
+  - |
+       'Водки нет, не говоря о продуктах. Какой-то старикан подошел, показывает рубль: скинемся на [одеколон]Theme?'
+  - |
+       '[Соседи по палате]Agent скинулись ему на [билеты]Theme.'
 morphology:
   - NP
   - Nom
@@ -20,14 +32,17 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Theme
+  - Agent
+  - Assosiated
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] скинуться [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мужики] скинулись [obl [case на] пиво].]'
 references:
   - |
     ""
@@ -36,4 +51,4 @@ semantic_types:
   - type: Result
 family:
   - |
-    ""
+    "Collective action"

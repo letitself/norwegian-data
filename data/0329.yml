@@ -23,9 +23,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc то] VP'
+  - '[conj [cc то] VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [cc то] плакал'
+  - '[conj [cc то] угрожал].]'
 references:
   - |
     ""

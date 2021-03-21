@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] [csubj [obl [case из-за] чего] Verb-Inf]]'
+  - '[root [cop Cop] [csubj [obl [case из-за] чего] Verb-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Есть [csubj [obl [case из-за] чего] расстраиваться].]'
 references:
   - |
     ""

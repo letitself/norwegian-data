@@ -24,9 +24,9 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [case в] смысле [csubj Cl]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case В] смысле [csubj [nsubj ты] [advmod не] пойдёшь [obl [case на] свидание]]?]'
 references:
   - |
     ""

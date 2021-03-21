@@ -26,8 +26,8 @@ morphology:
   - Cop
   - VP
 syntactic_type_of_construction:
-  - Copula Construction
-  - Head + Modifier Construction
+  - Copula Construction, Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
   - Modifier
@@ -45,9 +45,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] вверх [obl дном]]'
+  - '[root [dep NP-Nom] VP [advmod вверх [obl дном]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Дом [advmod вверх [obl дном]]: [parataxis бегают [conj [cc и] плачут] [nsubj дети]'
+  - '[conj [nsubj:pass вещи] раскиданы]'
+  - '[conj [nsubj:pass окна] открыты]]...]'
 comment: |
     'См. похожие конструкции 846 "VP вверх ногами/тормашками" (Вертит рисунок, поворачивает его вверх ногами, берёт в руки, внимательно всматривается.), 1246 "VP вниз головой" (Девочка висит вниз головой.).'
 references:

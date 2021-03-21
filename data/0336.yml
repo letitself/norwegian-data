@@ -15,7 +15,8 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
   - Subordinator
@@ -30,9 +31,13 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod только] [advmod и] NP-Gen.Pl [cop Cop], [acl [mark что] Cl]'
+  - '[root [advmod только] [advmod и] NP-Gen.Pl [cop Cop], [acl [nsubj что] [case о] NP-Loc]'
+  - '[root [advmod только] [advmod и] NP-Gen.Pl [cop Cop], [acl [nsubj что] [case про] NP-Acc]'
+  - '[root [advmod только] [advmod и] NP-Gen.Pl [cop Cop], [acl [nsubj что] VP-Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Только] [advmod и] разговоров'
+  - '[nmod [mark что] [case о] доме].]'
 references:
   - |
     ""

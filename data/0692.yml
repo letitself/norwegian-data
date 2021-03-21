@@ -28,9 +28,12 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[conj [cc а] [nsubj NP-Nom] [advmod как] думать-Prs]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] кажется'
+  - '[csubj [iobj ему] [advmod не] идёт [nsubj [det этот] костюм]]'
+  - '[conj [cc а] [nsubj ты] [advmod как] думаешь]?]'
 references:
   - |
     ""

@@ -25,7 +25,8 @@ morphology:
   - Gen
   - Pl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Nominal Quantifier
 syntactic_structure_of_anchor:
@@ -38,10 +39,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root толпа [nmod NP-Gen.Plur]]'
-  - '[root толпа [nmod людей]]'
+  - '[dep толпа [nmod NP-Gen.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Толпа [nmod людей]]'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

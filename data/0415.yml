@@ -3,13 +3,30 @@ record: 415
 name: 'Cl с тех пор, как Cl'
 UD_name: 'Cl с тех пор, как Cl'
 illustration: 'Он мне не звонил с тех пор, как переехал в Москву.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает длительную [ситуацию]Situation, точкой отсчета которой стало некоторое [событие]Event. Позиция зависимой клаузы ["с тех пор, как Cl"]Event в предложении нефиксированная: она может стоять перед, после или в середине [главной клаузы]Situation.
+  - english: |
+       старый перевод This construction expresses that [something]Situation has, or has not, happened since the time of [a particular event]Time. As illustrated in the examples below, the two parts of the construction, here marked as Situation and Time, may appear in either order.
+  - norwegian: |
+       старый перевод Konstruksjonen uttrykker at [noe]Situasjon (ikke) har skjedd etter [en viss hendelse]Time. Som eksemplene under illustrerer, kan de to leddene i konstruksjonen, her markert som Situasjon og Tid, forekomme i begge rekkefølger.
 examples:
+  - |
+       'Я тут теперь посчитал, ― выходит, что [семнадцать лет прошло]Situation с тех пор, как [он мне это сказал]Event.'
+  - |
+       '[Она, наверно, не вставала]Situation с тех пор, как [я ушёл]Event.'
+  - |
+       'С тех пор, как [они встретились]Event, [у Марины появилась соперница]Situation.'
+  - |
+       'С тех пор как [я на пенсии]Event, [я собираю все редкие книги]Situation.'
+  - |
+       'Артур с тех пор, как [поступил в институт]Event, [в родном городе больше не появлялся]Situation.'
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -25,9 +42,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case с] [det тех] пор'
+  - '[acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [iobj мне] [advmod не] звонил [obl [case с] [det тех] пор'
+  - '[acl [mark как] переехал [obl [case в] Москву]]].]'
 references:
   - |
     ""
@@ -40,4 +59,4 @@ semantic_types:
       - type: Temporal boundary
 family:
   - |
-    ""
+    "Continuativity: Since remote past"

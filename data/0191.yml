@@ -12,7 +12,8 @@ morphology:
   - Gen
   - Pl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Word-Formation
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[amod наи-Аdj-ший [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[amod Наименьшее [nmod [case из] зол]]'
 references:
   - |
     ""

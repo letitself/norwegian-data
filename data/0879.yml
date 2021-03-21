@@ -28,9 +28,14 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] [aux бы] [iobj NP-Dat] [advmod никогда] [advmod не] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [iobj NP-Dat] [advmod всегда] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [iobj NP-Dat] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [advmod никогда] [advmod не] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [advmod всегда] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] VP-Inf!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] [aux бы] [advmod никогда] [advmod не] работать!]'
 references:
   - |
     ""

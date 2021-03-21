@@ -14,7 +14,8 @@ syntactic_function_of_anchor:
   - Discourse Particle
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root было [nsubj дело], [parataxis Cl]]'
+  - '[root [cc да] было [nsubj дело], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Было [nsubj дело]'
+  - '[parataxis звал [obj её] [advmod однажды] [obl [case на] свидание]].]'
 references:
   - |
     ""

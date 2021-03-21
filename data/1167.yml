@@ -23,7 +23,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case под] защитой [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Памятник [nmod архитектуры]] находится [obl [case под] защитой [nmod ЮНЕСКО.]]]'
 comment: |
     'См. близкие конструкции 1165 VP под прикрытием NP-Gen (Корабли маневрировали под прикрытием авиации.), 1169 VP под знаком NP-Gen (Выступление проходило под знаком протеста.)'
 references:

@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep [advmod не] [advmod прямо] XP, [conj [cc а] XP]]'
+  - '[dep [advmod не] [advmod прямо] XP, [conj [cc но] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Стоял [advmod не] [obl [advmod прямо] [case перед] зеркалом'
+  - '[conj [cc а] [advmod чуть] [case в] стороне]].]'
 references:
   - |
     ""

@@ -25,9 +25,11 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod только] VP-Imp'
+  - '[parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Только] скажи'
+  - '[parataxis [nsubj я] [advmod сразу] приду [obl [case на] помощь]].]'
 references:
   - |
     ""

@@ -29,9 +29,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [nsubj NP-Nom] занять [obj [nummod NumCrd-Acc] NP]]'
+  - '[root [nsubj NP-Nom] занять [obj [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [nsubj это] заняло [obj [nummod:gov десять] минут].]'
 references:
   - |
     ""

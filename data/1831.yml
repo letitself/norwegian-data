@@ -41,9 +41,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root XP'
+  - '[appos [mark то [fixed есть]] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [obl [case в] доме] живет [cc и] [nsubj теща'
+  - '[appos [mark то [fixed есть]] мать [nmod [det моей] жены]]]'
+  - '[conj [cc и] дети].]'
 references:
   - |
     ""

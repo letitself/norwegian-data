@@ -44,9 +44,14 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [mark чтобы] [nsubj PronPers-Nom] [advmod больше] [advmod не] VP-Pst!]'
+  - '[root [mark чтоб] [nsubj PronPers-Nom] [advmod больше] [advmod не] VP-Pst!]'
+  - '[root [mark чтобы] [nsubj PronDem-Nom] [advmod больше] [advmod не] VP-Pst!]'
+  - '[root [mark чтоб] [nsubj PronDem-Nom] [advmod больше] [advmod не] VP-Pst!]'
+  - '[root [mark чтобы] [nsubj PronDem-Gen] [advmod больше] [advmod не] VP-Pst!]'
+  - '[root [mark чтоб] [nsubj PronDem-Gen] [advmod больше] [advmod не] VP-Pst!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [mark Чтобы] [nsubj я] [advmod больше] [obl [case об] этом] [advmod не] слышала!]'
 comment: |
     'См. близкую конструкцию 382 чтобы (никакой-Gen) NP-Gen PP/Adv (не было)! (Чтобы животных здесь не было!).'
 references:

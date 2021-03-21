@@ -12,7 +12,8 @@ morphology:
   - Sg
   - Noun
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[amod Adj [obl [case на] [amod Adj-Acc.Sg] Noun-Acc.Sg]]'
+  - '[obl [case на] [amod Adj-Acc.Sg] Noun-Acc.Sg]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[amod Лучший [obl [case на] [amod данный] момент]]'
 references:
   - |
     ""

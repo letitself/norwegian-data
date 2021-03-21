@@ -25,9 +25,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root извинить-Imp [obj PronPers-Acc], [ccomp [mark что] Cl]]'
+  - '[root простить-Imp [obj PronPers-Acc], [ccomp [mark что] Cl]]'
+  - '[root извинить-Imp, [ccomp [mark что] Cl]]'
+  - '[root простить-Imp, [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Извините [obj меня]'
+  - '[ccomp [mark что] [nsubj я] опоздала].]'
 references:
   - |
     ""

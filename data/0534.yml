@@ -28,9 +28,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod не] [case в] силах [csubj VP-Inf]]'
+  - '[root [nsubj NP-Nom] [advmod не] [case в] состоянии [csubj VP-Inf]]'
+  - '[root [nsubj NP-Nom] [case в] силах [csubj VP-Inf]]'
+  - '[root [nsubj NP-Nom] [case в] состоянии [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod не] [case в] силах [csubj помочь [iobj тебе] [obl [case в] [det этой] ситуации]].]'
 references:
   - |
     ""

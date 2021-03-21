@@ -32,9 +32,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] [aux бы] [obl [case в] [det своё] время] [nsubj NP-Nom] VP-Pst], [mark то] [advmod не] VP-Pst [aux бы]]'
+  - '[root [advcl [mark если] [aux бы] [obl [case в] [det своё] время] [nsubj NP-Nom] VP-Pst], [mark то] VP-Pst [aux бы]]'
+  - '[root [advcl [mark если] [aux бы] [obl [case в] [det своё] время] [nsubj NP-Nom] VP-Pst], [advmod не] VP-Pst [aux бы]]'
+  - '[root [advcl [mark если] [aux бы] [obl [case в] [det своё] время] [nsubj NP-Nom] VP-Pst], VP-Pst [aux бы]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [aux бы] [obl [case в] [det своё] время] [nsubj она] вышла [advmod замуж]]'
+  - '[mark то] [advmod сейчас] [advmod не] [cop была] [aux бы] одна.]'
 references:
   - |
     ""

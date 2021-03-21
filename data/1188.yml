@@ -11,7 +11,8 @@ morphology:
   - Cmp
   - Adv
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod не] [advmod сильно] Adj-Cmp]'
+  - '[advmod [advmod не] [advmod сильно] Adv-Cmp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вася] [advmod не] [advmod сильно] умнее [obl нас].]'
 references:
   - |
     ""

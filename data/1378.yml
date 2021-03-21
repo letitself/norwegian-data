@@ -13,7 +13,8 @@ morphology:
   - NP
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -28,9 +29,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obj NP-Acc] [obl [case с] руками [conj [cc и] ногами]]]'
+  - '[root VP [obj NP-Acc] [obl [case с] руками]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] секцию [nmod [case по] плаванию]] [obj меня] брали [obl [case с] руками [conj [cc и] ногами]] – [parataxis [nsubj я] показывала [obj [amod неплохие] результаты]].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

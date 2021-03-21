@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] относиться [obl [case к] числу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] относится [obl [case к] числу [nmod скептиков]].]'
 references:
   - |
     ""

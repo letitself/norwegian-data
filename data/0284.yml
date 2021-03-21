@@ -24,9 +24,14 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ну] [cc и] [advmod пусть] XP]'
+  - '[root [discourse ну] [advmod пусть] XP]'
+  - '[root [advmod пусть] XP]'
+  - '[root [discourse ну] [cc и] [advmod пускай] XP]'
+  - '[root [discourse ну] [advmod пускай] XP]'
+  - '[root [advmod пускай] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [obj Тебя [advmod же]] выгонят [obl [case из] института]!]\n[root – [discourse Ну] [advmod пусть] выгонят.]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

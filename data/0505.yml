@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod будто [fixed бы]] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Маша] [advmod будто [fixed бы]] ездила [obl [case в] [amod другую] страну].]'
 references:
   - |
     ""

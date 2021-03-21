@@ -26,9 +26,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod как] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] него] [advmod как] затряслись [nsubj руки].]'
 references:
   - |
     ""

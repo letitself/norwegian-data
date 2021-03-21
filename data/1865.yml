@@ -44,9 +44,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] равен [xcomp NumCrd-Dat]]'
+  - '[root [nsubj NP-Nom] равняется [xcomp NumCrd-Dat]]'
+  - '[root [nsubj NP-Nom] [cop Cop] равен [xcomp [nummod NumCrd-Dat] NP-Dat]]'
+  - '[root [nsubj NP-Nom] равняется [xcomp [nummod NumCrd-Dat] NP-Dat]]'
+  - '[root [nsubj NP-Nom] [cop Cop] равен [xcomp [nummod NumCrd-Dat] NP-Gen]]'
+  - '[root [nsubj NP-Nom] равняется [xcomp [nummod NumCrd-Dat] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Количество [nmod [amod проданных] билетов]] равняется [xcomp семидесяти].]'
 references:
   - |
     ""

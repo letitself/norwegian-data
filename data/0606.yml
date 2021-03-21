@@ -40,10 +40,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root [nmod Num-Ins] Num-Nom ― [nmod Num-Nom]]'
-  - '[root [nmod шестью] пять ― [nmod тридцать]]'
+  - '[root [nsubj [advmod Adv] NumCrd-Nom] – NumCrd-Nom]'
+  - '[root [nsubj [advmod Adv] NumCrd-Nom] – будет NumCrd-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [advmod Шестью] пять] – тридцать.]'
 comment: |
     'См. близкую конструкцию 607 NumCrd-Nom (умножить/помножить) на NumCrd-Acc – (равно/будет/получится/выйдет) NumCrd-Nom (Семь на восемь – пятьдесят шесть)'
 references:

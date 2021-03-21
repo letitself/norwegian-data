@@ -12,7 +12,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] лег [xcomp отдохнуть].]\n[root [nsubj Все] сели [xcomp смотреть [obj телевизор]].]'
 references:
   - |
     ""

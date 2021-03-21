@@ -3,13 +3,24 @@ record: 581
 name: 'Cl в то время как Cl'
 UD_name: 'Cl в то время как Cl'
 illustration: 'Она пришла в то время как он уходил.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что две [ситуации]Situation происходят одновременно. Иногда ситуации могут быть противопоставлены друг другу, в том числе в уступительном контексте. Возможно два варианта постановки запятой: Cl, в то время как Cl и Cl в то время, как Cl.
+  - english: |
+       This construction expresses the juxtaposition of two [events]Action that take place simultaneously. The construction can also express concession.
 examples:
+  - |
+       'Все эти истории [Царева]Agent [слушала]Action в то время, как [сидела за работой в цехе…]Action'
+  - |
+       'И никто здесь не позволит, чтобы [преступники]Agent [наживались]Action, в то время, как [трудящиеся]Agent едва [сводят концы с концами…]Action'
+  - |
+       'Сейчас [я]Agent [говорю одно]Action, в то время, как, [думаю, может быть, о совсем другом.]Action'
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -25,9 +36,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [cc в] [det то] время [acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] пришла [obl [cc в] [det то] время [acl [mark как] [nsubj он] уходил]].]'
 references:
   - |
     ""
@@ -37,4 +48,4 @@ semantic_types:
       - type: Simultaneous action
 family:
   - |
-    ""
+    "Simultaneity"

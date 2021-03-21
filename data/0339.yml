@@ -3,19 +3,21 @@ record: 339
 name: 'у NP-Gen быть NP-Nom'
 UD_name: 'у NP-Gen быть NP-Nom'
 illustration: 'У Паши есть кот.'
-cefr_level: A2
+cefr_level: A1
 definitions:
   - russian: |
-       Конструкция с [внешним посессором]Theme. Используется для выражения [обладателя]Experiencer в безличном предложении.
-  - english: |
-       This construction with an [external possessor]Theme expresses ownership by [a participant]Experiencer in an impersonal sentence.
+       Конструкция обозначает, что некоторый [участник]Possessor обладает [объектом]Theme, [свойством]Property или находится в отношениях с некоторым [участником]Participant. [Объекты]Theme обладания могут быть как конкретными (пример 1), так и абстрактными (пример 3).
 examples:
   - |
-       'У [меня]Experiencer была [подруга]Theme по имени Душка.'
+       'У [Черкасова]Possessor была [дача]Theme, [машина]Theme, [квартира]Theme и [слава]Property.'
   - |
-       'Разве плохо, что у [людей]Experiencer есть [выбор]Theme, где и как им жить?'
+       'Разве плохо, что у [людей]Posessor есть [выбор]Theme, где и как им жить?'
   - |
-       'Многие из них хотели бы создать свой бизнес ― у [ребят]Experiencer есть [идеи, энергия, навыки]Theme.'
+       'Многие из них хотели бы создать свой бизнес ― у [ребят]Possessor есть [идеи]Theme, [энергия]Theme, [навыки]Theme.'
+  - |
+       'Может быть, у [сериала]Possessor есть [недостатки]Property, но у любой картины есть не самые удачные штрихи.'
+  - |
+       'У [мамы]Possessor есть [подруга]Participant, которая живёт в центре.'
 morphology:
   - NP
   - Gen
@@ -30,14 +32,17 @@ part_of_speech_of_anchor:
   - Preposition
   - Verb
 semantic_roles:
-  - ~
+  - Possessor
+  - Theme
+  - Property
+  - Participant
 intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [case у] NP-Gen [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] Паши [cop есть] [nsubj кот].]'
 references:
   - |
     ""
@@ -45,4 +50,4 @@ semantic_types:
   - type: Possession
 family:
   - |
-    ""
+    "Possession Object is Possessed"

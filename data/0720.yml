@@ -9,7 +9,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +27,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] толку]]'
+  - '[root Cl, [conj [cc но] [case без] толку]]'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] впустую]]'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] зря]]'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] напрасно]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [obl час] пытался [xcomp открыть [obj дверь]]'
+  - '[obl [cc но] [case без] толку].]'
 references:
   - |
     ""

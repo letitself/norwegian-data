@@ -43,9 +43,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] степени [nmod NumCrd-Nom]]] – равно [xcomp NumCrd-Nom]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] степени [nmod NumCrd-Nom]]] – равно [xcomp NumCrd-Dat]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] степени [nmod NumCrd-Nom]]] [expl это] NumCrd-Nom]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] степени [nmod NumCrd-Nom]]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Два [nmod [case в] степени [nmod пять]]] равно [xcomp [nummod:gov тридцать] два].]'
 references:
   - |
     ""

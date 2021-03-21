@@ -23,9 +23,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root NP-Gen [orphan бы]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Чаю [aux бы]!]'
 references:
   - |
     ""

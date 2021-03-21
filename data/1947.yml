@@ -1,15 +1,28 @@
 ---
 record: 1947
-name: 'У NP-Gen в собственности Cop NP-Nom'
-UD_name: 'У NP-Gen в собственности Cop NP-Nom'
+name: 'NP-Nom Cop/VP в собственности (у) NP-Gen'
+UD_name: 'NP-Nom Cop/VP в собственности (у) NP-Gen'
 illustration: 'У неё в собственности однокомнатная квартира.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor обладает некоторым физическим [объектом]Theme, при этом факт обладания закреплен юридически. Объектом обычно является дорогостоящая недвижимость, ценные бумаги и земля.
 examples:
+  - |
+       'Уникальный [завод]Theme кварцевого стекла [оказался]State в собственности у [американской компании]Possessor.'
+  - |
+       'От всех земель у [королевской семьи]Possessor остался в собственности лишь [сад с дворцом]Theme и [хозяйственный двор]Theme.'
+  - |
+       '[Вся банковская система]Theme [находится]State в собственности [государства]Possessor, без государства невозможно получить никаких кредитов.'
+  - |
+       '[Организации розничной торговли]Theme [находятся]State в собственности у [индивидуальных предпринимателей]Possessor.'
+  - |
+       '[Дом]Theme ― серая бетонная коробка семи этажей ― [пребывал]State в собственности [некоего научного учреждения]Possessor.'
 morphology:
   - NP
   - Gen
   - Cop
+  - VP
   - Nom
 syntactic_type_of_construction:
   - Copula Construction
@@ -22,14 +35,15 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Possessor
+  - Theme
 intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [case у] NP-Gen [obl [case в] собственности] [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] неё [obl [case в] собственности] [nsubj [amod однокомнатная] квартира].]'
 references:
   - |
     ""
@@ -37,4 +51,4 @@ semantic_types:
   - type: Possession
 family:
   - |
-    ""
+    "Possession Object is Possessed"

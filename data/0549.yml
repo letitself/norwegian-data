@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] пребывать [obl [case на] NP-Loc]]'
+  - '[root [nsubj NP-Nom] пребывать [obl [case в] NP-Loc]]'
+  - '[root [nsubj NP-Nom] пребывать [obl [case у] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Охранник] пребывает [obl [case на] посту].]'
 references:
   - |
     ""

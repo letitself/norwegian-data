@@ -3,9 +3,21 @@ record: 1955
 name: 'PronPers-Pl вдвоём/втроём/вчетвером/в-NumCrd-ером (с NP-Ins)'
 UD_name: 'PronPers-Plur вдвоём/втроём/вчетвером/в-NumCrd-ером (с NP-Ins)'
 illustration: 'Мы втроём с Петей и Катей пошли на речку.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated.  В конструкции названо точное [количество]Quantity участников ситуации. Слот PronPers-Pl обозначает всех участников действия ("мы с коллегой" значит "я и коллега", "нас с Мезиным" значит "меня и Мезина", "они с мужем" значит "жена и муж").
 examples:
+  - |
+       'Потом вдвоём с [отцом]Assosiated [мы]Agent [отправлялись]Action в горную экскурсию, а мама обыкновенно оставалась дома.'
+  - |
+       'Шоу, которое [мы]Agent [сделали]Action вдвоем с [Алексеем]Assosiated, называлось «Ностальгия».'
+  - |
+       '1 января. Новый год [встретили]Action вдвоем с [Галей]Assosiated.'
+  - |
+       'Водку [мы]Agent [пили]Action возле палатки Димы, вчетвером с [Олей и мотоволонтёром Лёхой]Assosiated.'
+  - |
+       '[Таня]Agent вдвоём с [сыном]Assosiated [жила]Action в большой трехкомнатной квартире.'
 morphology:
   - PronPers
   - Pl
@@ -13,7 +25,8 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +40,18 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj PronPers-Pl] [advmod вдвоём [obl [case с] NP-Ins]]]'
+  - '[root [nsubj PronPers-Pl] [advmod втроём [obl [case с] NP-Ins]]]'
+  - '[root [nsubj PronPers-Pl] [advmod вчетвером [obl [case с] NP-Ins]]]'
+  - '[root [nsubj PronPers-Pl] [advmod в-NumCrd-ером [obl [case с] NP-Ins]]]'
+  - '[root [nsubj PronPers-Pl] [advmod вдвоём]]'
+  - '[root [nsubj PronPers-Pl] [advmod втроём]]'
+  - '[root [nsubj PronPers-Pl] [advmod вчетвером]]'
+  - '[root [nsubj PronPers-Pl] [advmod в-NumCrd-ером]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod втроём [obl [case с] Петей] [conj [cc и] Катей]] пошли [obl [case на] речку].]'
+comment: |
+    'См. близкую конструкцию 1267 PronPers-Pl с NP-Ins (Нам с Машей это не нравится).'
 references:
   - |
     ""
@@ -37,4 +59,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    ""
+    "Collective agent"

@@ -24,9 +24,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP-Pst [aux бы]'
+  - '[parataxis Cl [aux бы]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Бросил [aux бы] [obj ее] [advmod тогда]'
+  - '[conj [nsubj ничего] [aux бы] [advmod не] случилось].]'
 references:
   - |
     ""

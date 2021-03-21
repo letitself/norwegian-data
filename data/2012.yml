@@ -23,7 +23,8 @@ morphology:
   - NP
   - Loc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,9 +38,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case на] NP-Loc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case До] библиотеки] можно [csubj добраться [obl [case на] троллейбусе [conj [cc или] [case на] автобусе]]].]'
 comment: |
     'См. похожую по значению конструкцию 1980 NP-Nom добираться/ехать/лететь NP-Ins (Из Варшавы в Москву нужно ехать поездом всю ночь). Не путать с конструкцией 1978 VP на NP-Loc (Считать на калькуляторе).'
 references:

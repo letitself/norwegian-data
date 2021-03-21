@@ -29,9 +29,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj PersPron-2.Nom] [advmod не] Verb-Pst [conj [cc и] [advmod не] Verb-Pst [xcomp VP-Inf]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] хотел [conj [cc и] [advmod не] мог [xcomp [obl [case об] этом] писать]].]'
 references:
   - |
     ""

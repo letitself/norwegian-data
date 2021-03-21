@@ -26,9 +26,17 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [parataxis [mark да] [advmod что] [advmod тут] говорить]]'
+  - '[root Cl, [parataxis [advmod что] [advmod тут] говорить]]'
+  - '[root Cl, [parataxis [mark да] [obl [case о] чём] [advmod тут] говорить]]'
+  - '[root Cl, [parataxis [obl [case о] чём] [advmod тут] говорить]]'
+  - '[root Cl, [parataxis [mark да] [advmod что] говорить]]'
+  - '[root Cl, [parataxis [advmod что] говорить]]'
+  - '[root Cl, [parataxis [mark да] [obl [case о] чём] говорить]]'
+  - '[root Cl, [parataxis [obl [case о] чём] говорить]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Нелегко [iobj нам] [cop будет]'
+  - '[parataxis [advmod что] [advmod тут] говорить].]'
 references:
   - |
     ""

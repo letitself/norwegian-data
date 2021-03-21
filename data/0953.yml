@@ -16,7 +16,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
@@ -26,9 +27,9 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root дай [nsubj бог] [iobj PronPers-Dat] [obj NP-Gen]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Дай [nsubj бог] [iobj тебе] [obj здоровья]!]'
 references:
   - |
     ""

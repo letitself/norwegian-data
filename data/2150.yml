@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP, [conj [case а] [advmod вдруг] VP-Fut]]'
+  - '[root VP, [parataxis [advmod вдруг] VP-Fut]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Возьми [obj зонтик]'
+  - '[advcl [advmod вдруг] пойдет [nsubj дождь]].]'
 references:
   - |
     ""

@@ -12,7 +12,8 @@ morphology:
   - PronPers
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -26,14 +27,18 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc да] Verb-2 [advmod ли] [dep PronPers]'
+  - '[ccomp [mark что] Cl?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Да] понимаешь [advmod ли] [nsubj ты]'
+  - '[ccomp [mark что] [nsubj мы] [advmod теперь] банкроты]?]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Self-evidence
 family:
   - |
     ""

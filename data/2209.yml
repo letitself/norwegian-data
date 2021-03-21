@@ -3,16 +3,31 @@ record: 2209
 name: 'Adj на Noun-Acc.Sg'
 UD_name: 'Adj на N-Acc.Sing'
 illustration: 'Лёгкий на руку'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает [характеристику]Evaluation человека, которая связана с отдельной [частью тела]Location, но при этом переносится на человека в целом, на его личностные качества.
+  - norwegian: |
+       несдержанный, бойкий, язык, лёгкий, тяжелый, счастливый на руку 1 вхождение в корпусе!, нечистый, рука, скорый, нога 2 вхождения
 examples:
+  - |
+       'Со студенческих лет ее знаю, двадцать лет, даже больше, и вся она была такая ироничная, такая, ты знаешь, [острая]Evaluation на [язык]Location.'
+  - |
+       'Я ― директор подпольной банкирской конторы. [Нечистый]Evaluation на [руку]Location спекулянт.'
+  - |
+       'А до сих пор [скорый]Evaluation на [ногу]Location Семен Тетерин вдруг пошел медленно, вскинув высоко голову, расправив плечи.'
+  - |
+       'Кроме того, наш парень, наглый и очень [бойкий]Evaluation на [язык]Location дома, совершенно меняется с чужими людьми.'
+  - |
+       'Худолеев не всегда был пьяницей и [тяжелым]Evaluation на [руку]Location драчуном.'
 morphology:
   - Adj
   - Noun
   - Acc
   - Sg
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -20,14 +35,15 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Evaluation
+  - Location
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[amod Adj [obl [case на] Noun-Acc.Sg]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[amod Лёгкий [obl [case на] руку]]'
 references:
   - |
     ""

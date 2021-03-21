@@ -1,17 +1,32 @@
 ---
 record: 809
-name: 'Cl в руках NP-Gen'
-UD_name: 'Cl в руках NP-Gen'
+name: 'NP-Nom Cop/VP в руках NP-Gen'
+UD_name: 'NP-Nom Cop/VP в руках NP-Gen'
 illustration: 'Все решения были в руках капитана.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor контролирует [объект]Theme, имеет власть над ним. В качестве объекта могут выступать конкретные предметы, абстрактные сущности и люди.
 examples:
+  - |
+       '[Всё]Theme было в руках [народа]Possessor: арсеналы, казармы, дворцы, хлебные склады, магазины.'
+  - |
+       '[Всё]Theme было в руках [удачи]Possessor.'
+  - |
+       'В руках [греков]Possessor была вся мелкая [торговля]Theme.'
+  - |
+       'Получается, что именно в руках [экспертов]Possessor, при всей их зависимости, [сосредоточивается]Action совершенно особая [власть]Theme.'
+  - |
+       'К сожалению, на процесс перевозки повлиять не удастся, поскольку [управление движением]Theme всё равно [остаётся]Action в руках [диспетчеров железной дороги]Possessor.'
 morphology:
-  - Cl
   - NP
+  - Nom
+  - Cop
+  - VP
   - Gen
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -20,14 +35,15 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Possessor
+  - Theme
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [case в] руках [nmod NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Все] решения] [cop были] [case в] руках [nmod капитана].]'
 references:
   - |
     ""
@@ -38,4 +54,4 @@ semantic_types:
       - type: Availability
 family:
   - |
-    ""
+    "Possession Object is Possessed"

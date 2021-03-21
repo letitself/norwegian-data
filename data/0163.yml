@@ -25,14 +25,17 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root какой [advmod там] [csubj VP-Pst]!]'
+  - '[root какое [advmod там] [csubj VP-Pst]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Какой [advmod там] [csubj поел]!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     ""

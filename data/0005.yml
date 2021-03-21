@@ -25,11 +25,13 @@ morphology:
   - Nom
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
@@ -43,11 +45,17 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [cc а] [nsubj NP-Nom] [advmod же] [obj его] знает'
-  - '[advcl Cl]]; [root [nsubj кто] [obj его] знает'
-  - '[xcomp [advmod почему] [nsubj она] [advmod так] поступила]]'
+  - '[root [nsubj Noun-Nom] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj Noun-Nom] [discourse же] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] [discourse же] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj Noun-Nom] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] знает, [ccomp Cl]]'
+  - '[root [nsubj Noun-Nom] [discourse же] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] [discourse же] знает, [ccomp Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Кто] [obj его] знает'
+  - '[advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
 references:
   - |
     ""

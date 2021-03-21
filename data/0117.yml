@@ -40,10 +40,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '[root [amod другой] NP-Nom]'
-  - '[root [nsubj это] [amod другое] дело]'
+  - '[root [nsubj NP-Nom] [cop Cop] [amod [advmod совсем] другой] NP-Nom.Sg]'
+  - '[root [nsubj NP-Nom] [cop Cop] [amod другой] NP-Nom.Sg]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это] [amod другое] дело.]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

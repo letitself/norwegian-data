@@ -3,8 +3,10 @@ record: 1993
 name: 'по сообщению/утверждению NP-Gen, Cl'
 UD_name: 'по сообщению/утверждению NP-Gen, Cl'
 illustration: 'По сообщению Би-би-си, ситуация стабилизировалась.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [источник]Source сообщаемой [информации]Content.
 examples:
 morphology:
   - NP
@@ -26,9 +28,11 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case по] сообщению [nmod NP-Gen]], Cl]'
+  - '[root [parataxis [case по] утверждению [nmod NP-Gen]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case По] сообщению [nmod Би-би-си]]'
+  - '[nsubj ситуация] стабилизировалась.]'
 references:
   - |
     ""

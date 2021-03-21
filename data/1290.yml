@@ -23,7 +23,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,9 +38,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case благодаря] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Благодаря] труду] [nsubj человек] выделился [obl [case из] природы].]'
 comment: |
     'См. близкие конструкции 726 Cl благодаря тому, что Cl (Мы успели в аэропорт благодаря тому, что выехали заранее) и 1280 Cl, благодаря чему Cl (Грудное молоко имеет особую структуру, благодаря чему оно хорошо усваивается)'
 references:

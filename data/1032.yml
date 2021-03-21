@@ -3,13 +3,28 @@ record: 1032
 name: 'VP за компанию (с NP-Ins)'
 UD_name: 'VP за компанию (с NP-Ins)'
 illustration: 'Пойдёшь с нами за компанию?'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Agent вместе с другим [участником или группой участников]Associated. Участник присоединяется к другим участникам, которые начали действие. Совместность действия может служить причиной совершения этого действия (примеры 2, 3).
 examples:
+  - |
+       'Когда-то случайно, за компанию с [подругой]Assosiated, [пошла]Action в Школу юного педагога-психолога при этом университете.'
+  - |
+       '[Я]Agent уже смотрел этот фильм, но за компанию с [тобой]Assosiated [схожу]Action.'
+  - |
+       '[Я]Agent с [тобой]Assosiated тоже за компанию [выпью]Action.'
+  - |
+       '[Ты]Agent [приходи]Action за компанию, ― пригласила она родственницу.'
+  - |
+       'Вот теперь [ужинаю]Action, не [хочешь]Action ли и ты за компанию?'
 morphology:
   - VP
+  - NP
+  - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -18,14 +33,16 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Associated
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case за] компанию]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Пойдёшь [obl [case с] нами] [obl [case за] компанию]?]'
 references:
   - |
     ""
@@ -33,4 +50,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    ""
+    "Collective action"

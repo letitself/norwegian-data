@@ -38,9 +38,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj что] [obl [case на] NP-Acc] нашло?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Что] [obl [case на] него] нашло [advmod сегодня]?]'
 comment: |
     'См. близкую конструкцию со словами "сам не свой".'
 references:

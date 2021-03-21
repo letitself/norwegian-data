@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] числиться [obl [case на] NP-Loc]]'
+  - '[root [nsubj NP-Nom] числиться [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] числился [obl [case на] службе].]'
 references:
   - |
     ""

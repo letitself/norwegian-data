@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] числиться [xcomp Adj-Ins]]'
+  - '[root [nsubj NP-Nom] числиться [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] числился [xcomp отстающим] [obl [case в] классе].]'
 references:
   - |
     ""

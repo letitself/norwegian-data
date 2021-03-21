@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj [det каждый] NP-Nom.Sg] VP [obj [det этот] NP-Acc]]'
+  - '[root [nsubj каждый] VP [obj [det этот] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Каждый] ученик] выучил [obj [det это] стихотворение].]'
 references:
   - |
     ""

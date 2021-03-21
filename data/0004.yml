@@ -42,10 +42,12 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '[root [mark а] [case при] чём [advmod здесь|тут] [nsubj NP-Nom?]]'
-  - '[root [case при] чём [advmod здесь] [nsubj [amod наши] отношения?]]'
+  - '[root [case при] чём [advmod здесь] [cop Cop] [nsubj NP-Nom]?]'
+  - '[root [cc а] [case при] чём [advmod тут] [cop Cop] [nsubj NP-Nom]?]'
+  - '[root [case при] чём [advmod здесь] [cop Cop] [nsubj NP-Nom]?]'
+  - '[root [cc а] [case при] чём [advmod тут] [cop Cop] [nsubj NP-Nom]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case При] чём [advmod здесь] [det наши] [nsubj отношения]?]'
 references:
   - |
     ""

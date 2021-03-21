@@ -27,9 +27,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root хватит [iobj PronPers-2.Dat] [xcomp VP-Ipfv.Inf]!]'
+  - '[root хватит [xcomp VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Хватит [xcomp ругаться]!]'
 references:
   - |
     ""

@@ -24,9 +24,11 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case на] основании [nmod того'
+  - '[acl [mark что] Cl]]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Его] уволили [obl [case на] основании [nmod того'
+  - '[acl [mark что] [nsubj он] [advmod не] справлялся [obl [case со] [det своими] обязанностями]]]].]'
 references:
   - |
     ""

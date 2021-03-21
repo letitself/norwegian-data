@@ -9,12 +9,13 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Negation
-  - Subject + Predicate
+  - Negation, Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Particle
   - Predicative
@@ -25,9 +26,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod что-то] незаметно'
+  - '[csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Что-то] незаметно'
+  - '[ccomp [mark что] [nsubj ты] торопишься].]'
 references:
   - |
     ""

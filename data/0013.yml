@@ -42,10 +42,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root (пойти) [acl весь [nmod [case в] NP-Acc]]]'
-  - '[root [nsubj он] пошел [acl весь] [nmod [case в] отца]]'
+  - '[root [nsubj NP-Nom] пойти [acl весь] [obl [case в] NP-Acc]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [acl весь] [case в] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] пошел [det весь] [obl [case в] отца].]'
 references:
   - |
     ""

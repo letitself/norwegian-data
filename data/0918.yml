@@ -29,9 +29,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis выходит], [nsubj PronPers-Nom [nmod [case с] NP-Ins]] квиты?]'
+  - '[root [nsubj PronPers-Nom [nmod [case с] NP-Ins]] квиты?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Выходит]'
+  - '[nsubj мы] квиты?]'
 references:
   - |
     ""

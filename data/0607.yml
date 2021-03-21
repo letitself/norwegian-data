@@ -43,10 +43,14 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root Num-Nom [nmod [case на] Num-Acc] ― [nmod Num-Nom]]'
-  - '[root семь [nmod [case на] восемь] ― [nmod пятьдесят шесть]]'
+  - '[root [csubj NumCrd-Acc умножить [nmod [case на] NumCrd-Acc]] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj NumCrd-Acc помножить [nmod [case на] NumCrd-Acc]] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj NumCrd-Acc умножить [nmod [case на] NumCrd-Acc]] VP [xcomp NumCrd-Nom]]'
+  - '[root [csubj NumCrd-Acc помножить [nmod [case на] NumCrd-Acc]] VP [xcomp NumCrd-Nom]]'
+  - '[root [csubj NumCrd-Acc умножить [nmod [case на] NumCrd-Acc]] – NumCrd-Nom]'
+  - '[root [nsubj NumCrd-Nom [nmod [case на] NumCrd-Acc]] – NumCrd-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Семь [nmod [case на] восемь]] – [compound пятьдесят] шесть.]'
 comment: |
     'См. близкую конструкцию 606 NumCrd-Ins NumCrd-Nom – (будет) NumCrd-Nom (Шестью пять – тридцать)'
 references:

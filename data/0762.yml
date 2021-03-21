@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case в] [amod конечном] счете] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] [amod конечном] счете] [nsubj наши] победили.]'
 references:
   - |
     ""

@@ -43,9 +43,14 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [mark чтобы] [nsubj [det никакой-Gen] NP-Gen] [advmod Adv] [advmod не] было!]'
+  - '[root [mark чтобы] [nsubj NP-Gen] [advmod Adv] [advmod не] было!]'
+  - '[root [mark чтобы] [det никакой-Gen] NP-Gen [advmod Adv]!]'
+  - '[root [mark чтобы] [nsubj [det никакой-Gen] NP-Gen] [obl PP] [advmod не] было!]'
+  - '[root [mark чтобы] [nsubj NP-Gen] [obl PP] [advmod не] было!]'
+  - '[root [mark чтобы] [det никакой-Gen] NP-Gen [obl PP]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [mark Чтобы] [nsubj животных] [advmod здесь] [advmod не] было!]'
 comment: |
     'См. близкую конструкцию 380 чтоб(ы) PronPers-Nom/PronDem-Nom/PronDem-Gen больше не VP-Pst! (Чтобы я больше об этом не слышала!).'
 references:

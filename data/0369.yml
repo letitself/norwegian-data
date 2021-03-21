@@ -25,9 +25,9 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj что] [cop Cop] [case с] NP-Ins?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Что] [case с] ним?]\n[root [advmod Почему] [nsubj он] плачет?]'
 references:
   - |
     ""

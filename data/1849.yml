@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod откуда] [aux бы] [advmod ни] VP-Pst]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Откуда] [aux бы] [advmod ни] появилась [nsubj [det эта] идея]]'
+  - '[case у] нее [nsubj много] [nsubj сторонников].]'
 references:
   - |
     ""

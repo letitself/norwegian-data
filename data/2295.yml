@@ -28,9 +28,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep XP] [obl [advmod ни] [case в] [det какие] ворота] [advmod не] лезть]'
+  - '[root [dep XP] [obl [advmod ни] [case в] [det какие] рамки] [advmod не] лезть]'
+  - '[root [dep XP] [advmod ни] [case в] [det какие] ворота]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Такое] поведение] [obl [advmod ни] [case в] [det какие] ворота] [advmod не] лезет!]'
 references:
   - |
     ""

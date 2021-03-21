@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] пройти [obl [case через] NP-Acc]]'
+  - '[root [nsubj NP-Nom] перешагнуть [obl [case через] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дети] прошли [obl [case через] [amod всяческие] испытания].]'
 references:
   - |
     ""

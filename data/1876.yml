@@ -24,9 +24,14 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case помимо] того], Cl]'
+  - '[root [parataxis [case помимо] этого], Cl]'
+  - '[root [parataxis [case помимо] [det всего] этого], Cl]'
+  - '[root [parataxis [case помимо] прочего], Cl]'
+  - '[root [parataxis [case помимо] [det всего] прочего], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case Помимо] этого]'
+  - '[nsubj мы] усилили [obj охрану] [conj [cc и] наняли] [obj сторожа].]'
 references:
   - |
     ""

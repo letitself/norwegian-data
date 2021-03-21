@@ -23,14 +23,17 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod вот] [advmod и] [advmod не] XP!]'
+  - '[root [cc а] [advmod вот] [advmod и] XP!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [advmod вот] [advmod и] [advmod не] угадал!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     ""

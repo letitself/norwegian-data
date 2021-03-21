@@ -24,9 +24,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP-Imp [advmod давай]!]'
+  - '[root VP-Imp [advmod давайте]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Ешь [advmod давай]!]'
 references:
   - |
     ""

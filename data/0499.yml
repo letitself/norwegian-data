@@ -22,9 +22,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep XP [nmod [case как] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мальчик] [cop был] [case как] ангел.]'
 references:
   - |
     ""

@@ -11,7 +11,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case сверх] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Сверх] [amod обычной] суммы] [nsubj Виталий] оставил [obj [nummod:gov немного] денег] [obl [case на] чай].]'
 references:
   - |
     ""

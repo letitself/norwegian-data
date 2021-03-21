@@ -9,7 +9,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -22,9 +23,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advmod порой] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Нагрузка [nmod [case в] школе]] [advmod порой] бывает [xcomp [advmod достаточно] тяжёлой].]'
 references:
   - |
     ""

@@ -44,9 +44,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod здесь] [advmod не] VP-Ipfv.3.Prs.Pl]'
+  - '[root [obl [case у] нас] [advmod не] VP-Ipfv.3.Prs.Pl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Здесь] [advmod не] курят!]'
 comment: |
     'Cм. синонимичные конструкции 19 (NP-Dat) не положено VP-Inf (Детям не положено гулять поздно), 1269 Запрещается/воспрещается VP-Inf (На экзамене запрещается пользоваться мобильными телефонами), 1223 VP-Inf запрещено (Купаться запрещено).'
 references:

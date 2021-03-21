@@ -45,10 +45,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root VP [obl [case по] [nummod Num-Acc] NP-Gen] [obl [case за] NP-Acc]]'
-  - '[root [obl [case в] Сочи]] [obj мимозу] продают [obl [case по] [nummod два] рубля] [obl [case за] [nummod один] килограмм]]'
+  - '[root VP [obj [case по] [nummod NumCrd] NP [nmod [case за] NP-Acc]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] Сочи] [obj мимозу] можно [csubj продать [obl [case по] [nummod:gov два] рубля [nmod [case за] [nummod:gov один] килограмм]]].]'
 references:
   - |
     ""

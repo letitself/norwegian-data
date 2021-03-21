@@ -46,9 +46,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] равно [xcomp NumCrd-Dat]]'
+  - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [csubj [obl [case От] восьми] отнять [obj три]] [cop будет] пять.]'
 comment: |
     'См. близкие конструкции 1857 NumCrd-Nom минус NumCrd-Nom – (равно/будет/получится/выйдет) NumCrd-Nom/NumCrd-Dat (Пять минус три будет два) и 2039 из NumCrd-Gen вычесть NumCrd-Acc равно/будет/получится/выйдет NumCrd-Nom (Из семи вычесть два получится пять).'
 references:

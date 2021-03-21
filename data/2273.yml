@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis в-NumOrd-ых]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Во-первых]'
+  - '[nsubj я] [aux бы] хотел [xcomp поблагодарить [obj [det своего] тренера]].]'
 references:
   - |
     ""

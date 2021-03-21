@@ -30,9 +30,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] [obj что] [nsubj я] [iobj PronPers-2.Dat] скажу: [parataxis Cl]]'
+  - '[root [advmod вот] что: [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Во́т] что: [parataxis [iobj тебе] надо [csubj жениться]].]'
 references:
   - |
     ""

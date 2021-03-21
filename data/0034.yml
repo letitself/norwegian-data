@@ -38,9 +38,10 @@ intonation:
   - Exclamatory
 usage_label: Obsolete
 dependency_structure:
-  - '[благоволите[VP-Inf]]'
+  - '[root благоволить-Imp [xcomp VP-Inf]!]'
+  - '[root соблаговолить-Imp [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Благоволите [xcomp ответить]!]'
 references:
   - |
     ""

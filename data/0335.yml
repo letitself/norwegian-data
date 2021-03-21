@@ -28,9 +28,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod только] [advmod и] знать'
+  - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod только] [advmod и] знает'
+  - '[ccomp [mark что] болтать [obj лишнее]].]'
 references:
   - |
     ""

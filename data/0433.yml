@@ -36,10 +36,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root Noun-то!]'
-  - '[root усищи-то!]'
+  - '[root Noun-[advmod то]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Усищи-[advmod то]!]'
 comment: |
     'См. близкую конструкцию 2149 Noun-Gen-то Cop! (Народу-то).'
 references:

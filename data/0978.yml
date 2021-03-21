@@ -23,7 +23,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case до] неузнаваемости]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Город] изменился [obl [case до] неузнаваемости].]'
 references:
   - |
     ""

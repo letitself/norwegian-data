@@ -9,6 +9,8 @@ def record_to_filename(record):
 def split_string(s):
     if s.strip() == "":
         return ["~"]
+    if "+" in s:
+        return [w.strip() for w in s.split("+")]
     if "," in s:
         return [w.strip() for w in s.split(",")]
     if ";" in s:

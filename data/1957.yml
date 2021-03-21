@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis итак]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Итак]'
+  - '[nsubj мы] [advmod вкратце] рассказали [obl [case об] особенностях [nmod [nummod двух] культур]].]'
 references:
   - |
     ""

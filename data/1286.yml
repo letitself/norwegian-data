@@ -23,7 +23,8 @@ morphology:
   - Gen
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -38,9 +39,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl волей [nmod NP-Gen]] Cl]'
+  - '[root [obl [case по] воле [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl Волею [nmod обстоятельств]] [nsubj он] оказался [obl [case в] стане [nmod противников]].]'
 comment: |
     'В конструкции допускается вариативность формы Творительного падежа слова "воля": волей или волею.'
 references:

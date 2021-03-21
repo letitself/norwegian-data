@@ -27,9 +27,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] [advmod уж] Verb-Inf] – [mark так] XP]'
+  - '[root [advcl Verb-Inf] – [mark так] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [advmod уж] петь] – [mark так] [case до] хрипоты.]'
 references:
   - |
     ""

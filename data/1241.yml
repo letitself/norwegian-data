@@ -26,9 +26,13 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а [fixed то]] получишь]!]'
+  - '[root Cl, [conj [cc а [fixed не] [fixed то]] получишь]!]'
+  - '[root Cl, [conj [cc а [fixed то]] получите]!]'
+  - '[root Cl, [conj [cc а [fixed не] [fixed то]] получите]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Должен [xcomp прийти] [advmod вовремя]'
+  - '[conj [cc а [fixed то]] получишь]!]'
 references:
   - |
     ""

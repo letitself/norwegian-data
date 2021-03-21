@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [parataxis скажи [parataxis нет]]]'
+  - '[root Cl, [parataxis скажешь [parataxis нет]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] красавица'
+  - '[parataxis скажи [parataxis нет]]!]'
 references:
   - |
     ""

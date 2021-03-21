@@ -1,15 +1,28 @@
 ---
 record: 952
-name: 'Давно ли VP?'
-UD_name: 'Давно ли VP?'
+name: 'Давно ли Cl?'
+UD_name: 'Давно ли Cl?'
 illustration: 'Давно ли вы здесь?'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется говорящим, чтобы узнать время начала определенного [действия]Action или [ситуации]Situation.
 examples:
+  - |
+       'Давно ли [у вас такие проблемы]Situation? Давно ли вас все вокруг [стало раздражать]Action?'
+  - |
+       'И давно ли он [стоит там]Action, этот сосед в майке?'
+  - |
+       'А вы хорошо знаете своего молодого человека, давно ли [вы вместе]Situation?'
+  - |
+       'Остановившись у знакомого киоска, Илья выскочил купить желаемое, и продавец спросил: ― Давно ли ты [на таких машинах разъезжаешь]Action?'
+  - |
+       'Давно ли вы [ели]Action?'
 morphology:
-  - VP
+  - Cl
 syntactic_type_of_construction:
-  - Clause
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -18,14 +31,15 @@ part_of_speech_of_anchor:
   - Adverb
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Situation
 intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod давно] [advmod ли] VP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Давно] [advmod ли] [nsubj вы] здесь?]'
 references:
   - |
     ""
@@ -38,4 +52,4 @@ semantic_types:
       - type: Time period
 family:
   - |
-    ""
+    "Continuativity: Since remote past"

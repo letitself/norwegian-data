@@ -28,7 +28,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -46,9 +47,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] против, [ccomp [mark чтобы] Cl]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] против [acl того, [acl [mark чтобы] Cl]]]'
+  - 'root [nsubj NP-Nom] [cop Cop] [advmod не] против, [ccomp [mark чтобы] VP-Inf]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] против [acl того, [acl [mark чтобы] VP-Inf]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] против'
+  - '[ccomp [mark чтобы] [nsubj ты] [obl [case на] ней] женился].]'
 comment: |
     'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1802 и 455.'
 references:

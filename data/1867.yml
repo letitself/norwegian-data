@@ -27,9 +27,21 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case плюс] [case ко] всему], Cl]'
+  - '[root [advmod вдобавок [obl [case ко] всему]], Cl]'
+  - '[root [obl [case в] дополнение [nmod [case ко] всему]], Cl]'
+  - '[root [obl [case плюс] [case к] тому], Cl]'
+  - '[root [advmod вдобавок [obl [case к] тому]], Cl]'
+  - '[root [obl [case в] дополнение [nmod [case к] тому]], Cl]'
+  - '[root [obl [case плюс] [case к] этому], Cl]'
+  - '[root [advmod вдобавок [obl [case к] этому]], Cl]'
+  - '[root [obl [case в] дополнение [nmod [case к] этому]], Cl]
+[root [cc плюс] Cl]'
+  - '[root [advmod вдобавок], Cl]'
+  - '[root [obl [case в] дополнение], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Плюс] [case ко] всему]'
+  - '[nsubj погода] [advmod резко] испортилась.]'
 references:
   - |
     ""

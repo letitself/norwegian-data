@@ -24,9 +24,15 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod хотя [fixed бы]] XP, [advcl [mark если] [advmod уж] Cl]]'
+  - '[root [advmod хоть [fixed бы]] XP, [advcl [mark если] [advmod уж] Cl]]'
+  - '[root [advmod хоть] XP, [advcl [mark если] [advmod уж] Cl]]'
+  - '[root [advmod хотя [fixed бы]] XP]'
+  - '[root [advmod хоть [fixed бы]] XP]'
+  - '[root [advmod хоть] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Приезжай [advmod хотя [fixed бы]] [obl [case на] недельку]'
+  - '[advcl [mark если] [advmod уж] [advmod больше] [advmod не] получается].]'
 references:
   - |
     ""

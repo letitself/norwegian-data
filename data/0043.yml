@@ -26,7 +26,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -43,11 +44,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] [cop быть [case за] то'
-  - '[mark чтобы] [advcl Cl]]; [root [nsubj я] [case за] то'
-  - '[mark чтобы] [advcl [nsubj ты] [obl [case у] нас] жил]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case за] то, [acl [mark чтобы] Cl]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case за] то, [acl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [case за] то'
+  - '[acl [mark чтобы] [nsubj ты] [obl [case у] нас] жил].]'
 comment: |
     'См. похожую конструкцию 1804 NP-Nom Cop за NP-Acc (Я за революцию).'
 references:

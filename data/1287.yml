@@ -23,7 +23,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case под] давлением [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Правительство] [obl [case под] давлением [nmod [amod прогрессивной] общественности]] учредило [obj нечто [nmod [case вроде] [amod государственной] опеки]].]'
 references:
   - |
     ""

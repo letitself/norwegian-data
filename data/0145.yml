@@ -27,9 +27,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod как [fixed бы]] [advmod ни] VP-Pst]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Как [fixed бы]] [advmod ни] хотелось [xcomp спать]]'
+  - '[cc но] пришлось [csubj идти [obl [case на] работу]].]'
 references:
   - |
     ""

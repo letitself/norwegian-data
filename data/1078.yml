@@ -21,7 +21,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -36,9 +37,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case из] угла] [obl [case в] угол]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] ходил [obl [case из] угла] [obl [case в] угол].]'
 comment: |
     'См. синонимичную конструкцию 1748 VP туда-сюда (Собака бегала туда-сюда.)'
 references:

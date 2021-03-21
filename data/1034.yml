@@ -26,7 +26,8 @@ morphology:
   - VP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -40,9 +41,14 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [obl [case за] неимением [nmod [case у] NP-Gen] [nmod NP-Gen]] VP]'
+  - '[root [obl [case за] неимением [nmod NP-Gen]] VP]'
+  - '[root [obl [case за] недостатком [nmod [case у] NP-Gen] [nmod NP-Gen]] VP]'
+  - '[root [obl [case за] недостатком [nmod NP-Gen]] VP]'
+  - '[root [obl [case за] отсутствием [nmod [case у] NP-Gen] [nmod NP-Gen]] VP]'
+  - '[root [obl [case за] отсутствием [nmod NP-Gen]] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case За] неимением [nmod денег]] [nsubj мы] остались [advmod дома].]'
 comment: |
     'См. похожую конструкцию 1265 - в отсутствие (синоним)'
 references:
@@ -57,4 +63,4 @@ semantic_types:
       - type: Availability
 family:
   - |
-    "Caritive constructions with the preposition BEZ"
+    "Caritive with Prep BEZ"

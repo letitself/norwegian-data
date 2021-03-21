@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obj [det другой-Gen] такой-Gen] [advmod не] VP]'
+  - '[root [obj [det [det другой-Gen] такой-Gen] NP-Gen] [advmod не] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj [det Другого] такого] [advmod не] найдешь.]'
 references:
   - |
     ""

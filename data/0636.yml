@@ -7,8 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action происходит непосредственно перед [некоторым моментом во времени]Time, которым является пограничное время суток (утро, вечер), праздник (Рождество), граница жизни (старость), граница сельскохозяйственного сезона (осень) или любого периода (конец дня, разговора, путешествия и пр.).
-  - english: |
-       КОММЕНТАРИЙ Значение предлога "под" с наименованием временной границы близко его употреблению в 2271 NP под NumCrd-Acc (лет) (Людмиле Петровне под пятьдесят). time period immediately preceding a given point in time, serves as a boundary point that is not crossed. The proximate future construction has a preference for boundaries that mark the endpoints of time periods. Thus, the approximate age construction and the proximate future construction both use boundary points in time for Y. In both cases these boundaries mark the endpoints of time periods. In the contexts where the constructions with pod are used these boundaries are close, but cannot be reached. In the approximate age construction, age is significant for a given cultural situation. Most often this is the age of forty, which in Russian culture is seen as an important age for childbirth, marriage, finding a profession and so on. In the proximate future construction Y is a noun referring to a time boundary, for example morning is seen as a boundary between day and night, old age is seen as a boundary between life and death, or fall is seen as boundary between the active agricultural season and passive winter time.
   - norwegian: |
        I denne tidskonstruksjonen uttrykker preposisjonen под at en [handling]Action eller [tilstand]Action finner sted like før et bestemt [tidspunkt]Time (som regel en tid av døgnet, en dato, eller en høytid/feiring).
 examples:
@@ -27,7 +25,8 @@ morphology:
   - NP
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -41,9 +40,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case под] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] вернулась [obl [case под] утро].]'
 comment: |
     'Значение предлога "под" с наименованием временной границы близко его употреблению в 2271 NP под NumCrd-Acc (лет) (Людмиле Петровне под пятьдесят).'
 references:

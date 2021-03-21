@@ -6,7 +6,7 @@ illustration: 'Вот уже три месяца как она уехала.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы акцентировать внимание на [времени]Time, которое прошло с [некоторого важного события]Event в жизни участников. Как правило, речь идет о длинном промежутке времени, в течение которого продолжается наступившая ситуация. Эффект действия или ситуации как правило актуален в момент речи.
+       Конструкция используется для того, чтобы акцентировать внимание на [времени]Time, которое прошло с [некоторого важного события]Event в жизни участников. Как правило, речь идет о длинном промежутке времени, в течение которого продолжается наступившая ситуация. Эффект действия или ситуации как правило актуален в момент речи. Говорящий считает, что это больше, чем ожидается.
   - english: |
        Тенденция употребляеться с круглыми датами. Вот уже неделя как , неделю как я брожу без дела. Номинатив, Аккузатив, Генитив. Связка как оправило н вастоящем времени. Подчинение, связка. Вот уже неделю как
 examples:
@@ -27,8 +27,8 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Copula Construction
-  - Head + Modifier Construction
+  - Copula Construction, Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
   - Subordinator
@@ -47,9 +47,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] [advmod уже] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl].]'
+  - '[root [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl].]'
+  - '[root [obl [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP] [mark как] Cl.]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] [advmod уже] [nummod:gov три] месяца [acl [mark как] [nsubj она] уехала].]'
 references:
   - |
     ""
@@ -63,4 +65,4 @@ semantic_types:
       - type: Time period
 family:
   - |
-    ""
+    "Continuativity: Since remote past"

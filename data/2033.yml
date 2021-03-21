@@ -11,7 +11,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] десятых] [nmod NP-Gen]]'
+  - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] десятых]]'
+  - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] сотых] [nmod NP-Gen]]'
+  - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] сотых]]'
+  - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] тысячных] [nmod NP-Gen]]'
+  - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] тысячных]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[obl [nummod:gov Пять] целых [flat [nummod:gov семь] десятых] [nmod сантиметра]]'
 references:
   - |
     ""

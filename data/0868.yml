@@ -21,7 +21,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,9 +38,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case во] [det весь] голос]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod как] закричит [obl [case во] [det весь] голос].]'
 comment: |
     'См. синонимичную конструкцию 873 "VP во все горло" (Он кричит её имя во всё горло).'
 references:

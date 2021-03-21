@@ -40,9 +40,13 @@ intonation:
   - Clause
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root взять [advmod хотя [fixed бы]] [obj NP-Acc], [parataxis Cl]]'
+  - '[root возьми [advmod хотя [fixed бы]] [obj NP-Acc], [parataxis Cl]]'
+  - '[root взять [advmod хоть] [obj NP-Acc], [parataxis Cl]]'
+  - '[root возьми [advmod хоть] [obj NP-Acc], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Все] работали [advmod хорошо].]\n[root Взять [advmod хотя [fixed бы]] [obj Ивана]'
+  - '[parataxis [nsubj он] [advmod внимательно] проработал [obj [det все] детали]].]'
 references:
   - |
     ""

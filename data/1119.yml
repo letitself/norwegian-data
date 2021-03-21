@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] как [fixed раз]]'
+  - '[root [nsubj NP-Nom] [cop Cop] как [fixed раз]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Платье] [cop было] как [fixed раз].]'
 references:
   - |
     ""

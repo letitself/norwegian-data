@@ -10,7 +10,8 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -26,9 +27,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj [det весь] дело] [cop Cop] [case в] том, [acl [mark что] Cl]]'
+  - '[root [nsubj [det весь] суть] [case в] том, [acl [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дело] [case в] том'
+  - '[acl [mark что] [nsubj она] переживает] [obj [amod трудные] времена].]'
 references:
   - |
     ""

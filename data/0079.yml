@@ -42,10 +42,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod всё] [case без] NP-Gen [conj [cc и] [case без] NP-Gen]]'
-  - '[root [cc а] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod всё] [case без] NP-Gen [conj [cc и] [case без] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока].]'
 references:
   - |
     ""

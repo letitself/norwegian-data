@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl будь] [nsubj NP-Nom] [obl [case в] NP-Loc], Cl]'
+  - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] NP-Loc], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl Будь] [nsubj он] [obl [case в] Москве]'
+  - '[nsubj я] [aux бы] [advmod обязательно] пригласила [obj его] [obl [case в] гости].]'
 references:
   - |
     ""

@@ -3,13 +3,16 @@ record: 1618
 name: 'VP авансом'
 UD_name: 'VP авансом'
 illustration: 'Мне поставили практику авансом – я должен пройти ее в следующем месяце.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [денежная выплата]Event производится до выполнения работ или что участник [получает высокую оценку, награду, звание]Event при отсутствии требуемых заслуг или достижений. Ожидается, что участник в будущем оправдает эту оценку, награду, звание.
 examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -22,9 +25,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl авансом]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] поставили [obj практику] [obl авансом] – [parataxis [nsubj я] должен [xcomp пройти] [obj ее] [obl [case в] [amod следующем] месяце]].]'
 references:
   - |
     ""
@@ -34,4 +37,4 @@ semantic_types:
       - type: Preceding action
 family:
   - |
-    ""
+    "Precedence"

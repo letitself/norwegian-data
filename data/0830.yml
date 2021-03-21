@@ -30,9 +30,12 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [iobj NP-Dat] [case в] тягость]'
+  - '[root [csubj VP-Inf] [cop Cop] [iobj NP-Dat] [case в] тягость]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] тягость]'
+  - '[root [csubj VP-Inf] [cop Cop] [case в] тягость]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Эта] работа] [cop была] [iobj мне] [case в] тягость.]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."

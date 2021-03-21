@@ -3,13 +3,18 @@ record: 1619
 name: 'априори VP'
 UD_name: 'априори VP'
 illustration: 'Он априори с этим согласен.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник совершает [действие]Action, не опираясь на знание фактов, не проверяя, или высказывает утверждение, будучи уверенным в своей правоте.
 examples:
+  - |
+       'Коктейль, содержащий столько сахара, априори не может быть полезным.'
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -22,9 +27,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod априори] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod априори] [obl [case с] этим] согласен.]'
 references:
   - |
     ""
@@ -34,4 +39,4 @@ semantic_types:
       - type: Preceding action
 family:
   - |
-    ""
+    "Precedence"

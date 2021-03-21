@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] включает [obl [case в] себя] [obj NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Этот учебник] включает [obl [case в] себя] [obj [det все] [acl необходимые [nmod [case для] экзамена]] темы].]'
 references:
   - |
     ""

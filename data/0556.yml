@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] слыть [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] слыла [xcomp отличницей].]'
 references:
   - |
     ""

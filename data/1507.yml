@@ -11,7 +11,8 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case с] [det каждым] NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Экономическая] ситуация] ухудшается [obl [case с] [det каждым] днём].]'
 references:
   - |
     ""

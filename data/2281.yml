@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[parataxis [advmod не] правда [advmod ли]]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [amod Интересный] художник'
+  - '[parataxis [advmod не] правда [advmod ли]]?]'
 references:
   - |
     ""

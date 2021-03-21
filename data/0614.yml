@@ -26,9 +26,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj PronPers-Nom] [iobj PronPers-Dat] дать [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [iobj тебе] дам [xcomp [advmod так] [obj себя] вести]!]'
 references:
   - |
     ""

@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root день-[conj другой] – [conj [cc и] VP]]'
+  - '[root день-[conj другой] – [conj VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root День-[conj другой] – [conj [cc и] можно] [cop будет] [csubj выписывать [obj его] [obl [case из] больницы]].]'
 references:
   - |
     ""

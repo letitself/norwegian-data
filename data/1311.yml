@@ -10,7 +10,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case с] целью [nmod VP-Inf]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Необходимо [csubj произвести [obj [amod дополнительную] [amod семантическую] проверку] [obl [case с] целью [nmod установить'
+  - '[ccomp могло [advmod ли] [nsubj [det одно] значение] [xcomp развиться [obl [case из] другого]]]]]].]'
 references:
   - |
     ""

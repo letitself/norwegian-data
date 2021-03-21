@@ -26,9 +26,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root NP-Nom [nsubj PronPers-Nom] [conj [cc или] кто]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Помоги [advmod же]!]\n[root Человек [nsubj ты] [conj [cc или] кто]?]'
 references:
   - |
     ""

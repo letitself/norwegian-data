@@ -23,9 +23,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis по-моему], Cl]'
+  - '[root [parataxis по-твоему], Cl]'
+  - '[root [parataxis по-нашему], Cl]'
+  - '[root [parataxis по-вашему], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis По-моему]'
+  - '[nsubj мы] проехали [obj [amod нужный] поворот].]'
 references:
   - |
     ""

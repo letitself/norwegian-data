@@ -13,8 +13,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Copula Construction
-  - Matrix + Infinitival Complement Construction
+  - Copula Construction, Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
   - Matrix Predicate
@@ -28,9 +28,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] вправе [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] вправе [obl сам] [xcomp решать'
+  - '[ccomp [advmod как] [iobj ему] жить]].]'
 references:
   - |
     ""

@@ -29,8 +29,8 @@ morphology:
   - VP
   - Adv
 syntactic_type_of_construction:
-  - Copula Construction
-  - Head + Modifier Construction
+  - Copula Construction, Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
   - Modifier
@@ -45,10 +45,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root [всё [advmod X-ее [conj [cc и] Adj-Cmp/Adv-Cmp]]]'
-  - '[root [nsubj спортсмен] бежал [advmod всё] [advmod быстрее [conj [cc и] быстрее]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod всё] Adj-Cmp [conj [cc и] Adj-Cmp]]'
+  - '[root [nsubj NP-Nom] VP [advmod [advmod всё] Adv-Cmp [conj [cc и] Adv-Cmp]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Спортсмен] бежал [advmod [advmod всё] быстрее [conj [cc и] быстрее]].]'
 comment: |
     'См. близкую конструкцию всё Adv-Cmp/Adj-Cmp (Шум становился всё сильнее.) In English, comparatives are used to form a similar construction, e.g. “X ran faster and faster”. I norsk brukes komparativer til å danne en lignende konstruksjon, f.eks. ‘X løp raskere og raskere’.'
 references:

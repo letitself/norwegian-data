@@ -24,7 +24,8 @@ morphology:
   - Cl
   - XP
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -40,11 +41,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod вот] то-то [nsubj [advmod и] оно]'
-  - '[mark что] [advcl Cl]]; [root то-то [nsubj [advmod и] оно]'
-  - '[mark что] [advcl [nsubj ничего] [aux бы] [obl [case от] [amod его] помощи] [advmod не] изменилось.]]'
+  - '[root [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
+  - '[root [advmod вот] [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj То-то] [advmod и] оно'
+  - '[mark что] [obl [case от] меня] [nsubj ничего] [advmod не] [acl:relcl зависит].]'
 references:
   - |
     ""

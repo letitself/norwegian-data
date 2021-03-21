@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий отрицает [характеристику]Property другого [участника]Participant или [объекта]Theme и говорит, что он вовсе не такой, каким все его себе представляют. Отрицаться может как положительное, так и отрицательное качество.
+  - english: |
+       Echo construction?
 examples:
   - |
        'Жорка, конечно, хороший малый, но никакой [он]Participant не [писатель]Property, а просто литературный щелкунчик, создатель заводских эпопей.'
@@ -41,9 +43,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [det никакой] [nsubj PronPers] [cop Cop] [advmod не] XP]'
+  - '[root [det никакой] [nsubj это] [cop Cop] [advmod не] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [det Никакой] [nsubj он] [advmod не] гений.]'
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:
@@ -61,6 +64,9 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     "None"

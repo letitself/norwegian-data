@@ -9,7 +9,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +24,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep [obl [obl [case в] аккурат] XP]'
+  - '[dep [obl [advmod аккурат] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Жди [obj меня]'
+  - '[conj [nsubj я] вернусь [obl [obl [case в] аккурат] [case к] обеду]].]'
 references:
   - |
     ""

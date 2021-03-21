@@ -38,10 +38,10 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '[root просьба [dep VP-Inf]]'
-  - '[root просьба [dep [advmod не] курить]]'
+  - '[root просьба [csubj [advmod не] VP-Inf]]'
+  - '[root просьба [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Просьба [csubj [advmod не] курить]!]'
 references:
   - |
     ""

@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] именно, [parataxis XP!]'
+  - '[root [advmod вот] именно, [ccomp [mark что] XP!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [nsubj Это] [case после] свадьбы?]\n[root – [advmod Вот] именно'
+  - '[parataxis [case после] свадьбы]!]'
 references:
   - |
     ""

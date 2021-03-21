@@ -9,11 +9,13 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Particle
   - Pronoun
@@ -26,9 +28,13 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [nsubj кто] [expl это] сказал, [ccomp [mark что] Cl]?]'
+  - '[root [cc а] [nsubj кто] сказал, [ccomp [mark что] Cl]?]'
+  - '[root [nsubj кто] [expl это] сказал, [ccomp [mark что] Cl]?]'
+  - '[root [nsubj кто] сказал, [ccomp [mark что] Cl]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [nsubj кто] сказал'
+  - '[ccomp [mark что] [nsubj мы] [advmod не] хотим [obl [case в] кино]]?]'
 references:
   - |
     ""

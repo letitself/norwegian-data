@@ -41,10 +41,11 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '[root [mark а] [mark что [fixed насчёт]] XP?]'
-  - '[root [mark а] [mark что [fixed насчёт]] пятницы?] Какие у тебя планы?'
+  - '[root [nsubj что] [case насчёт] XP?]'
+  - '[root [cc а] [nsubj что] [case насчёт] XP?]'
+  - '[root [part так] [nsubj что] [case насчёт] XP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Что] [case насчёт] пятницы?] [root Какие у тебя планы?]'
 comment: |
     'См. не путать с конструкциями 147 как насчёт XP? (Как насчёт выпить?); 687 (а) насчёт NP-Gen – Cl (А насчёт папы – он уехал на рыбалку).'
 references:

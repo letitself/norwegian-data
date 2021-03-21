@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark чем] Adj-Cmp], [mark тем] Adj-Cmp]'
+  - '[advmod [advcl [mark чем] Adv-Cmp], [mark тем] Adv-Cmp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Чем] больше]'
+  - '[mark тем] лучше.]'
 references:
   - |
     ""

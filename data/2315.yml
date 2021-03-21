@@ -27,9 +27,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod так] [advmod и] быть], VP-Fut]'
+  - '[root [advcl [advmod так] [advmod и] быть], VP-Imp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Так] [advmod и] быть]'
+  - 'расскажу [iobj тебе] [obj всё].]'
 references:
   - |
     ""

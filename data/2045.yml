@@ -11,7 +11,8 @@ morphology:
   - Gen
   - Pl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Argument
   - Modifier
@@ -26,9 +27,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep каждый [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case О] каждом [nmod [case из] персонажей [nmod книги]]] написана [nsubj:pass статья].]'
 references:
   - |
     ""

@@ -26,7 +26,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -43,10 +44,16 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [nsubj руки] [advmod не] доходят [advcl Cl]'
-  - '[root [nsubj руки] [advmod не] доходят [xcomp [obl крышу] починить]]'
+  - '[root [obl [case у] NP-Gen] [всё advmod] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [obl [case у] NP-Gen] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [всё advmod] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [obl [case у] NP-Gen] [всё advmod] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [всё advmod] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Руки] [advmod не] доходят [xcomp [obj крышу] починить].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

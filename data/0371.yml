@@ -26,9 +26,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod что] [advmod тут] VP-Inf?]'
+  - '[root [advmod чего] [advmod тут] VP-Inf?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Что] [advmod тут] думать?]\n[root Надо [csubj [advmod срочно] покупать [obj [det эту] сумку]]!]'
 references:
   - |
     ""
@@ -37,6 +38,8 @@ semantic_types:
     subtypes:
       - type: High degree of certainty
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
 family:
   - |
     ""

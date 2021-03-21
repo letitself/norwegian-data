@@ -41,10 +41,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root будет [obj [Pron-Dat] [xcomp VP-Inf]]'
-  - '[root будет [obj тебе] [xcomp врать!]]'
+  - '[root будет [iobj PronPers-Dat] [csubj VP-Ipfv.Inf]!]'
+  - '[root будет [iobj PronPers-Dat]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Будет [iobj тебе] [csubj врать]!]'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно; глаголы, обозначающие действия, связанные с негативными эмоциями, жалобами, плохим настроением; глаголы, обозначающие неуместное бездействие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
 references:

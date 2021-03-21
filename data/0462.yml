@@ -10,7 +10,8 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -23,9 +24,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] него [nsubj голова [nmod тыквой]].]'
 references:
   - |
     ""

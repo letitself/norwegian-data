@@ -3,9 +3,17 @@ record: 643
 name: 'VP NP-Gen на NumCrd-Acc'
 UD_name: 'VP NP-Gen на NumCrd-Acc'
 illustration: 'Они уехали на дачу дня на два.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция употребляется при обозначении промежутка [времени]Time, определяющего границы какого-либо [действия]Action, состояния или ситуации. [Количество]Quantity [времени]Time говорящий указывает приблизительно, неточно. Значение неточности передается инверсионным порядком слов (NP-Gen на NumCrd-Acc вместо прямого порядка слов на NumCrd-Acc NP-Gen).
 examples:
+  - |
+       'Мы все [замокли]Action [минут]Time на [пять]Number и слушали, как на кухне работает холодильник.'
+  - |
+       'Под утро они [заснули]Action [часа]Time на [три]Number и встали в восемь свеженькие, готовые к работе.'
+  - |
+       'Степанов [пришёл]Action к нам в гости [часа]Time на [три]Number.'
 morphology:
   - VP
   - NP
@@ -13,7 +21,8 @@ morphology:
   - NumCrd
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +35,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl NP-Gen [case на] [nummod:gov NumCrd-Acc]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Они] уехали [obl [case на] дачу] [obl дня [case на] [nummod:gov два]].]'
 references:
   - |
     ""
@@ -44,4 +53,4 @@ semantic_types:
       - type: Time period
 family:
   - |
-    ""
+    "Temporal approximation"

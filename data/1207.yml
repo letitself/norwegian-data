@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] напоминать [obj NP-Acc] [obl NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl Формой] [nsubj он] напоминает [obj тыкву].]'
 references:
   - |
     ""

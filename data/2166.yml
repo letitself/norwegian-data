@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [nsubj NP-Nom] [advmod не] светит]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Ему] [nsubj это] [advmod не] светит.]'
 references:
   - |
     ""

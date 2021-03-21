@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep PronPers] [aux бы] [advmod ещё] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ты] [aux бы] [advmod ещё] [obj [det всех] соседей] привела!]'
 references:
   - |
     ""

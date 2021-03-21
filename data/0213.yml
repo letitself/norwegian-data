@@ -27,7 +27,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:
@@ -41,10 +42,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod не] VP [obl [advmod ни] NP-Gen]]'
-  - '[root [nsubj он] [advmod не] сказал [obl [advmod ни] слова]] [obl [case за] [amod весь] вечер]]'
+  - '[root [advmod не] VP [advmod ни] [obj NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case За] день] [nsubj он] [advmod не] прочитал [advmod ни] [obj страницы].]'
 comment: |
     'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP'
 references:

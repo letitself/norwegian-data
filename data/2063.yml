@@ -18,7 +18,8 @@ syntactic_function_of_anchor:
   - Subject
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Conjunction
   - Particle
@@ -30,9 +31,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а] [nmod NP-Gen] [advmod и] [nsubj след] простыл]]'
+  - '[root Cl, [conj [nmod NP-Gen] [advmod и] [nsubj след] простыл]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Когда] [nsubj все] проснулись]'
+  - '[nmod его] [advmod и] [nsubj след] простыл.]'
 references:
   - |
     ""

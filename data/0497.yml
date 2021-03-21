@@ -27,9 +27,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [csubj NP-Gen2] [cop Cop] [aux бы] Pred]'
+  - '[root [csubj NP-Gen2] [cop Cop] [aux бы] Pred]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Кофейку] неплохо [aux бы].]'
 references:
   - |
     ""

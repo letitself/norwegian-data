@@ -47,10 +47,12 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root давать-Imper [xcomp VP-Inf]]'
-  - '[root дай [xcomp доделать]]'
+  - '[root дай [nsubj PronPers-2] [iobj NP-Dat] [xcomp VP-Inf]!]'
+  - '[root дай [iobj NP-Dat] [xcomp VP-Inf]!]'
+  - '[root дай [nsubj PronPers-2] [xcomp VP-Inf]!]'
+  - '[root дай [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Дай [xcomp доделать]!]'
 references:
   - |
     ""

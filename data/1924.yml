@@ -21,7 +21,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -43,9 +44,18 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod здесь] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod здесь] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod сейчас] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] том, [acl [mark чтобы] Cl]], [advmod сейчас] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case О] том'
+  - '[acl [mark чтобы] поехать [xcomp отдыхать]]]'
+  - '[advmod и] [nsubj речи] [xcomp быть] [advmod не] может.]'
 comment: |
     'См. конструкции ни о какой-Loc NP-Loc (тут/здесь/сейчас) и речи быть не может (Ни о каких компьютерных играх тут и речи быть не может.), о NP-Loc (тут/здесь/сейчас) и речи быть не может (О присутствии адвоката и речи быть не может).'
 references:

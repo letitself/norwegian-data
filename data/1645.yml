@@ -3,8 +3,10 @@ record: 1645
 name: 'VP по прошествии NumCrd-Gen Noun-Gen'
 UD_name: 'VP по прошествии NumCrd-Gen N-Gen'
 illustration: 'Про прошествии десяти лет хочется снова её увидеть.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что между точкой отсчета и последующим [событием]Event проходит некоторое [количество]Quantity [времени]Time. В нарративе конструкция может указывать на событие, которое произошло после другого события в прошлом.
 examples:
 morphology:
   - VP
@@ -12,7 +14,8 @@ morphology:
   - Gen
   - Noun
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +29,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case про] прошествии [nmod [nummod NumCrd-Gen] лет]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Про] прошествии [nmod [nummod десяти] лет]] хочется [xcomp [advmod снова] [obj её] увидеть].]'
 references:
   - |
     ""

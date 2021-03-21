@@ -12,7 +12,8 @@ morphology:
   - Verb
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] приняться [xcomp Verb-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] принялся [xcomp тянуть [obj меня] [obl [case в] сторону [nmod выхода]]].]'
 references:
   - |
     ""

@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] отдать [obj NP-Acc] [obl [case в] NP-Acc]]'
+  - '[root [nsubj NP-Nom] отдать [obj NP-Acc] [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] хотим [xcomp отдать [obj детей] [obl [case в] [amod музыкальную] школу]].]'
 references:
   - |
     ""

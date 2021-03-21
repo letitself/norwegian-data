@@ -6,7 +6,7 @@ illustration: 'Упасть головой в подушку'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция указывает на местоположение человека (или, реже, животного) в пространстве: конструкция обозначает [конечную точку]Goal [движения]Action участника, с которой он осуществляет контакт [частью своего тела]Theme.
+       Конструкция указывает на местоположение человека (или, реже, животного) в пространстве. Конструкция обозначает [конечную точку]Goal [движения]Action участника, с которой он соприкасается [частью своего тела]Theme.
 examples:
   - |
        'Я развернулся и [уткнулся]Action [лбом]Theme в [кафель]Goal.'
@@ -24,7 +24,8 @@ morphology:
   - Ins
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl NP-Ins] [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Упасть [obl головой] [obl [case в] подушку]]'
 references:
   - |
     "Рахилина, Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, изд. 2, испр. и доп. – 448 с. (стр. 265-266)"

@@ -3,13 +3,16 @@ record: 1617
 name: 'VP предварительно'
 UD_name: 'VP предварительно'
 illustration: 'Я предварительно составил для вас список литературы.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action совершается перед тем, как выполнить другое действие. Также может обозначать, что некоторое действие не является окончательным и может быть изменено или отменено.
 examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -22,9 +25,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [advmod предварительно]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod предварительно] составил [obl [case для] вас] [obj список [nmod литературы]].]'
 references:
   - |
     ""
@@ -34,4 +37,4 @@ semantic_types:
       - type: Preceding action
 family:
   - |
-    ""
+    "Precedence"

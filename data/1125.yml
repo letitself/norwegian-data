@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] Adj-Cmp'
+  - '[obl [case нежели] NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Пустые] стеллажи] лучше'
+  - '[obl [case нежели] тележки [nmod [case в] коридорах]].]'
 references:
   - |
     ""

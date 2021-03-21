@@ -22,9 +22,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] [advmod и] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] [advmod и] поговори [obl [case с] ним]!]'
 references:
   - |
     ""

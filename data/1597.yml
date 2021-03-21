@@ -9,7 +9,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -22,9 +23,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [advmod спорадически] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Подобные] примеры] [advmod спорадически] встречаются [obl [advmod и] [case в] [amod русском] языке].]'
 references:
   - |
     ""

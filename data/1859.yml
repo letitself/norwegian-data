@@ -42,9 +42,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] квадрате]] – равно [xcomp NumCrd-Nom]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] квадрате]] – равно [xcomp NumCrd-Dat]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] квадрате]] VP [xcomp NumCrd]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] кубе]] – равно [xcomp NumCrd-Nom]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] кубе]] – равно [xcomp NumCrd-Dat]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case в] кубе]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Шесть [nmod [case в] квадрате]] равно [xcomp [nummod:gov тридцать] шесть].]'
 references:
   - |
     ""

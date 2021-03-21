@@ -43,9 +43,16 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod здесь] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod здесь] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod сейчас] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod сейчас] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [advmod Ни] [case о] [det каких] [amod компьютерных] играх] [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может.]'
 comment: |
     'См. конструкции о NP-Loc (тут/здесь/сейчас) и речи быть не может (О присутствии адвоката и речи быть не может), о том, чтобы Cl, (тут/здесь/сейчас) и речи быть не может (О том, чтобы поехать отдыхать, и речи быть не может).'
 references:

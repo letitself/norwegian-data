@@ -26,9 +26,12 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] положено [cop Cop] [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] полагается [csubj VP-Inf]]'
+  - '[root положено [cop Cop] [csubj VP-Inf]]'
+  - '[root полагается [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Вам] положено [csubj сидеть [advmod дома]].]'
 references:
   - |
     ""

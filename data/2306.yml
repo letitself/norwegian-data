@@ -16,8 +16,8 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Object
 syntactic_structure_of_anchor:
-  - Light Verb Construction
-  - Verb + Object
+  - Light Verb Construction, Verb
+  - Object
 part_of_speech_of_anchor:
   - Verb
   - Noun
@@ -27,9 +27,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root сделать-Imp [obj милость]'
+  - '[parataxis VP-Imp]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Сделай [obj милость]'
+  - '[parataxis [advmod никогда] [advmod не] прикасайся [obl [case к] [det моим] вещам]]!]'
 references:
   - |
     ""

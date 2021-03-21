@@ -24,9 +24,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod вряд [fixed ли]] XP]'
+  - '[root [advmod вряд [fixed ли]] Cl]'
+  - '[root [advmod навряд [fixed ли]] XP]'
+  - '[root [advmod навряд [fixed ли]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вряд [fixed ли]] [nsubj он] придёт.]'
 references:
   - |
     ""

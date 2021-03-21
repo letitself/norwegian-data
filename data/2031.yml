@@ -25,7 +25,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -41,9 +42,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case без] учёта [nmod NP-Gen]]'
+  - '[dep NP [nmod [case без] учёта [nmod NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Средний] счет] [obl [case в] [det этом] ресторане]'
+  - '[obl [case без] учета [nmod алкоголя]]'
+  - '[nummod:gov [nummod:gov две] тысячи] рублей.]'
 comment: |
     'См. близкие конструкции 1902 - не считая (синоним), 2030 - за вычетом, 2058 - если не считать'
 references:

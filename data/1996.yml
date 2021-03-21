@@ -3,8 +3,10 @@ record: 1996
 name: 'по слухам, Cl'
 UD_name: 'по слухам, Cl'
 illustration: 'По слухам, здесь обитают дикие звери.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [источник]Source сообщаемой [информации]Content.
 examples:
 morphology:
   - Cl
@@ -24,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case по] слухам]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case По] слухам]'
+  - '[advmod здесь] обитают [nsubj [amod дикие] звери].]'
 references:
   - |
     ""

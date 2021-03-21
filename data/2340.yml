@@ -42,10 +42,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [obl NP-Dat] [advmod не] подобает [nsubj VP-Inf]]'
-  - '[root [obl тебе] [advmod не] подобает [nsubj кланяться]]'
+  - '[root [iobj NP-Dat] [advmod не] подобает [xcomp VP-Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] подобало [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] подобает [iobj [amod московскому] царю] [xcomp кланяться [iobj [amod польскому] королю]].]'
 comment: |
     'См. конструкцию NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не нужно/надо VP-Inf (не нужно опекать детей до безрассудства), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
 references:

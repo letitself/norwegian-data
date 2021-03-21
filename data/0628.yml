@@ -27,7 +27,8 @@ morphology:
   - Adv
   - Cmp
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -42,10 +43,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[advmod [fixed как] можно] Adv-Cmp/Adj-Cmp]] VP]'
-  - '[root нужно [nsubj приехать [obl нам] [advmod [advmod [fixed как] можно] скорее]]'
+  - '[root VP [advmod [advmod как [fixed можно]] Adv-Cmp]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Пиши [advmod [advmod как [fixed можно]] чаще]!]'
 references:
   - |
     "Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673."

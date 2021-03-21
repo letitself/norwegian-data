@@ -25,9 +25,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [mark чтобы] [nsubj PronPers-Nom] Verb-Pst!]'
+  - '[root [mark чтоб] [nsubj PronPers-Nom] Verb-Pst!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [mark Чтобы] [nsubj он] опоздал?!]\n[root [nsubj Он] [advmod всегда] выходит [advmod вовремя].]'
 references:
   - |
     ""

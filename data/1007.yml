@@ -40,9 +40,11 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] позволить-Fut.2]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] позволите]'
+  - '[nsubj я] [obl [case к] вам] зайду [obl [case в] конце [nmod дня]].]'
 references:
   - |
     ""

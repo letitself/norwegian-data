@@ -23,7 +23,8 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -40,9 +41,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] обнимку [nmod [case с]] NP-Ins]]'
+  - '[root VP [obl [case в] обнимку]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дети] спят [obl [case в] обнимку [nmod [case с]] игрушками].]'
 references:
   - |
     ""

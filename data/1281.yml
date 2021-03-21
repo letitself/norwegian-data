@@ -38,9 +38,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [advmod оттого'
+  - '[advcl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Боли] могут [cop быть] [advmod оттого'
+  - '[advcl [mark что] носишь [obj тяжести]]].]'
 references:
   - |
     ""

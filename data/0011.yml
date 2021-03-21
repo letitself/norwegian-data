@@ -37,11 +37,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl [case по] мне]'
-  - '[advmod так] Cl]; [root [advmod как] [parataxis [case по] мне]'
-  - '[nsubj это] [advmod ещё] [advmod не] проблема]'
+  - '[root [parataxis [mark как] [case по] мне]], Cl]'
+  - '[root [parataxis [case по] мне]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [mark Как] [case по] мне]]'
+  - '[nsubj это] [advmod ещё] [advmod не] беда.]'
 comment: |
     'См. похожие конструкции 264 по мнению NP-Gen, Cl (По мнению властей, необходимо принять меры и остановить загрязнение реки); 1137 на PronPoss-Acc взгляд, Cl (На мой взгляд, это не искусство).'
 references:

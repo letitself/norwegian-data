@@ -11,12 +11,13 @@ morphology:
   - Nom
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Light Verb Construction
-  - Verb + Object
+  - Light Verb Construction, Verb
+  - Object
 part_of_speech_of_anchor:
   - Verb
   - Noun
@@ -27,9 +28,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] даю [дать слово'
+  - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Даю [obj слово'
+  - '[acl [mark что] [nsubj ты] [obj меня] [advmod больше] [advmod никогда] [advmod не] увидишь]].]'
 references:
   - |
     ""

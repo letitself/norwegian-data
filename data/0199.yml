@@ -30,9 +30,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod не] пройти [nsubj [advmod и] [nummod NumCrd-Gen] NP-Gen], [advcl [mark как] Cl]]'
+  - '[root [advmod не] пройти [nsubj [advmod и] NP-Gen], [advcl [mark как] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] пройдёт [nsubj [advmod и] [nummod трех] месяцев]'
+  - '[advcl [mark как] [nsubj мы] вернёмся [advmod домой]].]'
 references:
   - |
     ""

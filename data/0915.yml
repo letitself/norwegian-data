@@ -3,9 +3,21 @@ record: 915
 name: 'NP-Nom так и VP-Ipfv.Fut/про-Verb?'
 UD_name: 'NP-Nom так и VP-Imp.Fut/про-V?'
 illustration: 'Вы так и будете стоять здесь?'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent совершает продолжительное [действие]Action, которое началось в прошлом. Говорящий ожидал, что это действие должно было закончиться, но оно продолжается. Говорящий выражает недовольство сложившейся ситуацией.
 examples:
+  - |
+       'Или тебе все равно? Так и [будешь молчать, глядя в чашку]Action?'
+  - |
+       'Но хотя бы имя у него есть? Или [вы]Agent так и [будете называть его местоимением «он»]Action?'
+  - |
+       'Так и [будете сидеть голодные]Action?'
+  - |
+       'Светлана покрылась холодным потом и не могла заставить себя взять телефон в руки. ― Ты ответишь или [мы]Experiencer так и [будем слушать этот трезвон]Action?'
+  - |
+       'И [календарь]Agent, который он повесил на стенку, так и [провисел]Action у меня весь 2000 год.'
 morphology:
   - NP
   - Nom
@@ -29,9 +41,10 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod так] [advmod и] VP-Ipfv.Fut?]'
+  - '[root [nsubj NP-Nom] [advmod так] [advmod и] про-Verb?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вы] [advmod так] [advmod и] [aux будете] стоять [advmod здесь]?]'
 references:
   - |
     ""
@@ -44,4 +57,4 @@ semantic_types:
       - type: Continuative
 family:
   - |
-    ""
+    "Continuativity: For a long time"

@@ -12,7 +12,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[obl [advmod примерно] [case Prep] NumCrd [NP-Gen]]'
+  - '[obl [advmod примерно] [case Prep] NumCrd]'
+  - '[obl [advmod приблизительно] [case Prep] NumCrd [NP-Gen]]'
+  - '[obl [advmod приблизительно] [case Prep] NumCrd]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Нужно [csubj приготовить [obj супа [nmod [advmod примерно] [case на] [nummod:gov восемь] порций]]].]'
 references:
   - |
     ""

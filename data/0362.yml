@@ -29,9 +29,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [obj что] [aux бы] [nsubj NP-Nom] [advmod ни] VP-Pst]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [obj Что] [aux бы] [nsubj он] [advmod ни] говорил]'
+  - '[nsubj я] ручаюсь [obl [case за] него].]'
 references:
   - |
     ""

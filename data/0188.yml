@@ -27,7 +27,8 @@ morphology:
   - Cl
   - NP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
@@ -44,9 +45,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case на] [det PronPers-Loc] месте] Cl [aux бы]]'
+  - '[root [obl [case на] месте [det NP-Gen]] Cl [aux бы]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case на] [det его] месте] [nsubj я] [aux бы] поступила [obl [case в] [amod другой] университет]]'
 references:
   - |
     ""

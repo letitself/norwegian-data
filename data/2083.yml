@@ -15,9 +15,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Light Verb Construction
-  - Verb + Object
-  - Argument Structure
+  - Light Verb Construction, Verb
+  - Object, Argument Structure
 part_of_speech_of_anchor:
   - Verb
   - Noun
@@ -30,9 +29,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root просить-1.Prs [obj прощения] [obl [case за] NP-Acc]]'
+  - '[root просить-1.Prs [obj прощения] [obl [case за] то, [acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Прошу [obj прощения] [obl [case за] опоздание].]'
 references:
   - |
     ""

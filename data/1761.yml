@@ -9,8 +9,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
-  - Connection Construction
+  - Matrix
+  - Sentential Complement Construction, Connection Construction
 syntactic_function_of_anchor:
   - Praedicative Expression
   - Coordinator
@@ -29,9 +29,12 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj дело] [advmod не] [case в] том'
+  - '[acl Cl [conj [cc или] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дело] [advmod не] [case в] том'
+  - '[acl богатые [nsubj мы] [conj [cc или] бедные]].]\n[root [nsubj Дело] [advmod не] [case в] том'
+  - '[acl [obl [case во] что] [nsubj я] верю [conj [cc или] [advmod не] верю]].]'
 references:
   - |
     ""

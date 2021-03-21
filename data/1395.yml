@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] деле]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [case в] деле.]'
 references:
   - |
     ""

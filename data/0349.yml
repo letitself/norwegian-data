@@ -29,9 +29,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root хорошо [cop Cop] [aux бы] [iobj NP-Dat] [csubj VP-Inf]]'
+  - '[root хорошо [cop Cop] [aux бы] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Хорошо [aux бы] [csubj покурить].]'
 references:
   - |
     ""

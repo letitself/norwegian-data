@@ -23,9 +23,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root потрудиться-Imp [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Потрудись [xcomp ответить [obl [case на] [det мой] вопрос]].]'
 references:
   - |
     ""

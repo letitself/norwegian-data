@@ -23,9 +23,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [iobj себе] [xcomp VP]]'
+  - '[root VP [iobj себе] [conj [cc и] VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] стою [iobj себе] [xcomp думаю].]'
 references:
   - |
     ""

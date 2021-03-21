@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj PronPers-Nom] [aux бы] [advmod лучше] VP-Pst]'
+  - '[root [nsubj PronPers-Nom] [aux бы] VP-Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ты] [aux бы] [advmod лучше] надел [obj шапку]'
+  - '[parataxis холодно [obl [case на] улице]].]'
 references:
   - |
     ""

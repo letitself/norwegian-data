@@ -13,7 +13,8 @@ morphology:
   - Gen
   - Pl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +28,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep Noun [nmod [case из] Noun-Gen.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Сейчас] покажу [iobj вам] [obj чудо [nmod [case из] чудес]]'
+  - '[appos [det мой] [amod новый] фотоаппарат]!]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

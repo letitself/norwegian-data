@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod несмотря [obl [advmod ни] [case на] что]]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] добьюсь [obj своего]'
+  - '[advmod несмотря [obl [advmod ни] [case на] что]].]'
 references:
   - |
     ""

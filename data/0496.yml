@@ -12,7 +12,8 @@ morphology:
   - Pl
   - NumCrd
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep NP-Gen.Pl [nummod NumCrd]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] лекцию] пришли [nsubj человек [nummod:gov двадцать]].]'
 references:
   - |
     ""

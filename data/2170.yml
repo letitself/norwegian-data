@@ -16,7 +16,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb + Object
+  - Verb
+  - Object
 part_of_speech_of_anchor:
   - Pronoun
   - Verb
@@ -26,9 +27,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obj что] [nsubj NP-Nom] натворить!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Что] [nsubj они] [advmod там] натворили!]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

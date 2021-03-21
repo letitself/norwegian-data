@@ -10,7 +10,8 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +24,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod [advmod вкупе] [case с] NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Сижу [parataxis изучаю] [obj расписание [nmod электричек]] [advmod вкупе [obl [case с] картой [nmod Подмосковья]]].]'
 references:
   - |
     ""

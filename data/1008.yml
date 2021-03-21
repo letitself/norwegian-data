@@ -29,9 +29,11 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] [advmod ещё] [obl раз] VP-Fut], Cl]'
+  - '[root [advcl [mark если] [advmod только] [advmod ещё] [obl раз] VP-Fut], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [nsubj ты] [advmod ещё] [obl раз] [obj это] сделаешь]'
+  - '[nsubj я] [obl [case с] тобой] перестану [xcomp разговаривать].]'
 references:
   - |
     ""

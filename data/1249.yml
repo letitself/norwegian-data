@@ -40,10 +40,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root по-VP-Past [parataxis и [fixed хватит]]]'
-  - '[root погуляли [parataxis и [fixed хватит]]]'
+  - '[root поVP-Ipfv.Pst [conj [cc и] хватит]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Погуляли [conj [cc и] хватит].]'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие веселое, непринужденное времяпрепровождение, развлечения; глаголы речи; глаголы, обозначающие негативные эмоциональные переживания.'
 references:

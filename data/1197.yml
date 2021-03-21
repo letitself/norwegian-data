@@ -25,9 +25,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [advmod не] [advmod совсем] XP, [conj [parataxis скорее], XP]]'
+  - '[dep [advmod не] [advmod совсем] XP, [conj [cc а] [parataxis скорее], XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] [advmod совсем] друг'
+  - '[conj [parataxis скорее]'
+  - 'приятель].]'
 references:
   - |
     ""

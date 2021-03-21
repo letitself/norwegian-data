@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc и] [nsubj что] [advmod теперь], Cl?]'
+  - '[root [nsubj что] [advmod теперь], Cl?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc И] [nsubj что] [advmod теперь]'
+  - '[obl [advmod обратно] [case в] общежитие] возвращаться?]'
 references:
   - |
     ""

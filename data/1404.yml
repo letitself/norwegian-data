@@ -1,15 +1,28 @@
 ---
 record: 1404
-name: 'у NP-Gen в распоряжении Cop NP-Nom'
-UD_name: 'у NP-Gen в распоряжении Cop NP-Nom'
+name: 'у NP-Gen в распоряжении Cop/VP NP-Nom'
+UD_name: 'у NP-Gen в распоряжении Cop/VP NP-Nom'
 illustration: 'У нас в распоряжении два часа.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor контролирует [объект]Theme, имеет власть над ним. В качестве [объекта]Theme могут выступать [конкретные предметы]Theme (пример 1), [абстрактные сущности]Theme (примеры 2, 3, 4) и [люди]Participant (пример 5). Участник имеет право распоряжаться объектом по своему усмотрению: изменять, перемещать, уничтожать и т.д. Конструкция часто употребляется для указания на временные промежутки (пример 2).
 examples:
+  - |
+       'В распоряжении [участников проекта]Possessor ― [более 75 тысяч фотографий]Theme.'
+  - |
+       'У [вас]Possessor [оказалась]Action целая [ночь]Theme в распоряжении, поэтому ничего удивительного, что утром при обыске уже ничего не нашли.'
+  - |
+       'Все [резервы]Theme также [оказались]Action в распоряжении [генерала]Possessor Иванова.'
+  - |
+       'Однако, у [исследователей]Possessor [нет]Action в распоряжении [источников]Theme, позволяющих определить точное место выступления Минина.'
+  - |
+       'Нужно работать с теми исполнителями, [которые]Participant уже [имеются]Action в распоряжении.'
 morphology:
   - NP
   - Gen
   - Cop
+  - VP
   - Nom
 syntactic_type_of_construction:
   - Copula Construction
@@ -21,14 +34,16 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Possessor
+  - Theme
+  - Participant
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [case в] распоряжении [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] нас] [case в] распоряжении [nsubj [nummod:gov два] часа].]'
 references:
   - |
     ""
@@ -39,4 +54,4 @@ semantic_types:
       - type: Availability
 family:
   - |
-    ""
+    "Possession Object is Possessed"

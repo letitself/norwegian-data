@@ -31,9 +31,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod как] [obj PronPers-Acc] [obl [case по] NP-Dat] звать?]'
+  - '[root как [orphan PronPers-Acc] [cop Cop] [orphan [case по] NP-Dat]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Как [orphan вас] [orphan [case по] отчеству]? [appos Сергеевич]?]'
 references:
   - |
     ""

@@ -27,9 +27,10 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod как] [expl это] [nsubj NP-Nom] [obl сам] [advmod не] VP-Pst]'
+  - '[root [advmod как] [expl это] [nsubj NP-Nom] [advmod не] VP-Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как] [expl это] [nsubj мы] [obl сами] [advmod не] додумались!]'
 references:
   - |
     ""

@@ -12,7 +12,8 @@ morphology:
   - Prep
   - NumCrd
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +27,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP, [obl NP [case Prep] [nummod NumCrd1-[nmod NumCrd2]]]]'
+  - '[root VP, [obl NP [nummod NumCrd1-[nmod NumCrd2]]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod немного] опаздываю'
+  - '[conj буду] [obl минут [case через] [nummod:gov пять- [nmod десять]]].]'
 references:
   - |
     ""

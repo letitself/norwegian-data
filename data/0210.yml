@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep [advmod не] Noun'
+  - '[conj [cc а] Noun-ище]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это] [cop было] [advmod не] болото'
+  - '[conj [cc а] болотище].]'
 references:
   - |
     ""

@@ -22,9 +22,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[advcl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] сообщил [iobj другу] [obj номер [nmod поезда]]'
+  - '[advcl [mark чтобы] [nsubj он] [obj меня] встретил].]'
 references:
   - |
     ""

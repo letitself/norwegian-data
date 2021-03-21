@@ -9,7 +9,8 @@ examples:
 morphology:
   - XP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Argument
 syntactic_structure_of_anchor:
@@ -24,9 +25,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root XP [conj [cc и] [obl тому] подобное]]'
+  - '[root XP [conj [cc и] [obl т.] п.]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] прочитал [obj [nummod:gov несколько] [amod дурацких] [amod бульварных] книжек'
+  - '[acl:relcl [nsubj которые] [advmod только] начали [xcomp выходить]]: [appos [det всякие] «Антикиллеры» [conj [cc и] [obl тому] подобное]]].]'
 references:
   - |
     ""

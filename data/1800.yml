@@ -32,9 +32,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[advmod Adv-овато]'
+  - '[advmod Adv-евато]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case После] переезда] [obl [case в] доме] [aux:pass было] пустовато.]'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."

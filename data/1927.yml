@@ -23,14 +23,19 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [det PronPoss] дело'
+  - '[csubj XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [det Твоё] дело'
+  - '[csubj прогуливать [obj занятия] [conj [cc или] нет]].]'
 references:
   - |
     ""
 semantic_types:
+  - type: Concession
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
 family:
   - |
-    ""
+    "Forced agreement"

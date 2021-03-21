@@ -9,7 +9,8 @@ examples:
 morphology:
   - NumCrd
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Argument
 syntactic_structure_of_anchor:
@@ -22,9 +23,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep рублей [nummod NumCrd]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] Маши] было [nsubj рублей [nummod:gov сто]] [obl [case на] книги].]'
 references:
   - |
     ""

@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] пере-Verb-ся [iobj NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Они] перекидываются [iobj шутками].]'
 references:
   - |
     ""

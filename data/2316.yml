@@ -30,9 +30,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ну], VP-Pst, [parataxis [obl [case с] кем] [advmod не] бывает]]'
+  - '[root VP-Pst, [parataxis [obl [case с] кем] [advmod не] бывает]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [discourse Ну] сказал [obj глупость]'
+  - '[parataxis [obl [case с] кем] [advmod не] бывает]!]'
 references:
   - |
     ""

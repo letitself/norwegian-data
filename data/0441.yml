@@ -25,9 +25,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP, [nmod [obl [case в] [det том] числе] [advmod и] NP]]'
+  - '[dep NP, [nmod [obl [case в] [det том] числе] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Живые] существа'
+  - '[nmod [obl [case в] [det том] числе] [advmod и] растения]]'
+  - 'пьют [obj воду].]'
 references:
   - |
     ""

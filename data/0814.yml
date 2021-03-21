@@ -23,7 +23,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -41,9 +42,9 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] свете [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] свете [nmod [amod приближающихся] выборов]] [nsubj партии] оживили [obj [det свою] работу].]'
 references:
   - |
     ""

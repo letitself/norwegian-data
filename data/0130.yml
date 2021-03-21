@@ -5,7 +5,19 @@ UD_name: 'NP-Nom за-V VP-Perf.Inf'
 illustration: 'Я зашел поговорить.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации ненадолго, прервав основной путь, посетил кого-либо или что-либо с какой-то определенной [целью]Goal. Говорящий представляет цель [посещения]Goal как незначимую по сравнению с конечной целью своего пути. за-Verb заехать, забежать, зайти только три глагола здесь возможны заскочить
+  - english: |
+       This construction means that someone visits someone or somewhere because of a particular [errand]goal, e.g. поговорить ‘have a little talk’. The construction is used specifically about short visits and can often be translated as ‘drop by to [do something]Goal. Note that the particular [errand]Goal involved is expressed with a perfective verb.
+  - norwegian: |
+       Konstruksjonen betyr at noen besøker en person eller et sted for å få gjort et spesfikt [ærend]Goal, f.eks. поговорить ‘slå av en prat’. Besøket er relativt kortvarig, og зайти kan dermed ofte oversettes som ‘stikke innom’. Merk at det relevante [ærendet]Goal uttrykkes vha. et perfektivt verb.
 examples:
+  - |
+       'Маруся зашла [проведать]Goal бабу Машу.'
+  - |
+       'Если Карина зайдет [посидеть]Goal с матерью, то, возможно, у меня будет время сходить за продуктами.'
+  - |
+       'Он вчера заходил [передать]Goal тебе томик Достоевского.'
 morphology:
   - NP
   - Nom
@@ -14,7 +26,8 @@ morphology:
   - Pfv
   - Inf
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Word-Formation
   - Matrix Predicate
@@ -28,9 +41,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] за-Verb [xcomp VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] зашел [xcomp поговорить].]'
 references:
   - |
     ""

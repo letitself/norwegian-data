@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] попасть [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Его] мама] попала [obl [case в] [amod сумасшедший] дом].]'
 references:
   - |
     ""

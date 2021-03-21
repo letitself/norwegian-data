@@ -17,7 +17,8 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Object
 syntactic_structure_of_anchor:
-  - Verb + Object
+  - Verb
+  - Object
 part_of_speech_of_anchor:
   - Particle
   - Verb
@@ -28,9 +29,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod только] дать-Imp [iobj PronPers-Dat] [obj повод]], Cl]'
+  - '[root [advcl дать-Imp [iobj PronPers-Dat] [obj повод]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [iobj Ему] [advmod только] дай [obj повод]]'
+  - '[advmod сразу] придет [xcomp просить].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

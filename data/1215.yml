@@ -43,10 +43,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nmod NP-Dat] можно [nsubj VP-Inf]]'
-  - '[root [nmod мне] можно [nsubj открыть [obj окно]]]'
+  - '[root [iobj NP-Dat] [cop Cop] можно [csubj VP-Inf]]'
+  - '[root [cop Cop] можно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Можно [iobj мне] [csubj открыть [obj окно]]?]'
 references:
   - |
     ""

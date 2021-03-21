@@ -27,9 +27,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case ради] бога], VP-Imp!]'
+  - '[root [parataxis [case ради] [det всего] святого], VP-Imp!]'
+  - '[root [parataxis [case ради] Христа], VP-Imp!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case Ради] бога]'
+  - 'успокойся!]'
 references:
   - |
     ""

@@ -24,7 +24,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
@@ -38,10 +39,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root далеко [obl [case до] NP-Gen]]'
   - '[root далеко [obl [case до] дома]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Ещё] [cop было] далеко [obl [case до] дома].]'
 comment: |
     'Ср. с похожей конструкцией 473 NP-Dat Cop далеко до NP-Gen (Тебе далеко до лучшего работника)'
 references:

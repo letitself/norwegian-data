@@ -11,7 +11,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] процессе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj:pass [det Все] вопросы] [aux:pass будут] решены [obl [case в] процессе [nmod работы]].]'
 references:
   - |
     ""

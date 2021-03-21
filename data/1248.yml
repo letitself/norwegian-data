@@ -42,10 +42,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '[root пoлно [obl Pron-2.Dat] [csubj VP-Inf]]'
-  - '[root пoлно [obl тебе] [csubj плакать]]'
+  - '[root полно [iobj PronPers-2.Dat] [csubj VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Полно [iobj тебе] [csubj плакать]!]'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно; глаголы, обозначающие действия, связанные с негативными эмоциями, жалобами, плохим настроением; глаголы, обозначающие неуместное бездействие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
 references:

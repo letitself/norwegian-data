@@ -23,7 +23,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -38,9 +39,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case по] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case По] состоянию [nmod здоровья]] [nsubj:pass он] [aux:pass был] отпущен [advmod домой].]'
 comment: |
     'Не путать с конструкцией 1297 VP по NP-Dat (По внешнему виду мебели можно подумать, что она переходит из поколения в поколение).'
 references:

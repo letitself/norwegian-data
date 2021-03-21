@@ -25,9 +25,16 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod ладно] XP], [cc но] XP]'
+  - '[root [advcl [advmod ладно] XP], [cc так] XP]'
+  - '[root [advcl [advmod ладно [fixed бы]] XP], [cc но] XP]'
+  - '[root [advcl [advmod ладно] [fixed бы] Cl], [cc но] Cl]'
+  - '[root [advcl [advmod ладно] [fixed бы] Cl], [cc так] Cl]'
+  - '[root [advcl [advmod ладно] Cl], [cc но] Cl]'
+  - '[root [advcl [advmod ладно] Cl], [cc так] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Ладно [fixed бы]] он]'
+  - '[cc но] [nsubj ты]-[advmod то] [obj что] [obl [case в] нем] нашла.]'
 references:
   - |
     ""

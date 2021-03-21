@@ -24,9 +24,17 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis может [xcomp оказаться]], Cl]'
+  - '[root [parataxis могло [xcomp оказаться]], Cl]'
+  - '[root [parataxis может [xcomp статься]], Cl]'
+  - '[root [parataxis могло [xcomp статься]], Cl]'
+  - '[root может [xcomp оказаться], [ccomp [mark что] Cl]]'
+  - '[root могло [xcomp оказаться], [ccomp [mark что] Cl]]'
+  - '[root может [xcomp статься], [ccomp [mark что] Cl]]'
+  - '[root могло [xcomp статься], [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Может [xcomp статься]]'
+  - '[iobj ему] повезёт.]'
 references:
   - |
     ""

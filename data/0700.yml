@@ -11,7 +11,8 @@ morphology:
   - Sconj
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -26,9 +27,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] хотеть-Prs [aux бы] [nsubj PronPers-Nom] [xcomp знать, [ccomp [advmod PronInt] Cl]]]'
+  - '[root [cc а] хотеть-Prs [aux бы] [nsubj PronPers-Nom] [xcomp посмотреть, [ccomp [advmod PronInt] Cl]]]'
+  - '[root [cc а] хотеть-Prs [aux бы] [nsubj PronPers-Nom] [xcomp послушать, [ccomp [advmod PronInt] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] хотел [aux бы] [nsubj я] [xcomp знать'
+  - '[ccomp [advmod почему] [nsubj дети] [advmod ещё] [advmod не] [case в] постели]]!]'
 references:
   - |
     ""

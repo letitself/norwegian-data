@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root иметь-Imp [obl [case в] виду]'
+  - '[parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Имей [obl [case в] виду]'
+  - '[parataxis [nsubj я] [xcomp молчать] [advmod не] стану]!]'
 references:
   - |
     ""

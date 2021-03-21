@@ -22,9 +22,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc и] [advmod [obl тем] более] Cl]]'
+  - '[root Cl, [conj [cc а] [advmod [obl тем] более] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod не] имеет [obj права [nmod голосовать'
+  - '[conj [cc и] [advmod [obl тем] более] становиться [xcomp руководителем]]]].]'
 references:
   - |
     ""

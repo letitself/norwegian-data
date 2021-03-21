@@ -3,16 +3,31 @@ record: 2211
 name: 'Adj на Noun-Acc.Sg'
 UD_name: 'Adj на N-Acc.Sing'
 illustration: 'Приятный на вкус'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция дает [оценочную характеристику]Evaluation воспринимаемого объекта и передаёт [способ восприятия]Parameter (на слух, на ощупь, на вид и пр.)
+  - english: |
+       The construction gives an [evaluation]Evaluation of some percieved object, as well as the [means of perception]Parameter (by ear, touch, taste, etc.)
 examples:
+  - |
+       'Гранат - это [хрупкое и изящное]Evaluation на [вид]Parameter  растение.'
+  - |
+       'Бельё после глажки мягче и [приятнее]Evaluation на [ощупь.]Parameter'
+  - |
+       'Песни, звучащие в этом кино, [приятны]Evaluation на  [слух]Parameter и отлично подходят к сюжету, словно дополняя его.'
+  - |
+       'Ваниль довольно [горькая]Evaluation на [вкус]Parameter, поэтому вопрос дозировки этой пряности крайне важен.'
+  - |
+       'Упоминания о полотенце есть и в Библии. Правда, только в XVIII веке оно стало таким, каким мы его любим: [мягким и приятным]Evaluation на [ощупь]Parameter.'
 morphology:
   - Adj
   - Noun
   - Acc
   - Sg
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -20,14 +35,15 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Evaluation
+  - Parameter
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[amod Adj [obl [case на] Noun-Acc.Sg]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[amod Приятный [obl [case на] вкус]]'
 references:
   - |
     ""

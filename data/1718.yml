@@ -23,9 +23,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [advmod там, [advcl [advmod PronInt] Cl]]]'
+  - '[root Cl [advmod туда, [advcl [advmod PronInt] Cl]]]'
+  - '[root Cl [advmod оттуда, [advcl [advmod PronInt] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] попали [advmod туда'
+  - '[advcl [advmod где] [advmod раньше] [advmod не] были]].]'
 references:
   - |
     ""

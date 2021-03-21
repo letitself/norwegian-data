@@ -3,8 +3,10 @@ record: 1615
 name: 'Cl, а между/меж тем Cl'
 UD_name: 'Cl, а между/меж тем Cl'
 illustration: 'Они погрузились в работу, а между тем чай совсем остыл.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что на фоне некоторой [ситуации]Situation совершается [действие]Activity или [событие]Event.
 examples:
 morphology:
   - Cl
@@ -24,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а] [obl [case между] тем] Cl]]'
+  - '[root Cl, [conj [cc а] [obl [case меж] тем] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Они] погрузились [obl [case в] работу]'
+  - '[conj [cc а] [obl [case между] тем] [nsubj чай] [advmod совсем] остыл].]'
 references:
   - |
     ""
@@ -36,4 +40,4 @@ semantic_types:
       - type: Simultaneous action
 family:
   - |
-    ""
+    "Simultaneity"

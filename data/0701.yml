@@ -35,9 +35,13 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а] [obj чего [advmod же] [advmod ещё]] [nsubj PronPers-Nom] ждать-Pst]?]'
+  - '[root Cl, [conj [cc а] [obj чего [advmod же] [amod другого]] [nsubj PronPers-Nom] ждать-Pst]?]'
+  - '[root Cl, [conj [cc а] [obj чего [advmod же]] [nsubj PronPers-Nom] ждать-Pst]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Конечно]'
+  - '[nsubj она] ушла'
+  - '[conj [cc а] [obj чего [advmod же]] [nsubj ты] ждала]?]'
 references:
   - |
     ""

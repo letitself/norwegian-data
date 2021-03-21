@@ -37,9 +37,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case для] того, [acl [mark чтобы] Cl]]]'
+  - '[obl [case для] того, [acl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod долго] обсуждали [obl [case с] ним] [obj план] [obl [case для] того'
+  - '[acl [mark чтобы] [advmod не] возникло] [nsubj проблем]].]'
 references:
   - |
     ""

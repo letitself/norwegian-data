@@ -27,9 +27,14 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod только] [aux бы] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]'
+  - '[root [advmod лишь] [aux бы] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]'
+  - '[root [advmod хоть] [aux бы] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]'
+  - '[root [advmod только] [aux бы] [advmod не] VP-Pfv.Inf]'
+  - '[root [advmod лишь] [aux бы] [advmod не] VP-Pfv.Inf]'
+  - '[root [advmod хоть] [aux бы] [advmod не] VP-Pfv.Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Только] [aux бы] [iobj мне] [advmod не] опоздать.]'
 references:
   - |
     ""

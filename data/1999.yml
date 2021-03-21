@@ -3,8 +3,12 @@ record: 1999
 name: 'NP-Nom узнать о NP-Loc из NP-Gen'
 UD_name: 'NP-Nom узнать о NP-Loc из NP-Gen'
 illustration: 'Маша узнала о победителе конкурса из газет.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Experiencer получил информацию о другом [участнике]Participant или [объекте]Theme благодаря определенному [источнику]Source. Источником являются письменные, видео- и аудио-материалы (примеры 1, 2).
+  - english: |
+       Источником знаний может быть также опыт человека, приобретенный за время учебы, работы или деятельности иного рода (примеры 3, 4). Опыт может быть обозначен через наименование места, в котором он был приобретен (примеры 4, 5).
 examples:
 morphology:
   - NP
@@ -26,9 +30,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] узнать [obl [case о] NP-Loc] [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Маша] узнала [obl [case о] победителе [nmod конкурса]] [obl [case из] газет].]'
+comment: |
+    'См. близкую конструкцию 132 NP-Nom знать NP-Acc по NP-Dat (Он знал актера по фильмам).'
 references:
   - |
     ""

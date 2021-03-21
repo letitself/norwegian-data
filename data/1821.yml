@@ -13,8 +13,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Clause
-  - Matrix + Infinitival Complement Construction
+  - Clause, Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
   - Discourse Particle
@@ -29,9 +29,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root хотеть-Pst [aux бы] [nsubj NP-Nom] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Хотела [aux бы] [nsubj я] [xcomp уйти [obl [case с] [det этой] работы]].]'
 references:
   - |
     ""

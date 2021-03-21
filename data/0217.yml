@@ -23,7 +23,8 @@ examples:
 morphology:
   - PronInt
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -36,10 +37,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '[root [advmod незнамо [fixed PronInt]] Cl]'
-  - '[root [advmod незнамо [fixed как]] [nsubj я] вернулся [obl домой]]'
+  - '[root [dep [advcl незнамо] PronInt]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod [advcl Незнамо] как] [nsubj я] вернулся [advmod домой].]'
 comment: |
     'См. близкие конструкции 35 бог весть PronInt (Они принесли в пакете бог весть что), 216 невесть PronInt (Невесть откуда он пришел вчера).'
 references:

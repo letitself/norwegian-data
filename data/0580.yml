@@ -28,9 +28,17 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc а] [nsubj NP-Nom] [advmod вдруг] Verb-Bare [obl PP]]'
+  - '[root [nsubj NP-Nom] [advmod вдруг] Verb-Bare [obl PP]]'
+  - '[root [cc а] [nsubj NP-Nom] [advmod как] Verb-Bare [obl PP]]'
+  - '[root [nsubj NP-Nom] [advmod как] Verb-Bare [obl PP]]'
+  - '[root [cc а] [nsubj NP-Nom] [advmod вдруг] Verb-Bare [advmod Adv]]'
+  - '[root [nsubj NP-Nom] [advmod вдруг] Verb-Bare [advmod Adv]]'
+  - '[root [cc а] [nsubj NP-Nom] [advmod как] Verb-Bare [advmod Adv]]'
+  - '[root [nsubj NP-Nom] [advmod как] Verb-Bare [advmod Adv]]'
+  - '[root [nsubj NP-Nom] Verb-Bare]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ребенок] [advmod вдруг] хлоп [obl [case об] землю]!]'
 references:
   - |
     ""

@@ -3,16 +3,29 @@ record: 1267
 name: 'PronPers-Pl с NP-Ins'
 UD_name: 'PronPers-Plur с NP-Ins'
 illustration: 'Нам с Машей это не нравится.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated. Слот PronPers-Pl обозначает всех участников действия ("мы с коллегой" значит "я и коллега", "нас с Мезиным" значит "меня и Мезина", "они с мужем" значит "жена и муж").
 examples:
+  - |
+       '[Зашли]Action [мы]Participant с [коллегой]Assosiated летним вечером выпить пива.'
+  - |
+       '[Учились]Action [мы]Participant с [Костей]Assosiated вместе в колледже.'
+  - |
+       'Однажды на Новый год [мы]Participant с [друзьями]Assosiated [поехали]Action кататься на лыжах в Финляндию.'
+  - |
+       'Через некоторое время она [посадила]Action [нас]Participant с [Мезиным]Assosiated за одну парту.'
+  - |
+       'Маша копила много лет на свое жилье после того, как [они]Participant с [мужем]Associated [разошлись]Action, воспитав детей, продали дом, разделив деньги между детьми.'
 morphology:
   - PronPers
   - Pl
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -20,14 +33,16 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Participant
+  - Assosiated
 intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep PronPers-Pl [nmod [case с] NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Нам [nmod [case с] Машей]] [nsubj это] [advmod не] нравится.]'
 references:
   - |
     ""
@@ -35,4 +50,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    ""
+    "Collective agent"

@@ -28,9 +28,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [mark как] видеть-Prs.2]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [mark Как] видите]'
+  - '[obl [case от] учёбы] [advmod ещё] [nsubj никто] [advmod не] пострадал.]'
 references:
   - |
     ""

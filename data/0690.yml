@@ -24,9 +24,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а] [advmod скорее [obl всего]] – Cl]]'
+  - '[root Cl, [conj [cc но] [advmod скорее [obl всего]] – Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] собирался [xcomp пойти] [obl [case в] театр]'
+  - '[conj [cc а] [advmod скорее [obl всего]] – просидит [advmod дома]].]'
 references:
   - |
     ""

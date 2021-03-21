@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root что [expl это] [cop Cop] [nsubj [case за] NP-Nom]!]'
+  - '[root что [cop Cop] [nsubj [case за] NP-Nom]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Что [nsubj [case за] бред]!]'
 references:
   - |
     ""

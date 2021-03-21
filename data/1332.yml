@@ -12,8 +12,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Predicate Argument Construction
-  - Matrix + Infinitival Complement Construction
+  - Predicate Argument Construction, Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -27,9 +27,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] иметь [obj свойство] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Память] имеет [obj свойство] [xcomp стирать [obj [amod неприятные] воспоминания]].]'
 references:
   - |
     ""

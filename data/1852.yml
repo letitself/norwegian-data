@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] [nummod NumCrd-Nom] лет]'
+  - '[root [iobj NP-Dat] [cop Cop] [nummod NumCrd-Nom] месяцев]'
+  - '[root [iobj NP-Dat] [cop Cop] [nummod NumCrd-Nom] дней]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] [nummod:gov двадцать] лет.]'
 references:
   - |
     ""

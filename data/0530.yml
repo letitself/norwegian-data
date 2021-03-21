@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root на-Verb-ся [iobj NP-Ins]]'
+  - '[root на-Verb-ся]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Земля] напиталась [iobj водой].]'
 references:
   - |
     ""

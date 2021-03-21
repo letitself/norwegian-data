@@ -26,9 +26,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod как] скажешь]'
+  - '[advmod так] [advmod и] Verb-Fut]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Как] скажешь]'
+  - '[advmod так] [advmod и] будет!]'
 references:
   - |
     ""

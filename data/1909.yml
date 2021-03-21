@@ -12,7 +12,8 @@ morphology:
   - NP
   - Sg
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case Prep] [det каждый] NP-Sg]]'
+  - '[root VP [obl [det каждый] NP-Sg]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] останавливался [obl [case у] [det каждой] картины [nmod [case в] [det этом] зале]].]'
 references:
   - |
     ""

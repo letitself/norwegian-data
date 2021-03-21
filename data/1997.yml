@@ -3,8 +3,10 @@ record: 1997
 name: '(насколько/как) (мне) помнится, Cl'
 UD_name: '(насколько/как) (мне) помнится, Cl'
 illustration: 'Мы, как мне помнится, в детстве часто кормили птиц.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает [источник]Source сообщаемой [информации]Content.
 examples:
 morphology:
   - Cl
@@ -25,9 +27,16 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [mark насколько] [iobj мне] помнится], Cl]'
+  - '[root [parataxis [mark как] [iobj мне] помнится], Cl]'
+  - '[root [parataxis [iobj мне] помнится], Cl]'
+  - '[root [parataxis [mark насколько] помнится], Cl]'
+  - '[root [parataxis [mark как] помнится], Cl]'
+  - '[root [parataxis помнится], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы]'
+  - '[parataxis [mark как] [iobj мне] помнится]'
+  - '[obl [case в] детстве] [advmod часто] кормили [obj птиц].]'
 references:
   - |
     ""

@@ -22,9 +22,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advmod никак] VP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod никак] стал [xcomp врачом]?]'
 references:
   - |
     ""

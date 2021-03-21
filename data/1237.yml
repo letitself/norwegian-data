@@ -27,9 +27,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [advmod не] повредило [aux бы] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Тебе] [advmod не] повредило [aux бы] [csubj думать'
+  - '[advmod прежде [advcl [mark чем] говорить]]].]'
 references:
   - |
     ""

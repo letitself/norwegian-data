@@ -25,7 +25,8 @@ morphology:
   - NumCrd
   - Loc
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -43,9 +44,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl [case в] [nummod NumCrd-Loc] шагах]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Магазин] [advmod тут] [case в] [nummod трех] шагах.]'
 references:
   - |
     ""

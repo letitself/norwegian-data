@@ -28,9 +28,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod нисколько] [advmod не] Adj-Cmp [obl NP-Gen]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod нисколько] [advmod не] Adj-Cmp [obl [case чем] NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Этот] холодильник] [advmod нисколько] [advmod не] хуже [obl других].]'
 references:
   - |
     ""

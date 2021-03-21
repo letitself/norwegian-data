@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case в] заключение]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case В] заключение] [nsubj я] хочу [xcomp поблагодарить [obj президента [nmod Узбекистана]]].]'
 references:
   - |
     ""

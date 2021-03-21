@@ -23,7 +23,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -38,9 +39,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] обстановке [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Собрание] проходит [obl [case в] обстановке [nmod [amod строгой] секретности]].]'
 comment: |
     'От конструкции 51 "в условиях NP-Gen Cl" (В условиях подъёма экономики России выросла роль временных миграций.) отличается тем, что описывает влияние, обусловленное эмоциями и социальными взаимодействиями, тогда как "в условиях NP-Gen Cl" — фактическое или физическое влияние.'
 references:

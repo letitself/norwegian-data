@@ -27,9 +27,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dislocated Noun-Nom] [nsubj PronPers-3.Nom] [advmod и] [cop есть] Noun-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [dislocated Мужик] [nsubj он] [advmod и] [cop есть] мужик.]'
 references:
   - |
     ""

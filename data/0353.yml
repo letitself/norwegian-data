@@ -41,9 +41,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod чего [expl это]] [nsubj NP-Nom] VP?]'
+  - '[root [advmod чего] [nsubj NP-Nom] VP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Чего] лежишь?]'
 comment: |
     'См. близкую конструкцию  366.'
 references:

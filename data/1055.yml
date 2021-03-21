@@ -29,9 +29,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc и] [advmod зачем] [aux бы] [nsubj NP-Nom] стать-Pst [xcomp Verb-Inf]?]'
+  - '[root [advmod зачем] [aux бы] [nsubj NP-Nom] стать-Pst [xcomp Verb-Inf]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc И] [advmod зачем] [aux бы] [nsubj Вася] стал [xcomp петь]?]'
 references:
   - |
     ""

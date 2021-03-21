@@ -6,7 +6,7 @@ illustration: 'Живут же некоторые!'
 cefr_level: 
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий выражает некоторую зависть, ревность [тому]Theme/ [тем]Theme, кто добился определенных [успехов]Event, [удачлив]Event или [счастлив]Event.
+       Конструкция выражает некоторую зависть говорящего по отношению к другому участнику, который добился определенных [успехов]Event, [удачлив]Event или [счастлив]Event.
 examples:
   - |
        '[ [Жили]Event [же]же [люди]Theme ]VP_же_NP! когда-то! Жили спокойно и счастливо. Ни тебе проводных телефонов, ни тебе мобильных телефонов.'
@@ -28,9 +28,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [advmod же] [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Живут [advmod же] [nsubj некоторые]!]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

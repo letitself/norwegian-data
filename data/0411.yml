@@ -28,14 +28,19 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [parataxis [advcl нет] [mark так] нет]]'
+  - '[root Cl, [conj [cc но] [advcl нет] [mark так] нет]]'
+  - '[root Cl, [conj [discourse ну] [advcl нет] [mark так] нет]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ты] [advmod не] поедешь?]\n[root [advcl Нет] [mark так] нет.]'
 references:
   - |
     ""
 semantic_types:
+  - type: Concession
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
 family:
   - |
-    ""
+    "Forced agreement"

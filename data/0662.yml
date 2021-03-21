@@ -10,7 +10,8 @@ morphology:
   - XP
   - Cl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:
@@ -24,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root XP-[advmod таки], [conj [cc а] Cl]!]'
+  - '[root XP-[advmod таки]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Пришёл-[advmod таки]'
+  - '[conj [cc а] [nsubj мы] [advmod уже] [advmod и] [advmod не] ждали]!]'
 references:
   - |
     ""

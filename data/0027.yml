@@ -43,9 +43,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj это] [obl [case в] [amod первую] очередь] NP-Nom]'
+  - '[root [nsubj NP-Nom] [expl это] [obl [case в] [amod первую] очередь] NP-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это] [amod [case в] первую] [obl очередь] [det его] заслуга.]'
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:

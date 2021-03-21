@@ -9,7 +9,8 @@ examples:
 morphology:
   - XP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:
@@ -22,9 +23,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[dep [advmod прямо] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod прямо] удивилась [iobj [det такой] реакции].]'
 references:
   - |
     ""

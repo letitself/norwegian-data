@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[parataxis [cop будь] [nsubj то] NP [conj [cc или] NP]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Эта] статья] пригодится [iobj [det каждому] специалисту]'
+  - '[parataxis [cop будь] [nsubj то] врач [conj [cc или] биофизик]].]'
 references:
   - |
     ""

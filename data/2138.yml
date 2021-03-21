@@ -14,7 +14,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Adjective
   - Noun
@@ -25,9 +26,13 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root ясен [nsubj перец], [parataxis Cl]]'
+  - '[root ясен [nsubj пень], [parataxis Cl]]'
+  - '[root ясен [nsubj перец], [ccomp [mark что] Cl]]'
+  - '[root ясен [nsubj пень], [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Ясен [nsubj перец]'
+  - '[parataxis [nsubj ничего [nmod хорошего]] [obj нас] [advmod не] ждёт].]'
 references:
   - |
     ""

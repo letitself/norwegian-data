@@ -23,9 +23,22 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc но] [advcl [mark если] серьёзно], [mark то] Cl]'
+  - '[root [cc а] [advcl [mark если] серьёзно], [mark то] Cl]'
+  - '[root [mark если] серьёзно], [mark то] Cl]'
+  - '[root [cc но], [advcl [mark если] откровенно], [mark то] Cl]'
+  - '[root [cc а], [advcl [mark если] откровенно], [mark то] Cl]'
+  - '[root [mark если] откровенно], [mark то] Cl]'
+  - '[root [cc но] [advcl [mark если] серьёзно], Cl]'
+  - '[root [cc а] [advcl [mark если] серьёзно], Cl]'
+  - '[root [mark если] серьёзно], Cl]'
+  - '[root [cc но], [advcl [mark если] откровенно], Cl]'
+  - '[root [cc а], [advcl [mark если] откровенно], Cl]'
+  - '[root [mark если] откровенно], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Но]'
+  - '[advcl [mark если] серьёзно]'
+  - '[mark то] [nsubj я] [amod [advmod очень] семейный] человек.]'
 references:
   - |
     ""

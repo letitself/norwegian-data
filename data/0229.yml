@@ -42,10 +42,12 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl [advmod ни] капли [nmod NP-Gen]] нет]'
-  - '[root [obl [advmod ни] капли [nmod сострадания]] [obl [case к] ней] нет]'
+  - '[root [obl [case у] NP-Gen] [nsubj [advmod ни] капли [nmod NP-Gen]] нет]'
+  - '[root [nsubj [advmod ни] капли [nmod NP-Gen]] нет]'
+  - '[root [obl [case у] NP-Gen] [nsubj [advmod ни] капли [nmod NP-Gen]] [advmod не] быть]'
+  - '[root [nsubj [advmod ни] капли [nmod NP-Gen]] [advmod не] быть]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [advmod Ни] капли [nmod сострадания [nmod [case к] ней]]] нет.]'
 comment: |
     'В данном случае слово "нет" – это экзистенциальный глагол, а не связочный, в прошедшем времени он заменяется на "не было", а в будущем на "не будет".'
 references:

@@ -22,9 +22,9 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [dep что [det такое]] VP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl Чем [det таким]] заняться [iobj вечером]?]'
 references:
   - |
     ""

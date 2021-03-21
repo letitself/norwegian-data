@@ -12,7 +12,8 @@ morphology:
   - Gen
   - Pl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +27,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP] один [nmod [case из] Adj-Gen.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Этот] фильм] один [nmod [case из] лучших [obl [case у] Спилберга]].]'
 references:
   - |
     ""

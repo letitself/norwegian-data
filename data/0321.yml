@@ -26,14 +26,17 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod так] [nsubj NP-Nom] [iobj PronPers-Dat] [advmod и] VP!]'
+  - '[root [advmod так] [nsubj NP-Nom] [advmod и] VP!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Так] [nsubj я] [iobj тебе] [advmod и] поверила!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     ""

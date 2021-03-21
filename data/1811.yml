@@ -28,9 +28,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc и] [advmod только] [advmod не] говори [advmod потом], [ccomp [mark что] Cl]]'
+  - '[root [cc и] [advmod не] говори [advmod потом], [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc И] [advmod не] говори [advmod потом]'
+  - '[ccomp [mark что] [nsubj я] [obj тебя] [advmod не] предупреждала]!]'
 references:
   - |
     ""

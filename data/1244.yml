@@ -40,9 +40,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [advmod не] нужно [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] надо [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] нужно [csubj опекать [obj детей] [obl [case до] безрассудства]].]'
 comment: |
     'См. близкие по значению конструкции NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам), NP-Dat не подобает VP-Inf (Не подобает московскому царю кланяться польскому королю), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
 references:

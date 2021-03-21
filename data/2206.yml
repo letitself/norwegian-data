@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] давить [obl [case на] NP-Acc]]'
+  - '[root [nsubj NP-Nom] надавить [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Оратор] давил [obl [case на] чувства].]'
 references:
   - |
     ""

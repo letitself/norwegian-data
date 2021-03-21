@@ -28,9 +28,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root держать-Imp [obj NP-Acc] [advmod подальше] [obl [case от] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Держите [obj детей] [advmod подальше] [obl [case от] обрыва].]'
 references:
   - |
     ""

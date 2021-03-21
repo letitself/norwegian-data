@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] пользоваться [iobj услугами [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [obj детей] не [obl [case с] кем] [csubj оставить]]'
+  - '[nsubj мама] может [xcomp воспользоваться [iobj услугами [nmod няни]]].]'
 references:
   - |
     ""

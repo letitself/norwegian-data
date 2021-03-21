@@ -40,9 +40,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obj NP-Acc] [obl [case под] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Однако] [obl [case после] революции] [nsubj они] переделали [obj церковь] [obl [case под] склад].]'
 references:
   - |
     "A related construction NP-Acc под NP-Acc is termed "the prospective construction" of the preposition pod in the article Kuznetsova, Plungian, Rakhilina. 2013. "Time as secondary to space: Russian pod ‘under’and iz-pod ‘from-under’in temporal constructions". Russian Linguistics 37 (3), Special Issue: Time and Space in Russian Temporal Expressions, 293-316. See pp. 305-307."

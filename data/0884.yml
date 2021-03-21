@@ -26,14 +26,17 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] [nsubj NP-Nom] [obl [case к] чему] клонить]'
+  - '[root [advmod вот] [nsubj NP-Nom] [case к] чему]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] [nsubj ты] [obl [case к] чему] клонишь...]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Insight?
 family:
   - |
     ""

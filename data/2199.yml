@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod как] [advmod ни] VP-Fut], Cl]'
+  - '[root [advcl [advmod когда] [advmod ни] VP-Fut], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Как] [advmod ни] приду]'
+  - '[nsubj она] [advmod всегда] [case за] компьютером.]'
 references:
   - |
     ""

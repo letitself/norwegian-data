@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] необходимо [csubj VP-Inf]]'
+  - '[root [cop Cop] необходимо [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Тебе] необходимо [csubj прочитать [obj [det эту] книгу]].]'
 references:
   - |
     ""

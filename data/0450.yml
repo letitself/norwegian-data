@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod когда-то] иметь [obj дело] [obl [case с] NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod когда-то] имел [obj дело] [obl [case с] [amod трудными] подростками].]'
 references:
   - |
     ""

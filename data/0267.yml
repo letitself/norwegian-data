@@ -19,7 +19,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Government
 syntactic_structure_of_anchor:
@@ -32,9 +33,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obj [case по] [nummod NumCrd] NP [nmod [case в] NP-Acc]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] сочинял [obj [case по] [nummod:gov несколько] стихотворений [nmod [case в] год]].]'
 references:
   - |
     ""

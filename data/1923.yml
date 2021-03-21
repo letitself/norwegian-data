@@ -42,9 +42,16 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case о] NP-Loc] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] NP-Loc] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [case о] NP-Loc] [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] NP-Loc] [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [case о] NP-Loc] [advmod здесь] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] NP-Loc] [advmod здесь] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
+  - '[root [obl [case о] NP-Loc] [advmod сейчас] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
+  - '[root [obl [case о] NP-Loc] [advmod сейчас] [advmod и] [nsubj речи] [xcomp быть] [advmod не] могло]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case О] присутствии [nmod адвоката]] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может.]'
 comment: |
     'См. конструкции ни о какой-Loc NP-Loc (тут/здесь/сейчас) и речи быть не может (Ни о каких компьютерных играх тут и речи быть не может.), о том, чтобы Cl, (тут/здесь/сейчас) и речи быть не может (О том, чтобы поехать отдыхать, и речи быть не может).'
 references:

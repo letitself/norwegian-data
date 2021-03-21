@@ -14,8 +14,8 @@ morphology:
   - Inf
   - Acc
 syntactic_type_of_construction:
-  - Predicate Argument Construction
-  - Matrix + Infinitival Complement Construction
+  - Predicate Argument Construction, Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
@@ -31,9 +31,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] способный-Short [csubj VP-Inf]]'
+  - '[root [nsubj NP-Nom] [advmod не] способный-Short [csubj VP-Inf]]'
+  - '[root [nsubj NP-Nom] способный-Short [obl [case на] NP-Acc]]'
+  - '[root [nsubj NP-Nom] [advmod не] способный-Short [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] способен [obl [case на] [amod любую] подлость].]'
 references:
   - |
     ""

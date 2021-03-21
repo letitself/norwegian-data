@@ -26,9 +26,17 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] кажется, [ccomp [mark что] Cl]]'
+  - '[root [iobj NP-Dat] казалось, [ccomp [mark что] Cl]]'
+  - '[root [iobj NP-Dat] кажется, [parataxis Cl]]'
+  - '[root [iobj NP-Dat] казалось, [parataxis Cl]]'
+  - '[root кажется, [ccomp [mark что] Cl]]'
+  - '[root казалось, [ccomp [mark что] Cl]]'
+  - '[root кажется, [parataxis Cl]]'
+  - '[root казалось, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] кажется'
+  - '[ccomp [mark что] [nsubj мы] [obl [case с] вами] встречались [advmod раньше]].]'
 references:
   - |
     ""

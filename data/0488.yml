@@ -16,7 +16,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -29,9 +30,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] удалось [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] удавалось [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] удается [csubj VP-Inf]]'
+  - ''
+  - '[root [iobj NP-Dat] удастся [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мише] удалось [csubj покурить].]'
 comment: |
     'NP-Dat удаться-3.Sg/удаваться-3.Sg VP-Inf. Если мы поставим удаваться/удаться, то это не отразит, что на самом деле есть только 4 формы, которые используются. удалось удается удастся удавалось. Если ставить в формуле инфинитивы, как отразить тогда, что это безличное, не берем случаи типа Мише удалась песня. ИТОГО: В формуле оставили самый частотный вариант, а в толковании прописать, что используются 4 формы: удалось, удастся, удавалось, удается.'
 references:

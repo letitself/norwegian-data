@@ -25,9 +25,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [aux будешь] VP-Inf] – Cl]'
+  - '[root [advcl [aux будешь] Adj] – Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [aux Будешь] [advmod хорошо] учиться] – поступишь [obl [case в] университет].]'
 references:
   - |
     ""

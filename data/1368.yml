@@ -9,8 +9,8 @@ examples:
 morphology:
   - Verb
 syntactic_type_of_construction:
-  - Head + Modifier Construction
-  - Morphological Construction
+  - Head
+  - Modifier Construction, Morphological Construction
 syntactic_function_of_anchor:
   - Modifier
   - Word-Formation
@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod пока] по-Verb]'
+  - '[root по-Verb]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [obj его] [advmod пока] понаблюдаем.]'
 references:
   - |
     ""

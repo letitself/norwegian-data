@@ -29,9 +29,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [advmod не] счесть-2.Imp [obl [case за] труд] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] сочтите [obl [case за] труд] [xcomp отправить [obj [det эти] документы]].]'
 references:
   - |
     ""

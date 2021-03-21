@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod не] VP-Pfv.Pst [aux бы] [nsubj NP-Nom]!]'
+  - '[root [advmod не] VP-Pfv.Pst [aux бы]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] опоздал [aux бы] [nsubj он]!]'
 references:
   - |
     ""

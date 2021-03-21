@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [nummod один] Noun] XP, [conj [obl другой] XP]]'
+  - '[root [obl один] XP, [conj [obl другой] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [nummod:gov Один] день] строит'
+  - '[conj [obl другой] ломает].]'
 references:
   - |
     ""

@@ -15,7 +15,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Verb
   - Pronoun
@@ -25,9 +26,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root заниматься-Imp [acl сам] [xcomp [det этот-Ins] Noun-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Занимайтесь [acl сами] [xcomp [det этой] математикой]!]'
 references:
   - |
     ""

@@ -15,7 +15,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb + Object
+  - Verb
+  - Object
 part_of_speech_of_anchor:
   - Verb
   - Pronoun
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [parataxis знать-Prs.2 ] [obj что]'
+  - 'Cl!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Знаете] [obj что]'
+  - '[nsubj я] [advmod больше] [advmod не] хочу [xcomp [obj вас] видеть]!]'
 references:
   - |
     ""

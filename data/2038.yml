@@ -44,9 +44,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [csubj [obl [case к] NumCrd-Dat] прибавить [obj NumCrd-Acc] VP NumCrd]]'
+  - '[root [advcl [mark если] [obl [case к] NumCrd-Dat] прибавить [obj NumCrd-Acc]] VP NumCrd]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [csubj [obl [case К] четырём] прибавить [obj два] [cop будет] шесть.]'
 comment: |
     'См. близкую конструкцию 1856 NumCrd-Nom плюс/и NumCrd-Nom – (равно/равняется/будет/получится/выйдет) NumCrd-Nom/NumCrd-Dat (Два плюс два равно четыре).'
 references:

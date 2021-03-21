@@ -27,9 +27,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root довольно [iobj PronPers-Dat] [csubj VP-Ipfv.Inf]!]'
+  - '[root довольно [csubj VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Довольно [csubj жаловаться]!]'
 references:
   - |
     ""

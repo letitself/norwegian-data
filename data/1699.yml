@@ -1,15 +1,28 @@
 ---
 record: 1699
-name: 'VP под рукой'
-UD_name: 'VP под рукой'
+name: 'NP-Nom Cop/VP под рукой'
+UD_name: 'NP-Nom Cop/VP под рукой'
 illustration: 'У меня всегда есть запасной ключ под рукой.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [предмет]Instrument [находится]State в данный момент в непосредственной близости к [участнику]Possessor, участник может использовать этот объект по назначению. Как если бы участник мог протянуть руку и взять его.
 examples:
+  - |
+       'Я стал искать, чем бы замазать протечку, и не [нашел]Action под рукой [ничего]Instrument, кроме клея ПВА.'
+  - |
+       '[Что]Instrument [оказалось]State под рукой, то и взял.'
+  - |
+       'Жаль, [нет]State под рукой [сабли]Instrument ― ветеран разрубил бы эту селедку прямо на столе…'
+  - |
+       '[Бинокль]Instrument приходится [держать]State всё время под рукой.'
+  - |
+       'Путешествовать комфортнее, если под рукой [есть]State умная [техника]Instrument.'
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +36,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case под] рукой]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [advmod всегда] есть [nsubj [amod запасной] ключ] [obl [case под] рукой].]'
 references:
   - |
     ""
@@ -36,4 +49,4 @@ semantic_types:
       - type: Location
 family:
   - |
-    ""
+    "Possession Object gets Possessed"

@@ -34,9 +34,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root под-Verb]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] подзабыла'
+  - '[ccomp [obl [case о] чём] [nsubj мы] говорили [advmod вчера]].]'
 references:
   - |
     "About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation."

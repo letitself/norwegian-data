@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case сверх] того], Cl]'
+  - '[root [obl [case сверх] этого], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Чертков] – аристократ [conj [cc и] красавец].]\n[root [obl [case Сверх] этого]'
+  - '[advmod ещё] [advmod и] богач.]'
 references:
   - |
     ""

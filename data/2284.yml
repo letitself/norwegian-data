@@ -29,9 +29,33 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root [cc а] [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root почём [cop Cop] [csubj знать, [ccomp [dep PronInt] Cl]]]'
+  - '[root [cc а] [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root [cc а] [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root почём [cop Cop] [csubj знать, [ccomp [mark что] Cl]]]'
+  - '[root [cc а] [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root [cc а] [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root [iobj PronPers-Dat] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
+  - '[root почём [cop Cop] [csubj знать, [ccomp Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Почём [iobj мне] [cop было] [csubj знать'
+  - '[ccomp [mark когда] [nsubj ты] вернёшься]].]'
 references:
   - |
     ""

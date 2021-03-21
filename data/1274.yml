@@ -42,9 +42,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root хватит [cop Cop] [nsubj NP-Gen]!]'
+  - '[root довольно [cop Cop] [nsubj NP-Gen]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Хватит [nsubj нежностей]!]'
 comment: |
     'См. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться), хорош VP-Imp.Inf! (Эй, наверху! Хорош прыгать!). Не путать с конструкциями с Pron-Gen хватит/довольно (NP-Gen.Plur) (с меня хватит), NP-Gen хватить за глаза (Этого хватит за глаза), довольно/достаточно Adv/Adj (я ждал её довольно долго).'
 references:

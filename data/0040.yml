@@ -40,10 +40,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root [cop будет] [nmod Pron-Dat] NP-Nom]; [roott [cop будет] [nmod тебе] счастье'
-  - '[conj [nsubj ты] [advmod только] жди]]'
+  - '[root будет [iobj PronPers-Dat] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Будет [iobj тебе] [nsubj счастье]'
+  - '[conj [nsubj ты] [advmod только] жди].]'
 references:
   - |
     ""

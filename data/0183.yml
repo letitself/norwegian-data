@@ -31,9 +31,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] мочь-Pst [aux бы] [xcomp [advmod и] [advmod не] VP-Inf.Ipfv]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Мог [aux бы] [xcomp [advmod и] [advmod не] спрашивать [obl [case о] [det моём] настроении]].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

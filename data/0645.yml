@@ -3,15 +3,28 @@ record: 645
 name: 'VP NP-Ins'
 UD_name: 'VP NP-Ins'
 illustration: 'Мы готовили обед всей семьей.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник выполняет некоторое [действие]Action в составе [группы участников]Set.
+  - english: |
+       Нужно подумать насчет формулы, насколько адекватная запись, чего не хватает? Кажется, важный элемент конструкции слово ВСЕ, ВСЕЙ, ВСЕМ или нашей или другой элемент Determiner. Без этого выражение не получается. Готовили семьей? Проверьте, есть ли в корпусе такое? This construction means that the participant performed the [activity]Activity as part of a [group]Participant. Мы нашей группой решили пойти в кино ?
+  - norwegian: |
+       Konstruksjonen uttrykker at deltageren utførte [handlingen]Activity som del av en [gruppe]Participant.
 examples:
+  - |
+       'По воскресеньям мы [едем кататься на лыжах]Action [всей семьей.]Participant'
+  - |
+       'Самое главное – это [работать]Action [одной командой.]Participant'
+  - |
+       'Они [собирали урожай ]Action [всем селом.]Participant'
 morphology:
   - VP
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -24,13 +37,16 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] готовили [obj обед] [obl [det всей] семьей].]'
 references:
   - |
     ""
 semantic_types:
+  - type: Comitative
+    subtypes:
+      - type: Comitative
   - type: Manner
 family:
   - |

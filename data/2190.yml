@@ -28,9 +28,23 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc да] [nsubj PronPers-Nom] [iobj PronPers-Dat] [advmod точно] говорить, [parataxis XP]]'
+  - '[root [cc да] [nsubj PronPers-Nom] [iobj PronPers-Dat] [advmod серьезно] говорить, [parataxis XP]]'
+  - '[root [nsubj PronPers-Nom] [iobj PronPers-Dat] [advmod точно] говорить, [parataxis XP]]'
+  - '[root [nsubj PronPers-Nom] [iobj PronPers-Dat] [advmod серьезно] говорить, [parataxis XP]]'
+  - '[root [cc да] [iobj PronPers-Dat] [advmod точно] говорить, [parataxis XP]]'
+  - '[root [cc да] [iobj PronPers-Dat] [advmod серьезно] говорить, [parataxis XP]]'
+  - '[root [cc да] [nsubj PronPers-Nom] [advmod точно] говорить, [parataxis XP]]'
+  - '[root [cc да] [nsubj PronPers-Nom] [advmod серьезно] говорить, [parataxis XP]]'
+  - '[root [iobj PronPers-Dat] [advmod точно] говорить, [parataxis XP]]'
+  - '[root [iobj PronPers-Dat] [advmod серьезно] говорить, [parataxis XP]]'
+  - '[root [nsubj PronPers-Nom] [advmod точно] говорить, [parataxis XP]]'
+  - '[root [nsubj PronPers-Nom] [advmod серьезно] говорить, [parataxis XP]]'
+  - '[root [advmod точно] говорить, [parataxis XP]]'
+  - '[root [advmod серьезно] говорить, [parataxis XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Точно] [iobj тебе] говорю'
+  - '[parataxis [advmod здесь] [nsubj что-то] [advmod не] так].]'
 references:
   - |
     ""

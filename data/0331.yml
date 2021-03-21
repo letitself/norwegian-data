@@ -25,9 +25,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obj того] [advmod и] гляди [parataxis VP-Pfv]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Того] [advmod и] гляди [parataxis [nsubj он] [obj конфеты] съест].]'
 references:
   - |
     ""

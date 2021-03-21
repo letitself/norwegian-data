@@ -27,7 +27,8 @@ morphology:
   - NumCrd
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -45,10 +46,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj/obj NP] VP [obl [case с] [nummod Num-Gen] лет]]'
-  - '[root [nsubj я] играю [obl [case в] баскетбол] [obl [case с] [nummod десяти] лет]]'
+  - '[root VP [obl [case с] [nummod NumCrd-Gen] лет]]'
+  - '[root VP [obl [case с] [nummod NumCrd-Gen] часов]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] играю [obl [case в] баскетбол] [obl [case с] [nummod десяти] лет].]'
 comment: |
     'Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")'
 references:
@@ -63,4 +64,4 @@ semantic_types:
       - type: Temporal boundary
 family:
   - |
-    "Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")"
+    "Continuativity: Since remote past"

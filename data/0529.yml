@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] на-Verb [obj NP-Gen.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] навёз [advmod домой] [obj [nummod:gov много] вещей].]'
 references:
   - |
     ""

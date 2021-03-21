@@ -31,9 +31,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] близкий-Short [obl [case к] тому, [acl [mark чтобы] VP-Inf]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] близкий-Short [obl [case к] тому]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [cop был] близок [obl [case к] тому'
+  - '[acl [mark чтобы] бросить [obj работу]]].]'
 references:
   - |
     ""

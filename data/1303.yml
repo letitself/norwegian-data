@@ -22,9 +22,11 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[advcl [mark дабы] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] Сибирь] приехали [nsubj [amod учёные] люди [nmod [case из] Оксфорда]]'
+  - '[advcl [mark дабы] просветить [obj омичей] [obl [case на] предмет [nmod избавления [nmod [case от] мусора]]]].]'
 references:
   - |
     ""

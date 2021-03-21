@@ -11,7 +11,8 @@ morphology:
   - PronPers
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [advmod лучше [obl PronPers-Gen]]]'
+  - '[root VP [advmod [advmod не] хуже [obl PronPers-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] знаю [advmod лучше [obl вашего]].]'
 references:
   - |
     ""

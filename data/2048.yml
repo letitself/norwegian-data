@@ -26,9 +26,12 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj кто], [advcl [mark если] [advmod не] NP], VP?]'
+  - '[root кто, [advcl [mark если] [advmod не] NP]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Кто]'
+  - '[advcl [mark если] [advmod не] Петя]'
+  - 'придёт [obl [case на] помощь]?]'
 references:
   - |
     ""

@@ -13,7 +13,8 @@ morphology:
   - Adj
   - Cmp
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Subject
   - Argument
@@ -27,9 +28,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP-Pl [amod [obl [obl один] [fixed другой-Gen]] Adj-Cmp]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[dep Девочки [amod [obl одна [fixed другой]] стройнее].]'
 references:
   - |
     ""

@@ -10,7 +10,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod [case в] [advmod уже] образе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [nummod:gov Три] гостя]'
+  - '[obl [case в] [advmod уже] образе [nmod ангелов]]'
+  - 'сидят [obl [case за] столом].]'
 references:
   - |
     ""

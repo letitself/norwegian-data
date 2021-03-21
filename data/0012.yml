@@ -38,10 +38,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root [advmod не] время [csubj VP-Inf]]'
-  - '[root [amod самое] время [csubj вершить [obj [amod большие] дела.]]]'
+  - '[root [advmod не] время [cop Cop] [csubj VP-Inf]]'
+  - '[root время [cop Cop] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [amod Самое] время [csubj вершить [amod большие] [obj дела]].]'
 references:
   - |
     ""

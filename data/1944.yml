@@ -39,9 +39,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obj [det мою] NP-Acc] зовут [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj [det Мою] дочку] зовут [nsubj Маша].]'
 comment: |
     'См. близкую конструкцию 465 NP-Acc звать NP-Ins/NP-Nom (Мальчика звать Юрой).'
 references:

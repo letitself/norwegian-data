@@ -21,7 +21,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -35,9 +36,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] упор]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [nsubj Ты] [obj меня] [advmod не] любишь?– [parataxis спросил] [nsubj он] [obj её] [obl [case в] упор].]'
 comment: |
     'См. похожую конструкцию 767 "VP в упор" (Он спросил его в лоб: "Где деньги?")'
 references:

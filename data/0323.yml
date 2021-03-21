@@ -10,7 +10,8 @@ morphology:
   - NP
   - Cl
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
   - Subordinator
@@ -25,9 +26,13 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [dep [det такой] NP'
+  - '[acl:relcl [dep который] Cl]]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Таких] домов'
+  - '[obj которые] [acl:relcl нужно [csubj расселить]]]'
+  - 'много.]'
 references:
   - |
     ""

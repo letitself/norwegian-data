@@ -24,9 +24,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] хватает [nsubj NP-Gen]]'
+  - '[root [iobj NP-Dat] хватит [nsubj NP-Gen]]'
+  - '[root [iobj NP-Dat] хватало [nsubj NP-Gen]]'
+  - '[root [iobj NP-Dat] хватило [nsubj NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Нам] хватает [nsubj сахара].]'
 references:
   - |
     ""

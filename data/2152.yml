@@ -17,9 +17,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
-  - Negation
-  - Verb Pattern
+  - Subject
+  - Predicate, Negation, Verb Pattern
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
@@ -30,9 +29,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod не] дай [nsubj Бог] [iobj NP-Dat] [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] дай [nsubj Боже] [iobj NP-Dat] [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] дай [nsubj Бог] [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] дай [nsubj Боже] [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] дай [nsubj Бог] [iobj мне] [csubj забыть [obj пароль] [nmod [case к] почте]]!]'
 references:
   - |
     ""

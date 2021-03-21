@@ -41,9 +41,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NumCrd-Nom] делится [obl [case на] NumCrd-Acc] [obl [case с] остатком [nmod NumCrd-Nom]]]'
+  - '[root [nsubj NumCrd-Nom] делится [obl [case на] NumCrd-Acc] [obl [case с] остатком ]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Семь] делится [obl [case на] три] [obl [case с] остатком [nmod один]].]'
 comment: |
     'См. близкую конструкцию 2036 NumCrd-Nom (не) делится (нацело) на NumCrd-Acc (Семь не делится нацело на два).'
 references:

@@ -24,9 +24,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[cc да [fixed и] [fixed то]] [dep XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Надо [csubj сказать'
+  - '[ccomp [mark что] [nsubj [det один] случай] был'
+  - '[obl [cc да [fixed и] [fixed то]] [case в] молодости]]].]'
 references:
   - |
     ""

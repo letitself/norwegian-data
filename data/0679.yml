@@ -27,9 +27,15 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod вот] увидеть-Fut.2, [parataxis Cl]]'
+  - '[root [cc а] [advmod вот] погодить-Imp, [parataxis Cl]]'
+  - '[root [cc а] [advmod вот] погодить-Imp-[advmod ка], [parataxis Cl]]'
+  - '[root [advmod вот] увидеть-Fut.2, [parataxis Cl]]'
+  - '[root [advmod вот] погодить-Imp, [parataxis Cl]]'
+  - '[root [advmod вот] погодить-Imp-[advmod ка], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] увидишь'
+  - '[parataxis [nsubj я] выиграю].]'
 references:
   - |
     ""
@@ -38,6 +44,8 @@ semantic_types:
     subtypes:
       - type: High degree of certainty
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Warning
 family:
   - |
     ""

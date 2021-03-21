@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [acl сам] подумать-Imp'
+  - '[ccomp Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [acl Сам] подумай'
+  - '[ccomp [advmod зачем] [iobj [amod взрослому] человеку] [nsubj это] нужно]?]'
 references:
   - |
     ""

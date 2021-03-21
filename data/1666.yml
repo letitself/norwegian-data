@@ -18,7 +18,8 @@ morphology:
   - VP
   - Pst
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -32,9 +33,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP-Pst [obl [case на] днях]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Родители] заезжали [obl [case к] нам] [obl [case на] днях].]'
 comment: |
     'Не путать с конструкцией 1655 VP-Fut на днях (Они зайдут в гости на днях).'
 references:

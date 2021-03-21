@@ -27,9 +27,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj дело] [cop Cop] [advmod не] [case в] NP-Loc, [conj [cc а] [case в] NP-Loc]!]'
+  - '[root [nsubj дело] [cop Cop] [advmod не] [case в] NP-Loc!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дело] [advmod не] [case в] опозданиях.]'
 references:
   - |
     ""

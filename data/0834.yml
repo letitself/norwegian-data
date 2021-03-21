@@ -23,7 +23,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] ущерб] [iobj NP-Dat]]'
+  - '[root VP [obl [case во] вред] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Зачем] заниматься [iobj спортом] [obl [case в] ущерб] [iobj здоровью]?]'
 references:
   - |
     ""

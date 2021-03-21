@@ -26,9 +26,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod не] думай [xcomp VP-Inf]!]'
+  - '[root [advmod не] вздумай [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] вздумай [xcomp обманывать [obj родителей]]!]'
 references:
   - |
     ""

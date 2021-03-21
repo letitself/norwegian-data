@@ -12,7 +12,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +27,24 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [advmod [advmod не] больше] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] более] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] меньше] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] менее] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod больше] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod более] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod меньше] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod менее] [nummod NumCrd] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] больше] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] более] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] меньше] NP-Gen]]'
+  - '[root VP [obl [advmod [advmod не] менее] NP-Gen]]'
+  - '[root VP [obl [advmod больше] NP-Gen]]'
+  - '[root VP [obl [advmod более] NP-Gen]]'
+  - '[root VP [obl [advmod меньше] NP-Gen]]'
+  - '[root VP [obl [advmod менее] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [obl [advmod больше] [nummod двух] суток] [advmod не] спал.]'
 references:
   - |
     ""

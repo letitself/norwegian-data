@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj PronPers-Dat] [advmod уже] пора!]'
+  - '[root [iobj PronPers-Dat] пора!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] [advmod уже] пора!]'
 references:
   - |
     ""

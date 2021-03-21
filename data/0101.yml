@@ -24,7 +24,8 @@ morphology:
   - Adj
   - Adv
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -43,10 +44,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] [advmod далеко] [advmod не] [amod Adj/] [advmod Adv] NP]'
-  - '[root [nsubj он] [advmod далеко] [advmod не] [amod умный] студент]'
+  - '[root [advmod [advmod далеко] не] Adj]'
+  - '[root [advmod [advmod далеко] не] Adv]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod [advmod далеко] не] [amod умный] студент.]'
 comment: |
     'Ср. с похожей конструкцией 60 вовсе не XP (Эта одежда вовсе не старая). A closely related construction in English is ‘far from’, e.g. he is far from being a clever student. En nærliggende konstruksjon i norsk er ‘langt fra, f.eks. han er langt fra en smart student.'
 references:

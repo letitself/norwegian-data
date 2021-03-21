@@ -27,7 +27,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -45,9 +46,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [case в] [nummod NumCrd-Loc] кварталах [nmod [case от] NP-Gen]]'
+  - '[root Cl [case в] [nummod NumCrd-Loc] домах [nmod [case от] NP-Gen]]'
+  - '[root Cl [case в] [nummod NumCrd-Loc] кварталах]'
+  - '[root Cl [case в] [nummod NumCrd-Loc] домах]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Этот] магазин] [cop был] [case в] [nummod трёх] кварталах [nmod [case от] почты].]'
 references:
   - |
     ""

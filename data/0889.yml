@@ -24,9 +24,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod не] Verb'
+  - '[conj [cc так] [advmod не] Verb]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] [advmod уж] [advmod не] повезло'
+  - '[conj [cc так] [advmod не] повезло]!]'
 references:
   - |
     ""

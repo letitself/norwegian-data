@@ -40,9 +40,11 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [advmod так: [advcl Cl]]]'
+  - '[root VP [obl [det таким] образом: [acl Cl]]]'
+  - '[root VP [obl [amod следующим] образом: [acl Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Делается [nsubj это] [advmod так: [advcl [advmod ровно] разложите [obj салфетку] [conj [cc и] загните [obj [det все] [nummod:gov четыре] угла] [obl [case к] центру]]]].]'
 references:
   - |
     ""

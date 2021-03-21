@@ -24,9 +24,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj оно] [advmod и] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Оно] [advmod и] понятно.]'
 references:
   - |
     ""
@@ -35,6 +35,8 @@ semantic_types:
     subtypes:
       - type: Emphasis
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Self-evidence
 family:
   - |
     ""

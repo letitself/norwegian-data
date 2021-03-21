@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod больше [obl того]], Cl]'
+  - '[root [advmod более [obl того]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Больше [obl того]]'
+  - '[nsubj он] [obj неделю] [iobj мне] [advmod не] отвечает.]'
 references:
   - |
     ""

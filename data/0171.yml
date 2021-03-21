@@ -10,7 +10,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Argument
   - Modifier
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root кто-то [nmod [case вроде] NP-Gen]]'
+  - '[root что-то [nmod [case вроде] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] хочу'
+  - '[mark чтобы] [nsubj кто-то [nmod [case вроде] тебя]] [ccomp распространял] [obj ложь] [iobj [det моим] друзьям].]'
 references:
   - |
     ""

@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] лежать [obl [case в] NP-Loc]]'
+  - '[root [nsubj NP-Nom] лежать [obl [case на] NP-Loc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Хлеб] лежит [obl [case на] полке].]'
 references:
   - |
     ""

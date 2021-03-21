@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [obl само [fixed собой]] разумеется], Cl]'
+  - '[root [parataxis само [fixed собой]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Само [fixed собой]]'
+  - '[nsubj мы] придем [obl [case на] [det твой] концерт].]'
 references:
   - |
     ""

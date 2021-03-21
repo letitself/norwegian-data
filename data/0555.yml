@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] сделаться [xcomp NP-Ins]]'
+  - '[root [nsubj NP-Nom] сделаться [xcomp Adj-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] сделался [xcomp [amod важным] начальником].]'
 references:
   - |
     ""

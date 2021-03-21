@@ -6,7 +6,7 @@ illustration: 'Взрыв радиусом в десятки метров'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает [радиус или диаметр]Quantity [круглого в сечении объекта]Theme, измеренный в [стандартных единицах длины, таких как метры, километры, мили, футы]Measure. Если числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
+       Конструкция обозначает [радиус или диаметр]Quantity [круглого в сечении объекта]Theme, измеренный в [стандартных единицах длины, таких как метры, километры, мили, футы]Measure. Если использовано числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
   - norwegian: |
        Konstruksjonen betegner [radiusen eller diameteren]Quantity av [et objekt med rundt snitt]Theme, målt i [standardiserte målenheter for lengde, f.eks. meter, kilometer, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
@@ -26,7 +26,8 @@ morphology:
   - Acc
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -42,9 +43,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod радиусом [nmod [case в] NumCrd-Acc [nmod NP]]]]'
+  - '[dep NP [nmod радиусом [nmod NumCrd-Nom [nmod NP]]]]'
+  - '[dep NP [nmod диаметром [nmod [case в] NumCrd-Acc [nmod NP]]]]'
+  - '[dep NP [nmod диаметром [nmod NumCrd-Nom [nmod NP]]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[obj Взрыв [nmod радиусом [nmod [case в] десятки [nmod метров]]]]'
 references:
   - |
     ""

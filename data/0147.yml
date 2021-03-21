@@ -2,7 +2,7 @@
 record: 147
 name: 'как насчёт XP?'
 UD_name: 'как насчёт XP?'
-illustration: 'как насчёт XP?'
+illustration: 'Как насчёт выпить?'
 cefr_level: B1
 definitions:
   - russian: |
@@ -38,9 +38,9 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root как [csubj [case насчёт] XP]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Как [csubj [case насчёт] выпить]?]'
 comment: |
     'См. не путать с конструкциями 6 (а/так) что насчёт XP? (Что насчёт пятницы? Какие у тебя планы?); 687 (а) насчёт NP-Gen – Cl (А насчёт папы – он уехал на рыбалку).'
 references:

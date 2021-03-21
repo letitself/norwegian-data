@@ -23,7 +23,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case под] эгидой [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Конференция] пройдёт [obl [case под] эгидой [nmod ООН]].]'
 comment: |
     'См. близкие конструкции 1169 VP под знаком NP-Gen (Выступление проходило под знаком протеста.), 1167 VP под защитой NP-Gen (Памятник архитектуры находится под защитой ЮНЕСКО).'
 references:

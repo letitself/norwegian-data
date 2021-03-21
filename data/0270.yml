@@ -38,10 +38,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root VP [advmod/amod по-XP-ее(ей)]]'
-  - '[root [obl [case к] сыну] относись [advmod помягче]'
+  - '[advmod по-Adv]'
+  - '[amod по-Adj]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case К] сыну] надо [csubj относиться] [advmod помягче].]'
 references:
   - |
     "Boguslavsky, I., Iomdin, L. (2009), Semantics of Attenuated Comparatives in Russian, Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), pp. 65–77."

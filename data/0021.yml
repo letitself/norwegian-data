@@ -38,9 +38,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] нельзя [cop Cop] [advmod не] [csubj VP-Inf]]'
+  - '[root нельзя [cop Cop] [advmod не] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Нельзя [cop было] [advmod не] [csubj согласиться] [obl [case с] ним] [advmod тогда].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

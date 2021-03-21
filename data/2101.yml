@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[conj [dep NP] [cc же] VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Петя [conj [cc и] Таня]] ушли'
+  - '[conj [nsubj Маша] [cc же] осталась [xcomp [obj нас] поддержать]].]'
 references:
   - |
     ""

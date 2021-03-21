@@ -24,7 +24,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Nominal quantifier
 syntactic_structure_of_anchor:
@@ -37,10 +38,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root уйма [nmod NP-Gen.Plur]]'
-  - '[root уйма [nmod денег]]'
+  - '[dep уйма [nmod NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] [det все] расходы] ушла [nsubj уйма [nmod денег]].]'
 references:
   - |
     "Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

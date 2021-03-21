@@ -23,7 +23,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -38,9 +39,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - 'To be added'
+  - '[root VP [obl [case с] [amod древних] времен]]'
+  - '[root VP [obl [case с] [amod незапамятных] времен]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Они] [obl [case с] [amod древних] времен] верили'
+  - '[ccomp [mark что] [nsubj магия] существует].]'
 comment: |
     'См. близкие конструкции VP с (глубокой) древности (Люди с древности пользовались этим советом), VP с давних пор (С давних пор люди придавали цвету особое значение).'
 references:
@@ -55,4 +58,4 @@ semantic_types:
       - type: Temporal boundary
 family:
   - |
-    "Семья континуативных конструкций с семантикой Forever (towards the past) since remote past; mostly - inceptive continuative (with preposition "с")"
+    "Continuativity: Since remote past"

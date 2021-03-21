@@ -10,7 +10,8 @@ morphology:
   - VP
   - Adj
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod мало-мальски] VP]'
+  - '[amod [advmod мало-мальски] AP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case В] [det каждом] [amod [advmod мало-мальски] крупном] городе [cop была] [nsubj [det своя] газета].]'
 references:
   - |
     ""

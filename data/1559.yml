@@ -14,7 +14,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +28,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] NP-Loc [nmod [case от] NP-Gen]]]'
+  - '[root VP [obl [case в] [nummod NumCrd-Loc] NP-Loc]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] NP-Loc [nmod [case от] NP-Gen]]]'
+  - '[dep NP [nmod [case в] [nummod NumCrd-Loc] NP-Loc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Машина] стоит [obl [case в] [nummod пяти] метрах [nmod [case от] дороги]].]'
 references:
   - |
     ""

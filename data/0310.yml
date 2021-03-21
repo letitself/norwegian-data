@@ -10,7 +10,8 @@ morphology:
   - PronInt
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +24,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep [advcl смотря] PronInt] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [advmod Долго] [advmod ли] ехать [obl [case до] бассейна]?]\n[root – [advcl Смотря] [advmod где] [nsubj ты] живёшь.]'
 references:
   - |
     ""

@@ -11,7 +11,8 @@ morphology:
   - Pst
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -27,9 +28,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod так] [aux бы] [advmod сразу] [advmod и] VP-Pst, [ccomp [mark что] Cl]]'
+  - '[root [advmod так] [aux бы] [advmod сразу] [advmod и] VP-Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Так] [aux бы] [advmod сразу] [advmod и] сказал'
+  - '[ccomp [mark что] женат].]'
 references:
   - |
     ""
@@ -38,6 +41,8 @@ semantic_types:
     subtypes:
       - type: Dissatisfaction
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Insight?
 family:
   - |
     ""

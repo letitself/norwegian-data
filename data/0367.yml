@@ -26,9 +26,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [obj что] [advmod ни] говори], [cc а] Cl]'
+  - '[root [advcl [obj что] [advmod ни] говорите], [cc а] Cl]'
+  - '[root [advcl [obj что] [advmod ни] говори], Cl]'
+  - '[root [advcl [obj что] [advmod ни] говорите], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [obj Что] [advmod ни] говори]'
+  - '[cc а] [nsubj он] прав.]'
 references:
   - |
     ""

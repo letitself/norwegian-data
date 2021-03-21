@@ -11,7 +11,8 @@ morphology:
   - Gen
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +27,9 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [obl [case на] основании [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] основании [nmod статьи [appos 3] [nmod закона [nmod [case об] образовании]]]] [nsubj [det каждый] человек] имеет [obj право [nmod [case на] образование]].]'
 references:
   - |
     ""

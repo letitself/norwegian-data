@@ -11,7 +11,8 @@ morphology:
   - Cmp
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod [advmod как [fixed нельзя]] Adv-Cmp] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Порошок] [advmod [advmod как [fixed нельзя]] лучше] отстирал [obj [amod жирные] пятна].]'
 references:
   - |
     ""

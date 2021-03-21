@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[parataxis нет]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вы] [advmod уже] закончили [obj работу]'
+  - '[parataxis нет]?]'
 references:
   - |
     ""

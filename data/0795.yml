@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [nsubj NP-Nom] [case в] порядке]'
+  - '[root [nsubj NP-Nom] [case в] порядке]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] тебя] [nsubj всё] [case в] порядке?]'
 references:
   - |
     ""

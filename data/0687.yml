@@ -38,9 +38,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc а] [dislocated [case насчёт] NP-Gen] – Cl]'
+  - '[root [dislocated [case насчёт] NP-Gen] – Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [dislocated [case насчет] папы]– [nsubj он] уехал [obl [case на] рыбалку].]'
 comment: |
     'См. не путать с конструкциями 6 (а/так) что насчёт XP? (Что насчёт пятницы? Какие у тебя планы?); 147 как насчёт XP? (Как насчёт выпить?).'
 references:

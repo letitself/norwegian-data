@@ -25,7 +25,8 @@ morphology:
   - Pfv
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -40,9 +41,12 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [advmod не] мешало [aux бы] [csubj VP-Pfv.Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] мешает [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] мешало [aux бы] [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] мешает [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Нам] [advmod не] мешало [aux бы] [csubj подкрепиться].]'
 references:
   - |
     "Ему не мешает ей позвонить степени облигаторности Цейтлин С.Н. Необходимость //Теория функциональной грамматики. Темпорвльность. Модальность. - Л.,1990. С.142 и след. см.: Шведова Н.Е. о семантических компонентах высказываний со значением долженствования. Русская грамматика. - К.,1980. Т.2. С.П6 и след. Лексемы следует, лучше, не мешает, стоит и некоторые другие используются для передачи факта нереализованного, например: Раз вы не застали его дома, следовало оставить ей записку."

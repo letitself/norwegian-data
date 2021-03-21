@@ -43,9 +43,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep XP, [nmod [parataxis [advmod точнее] сказать], XP]]'
+  - '[root XP, [nmod [parataxis [advmod вернее] сказать], XP]]'
+  - '[root XP, [nmod [parataxis точнее], XP]]'
+  - '[root XP, [nmod [parataxis вернее], XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Никто] [advmod не] воспринимает [obj [det этот] сайт] [obl [case как] [amod хороший] ресурс]'
+  - '[parataxis [parataxis точнее]'
+  - '[obl [case о] нём] [advmod вообще] [advmod не] conj знают].]'
 references:
   - |
     ""

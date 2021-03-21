@@ -23,7 +23,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -39,9 +40,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case без] ведома [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Без] ведома [nmod жены]] [nsubj он] отнес [obj деньги] [obl [case в] казино].]'
 references:
   - |
     ""

@@ -26,9 +26,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root ходить [nsubj NP-Nom [nmod [case о] NP-Loc]]]'
+  - '[root ходить [nsubj NP-Nom [nmod [case про] NP-Acc]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Ходят [nsubj слухи [nmod [case об] отъезде [nmod Петровых]]].]'
 references:
   - |
     ""

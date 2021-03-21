@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] из-Verb [obj NP-Acc.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] исходил [obl [case на] Алтае] [obj [det все] [amod горные] маршруты].]'
 references:
   - |
     ""

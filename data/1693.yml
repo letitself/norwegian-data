@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[advcl [mark как] [advmod вдруг] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod уже] [advmod почти] долетели'
+  - '[advcl [mark как] [advmod вдруг] [nsubj самолет] развернулся [conj [cc и] начал [xcomp снижаться]]].]'
 references:
   - |
     ""

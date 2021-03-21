@@ -23,7 +23,8 @@ morphology:
   - Nom
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -41,9 +42,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] делать [obj вид'
+  - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] делает [obj вид'
+  - '[acl [mark что] слушает]].]'
 references:
   - |
     ""

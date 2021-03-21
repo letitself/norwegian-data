@@ -23,7 +23,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -44,9 +45,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case с] [amod пустыми] руками]]'
+  - '[root VP [obl [advmod не] [case с] [amod пустыми] руками]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] могу [xcomp приехать [obl [case к] бабушке] [obl [case с] [amod пустыми] руками'
+  - '[conj [case без] подарка]]].]'
 references:
   - |
     ""

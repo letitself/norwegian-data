@@ -3,13 +3,16 @@ record: 1992
 name: 'говорят, что Cl'
 UD_name: 'говорят, что Cl'
 illustration: 'Говорят, что там видели даже инопланетян.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [источник]Source сообщаемой [информации]Content.
 examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -23,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root говорят'
+  - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Говорят'
+  - '[ccomp [mark что] [advmod там] видели [obj [advmod даже] инопланетян]].]'
 references:
   - |
     ""

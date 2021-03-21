@@ -24,17 +24,20 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod [advmod и] впрямь] XP]'
+  - '[root [advmod [advmod и] вправду] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod и] [advmod впрямь] [iobj ему] верю.]'
 references:
   - |
     ""
 semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
-  - type: Reaction to the previous discourse
 family:
   - |
     ""

@@ -27,9 +27,12 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis [cop быть-Imp] добрый-Short] VP-Imp]'
+  - '[root [parataxis [cop быть-Imp] [advmod так] добрый-Short] VP-Imp]'
+  - '[root [parataxis [cop быть-Imp] любезный-Short] VP-Imp]'
+  - '[root [parataxis [cop быть-Imp] [advmod так] любезный-Short] xcomp VP-Imp]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [cop Будьте] добры] сдайте [obj задание].]'
 references:
   - |
     ""

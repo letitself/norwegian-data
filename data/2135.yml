@@ -14,8 +14,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Negation
-  - Verb + Object
+  - Negation, Verb
+  - Object
 part_of_speech_of_anchor:
   - Noun
   - Predicative
@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj спору] нет, [parataxis Cl]]'
+  - '[root [nsubj спора] нет, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Спора] нет'
+  - '[parataxis [nsubj команда] получилась [xcomp [advmod очень] хорошая]].]'
 references:
   - |
     ""

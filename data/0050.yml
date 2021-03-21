@@ -19,7 +19,8 @@ morphology:
   - Nom
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -35,9 +36,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [case в] том - [advmod то] [advmod и] [nsubj NP-Nom], [acl [mark что] Cl]]'
+  - '[root [case в] том - [advmod то] [advmod и] [nsubj NP-Nom], [acl Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case В] том - [advmod то] [advmod и] [nsubj дело]'
+  - '[acl [mark что] [advmod не] знаем].]'
 references:
   - |
     ""

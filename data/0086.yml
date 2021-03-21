@@ -24,7 +24,8 @@ morphology:
   - VP
   - Ipfv
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
   - Coordinator
@@ -40,10 +41,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [advmod всё] VP-Imp [conj [cc да] VP-Imp]]'
-  - '[root [nsubj мальчик] [advmod всё] шёл [conj [cc да] шёл]]'
+  - '[root [advmod всё] VP-Ipfv [conj [cc да] VP-Ipfv]]'
+  - '[root [advmod всё] VP-Ipfv [conj [cc и] VP-Ipfv]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мальчик] [advmod всё] шёл [conj [cc да] шёл].]'
 comment: |
     'Семья континуативных конструкций с семантикой For a long time (непрерывность) - Verbs with intensifiers так, все'
 references:
@@ -58,4 +59,4 @@ semantic_types:
       - type: Continuative
 family:
   - |
-    "Семья конструкций с интенсификаторами Verbs with intensifiers так, все"
+    "Continuativity: For a long time"

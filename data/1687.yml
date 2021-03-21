@@ -12,7 +12,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] пробовать [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вася] [obl [nummod:gov несколько] раз] пробовал [xcomp открыть [obj окно]].]'
 references:
   - |
     ""

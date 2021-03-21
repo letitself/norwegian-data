@@ -25,9 +25,14 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [parataxis [parataxis как-никак] Cl]]'
+  - '[root Cl, [parataxis как-никак, [conj [case а] Cl]]]'
+  - '[root [parataxis как-никак] Cl]'
+  - '[root как-никак, [conj [case а] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [advmod Что] [expl это] [nsubj ты] [obj вино] покупаешь'
+  - '[conj [iobj тебе [advmod же]] нельзя]?]\n[root – [amod Серебряная] свадьба [advmod завтра]'
+  - '[parataxis как-никак].]'
 references:
   - |
     ""

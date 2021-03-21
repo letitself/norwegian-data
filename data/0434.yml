@@ -23,9 +23,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj Noun-Nom] [cop есть] Noun-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Факт] [cop есть] факт.]'
 references:
   - |
     ""

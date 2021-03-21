@@ -9,7 +9,8 @@ examples:
 morphology:
   - Noun
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -22,9 +23,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [amod чистый] Noun]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] вру'
+  - '[parataxis [amod чистая] правда]!]'
 references:
   - |
     ""

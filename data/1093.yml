@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case к] тому [advmod же]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case К] тому [advmod же]] [obl [det каждый] день] шёл [nsubj снег].]'
 references:
   - |
     ""

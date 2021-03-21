@@ -26,9 +26,10 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod как [advmod же]] [case без] NP-Gen?]'
+  - '[root [advmod как [advmod же]] [obl [case без] NP-Gen] VP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как [advmod же]] [case без] Маши?]'
 references:
   - |
     ""

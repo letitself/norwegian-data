@@ -33,9 +33,14 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod только [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod лишь [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod хоть [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod только [fixed бы]] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod лишь [fixed бы]] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod хоть [fixed бы]] [cop Cop] VP-Pfv.Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] [advmod только] [aux бы] увидеть [obj ее].]'
 references:
   - |
     ""

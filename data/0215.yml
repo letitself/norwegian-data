@@ -26,9 +26,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root не-Pred [cop Cop] [aux бы] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Неплохо [aux бы] [csubj отдохнуть].]'
 references:
   - |
     ""

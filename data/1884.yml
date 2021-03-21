@@ -3,15 +3,28 @@ record: 1884
 name: 'наряду с NP-Ins Cl'
 UD_name: 'наряду с NP-Ins Cl'
 illustration: 'Наряду с российскими спортсменами, в соревновании участвовали иностранцы.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated. Конструкция подчеркивает, что участники в равной степени вовлечены в действие.
 examples:
+  - |
+       'В работе жюри наряду с [композиторами, актерами, учеными, писателями и общественными деятелями]Assosiated [участвуют]Action [редакторы]Participant журнала.'
+  - |
+       'Нередко и [70-летние старики]Participant [работают]Action наряду с [молодыми]Assosiated.'
+  - |
+       'Наряду с [Александром Бенуа и Мстиславом Добужинским]Assosiated [Сомов]Participant [был]Action одним из крупнейших художников «Мира искусства».'
+  - |
+       '[Сыр]Participant наряду с [часами, банками, армейскими ножами и шоколадом]Assosiated ― [один]State из главных национальных брендов Швейцарии.'
+  - |
+       'В гимназии, наряду с [русским]Theme, [изучаются]Action [два иностранных языка]Theme ― французский и английский.'
 morphology:
   - NP
   - Ins
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +37,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod наряду [obl [case с] NP-Ins]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Наряду [obl [case с] [amod российскими] спортсменами]]'
+  - '[obl [case в] соревновании] участвовали [nsubj иностранцы].]'
 references:
   - |
     ""
@@ -34,4 +48,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    ""
+    "Collective action"

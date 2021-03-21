@@ -3,8 +3,10 @@ record: 1621
 name: 'Cl, до того как Cl'
 UD_name: 'Cl, до того как Cl'
 illustration: 'Мы не успели приготовить ужин до того, как пришли гости.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие]Action совершается до другого [действия]Action. Возможно два варианта постановки запятой: Cl, до того как Cl и Cl до того, как Cl.
 examples:
 morphology:
   - Cl
@@ -24,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case до] того'
+  - '[acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod не] успели [xcomp приготовить [obj ужин]] [obl [case до] того'
+  - '[acl [mark как] пришли [nsubj гости]]].]'
 references:
   - |
     ""
@@ -36,4 +40,4 @@ semantic_types:
       - type: Preceding action
 family:
   - |
-    ""
+    "Precedence"

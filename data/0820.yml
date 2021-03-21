@@ -9,7 +9,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case в] случае [nmod чего]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] случае [nmod чего]] – звоните!]'
 references:
   - |
     ""

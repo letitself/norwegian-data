@@ -29,9 +29,10 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [obj NP-Acc] прочить-3.Pl [obl [case в] NP-Acc]]'
+  - '[root [obj NP-Acc] прочить-3.Pl [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Его] прочили [obl [case в] директора].]'
 references:
   - |
     ""

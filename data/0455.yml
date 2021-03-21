@@ -42,10 +42,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP] [advmod не] против]'
-  - '[root [nsubj я] [advmod не] против]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] против [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] против]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] против [xcomp поехать [obl [case в] деревню]].]'
 comment: |
     'См. близкие конструкции 1802, 1803.'
 references:

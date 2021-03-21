@@ -28,9 +28,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [nsubj что] [obl [case у] NP-Gen] [cop Cop] [obl [case по] NP-Dat]?]'
+  - '[root [nsubj что] [cop Cop] [obl [case по] NP-Dat]?]'
+  - '[root [cc а] [nsubj что] [cop Cop] [obl [case по] NP-Dat]?]'
+  - '[root [nsubj что] [cop Cop] [obl [case по] NP-Dat]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Что] дома [obl [case по] еде]?]'
 references:
   - |
     ""

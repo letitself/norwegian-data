@@ -28,9 +28,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [parataxis [discourse эх] ты]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [discourse Эх] ты!]\n[root [advmod Зачем [advmod же]] [nsubj ты] [obj молоко] [obl [case в] холодильник] [advmod не] убрал!]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."

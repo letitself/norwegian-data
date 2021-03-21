@@ -26,14 +26,18 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ах]'
+  - '[advmod вот] [nsubj PronPers-Nom] [case о] чём!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [discourse Ах]'
+  - '[advmod вот] [nsubj ты] [case о] чём!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Insight?
 family:
   - |
     ""

@@ -3,15 +3,18 @@ record: 804
 name: 'VP в пылу NP-Gen'
 UD_name: 'VP в пылу NP-Gen'
 illustration: 'В пылу борьбы он получил травму.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает некоторое активное [действие]Activity, во время которого происходит [событие]Event. Обычно действие предполагает напряженное противостояние двух сторон и может быть выражено существительными сражение, битва, спор и т. д.
 examples:
 morphology:
   - VP
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +28,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] пылу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] пылу [nmod борьбы]] [nsubj он] получил [obj травму].]'
 references:
   - |
     ""
@@ -38,4 +41,4 @@ semantic_types:
       - type: Simultaneous action
 family:
   - |
-    ""
+    "Simultaneity"

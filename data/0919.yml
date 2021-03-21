@@ -25,9 +25,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obj NP-Acc] [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Они] вышвырнули [obj кота] [obl [case из] дома].]'
 references:
   - |
     ""

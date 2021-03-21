@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] следует [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] следовало [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case При] проезде [nmod [case в] метро]] следует [csubj соблюдать [obj порядок]].]'
 references:
   - |
     ""

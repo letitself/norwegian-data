@@ -28,9 +28,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] Adj-Cmp, [obl [case чем] NP-Nom]]'
+  - '[root VP [advmod Adv-Cmp, [obl [case чем] NP-Nom]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] старше'
+  - '[obl [case чем] ты].]'
 references:
   - |
     ""

@@ -15,7 +15,8 @@ syntactic_function_of_anchor:
   - Subject
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
@@ -25,9 +26,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj время [nmod NP-Gen]] прошло]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Время [nmod сомнений]] прошло.]'
 references:
   - |
     ""

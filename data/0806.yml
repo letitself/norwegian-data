@@ -11,7 +11,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] рамки NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [det Такая] решительность] [advmod идеально] укладывалась [obl [case в] рамки [nmod отношений [nmod [case с] [amod крупнейшими] [amod спортивными] федерациями]]].]'
 references:
   - |
     ""

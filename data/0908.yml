@@ -6,7 +6,7 @@ illustration: 'Поможем всем миром.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция указыает на то, что некоторое [действие]Action выполняется всеми участниками некоторой [группы]Set совместно, сообща. Эта [группа]Set, однако, как правило, не называется в тексте и понимается из контекста.
+       Конструкция указывает на то, что некоторое [действие]Action выполняется всеми участниками некоторой [группы]Set совместно, сообща. Эта [группа]Set, однако, как правило, не называется в тексте и понимается из контекста.
 examples:
   - |
        'Гаврилу [искали]Action всем миром, но так и не нашли.'
@@ -21,7 +21,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -36,13 +37,16 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [det всем] миром]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Поможем [obl [det всем] миром].]'
 references:
   - |
     ""
 semantic_types:
+  - type: Comitative
+    subtypes:
+      - type: Comitative
   - type: Degree of intensity
     subtypes:
       - type: Maximizer

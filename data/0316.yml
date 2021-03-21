@@ -3,9 +3,19 @@ record: 316
 name: 'стоить (NP-Dat) VP-Pfv, как Cl'
 UD_name: 'стоить (NP-Dat) VP-Perf, как Cl'
 illustration: 'Стоило ей отвернуться, как он сбежал.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие]Action совершается сразу после другого кратковременного [действия]Event, которое может служить его причиной. Как если бы достаточно было произойти некоторому действию, чтобы за ним сразу произошло другое.
+  - english: |
+       ей/ему; подумать; уехать; отвернуться, заикнуться, упомянуть
 examples:
+  - |
+       'Стоило [высунуть нос]Action на улицу, как [жара тут же давала о себе знать.]Event'
+  - |
+       'Стоит мне только [заикнуться]Action, как [тебя тотчас вышвырнут с работы.]Event'
+  - |
+       'Стоило ей [выйти в коридор]Action, как [он следовал за ней.]Event'
 morphology:
   - NP
   - Dat
@@ -28,9 +38,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root стоить [iobj NP-Dat] [csubj VP-Pfv], [advcl [mark как] Cl]'
+  - '[root стоить [csubj VP-Pfv], [advcl [mark как] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Стоило [iobj ей] [csubj отвернуться]'
+  - '[advcl [mark как] [nsubj он] сбежал].]'
 references:
   - |
     ""
@@ -41,4 +53,4 @@ semantic_types:
       - type: Subsequent action
 family:
   - |
-    ""
+    "Immediate consecution"

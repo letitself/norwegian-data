@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] делать [obj ошибки [nmod [case на] NP-Acc]]]'
+  - '[root [nsubj NP-Nom] сделать [obj ошибку [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вася] [advmod постоянно] делает [obj ошибки [nmod [case на] правило "[appos [obj жи] [conj ши] пиши [obl [case с] буквой [appos и]]]"]].]'
 references:
   - |
     ""

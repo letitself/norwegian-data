@@ -23,7 +23,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,10 +38,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod не] VP'
-  - '[obl [advmod ни] NP-Gen]]'
+  - '[root [obj [advmod ни] крошки] [advmod не] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod так [fixed и]] [advmod не] съел [obj [advmod ни] крошки].]'
 comment: |
     'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
 references:

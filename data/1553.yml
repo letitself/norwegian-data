@@ -29,7 +29,8 @@ morphology:
   - Gen
   - Prep
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -46,9 +47,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [dep [case Prep] [nummod NumCrd] NP [nmod [case в] длину]]]'
+  - '[root VP [dep [nummod NumCrd] NP [nmod [case в] длину]]]'
+  - '[root VP [dep [case Prep] [nummod NumCrd] NP [nmod [case в] ширину]]]'
+  - '[root VP [dep [nummod NumCrd] NP [nmod [case в] длину]]]'
+  - '[root VP [dep [case Prep] [nummod NumCrd] NP [nmod [case в] длину]]]'
+  - '[root VP [dep [nummod NumCrd] NP [nmod [case в] высоту]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вася] прыгает [obj [nummod:gov два] метра [nmod [case в] длину]].]'
 comment: |
     'Эта конструкция похожа на конструкцию 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP-Gen (Велодорожка длиной шесть километров), но может описывать характеристики не только объекта, но и действия.'
 references:

@@ -10,7 +10,8 @@ morphology:
   - VP
   - Ipfv
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
   - Verb Predicate
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP-Ipfv [advcl [advmod сколько] влезет]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Да] [advmod пусть] кричат [advcl [advmod сколько] влезет].]'
 references:
   - |
     ""

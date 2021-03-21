@@ -3,13 +3,26 @@ record: 230
 name: 'ни с того ни с сего Cl'
 UD_name: 'ни с того ни с сего Cl'
 illustration: 'Ни с того ни с сего Вася закричал.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящему непонятна причина произошедшедшего [действия]Action или случившейся [ситуации]Situation, и поэтому это [событие]Event вызывает у него удивление.
 examples:
+  - |
+       'Мой сын ни с того ни с сего [стал бояться кошек]Action.'
+  - |
+       '― В этой книге с профессором происходит какая-то странная трансформация. Вот читаю одну страницу, вторую, третью, страница за страницей идёт строгая научная проза: даты открытия, фамилии учёных ― и вдруг ни с того ни с сего ― бац! ― [учёный влез на стол и заговорил языком партийного работника]Event. Позвольте! Почему?'
+  - |
+       'Наиболее же сильно его удивило то, что ни с того ни с сего [Коркин вдруг понес бред]Event про какого-то человека, с коим он не мог, долго встретиться?'
+  - |
+       'Стал он задумываться: [за что]Cause [ему всё это]Situation ― вдруг, ни с того ни с сего?'
+  - |
+       'Есть так называемые пульсирующие ледники, ― они как бы ни с того ни с сего, без всяких видимых причин, [начинают продвигаться]Action ― это очень опасный процесс.'
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -19,14 +32,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - Situation
+  - Event
 intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [advmod ни] [case с] того] [conj [advmod ни] [case с] сего] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [advmod Ни] [case с] того] [conj [advmod ни] [case с] сего] [nsubj Вася] закричал.]'
+comment: |
+    'Конструкция часто сопровождается словами "вдруг", "без видимых причин" и используется вместе с конструкцией 57 NP-Nom взять и VP-Pfv (Он взял и увез меня в деревню).'
 references:
   - |
     ""
@@ -34,4 +51,4 @@ semantic_types:
   - type: Mirative
 family:
   - |
-    ""
+    "Cause, Unexpected"

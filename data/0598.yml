@@ -42,10 +42,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root [nsubj NP-Nom] VP-VP [conj [cc и] Cl]]'
-  - '[root шёл-шёл [conj [cc и] увидел [obj [amod красивый] дом]]'
+  - '[root VP-Pst-[conj VP-Pst] [conj [cc и] [advmod наконец-[advmod то]] VP-Pst]]'
+  - '[root VP-Pst-[conj VP-Pst] [conj [cc и] [advmod наконец] VP-Pst]]'
+  - '[root VP-Pst-[conj VP-Pst] [conj [cc и] VP-Pst]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] шёл-[conj шёл] [conj [cc и] [advmod наконец] увидел [obj [amod красивый] дом]].]'
 comment: |
     'См. также конструкцию VP-~VP а не Cl (Я его просил-просил, а он не соглашался).'
 references:
@@ -57,4 +58,4 @@ semantic_types:
       - type: Continuative
 family:
   - |
-    "Семья конструкций с континуативной семантикой и с редупликацией (Continuative constructions with a reduplicative pattern)"
+    "Continuativity by reduplication"

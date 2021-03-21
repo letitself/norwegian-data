@@ -26,9 +26,13 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [obl раз] VP-Fut], [advmod потом] Cl]'
+  - '[root [advcl [obl [det один] раз] VP-Fut], [advmod потом] Cl]'
+  - '[root [advcl [obl раз] VP-Fut], Cl]'
+  - '[root [advcl [obl [det один] раз] VP-Fut], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [obl Раз] ошибёшься]'
+  - '[advmod потом] будут [nsubj [amod большие] проблемы].]'
 references:
   - |
     ""

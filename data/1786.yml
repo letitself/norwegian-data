@@ -25,7 +25,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -41,9 +42,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] пику [nmod NP-Dat]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Открыли [obj магазин [nmod [amod здоровой] еды]] [obl [case в] пику [nmod фастфуду]].]'
 comment: |
     'См. близкую конструкцию 1787 VP наперекор NP-Dat (Наперекор многим коллегам он верит в телепатию).'
 references:

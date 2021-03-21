@@ -3,8 +3,10 @@ record: 1994
 name: 'по выражению/по замечанию NP-Gen, Cl'
 UD_name: 'по выражению/по замечанию NP-Gen, Cl'
 illustration: 'Встреча, по выражению Игоря Сергеевича, была превосходная.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [источник]Source сообщаемой [информации]Content.
 examples:
 morphology:
   - NP
@@ -26,9 +28,12 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case по] выражению [nmod NP-Gen]], Cl]'
+  - '[root [parataxis [case по] замечанию [nmod NP-Gen]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Встреча]'
+  - '[parataxis [case по] выражению [nmod Игоря [flat:name Сергеевича]]]'
+  - '[cop была] превосходная.]'
 references:
   - |
     ""

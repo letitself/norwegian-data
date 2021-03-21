@@ -22,7 +22,8 @@ morphology:
   - Verb
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -35,9 +36,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] Verb [xcomp VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] идёт [xcomp шатается].]'
 references:
   - |
     ""

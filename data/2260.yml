@@ -9,7 +9,8 @@ examples:
 morphology:
   - XP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
@@ -23,9 +24,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case как] сумасшедший]]'
+  - '[root VP [obl [case как] ошалелый]]'
+  - '[root VP [obl [case как] очумелый]]'
+  - '[root VP [obl [case как] ненормальный]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] бегает [obl [case по] офису] [obl [case как] сумасшедший].]'
 references:
   - |
     ""

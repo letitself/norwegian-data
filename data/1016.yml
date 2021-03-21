@@ -42,9 +42,11 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] [iobj NP-Dat] [cop Cop] угодно]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [iobj вам] угодно]'
+  - 'называйте [obj меня] [xcomp Генрихом].]'
 comment: |
     'См. близкую конструкцию 1017 если хотеть-Prs.2 VP-Inf, VP-Imp (Если хочешь идти, иди).'
 references:

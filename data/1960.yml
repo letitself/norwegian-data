@@ -28,9 +28,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj это [det всё]] [cop Cop] Adj-Short'
+  - '[conj [cc но] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это [det всё]] хорошо'
+  - '[conj [cc но] [nsubj [amod самое] главное] – безопасность].]'
 references:
   - |
     ""

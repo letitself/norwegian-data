@@ -26,7 +26,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -40,9 +41,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP [nmod [case из-под] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Коробка [nmod [case из-под] торта]]'
 references:
   - |
     "This is termed as "the retrospective construction" of the preposition из-под in the article Kuznetsova, Plungian, Rakhilina. 2013. "Time as secondary to space: Russian pod ‘under’and iz-pod ‘from-under’in temporal constructions". Russian Linguistics 37 (3), Special Issue: Time and Space in Russian Temporal Expressions, 293-316. See pp. 307-310."

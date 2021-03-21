@@ -26,9 +26,11 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod ещё] [obj меня] VP-Pfv.Fut]'
+  - '[root [advmod ещё] [iobj мне] VP-Pfv.Fut]'
+  - '[root [advmod ещё] [obl [case у] меня] VP-Pfv.Fut]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ты] [obj меня] [advmod ещё] вспомнишь!]'
 references:
   - |
     ""

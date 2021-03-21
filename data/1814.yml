@@ -41,9 +41,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod как [advmod же]] [case без] NP-Gen!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [nsubj Друзья] есть?]\n[root – [cc А] [advmod как [advmod же]] [case без] друзей.]'
 references:
   - |
     ""

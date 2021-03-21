@@ -24,9 +24,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod как] [expl это] Cl?]'
+  - '[root [advmod как] [expl это] XP?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как] [expl это] [nsubj он] [advmod не] приедет?]'
 references:
   - |
     ""

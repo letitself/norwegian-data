@@ -21,7 +21,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,9 +38,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [advmod вверх [obl ногами]]]'
+  - '[root VP [advmod вверх [obl тормашками]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Вертит [obj рисунок]'
+  - '[conj поворачивает [obj его] [advmod вверх [obl ногами]]]'
+  - '[conj берёт [obl [case в] руки]]'
+  - '[conj [advmod внимательно] всматривается].]'
 comment: |
     'См. похожие конструкции 845 "VP вверх дном" (Дом вверх дном: бегают и плачут дети, вещи раскиданы, окна открыты...), 1246 "VP вниз головой" (Девочка висит вниз головой.). Иногода в конструкции "вверх" может быть заменено на "кверху". Кроме того, при использовании в переносном значении конструкция сближается по значению с "шиворот-навыворот" ("И опять все вверх тормашками, шиворот-навыворот ― подул ветер «с Подкаменной»".)'
 references:

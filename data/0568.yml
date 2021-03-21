@@ -26,9 +26,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep NP] что, [dislocated VP]?]'
+  - '[root [dep NP] что, [dislocated [cop Cop] Pred]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] что'
+  - '[dislocated выпивает]?]'
 references:
   - |
     ""

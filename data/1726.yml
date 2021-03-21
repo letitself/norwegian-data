@@ -26,7 +26,8 @@ morphology:
   - Gen
   - Pl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -42,9 +43,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [obl [case в] среде [nmod NP-Gen.Pl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod очень] извествен [obl [case в] среде [nmod журналистов]].]'
 comment: |
     'Существительное обычно стоит в форме множественного числа, но может стоять в едионственном числе, если является собирательным (например, в среде интеллигенции, крестьянства и др.).'
 references:

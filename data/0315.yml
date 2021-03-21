@@ -25,9 +25,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root станет [nsubj NP-Nom] [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Станет [nsubj он] [xcomp [obj посуду] мыть]!]'
 references:
   - |
     ""
@@ -36,6 +36,8 @@ semantic_types:
     subtypes:
       - type: High degree of certainty
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     ""

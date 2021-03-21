@@ -26,9 +26,10 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod куда] деваться-Pst [nsubj NP-Nom]?]'
+  - '[root [advmod куда] деваться-Pst [nsubj NP-Nom]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [advmod куда] девался [nsubj паспорт]?]'
 references:
   - |
     ""

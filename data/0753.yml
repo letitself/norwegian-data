@@ -11,7 +11,8 @@ morphology:
   - PP
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +28,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [dep NP [nmod [case в] большинстве [det своем]]] VP]'
+  - '[root [obl PP [nmod [case в] большинстве [det своем]]] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дети [nmod [case в] большинстве [det своем]]] [cop были] готовы [obl [case к] школе].]'
 references:
   - |
     ""

@@ -29,9 +29,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod ни] бум-бум [obl [case в] NP-Loc]]'
+  - '[root [advmod ни] бум-бум [obl [case на] NP-Loc]]'
+  - '[root [advmod ни] бум-бум [advmod по-Adj-ски]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вася] [obl [case в] математике] [advmod ни] бум-бум.]'
 references:
   - |
     ""

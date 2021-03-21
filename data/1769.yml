@@ -29,9 +29,21 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root какой [cop Cop] [nsubj смысл] [iobj NP-Dat] [csubj VP-Inf], [advcl [mark если] Cl]?]'
+  - '[root какой [cop Cop] [nsubj смысл] [iobj NP-Dat] [csubj VP-Inf]?]'
+  - '[root какой [cop Cop] [nsubj смысл] [csubj VP-Inf], [advcl [mark если] Cl]?]'
+  - '[root какой [cop Cop] [nsubj смысл] [csubj VP-Inf]?]'
+  - '[root [case в] чём [cop Cop] [nsubj смысл] [iobj NP-Dat] [csubj VP-Inf], [advcl [mark если] Cl]?]'
+  - '[root [case в] чём [cop Cop] [nsubj смысл] [iobj NP-Dat] [csubj VP-Inf]?]'
+  - '[root [case в] чём [cop Cop] [nsubj смысл] [csubj VP-Inf], [advcl [mark если] Cl]?]'
+  - '[root [case в] чём [cop Cop] [nsubj смысл] [csubj VP-Inf]?]'
+  - '[root [cc а] [cop Cop] смысл [iobj NP-Dat] [csubj VP-Inf], [advcl [mark если] Cl]?]'
+  - '[root [cc а] [cop Cop] смысл [iobj NP-Dat] [csubj VP-Inf]?]'
+  - '[root [cc а] [cop Cop] смысл [csubj VP-Inf], [advcl [mark если] Cl]?]'
+  - '[root [cc а] [cop Cop] смысл [csubj VP-Inf]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Какой [nsubj смысл] [csubj менять [obj то'
+  - '[acl [nsubj что] было [advmod всегда]]]]?]'
 references:
   - |
     ""

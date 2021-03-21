@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] отойти [iobj NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj [amod Новые] территории] отошли [iobj [amod соседнему] государству].]'
 references:
   - |
     ""
@@ -35,4 +35,4 @@ semantic_types:
   - type: Result
 family:
   - |
-    ""
+    "Possession Object gets Possessed"

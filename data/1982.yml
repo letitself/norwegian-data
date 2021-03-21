@@ -9,7 +9,8 @@ examples:
 morphology:
   - NP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep NP, [case и] [nmod [nmod [case в] [det их] числе] NP]]'
+  - '[dep NP, [nmod [nmod [case в] [det их] числе] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Многие] остались [obl [case за] рубежом]'
+  - '[nmod [nmod [case в] [det их] числе] Таня].]'
 references:
   - |
     ""

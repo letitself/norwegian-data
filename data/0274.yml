@@ -43,10 +43,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root пойти [xcomp VP]]'
-  - '[root пошли [xcomp посмотрим [obj фильм]]]'
+  - '[root пошли [xcomp VP-Pfv.Fut]]'
+  - '[root пошли [xcomp VP-Pfv.Inf]]'
+  - '[root пойдём [xcomp VP-Pfv.Fut]]'
+  - '[root пойдём [xcomp VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Пошли [xcomp посмотрим [obj фильм]]!]'
 references:
   - |
     ""

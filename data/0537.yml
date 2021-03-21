@@ -42,9 +42,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] NP-Nom [nmod [advmod не] [case из] Adj-Gen.Pl]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case из] Adj-Gen.Pl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Спа]– [expl это] удовольствие [nmod [advmod не] [case из] дешёвых].]'
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
 references:

@@ -26,9 +26,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root похоже [cop Cop] [obl [case на] то, [acl [mark что] Cl]]]'
+  - '[root похоже [cop Cop] [csubj [mark что] Cl]]]'
+  - '[root похоже [cop Cop], [parataxis Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Похоже [obl [case на] то'
+  - '[acl [mark что] [nsubj дела] [obl [case у] нас] плохи]].]'
 references:
   - |
     ""

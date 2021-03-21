@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[advcl [mark если] можно]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Кофе'
+  - '[advcl [mark если] можно].]'
 references:
   - |
     ""

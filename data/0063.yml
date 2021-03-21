@@ -32,9 +32,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вот] [aux бы] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Вот] [aux бы] [nsubj мама] испекла [obj [amod вкусный] пирог]!]'
 references:
   - |
     ""

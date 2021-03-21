@@ -3,9 +3,15 @@ record: 1614
 name: 'в тот NP-Acc, как/когда VP'
 UD_name: 'в тот NP-Acc, как/когда VP'
 illustration: 'Все ахнули в тот момент, когда она заговорила.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что две [ситуации]Situation происходят одновременно.
 examples:
+  - |
+       'Профессор поймал девушку за локоть ровно в тот момент, как она стала падать.'
+  - |
+       'В тот момент, когда я летел отвесно вниз головой, я пожалуй ничего другого не желал.'
 morphology:
   - NP
   - Acc
@@ -26,9 +32,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case в] [det тот]  NP-Acc, [acl [mark когда] Cl]]]'
+  - '[root [obl [case в] [det тот]  NP-Acc, [acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Все] ахнули [obl [case в] [det тот]  момент'
+  - '[acl [mark когда] [nsubj она] заговорила]].]'
 references:
   - |
     ""
@@ -38,4 +46,4 @@ semantic_types:
       - type: Simultaneous action
 family:
   - |
-    ""
+    "Simultaneity"

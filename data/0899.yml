@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis впрочем]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Впрочем]'
+  - '[nsubj кино] получилось [xcomp затянутым].]'
 references:
   - |
     ""

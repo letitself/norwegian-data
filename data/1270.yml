@@ -45,9 +45,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj PronPers-Nom] [advmod не] дать-Fut.1 [iobj NP-Dat] [xcomp VP-Inf]]'
+  - '[root [nsubj PronPers-Nom] [advmod не] позволить-Fut.1 [iobj NP-Dat] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod не] позволю [iobj вам] [xcomp [advmod так] [obj себя] вести]!]'
 comment: |
     'См. конструкции Не VP-Fut.2! (Никуда ты не пойдёшь!), только попробовать-Imper/пусть только попробовать-Fut.3 VP-Inf! (Пусть только попробует меня не пустить!).'
 references:

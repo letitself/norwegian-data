@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [case с] NP-Gen [cop Cop] [nsubj [nummod NumCrd-Nom] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case С] вас [nsubj [nummod:gov тысяча] рублей].]'
 references:
   - |
     ""

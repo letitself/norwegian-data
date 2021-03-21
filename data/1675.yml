@@ -24,9 +24,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod всё [fixed ещё]] [advmod не] VP-Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod всё [fixed ещё]] [advmod не] ответил [obl [case на] [det мое] письмо].]'
 references:
   - |
     ""

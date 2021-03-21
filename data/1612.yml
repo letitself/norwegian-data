@@ -10,7 +10,8 @@ morphology:
   - VP
   - Pfv
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +24,10 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advmod тотчас] VP-Pfv]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Дельфин] подплыл [obl [case к] мальчику]'
+  - '[conj [cc но] [advmod тотчас] повернулся [conj [cc и] поплыл [advmod обратно] [obl [case к] лодке]]].]'
 references:
   - |
     ""

@@ -26,9 +26,9 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [cc а] может] [iobj NP-Dat] VP-Pfv.Inf?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [cc А] может] [iobj нам] пойти [obl [case в] кино]?]'
 references:
   - |
     ""

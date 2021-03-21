@@ -12,7 +12,8 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -28,9 +29,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [case у] NP-Gen [cop Cop] [nsubj [det такой] вид, [acl [mark будто] Cl]]]'
+  - '[root [case у] NP-Gen [cop Cop] [nsubj [det такой] вид]]'
+  - '[root [case у] NP-Gen [cop Cop] [nsubj вид, [acl [mark будто] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] тебя [nsubj [det такой] вид'
+  - '[acl [mark будто] [iobj тебе] [nsubj это] [advmod не] интересно]].]'
 references:
   - |
     ""

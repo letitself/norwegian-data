@@ -26,9 +26,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod едва] сводить [obj концы] [obl [case с] концами]]'
+  - '[root [nsubj NP-Nom] сводить [obj концы] [obl [case с] концами]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case После] смерти [nmod мужа]] [nsubj она] [advmod едва] сводила [obj концы] [obl [case с] концами].]'
 references:
   - |
     ""

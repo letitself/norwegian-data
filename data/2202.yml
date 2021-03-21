@@ -12,7 +12,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -25,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] кинуться [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] броситься [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] ринуться [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Катя] кинулась [xcomp искать [obj [det свой] рюкзак]].]'
 references:
   - |
     ""

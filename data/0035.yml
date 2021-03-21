@@ -23,7 +23,8 @@ examples:
 morphology:
   - PronInt
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -37,10 +38,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '[root [fixed бог [fixed весть]] PronInt]'
-  - '[root [nsubj они] принесли [obl [case в] пакете] [obj [fixed бог [fixed весть]] что]]'
+  - '[obj [advcl [nsubj бог] весть] PronInt]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Они] принесли [obl [case в] пакете] [obj [advcl [nsubj бог] весть] что].]'
 comment: |
     'См. близкую конструкцию 359 чёрт знает PronInt (Чёрт знает как решать эту задачу).'
 references:

@@ -25,9 +25,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod ещё] [advmod как] VP!]'
+  - '[root [advmod ещё] [advmod как] Adj-Short!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Ещё] [advmod как] занимаюсь!]'
 references:
   - |
     ""

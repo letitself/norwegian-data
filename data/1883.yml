@@ -3,15 +3,28 @@ record: 1883
 name: 'VP вместе с NP-Ins'
 UD_name: 'VP вместе с NP-Ins'
 illustration: 'Вася пошёл вместе с ними.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Agent вместе с другим [участником или группой участников]Assosiated. Участники в равной степени участвуют в выполнении действия.
 examples:
+  - |
+       '[Родные]Agent и [друзья]Agent [веселятся]Action вместе с [участниками ансамбля]Assosiated.'
+  - |
+       'В футбол [мы]Agent [играли]Action вместе с [преподавателями]Counteragent.'
+  - |
+       'Вместе с юной [королевной]Counteragent [уехали]Action и многие придворные [сановники]Agent, которые решили служить и впредь у своей королевны, в чужой, дальней стране.'
+  - |
+       'Город, куда собираются отправиться выпускники, а также само место будущей учёбы [они]Agent почти всегда [выбирают]Action вместе с [родственниками]Associated, [друзьями]Associated и [учителями]Associated.'
+  - |
+       'С этого времени [он]Agent [проживает]Action вместе с [родителями]Associated за границей.'
 morphology:
   - VP
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -19,14 +32,16 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Assosiated
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [advmod вместе] [case с] NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Вася] пошёл [obl [advmod вместе] [case с] ними].]'
 references:
   - |
     ""
@@ -34,4 +49,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    ""
+    "Collective action"

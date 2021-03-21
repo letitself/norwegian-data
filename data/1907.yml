@@ -13,7 +13,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -31,9 +32,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obj [case по] [nummod NumCrd-Acc] NP [nmod [case в] [amod одни] руки]]]'
+  - '[root VP [obj [case по] [nummod NumCrd-Dat] NP [nmod [case в] [amod одни] руки]]]'
+  - '[root VP [obj [advmod [advmod не] больше] NP [nmod [case в] [amod одни] руки]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case В] кассе] продают [obj [case по] [nummod:gov два] билета [nmod [case в] [amod одни] руки]].]'
 references:
   - |
     ""

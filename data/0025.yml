@@ -39,9 +39,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [csubj VP-Inf] [cop Cop] нечего]'
+  - '[root [csubj VP-Inf] [cop Cop] нечего]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cop Есть] [cop было] нечего.]'
 references:
   - |
     "ссылка на иомдина"

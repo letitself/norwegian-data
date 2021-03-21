@@ -6,7 +6,7 @@ illustration: 'Он рассказал мне о повышении по сек�
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что [говорящий]Speaker [сообщает]Action [собеседнику]Addressee [некоторую информацию]ContentOfSpeech и при этом рассчитывает, что собеседник никому не передаст эту информацию.
+       Конструкция обозначает, что [говорящий]Speaker [сообщает]Action [собеседнику]Addressee [некоторую информацию]ContentOfSpeech и при этом рассчитывает, что собеседник никому ее не передаст.
 examples:
   - |
        '[Ты]Speaker как-то ещё до армии по секрету [мне]Addressee [признался]Action, [что тебе нравится Шарипова дочка]ContentOfSpeech.'
@@ -21,7 +21,8 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -38,9 +39,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case по] секрету]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] рассказал [iobj мне] [obl [case о] повышении] [obl [case по] секрету].]'
 references:
   - |
     ""

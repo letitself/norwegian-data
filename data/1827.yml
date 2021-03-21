@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] об-Verb [obj NP-Acc.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Доктор] обошёл [obj [det всех] больных].]'
 references:
   - |
     ""

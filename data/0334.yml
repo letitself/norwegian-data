@@ -25,9 +25,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod только] [aux бы] [advmod не] VP-Pfv.Pst]'
+  - '[root [advmod лишь] [aux бы] [advmod не] VP-Pfv.Pst]'
+  - '[root [advmod хоть] [aux бы] [advmod не] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Миша] пошел [obl [case по] [amod скользкой] дороге].]\n[root [advmod Только] [aux бы] [advmod не] упал!]'
 references:
   - |
     ""

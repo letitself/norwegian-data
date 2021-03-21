@@ -24,9 +24,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep XP] ни-ни!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [csubj Пить] ни-ни!]'
 references:
   - |
     ""

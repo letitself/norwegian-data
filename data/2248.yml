@@ -10,7 +10,8 @@ morphology:
   - VP
   - NP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case по] полной]]'
+  - '[root VP [obl [case по] [amod полной] программе]]'
+  - '[dep NP [nmod [case по] полной]]'
+  - '[dep NP [nmod [case по] [amod полной] программе]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] отдыхаем [obl [case по] полной]!]'
 references:
   - |
     ""

@@ -23,9 +23,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark если] VP-Fut], VP-Fut]'
+  - '[root [advcl [mark если] VP-Fut], [mark то] VP-Fut]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Если] [cop будет] дождь]'
+  - '[nsubj мы] [advmod не] пойдём [xcomp гулять].]'
 references:
   - |
     ""

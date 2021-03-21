@@ -24,9 +24,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [parataxis вместе [obl [case с] тем]], Cl]]'
+  - '[root [parataxis вместе [obl [case с] тем]], Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] [amod хороший] человек'
+  - '[conj [cc но] [advmod вместе [obl [case с] тем]] [nsubj я] чувствую'
+  - '[ccomp [mark что] [obl [case на] нее] нельзя [csubj положиться]]].]'
 references:
   - |
     ""

@@ -23,9 +23,17 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod пусть] [advmod даже] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пусть] [advmod даже] Cl], Cl]'
+  - '[root [advcl [advmod пусть] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пусть] Cl], Cl]'
+  - '[root [advcl [advmod пускай] [advmod даже] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пускай] [advmod даже] Cl], Cl]'
+  - '[root [advcl [advmod пускай] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пускай] Cl], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Пускай] [nsubj вода] холодная]'
+  - '[advmod всё [fixed равно]] [aux буду] плавать.]'
 references:
   - |
     ""

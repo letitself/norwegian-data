@@ -22,9 +22,9 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[amod XP [obl [case точно] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[amod Хрупкий [obl [case точно] [case из] стекла]]'
 references:
   - |
     ""

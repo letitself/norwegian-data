@@ -44,9 +44,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl NP-Dat] далеко [obl [case до] NP-Gen]]'
+  - '[root [iobj NP-Dat] [cop Cop] далеко [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Тебе] далеко [obl [case до] [amod лучшего] работника].]'
 comment: |
     'Ср. с похожей конструкцией 100 далеко до NP-Gen (Ещё было далеко до дома.)'
 references:

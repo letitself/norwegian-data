@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] закатилась [iobj NP-Ins]]'
+  - '[root [nsubj NP-Nom] залиться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Она] закатилась [iobj слезами].]'
 references:
   - |
     ""

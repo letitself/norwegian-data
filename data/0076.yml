@@ -24,9 +24,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod вроде [fixed как]] XP]'
+  - '[root [advmod вроде [fixed как]] Cl]'
+  - '[root [advmod вроде] XP]'
+  - '[root [advmod вроде] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod вроде [fixed как]] идет.]'
 references:
   - |
     ""

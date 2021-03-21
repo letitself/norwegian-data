@@ -29,7 +29,8 @@ morphology:
   - Acc
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -45,10 +46,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] VP [obl [case по] NP-Dat]]'
-  - '[root [nsubj я] дал [obl всем] [obl [case по] яблоку]]'
+  - '[root VP [iobj NP-Dat.Pl] [obj [case по] NP-Dat]]'
+  - '[root VP [iobj NP-Dat.Pl] [obj [case по] [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] дал [iobj всем] [obj [case по] яблоку [conj [cc и] [case по] [nummod:gov две] конфеты]].]'
 references:
   - |
     ""

@@ -29,9 +29,10 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc да] [advmod как] [nsubj PronPers-Nom] сметь-Prs.2 [xcomp VP-Ipfv.Inf]!]'
+  - '[root [advmod как] [nsubj PronPers-Nom] сметь-Prs.2 [xcomp VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как] [nsubj ты] смеешь [xcomp подозревать [obj отца] [obl [case в] нечестности]]!]'
 references:
   - |
     ""

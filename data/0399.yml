@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl [conj [cc и] [nsubj всё] тут]]'
+  - '[root Cl [conj [cc да [fixed и]] [nsubj всё] тут]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] [aux буду] есть [nsubj мясо] [conj [cc и] [nsubj всё] тут].]'
 references:
   - |
     ""

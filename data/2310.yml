@@ -9,7 +9,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -24,9 +25,13 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ну] [cc и] ладно, [csubj [mark что] Cl]]'
+  - '[root [cc и] ладно, [csubj [mark что] Cl]]'
+  - '[root [discourse ну] [cc и] ладно, [parataxis Cl]]'
+  - '[root [cc и] ладно, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [discourse Ну] [cc и] ладно'
+  - '[csubj [mark что] [advmod так] вышло]!]'
 references:
   - |
     ""
@@ -34,10 +39,13 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+  - type: Concession
   - type: Polarity value
     subtypes:
       - type: Positive
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
 family:
   - |
-    "Reconciliation"
+    "Reconciliation; Forced agreement"

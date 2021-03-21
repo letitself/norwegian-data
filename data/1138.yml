@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case на] [amod первый] взгляд]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case На] [amod первый] взгляд]'
+  - '[nsubj это] [advmod не] искусство.]'
 references:
   - |
     ""

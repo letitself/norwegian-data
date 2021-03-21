@@ -26,9 +26,16 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod вот] [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [cc а] [advmod вот] [advmod здесь] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod вот] [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod вот] [advmod здесь] [nsubj PronPers-Nom] VP!]'
+  - '[root [cc а] [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [cc а] [advmod здесь] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod здесь] [nsubj PronPers-Nom] VP!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [advmod вот] [advmod тут] [nsubj ты] ошибаешься!]\n[root [nsubj Предела] нет [conj [cc и] [xcomp быть] [advmod не] может]!]'
 references:
   - |
     ""

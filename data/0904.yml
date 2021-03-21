@@ -25,7 +25,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -40,9 +41,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [advmod назло [iobj NP-Dat]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Назло [iobj кондуктору]] куплю [obj билет].]'
 comment: |
     'Ср. похожую по структуре конструкцию 1141 VP на благо NP-Gen (Он работал на благо родины).'
 references:

@@ -24,9 +24,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod [advmod и] так] XP, [conj [cc а] Cl]]'
+  - '[root [advmod [advmod и] так] XP, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] [advmod [advmod и] так] плохо'
+  - '[conj [cc а] [nsubj ты] [advmod ещё] лезешь [obl [case с] вопросами]].]'
 references:
   - |
     ""

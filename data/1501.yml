@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [cop будь] [nsubj NP-Nom] Adj-Cmp]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [cop Будь] [nsubj Пётр] умнее]'
+  - '[obl [case в] драку] [aux бы] [advmod не] полез.]'
 references:
   - |
     ""

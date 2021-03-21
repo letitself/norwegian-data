@@ -41,9 +41,10 @@ intonation:
   - Exclamatory
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [obl [case на] экзамене] запрещается [xcomp VP-Ipfv.Inf]]'
+  - '[root [iobj NP-Dat] [obl [case на] экзамене] воспрещается [xcomp VP-Ipfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] экзамене] запрещается [xcomp пользоваться [obj [amod мобильными] телефонами]].]'
 comment: |
     'См. похожие конструкции (NP-Dat) не положено VP-Imp.Inf (Детям не положено гулять поздно), (NP-Dat) VP-Imp.Inf запрещено (Купаться запрещено), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят)'
 references:

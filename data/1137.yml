@@ -40,9 +40,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case на] [det PronPoss-Acc] взгляд]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case На] [det мой] взгляд]'
+  - '[nsubj это] [advmod не] искусство.]'
 comment: |
     'См. похожие конструкции 11 (как) по мне, (так) Cl (Как по мне, это ещё не беда); 264 по мнению NP-Gen, Cl (По мнению властей, необходимо принять меры и остановить загрязнение реки).'
 references:

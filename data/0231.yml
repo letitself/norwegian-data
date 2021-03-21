@@ -42,10 +42,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod ни] слова [nmod NP-Dat] [nmod [case о] NP-Dat!]]'
-  - '[root [advmod ни] слова [nmod маме] [nmod [case о] [amod нашей] поездке]]'
+  - '[root [advmod ни] слова [iobj NP-Dat] [obl [case о] NP-Loc]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Ни] слова [iobj маме] [obl [case о] [det нашей] поездке]!]'
 references:
   - |
     ""

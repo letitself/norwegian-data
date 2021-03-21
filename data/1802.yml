@@ -43,9 +43,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] [case против] NP-Gen]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case против] NP-Gen]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [case против] [amod школьной] формы!]'
 comment: |
     'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1803 и 455.'
 references:

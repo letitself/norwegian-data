@@ -10,7 +10,8 @@ morphology:
   - NumOrd
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +24,16 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep пол-NumOrd-Gen]'
+  - '[dep пол-NumOrd-Gen [nmod утра]]'
+  - '[dep пол-NumOrd-Gen [nmod вечера]]'
+  - '[dep пол-NumOrd-Gen [nmod ночи]]'
+  - '[dep половина [nmod NumOrd-Gen]]'
+  - '[dep половина [nmod NumOrd-Gen] [nmod утра]]'
+  - '[dep половина [nmod NumOrd-Gen] [nmod вечера]]'
+  - '[dep половина [nmod NumOrd-Gen] [nmod ночи]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] вернулись [advmod домой] [obl пол-восьмого].]'
 references:
   - |
     ""

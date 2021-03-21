@@ -1,16 +1,19 @@
 ---
 record: 1268
-name: 'у NP-Gen с NP-Ins Cop NP-Nom'
-UD_name: 'у NP-Gen с NP-Ins Cop NP-Nom'
+name: 'у NP-Gen с NP-Ins Cop/VP NP-Nom'
+UD_name: 'у NP-Gen с NP-Ins Cop/VP NP-Nom'
 illustration: 'У неё с редактором любовь.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает [отношения]Situation, в которые вовлечен некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated.
 examples:
 morphology:
   - NP
   - Gen
   - Ins
   - Cop
+  - VP
   - Nom
 syntactic_type_of_construction:
   - Copula Construction
@@ -22,19 +25,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Participant
+  - Assosiated
 intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [obl [case с] NP-Ins] [cop Cop] NP-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] неё] [obl [case с] редактором] любовь.]'
 references:
   - |
     ""
 semantic_types:
   - type: Comitative
+  - type: Possession
+    subtypes:
+      - type: Possession
 family:
   - |
-    ""
+    "Collective agent"

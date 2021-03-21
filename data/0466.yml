@@ -24,9 +24,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obj NP-Acc] [advmod не] проведёшь]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Почтальона] [advmod не] проведёшь.]'
 references:
   - |
     ""

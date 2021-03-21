@@ -23,9 +23,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod ещё] Cl]'
+  - '[root [cc и] [advmod ещё] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [advmod ещё] [nsubj мы] [advmod вчера] ходили [obl [case в] зоопарк]]'
 references:
   - |
     ""

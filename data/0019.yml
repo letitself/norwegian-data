@@ -28,8 +28,8 @@ morphology:
   - Ipfv
   - Inf
 syntactic_type_of_construction:
-  - Copula Construction
-  - Matrix + Infinitival Complement Construction
+  - Copula Construction, Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
@@ -44,10 +44,10 @@ intonation:
   - Exclamatory
 usage_label: Formal
 dependency_structure:
-  - '[root [advmod не] положено [csubj VP-Inf]]'
-  - '[root [obl NP-Dat] [advmod не] положено [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] положено [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] положено [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Детям] [advmod не] положено [csubj гулять [advmod поздно]].]'
 comment: |
     'См. похожие конструкции (NP-Dat) запрещается/воспрещается VP-Imp.Inf (На экзамене запрещается пользоваться мобильными телефонами), (NP-Dat) VP-Imp.Inf запрещено (Купаться запрещено), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Pres.Plur.Imp (Здесь не курят).'
 references:

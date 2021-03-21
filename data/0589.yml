@@ -10,7 +10,8 @@ morphology:
   - XP
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -26,9 +27,17 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [advmod [advmod точно] так [advmod же], [obl [case как] [advmod и] XP]]]'
+  - '[root XP [advmod [advmod точно] так [advmod же], [obl [case как] [advmod и] XP]]]'
+  - '[root Cl [advmod [advmod точно] так [advmod же], [advcl [mark как] [advmod и] Cl]]]'
+  - '[root XP [advmod [advmod точно] так [advmod же], [advcl [mark как] [advmod и] Cl]]]'
+  - '[root Cl [advmod [advmod точно] так [advmod же], [obl [case как] XP]]]'
+  - '[root XP [advmod [advmod точно] так [advmod же], [obl [case как] XP]]]'
+  - '[root Cl [advmod [advmod точно] так [advmod же], [advcl [mark как] Cl]]]'
+  - '[root XP [advmod [advmod точно] так [advmod же], [advcl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мама] готовит [obj пирог] [advmod [advmod точно] так [advmod же]'
+  - '[obl [case как] [advmod и] бабушка]].]'
 references:
   - |
     ""

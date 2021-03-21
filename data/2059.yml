@@ -10,7 +10,8 @@ morphology:
   - Cl
   - XP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[dep [advmod как [fixed раз-[advmod таки]]] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [nsubj Маша] отказалась [xcomp [iobj нам] помогать].]\n[root – [parataxis Нет]'
+  - '[nsubj она] [advmod как [fixed раз-[advmod таки]]] хотела [xcomp [iobj нам] помочь]'
+  - '[obl [case в] отличие [nmod [case от] остальных]].]'
 references:
   - |
     ""

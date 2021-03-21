@@ -16,9 +16,8 @@ syntactic_function_of_anchor:
   - Coordinator
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Reduplication
-  - Negation
-  - Subject + Predicate
+  - Reduplication, Negation, Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
@@ -30,9 +29,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj PersPron-2.Nom] [obj никого] [advmod не] хотеть-Pst [conj [cc и] [advmod не] хотеть-Prs] [xcomp обидеть]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [obj никого] [advmod не] хотели [conj [cc и] [advmod не] хотим] [xcomp обидеть].]'
 references:
   - |
     ""

@@ -39,9 +39,13 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [obl [case ввиду] того'
+  - '[acl [mark что] Cl]]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Ввиду] того'
+  - '[acl [mark что] осложнилась [nsubj обстановка [nmod [case на] [amod Ближнем] Востоке]]]]'
+  - '[aux:pass было] введено [[amod чрезвычайное] nsubj:pass положение].]'
 comment: |
     'См. близкую конструкцию ввиду NP-Gen'
 references:

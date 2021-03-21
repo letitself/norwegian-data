@@ -11,7 +11,8 @@ morphology:
   - Gen
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case на] случай [nmod NP-Gen]] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] случай [nmod дождя]] берите [obj зонт].]'
 references:
   - |
     ""

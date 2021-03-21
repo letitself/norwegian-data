@@ -26,7 +26,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Government
 syntactic_structure_of_anchor:
@@ -42,9 +43,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP-Sg [nsubj [case по] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] [det каждого] входа] стоит [nsubj [case по] часовому].]'
 references:
   - |
     ""

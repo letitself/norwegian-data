@@ -23,9 +23,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod как] Cl], [advmod так] [advmod и] Cl]'
+  - '[root [advcl [advmod как] VP], [advmod так] [advmod и] VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Как] услышал]'
+  - '[advmod так] [advmod и] записал.]'
 references:
   - |
     ""

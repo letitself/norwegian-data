@@ -31,9 +31,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [advmod как [advmod же]] [iobj PronPers-Dat] [advmod не] быть, [advcl [mark если] Cl]]'
+  - '[root [advmod как [advmod же]] [iobj PronPers-Dat] [advmod не] быть, [advcl [mark если] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] вас [nsubj [det такая] чистота]!]\n[root [cc А] [advmod как [advmod же]] [iobj ей] [advmod не] быть'
+  - '[advcl [mark если] [case в] доме [nsubj ребёнок]].]'
 references:
   - |
     ""
@@ -41,7 +43,7 @@ semantic_types:
   - type: Condition
   - type: Reaction to the previous discourse
     subtypes:
-      - type: Evidence
+      - type: Self-evidence
 family:
   - |
     ""

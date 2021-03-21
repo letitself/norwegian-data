@@ -9,11 +9,13 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
@@ -24,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod где] [expl это] видано'
+  - '[ccomp [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Где] [expl это] видано'
+  - '[ccomp [mark чтобы] [nsubj собака] [obj мороженое] ела]!]'
 references:
   - |
     ""

@@ -23,9 +23,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [advcl [mark пока] [advmod не] Cl]]'
+  - '[root Cl, [advcl [mark пока] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] читал'
+  - '[advcl [mark пока] [advmod не] стемнело].]'
 references:
   - |
     ""

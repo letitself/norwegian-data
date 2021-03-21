@@ -27,9 +27,12 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc да] [advmod ну] PronPers-Acc, [dislocated [det этот] NP-Acc]]'
+  - '[root [cc а] [advmod ну] PronPers-Acc, [dislocated [det этот] NP-Acc]]'
+  - '[root [advmod ну] PronPers-Acc, [dislocated [det этот] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Да] [discourse ну] её'
+  - '[dislocated [det эту] учёбу]!]'
 references:
   - |
     ""

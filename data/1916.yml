@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod как] [advmod ни] VP-Imp]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Этого] [nsubj никто] [advmod не] может [xcomp понять]'
+  - '[advcl [advmod как] [advmod ни] объясняй].]'
 references:
   - |
     ""

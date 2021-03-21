@@ -12,7 +12,8 @@ morphology:
   - Gen
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -26,9 +27,12 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case во] благо [nmod NP-Gen]]]'
+  - '[root VP [obl [case во] благо [nmod NP-Dat]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj:pass Единственное'
+  - '[acl:relcl [obj что] [nsubj я] могу [xcomp сказать [iobj вам] [obl [case до] суда]]]]'
+  - '– [nsubj:pass всё] [aux:pass было] сделано [obl [case во] благо [nmod ребёнка]].]'
 references:
   - |
     ""

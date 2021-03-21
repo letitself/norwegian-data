@@ -25,9 +25,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [advmod сразу] надлежит [csubj VP-Inf]]]'
+  - '[root [iobj NP-Dat] [advmod сразу] надлежало [csubj VP-Inf]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Комитету] [advmod сразу] надлежит [csubj внести [obj оплату [nmod услуг]]].]'
 references:
   - |
     ""

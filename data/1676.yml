@@ -13,7 +13,8 @@ morphology:
   - Pfv
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
@@ -26,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] получилось [csubj VP-Pfv.Inf]]'
+  - '[root [obl [case у] NP-Gen] вышло [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [advmod впервые] получилось [csubj приехать [advmod вовремя]].]'
 references:
   - |
     ""

@@ -3,8 +3,10 @@ record: 1622
 name: 'Cl, прежде чем Cl'
 UD_name: 'Cl, прежде чем Cl'
 illustration: 'Я долго сомневался, прежде чем написать ей.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие]Action совершается до другого [действия]Action.
 examples:
 morphology:
   - Cl
@@ -23,9 +25,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[advmod прежде [advcl [mark чем] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] [advmod долго] сомневался'
+  - '[advmod прежде [advcl [mark чем] написать [iobj ей]]].]'
 references:
   - |
     ""
@@ -35,4 +39,4 @@ semantic_types:
       - type: Preceding action
 family:
   - |
-    ""
+    "Precedence"

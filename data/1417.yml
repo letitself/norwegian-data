@@ -15,7 +15,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Preposition
   - Pronoun
@@ -26,9 +27,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [nsubj:pass всё] [cop Cop] схвачено]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] [det нашего] директора] [advmod везде] [nsubj:pass всё] схвачено.]'
 references:
   - |
     ""

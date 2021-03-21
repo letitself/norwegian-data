@@ -24,9 +24,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl [cc не [fixed только]] Cl'
+  - '[conj [cc но [fixed и]] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [cop был] [cc не [fixed только]] умён'
+  - '[conj [cc но [fixed и]] добр].]'
 references:
   - |
     ""

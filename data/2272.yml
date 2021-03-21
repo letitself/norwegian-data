@@ -23,9 +23,16 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root какой [advmod там] [advmod Adv]!]'
+  - '[root какой [advmod там] [advmod Adj]!]'
+  - '[root какое [advmod там] [advmod Adv]!]'
+  - '[root какое [advmod там] [advmod Adj]!]'
+  - '[root какой [advmod Adv]!]'
+  - '[root какой [advmod Adj]!]'
+  - '[root какое [advmod Adv]!]'
+  - '[root какое [advmod Adj]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Какое [advmod там] [advmod быстро]!]'
 references:
   - |
     ""

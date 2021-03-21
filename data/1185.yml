@@ -27,9 +27,18 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc или] [parataxis [obl того] лучше], XP]]'
+  - '[root Cl, [conj [cc и] [parataxis [obl того] лучше], XP]]'
+  - '[root Cl, [conj [cc или] [parataxis [obl того] хлеще], XP]]'
+  - '[root Cl, [conj [cc и] [parataxis [obl того] хлеще], XP]]'
+  - '[root Cl, [conj [cc или] [parataxis [obl того] лучше], Cl]]'
+  - '[root Cl, [conj [cc и] [parataxis [obl того] лучше], Cl]]'
+  - '[root Cl, [conj [cc или] [parataxis [obl того] хлеще], Cl]]'
+  - '[root Cl, [conj [cc и] [parataxis [obl того] хлеще], Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Произошло [nsubj событие]'
+  - '[acl именуемое [obl [case по] науке] [xcomp саботажем'
+  - '[conj [cc или] – [parataxis [obl того] хлеще] – [amod экономической] контрреволюцией]]].]'
 references:
   - |
     ""

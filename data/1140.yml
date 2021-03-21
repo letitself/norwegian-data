@@ -3,13 +3,16 @@ record: 1140
 name: 'VP на бегу'
 UD_name: 'VP на бегу'
 illustration: 'На бегу поговорили с Петром Ивановичем.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается быстро, в спешке. Может использоваться как в прямом значении (во время быстрого передвижения пешком куда-либо), так и в переносном (когда у участника мало времени на совершение этого действия).
 examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -23,9 +26,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case на] бегу]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case На] бегу] поговорили [obl [case с] Петром] [flat:name Ивановичем].]'
 references:
   - |
     ""
@@ -36,4 +39,4 @@ semantic_types:
       - type: Simultaneous action
 family:
   - |
-    ""
+    "Simultaneity"

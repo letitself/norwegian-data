@@ -31,9 +31,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[conj [cc а] [iobj PronPers-Dat-[advmod то]] что]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Хочу [conj [cc и] рисую]'
+  - '[conj [cc а] [iobj вам-[advmod то]] что]?]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой."
@@ -45,6 +47,8 @@ semantic_types:
     subtypes:
       - type: Negative
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
 family:
   - |
     "Concern"

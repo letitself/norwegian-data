@@ -27,9 +27,13 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc а] [advmod вот] [dep XP] – [expl это] да]!]'
+  - '[root Cl, [conj [cc а] [dep XP] – [advmod вот] [expl это] да]!]'
+  - '[root Cl, [conj [advmod вот] [dep XP] – [expl это] да]!]'
+  - '[root Cl, [conj [dep XP] – [advmod вот] [expl это] да]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Забудь [obl [case о] грузовиках]!]\n[root [nsubj Это] [det такая] чепуха'
+  - '[conj [cc а] [advmod вот] [nsubj [amod лесной] контракт]– [expl это] да]!]'
 references:
   - |
     ""

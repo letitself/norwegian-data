@@ -1,10 +1,12 @@
 ---
 record: 1644
-name: 'VP спустя NumCrd-Acc Noun-Gen NP-Acc'
-UD_name: 'VP спустя NumCrd-Acc N-Gen NP-Acc'
+name: 'VP спустя NumCrd-Acc NP'
+UD_name: 'VP спустя NumCrd-Acc NP'
 illustration: 'Мы встретились спустя двадцать лет.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что между точкой отсчета и последующим [событием]Event проходит некоторое [количество]Quantity [времени]Time. В нарративе конструкция может указывать на событие, которое произошло после другого события в прошлом. Предлог "спустя" может стоять как перед группой NumCrd-Acc NP, так и после нее. Если использовано числительное "один", "одна" или "одно", то и числительное, и [единица времени]Time стоят в винительном падеже (например, спустя одну неделю). В остальных случаях числительное стоит в винительном падеже, а [единица времени]Time в родительном падеже (например, спустя две недели, спустя двадцать лет).
 examples:
 morphology:
   - VP
@@ -14,7 +16,8 @@ morphology:
   - Gen
   - NP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +30,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case спустя] [nummod NumCrd-Acc] Noun]]'
+  - 'root VP [obl [case спустя] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] встретились [obl [case спустя] [nummod:gov двадцать] лет].]'
 references:
   - |
     ""

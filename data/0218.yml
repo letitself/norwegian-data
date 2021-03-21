@@ -26,9 +26,9 @@ intonation:
   - Interrogative
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root нельзя [advmod ли] [cop Cop] [csubj VP-Inf]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Нельзя [advmod ли] [csubj сделать [obj музыку] [xcomp потише]]?]'
 references:
   - |
     ""

@@ -7,7 +7,15 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что субъект имеет какие-либо способности, ловок, искусен [чем-либо заниматься]Action. Конструкция дает оценочную характеристику (обычно негативную) кого-либо как неутомимого, ловкого, искусного в чём-либо. Употребляется обычно с восклицанием. Слово "здоров" используется здесь только в краткой форме. Оценка кого-л. как неутомимого, ловкого, искусного в чем-либо. two constructions: 'stop doing Y' (we do not find it in data, corpus), 'X is good at doing Y' Evaluation of intellectual ability, mental ability - 'good at doing something'
+  - english: |
+       Конструкция обозначает, что субъект имеет какие-либо способности, ловок, искусен [чем-либо заниматься]Action. Конструкция дает оценочную характеристику (обычно негативную) кого-либо как неутомимого, ловкого, искусного в чём-либо. Употребляется обычно с восклицанием. Слово "здоров" используется здесь только в краткой форме.
 examples:
+  - |
+       '― Здоров [драться-то]Action! ― послышалось в задних рядах.'
+  - |
+       'А ты, Петя, оказывается, здоров [болтать]Action про наши дела.'
+  - |
+       'Ну, давай подерёмся, если ты так же здоров [драться]Action, как здоров ругаться!'
 morphology:
   - NP
   - Nom
@@ -28,9 +36,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] здоров VP-Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] здоров [xcomp врать].]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

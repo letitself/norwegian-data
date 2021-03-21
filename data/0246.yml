@@ -30,9 +30,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod ничуть] [advmod не] Adj-Cmp [obl NP-Gen]]'
+  - '[root VP [advmod [advmod ничуть] [advmod не] Adv-Cmp [obl NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ты] [advmod [advmod ничуть] не] лучше [obl [det своей] сестры].]'
 references:
   - |
     ""

@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] раз-Verb [obj NP-Acc.Pl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Официант] разнёс [obl [case по] столам] [obj подносы].]'
 references:
   - |
     ""

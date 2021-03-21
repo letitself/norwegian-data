@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [amod сам] виноватый-Short'
+  - '[parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [amod Сам] виноват'
+  - '[parataxis надо [cop было] [csubj [obj меня] [advmod раньше] слушать]]!]'
 references:
   - |
     ""

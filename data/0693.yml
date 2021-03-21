@@ -12,7 +12,8 @@ morphology:
   - Prs
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -27,9 +28,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc а] [nsubj NP-Nom] [advmod не] думать-Prs'
+  - '[ccomp [mark что] Cl]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [nsubj Маша] [advmod не] думает'
+  - '[ccomp [mark что] [iobj ей] пора [advmod домой]]?]'
 references:
   - |
     ""

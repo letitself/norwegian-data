@@ -26,9 +26,12 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ну], [parataxis знать-Prs.2 [advmod ли]], XP]'
+  - '[root [parataxis знать-Prs.2 [advmod ли]], XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [discourse Ну]'
+  - '[parataxis знаешь [advmod ли]]'
+  - '[obj это] [iobj [advmod не] тебе] решать.]'
 references:
   - |
     ""

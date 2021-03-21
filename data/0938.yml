@@ -25,9 +25,12 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [cc да [fixed и]] [obl [case с] чего] [aux бы] Cl?]'
+  - '[root [cc да] [obl [case с] чего] [aux бы] Cl?]'
+  - '[root [cc и] [obl [case с] чего] [aux бы] Cl?]'
+  - '[root [obl [case с] чего] [aux бы] Cl?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc Да [fixed и]] [obl [case с] чего] [aux бы] [iobj ему] радоваться?]'
 references:
   - |
     ""

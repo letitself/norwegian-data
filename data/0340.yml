@@ -24,9 +24,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [obl [case у] NP-Gen] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] нее] [obl [case у] дочки] [advmod уже] родился [nsubj сын].]'
 references:
   - |
     ""

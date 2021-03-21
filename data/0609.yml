@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [iobj PronPers-Dat] [obl NP-Dat] [cop Cop] Pred]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] [obl ушам] холодно.]'
 references:
   - |
     ""

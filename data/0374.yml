@@ -12,11 +12,13 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix + Infinitival Complement Construction
+  - Matrix
+  - Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Pronoun
   - Verb
@@ -26,9 +28,9 @@ intonation:
   - Interrogative
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj что] [iobj NP-Dat] мешать [xcomp VP-Inf]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Что] [iobj ему] мешало [xcomp рассказать [obj [det всю] правду]]?]'
 references:
   - |
     ""

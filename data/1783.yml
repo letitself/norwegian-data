@@ -18,8 +18,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Negation
-  - Verb + Object
+  - Negation, Verb
+  - Object
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
@@ -29,9 +29,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obj NP-Gen] [iobj NP-Dat] [cop Cop] [advmod не] занимать]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Хитрости] [iobj ему] [advmod не] занимать.]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

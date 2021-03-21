@@ -26,9 +26,15 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [cc или] VP-Fut]]'
+  - '[root Cl, [conj [cc а] [advmod иначе] VP-Fut]]'
+  - '[root Cl, [conj [cc иначе] VP-Fut]]'
+  - '[root Cl, [conj [cc или] можно [csubj VP-Fut]]]'
+  - '[root Cl, [conj [cc а] [advmod иначе] можно [csubj VP-Fut]]]'
+  - '[root Cl, [conj [cc иначе] можно [csubj VP-Fut]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Извинись'
+  - '[conj [cc иначе] [nsubj я] перестану [xcomp [obl [case с] тобой] разговаривать]].]'
 references:
   - |
     ""

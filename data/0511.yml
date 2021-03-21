@@ -26,9 +26,10 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod как] [advmod давай] VP-Inf]'
+  - '[root [nsubj NP-Nom] [advmod давай] VP-Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod как] [advmod давай] петь.]'
 references:
   - |
     ""

@@ -24,9 +24,12 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark как [fixed только]] Cl], Cl]'
+  - '[root [advcl [mark лишь [fixed только]] Cl], Cl]'
+  - '[root [advcl [mark едва [fixed только]] Cl], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Как [fixed только]] услышу]'
+  - '[advmod сразу] прибегу.]'
 references:
   - |
     ""

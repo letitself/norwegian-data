@@ -29,9 +29,16 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [advmod впору]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [obl [case в] [det самый] раз]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [advmod как [fixed раз]]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [obl [case в] аккурат]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [advmod впору]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [obl [case в] [det самый] раз]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [advmod как [fixed раз]]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [obl [case в] аккурат]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Сапоги] пришлись [iobj ему] [advmod впору].]'
 references:
   - |
     ""

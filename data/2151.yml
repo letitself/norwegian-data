@@ -16,8 +16,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject + Predicate
-  - Negation
+  - Subject
+  - Predicate, Negation
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
@@ -28,9 +28,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl [advmod не] дай [nsubj Бог]] [nsubj он] уйдёт [obl [case из] дома]]'
+  - '[root [advcl [advmod не] дай [nsubj Боже]] [nsubj он] уйдёт [obl [case из] дома]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [advmod Не] дай [nsubj Бог]] [nsubj он] уйдёт [obl [case из] дома]!]'
 references:
   - |
     ""

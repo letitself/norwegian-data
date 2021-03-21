@@ -41,9 +41,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] достигать [obj [nummod NumCrd-Gen] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Крокодилы] достигают [obj [nummod трех] метров [nmod [case в] длину]].]'
 references:
   - |
     ""

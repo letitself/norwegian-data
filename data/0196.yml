@@ -9,7 +9,8 @@ examples:
 morphology:
   - XP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[advmod [advmod не] иначе [obl [case как] XP]]'
+  - '[root [advmod [advmod не] иначе [fixed как]] XP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Дома] [obj кошку] называли [advmod не] [advmod иначе] [obl [case как] Охотница].]'
 references:
   - |
     ""

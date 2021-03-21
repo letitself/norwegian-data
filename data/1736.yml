@@ -11,7 +11,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root VP [obl [advmod вверх [case по] NP-Dat]]]'
+  - '[root VP [obl [advmod вниз [case по] NP-Dat]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Следует [csubj двигаться] [obl [advmod вниз [case по] реке]].]'
 references:
   - |
     ""

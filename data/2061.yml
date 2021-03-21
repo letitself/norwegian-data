@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [csubj VP-Inf] [cop Cop] некогда]'
+  - '[root [csubj VP-Inf] [cop Cop] некогда]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Ему] [csubj идти [obl [case в] кино]] некогда.]'
 references:
   - |
     ""

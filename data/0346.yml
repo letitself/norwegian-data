@@ -9,7 +9,8 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -24,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root ходить [nsubj слух'
+  - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Ходят [nsubj слухи'
+  - '[acl [mark что] [nsubj лето] [cop будет] жарким]].]'
 references:
   - |
     ""

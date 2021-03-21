@@ -28,9 +28,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dislocated Noun-Nom] [nsubj PronPers-3.Nom] [obl [advmod и] [case в] Африке] Noun-Nom]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [dislocated Сахар] [nsubj он] [obl [advmod и] [case в] Африке] сахар.]'
 references:
   - |
     ""

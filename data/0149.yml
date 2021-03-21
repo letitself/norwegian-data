@@ -26,14 +26,17 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod как] [cop Cop] [advmod не] VP-Inf!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как] [advmod не] знать!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+      - type: Self-evidence
 family:
   - |
     ""

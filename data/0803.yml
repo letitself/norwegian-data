@@ -11,7 +11,8 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case в] противовес [nmod NP-Dat]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [dislocated [amod Задорный] весельчак]'
+  - '[nsubj он] получил [obj [det свое] прозвище] [obl [case в] противовес [nmod [amod старшему] брату]].]'
 references:
   - |
     ""

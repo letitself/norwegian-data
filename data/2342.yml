@@ -41,10 +41,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root кончать-Imper [xcomp VP-Imp.Inf]]'
-  - '[root кончайте [xcomp паниковать]]'
+  - '[root кончать-Imp [xcomp VP-Ipfv.Inf]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – Кончайте [xcomp паниковать]! – [parataxis [advmod строго] сказал [nsubj он] [iobj нам [nmod [case с] мамой]]].]'
 comment: |
     'См. конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать).'
 references:

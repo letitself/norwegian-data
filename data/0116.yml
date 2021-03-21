@@ -39,10 +39,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root долой [obj NP-Acc]]'
-  - '[root долой [obj демократию]]'
+  - '[root долой [obj NP-Acc]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Долой [obj демократию]!]'
 comment: |
     'см. близкие конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать), кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.)'
 references:

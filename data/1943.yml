@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root как [cop Cop] [nsubj [det PronPoss] имя]?]'
+  - '[root как [cop Cop] [nsubj [det PronPoss] фамилия]?]'
+  - '[root как [cop Cop] [nsubj [det PronPoss] отчество]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Как [nsubj [det ваше] имя]?]'
 references:
   - |
     ""

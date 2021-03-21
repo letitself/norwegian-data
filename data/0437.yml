@@ -36,10 +36,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root [nsubj Noun-Nom]-Noun-Ins [conj [cc а/но] Cl]]; [root [nsubj дружба] дружбой'
-  - '[conj [cc но] [nsubj я] влюбился [obl [case в] нее]]'
+  - '[root Noun-Nom [nmod Noun-Ins], [conj [cc а] Cl]]'
+  - '[root Noun-Nom [nmod Noun-Ins], [conj [cc но] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Дружба [nmod дружбой]'
+  - '[conj [cc но] [nsubj я] влюбился [obl [case в] нее]].]'
 comment: |
     'см. конструкцию спросить спрошу, но он может не знать'
 references:

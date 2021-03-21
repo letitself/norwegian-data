@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [mark Как] [parataxis известно]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [mark Как] [parataxis известно]'
+  - '[nsubj он] мастер [xcomp [obj стихи] сочинять].]'
 references:
   - |
     ""

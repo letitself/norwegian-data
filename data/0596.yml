@@ -26,9 +26,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root VP-Pst [advmod было]'
+  - '[conj Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] пошел [advmod было] [obl [case на] работу]'
+  - '[conj [cc но] передумал].]'
 references:
   - |
     ""

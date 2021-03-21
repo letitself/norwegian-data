@@ -26,9 +26,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] можно [csubj VP-Inf]]'
+  - '[root [cop Cop] можно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case До] Москвы] [obl [case из] Лондона] можно [csubj долететь [obl [case за] [nummod:gov четыре] часа]].]'
 references:
   - |
     ""

@@ -3,13 +3,26 @@ record: 275
 name: 'пока что Cl'
 UD_name: 'пока что Cl'
 illustration: 'Пока что мы видели только один магазин.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [ситуация]Situation, актуальная в данный момент, не поменяется в ближайшем будущем, хотя в дальнейшем может поменяться.
 examples:
+  - |
+       'Зарплату повысили. В общем, пока что [меня все устраивает]Situation.'
+  - |
+       'Несмотря на третий год проведения мероприятия, [новые исследователи пока что не появились]Situation.'
+  - |
+       'Бабушка говорит: позже будет видно, а пока что [живите у меня]Situation.'
+  - |
+       '[Я пока что молода]Situation! ― опомнилась Ольга.'
+  - |
+       'Пока что [Ярославль мало напоминает Париж и Лондон]Situation.'
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -17,14 +30,14 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Situation
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod пока [fixed что]] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Пока [fixed что]] [nsubj мы] видели [obj [advmod только] [nummod один] магазин].]'
 references:
   - |
     ""
@@ -37,4 +50,4 @@ semantic_types:
       - type: Temporal boundary
 family:
   - |
-    ""
+    "Continuativity: Since remote past"

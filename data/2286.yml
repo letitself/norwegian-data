@@ -27,9 +27,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [det какая] [cop Cop] разница, [parataxis Cl [conj [cc или] Cl]]?]'
+  - '[root [cc да] [det какая] [cop Cop] разница, [parataxis Cl [conj [cc или] Cl]]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [det Какая] разница'
+  - '[parataxis [amod хороший] [nsubj ты] тренер [conj [cc или] нет]]?]'
 references:
   - |
     ""

@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [csubj Cl] [advmod не] суть]'
+  - '[root [csubj Cl] [advmod не] [cop суть] важно]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [csubj [cop Был] [nsubj человек] трезвым [conj [cc или] пьяным]] – [advmod не] суть!]'
 references:
   - |
     ""

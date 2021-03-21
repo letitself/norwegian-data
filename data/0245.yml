@@ -27,9 +27,14 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [dep ничто [det иное, [obl [case кроме] NP-Gen]]], Cl]'
+  - '[root [dep никто [det иной, [obl [case кроме] NP-Gen]]], Cl]'
+  - '[root [dep ничто] [amod иное], Cl]'
+  - '[root [dep никто] [amod иной], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ничто [det иное'
+  - '[obl [case кроме] экзаменов]]]'
+  - '[obj меня] [advmod не] интересует.]'
 references:
   - |
     ""

@@ -13,7 +13,8 @@ morphology:
   - Gen
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -27,9 +28,10 @@ intonation:
   - ~
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root VP [obl [case из] расчета [obj [nummod NumCrd] NP [nmod [case на] NP-Acc]]]]'
+  - '[root VP [obl [nummod NumCrd] NP [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Выдали [obj воды] [obl [case из] расчета [obj [nummod:gov 500] мл [nmod [case на] человека]]].]'
 references:
   - |
     ""

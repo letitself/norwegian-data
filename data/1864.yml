@@ -41,9 +41,14 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [csubj Cl] [advmod не] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj Cl] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj Cl] равняется [xcomp NumCrd-Nom]]'
+  - '[root [csubj Cl] [advmod не] равно [xcomp NumCrd-Dat]]'
+  - '[root [csubj Cl] равно [xcomp NumCrd-Dat]]'
+  - '[root [csubj Cl] равняется [xcomp NumCrd-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Два [nmod [case плюс] один]] [advmod не] равно [xcomp пяти].]'
 references:
   - |
     ""

@@ -27,9 +27,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] на-Verb [obj [case с] [nummod:gov три] короба]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Организаторы [nmod шоу]] наобещали [iobj мне] [obj [case с] [nummod:gov три] короба].]'
 references:
   - |
     ""

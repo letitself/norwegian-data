@@ -29,9 +29,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case за] кого] [nsubj NP-Nom] [obj NP-Acc] принимать?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case За] кого] [nsubj он] [obj меня] принимает?]\n[root [nsubj Я] [advmod никогда] [advmod не] списываю.]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974."

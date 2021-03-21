@@ -26,9 +26,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod [advmod и] так] Verb-Pst]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod [advmod и] так] задержались.]'
 references:
   - |
     ""

@@ -24,7 +24,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Nominal quantifier
 syntactic_structure_of_anchor:
@@ -37,10 +38,9 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '[root куча [nmod NP-Gen.Plur]]'
-  - '[root куча [nmod дел]]'
+  - '[dep куча [nmod NP-Gen]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [case У] меня [advmod всегда] [nsubj куча [nmod дел]].]'
 references:
   - |
     "Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва."

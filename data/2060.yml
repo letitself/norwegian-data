@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [cop Cop] некого [csubj VP-Inf]]'
+  - '[root [cop Cop] некого [csubj VP-Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Мне] некого [csubj пригласить].]'
 references:
   - |
     ""

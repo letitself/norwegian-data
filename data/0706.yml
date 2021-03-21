@@ -26,9 +26,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Аdj-Nom [cop Cop] [nsubj NP-Nom]'
+  - '[parataxis правда]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [amod Красивая] девочка'
+  - '[parataxis правда]?]'
 references:
   - |
     ""

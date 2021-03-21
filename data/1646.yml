@@ -3,30 +3,52 @@ record: 1646
 name: 'настанет/придёт время/пора/день/час, когда VP'
 UD_name: 'настанет/придёт время/пора/день/час, когда VP'
 illustration: 'Настанет день, когда все мы будем счастливы.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что в отдаленном будущем произойдет некоторое [событие]Event, благодаря которому наступит новая ситуация. Говорящий уверен в том, что это случится. Слот VP обычно заполняется глаголами совершенного вида.
 examples:
+  - |
+       'Я больше чем уверен, что придет пора, когда мы [встретимся]Event и [заживем жизнью, полной счастья и радости]Event.'
+  - |
+       'Писатели-фантасты давно перешагнули границы нашей Земли. Придет время, когда и это [станет реальностью]Event.'
+  - |
+       'Придет день, когда [наши дела пойдут хорошо, жизнь и быт наладятся, воцарится спокойствие.]Situation'
+  - |
+       'Мне даже грустно становится, что придет час, когда все мы [разъедемся]Event.'
+  - |
+       'Настанет время, когда человек [станет полностью использовать природные богатства морей и океанов]Action.'
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Matrix + Sentential Complement Construction
+  - Matrix
+  - Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject + Predicate
+  - Subject
+  - Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
   - Conjunction
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root настанет [nsubj время], [advcl [mark когда] Cl]]'
+  - '[root настанет [nsubj пора], [advcl [mark когда] Cl]]'
+  - '[root настанет [nsubj день], [advcl [mark когда] Cl]]'
+  - '[root настанет [nsubj час], [advcl [mark когда] Cl]]'
+  - '[root придёт [nsubj время], [advcl [mark когда] Cl]]'
+  - '[root придёт [nsubj пора], [advcl [mark когда] Cl]]'
+  - '[root придёт [nsubj день], [advcl [mark когда] Cl]]'
+  - '[root придёт [nsubj час], [advcl [mark когда] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Настанет [nsubj день]'
+  - '[advcl [mark когда] [nsubj [det все] мы] [cop будем] счастливы].]'
 references:
   - |
     ""
@@ -39,4 +61,4 @@ semantic_types:
       - type: Future
 family:
   - |
-    ""
+    "Confidence in future"

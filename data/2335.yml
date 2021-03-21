@@ -16,10 +16,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Negation
-  - Light Verb Construction
-  - Verb + Object
-  - Nominal Pattern
+  - Negation, Light Verb Construction, Verb
+  - Object, Nominal Pattern
 part_of_speech_of_anchor:
   - Noun
   - Negation Marker
@@ -31,9 +29,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [obj понятия] [advmod не] иметь [obl [case о] NP-Loc]]'
+  - '[root [nsubj NP-Nom] [obj понятия] [advmod не] иметь, [ccomp Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Понятия] [advmod не] имею'
+  - '[ccomp [nsubj что] [obl [case между] ними] произошло].]'
 references:
   - |
     ""

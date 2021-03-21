@@ -44,9 +44,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root XP'
+  - '[conj [cc или] [advcl [mark если] [iobj NP-Dat] [cop Cop] угодно]'
+  - 'XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Город] [advmod сейчас] называется [xcomp Екатеринбург]'
+  - '[conj [cc или] [advcl [mark если] [iobj вам] угодно] Свердловск].]'
 comment: |
     'См. другую конструкцию со словом "угодно": 1016 если NP-Dat Cop угодно, Cl (Если вам угодно, называйте меня Генрихом).'
 references:

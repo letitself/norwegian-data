@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [obl [case вне] [det всякого] сомнения]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case Вне] [det всякого] сомнения]'
+  - '[nsubj он] невиновен.]'
 references:
   - |
     ""

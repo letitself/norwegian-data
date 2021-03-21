@@ -40,10 +40,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root по-VP-Past [parataxis и [fixed будет]]]'
-  - '[root погуляли [parataxis и [fixed будет]]]'
+  - '[root по-Verb-Pst [conj [cc и] будет]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Погуляли [conj [cc и] будет].]'
 comment: |
     'Частотными заполнителями являются глаголы, обозначающие веселое, непринужденное времяпрепровождение, развлечения; глаголы речи; глаголы, обозначающие негативные эмоциональные переживания.'
 references:

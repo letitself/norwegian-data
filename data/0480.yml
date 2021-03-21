@@ -43,10 +43,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl NP-Dat] [advmod не] пристало [nsubj VP-Inf]]'
-  - '[root [obl тебе] [advmod не] пристало [nsubj ходить [obl [case по] дискотекам]]]'
+  - '[root [iobj NP-Dat] [advmod не] пристало [csubj VP-Ipfv.Inf]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Тебе] [advmod не] пристало [csubj ходить [obl [case по] дискотекам]].]'
 comment: |
     'См. близкие по значению конструкции NP-Dat не подобает VP-Inf (Не подобает московскому царю кланяться польскому королю), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не нужно/надо VP-Inf (не нужно опекать детей до безрассудства), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
 references:

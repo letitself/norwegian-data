@@ -3,8 +3,10 @@ record: 1063
 name: '(как) только (на NP-Acc) Verb-Pfv.Pst, как/так и Cl'
 UD_name: '(как) только (на NP-Acc) V-Perf.Past, как/так и Cl'
 illustration: 'Только на минуточку присела, как сразу уснула.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие]Action совершается сразу после другого [действия]Action. Как правило, первое действие происходит очень быстро, но за это короткое время успевает произойти второе действие, неожиданно для говорящего. Слот NP-Acc обычно заполняется названиями отрезков времени, часто в диминутиве (например, "на секундочку, на минуточку, на минутку, на часок").
 examples:
 morphology:
   - NP
@@ -30,9 +32,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [mark как [fixed только]] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark так [fixed и]] Cl]]'
+  - '[root [mark только] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark как] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [mark Только] [obl [case на] минуточку] присела'
+  - '[advcl [mark как] [advmod сразу] уснула].]'
 references:
   - |
     ""
@@ -43,4 +47,4 @@ semantic_types:
       - type: Subsequent action
 family:
   - |
-    ""
+    "Immediate consecution"

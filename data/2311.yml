@@ -26,9 +26,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[conj [cc и] [obl [case на] том] спасибо]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] обижают'
+  - '[conj [cc и] [obl [case на] том] спасибо].]'
 references:
   - |
     ""

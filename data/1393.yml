@@ -27,9 +27,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [cop Cop] близкий-Short [obl [case к] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] [advmod [case как] никогда] близки [obl [case к] победе].]'
 references:
   - |
     ""

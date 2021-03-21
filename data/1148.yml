@@ -25,9 +25,9 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advmod как] [nsubj NP-Nom] [obj NP-Acc] раскусить-Pst!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Как] [nsubj брат] [obj тебя] раскусил!]'
 references:
   - |
     ""

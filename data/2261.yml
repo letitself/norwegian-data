@@ -13,7 +13,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Verb + Object
+  - Verb
+  - Object
 part_of_speech_of_anchor:
   - Verb
   - Pronoun
@@ -23,9 +24,11 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl случись [nsubj что]]'
+  - 'VP-Fut]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl Случись [nsubj что] [advmod завтра]]'
+  - '[iobj ей] не [obl [case к] кому] [aux будет] [csubj обратиться].]'
 references:
   - |
     ""

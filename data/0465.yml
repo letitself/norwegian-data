@@ -40,9 +40,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obj NP-Acc] звать [xcomp NP-Ins]]'
+  - '[root [obj NP-Acc] звать [xcomp NP-Nom]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Мальчика] звать [xcomp Юрой].]'
 comment: |
     'См. близкую конструкцию 1944 NP-Acc зовут NP-Nom (Мою дочку зовут Маша).'
 references:

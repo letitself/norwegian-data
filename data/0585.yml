@@ -25,7 +25,8 @@ morphology:
   - Ins
   - VP
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -40,10 +41,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP] VP [obl [case перед] NP]]'
-  - '[root [nsubj он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]]]'
+  - '[root VP [obl [case перед] NP-Ins]]]'
+  - '[dep NP [nmod [case перед] NP-Ins]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]].]'
 references:
   - |
     ""

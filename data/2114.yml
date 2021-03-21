@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obl [case у] NP-Gen] [aux Aux] PtcpPass]'
+  - '[root [obl [case у] NP-Gen] [cop Cop] Pred]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case У] меня] [nsubj:pass всё] сделано.]'
 references:
   - |
     ""

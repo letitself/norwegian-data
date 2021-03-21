@@ -10,7 +10,8 @@ morphology:
   - PronDem
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,10 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [case в] [det PronDem] пору] Cl]'
+  - '[root [case в] [det PronDem] время] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Ершов] служил [obl [case в] [det эту] пору] [obl [case в] армии].]'
 references:
   - |
     ""

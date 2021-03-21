@@ -27,9 +27,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Nom] [advmod не] оставить [obj NP-Acc] [obl [case без] крова]!]'
+  - '[root [nsubj NP-Nom] оставить [obj NP-Acc] [obl [case без] крова]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Не] оставит [advmod же] [nsubj отец] [obj [amod родных] детей] [obl [case без] крова]!]'
 references:
   - |
     ""

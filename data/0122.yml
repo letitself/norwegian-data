@@ -25,9 +25,12 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [advmod ещё] [advmod и] Cl]!]'
+  - '[root Cl, [conj [advmod ещё] Cl]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [advmod не] поздравил [obj меня] [obl [case с] днём [nmod рождения]]'
+  - '[conj [advmod ещё] [advmod и] хочет'
+  - '[ccomp [mark чтобы] [nsubj я] [obj его] любила]]]'
 references:
   - |
     "Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology)."

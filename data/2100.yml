@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl? – [parataxis PronPers-3 [amod самый]]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это] [cop был] Белов'
+  - '[nmod [case из] журнала "[appos [amod Новый] мир]"]?]\n[root –Он [amod самый].]'
 references:
   - |
     ""

@@ -11,7 +11,8 @@ morphology:
   - VP
   - Adj
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +25,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[advmod [advmod [advmod довольно] Adv]]'
+  - '[advmod [advmod [advmod достаточно] Adv]]'
+  - '[advmod [amod [advmod довольно] Adj]]'
+  - '[amod [advmod [advmod достаточно] Adj]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Я] ждал [obj её] [advmod [advmod довольно] долго].]'
 references:
   - |
     ""

@@ -40,9 +40,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root XP'
+  - '[appos [cc а [fixed именно]] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [iobj мне] подарил [obj книгу'
+  - '[appos [cc а [fixed именно]] энциклопедию [nmod [case о] динозаврах]]].]'
 references:
   - |
     ""

@@ -30,9 +30,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [cc а] [iobj NP-Dat] [advmod не] пора [advmod ли] [cop Cop] [csubj VP-Inf]?]'
+  - '[root [cc а] [iobj NP-Dat] [advmod не] пора [cop Cop] [csubj VP-Inf]?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [cc А] [iobj тебе] [advmod не] пора [advmod ли] [csubj спать]?]'
 references:
   - |
     ""

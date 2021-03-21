@@ -9,7 +9,8 @@ examples:
 morphology:
   - PronInt
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [obl [amod ровным] счетом] ни-PronInt]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Это] [advmod не] принесло [iobj нам] [obj [det [obl [amod ровным] счетом] никакой] пользы].]'
 references:
   - |
     ""

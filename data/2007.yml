@@ -23,9 +23,11 @@ intonation:
   - Assertive
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark коли] [advmod уж] Cl], Cl]'
+  - '[root [advcl [mark коли] Cl], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Коли] [advmod уж] пришёл [obl [case в] гости]]'
+  - 'садись [obl [case за] стол] [conj [cc и] ешь].]'
 references:
   - |
     ""

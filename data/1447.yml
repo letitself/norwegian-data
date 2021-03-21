@@ -10,7 +10,8 @@ morphology:
   - Adj
   - Noun
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -23,9 +24,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [amod Adj-Adj] Noun]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [amod Синее-синее] небо]'
 references:
   - |
     ""

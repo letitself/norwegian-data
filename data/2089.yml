@@ -26,9 +26,12 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod несмотря [obl [case на] то, [acl [mark что] Cl]]], Cl]'
+  - '[root [advmod невзирая [obl [case на] то, [acl [mark что] Cl]]], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Несмотря [obl [case на] то'
+  - '[acl [mark что] [iobj ему] [cop было] [nummod:gov [advmod уже] двадцать] лет]]]'
+  - '[nsubj он] [advmod ещё] [advmod не] выбрал [obj профессию].]'
 references:
   - |
     ""

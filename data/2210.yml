@@ -3,15 +3,28 @@ record: 2210
 name: 'Adj на Noun-Acc'
 UD_name: 'Adj на N-Acc'
 illustration: 'Скупой на слова'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция передаёт [большую или, напротив, малую интенсивность самовыражния]Property, проявлющуюся в количестве [слов или событий]Theme
+  - english: |
+       The construction is used to denote [high or low intensity of self-expression]Property, through [words or actions]Theme
 examples:
+  - |
+       'Врач-психиатр, шутка ли. Сухая, [[скупая]Property  [на]на  [слова и рубли]Theme'
+  - |
+       'Голь [[на]на  [выдумки]Theme  [хитра]Property'
+  - |
+       'Отец всегда был угрюм и [[скуповат]Property  [на]на  [ласку]Theme'
+  - |
+       'Минувшая неделя была [[богата]Property  [на]на  [события]Theme'
 morphology:
   - Adj
   - Noun
   - Acc
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -24,9 +37,9 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[amod Adj [obl [case на] Noun-Acc]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[amod Скупой [obl [case на] слова]]'
 references:
   - |
     ""

@@ -22,9 +22,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl'
+  - '[conj [cc зато] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Мы] опоздали [obl [case на] самолет]'
+  - '[conj [cc зато] [advmod теперь] есть [nsubj [amod дополнительный] день [nmod отдыха]]].]'
 references:
   - |
     ""

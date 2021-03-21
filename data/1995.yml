@@ -3,8 +3,10 @@ record: 1995
 name: 'по преданию/легенде, Cl'
 UD_name: 'по преданию/легенде, Cl'
 illustration: 'По легенде, вода в этом озере лечебная.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [источник]Source сообщаемой [информации]Content.
 examples:
 morphology:
   - Cl
@@ -24,9 +26,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case по] преданию], Cl]'
+  - '[root [parataxis [case по] легенде], Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case По] легенде]'
+  - '[nsubj вода] [obl [case в] [det этом] озере] лечебная.]'
 references:
   - |
     ""

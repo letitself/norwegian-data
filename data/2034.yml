@@ -13,7 +13,8 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head + Modifier Construction
+  - Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Nominal Quantifier
 syntactic_structure_of_anchor:
@@ -27,9 +28,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [amod [nummod одна] NumOrd-Sg.F] часть]'
+  - '[dep [amod [nummod одна] NumOrd-Sg.F] доля]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Добавить [obj [nummod одну] пятую [nmod ложки [nmod сахара]]].]'
 references:
   - |
     ""

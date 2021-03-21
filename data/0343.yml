@@ -26,9 +26,11 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root умирать-Prs.1.Sg'
+  - '[parataxis Cl]!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Умираю'
+  - '[parataxis скучно]!]'
 references:
   - |
     ""

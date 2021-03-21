@@ -50,9 +50,13 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] [det PronPoss] месте], Cl]'
+  - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] месте [nmod NP-Gen]], Cl]'
+  - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] [det PronPoss] месте], [mark то] Cl]'
+  - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] месте [nmod NP-Gen]], [mark то] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl Будь] [nsubj я] [obl [case на] [det твоем] месте]'
+  - '[nsubj я] [aux бы] согласился [obl [case на] [det эту] должность].]'
 references:
   - |
     ""

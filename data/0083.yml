@@ -29,8 +29,8 @@ morphology:
   - VP
   - Adv
 syntactic_type_of_construction:
-  - Copula Construction
-  - Head + Modifier Construction
+  - Copula Construction, Head
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -43,10 +43,10 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '[root [advmod всё] XP-ее]'
-  - '[root [nsubj шум] становился [advmod [advmod всё] сильнее]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod всё] Adj-Cmp]'
+  - '[root [nsubj NP-Nom] VP [advmod [advmod всё] Adv-Cmp]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Шум] становился [xcomp [advmod всё] сильнее].]'
 comment: |
     'См. близкую конструкцию всё NP-Nom Cop всё Adj-Cmp и ~Adj-Cmp/ VP Adv-Cmp и ~Adv-Cmp (Спортсмен бежал всё быстрее и быстрее.)'
 references:

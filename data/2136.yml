@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [parataxis судя [obl [case по] всему]]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis Судя [obl [case по] всему]]'
+  - '[nsubj [det эта] идея] станет [xcomp одной [nmod [case из] центральных]].]'
 references:
   - |
     ""

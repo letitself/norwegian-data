@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: Obsolete
 dependency_structure:
-  - '~'
+  - '[root неровён [nsubj час]'
+  - '[parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Неровён [nsubj час]'
+  - '[parataxis придет [nsubj охранник]].]'
 references:
   - |
     ""

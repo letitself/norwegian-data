@@ -42,9 +42,10 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [iobj NP-Dat] [csubj:pass VP-Ipfv.Inf] [cop Cop] запрещено!]'
+  - '[root [csubj:pass VP-Ipfv.Inf] [cop Cop] запрещено!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [csubj:pass Купаться] запрещено!]'
 comment: |
     'См. похожие конструкции (NP-Dat) не положено VP-Imp.Inf (Детям не положено гулять поздно), (NP-Dat) запрещается/воспрещается VP-Imp.Inf (На экзамене запрещается пользоваться мобильными телефонами), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Prs.Pl.Ipfv (Здесь не курят)'
 references:

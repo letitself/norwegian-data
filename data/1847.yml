@@ -27,9 +27,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advcl [nsubj кто] [aux бы] VP-Pst]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [nsubj Кто] [aux бы] [advmod ни] звал [obj её] [obl [case в] кино]]'
+  - '[nsubj она] [advmod не] соглашалась.]'
 references:
   - |
     ""

@@ -24,9 +24,11 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[dep [cc не [cc столько]] XP, [conj [cc сколько] XP]]'
+  - '[dep [cc не [cc столь]] XP, [conj [cc сколь] XP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Травмы] оказались [xcomp [cc не [cc fixed]] тяжёлыми'
+  - '[conj [cc сколько] сложными]].]'
 references:
   - |
     ""

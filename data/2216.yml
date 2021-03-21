@@ -22,9 +22,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [discourse ну] [advmod хоть] Cl]]'
+  - '[root Cl, [conj [advmod хоть] Cl]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obj Пары] отменили'
+  - '[conj [discourse ну] [advmod хоть] высплюсь] [advmod сегодня].]'
 references:
   - |
     ""

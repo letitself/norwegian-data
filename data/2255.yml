@@ -24,9 +24,10 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [nsubj NP-Gen] [cop было] [mark хоть] завались!]'
+  - '[root [nsubj NP-Gen] [cop было] завались!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Лимонаду] [cop было] – [mark хоть] завались!]'
 references:
   - |
     ""

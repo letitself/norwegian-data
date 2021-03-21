@@ -26,14 +26,16 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [dep PronPers] Verb-Fut.2.Sg!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root – [nsubj Ты] должен [xcomp [obj его] уговорить].]\n[root – [obj Его] уговоришь!]'
 references:
   - |
     ""
 semantic_types:
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Doubt
 family:
   - |
     ""

@@ -25,9 +25,12 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [discourse ну] [expl это] [advmod как] Verb-Pfv.Inf]'
+  - '[root [discourse ну] [advmod как] Verb-Pfv.Inf]'
+  - '[root [expl это] [advmod как] Verb-Pfv.Inf]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Да] [advmod ведь] [nsubj [det такой] вывод] напрашивается [advmod здесь] [advmod однозначно]!]\n[root – [discourse Ну]'
+  - '[expl это] [advmod как] посмотреть.]\n[root [nsubj Я] [obl [case на] это] смотрю [advmod иначе].]'
 references:
   - |
     ""

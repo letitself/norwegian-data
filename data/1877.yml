@@ -24,9 +24,15 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root Cl, [conj [obl [case при] этом] Cl]]'
+  - '[root Cl, [conj [obl [det [case при] всём] [case при] этом] Cl]]'
+  - '[root Cl, [conj [obl [det [case при] всём] [case при] том] Cl]]'
+  - '[root [obl [case при] этом] Cl]'
+  - '[root [obl [det [case при] всём] [case при] этом] Cl]'
+  - '[root [obl [det [case при] всём] [case при] том] Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [nsubj Он] [amod прекрасный] ученый'
+  - '[conj [cc и] [obl [case при] этом] [amod хороший] руководитель].]'
 references:
   - |
     ""

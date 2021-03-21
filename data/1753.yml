@@ -29,9 +29,24 @@ intonation:
   - Interrogative
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [obj что [advmod же]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [obj чего [advmod же]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [obj что [advmod ж]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [obj чего [advmod ж]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [obj что [advmod же]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [obj чего [advmod же]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [obj что [advmod ж]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [obj чего [advmod ж]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj что [advmod же]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj чего [advmod же]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj что [advmod ж]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj чего [advmod ж]] [nsubj PronPers-Nom] [advmod раньше] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj что [advmod же]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj чего [advmod же]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj что [advmod ж]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
+  - '[root [advmod так] [obj чего [advmod ж]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Тебе] [nsubj деньги] нужны?]\n[root [obj Чего [advmod же]] [nsubj ты] [advmod раньше] [advmod не] сказал?]'
 references:
   - |
     ""

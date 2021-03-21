@@ -26,9 +26,10 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod пусть] [obl [case у] NP-Gen] VP-Fut!]'
+  - '[root [advmod пусть] VP-Fut!]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Пусть] [obl [case у] тебя] [nsubj все] [cop будет] хорошо!]'
 references:
   - |
     ""

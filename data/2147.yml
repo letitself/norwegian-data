@@ -11,7 +11,8 @@ morphology:
   - Gen
   - Cl
 syntactic_type_of_construction:
-  - Cl + Modifier Construction
+  - Cl
+  - Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -25,9 +26,11 @@ intonation:
   - Assertive
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [advmod независимо [obl [case от] NP-Gen]]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advmod Независимо [obl [case от] решения [nmod министров]]]'
+  - '[nsubj:pass закон] [aux:pass будет] принят.]'
 references:
   - |
     ""

@@ -41,10 +41,9 @@ intonation:
   - Assertive
 usage_label: Colloquial
 dependency_structure:
-  - '[root VP-VP [conj [cc и] Cl]]'
-  - '[root поспит-поспит [conj [cc и] проснётся]]'
+  - '[root [nsubj NP-Nom] по-Verb - [conj по-Verb] [conj [cc и] VP]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root Поспит - [conj поспит] [conj [cc и] проснётся].]'
 references:
   - |
     ""

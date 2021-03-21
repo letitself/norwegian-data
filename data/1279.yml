@@ -39,9 +39,11 @@ intonation:
   - Assertive
 usage_label: Formal
 dependency_structure:
-  - '~'
+  - '[root [advcl [mark так [fixed как]] Cl]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [advcl [mark Так [fixed как]] прошли] [nsubj ливни]'
+  - 'началось [nsubj наводнение].]'
 references:
   - |
     ""

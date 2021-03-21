@@ -25,9 +25,11 @@ intonation:
   - ~
 usage_label: Colloquial
 dependency_structure:
-  - '~'
+  - '[root [parataxis [case в] конце [case концов]]'
+  - 'Cl]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [parataxis [case В] конце [case концов]]'
+  - 'спроси [obl [case у] [det его] мамы]!]'
 references:
   - |
     ""
@@ -36,6 +38,8 @@ semantic_types:
     subtypes:
       - type: Sequence
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Self-evidence
 family:
   - |
     ""

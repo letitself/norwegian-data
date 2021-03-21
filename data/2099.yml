@@ -25,9 +25,13 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root [dep PronInt'
+  - '[nmod [case как] [advmod не] XP]]'
+  - 'VP]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [iobj Кому]'
+  - '[advcl [case как] [advmod не] тебе]'
+  - 'понимать [obj [amod детскую] психологию]?]'
 references:
   - |
     ""

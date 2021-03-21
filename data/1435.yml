@@ -26,9 +26,12 @@ intonation:
   - ~
 usage_label: ~
 dependency_structure:
-  - '~'
+  - '[root за-Verb [obl [case в] NP-Acc] [obl [case за] NP-Ins]]'
+  - '[root за-Verb [obl [case к] NP-Dat] [obl [case за] NP-Ins]]'
+  - '[root за-Verb [obl [case в] NP-Acc]]'
+  - '[root за-Verb [obl [case к] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '~'
+  - '[root [obl [case По] дороге] [advmod домой] [nsubj я] заехал [obl [case в] магазин] [obl [case за] цветами].]'
 references:
   - |
     ""
