@@ -11,15 +11,15 @@ definitions:
        Обычно в слоте VP-Ipfv.Imp стоит глагол несовершенного вида. Опять взять в скобки!!!!
 examples:
   - |
-       '[Вы гуляете]Situation, а [я]Participant [за вас работай]Action!'
+       [Вы гуляете]Situation, а [я]Participant [за вас работай]Action!
   - |
-       '[Они ушли]Situation, а [я]Participant [сиди тут и мучайся]Action!'
+       [Они ушли]Situation, а [я]Participant [сиди тут и мучайся]Action!
   - |
-       '[Кто-то намусорил]Situation, а [я]Participant [убирай]Action.'
+       [Кто-то намусорил]Situation, а [я]Participant [убирай]Action.
   - |
-       '[Они стекло разобьют]Situation, а [я]Participant [отвечай]Action.'
+       [Они стекло разобьют]Situation, а [я]Participant [отвечай]Action.
   - |
-       'Вот ты, Иванов, хочешь жить по-новому? ― Интересно, [Петрову зарплату повысят]Situation, а [я]Participant [живи по-новому]Action!'
+       Вот ты, Иванов, хочешь жить по-новому? ― Интересно, [Петрову зарплату повысят]Situation, а [я]Participant [живи по-новому]Action!
 morphology:
   - Cl
   - NP

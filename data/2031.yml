@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en del eller en faktor]Element utelates når [en mengde]Quantity telles opp eller [en beslutning]Result skal tas. [Den delen]Element taleren utelater, har et kjennetegn som skiller den fra de øvrige [delene]Element, og [faktoren]Element er viktig, men til hinder for at [beslutningen]Result kan tas.
 examples:
   - |
-       '[Вес]Quantity на коробке конфет [указан]Result без учёта [упаковки]Element.'
+       [Вес]Quantity на коробке конфет [указан]Result без учёта [упаковки]Element.
   - |
-       'В каждой команде по [15 игроков]Quantity без учёта [запасных]Element.'
+       В каждой команде по [15 игроков]Quantity без учёта [запасных]Element.
   - |
-       'Этот перевод [сделан]Result без учёта [контекста]Element.'
+       Этот перевод [сделан]Result без учёта [контекста]Element.
   - |
-       'Стоимость поездки [500 евро]Quantity без учёта [перелёта]Element.'
+       Стоимость поездки [500 евро]Quantity без учёта [перелёта]Element.
   - |
-       'Меню [было составлено]Result без учёта [индивидуальных предпочтений каждого гостя]Element.'
+       Меню [было составлено]Result без учёта [индивидуальных предпочтений каждого гостя]Element.
 morphology:
   - VP
   - NP

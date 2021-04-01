@@ -11,11 +11,11 @@ definitions:
        rewrite definition. Specific cases e.g. (NP-Dat) VP-Inf не для чего; (NP-Dat) VP-Inf не про кого; (NP-Dat) VP-Inf не за кем; (NP-Dat) VP-Inf не на кого
 examples:
   - |
-       '[Мне]Experiencer не с кем [было пойти гулять]Action на улицу.'
+       [Мне]Experiencer не с кем [было пойти гулять]Action на улицу.
   - |
-       'Когда не с кем [разделить]Action радость, становится грустно.'
+       Когда не с кем [разделить]Action радость, становится грустно.
   - |
-       '[Егору]Experiencer завтра не с кем [будет кататься на велосипеде.]Action'
+       [Егору]Experiencer завтра не с кем [будет кататься на велосипеде.]Action
 morphology:
   - NP
   - Dat

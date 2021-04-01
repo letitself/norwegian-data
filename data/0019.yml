@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en gitt handling]Action omfattes av et forbud som gjenspeiler en allmenn regel i et samfunn, et land eller en organisasjon (f.eks. på en skole eller i et fengsel), vedtatt på offisielt nivå. Potensielt kan handlingen komme til å inntreffe, hvilket forbudet skal forhindre. [Deltakeren]Participant som ilegger forbudet, har høyere sosial status enn den forbudet retter seg mot (f.eks. som leder vs. underordnet, voksen vs. barn, ansatt vs. besøkende). Regelen omfatter alle medlemmene av et samfunn eller bestemte grupper mennesker (f.eks. kvinner, barn, førsteårsstudenter, innsatte i fengsler m.fl.). Ofte er ikke deltakeren nevnt, og konstruksjonen brukes da i en upersonlig setning. Når deltakeren nevnes, er det ofte snakk om en hel gruppe personer, skjønt det også kan være en enkeltperson, herunder talerens samtalepartner.
 examples:
   - |
-       'В мае не положено [жениться]Action: муж и жена всю жизнь страдать будут.'
+       В мае не положено [жениться]Action: муж и жена всю жизнь страдать будут.
   - |
-       '[Мужчинам]Participant не положено [жаловаться на тоску и плохое настроение]Action.'
+       [Мужчинам]Participant не положено [жаловаться на тоску и плохое настроение]Action.
   - |
-       '[Первокурсникам]Participant [жить в общежитии]Action не положено. Ребята принялись искать себе другое жилье.'
+       [Первокурсникам]Participant [жить в общежитии]Action не положено. Ребята принялись искать себе другое жилье.
   - |
-       'Любимский музей маленький, и по штату [ему]Participant не положено  [иметь]Action реставрационных мастерских.'
+       Любимский музей маленький, и по штату [ему]Participant не положено  [иметь]Action реставрационных мастерских.
   - |
-       'По нашим законам [вам]Participant не положено [находиться на территории Германии]Action.'
+       По нашим законам [вам]Participant не положено [находиться на территории Германии]Action.
 morphology:
   - NP
   - Dat

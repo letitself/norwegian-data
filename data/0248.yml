@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [et objekt]Theme eller [en deltaker]Participant er gitt [et fornavn, et etternavn, en tittel, en grad e.l.]Property. Det er som om dette er en gjenstand som deltakeren nå bærer med seg eller på seg (som et klesplagg).
 examples:
   - |
-       'В этом отеле каждый [номер]Theme носит [имя композитора]Property.'
+       В этом отеле каждый [номер]Theme носит [имя композитора]Property.
   - |
-       'Этот [переулок]Theme носил [имя Неждановой]Property.'
+       Этот [переулок]Theme носил [имя Неждановой]Property.
   - |
-       '[Глава церкви]Participant носит [титул патриарха]Property.'
+       [Глава церкви]Participant носит [титул патриарха]Property.
   - |
-       '[Сергей]Participant носит [фамилию отца]Property.'
+       [Сергей]Participant носит [фамилию отца]Property.
   - |
-       '[Гертруда]Participant гордо носила [звание начальницы]Property.'
+       [Гертруда]Participant гордо носила [звание начальницы]Property.
 morphology:
   - NP
   - Nom

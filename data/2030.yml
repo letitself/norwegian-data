@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at en [del]Element [av en mengde]Quantity ikke tas med i opptellingen . Det er som om den utelatte delen har vært gjenstand for den aritmetiske handlingen å subtrahere noe fra en mengde.
 examples:
   - |
-       'Автору идёт [восемь-десять процентов от стоимости экземпляра]Quantity, за вычетом [полученного ранее аванса]Element.'
+       Автору идёт [восемь-десять процентов от стоимости экземпляра]Quantity, за вычетом [полученного ранее аванса]Element.
   - |
-       'Он выполнил [весь свой план]Quantity за вычетом [двух пунктов]Element.'
+       Он выполнил [весь свой план]Quantity за вычетом [двух пунктов]Element.
   - |
-       'Даже завычетом [суммы]Element, которую приходится платить за съёмное жильё, у них остаётся [достаточно денег]Quantity.'
+       Даже завычетом [суммы]Element, которую приходится платить за съёмное жильё, у них остаётся [достаточно денег]Quantity.
   - |
-       '[Доходы]Quantity за вычетом [обязательных платежей]Element называются реально располагаемыми.'
+       [Доходы]Quantity за вычетом [обязательных платежей]Element называются реально располагаемыми.
   - |
-       'За вычетом [пачки «Мальборо» и коробочки «Тик-так»]Element у меня оставалось [немного мелочи]Quantity.'
+       За вычетом [пачки «Мальборо» и коробочки «Тик-так»]Element у меня оставалось [немного мелочи]Quantity.
 morphology:
   - NP
   - Gen

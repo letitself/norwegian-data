@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen viser til en situasjon, der [objekter]Theme [fordeles]Action på flere [mottakere]Addressee. I den forbindelse presiserer taleren hvor mange [objekter]Theme hver av [mottakerne]Addressee får. Dette [antallet]Quantity er likt for alle mottakerne.
 examples:
   - |
-       'Сядем на вокзале обедать, и она требует самое дорогое и на чай [всем]Addressee [даёт]Action по [рублю]Theme.'
+       Сядем на вокзале обедать, и она требует самое дорогое и на чай [всем]Addressee [даёт]Action по [рублю]Theme.
   - |
-       'Отец [передал]Action [сыновьям]Addressee в наследство по [дому]Theme.'
+       Отец [передал]Action [сыновьям]Addressee в наследство по [дому]Theme.
   - |
-       '[Школьникам]Addressee [вручили]Action по [грамоте]Theme за участие в праздничном концерте.'
+       [Школьникам]Addressee [вручили]Action по [грамоте]Theme за участие в праздничном концерте.
   - |
-       '[Участницы конкурса красоты]Addressee [получили]Action по [номерку.]Theme'
+       [Участницы конкурса красоты]Addressee [получили]Action по [номерку.]Theme
   - |
-       'Воспитатели [выдали]Action [детям]Addressee по [два]Quantity [полотенца]Theme ― маленькое и большое.'
+       Воспитатели [выдали]Action [детям]Addressee по [два]Quantity [полотенца]Theme ― маленькое и большое.
 morphology:
   - VP
   - NP

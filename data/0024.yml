@@ -13,11 +13,11 @@ definitions:
        Konstruksjonen forteller at dativsubjektet ikke har noe sted å [gå til]Action eller [plassere]Action noe. Dativsubjektet kan være implisitt. Некуда ‘nowhere’ står enten før eller etter verbet.
 examples:
   - |
-       'Мне некуда [идти.]Action'
+       Мне некуда [идти.]Action
   - |
-       '[Возвращаться]Action некуда. Остаётся вот этот пустой дом, затерянный в снегах.'
+       [Возвращаться]Action некуда. Остаётся вот этот пустой дом, затерянный в снегах.
   - |
-       'А бытовая необходимость: некуда было [уложить]Action трёх детей.'
+       А бытовая необходимость: некуда было [уложить]Action трёх детей.
 morphology:
   - NP
   - Dat

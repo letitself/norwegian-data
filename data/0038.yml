@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker at [deltakeren]Participant brått slutter å utføre en gitt [handling]Activity som har pågått regelmessig i lengre tid. Ofte betegner konstruksjonen det å gi avkall på en dårlig vane (eksempel 1 og 2), skjønt det også kan være tale om nyttige sysler (eksempel 3), eller interesser og hobbyer (eksempel 4). Konstruksjonen kan brukes også når deltakeren avslutter [en handling]Action i taleøyeblikket og går over til en annen handling (eksempel 5). Det er som om deltakeren kaster noe bort, bare at det ikke er en gjenstand (slik det vanligvis er), men en handling.
 examples:
   - |
-       '[Я]Participant бросила [курить]Activity, заболев астмой.'
+       [Я]Participant бросила [курить]Activity, заболев астмой.
   - |
-       '[Я]Participant бросил [пить]Activity, стал вегетарианцем, скинул пятнадцать кило лишнего веса и помолодел лет на двадцать.'
+       [Я]Participant бросил [пить]Activity, стал вегетарианцем, скинул пятнадцать кило лишнего веса и помолодел лет на двадцать.
   - |
-       '[Наташа]Participant бросила [учиться]Activity и стала работать по своей старой специальности ― руководительницей в детском саду.'
+       [Наташа]Participant бросила [учиться]Activity и стала работать по своей старой специальности ― руководительницей в детском саду.
   - |
-       'А стихи [он]Participant бросил [писать]Activity в начале первого курса института.'
+       А стихи [он]Participant бросил [писать]Activity в начале первого курса института.
   - |
-       'Бросив [ворошить бумаги]Action, [Бенкендорф]Participant ходил из угла в угол.'
+       Бросив [ворошить бумаги]Action, [Бенкендорф]Participant ходил из угла в угол.
 morphology:
   - NP
   - Nom

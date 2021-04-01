@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at en gitt [handling]Action kan utføres, ettersom [deltakeren i situasjonen]Participant ikke erklærer seg uenig.
 examples:
   - |
-       'Раз [Вы]Participant не возражаете насчёт русского языка, [перейду на него]Action, учитывая, что я не очень владею английским.'
+       Раз [Вы]Participant не возражаете насчёт русского языка, [перейду на него]Action, учитывая, что я не очень владею английским.
   - |
-       'Ну, ладно, раз [ты]Participant не возражаешь, я грузчикам [звоню]Action, и мы [все к тебе таскаем]Action!'
+       Ну, ладно, раз [ты]Participant не возражаешь, я грузчикам [звоню]Action, и мы [все к тебе таскаем]Action!
   - |
-       'Ну, раз [никто]Participant не возражает, [давайте придумаем четкий план действий и распределим силы]Action.'
+       Ну, раз [никто]Participant не возражает, [давайте придумаем четкий план действий и распределим силы]Action.
   - |
-       'И раз [ты]Participant не возражаешь, я [еду с тобой]Action!'
+       И раз [ты]Participant не возражаешь, я [еду с тобой]Action!
   - |
-       'И раз [вы]Participant не возражаете, мы [продолжим]Action.'
+       И раз [вы]Participant не возражаете, мы [продолжим]Action.
 morphology:
   - NP
   - Nom

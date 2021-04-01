@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker]Agent lenge og iherdig [har gjort noe]Activity uten å ha oppnådd [det ønskede resultatet]Result. Handlingens varighet og intensitet formidles ved å gjenta verbet.
 examples:
   - |
-       '[Мы]Agent его [ждали-ждали]Activity целый день, а он не [приехал]Result.'
+       [Мы]Agent его [ждали-ждали]Activity целый день, а он не [приехал]Result.
   - |
-       '[Выбираю-выбираю кроватку]Activity для ребенка, а ничего подходящего не могу [найти]Result.'
+       [Выбираю-выбираю кроватку]Activity для ребенка, а ничего подходящего не могу [найти]Result.
   - |
-       'Всё [читаем-читаем эту книгу]Activity, а [найти нужный абзац не можем]Result.'
+       Всё [читаем-читаем эту книгу]Activity, а [найти нужный абзац не можем]Result.
   - |
-       'Начали эти шестьдесят тыщ тратить. [Тратили, тратили]Activity, а они не [тратятся]Result.'
+       Начали эти шестьдесят тыщ тратить. [Тратили, тратили]Activity, а они не [тратятся]Result.
   - |
-       'Товарищ полковник, [я]Agent всё [стучу, стучу]Activity, а вы не [открываете]Result.'
+       Товарищ полковник, [я]Agent всё [стучу, стучу]Activity, а вы не [открываете]Result.
 morphology:
   - VP
   - Cl

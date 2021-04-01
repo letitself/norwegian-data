@@ -9,15 +9,15 @@ definitions:
        Конструкция указывает на максимальную степень интенсивности признака или действия. Конструкция обозначает, что [некоторый участник]Participant [смотрит]Action на [объект]Theme с большим вниманием, очень пристально.
 examples:
   - |
-       '[Сын]Participant с любопытством [глядел]Action во все глаза на [действия папы]Theme.'
+       [Сын]Participant с любопытством [глядел]Action во все глаза на [действия папы]Theme.
   - |
-       'А [она]Participant стоит и [смотрит]Action на [меня]Theme во все глаза.'
+       А [она]Participant стоит и [смотрит]Action на [меня]Theme во все глаза.
   - |
-       '[Я]Participant во все глаза [уставился]Action на [нее]Theme.'
+       [Я]Participant во все глаза [уставился]Action на [нее]Theme.
   - |
-       '[Какая-то старуха]Participant [глазела]Action на [него]Theme во все глаза.'
+       [Какая-то старуха]Participant [глазела]Action на [него]Theme во все глаза.
   - |
-       '[Толпа]Participant во все глаза [разглядывала]Action [принцессу]Theme.'
+       [Толпа]Participant во все глаза [разглядывала]Action [принцессу]Theme.
 morphology:
   - VP
 syntactic_type_of_construction:

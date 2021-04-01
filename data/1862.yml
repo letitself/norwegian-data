@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å trekke ut kvadratroten av [et tall]Quantity og angir [svaret]Result. Ved bruk av ordet 'равeн', står svaret i dativ (eksempel 1 og 2). Sammen med ordet 'это', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 3 og 4).
 examples:
   - |
-       '― Ну, робот, [чему]Result равен квадратный корень из [двадцати пяти]Quantity?'
+       ― Ну, робот, [чему]Result равен квадратный корень из [двадцати пяти]Quantity?
   - |
-       'Корень из [двадцати семи]Quantity равен [трем]Result.'
+       Корень из [двадцати семи]Quantity равен [трем]Result.
   - |
-       'В школе мы выучили, что квадратный корень из [девяти]Quantity ― это [три]Result.'
+       В школе мы выучили, что квадратный корень из [девяти]Quantity ― это [три]Result.
   - |
-       'Какой глупец посмеет оспаривать, что квадратный корень из [шестнадцати]Quantity ― [четыре]Result!'
+       Какой глупец посмеет оспаривать, что квадратный корень из [шестнадцати]Quantity ― [четыре]Result!
   - |
-       '―  Корень из [числа две тысячи пятьсот восемьдесят девять]Quantity? ―  [Пятьдесят целых, восемьсот восемьдесят две тысячных]Result … э-э-э… примерно.'
+       ―  Корень из [числа две тысячи пятьсот восемьдесят девять]Quantity? ―  [Пятьдесят целых, восемьсот восемьдесят две тысячных]Result … э-э-э… примерно.
 morphology:
   - NumCrd
   - Gen

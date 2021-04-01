@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [et objekt]Theme, [en komponent]Theme eller [en deltaker]Participant ikke er til stede eller ikke deltar i [en handling]Action eller [en situasjon]Situation. Objektet eller deltakeren kan være konkret eller abstrakt. Samtidig var det forventet at objektet eller deltakeren ville være til stede i denne handlingen eller situasjonen.
 examples:
   - |
-       'Капусту следует [тушить]Action без [крышки]Theme.'
+       Капусту следует [тушить]Action без [крышки]Theme.
   - |
-       'Дети в этой семье [росли]Action без [отца]Participant.'
+       Дети в этой семье [росли]Action без [отца]Participant.
   - |
-       '[Его вопрос остался]Situation без [внимания]Theme.'
+       [Его вопрос остался]Situation без [внимания]Theme.
   - |
-       'Соня [вошла в комнату]Action без [стука]Theme.'
+       Соня [вошла в комнату]Action без [стука]Theme.
   - |
-       'Соль [растворилась в стакане]Action без [остатка]Theme.'
+       Соль [растворилась в стакане]Action без [остатка]Theme.
 morphology:
   - VP
   - NP

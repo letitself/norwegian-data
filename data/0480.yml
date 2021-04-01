@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen anvendes når taleren bestemt, men ikke skarpt, anmoder [en deltaker i situasjonen]Participant om ikke å utføre [en gitt handling]Action. Handlingen kan inntreffe i fremtiden eller har allerede inntruffet, og taleren vil at den ikke skal gjenta seg. Taleren fordømmer deltakeren for å ha utført handlingen og mener at deltakerens status, tilhørighet til en bestemt gruppe (f.eks. basert på kjønn eller yrke), samt moralske eller andre fortrinn ikke tillater vedkommende å utføre handlingen. Deltakeren kan være en gruppe personer eller en enkeltperson, herunder talerens samtalepartner. Dessuten kan taleren henvende seg til seg selv.
 examples:
   - |
-       '― [Девушке]Participant не пристало [звонить кавалеру]Action, это он должен добиваться встречи.'
+       ― [Девушке]Participant не пристало [звонить кавалеру]Action, это он должен добиваться встречи.
   - |
-       '[Ему]Participant не пристало [отвлекаться на всякую там чепуху]Action, вроде дурацких игр, детской болтовни и слез по пустякам.'
+       [Ему]Participant не пристало [отвлекаться на всякую там чепуху]Action, вроде дурацких игр, детской болтовни и слез по пустякам.
   - |
-       'Я бизнесмен серьезный, уважаемый, [[мне]Participant не пристало так [рисковать своей репутацией]Action.'
+       Я бизнесмен серьезный, уважаемый, [[мне]Participant не пристало так [рисковать своей репутацией]Action.
   - |
-       '[Историкам]Participant, говорят нам, не пристало [выступать в роли экспертов]Action, они пристрастны не меньше, чем современники событий.'
+       [Историкам]Participant, говорят нам, не пристало [выступать в роли экспертов]Action, они пристрастны не меньше, чем современники событий.
   - |
-       '― Да уж, [телезвезде]Participant не пристало [ходить там и сям в джинсах]Action!'
+       ― Да уж, [телезвезде]Participant не пристало [ходить там и сям в джинсах]Action!
 morphology:
   - NP
   - Dat

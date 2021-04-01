@@ -63,7 +63,7 @@ def write_record(row, record):
             entry = row[column].strip()
             if entry != "":
                 f.write("  - |\n")
-                f.write(f"       '{entry}'\n")
+                f.write(f"       {entry}\n")
         f.write("morphology:\n")
         f.write(print_as_yaml_list(row["Morphology"]))
         f.write("syntactic_type_of_construction:\n")

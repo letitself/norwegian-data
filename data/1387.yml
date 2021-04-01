@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en handling]Activity (som regel en helse- eller undervisningsrelatert tjeneste) utføres av [en deltaker]Agent hjemme hos vedkommende eller hos [en annen deltaker]Beneficiary (mottakeren av tjenesten). Konstruksjonen understreker det uformelle i situasjonen og ikke den konkrete beliggenheten. Akkurat hvem sin bolig det er, fremgår som regel av typen aktivitet. Dessuten kan konstruksjonen gjelde aktiviteter som iverksettes i hjemmet.
 examples:
   - |
-       'Мама работала педиатром и весь день по вызовам [оказывала помощь]Activity на дому.'
+       Мама работала педиатром и весь день по вызовам [оказывала помощь]Activity на дому.
   - |
-       'Они [обучаются]Activity либо на дому, либо в специальных коррекционных школах.'
+       Они [обучаются]Activity либо на дому, либо в специальных коррекционных школах.
   - |
-       'Когда наступили смутные времена, она [занялась лечением алкоголиков]Activity на дому.'
+       Когда наступили смутные времена, она [занялась лечением алкоголиков]Activity на дому.
   - |
-       'Судя по тому, что Лена начала [давать частные уроки музыки]Activity на дому, денег стало не хватать.'
+       Судя по тому, что Лена начала [давать частные уроки музыки]Activity на дому, денег стало не хватать.
   - |
-       'Ищем акушерку для [родов]Activity на дому.'
+       Ищем акушерку для [родов]Activity на дому.
 morphology:
   - NP
   - VP

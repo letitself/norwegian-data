@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en gitt tilstand]State uventet er blitt avløst av en annen (eksempel 1, 2 og 3). Konstruksjonen kan også bety at [et objekt]Theme er forsvunnet eller har forflyttet seg til et annet sted, slik at det tilsynelatende ikke finnes lenger (eksempel 4 og 5). Konstruksjonen er basert på en sammenlikning: [Objektet]Theme er borte, og nå dannes det et inntrykk av at det aldri har eksistert.
 examples:
   - |
-       'Положите на веки на 7-8 минут кружочки свежего огурца. [Усталости]State как не бывало…'
+       Положите на веки на 7-8 минут кружочки свежего огурца. [Усталости]State как не бывало…
   - |
-       'Стоит Ире меня обнять ― [обиды]State как не бывало.'
+       Стоит Ире меня обнять ― [обиды]State как не бывало.
   - |
-       'Я зачерпнул ладонями воду и плеснул в лицо. [Сна]State как не бывало.'
+       Я зачерпнул ладонями воду и плеснул в лицо. [Сна]State как не бывало.
   - |
-       'Выходит, не прошли даром последние дни. Морщин вокруг глаз прибавилось, а [нескольких килограммов]Theme как не бывало.'
+       Выходит, не прошли даром последние дни. Морщин вокруг глаз прибавилось, а [нескольких килограммов]Theme как не бывало.
   - |
-       'А [старых домов]Theme в центре как не бывало. На их месте теперь раскинулись готовые парки.'
+       А [старых домов]Theme в центре как не бывало. На их месте теперь раскинулись готовые парки.
 morphology:
   - NP
   - Gen

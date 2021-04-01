@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker [deltakerens]Participant positive holdning til en annen [deltaker]Participant, [et politisk parti, en samfunnsorden eller en ide]Theme, eller til en potensiell [situasjon]Situation. Det er underforstått at det finnes en rekke alternativer, og deltakeren gir klart uttrykk for sin anerkjennelse og støtte til en av de aktuelle valgmulighetene eller kandidatene.
 examples:
   - |
-       '[Вы]Participant за [демократов]Theme или за [коммунистов]Theme, отвечайте…». Она: «За демократов!» Он: «Ну вот, ведь это смешно, смешно…».'
+       [Вы]Participant за [демократов]Theme или за [коммунистов]Theme, отвечайте…». Она: «За демократов!» Он: «Ну вот, ведь это смешно, смешно…».
   - |
-       'На сей раз Фурцева была строга, потому что пленум явно раскалывался. [Кто-то]Participant был за [Калатозова]Participant, кто-то против.'
+       На сей раз Фурцева была строга, потому что пленум явно раскалывался. [Кто-то]Participant был за [Калатозова]Participant, кто-то против.
   - |
-       'Они за то, чтобы не было произвола человека над человеком, а было бы царство разума. А главное, [они]Participant ― за [равенство]Theme!'
+       Они за то, чтобы не было произвола человека над человеком, а было бы царство разума. А главное, [они]Participant ― за [равенство]Theme!
   - |
-       '― Все светлые умы! [все лучшие мыслители Запада, Сартр! ― все]Participant за [социализм]Theme! все против капитализма!'
+       ― Все светлые умы! [все лучшие мыслители Запада, Сартр! ― все]Participant за [социализм]Theme! все против капитализма!
   - |
-       'Да, жилье новое людям нужно! Да, [я]Participant за [переселение]Situation!'
+       Да, жилье новое людям нужно! Да, [я]Participant за [переселение]Situation!
 morphology:
   - NP
   - Nom

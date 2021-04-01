@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker]Agent utfører flere omganger av en gjentakende, syklisk [handling]Activity, som avbrytes av [en annen handling eller hendelse]Event. Det at handlingen gjentar seg gang på gang, uttrykkes ved å gjenta verbet, som vanligvis har forstavelsen по-.
 examples:
   - |
-       'А [голова]Agent [поболит-поболит]Activity и [перестанет]Event!'
+       А [голова]Agent [поболит-поболит]Activity и [перестанет]Event!
   - |
-       '[Ребенок]Agent [поорёт-поорёт]Activity и [замолчит]Event, а через час снова кричит.'
+       [Ребенок]Agent [поорёт-поорёт]Activity и [замолчит]Event, а через час снова кричит.
   - |
-       'Конечно, можно будет просто не открыть дверь. [Позвонит-позвонит]Activity ― и [уйдёт]Event.'
+       Конечно, можно будет просто не открыть дверь. [Позвонит-позвонит]Activity ― и [уйдёт]Event.
   - |
-       '[Яблоки]Agent [полежат-полежат]Activity и [пропадут]Event, если их, конечно, не сварят в варенье.'
+       [Яблоки]Agent [полежат-полежат]Activity и [пропадут]Event, если их, конечно, не сварят в варенье.
   - |
-       '[Они]Agent [подумают-подумают]Activity и [вернут все на место]Event.'
+       [Они]Agent [подумают-подумают]Activity и [вернут все на место]Event.
 morphology:
   - NP
   - Nom

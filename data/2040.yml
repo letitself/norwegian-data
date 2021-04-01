@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет', 'получится' eller 'равняется'. Ved bruk av ordene 'равно' eller 'равняется' står svaret i nominativ eller dativ (eksempel 4 og 5). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 1, 2 og 3).
 examples:
   - |
-       'Они-то всегда считали, что если от [шестидесяти]Quantity отнять [пятьдесят]Quantity, то получится [десять]Result, а никак не семьдесят и даже не двенадцать.'
+       Они-то всегда считали, что если от [шестидесяти]Quantity отнять [пятьдесят]Quantity, то получится [десять]Result, а никак не семьдесят и даже не двенадцать.
   - |
-       'Сколько будет два и два? ― Три, ваше величество. ― А от [пяти]Quantity отнять [один]Quantity? ― [Три]Result, ваше величество.'
+       Сколько будет два и два? ― Три, ваше величество. ― А от [пяти]Quantity отнять [один]Quantity? ― [Три]Result, ваше величество.
   - |
-       'Сколько будет, если от [тысячи]Quantity отнять [девятьсот девяносто девять]Quantity? Воцарилась тишина. Получится [один]Result.'
+       Сколько будет, если от [тысячи]Quantity отнять [девятьсот девяносто девять]Quantity? Воцарилась тишина. Получится [один]Result.
   - |
-       'От [шести]Quantity отнять [три]Quantity — равняется [четырем]Result.'
+       От [шести]Quantity отнять [три]Quantity — равняется [четырем]Result.
   - |
-       'Благодаря сочетанию формально тождественных, но семантически различных понятий, получается искомый результат, т. е. от [восьми]Quantity отнять [пять]Quantity равно [нулю]Result.'
+       Благодаря сочетанию формально тождественных, но семантически различных понятий, получается искомый результат, т. е. от [восьми]Quantity отнять [пять]Quantity равно [нулю]Result.
 morphology:
   - NumCrd
   - Gen

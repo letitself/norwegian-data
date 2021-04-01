@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at taleren høflig ber samtalepartneren utføre en gitt [handling]Activity. Konstruksjonen er foreldet og har derfor et spesielt stilpreg. Den brukes til å markere høyt stilnivå eller for å uttrykke ironi.
 examples:
   - |
-       'Пожалуйста, соблаговолите [пройти]Action, не задерживайтесь…'
+       Пожалуйста, соблаговолите [пройти]Action, не задерживайтесь…
   - |
-       'Если я здесь не нужен, благоволите [выпустить за границу]Action!'
+       Если я здесь не нужен, благоволите [выпустить за границу]Action!
   - |
-       'Благоволите [принять этот букет]Action.'
+       Благоволите [принять этот букет]Action.
   - |
-       'Соблаговолите [не опаздывать]Action'
+       Соблаговолите [не опаздывать]Action
   - |
-       'Благоволите [ответить точнее]Action: знаете или не знаете?'
+       Благоволите [ответить точнее]Action: знаете или не знаете?
 morphology:
   - Imp
   - VP

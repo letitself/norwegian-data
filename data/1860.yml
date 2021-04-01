@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å opphøye [et tall]Quantity i en potens og angir [svaret]Result. Sloten VP fylles av verbformene 'равняется', 'будет' eller 'получится'. Ved bruk av ordene 'равно' eller 'равняется' kan svaret stå i nominativ eller dativ (eksempel 1, 2 og 3). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 4 og 5).
 examples:
   - |
-       '[Два]Quantity в пятой степени равно [тридцати двум]Result.'
+       [Два]Quantity в пятой степени равно [тридцати двум]Result.
   - |
-       '[Число два]Quantity в четвертой степени равняется [шестнадцати]Result.'
+       [Число два]Quantity в четвертой степени равняется [шестнадцати]Result.
   - |
-       '[Два]Quantity в шестой равно [шестидесяти четырем]Result.'
+       [Два]Quantity в шестой равно [шестидесяти четырем]Result.
   - |
-       '[Пятнадцать]Quantity во второй степени получится [двести двадцать пять]Quantity.'
+       [Пятнадцать]Quantity во второй степени получится [двести двадцать пять]Quantity.
   - |
-       '[Один]Quantity в четвёртой степени будет [один]Result.'
+       [Один]Quantity в четвёртой степени будет [один]Result.
 morphology:
   - NumCrd
   - Nom

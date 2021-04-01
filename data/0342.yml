@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [et kjennetegn]Property, slik taleren vurderer det, er svært fremtredende. Kjennetegnet beskriver en deltaker, et objekt, [en handling]Action eller [en situasjon]Situation. Konstruksjonen kan forsterke så vel en positiv (eksempel 3 og 4) som en negativ (eksempel 1 og 2) karakteristikk.
 examples:
   - |
-       'Он призадумался. Пауза длилась ужасно [долго]Property.'
+       Он призадумался. Пауза длилась ужасно [долго]Property.
   - |
-       'А ты, Лида, ужасно [скучная]Property!'
+       А ты, Лида, ужасно [скучная]Property!
   - |
-       'Это была ужасно [интересная]Property лекция.'
+       Это была ужасно [интересная]Property лекция.
   - |
-       'Мне ужасно [повезло с детьми]Situation.'
+       Мне ужасно [повезло с детьми]Situation.
   - |
-       'Ужасно [хочется поехать]Action на море!'
+       Ужасно [хочется поехать]Action на море!
 morphology:
   - XP
 syntactic_type_of_construction:

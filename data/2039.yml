@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет', 'получится' eller 'равняется'. Ved bruk av ordene 'равно' eller 'равняется' står svaret i nominativ eller dativ (eksempel 5). Sammen med ordene будет og получится, eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 1, 2, 3 og 4).
 examples:
   - |
-       '― А из [восьмидесяти]Quantity вычесть [восемьнадцать]Quantity? ― [Шестьдесят два]Result! ― быстро ответил летчик.'
+       ― А из [восьмидесяти]Quantity вычесть [восемьнадцать]Quantity? ― [Шестьдесят два]Result! ― быстро ответил летчик.
   - |
-       'Сознаться в этом вслух я не смела, но ведь про себя-то я знала: для того, чтобы, скажем, вычесть из [семидесяти шести]Quantity [двадцать пять]Quantity, я шептала про себя: «Если отнять десять, будет [шестьдесят шесть]Result, потом еще десять ― [пятьдесят шесть]Result, а если еще пять отнять, то будет…»'
+       Сознаться в этом вслух я не смела, но ведь про себя-то я знала: для того, чтобы, скажем, вычесть из [семидесяти шести]Quantity [двадцать пять]Quantity, я шептала про себя: «Если отнять десять, будет [шестьдесят шесть]Result, потом еще десять ― [пятьдесят шесть]Result, а если еще пять отнять, то будет…»
   - |
-       'Из [десяти]Quantity вычесть [два]Quantity будет [восемь]Quantity.'
+       Из [десяти]Quantity вычесть [два]Quantity будет [восемь]Quantity.
   - |
-       'Из [пяти]Quantity вычесть [два]Quantity получится [три]Result.'
+       Из [пяти]Quantity вычесть [два]Quantity получится [три]Result.
   - |
-       'Из [четырёх]Quantity вычесть [два]Quantity равняется [двум]Result.'
+       Из [четырёх]Quantity вычесть [два]Quantity равняется [двум]Result.
 morphology:
   - NumCrd
   - Gen

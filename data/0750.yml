@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at en [deltaker]Participant, et [objekt]Theme eller en [situasjon]Situation befinner seg i kort [avstand]Distance fra [et oppgitt punkt]Landmark som fungerer som orienteringspunkt. Avstanden er lik lengden av noen kvartaler eller hus som ligger etter hverandre.
 examples:
   - |
-       'В [двух кварталах]Distance [отсюда]Landmark находится [магазин «Охотник»]Theme.'
+       В [двух кварталах]Distance [отсюда]Landmark находится [магазин «Охотник»]Theme.
   - |
-       'Невдалеке, в [двух домах]Distance от [нее]Landmark, [мерцала красно-голубая реклама видеопроката]Situation.'
+       Невдалеке, в [двух домах]Distance от [нее]Landmark, [мерцала красно-голубая реклама видеопроката]Situation.
   - |
-       'Вдали, в [нескольких кварталах]Distance от [меня]Landmark, появилась [высокая женская фигура в белых одеждах]Participant.'
+       Вдали, в [нескольких кварталах]Distance от [меня]Landmark, появилась [высокая женская фигура в белых одеждах]Participant.
   - |
-       'Какая мне разница, Красностуденческий это проезд или Мясницкая, если в Ленинграде [я жил]Situation в [трех домах]Distance от [Невского]Landmark, а в школу ходил по Итальянской?'
+       Какая мне разница, Красностуденческий это проезд или Мясницкая, если в Ленинграде [я жил]Situation в [трех домах]Distance от [Невского]Landmark, а в школу ходил по Итальянской?
   - |
-       '[Они со Славиком живут]Situation в [трех кварталах]Distance, на Греческом.'
+       [Они со Славиком живут]Situation в [трех кварталах]Distance, на Греческом.
 morphology:
   - Cl
   - NumCrd

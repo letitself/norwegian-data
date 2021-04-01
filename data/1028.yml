@@ -9,15 +9,15 @@ definitions:
        Конструкция указывает на то, что [некоторый участник]Speaker [говорит]Action о [другом участнике]Maleficiary, когда он не слышит. Как правило, [информация]Content, которую сообщает говорящий, неприятная для участника, и [говорящий]Speaker не хотел бы, чтобы [он]Maleficiary, услышал её.
 examples:
   - |
-       '[Студенты]Speaker за глаза [дразнили]Action [его]Maleficiary ["живчиком"]Content.'
+       [Студенты]Speaker за глаза [дразнили]Action [его]Maleficiary ["живчиком"]Content.
   - |
-       'Сейчас мне стыдно, что за глаза [я]Speaker нередко [посмеивался]Action над [ним]Maleficiary.'
+       Сейчас мне стыдно, что за глаза [я]Speaker нередко [посмеивался]Action над [ним]Maleficiary.
   - |
-       'Если она мне такое в лицо говорит ― то [что]Content же [она]Speaker [говорит]Action про [меня]Maleficiary за глаза!'
+       Если она мне такое в лицо говорит ― то [что]Content же [она]Speaker [говорит]Action про [меня]Maleficiary за глаза!
   - |
-       '[Продавщицы]Speaker только тем и занимались, что за глаза [перемывали]Action [Нине]Maleficiary косточки.'
+       [Продавщицы]Speaker только тем и занимались, что за глаза [перемывали]Action [Нине]Maleficiary косточки.
   - |
-       '[Соседи]Speaker сразу же стали [ее]Maleficiary за глаза [звать]Action [буржуйкой]Content.'
+       [Соседи]Speaker сразу же стали [ее]Maleficiary за глаза [звать]Action [буржуйкой]Content.
 morphology:
   - VP
 syntactic_type_of_construction:

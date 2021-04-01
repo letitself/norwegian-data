@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at en deltaker, ved å forflytte seg, [besøker]Action flere [steder]Location etter tur, der alle stedene har lik funksjon eller er av samme type.
 examples:
   - |
-       'У неё доставало сил вести этот большой дом, на всех готовить, обстирывать, шить и [ходить]Action по [магазинам]Location.'
+       У неё доставало сил вести этот большой дом, на всех готовить, обстирывать, шить и [ходить]Action по [магазинам]Location.
   - |
-       'Священники [ходили]Action по [домам]Location и оповещали население.'
+       Священники [ходили]Action по [домам]Location и оповещали население.
   - |
-       'Он не так любил [ездить]Action по [гостям]Location, как другой мой дядя.'
+       Он не так любил [ездить]Action по [гостям]Location, как другой мой дядя.
   - |
-       'Самое странное началось много позже, когда я [ходила]Action с романом по [издательствам]Location.'
+       Самое странное началось много позже, когда я [ходила]Action с романом по [издательствам]Location.
   - |
-       'Родственники беспокоились, [возили]Action бедную старушку по [врачам]Location.'
+       Родственники беспокоились, [возили]Action бедную старушку по [врачам]Location.
 morphology:
   - VP
   - NP

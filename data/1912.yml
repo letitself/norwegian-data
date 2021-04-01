@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen viser til en situasjon, der [objekter]Theme eller [deltakere]Participant fordeles på flere steder[Location] og det på hvert sted befinner seg en lik [mengde]Quantity [objekter]Theme som inntar samme [posisjon]State i rommet (f.eks. de ligger, står e.l.).
 examples:
   - |
-       '[В обеих руках]Location у неё [было]State по [сумке]Theme.'
+       [В обеих руках]Location у неё [было]State по [сумке]Theme.
   - |
-       'На столе [возле каждого из игроков]Location [лежит]State по [семь]Quantity [карточек]Theme.'
+       На столе [возле каждого из игроков]Location [лежит]State по [семь]Quantity [карточек]Theme.
   - |
-       '[В двух залах]Location среди кресел и стульев [стояло]State по [роялю]Theme.'
+       [В двух залах]Location среди кресел и стульев [стояло]State по [роялю]Theme.
   - |
-       '[В каждом углу]Location [сидит]State по [кошке]Participant.'
+       [В каждом углу]Location [сидит]State по [кошке]Participant.
   - |
-       '[В центре каждого столика]Location [стояло]State по [букету]Theme.'
+       [В центре каждого столика]Location [стояло]State по [букету]Theme.
 morphology:
   - VP
   - Sg

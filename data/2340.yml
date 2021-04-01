@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen anvendes når taleren bestemt, men ikke skarpt, anmoder en deltaker i situasjonen om ikke å utføre [en gitt handling]Action. Handlingen kan inntreffe i fremtiden eller har allerede inntruffet, og taleren vil at den ikke skal gjenta seg. Taleren fordømmer deltakeren for denne handlingen og mener at deltakerens status og tilhørighet til en bestemt gruppe (f.eks. basert på kjønn eller yrke), samt moralske eller andre fortrinn, ikke tillater vedkommende å utføre denne handlingen. Deltakeren kan være en gruppe personer som ikke inkluderer taleren, eller en enkeltperson, herunder talerens samtalepartner.
 examples:
   - |
-       'Целый ряд подобных стихов был в той рукописи, и Рубцов категорически выступал против них, утверждал, что женщине не подобает [писать стихи такого рода]Action.'
+       Целый ряд подобных стихов был в той рукописи, и Рубцов категорически выступал против них, утверждал, что женщине не подобает [писать стихи такого рода]Action.
   - |
-       'Она просто не хотела понимать, что [такой внешний вид]Action просто не подобает юристу, ну кто пойдет к адвокату с ирокезом на голове?!'
+       Она просто не хотела понимать, что [такой внешний вид]Action просто не подобает юристу, ну кто пойдет к адвокату с ирокезом на голове?!
   - |
-       '— Монаху не подобает [унывать]Action.'
+       — Монаху не подобает [унывать]Action.
   - |
-       'Не подобает [так вести себя]Action отцу, который только что лишился дочери.'
+       Не подобает [так вести себя]Action отцу, который только что лишился дочери.
   - |
-       'Не подобает тебе, внуку Тимура, [совершать хадж в таком скромном окружении]Action.'
+       Не подобает тебе, внуку Тимура, [совершать хадж в таком скромном окружении]Action.
 morphology:
   - NP
   - Dat

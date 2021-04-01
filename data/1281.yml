@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at én [handling eller situasjon]Cause er årsak til en annen [handling]Action eller [situasjon]Situation.
 examples:
   - |
-       '[Анна проснулась]Action оттого, что [в окно светило солнце]Cause.'
+       [Анна проснулась]Action оттого, что [в окно светило солнце]Cause.
   - |
-       '[Сара чувствовала себя уставшей]Situation оттого, что [мало спала]Cause.'
+       [Сара чувствовала себя уставшей]Situation оттого, что [мало спала]Cause.
   - |
-       '[Он молчал]Action оттого, что [был несколько ошеломлен рассказом]Cause.'
+       [Он молчал]Action оттого, что [был несколько ошеломлен рассказом]Cause.
   - |
-       'Отец говорил, [волки воют весной]Situation оттого, что [им есть теперь нечего]Cause.'
+       Отец говорил, [волки воют весной]Situation оттого, что [им есть теперь нечего]Cause.
   - |
-       '[Люди страдают]Situation оттого, что [неправильно живут]Cause.'
+       [Люди страдают]Situation оттого, что [неправильно живут]Cause.
 morphology:
   - Cl
 syntactic_type_of_construction:

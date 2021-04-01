@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker [talerens]Speaker bønn til [samtalepartneren]Addressee om ikke å avbryte [handlingen]Activity som utføres av taleren (eksempel 1, 2 og 3) eller en annen deltaker (eksempel 4). Det er som om taleren ber samtalepartneren om å få noe, ikke en gjenstand (slik det vanligvis er), men den handlingen taleren vil utføre. Dessuten kan konstruksjonen være en anbefaling om ikke å avbryte en naturlig prosess som skjer med [et objekt]Theme (eksempel 5).
 examples:
   - |
-       'Сейчас лучше зажмуриться и притвориться, что лежишь без сознания, чтобы ничего не видеть, не знать и не говорить. Уйдите и дайте [поспать]Activity.'
+       Сейчас лучше зажмуриться и притвориться, что лежишь без сознания, чтобы ничего не видеть, не знать и не говорить. Уйдите и дайте [поспать]Activity.
   - |
-       'Отстань от меня, ради бога, дай [ты]Addressee [мне]Speaker [отдохнуть]Activity.'
+       Отстань от меня, ради бога, дай [ты]Addressee [мне]Speaker [отдохнуть]Activity.
   - |
-       '― Ну? ― Да дай [ты]Addressee [мне]Speaker [раздеться]Action! ― сказал он, отпихивая меня в сторону и разматывая шарф.'
+       ― Ну? ― Да дай [ты]Addressee [мне]Speaker [раздеться]Action! ― сказал он, отпихивая меня в сторону и разматывая шарф.
   - |
-       '—  Дай [ты]Addressee [ей]Participant [сказать]Action! Не перебивай! — с раздражением выкрикнул председатель райпотребсоюза.'
+       —  Дай [ты]Addressee [ей]Participant [сказать]Action! Не перебивай! — с раздражением выкрикнул председатель райпотребсоюза.
   - |
-       'Вскипятите молоко с кокосовой стружкой и дайте [ему]Theme [постоять в течение часа]Activity.'
+       Вскипятите молоко с кокосовой стружкой и дайте [ему]Theme [постоять в течение часа]Activity.
 morphology:
   - Imp
   - NP

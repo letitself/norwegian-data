@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at taleren avviser en nettopp omtalt [handling]Action, ettersom vedkommende mener den er upassende eller utidig. Vanligvis anvendes konstruksjonen i en dialogsituasjon og uttrykker talerens reaksjon på samtalepartnerens foregående replikk. Konstruksjonen forekommer også i gjengivelsen av talerens indre tale når den tar form av en dialog vedkommende fører med seg selv.
 examples:
   - |
-       '― Ладно, пойду [спать]Action! ― Какой [спать]Action, Марина Михайловна? ― возмутилась Ира. ― Посидите с нами, хоть чайку попейте.'
+       ― Ладно, пойду [спать]Action! ― Какой [спать]Action, Марина Михайловна? ― возмутилась Ира. ― Посидите с нами, хоть чайку попейте.
   - |
-       '― Вам суп [наливать]Action? Я посмотрела на суп. Какое там [наливать]Action! Серый, непрозрачный, он не вызывал у меня аппетита. ― Нет, благодарю, ответила я.'
+       ― Вам суп [наливать]Action? Я посмотрела на суп. Какое там [наливать]Action! Серый, непрозрачный, он не вызывал у меня аппетита. ― Нет, благодарю, ответила я.
   - |
-       'И вот народ галдит. Я там присел, попытался [помедитировать]Action как-то. Какое там [медитировать]Action! Ничего подобного там и близко невозможно – весь этот галдеж и тусовка.'
+       И вот народ галдит. Я там присел, попытался [помедитировать]Action как-то. Какое там [медитировать]Action! Ничего подобного там и близко невозможно – весь этот галдеж и тусовка.
   - |
-       'Какой [петь]Action! — время уже позднее!'
+       Какой [петь]Action! — время уже позднее!
   - |
-       'Какой там [ответить]Action ― прочитать вопросы времени нет.'
+       Какой там [ответить]Action ― прочитать вопросы времени нет.
 morphology:
   - VP
   - Ipfv

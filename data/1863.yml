@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å trekke ut roten [av en viss potens]Quantity av [et tall]Quantity og angir [svaret]Result. Ved bruk av ordet 'равeн' (eksempel 1, 2 og 3), står svaret i dativ. Sammen med ordet 'это', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 4 og 5).
 examples:
   - |
-       'Корень [четвертой]Quantity степени из [шестнадцати]Quantity равен [двум]Result.'
+       Корень [четвертой]Quantity степени из [шестнадцати]Quantity равен [двум]Result.
   - |
-       'Kорень [девятой]Quantity степени из [нуля]Quantity равен [нулю]Result.'
+       Kорень [девятой]Quantity степени из [нуля]Quantity равен [нулю]Result.
   - |
-       'Корень [шестой]Quantity степени из [шестидесяти четырех]Quantity равен [двум]Result.'
+       Корень [шестой]Quantity степени из [шестидесяти четырех]Quantity равен [двум]Result.
   - |
-       'То есть корень [третьей]Quantity степени из [-8]Quantity – это [-2]Result?'
+       То есть корень [третьей]Quantity степени из [-8]Quantity – это [-2]Result?
   - |
-       'Например, корень [четвертой]Quantity степени из [числа 625]Quantity – это [числа -5 и 5]Result.'
+       Например, корень [четвертой]Quantity степени из [числа 625]Quantity – это [числа -5 и 5]Result.
 morphology:
   - NumOrd
   - Gen

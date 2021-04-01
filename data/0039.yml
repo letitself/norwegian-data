@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen anvendes når taleren anmoder samtalepartneren om å slutte å utføre [en gitt handling]Action fordi taleren finner den malplassert eller upassende (f.eks. spøke når man bør være alvorlig eller sørge når man bør være glad). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone. Det er som om taleren foreslår å kaste vekk noe, bare at det ikke dreier seg om en gjenstand (slik det vanligvis gjør), men en handling.
 examples:
   - |
-       '― А куда ж ты саму люстру дел? ― Бросьте [глупости спрашивать]Action! ― не выдержал Валентин.'
+       ― А куда ж ты саму люстру дел? ― Бросьте [глупости спрашивать]Action! ― не выдержал Валентин.
   - |
-       'Брось [вести такие разговоры]Action.'
+       Брось [вести такие разговоры]Action.
   - |
-       'Ребята, бросьте [врать]Action, мы и так знаем правду.'
+       Ребята, бросьте [врать]Action, мы и так знаем правду.
   - |
-       'Здесь ещё месяца на три, а то и больше, работы! ― Брось [шутить]Action, дядя, ― говорят они. ― Делов-то всего ― дом построить!'
+       Здесь ещё месяца на три, а то и больше, работы! ― Брось [шутить]Action, дядя, ― говорят они. ― Делов-то всего ― дом построить!
   - |
-       '― Бросьте [болтать чепуху]Action, господа, ― лениво проговорила женщина.'
+       ― Бросьте [болтать чепуху]Action, господа, ― лениво проговорила женщина.
 morphology:
   - Imp
   - VP

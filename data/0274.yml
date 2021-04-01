@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [taleren]Speaker foreslår overfor [samtalepartneren]Participant at de sammen skal utføre en viss [handling]Action. For å utføre denne handlingen, må de forflytte seg til et annet sted.
 examples:
   - |
-       'Может быть, пойдем [гулять на улицу]Action?'
+       Может быть, пойдем [гулять на улицу]Action?
   - |
-       'Пошли [спать]Action. Сейчас все равно ничего не сделаешь.'
+       Пошли [спать]Action. Сейчас все равно ничего не сделаешь.
   - |
-       '― Пока географ не приехал, пошли [поедим]Action, я для вас кое-что вкусненькое приготовил.'
+       ― Пока географ не приехал, пошли [поедим]Action, я для вас кое-что вкусненькое приготовил.
   - |
-       'Пойдём [посмотрим]Action, кто это к нам приехал.'
+       Пойдём [посмотрим]Action, кто это к нам приехал.
   - |
-       'Сколько можно возиться? Пошли [починим эту машину]Action.'
+       Сколько можно возиться? Пошли [починим эту машину]Action.
 morphology:
   - VP
   - Pfv

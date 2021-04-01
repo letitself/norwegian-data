@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen anvendes for å uttrykke at taleren er i villrede eller ikke forstår den logiske forbindelsen mellom samtalens tema og det sist anførte [argumentet]Theme.
 examples:
   - |
-       '[Чёрт]Cognizer [его]Topic знает, [что она вчера вечером делала в лаборатории]Content.'
+       [Чёрт]Cognizer [его]Topic знает, [что она вчера вечером делала в лаборатории]Content.
   - |
-       '[Бог]Cognizer [его]Topic знает, [где они сейчас]Content.'
+       [Бог]Cognizer [его]Topic знает, [где они сейчас]Content.
   - |
-       '― [Шут]Cognizer [его]Topic знает, [как оно получилось]Content. Всё считал ― есть сено в запасе, есть. Ещё с прошлого лета стог сена в лесу оставил.'
+       ― [Шут]Cognizer [его]Topic знает, [как оно получилось]Content. Всё считал ― есть сено в запасе, есть. Ещё с прошлого лета стог сена в лесу оставил.
   - |
-       '[Чёрт]Cognizer [ее]Topic знает, [что у нее там случилось со здоровьем]Content.'
+       [Чёрт]Cognizer [ее]Topic знает, [что у нее там случилось со здоровьем]Content.
   - |
-       '[Бог]Cognizer [их]Topic знает, [зачем они приезжали ― по делам или так, погулять в столице]Content.'
+       [Бог]Cognizer [их]Topic знает, [зачем они приезжали ― по делам или так, погулять в столице]Content.
 morphology:
   - Noun
   - Nom

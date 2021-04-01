@@ -9,15 +9,15 @@ definitions:
        Конструкция обозначает, что [говорящий]Speaker [сообщает]Action [собеседнику]Addressee [некоторую информацию]ContentOfSpeech и при этом рассчитывает, что собеседник никому ее не передаст.
 examples:
   - |
-       '[Ты]Speaker как-то ещё до армии по секрету [мне]Addressee [признался]Action, [что тебе нравится Шарипова дочка]ContentOfSpeech.'
+       [Ты]Speaker как-то ещё до армии по секрету [мне]Addressee [признался]Action, [что тебе нравится Шарипова дочка]ContentOfSpeech.
   - |
-       '[Вы]Speaker [мне]Addressee по секрету [расскажите]Action, я никому не выдам.'
+       [Вы]Speaker [мне]Addressee по секрету [расскажите]Action, я никому не выдам.
   - |
-       '[Я]Speaker [сказала]Action [дедушке]Addressee по секрету, [что Катя часто плачет]ContentOfSpeech.'
+       [Я]Speaker [сказала]Action [дедушке]Addressee по секрету, [что Катя часто плачет]ContentOfSpeech.
   - |
-       'Потом [расскажу]Action по секрету, может быть.'
+       Потом [расскажу]Action по секрету, может быть.
   - |
-       'Впрочем, [сознаюсь]Action [Вам]Addressee по секрету, [что в итоге Вы прекрасно отвлекли меня тогда]ContentOfSpeech.'
+       Впрочем, [сознаюсь]Action [Вам]Addressee по секрету, [что в итоге Вы прекрасно отвлекли меня тогда]ContentOfSpeech.
 morphology:
   - VP
 syntactic_type_of_construction:

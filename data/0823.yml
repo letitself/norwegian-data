@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen brukes for å angi en gjennomsnittlig tallverdi (det tallet som er lik summen av alle tallene i en mengde, delt på antall tall). I en uformell kontekst betegner konstruksjonen en upresis, omtrentlig [mengde]Quantity [objekter]Theme eller [måleenheter]Measure.
 examples:
   - |
-       'Сила укуса человека составляет в среднем [890]Quantity [ньютонов]Measure.'
+       Сила укуса человека составляет в среднем [890]Quantity [ньютонов]Measure.
   - |
-       'Один час тренировки стоит в среднем [три тысячи]Quantity [рублей]Measure, которые приходится делить на всех игроков.'
+       Один час тренировки стоит в среднем [три тысячи]Quantity [рублей]Measure, которые приходится делить на всех игроков.
   - |
-       'Неудивительно, что на создание одного полнометражного мультика уходит в среднем [четыре]Qunatity [года]Measure.'
+       Неудивительно, что на создание одного полнометражного мультика уходит в среднем [четыре]Qunatity [года]Measure.
   - |
-       'Ежегодно в мире при землетрясениях гибнут в среднем [50 тысяч]Quantity [человек]Theme.'
+       Ежегодно в мире при землетрясениях гибнут в среднем [50 тысяч]Quantity [человек]Theme.
   - |
-       'Женщины оказались выносливее ― они живут в среднем [семьдесят два]Quantity [года]Measure.'
+       Женщины оказались выносливее ― они живут в среднем [семьдесят два]Quantity [года]Measure.
 morphology:
   - NumCrd
   - NP

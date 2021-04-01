@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at taleren ber om samtalepartnerens tillatelse til å utføre en gitt [handling]Action. Taleren mener å vite at handlingen ikke vil fremkalle sterke motforestillinger fra samtalepartnerens side.
 examples:
   - |
-       'Ничего, если я [задам пару вопросов]Action? Только заранее извиняюсь, если они покажутся вам неприятными.'
+       Ничего, если я [задам пару вопросов]Action? Только заранее извиняюсь, если они покажутся вам неприятными.
   - |
-       'Устраивает такой вариант? – Вполне. Вот только: ничего, если я [с Дениской приеду]Action?'
+       Устраивает такой вариант? – Вполне. Вот только: ничего, если я [с Дениской приеду]Action?
   - |
-       'Ничего, если я [вам в маленькой комнате постелю]?'
+       Ничего, если я [вам в маленькой комнате постелю]?
   - |
-       'Не страшно, если я тебя [задержу ненадолго]Action?'
+       Не страшно, если я тебя [задержу ненадолго]Action?
   - |
-       'А не страшно если [чуть опоздаю]Action?'
+       А не страшно если [чуть опоздаю]Action?
 morphology:
   - Cl
 syntactic_type_of_construction:

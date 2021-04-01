@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen betegner [en handling]Action som involverer like porsjoner av [objekter]Theme etter tur. I forbindelse med dette oppgis [den mengden]Quantity [objekter]Theme som omfattes av [én tidsenhet]Quantifier (eksempel 1,2 og 5), eller [prisen]Quantity på [én porsjon]Quantifier av en vare (eksempel 3 og 4).
 examples:
   - |
-       'Я [стал водить экскурсии]Action регулярно, иногда по [две]Quantity [экскурсии]Theme за [смену]Quantifier.'
+       Я [стал водить экскурсии]Action регулярно, иногда по [две]Quantity [экскурсии]Theme за [смену]Quantifier.
   - |
-       'Вот такая глупость мне [снилась]Action по [три]Quantity [раза]Theme за [ночь.]Quantifier'
+       Вот такая глупость мне [снилась]Action по [три]Quantity [раза]Theme за [ночь.]Quantifier
   - |
-       'А что денег было больше, я не сомневался, поскольку некоторые [платили]Action даже не по [двадцать]Quantity [рублей]Measure за [стакан]Quantifier, но и больше.'
+       А что денег было больше, я не сомневался, поскольку некоторые [платили]Action даже не по [двадцать]Quantity [рублей]Measure за [стакан]Quantifier, но и больше.
   - |
-       'Астраханцы [продают]Action [крупных судаков]Theme по [50]Quantity [рублей]Measure за [килограмм]Quantifier.'
+       Астраханцы [продают]Action [крупных судаков]Theme по [50]Quantity [рублей]Measure за [килограмм]Quantifier.
   - |
-       'Можно [покупать]Action по [одной]Quantity [вещи]Theme за [раз]Quantifier, каждый раз используя новый промокод.'
+       Можно [покупать]Action по [одной]Quantity [вещи]Theme за [раз]Quantifier, каждый раз используя новый промокод.
 morphology:
   - VP
   - NumCrd

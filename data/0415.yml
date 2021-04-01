@@ -13,15 +13,15 @@ definitions:
        старый перевод Konstruksjonen uttrykker at [noe]Situasjon (ikke) har skjedd etter [en viss hendelse]Time. Som eksemplene under illustrerer, kan de to leddene i konstruksjonen, her markert som Situasjon og Tid, forekomme i begge rekkefølger.
 examples:
   - |
-       'Я тут теперь посчитал, ― выходит, что [семнадцать лет прошло]Situation с тех пор, как [он мне это сказал]Event.'
+       Я тут теперь посчитал, ― выходит, что [семнадцать лет прошло]Situation с тех пор, как [он мне это сказал]Event.
   - |
-       '[Она, наверно, не вставала]Situation с тех пор, как [я ушёл]Event.'
+       [Она, наверно, не вставала]Situation с тех пор, как [я ушёл]Event.
   - |
-       'С тех пор, как [они встретились]Event, [у Марины появилась соперница]Situation.'
+       С тех пор, как [они встретились]Event, [у Марины появилась соперница]Situation.
   - |
-       'С тех пор как [я на пенсии]Event, [я собираю все редкие книги]Situation.'
+       С тех пор как [я на пенсии]Event, [я собираю все редкие книги]Situation.
   - |
-       'Артур с тех пор, как [поступил в институт]Event, [в родном городе больше не появлялся]Situation.'
+       Артур с тех пор, как [поступил в институт]Event, [в родном городе больше не появлялся]Situation.
 morphology:
   - Cl
 syntactic_type_of_construction:

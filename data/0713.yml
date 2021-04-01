@@ -9,15 +9,15 @@ definitions:
        Конструкция обозначает, что [участник ситуации]Participant совершает некоторое [действие]Action, о котором [другой участник]Beneficiary не знает. Совершаемое [действие]Action касается [второго участника]Beneficiary, но он, скорее всего, не одобрил бы это [действие]Action, если бы знал о нём. Часто этот участник находится выше в иерархии (семейной, рабочей или социальной), чем первый.
 examples:
   - |
-       '[Он]Participant [опубликовал книгу]Action без ведома [автора]Beneficiary.'
+       [Он]Participant [опубликовал книгу]Action без ведома [автора]Beneficiary.
   - |
-       '[Никто]Participant не мог это [сделать]Action без ведома [президента]Beneficiary'
+       [Никто]Participant не мог это [сделать]Action без ведома [президента]Beneficiary
   - |
-       '[Он]Participant не мог [уйти с работы]Action без ведома [начальника]Beneficiary.'
+       [Он]Participant не мог [уйти с работы]Action без ведома [начальника]Beneficiary.
   - |
-       '[Я]Participant не могу [принимать это лекарство]Action без ведома [врача]Beneficiary.'
+       [Я]Participant не могу [принимать это лекарство]Action без ведома [врача]Beneficiary.
   - |
-       'Это была интересная деталь: чужую вещь [дикари]Participant [дарили]Action без ведома [хозяина]Beneficiary.'
+       Это была интересная деталь: чужую вещь [дикари]Participant [дарили]Action без ведома [хозяина]Beneficiary.
 morphology:
   - VP
   - NP

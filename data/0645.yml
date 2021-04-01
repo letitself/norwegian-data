@@ -13,11 +13,11 @@ definitions:
        Konstruksjonen uttrykker at deltageren utførte [handlingen]Activity som del av en [gruppe]Participant.
 examples:
   - |
-       'По воскресеньям мы [едем кататься на лыжах]Action [всей семьей.]Participant'
+       По воскресеньям мы [едем кататься на лыжах]Action [всей семьей.]Participant
   - |
-       'Самое главное – это [работать]Action [одной командой.]Participant'
+       Самое главное – это [работать]Action [одной командой.]Participant
   - |
-       'Они [собирали урожай ]Action [всем селом.]Participant'
+       Они [собирали урожай ]Action [всем селом.]Participant
 morphology:
   - VP
   - NP

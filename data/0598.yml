@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker]Agent utfører en vedvarende [handling]Activity som avløses av [en annen hendelse eller handling]Event eller leder frem til [den]Result. Handlingens varighet formidles ved å gjenta verbet.
 examples:
   - |
-       'Во так-то и все: [он]Agent [жил-жил]Activity и [наконец понял, что совершил ужасную ошибку, когда женился на ней]Event.'
+       Во так-то и все: [он]Agent [жил-жил]Activity и [наконец понял, что совершил ужасную ошибку, когда женился на ней]Event.
   - |
-       '[Они]Agent [ехали-ехали]Activity и, наконец, [доехали до старинного замка.]Result'
+       [Они]Agent [ехали-ехали]Activity и, наконец, [доехали до старинного замка.]Result
   - |
-       '[Мучался-мучался]Activity [он]Agent, [думал-думал]Activity, и  [наконец-то таки смог открыть сундук.]Result'
+       [Мучался-мучался]Activity [он]Agent, [думал-думал]Activity, и  [наконец-то таки смог открыть сундук.]Result
   - |
-       '[Я]Agent [терпел-терпел]Activity и наконец [говорю]Event: ― Дора, я уважаю ваши религиозные принципы, но я хочу понять, на ком я женился: на Доре или на Торе?'
+       [Я]Agent [терпел-терпел]Activity и наконец [говорю]Event: ― Дора, я уважаю ваши религиозные принципы, но я хочу понять, на ком я женился: на Доре или на Торе?
   - |
-       'Так что [я]Agent [думал, думал]Activity и наконец [решился]Result.'
+       Так что [я]Agent [думал, думал]Activity и наконец [решился]Result.
 morphology:
   - VP
   - Pst

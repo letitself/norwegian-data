@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å opphøye [et tall]Quantity i annen potens (å kvadrere) eller i tredje potens (å kubere), og angir [svaret]Result. Sloten VP fylles av verbformene 'равняется' og 'будет'. Ved bruk av ordene 'равно' eller 'равняется' kan svaret stå i nominativ eller dativ (eksempel 2, 3, 4 og 5). Sammen med ordet 'будет', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 1).
 examples:
   - |
-       '[Три]Quantity в квадрате будет [девять]Result, [три]Quantity в кубе будет [двадцать семь]Result.'
+       [Три]Quantity в квадрате будет [девять]Result, [три]Quantity в кубе будет [двадцать семь]Result.
   - |
-       '[Пять]Quantity в квадрате равняется [двадцати пяти]Result.'
+       [Пять]Quantity в квадрате равняется [двадцати пяти]Result.
   - |
-       '[Минус три]Quantity в квадрате равно [девять]Result. Не забываем, что минус умножить на минус дает плюс.'
+       [Минус три]Quantity в квадрате равно [девять]Result. Не забываем, что минус умножить на минус дает плюс.
   - |
-       '[Шесть]Quantity в кубе равно [двести шестнадцать]Result.'
+       [Шесть]Quantity в кубе равно [двести шестнадцать]Result.
   - |
-       '[Шесть]Quantity в квадрате равно [тридцати шести]Result.'
+       [Шесть]Quantity в квадрате равно [тридцати шести]Result.
 morphology:
   - NumCrd
   - Nom

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker årsaken som ligger til grunn for [en situasjon]Situation eller [en handling]Action. Årsken består i at [et objekt eller en komponent]Theme mangler. Det er mangelen på objektet eller komponenten som forårsaker [situasjonen]Situation. I konstruksjonen er det valgfritt å uttrykke [deltakeren som opptrer som eier]Possessor når ankerordene 'за неимением' og 'за отсутствием' er med.
 examples:
   - |
-       'За неимением у [вас]Possessor [оливкового масла]Theme можно [добавить подсолнечное]Action.'
+       За неимением у [вас]Possessor [оливкового масла]Theme можно [добавить подсолнечное]Action.
   - |
-       'За недостатком [дров]Theme люди [cжигали]Action последнюю мебель.'
+       За недостатком [дров]Theme люди [cжигали]Action последнюю мебель.
   - |
-       'За неимением [вешалки]Theme соседи [вешали пальто на гвоздь]Action.'
+       За неимением [вешалки]Theme соседи [вешали пальто на гвоздь]Action.
   - |
-       'За отсутствием [состава преступления]Theme он [был реабилитирован]Situation в 1957 году.'
+       За отсутствием [состава преступления]Theme он [был реабилитирован]Situation в 1957 году.
   - |
-       'За недостатком [местных специалистов]Theme [в университете преподавали зарубежные учёные]Situation.'
+       За недостатком [местных специалистов]Theme [в университете преподавали зарубежные учёные]Situation.
 morphology:
   - NP
   - Gen

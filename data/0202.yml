@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen anvendes når taleren høflig anmoder en deltaker i en situasjon om ikke å utføre [en handling]Action. Handlingen kan inntreffe i fremtiden, eller den pågår i øyeblikket. Taleren mener det ikke finnes fornuftige grunner til å utføre denne handlingen. Talerens anmodning fremstår som et råd. Deltakeren som anmodningen er rettet til, er ofte ikke nevnt, og konstruksjonen brukes da som en upersonlig setning. Når deltakeren nevnes, kan det være i egenskap av en gruppe personer eller en enkeltperson, herunder talerens samtalepartner. Dessuten kan taleren henvende seg til seg selv. Med dativ (4 og 5) og uten dativ (1, 2 og 3); til en samtalepartner (4), til en gruppe (6), til en tredjeperson (5), til seg selv (1).
 examples:
   - |
-       'Я часто смеюсь ― даже когда этого не стоит [делать]Action.'
+       Я часто смеюсь ― даже когда этого не стоит [делать]Action.
   - |
-       'Он говорит, что квартиру надо продать, поэтому не стоит [тратить время]Action на ремонт и обустройство дома.'
+       Он говорит, что квартиру надо продать, поэтому не стоит [тратить время]Action на ремонт и обустройство дома.
   - |
-       'Не стоит [нагружать школьника многочисленными занятиями]Action.'
+       Не стоит [нагружать школьника многочисленными занятиями]Action.
   - |
-       'Мне это неприятно тебе говорить, но я думаю, тебе не стоит [этим заниматься]Action. Ты не обижайся и не огорчайся, литературный талант бывает не у каждого. И у тебя его нет.'
+       Мне это неприятно тебе говорить, но я думаю, тебе не стоит [этим заниматься]Action. Ты не обижайся и не огорчайся, литературный талант бывает не у каждого. И у тебя его нет.
   - |
-       '― Мама, папа, я думаю, сегодня вам не стоит [смотреть мой дневник]Action.'
+       ― Мама, папа, я думаю, сегодня вам не стоит [смотреть мой дневник]Action.
 morphology:
   - NP
   - Dat

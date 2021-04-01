@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker sammenlikning og betegner en likhet mellom [et objekt]Theme, [en deltaker]Participant eller [en situasjon]Situation og [en gitt prototyp]Standard når det gjelder et gitt [kjennetegn]Property. Likheten innebærer ikke nødvendigvis noe absolutt sammenfall.
 examples:
   - |
-       'Внешне [эти растения]Theme мало похожи на [кактусы]Standard.'
+       Внешне [эти растения]Theme мало похожи на [кактусы]Standard.
   - |
-       '[Девочка]Participant была похожа на [кореянку]Standard.'
+       [Девочка]Participant была похожа на [кореянку]Standard.
   - |
-       'И вдруг она появляется в нашем дворе и спрашивает, где я живу. [Это]Situation было похоже на [кошмарный сон]Standard, как если бы за мной явилась колдунья из страшной сказки.'
+       И вдруг она появляется в нашем дворе и спрашивает, где я живу. [Это]Situation было похоже на [кошмарный сон]Standard, как если бы за мной явилась колдунья из страшной сказки.
   - |
-       '[Ее комната без окна]Theme была похожа по [размерам]Property на [стенной шкаф]Standard.'
+       [Ее комната без окна]Theme была похожа по [размерам]Property на [стенной шкаф]Standard.
   - |
-       '[Мальчик]Participant так был похож на [Игоря]Standard [своим серьезным видом]Property, [всей своей мрачностью]Property, даже прическа была у него такая же, как у Игоря.'
+       [Мальчик]Participant так был похож на [Игоря]Standard [своим серьезным видом]Property, [всей своей мрачностью]Property, даже прическа была у него такая же, как у Игоря.
 morphology:
   - NP
   - Nom

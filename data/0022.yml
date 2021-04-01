@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen understreker en overflod av [et objekt]Theme som [deltakeren]Participant besitter. Mengden av objektet er mye større enn nødvendig. Å nevne [deltakeren]Participant er valgfritt. Konstruksjonen brukes i uformell kommunikasjon.
 examples:
   - |
-       '[Нам]Participant [эту картошку]Theme девать некуда.'
+       [Нам]Participant [эту картошку]Theme девать некуда.
   - |
-       '[Начальству]Participant просто [деньги]Theme девать некуда.'
+       [Начальству]Participant просто [деньги]Theme девать некуда.
   - |
-       '[Тебе]Participant что, [время]Theme девать некуда?'
+       [Тебе]Participant что, [время]Theme девать некуда?
   - |
-       '― Попробуй, ― с улыбкой согласилась Мария, ― если [силы]Theme девать некуда.'
+       ― Попробуй, ― с улыбкой согласилась Мария, ― если [силы]Theme девать некуда.
   - |
-       'Своих [учителей]Theme девать некуда, голубчик… ― вздохнул директор, даже не интересуясь дипломом.'
+       Своих [учителей]Theme девать некуда, голубчик… ― вздохнул директор, даже не интересуясь дипломом.
 morphology:
   - NP
   - Dat

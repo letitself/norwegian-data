@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betegner [radiusen eller diameteren]Quantity av [et objekt med rundt snitt]Theme, målt i [standardiserte målenheter for lengde, f.eks. meter, kilometer, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
   - |
-       'Из фанеры нужно вырезать [кружок]Theme радиусом в [три]Quantity [сантиметра]Measure, наклеить на него плотную чертежную бумагу.'
+       Из фанеры нужно вырезать [кружок]Theme радиусом в [три]Quantity [сантиметра]Measure, наклеить на него плотную чертежную бумагу.
   - |
-       'Вокруг деда наметилась [опасная зона]Theme радиусом [полтора]Quantity [метра]Measure.'
+       Вокруг деда наметилась [опасная зона]Theme радиусом [полтора]Quantity [метра]Measure.
   - |
-       'В меню входит шесть видов [пиццы]Theme диаметром [30]Quantity [сантиметров]Measure.'
+       В меню входит шесть видов [пиццы]Theme диаметром [30]Quantity [сантиметров]Measure.
   - |
-       'Единственная находка с места событий ― чёрный камень, по форме представляющий собой идеальную [половину от шара]Theme диаметром в [6]Quantity [см]Measure.'
+       Единственная находка с места событий ― чёрный камень, по форме представляющий собой идеальную [половину от шара]Theme диаметром в [6]Quantity [см]Measure.
   - |
-       'Шансы космического контакта цивилизаций для [галактики]Theme диаметром в [100 тыс.]Quantity [световых лет]Measure чрезвычайно невелики.'
+       Шансы космического контакта цивилизаций для [галактики]Theme диаметром в [100 тыс.]Quantity [световых лет]Measure чрезвычайно невелики.
 morphology:
   - NP
   - NumCrd

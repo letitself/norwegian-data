@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betegner [et objekts]Theme [volum]Quantity, målt i [standardiserte målenheter for volum, f.eks. kubikkmeter, kubikkcentimenter, liter eller galloner]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ. Konstruksjonen kan brukes i overført betydning når mengden måles i andre målenheter (pengebeløp, dataminne, boksider m.m.).
 examples:
   - |
-       'У Циолковского был проект [дирижабля]Theme объемом [58 миллионов]Quantity [кубических метров]Measure.'
+       У Циолковского был проект [дирижабля]Theme объемом [58 миллионов]Quantity [кубических метров]Measure.
   - |
-       'Возвращаясь домой, он каждый раз записывал беседу, из этих-то записей и получилась [книга]Theme объемом [более 200]Quantity [страниц]Measure.'
+       Возвращаясь домой, он каждый раз записывал беседу, из этих-то записей и получилась [книга]Theme объемом [более 200]Quantity [страниц]Measure.
   - |
-       'Этот [сегмент рынка косметики]Theme объемом [140 миллиардов]Quantity [рублей]Measure был близок к стагнации с 2010 года.'
+       Этот [сегмент рынка косметики]Theme объемом [140 миллиардов]Quantity [рублей]Measure был близок к стагнации с 2010 года.
   - |
-       'Скачивание [файла]Theme объемом в [несколько]Quantity [мегабайт]Measure уже никого не смущает.'
+       Скачивание [файла]Theme объемом в [несколько]Quantity [мегабайт]Measure уже никого не смущает.
   - |
-       'Задать [вопрос]Theme можно будет только на русском языке и объемом [не более 70]Quantity [знаков]Measure.'
+       Задать [вопрос]Theme можно будет только на русском языке и объемом [не более 70]Quantity [знаков]Measure.
 morphology:
   - NP
   - NumCrd

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen brukes til delvis, omtrentlig lokalisering av [en handling]Action (eksempel 1), [en situasjon]Situation (eksempel 2. 3 og 4) eller [et objekt]Theme (eksempel 5), ikke langt fra [et større og mer markant orienteringspunkt]Location. Som regel er et slikt orienteringspunkt en stor by. Sloten XP kan fylles av en verbalfrase (eksempel 1), en nominalfrase (eksempel 2, 4 og 5) eller en hel leddsetning (eksempel 4).
 examples:
   - |
-       'Шесть недель [отдыхали на базе отдыха]Action под [Киевом]Location на реке Десна. Загорели, отдохнули.'
+       Шесть недель [отдыхали на базе отдыха]Action под [Киевом]Location на реке Десна. Загорели, отдохнули.
   - |
-       '[Трагедия]Situation под [Смоленском]Location была настолько ужасной, что она до сих пор взывает к молчанию.'
+       [Трагедия]Situation под [Смоленском]Location была настолько ужасной, что она до сих пор взывает к молчанию.
   - |
-       '[Битва]Situation под [Москвой]Location внушила веру в нашу будущую победу, но всем стало понятно, что дастся она нелегко и ждать ее придется долго.'
+       [Битва]Situation под [Москвой]Location внушила веру в нашу будущую победу, но всем стало понятно, что дастся она нелегко и ждать ее придется долго.
   - |
-       'Несмотря на проблемы, в первую очередь финансовые, в первых числах января под [Петербургом]Location всегда [проходил этап мирового Кубка по лыжным гонкам]Situation.'
+       Несмотря на проблемы, в первую очередь финансовые, в первых числах января под [Петербургом]Location всегда [проходил этап мирового Кубка по лыжным гонкам]Situation.
   - |
-       'Насколько лучше было бы [в каком-нибудь русском доме]Theme под [Парижем]Location, да и жара там не такая с ума сводящая.'
+       Насколько лучше было бы [в каком-нибудь русском доме]Theme под [Парижем]Location, да и жара там не такая с ума сводящая.
 morphology:
   - XP
   - NP

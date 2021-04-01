@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker]Participant fordømmer [en annen deltaker]Maldficiary for en handling (eksempel 1 og 2) og i tillegg som regel tilkjennegir sin kritiske holdning [i form av en muntlig bemerkning]Action i en samtale (eksempel 3, 4 og 5) eller ved å utføre en bestemt [handling]Action (illustrasjon av konstruksjonen). Dette gjøres liksom for å bebreide adressaten.
 examples:
   - |
-       '[Церковная власть]Participant [ставит]Action в укор [католикам]Maleficiary, что они проповедуют в современной ситуации свободнее, чем то делали при православии.'
+       [Церковная власть]Participant [ставит]Action в укор [католикам]Maleficiary, что они проповедуют в современной ситуации свободнее, чем то делали при православии.
   - |
-       '[Известный физиолог Ферворн]Participant [ставит]Action в укор [Вейсману]Maleficiary то, что последний не принимает во внимание факта постоянного частичного разрушения внутри одноклеточных организмов.'
+       [Известный физиолог Ферворн]Participant [ставит]Action в укор [Вейсману]Maleficiary то, что последний не принимает во внимание факта постоянного частичного разрушения внутри одноклеточных организмов.
   - |
-       'Я терпеть не могу, когда [взрослые]Participant в укор [своим детям]Maleficiary [твердят]Action: «Пожил бы ты в детстве как я!».'
+       Я терпеть не могу, когда [взрослые]Participant в укор [своим детям]Maleficiary [твердят]Action: «Пожил бы ты в детстве как я!».
   - |
-       'В укор [командиру]Maleficiary [он]Participant [повторил]Action: «Слабовато», поджав в подтверждение губы.'
+       В укор [командиру]Maleficiary [он]Participant [повторил]Action: «Слабовато», поджав в подтверждение губы.
   - |
-       '― Нет, это [я]Participant тебе [говорю]Action не в укор, а потому, что пришлось к слову.'
+       ― Нет, это [я]Participant тебе [говорю]Action не в укор, а потому, что пришлось к слову.
 morphology:
   - VP
   - NP

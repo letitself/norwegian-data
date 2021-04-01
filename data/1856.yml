@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å addere [et tall]Quantity med [et annet]Quantity og angir [svaret]Result (summen). Sloten VP fylles av verbformene 'равняется',  'будет' eller 'получится'. Ved bruk av  ordene 'равно' eller 'равняется'' kan svaret stå i nominativ eller dativ (eksempel 2, 4 og 5). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 1 og 3).
 examples:
   - |
-       '[Три]Quantity плюс [три]Quantity будет [шесть]Result. Ловко, не правда ли?!'
+       [Три]Quantity плюс [три]Quantity будет [шесть]Result. Ловко, не правда ли?!
   - |
-       'Так, истина высказывания «[семь]Quantity плюс [три]Quantity равняется [десять]Result» есть истина без начала и конца.'
+       Так, истина высказывания «[семь]Quantity плюс [три]Quantity равняется [десять]Result» есть истина без начала и конца.
   - |
-       '[Четыре]Quantity плюс [пять]Quantity ― получается опять же [девять]Result.'
+       [Четыре]Quantity плюс [пять]Quantity ― получается опять же [девять]Result.
   - |
-       'Считать умеете? [Три]]Quantity плюс [семь]Quantity равно [десяти]Result.'
+       Считать умеете? [Три]]Quantity плюс [семь]Quantity равно [десяти]Result.
   - |
-       'Еще по устному счету нет чтобы сложить [пять]Quantity плюс [семь]Quantity равняется [двенадцати]Result, ― он воображал столбик из пяти кубиков...'
+       Еще по устному счету нет чтобы сложить [пять]Quantity плюс [семь]Quantity равняется [двенадцати]Result, ― он воображал столбик из пяти кубиков...
 morphology:
   - NumCrd
   - Nom

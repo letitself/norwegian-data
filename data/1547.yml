@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betegner [et objekts]Theme [lengdemål]Quantity, målt i [standardiserte målenheter for lengde, f.eks. meter, kilometer, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
   - |
-       'Здесь на [пешеходной улице]Theme длиной в [полтора]Quantity [километра]Measure расположились художественные образы из бронзового литья.'
+       Здесь на [пешеходной улице]Theme длиной в [полтора]Quantity [километра]Measure расположились художественные образы из бронзового литья.
   - |
-       '[Прямоугольная льдина]Theme длиной [52]Quantity [метра]Measure и шириной [40]Quantity [метров]Measure плавает в море.'
+       [Прямоугольная льдина]Theme длиной [52]Quantity [метра]Measure и шириной [40]Quantity [метров]Measure плавает в море.
   - |
-       'Каждый шар имеет [окаменевшую оболочку]Theme толщиной в [20-30]Quantity [сантиметров]Measure.'
+       Каждый шар имеет [окаменевшую оболочку]Theme толщиной в [20-30]Quantity [сантиметров]Measure.
   - |
-       'Во время сегодняшнего запуска ракетоноситель "Днепр-1" выведет на [орбиту]Theme высотой [около 650]Quantity [километров]Measure шесть космических аппаратов.'
+       Во время сегодняшнего запуска ракетоноситель "Днепр-1" выведет на [орбиту]Theme высотой [около 650]Quantity [километров]Measure шесть космических аппаратов.
   - |
-       'Все восемь колёс оставляют за собой [две колеи]Theme глубиной всего в [пару]Quantity [сантиметров]Measure.'
+       Все восемь колёс оставляют за собой [две колеи]Theme глубиной всего в [пару]Quantity [сантиметров]Measure.
 morphology:
   - NP
   - NumCrd

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen anvendes når taleren anmoder [samtalepartneren]Participant om å slutte å utføre en pågående [handling]Action. Taleren vurderer handlingen negativt og kritiserer den for ikke å være tilstrekkelig velbegrunnet. Det dreier seg vanligvis om dårlig og upassende atferd (lyve, forstille seg, syte, krangle osv.). Av og til er det tale om en positiv eller nøytral handling som i gitte situasjon oppfattes som upassende (eksempel 5). Anmodningen kan være rettet til én person (eksempel 4 og 5) eller til en gruppe personer som ikke inkluderer taleren (eksempel 1, 2 og 3). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
 examples:
   - |
-       '― Да ладно [вам]Participant [охать-ахать]Action, ничего особенно трагического не произошло, а травма у него символическая.'
+       ― Да ладно [вам]Participant [охать-ахать]Action, ничего особенно трагического не произошло, а травма у него символическая.
   - |
-       '―Я за вас переживаю. ― Да ладно [тебе]Participant [оправдываться]Action. ― Я со смехом уткнулась в его плечо.'
+       ―Я за вас переживаю. ― Да ладно [тебе]Participant [оправдываться]Action. ― Я со смехом уткнулась в его плечо.
   - |
-       'Ладно [вам]Participant [спорить]Action. Всё равно правду мы не узнаем.'
+       Ладно [вам]Participant [спорить]Action. Всё равно правду мы не узнаем.
   - |
-       '― Мы в критическом положении! ― Ладно [тебе]Participant [ныть]Action, что ты как баба, в самом деле, ― уже более мирным тоном проговорил лейтенант.'
+       ― Мы в критическом положении! ― Ладно [тебе]Participant [ныть]Action, что ты как баба, в самом деле, ― уже более мирным тоном проговорил лейтенант.
   - |
-       '.― Да ладно [вам]Participant [стесняться и прятаться]Action. Я вас сразу заметила.'
+       .― Да ладно [вам]Participant [стесняться и прятаться]Action. Я вас сразу заметила.
 morphology:
   - PronPers
   - 2

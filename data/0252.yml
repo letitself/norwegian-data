@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen uttrykker [totalkostnaden]Number for [noe]Theme.
 examples:
   - |
-       'По предварительным расчетам, [музей]Theme обойдётся [владельцу]Experiencer в [20 млн]Quantity [долларов]Measure.'
+       По предварительным расчетам, [музей]Theme обойдётся [владельцу]Experiencer в [20 млн]Quantity [долларов]Measure.
   - |
-       'К примеру, [шесть снежинок ручной работы]Theme обойдутся [вам]Experiencer в [110]Quantity [рублей]Measure.'
+       К примеру, [шесть снежинок ручной работы]Theme обойдутся [вам]Experiencer в [110]Quantity [рублей]Measure.
   - |
-       'По некоторым данным, [автоматизированная скоринговая система и персонал]Theme обошлись [банку]Experiencer в [миллионы]Quantity [долларов]Measure.'
+       По некоторым данным, [автоматизированная скоринговая система и персонал]Theme обошлись [банку]Experiencer в [миллионы]Quantity [долларов]Measure.
   - |
-       '[Это новшество]Theme может обойтись [городу]Experincer в [несколько сотен тысяч]Quantity [долларов]Measure.'
+       [Это новшество]Theme может обойтись [городу]Experincer в [несколько сотен тысяч]Quantity [долларов]Measure.
   - |
-       'Врач говорит пациенту: ― [Операция]Theme обойдется [вам]Experiencer в [50 тысяч]Quantity.'
+       Врач говорит пациенту: ― [Операция]Theme обойдется [вам]Experiencer в [50 тысяч]Quantity.
 morphology:
   - NP
   - Nom

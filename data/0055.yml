@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen anvendes i forbindelse med at [et objekt]Theme med stor tyngde/vekt måles i standardiserte [målenheter]Quantity for tyngde/vekt, først og fremst i kilo, pud og tonn. Hvis tallordet er 'один', står [objektets]Theme [målenhet]Measure i akkusativ kasus.
 examples:
   - |
-       'Пусть мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure, но не больше.'
+       Пусть мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure, но не больше.
   - |
-       'Материалы собрали в [770 контейнеров]Theme общим весом в [десять]Quantity [тонн]Measure.'
+       Материалы собрали в [770 контейнеров]Theme общим весом в [десять]Quantity [тонн]Measure.
   - |
-       '[Один домашний торт]Theme весом в [два]Quantity [килограмма]Measure обходился нам не очень дорого.'
+       [Один домашний торт]Theme весом в [два]Quantity [килограмма]Measure обходился нам не очень дорого.
   - |
-       'В [ракете]Theme массой в [800]Quantity [кг]Measure боевая часть составляет 280 кг!'
+       В [ракете]Theme массой в [800]Quantity [кг]Measure боевая часть составляет 280 кг!
   - |
-       'В опытах использовали [74 морские свинки]Theme массой [200-250]Quantity [грамм]Measure.'
+       В опытах использовали [74 морские свинки]Theme массой [200-250]Quantity [грамм]Measure.
 morphology:
   - NP
   - NumCrd

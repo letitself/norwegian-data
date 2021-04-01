@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at antallet [objekter]Theme overstiger det nærmeste [store orienteringstallet]Landmark. Orienteringstallet er ofte et rundt tall (tallordene 'тридцать' og 'сорок' og substantivene 'десяток', 'сотня' og 'тысяча'). Objektene kan være konkrete (депутаты i eksempel 3 og товары i eksempel 4) eller abstrakte (градусы og годы i eksempel 1, 2 og 5). Det er som om orienteringstallet fremstår som et hinder som en viss kvantitativ størrelse har forsert, slik at den er havnet PÅ DEN ANDRE SIDEN AV det.
 examples:
   - |
-       'Мороз уже за [тридцать]Landmark [градусов]Theme.'
+       Мороз уже за [тридцать]Landmark [градусов]Theme.
   - |
-       'Ему за [сорок]Landmark.'
+       Ему за [сорок]Landmark.
   - |
-       'Совет депутатов пополнялся все новыми избранниками ― число [их]Theme перевалило за [тысячу]Landmark.'
+       Совет депутатов пополнялся все новыми избранниками ― число [их]Theme перевалило за [тысячу]Landmark.
   - |
-       'Такие гиганты, как «Hugendubel», имеет огромные торговые залы, что позволяет устраивать на каждом этаже просторные «островки для чтения», где на мягких диванах десятки посетителей могут часами просматривать новинки. Наличный ассортимент зашкаливает за [сотню тысяч]Landmark [наименований]Theme.'
+       Такие гиганты, как «Hugendubel», имеет огромные торговые залы, что позволяет устраивать на каждом этаже просторные «островки для чтения», где на мягких диванах десятки посетителей могут часами просматривать новинки. Наличный ассортимент зашкаливает за [сотню тысяч]Landmark [наименований]Theme.
   - |
-       'У меня первый компьютер появился, когда мне было уже за [шестьдесят]Landmark, но я быстро к нему привыкла, клавиатура ведь такая же, как у машинки.'
+       У меня первый компьютер появился, когда мне было уже за [шестьдесят]Landmark, но я быстро к нему привыкла, клавиатура ведь такая же, как у машинки.
 morphology:
   - NumCrd
   - Acc

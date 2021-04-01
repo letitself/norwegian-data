@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen benyttes når taleren anmoder om  midlertidig å stanse en [handling]Action som allerede er i gang eller er i ferd med å begynne. Det er som om taleren ber handlingens starttidspunkt om å vente. Etter talerens mening er handlingen forhastet eller bør slett ikke finne sted. Det foreligger [opplysninger]Situation som samtalepartneren må få og ta hensyn til når beslutningen skal tas om enten å  fortsette med handlingen eller å opptre på en annen måte. Anmodningen kan være rettet til samtalepartneren eller til en gruppe personer som ikke inkluderer taleren.
 examples:
   - |
-       'Обернувшись, я увидел, как он выглядывает из приоткрытой двери. ― Ты подожди [уходить]Action. [У меня к тебе дело]Situation.'
+       Обернувшись, я увидел, как он выглядывает из приоткрытой двери. ― Ты подожди [уходить]Action. [У меня к тебе дело]Situation.
   - |
-       '.— Саша, ну подожди [сердиться]Action. [Наверное, Гришка решил завести себе рыбок]Situation.'
+       .— Саша, ну подожди [сердиться]Action. [Наверное, Гришка решил завести себе рыбок]Situation.
   - |
-       '– Подождите [благодарить нас]Action, – сказала супруга Антона Андреевича, – [мы ведь ни до чего не договорились и ничего вам не обещали]Situation.'
+       – Подождите [благодарить нас]Action, – сказала супруга Антона Андреевича, – [мы ведь ни до чего не договорились и ничего вам не обещали]Situation.
   - |
-       '― Беру, пока не прибежал ваш портной и не забрал это сокровище! ― Подождите [покупать]Action, ― официальным тоном сказала Ирина. ― [Вы еще не знаете о скидке в десять долларов]Situation.'
+       ― Беру, пока не прибежал ваш портной и не забрал это сокровище! ― Подождите [покупать]Action, ― официальным тоном сказала Ирина. ― [Вы еще не знаете о скидке в десять долларов]Situation.
   - |
-       'В тишине было слышно, как кто-то пробует открыть калитку. ― Подождите [волноваться]Action. [Может, это просто воры?]Situation'
+       В тишине было слышно, как кто-то пробует открыть калитку. ― Подождите [волноваться]Action. [Может, это просто воры?]Situation
 morphology:
   - Imp
   - VP

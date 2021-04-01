@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker [en deltakers]Participant holdning til en gitt [situasjon]Situation eller til det å utføre [en gitt handling]Action. Deltakerens holdning kan være å støtte situasjonen eller handlingen, eller ikke. Holdningen er enten utpreget negativ ('против'), eller den kan være positiv, men på en ganske moderat eller passiv måte ('не против').
 examples:
   - |
-       '― Видите ли, Глебов, [мы]Participant не против того, чтобы [Ганчук был вашим руководителем в дипломной работе]Situation.'
+       ― Видите ли, Глебов, [мы]Participant не против того, чтобы [Ганчук был вашим руководителем в дипломной работе]Situation.
   - |
-       '[Отец]Participant совершенно не против того, чтобы [Лиля встречалась с Антоном]Situation, ради бога, но никаких семейных уз!'
+       [Отец]Participant совершенно не против того, чтобы [Лиля встречалась с Антоном]Situation, ради бога, но никаких семейных уз!
   - |
-       '[Анастасия Каменская]Participant всегда была против того, чтобы [лезть в чью-то личную жизнь, тем более с поучениями]Action.'
+       [Анастасия Каменская]Participant всегда была против того, чтобы [лезть в чью-то личную жизнь, тем более с поучениями]Action.
   - |
-       'Обидно, если закроют кафе. [Игорь]Participant совсем не был против того, чтобы [их закрыли]Situation.'
+       Обидно, если закроют кафе. [Игорь]Participant совсем не был против того, чтобы [их закрыли]Situation.
   - |
-       'Думаю, [никто]Participant не будет против того, чтобы [взглянуть на предстоящий Samsung Galaxy S10 Plus еще раз]Action.'
+       Думаю, [никто]Participant не будет против того, чтобы [взглянуть на предстоящий Samsung Galaxy S10 Plus еще раз]Action.
 morphology:
   - NP
   - Nom

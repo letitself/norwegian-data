@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en gitt handling]Action omfattes av et forbud som gjenspeiler en allmenn regel i et samfunn, et land eller en organisasjon (f.eks. på en skole eller i et fengsel), eller en regel på offentlig sted (f.eks. i en park), vedtatt på offisielt nivå. Handlingen kan komme til å inntreffe etter taleøyeblikket, hvilket innføringen av forbudet skal forhindre. [Deltakeren]Participant som ilegger forbudet, har høyere sosial status enn den forbudet gjelder (f.eks. som leder vs. underordnet, ansatt på en institusjon vs. besøkende). Regelen omfatter alle medlemmene av et samfunn eller bestemte grupper mennesker (f.eks. kvinner, barn, førsteårsstudenter på universitetet, innsatte i fengsler m.fl.). Ofte er ikke deltakeren nevnt (eksempel 2, 3 og 4). Når deltakeren nevnes, er det oftest snakk om en hel gruppe personer (eksempel 1), skjønt det også kan være en enkeltperson, herunder talerens samtalepartner (eksempel 5). Konstruksjonen kan brukes om spilleregler, idrettskonkurranser, regler for trafikk og bilkjøring (eksempel 3), bruksanvisninger for husholdningsapparater, regler for atferd på offentlig sted (eksempel 4), beskrivelser av innskrenket handlefrihet som straffeform (eksempel 5) m.m.
 examples:
   - |
-       '― А [что]Action ещё [присяжным]Participant запрещено? ― Запрещено [общаться с участниками процесса вне стен зала заседания]Action.'
+       ― А [что]Action ещё [присяжным]Participant запрещено? ― Запрещено [общаться с участниками процесса вне стен зала заседания]Action.
   - |
-       'Пошёл было в типографию грузчиком, но и оттуда выгнали, надо сказать, за глупость: [курить]Action у них было запрещено, а он всё закуривал по привычке.'
+       Пошёл было в типографию грузчиком, но и оттуда выгнали, надо сказать, за глупость: [курить]Action у них было запрещено, а он всё закуривал по привычке.
   - |
-       'Строго запрещено [садиться за руль в состоянии алкогольного или наркотического опьянения]Action.'
+       Строго запрещено [садиться за руль в состоянии алкогольного или наркотического опьянения]Action.
   - |
-       '― Здесь территория метрополитена и [распивать]Action запрещено по закону.'
+       ― Здесь территория метрополитена и [распивать]Action запрещено по закону.
   - |
-       '― [Вам]Participant запрещено [выходить и выезжать за пределы города Горького]Action.'
+       ― [Вам]Participant запрещено [выходить и выезжать за пределы города Горького]Action.
 morphology:
   - NP
   - Dat

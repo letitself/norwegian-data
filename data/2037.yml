@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at man som svar på regneoperasjonen å dele [et tall]Quantity (dividend) med [et annet]Quantity (divisor) får et helt tall med [rest]Quantity. Restens tallverdi kan være nevnt eller utelatt.
 examples:
   - |
-       '[Семнадцать]Quantity делится на [пять]Quantity с остатком [два]Quantity.'
+       [Семнадцать]Quantity делится на [пять]Quantity с остатком [два]Quantity.
   - |
-       'Число [36784]Quantity на [десять]Quantity делится с остатком, так как последняя цифра — 4, а не 0.'
+       Число [36784]Quantity на [десять]Quantity делится с остатком, так как последняя цифра — 4, а не 0.
   - |
-       'Число [100002]Quantity делится на [три]Quantity с остатком или без остатка?'
+       Число [100002]Quantity делится на [три]Quantity с остатком или без остатка?
   - |
-       'Затем берем число [восемь]Quantity, оно делится на [три]Quantity с остатком [два]Quantity.'
+       Затем берем число [восемь]Quantity, оно делится на [три]Quantity с остатком [два]Quantity.
   - |
-       'Если [Ваш год рождения]Quantity делится на [три]Quantity с остатком, обратитесь в Центр здоровья, где проведут необходимые обследования.'
+       Если [Ваш год рождения]Quantity делится на [три]Quantity с остатком, обратитесь в Центр здоровья, где проведут необходимые обследования.
 morphology:
   - NumCrd
   - Nom

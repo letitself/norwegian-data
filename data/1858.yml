@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å dividere [et tall]Quantity med [et annet)Quantity, og angir [svaret]Result (kvotienten). Sloten VP fylles av verbformene 'будет' og 'получится'. Ved bruk av ordet 'равно' kan svaret stå i nominativ eller dativ. Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus.
 examples:
   - |
-       'Итого ― три часа. А [три]Quantity разделить на [два]Quantity (путь туда и обратно) ― [полтора]Result. Не так уж далеко.'
+       Итого ― три часа. А [три]Quantity разделить на [два]Quantity (путь туда и обратно) ― [полтора]Result. Не так уж далеко.
   - |
-       'О, я считать умею!.. Так, [4 000]Quantity делим на [12]Quantity… Хм, получается очень странная цифра ― [333, 33333]Result…'
+       О, я считать умею!.. Так, [4 000]Quantity делим на [12]Quantity… Хм, получается очень странная цифра ― [333, 33333]Result…
   - |
-       '[Двести девяносто восемь]Quantity разделить на [сорок пять]Quantity ―  [Шесть целых, шестьдесят две сотых]Result.'
+       [Двести девяносто восемь]Quantity разделить на [сорок пять]Quantity ―  [Шесть целых, шестьдесят две сотых]Result.
   - |
-       '[Пятьсот]Quantity на [три]Quantity разделить ― тем более поровну ― даже Густав не сможет.'
+       [Пятьсот]Quantity на [три]Quantity разделить ― тем более поровну ― даже Густав не сможет.
   - |
-       'Если вы просто поделите [сто]Quantity на [двадцать четыре]Quantity, то получите примерно [четыре]Result.'
+       Если вы просто поделите [сто]Quantity на [двадцать четыре]Quantity, то получите примерно [четыре]Result.
 morphology:
   - NumCrd
   - Acc

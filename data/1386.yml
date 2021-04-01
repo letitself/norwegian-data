@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at det som følge av [en handling]Action sendes et objekt (dokumenter, pizza) eller en annen deltaker (lege) (eksempel 1 og 2 og illustrasjonen) til [deltakerens]Participant bolig. Dessuten kan konstruksjonen uttrykke at [en handling]Activity utføres utenfor det sedvanlige stedet (eksempel 3). Brukes ofte om skoleoppgaver som elevene gjør hjemme (eksempel 5).
 examples:
   - |
-       'Я не могу [послать]Action [ему]Participant на дом эти документы!'
+       Я не могу [послать]Action [ему]Participant на дом эти документы!
   - |
-       'В одни сутки все заказанное [будет доcтавлено]Action [вам]Participant на дом.'
+       В одни сутки все заказанное [будет доcтавлено]Action [вам]Participant на дом.
   - |
-       '[Схожу]Action к [профессору]Participant на дом, поговорю с ним.'
+       [Схожу]Action к [профессору]Participant на дом, поговорю с ним.
   - |
-       'В таких кругах и за такую цену было принято [работать с выездом]Action на дом.'
+       В таких кругах и за такую цену было принято [работать с выездом]Action на дом.
   - |
-       'В школе [задали]Action на дом составить рассказ о своей семье.'
+       В школе [задали]Action на дом составить рассказ о своей семье.
 morphology:
   - NP
   - VP

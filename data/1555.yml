@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen angir [prisen]Quantity på en bestemt [fast mengde]Quantifier av [en vare]Theme.
 examples:
   - |
-       'Особым успехом пользовались [пирожные]Theme по [три]Quantity [рубля]Measure [штука]Quantifier.'
+       Особым успехом пользовались [пирожные]Theme по [три]Quantity [рубля]Measure [штука]Quantifier.
   - |
-       'В палатке продавались [сигареты]Theme по [300]Quantity [рублей]Measure [пачка]Quantifier.'
+       В палатке продавались [сигареты]Theme по [300]Quantity [рублей]Measure [пачка]Quantifier.
   - |
-       'Филипп привез палку [колбасы]Theme, [триста]Quantity [рублей]Measure [килограмм]Quantifier.'
+       Филипп привез палку [колбасы]Theme, [триста]Quantity [рублей]Measure [килограмм]Quantifier.
   - |
-       'Зинка покупала в поселке [редиску]Theme по [двадцать]Quantity [копеек]Measure [пучок]Quantifier, а потом перепродавала по сорок.'
+       Зинка покупала в поселке [редиску]Theme по [двадцать]Quantity [копеек]Measure [пучок]Quantifier, а потом перепродавала по сорок.
   - |
-       'Евгений привык заказывать в ресторане [вино]Theme по [четыре тысячи]Quantity [рублей]Measure [бутылка]Quantifier.'
+       Евгений привык заказывать в ресторане [вино]Theme по [четыре тысячи]Quantity [рублей]Measure [бутылка]Quantifier.
 morphology:
   - NP
   - NumCrd

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation befinner seg i [kort avstand]Distance fra [et orienteringspunkt eller et orienteringsobjekt]Landmark. Den reelle avstanden er større, men konstruksjonen understreker at avstanden er svært liten (som om det var noen skritt) og at den kan tilbakelegges lett og raskt. Synonymer er ordene 'близко' og 'рядом'. Som oftest brukes tallordene 'двух', 'трёх', 'пяти' og 'нескольких'.
 examples:
   - |
-       '[В двух шагах]Distance от [киоска]Landmark была [рюмочная]Theme.'
+       [В двух шагах]Distance от [киоска]Landmark была [рюмочная]Theme.
   - |
-       'Зато [в двух шагах]Distance [отсюда]Landmark, на шоссе, [имеется ремонт автомобилей]Situation, каждый день мимо их вывески езжу.'
+       Зато [в двух шагах]Distance [отсюда]Landmark, на шоссе, [имеется ремонт автомобилей]Situation, каждый день мимо их вывески езжу.
   - |
-       '[В трех шагах]Distance от [меня]Landmark [Муська и её помощница замерли на месте]Situation.'
+       [В трех шагах]Distance от [меня]Landmark [Муська и её помощница замерли на месте]Situation.
   - |
-       'Как это понимать? [Дом]Theme рядом, [в двух шагах]Distance, [квартира]Theme тоже.'
+       Как это понимать? [Дом]Theme рядом, [в двух шагах]Distance, [квартира]Theme тоже.
   - |
-       'За окном грянули предупредительные гудки: электричка отъезжала от платформы. [Железная дорога]Theme была тут [в двух шагах]Distance.'
+       За окном грянули предупредительные гудки: электричка отъезжала от платформы. [Железная дорога]Theme была тут [в двух шагах]Distance.
 morphology:
   - Cl
   - NumCrd

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen formulerer regneoperasjonen å multiplisere [et tall]Quantity med [et annet]Quantity og angir [svaret]Result (produktet). Sloten Adv fylles med adverbene дважды, трижды, четырежды, samt med adverber som i skrift ser ut som instrumentalisformer av tallord, men har trykk på første stavelse (пятью, шестью, семью osv.).
 examples:
   - |
-       'Так и слышится мне: «[Семью]Quantifier [семь]Quantity ― [сорок девять]Result!'
+       Так и слышится мне: «[Семью]Quantifier [семь]Quantity ― [сорок девять]Result!
   - |
-       'Сколько же это получается в смену? Мося стал быстро умножать в уме: «[Пятью]Quantifier [восемь]Quantity ― [сорок]Result, нуль пишу, четыре замечаю…»'
+       Сколько же это получается в смену? Мося стал быстро умножать в уме: «[Пятью]Quantifier [восемь]Quantity ― [сорок]Result, нуль пишу, четыре замечаю…»
   - |
-       'Норма ― это "[дважды]Quantifier [два]Quantity ― [четыре]Result", а высшая истина состоит в том, что "[дважды]Quantifier [два]Quantity ― [пять]Result".'
+       Норма ― это "[дважды]Quantifier [два]Quantity ― [четыре]Result", а высшая истина состоит в том, что "[дважды]Quantifier [два]Quantity ― [пять]Result".
   - |
-       'Ему разрешили сесть. ― Сколько будет [дважды]Quantifier [два]Quantity? ― спросили дети. ― [Четыре]Result, ― сказал Лагарпов, радуясь их веселью. ― Неправильно, [пять]Result!'
+       Ему разрешили сесть. ― Сколько будет [дважды]Quantifier [два]Quantity? ― спросили дети. ― [Четыре]Result, ― сказал Лагарпов, радуясь их веселью. ― Неправильно, [пять]Result!
   - |
-       'Артист проверял, не спит ли он, и шептал: ― [Пятью]Quantifier [пять]Quantity ― [двадцать пять]Result… [Шестью]Quantifier [восемь]Quantity ― [сорок восемь]Result… [восемью]Quantifier [восемь]Quantity ― [шестьдесят четыре]Result…'
+       Артист проверял, не спит ли он, и шептал: ― [Пятью]Quantifier [пять]Quantity ― [двадцать пять]Result… [Шестью]Quantifier [восемь]Quantity ― [сорок восемь]Result… [восемью]Quantifier [восемь]Quantity ― [шестьдесят четыре]Result…
 morphology:
   - NumCrd
   - Adv
