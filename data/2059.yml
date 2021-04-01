@@ -28,7 +28,7 @@ dependency_structure:
   - '[root Cl'
   - '[dep [advmod как [fixed раз-[advmod таки]]] XP]]'
 dependency_structure_of_illustration:
-  - '[root – [nsubj Маша] отказалась [xcomp [iobj нам] помогать].]\n[root – [parataxis Нет]'
+  - '[root – [nsubj Маша] отказалась [xcomp [iobj нам] помогать].] [root – [parataxis Нет]'
   - '[nsubj она] [advmod как [fixed раз-[advmod таки]]] хотела [xcomp [iobj нам] помочь]'
   - '[obl [case в] отличие [nmod [case от] остальных]].]'
 references:

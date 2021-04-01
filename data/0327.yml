@@ -26,7 +26,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [det то] [advmod ли] дело [nsubj NP]]'
 dependency_structure_of_illustration:
-  - '[root Устала [xcomp работать]!]\n[root [det То] [advmod ли] дело [nsubj [amod беззаботное] лето].]'
+  - '[root Устала [xcomp работать]!] [root [det То] [advmod ли] дело [nsubj [amod беззаботное] лето].]'
 references:
   - |
     

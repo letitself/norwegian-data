@@ -89,7 +89,8 @@ def write_record(row, record):
         f.write("dependency_structure_of_illustration:\n")
         f.write(
             print_as_yaml_list(
-                row["Dependency Structure of Illustration"], add_quotes=True
+                row["Dependency Structure of Illustration"].replace("\\n", " "),
+                add_quotes=True,
             )
         )
 
@@ -100,7 +101,7 @@ def write_record(row, record):
 
         f.write("references:\n")
         f.write("  - |\n")
-        f.write('    ' + row["References"] + '\n')
+        f.write("    " + row["References"] + "\n")
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":

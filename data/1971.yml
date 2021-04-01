@@ -40,7 +40,7 @@ dependency_structure:
   - '[conj [cc и] привет]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod уже] давно] взял [obl [case у] меня] [obj [det эту] книгу]'
-  - '[conj [cc и] привет]!]\n[root Уехал [obl [case в] отпуск].]'
+  - '[conj [cc и] привет]!] [root Уехал [obl [case в] отпуск].]'
 references:
   - |
     

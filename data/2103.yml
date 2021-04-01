@@ -31,7 +31,7 @@ dependency_structure:
   - '[root [obj что] [obl [case с] PronPers-Ins] делать!]'
   - '[root [obj что] [obl [case с] PronPers-Ins] [aux будешь] делать!]'
 dependency_structure_of_illustration:
-  - '[root [advmod Опять] [nsubj ты] [det весь] грязный!]\n[root [obj Что] [obl [case с] тобой] делать!]'
+  - '[root [advmod Опять] [nsubj ты] [det весь] грязный!] [root [obj Что] [obl [case с] тобой] делать!]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.

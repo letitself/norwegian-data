@@ -29,7 +29,7 @@ dependency_structure:
   - '[root [parataxis ну] [nsubj я] [advmod не] Verb-Prs]'
   - '[root [cc да] [nsubj я] [advmod не] Verb-Prs]'
 dependency_structure_of_illustration:
-  - '[root [advmod Вот] собираюсь [xcomp начать [xcomp коллекционировать [obj марки]]]!]\n[root – [parataxis Ну]'
+  - '[root [advmod Вот] собираюсь [xcomp начать [xcomp коллекционировать [obj марки]]]!] [root – [parataxis Ну]'
   - '[nsubj я] [advmod не] знаю'
   - '[parataxis [parataxis по-моему]'
   - '[nsubj это] [advmod не] [amod самое] [amod увлекательное] хобби].]'

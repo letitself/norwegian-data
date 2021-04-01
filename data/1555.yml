@@ -46,7 +46,7 @@ dependency_structure:
   - '[dep NP [nmod [case по] [nummod NumCrd] NP [nmod NP-Nom]]]'
   - '[dep NP [nmod [nummod NumCrd] NP [nmod NP-Nom]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Сколько] стоит?]\n[root [nummod:gov Три] рубля [nmod штучка]'
+  - '[root [nsubj Сколько] стоит?] [root [nummod:gov Три] рубля [nmod штучка]'
   - '[conj [nummod:gov двадцать] рублей [nmod пучок]].]'
 references:
   - |

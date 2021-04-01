@@ -26,7 +26,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [dep [advcl смотря] PronInt] VP]'
 dependency_structure_of_illustration:
-  - '[root – [advmod Долго] [advmod ли] ехать [obl [case до] бассейна]?]\n[root – [advcl Смотря] [advmod где] [nsubj ты] живёшь.]'
+  - '[root – [advmod Долго] [advmod ли] ехать [obl [case до] бассейна]?] [root – [advcl Смотря] [advmod где] [nsubj ты] живёшь.]'
 references:
   - |
     

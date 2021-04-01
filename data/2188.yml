@@ -26,7 +26,7 @@ dependency_structure:
   - '[root [parataxis [advmod так] точно]'
   - 'XP]'
 dependency_structure_of_illustration:
-  - '[root – [nsubj Ты] женат?]\n[root – [parataxis [advmod Так] точно]'
+  - '[root – [nsubj Ты] женат?] [root – [parataxis [advmod Так] точно]'
   - 'женат.]'
 references:
   - |

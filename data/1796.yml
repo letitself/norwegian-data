@@ -25,7 +25,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[dep [advmod очень [advmod даже]] XP]'
 dependency_structure_of_illustration:
-  - '[root – [nsubj Вода] [advmod не] имеет [obj цвета].]\n[root – [advmod Очень] [advmod даже] имеет!]'
+  - '[root – [nsubj Вода] [advmod не] имеет [obj цвета].] [root – [advmod Очень] [advmod даже] имеет!]'
 references:
   - |
     

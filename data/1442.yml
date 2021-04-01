@@ -27,7 +27,7 @@ dependency_structure:
   - '[dep [discourse ну] XP [conj [cc и] XP]]'
   - '[dep XP [conj [cc и] XP]]'
 dependency_structure_of_illustration:
-  - '[root Был [obl [case у] тети [nmod Маши]] [nsubj кот].]\n[root [discourse Ну] кот [conj [cc и] кот].]\n[root Ничего [amod особенного].]'
+  - '[root Был [obl [case у] тети [nmod Маши]] [nsubj кот].] [root [discourse Ну] кот [conj [cc и] кот].] [root Ничего [amod особенного].]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.

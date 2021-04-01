@@ -28,7 +28,7 @@ dependency_structure:
   - '[root [advmod только] [advmod чур] XP!]'
   - '[root [advmod чур] XP!]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Кто] пойдет [obl [case в] магазин]?]\n[root [advmod Только] [advmod чур] [advmod не] я!]'
+  - '[root [nsubj Кто] пойдет [obl [case в] магазин]?] [root [advmod Только] [advmod чур] [advmod не] я!]'
 references:
   - |
     

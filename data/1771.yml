@@ -31,7 +31,7 @@ dependency_structure:
   - '[root [advmod ещё] [aux бы] [nsubj PronPers-Nom] [advmod не] Verb-Pst'
   - '[parataxis Cl]!]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [nsubj он] даст [obj лодку]?]\n[root – [advmod Ещё] [aux бы] [nsubj он] [advmod не] дал'
+  - '[root [cc А] [nsubj он] даст [obj лодку]?] [root – [advmod Ещё] [aux бы] [nsubj он] [advmod не] дал'
   - '[parataxis [nsubj я [advmod же]] [det его] любимчик]!]'
 references:
   - |

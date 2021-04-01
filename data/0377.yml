@@ -46,7 +46,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [obj что] [nsubj NP-Nom] устроить!]'
 dependency_structure_of_illustration:
-  - '[root [obj Что] [nsubj ты] устроил!]\n[root [advmod Почему] [advmod вокруг] грязь?]'
+  - '[root [obj Что] [nsubj ты] устроил!] [root [advmod Почему] [advmod вокруг] грязь?]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.

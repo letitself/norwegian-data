@@ -30,7 +30,7 @@ dependency_structure:
   - '[root [cc а] [advmod вот] [nsubj это] PronPers зря: [parataxis Cl]]'
   - '[root [cc а] [advmod вот] [nsubj это] PronPers зря]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] разволновалась.]\n[root – [cc А] [advmod вот] [nsubj это] зря.]\n[root [nsubj [amod Плохой] начальник] – [advmod не] повод [nmod [case для] волнений].]'
+  - '[root [nsubj Я] разволновалась.] [root – [cc А] [advmod вот] [nsubj это] зря.] [root [nsubj [amod Плохой] начальник] – [advmod не] повод [nmod [case для] волнений].]'
 references:
   - |
     

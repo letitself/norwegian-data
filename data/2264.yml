@@ -26,7 +26,7 @@ usage_label: ~
 dependency_structure:
   - '[root XP [advmod [advmod не] по-детски]]'
 dependency_structure_of_illustration:
-  - '[root [obl [case В] машине] трясло [advmod [advmod не] по-детски].]\n[root [nsubj Голос] [cop был] [advmod [advmod не] по-детски] серьёзным.]'
+  - '[root [obl [case В] машине] трясло [advmod [advmod не] по-детски].] [root [nsubj Голос] [cop был] [advmod [advmod не] по-детски] серьёзным.]'
 references:
   - |
     

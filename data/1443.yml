@@ -27,7 +27,7 @@ dependency_structure:
   - '[dep [discourse ну] XP [conj [cc и] XP]]'
   - '[dep XP [conj [cc и] XP]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Вчера] [nsubj я] потерял [obj кольцо].]\n[root [discourse Ну] потерял [conj [cc и] потерял]'
+  - '[root [advmod Вчера] [nsubj я] потерял [obj кольцо].] [root [discourse Ну] потерял [conj [cc и] потерял]'
   - '[conj [advmod не] надо [csubj думать [obl [case о] плохом]]].]'
 references:
   - |

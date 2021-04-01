@@ -35,7 +35,7 @@ dependency_structure:
   - '[root [nsubj дело] [advmod не] [case в] том, [acl [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] [advmod не] [case в] том'
-  - '[acl [mark что] [obj меня] [advmod не] любили].]\n[root [obj Меня] [advmod очень] любили!]'
+  - '[acl [mark что] [obj меня] [advmod не] любили].] [root [obj Меня] [advmod очень] любили!]'
 references:
   - |
     

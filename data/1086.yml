@@ -46,7 +46,7 @@ dependency_structure:
   - 'XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Смешное] [advmod потому] [advmod и] смешно'
-  - '[advcl [mark что] [nsubj оно] правдиво].]\n[root [parataxis [advmod Иначе] говоря]'
+  - '[advcl [mark что] [nsubj оно] правдиво].] [root [parataxis [advmod Иначе] говоря]'
   - '[nsubj [advmod не] [det всё] правдивое] смешно'
   - '[conj [cc но] [nsubj [det всё] смешное] правдиво].]'
 comment: |

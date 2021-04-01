@@ -29,7 +29,7 @@ dependency_structure:
   - '[root [advmod что] [advmod тут] VP-Inf?]'
   - '[root [advmod чего] [advmod тут] VP-Inf?]'
 dependency_structure_of_illustration:
-  - '[root [advmod Что] [advmod тут] думать?]\n[root Надо [csubj [advmod срочно] покупать [obj [det эту] сумку]]!]'
+  - '[root [advmod Что] [advmod тут] думать?] [root Надо [csubj [advmod срочно] покупать [obj [det эту] сумку]]!]'
 references:
   - |
     
