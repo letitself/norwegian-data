@@ -32,7 +32,7 @@ dependency_structure_of_illustration:
   - '[root [iobj Ей] выплатили [obj компенсацию [nmod [case в] размере [nmod [nummod [nummod тридцати] тысяч] рублей]]].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Measure
     subtypes:

@@ -31,7 +31,7 @@ dependency_structure_of_illustration:
   - '[root [obl [case На] [amod настоящий] момент] разработано [nsubj:pass [nummod:gov несколько] пособий [nmod [case по] [det этому] предмету]].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Timeline
     subtypes:

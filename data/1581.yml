@@ -31,7 +31,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Илья [flat:name Тимофеевич]] [obl [case за] [nummod:gov 44] года] дослужился [obl [case до] генерала].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Result
   - type: Salient property

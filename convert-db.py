@@ -100,7 +100,7 @@ def write_record(row, record):
 
         f.write("references:\n")
         f.write("  - |\n")
-        f.write('    "' + row["References"] + '"\n')
+        f.write('    ' + row["References"] + '\n')
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":

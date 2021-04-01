@@ -39,7 +39,7 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] кассе] продают [obj [case по] [nummod:gov два] билета [nmod [case в] [amod одни] руки]].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Actionality
     subtypes:

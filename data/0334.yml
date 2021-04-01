@@ -32,7 +32,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Миша] пошел [obl [case по] [amod скользкой] дороге].]\n[root [advmod Только] [aux бы] [advmod не] упал!]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Apprehension
     subtypes:

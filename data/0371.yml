@@ -32,7 +32,7 @@ dependency_structure_of_illustration:
   - '[root [advmod Что] [advmod тут] думать?]\n[root Надо [csubj [advmod срочно] покупать [obj [det эту] сумку]]!]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

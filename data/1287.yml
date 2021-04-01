@@ -45,7 +45,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Правительство] [obl [case под] давлением [nmod [amod прогрессивной] общественности]] учредило [obj нечто [nmod [case вроде] [amod государственной] опеки]].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Causation
     subtypes:

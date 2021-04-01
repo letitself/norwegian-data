@@ -30,7 +30,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Иван] [flat:name Иванович] [advmod едва [fixed не]] умер [obl [case после] [det такого] розыгрыша].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Result
     subtypes:

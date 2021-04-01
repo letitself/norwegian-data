@@ -37,7 +37,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Заявки [nmod [case на] конференцию]] принимаются [obl [case до] 25 [flat августа] [advmod включительно]].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Inclusive
   - type: Temporal expression

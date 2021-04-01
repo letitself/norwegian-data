@@ -32,7 +32,7 @@ dependency_structure_of_illustration:
   - '[root [advmod Как] [nsubj ты] [obj себя] чувствуешь?]\n[root –Плохо.]\n[root – [advmod Ещё [fixed бы]] – [advmod столько] [advmod не] спать!]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

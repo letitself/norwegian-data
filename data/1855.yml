@@ -34,7 +34,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Вася] ест [obl [nummod:gov три] раза [nmod [case в] день]].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Measure
   - type: Pluractionality

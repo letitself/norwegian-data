@@ -31,7 +31,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Этот учебник] включает [obl [case в] себя] [obj [det все] [acl необходимые [nmod [case для] экзамена]] темы].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Inclusive
   - type: Salient property

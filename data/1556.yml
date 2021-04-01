@@ -32,7 +32,7 @@ dependency_structure_of_illustration:
   - '[root [nsubj Расстояние [nmod [case от] Земли] [nmod [case до] Луны]] составляет [obj [nummod [nummod:gov 385] тысяч] километров].]'
 references:
   - |
-    ""
+    
 semantic_types:
   - type: Measure
     subtypes:
