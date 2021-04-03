@@ -34,8 +34,7 @@ dependency_structure:
   - '[root [advmod вот] погодить-Imp, [parataxis Cl]]'
   - '[root [advmod вот] погодить-Imp-[advmod ка], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Вот] увидишь'
-  - '[parataxis [nsubj я] выиграю].]'
+  - '[root [advmod Вот] увидишь, [parataxis [nsubj я] выиграю].]'
 references:
   - |
     

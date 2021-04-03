@@ -25,8 +25,7 @@ dependency_structure:
   - '[root Cl'
   - '[conj [advmod поэтому] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [case На] море [nsubj шторм]'
-  - '[conj [advmod поэтому] [nsubj:pass пляж] закрыт].]'
+  - '[root [case На] море [nsubj шторм], [conj [advmod поэтому] [nsubj:pass пляж] закрыт].]'
 references:
   - |
     

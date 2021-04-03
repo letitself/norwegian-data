@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [nsubj Господь] [case с] PronPers-2.Ins, [parataxis Cl]]'
   - '[root [nsubj Бог] [case с] PronPers-2.Ins, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Господь] [case с] вами'
-  - '[parataxis [nsubj ничего] [nsubj этого] [advmod не] было [conj [cc и] [advmod не] могло [xcomp быть]]]!]'
+  - '[root [nsubj Господь] [case с] вами, [parataxis [nsubj ничего] [nsubj этого] [advmod не] было [conj [cc и] [advmod не] могло [xcomp быть]]]!]'
 references:
   - |
     

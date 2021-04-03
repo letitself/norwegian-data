@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [parataxis [case по] преданию], Cl]'
   - '[root [parataxis [case по] легенде], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case По] легенде]'
-  - '[nsubj вода] [obl [case в] [det этом] озере] лечебная.]'
+  - '[root [parataxis [case По] легенде], [nsubj вода] [obl [case в] [det этом] озере] лечебная.]'
 references:
   - |
     

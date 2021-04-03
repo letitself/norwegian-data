@@ -27,8 +27,7 @@ usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case на] дворе]'
 dependency_structure_of_illustration:
-  - '[root [advmod Куда] [nsubj ты] собралась'
-  - '[parataxis [nsubj ночь] [case на] дворе]?!]'
+  - '[root [advmod Куда] [nsubj ты] собралась, [parataxis [nsubj ночь] [case на] дворе]?!]'
 references:
   - |
     

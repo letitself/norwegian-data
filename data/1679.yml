@@ -25,8 +25,7 @@ usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] выходе]]'
 dependency_structure_of_illustration:
-  - '[root Зависит [obl [case от] того'
-  - '[acl [obj [det какую] машину] [nsubj клиент] хочет [xcomp получить [obl [case на] выходе]]]].]'
+  - '[root Зависит [obl [case от] того, [acl [obj [det какую] машину] [nsubj клиент] хочет [xcomp получить [obl [case на] выходе]]]].]'
 references:
   - |
     

@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [det PronPoss] дело'
   - '[csubj XP]]'
 dependency_structure_of_illustration:
-  - '[root [det Твоё] дело'
-  - '[csubj прогуливать [obj занятия] [conj [cc или] нет]].]'
+  - '[root [det Твоё] дело, [csubj прогуливать [obj занятия] [conj [cc или] нет]].]'
 references:
   - |
     

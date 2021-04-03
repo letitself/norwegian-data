@@ -31,9 +31,7 @@ dependency_structure:
   - '[parataxis что] [advmod ли]'
   - 'VP?]'
 dependency_structure_of_illustration:
-  - '[root [advmod Даром] [nsubj мы]'
-  - '[parataxis что] [advmod ли]'
-  - '[obj это] писали?]'
+  - '[root [advmod Даром] [nsubj мы], [parataxis что] [advmod ли], [obj это] писали?]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974.

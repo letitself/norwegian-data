@@ -40,8 +40,7 @@ usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] заодно [obl [case с] NP-Ins]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] знал'
-  - '[ccomp [mark что] [nsubj ты] [obl [case с] ними] заодно]!]'
+  - '[root [nsubj Я] знал, [ccomp [mark что] [nsubj ты] [obl [case с] ними] заодно]!]'
 comment: |
     'Не путать с конструкцией 1873 VP, заодно VP (Сходи за хлебом, заодно мусор вынесешь).'
 references:

@@ -42,8 +42,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case у] NP-Gen] [obl [case под] носом]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Афиша] [obl [det всё] [det это] время] [cop была] [obl [case у] меня] [case под] носом'
-  - '[conj [cc а] [nsubj я] заметил [obj её] [advmod [advmod только] сейчас]].]'
+  - '[root [nsubj Афиша] [obl [det всё] [det это] время] [cop была] [obl [case у] меня] [case под] носом, [conj [cc а] [nsubj я] заметил [obj её] [advmod [advmod только] сейчас]].]'
 references:
   - |
     

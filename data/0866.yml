@@ -28,8 +28,7 @@ usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [cop Cop] [case вне] себя [nmod [case от] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Она] [cop была] [case вне] себя [nmod [case от] радости]'
-  - '[advcl услышав] [obj это].]'
+  - '[root [nsubj Она] [cop была] [case вне] себя [nmod [case от] радости], [advcl услышав] [obj это].]'
 references:
   - |
     

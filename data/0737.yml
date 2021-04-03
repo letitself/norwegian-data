@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [advmod будто] [nsubj NP-Nom] [advmod не] знать, [ccomp [mark что] Cl]!]'
   - '[root [advmod будто] [nsubj NP-Nom] [advmod не] заметить, [ccomp [mark что] Cl]!]'
 dependency_structure_of_illustration:
-  - '[root [advmod Будто] [nsubj я] [advmod не] вижу'
-  - '[ccomp [mark что] [nsubj ты] пришла]!]'
+  - '[root [advmod Будто] [nsubj я] [advmod не] вижу, [ccomp [mark что] [nsubj ты] пришла]!]'
 references:
   - |
     

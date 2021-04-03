@@ -27,8 +27,7 @@ dependency_structure:
   - '[dep XP [advmod так [advmod же], [advcl [mark как [fixed и]] XP]]]'
   - '[dep XP [advmod так [advmod же], [advcl [mark как] XP]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] ведёт [obj себя] [advmod так [advmod же]'
-  - '[advcl [mark как [fixed и]] раньше]].]'
+  - '[root [nsubj Он] ведёт [obj себя] [advmod так [advmod же], [advcl [mark как [fixed и]] раньше]].]'
 references:
   - |
     

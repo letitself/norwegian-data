@@ -28,9 +28,7 @@ dependency_structure:
   - '[root [parataxis [case в] сущности], Cl]'
   - '[root [parataxis [case в] сущности], XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Это]'
-  - '[parataxis [case в] сущности]'
-  - '[amod единственный] аргумент [nmod [case в] [det их] пользу].]'
+  - '[root [nsubj Это], [parataxis [case в] сущности], [amod единственный] аргумент [nmod [case в] [det их] пользу].]'
 references:
   - |
     

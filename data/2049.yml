@@ -28,9 +28,7 @@ dependency_structure:
   - '[conj XP [advmod ли]]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl Пойдёт [advmod ли] [nsubj дождь]'
-  - '[conj будет [advmod ли] [nsubj солнце]]]'
-  - '[nsubj он] [advmod всё [fixed равно]] останется [advmod дома].]'
+  - '[root [advcl Пойдёт [advmod ли] [nsubj дождь], [conj будет [advmod ли] [nsubj солнце]]], [nsubj он] [advmod всё [fixed равно]] останется [advmod дома].]'
 references:
   - |
     

@@ -36,8 +36,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [det какое] [iobj NP-Dat] дело [cop Cop] [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case В] конце [nmod концов]]'
-  - '[det какое] [iobj ей] дело [obl [case до] [det его] отношений [nmod [case с] Ритой]]!]'
+  - '[root [parataxis [case В] конце [nmod концов]], [det какое] [iobj ей] дело [obl [case до] [det его] отношений [nmod [case с] Ритой]]!]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.

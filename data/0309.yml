@@ -40,8 +40,7 @@ dependency_structure:
   - '[root смотреть-Imp, [parataxis [advmod не] VP-Imp]!]'
   - '[root смотреть-Imp, [parataxis VP-Imp]]'
 dependency_structure_of_illustration:
-  - '[root Смотрите'
-  - '[parataxis [advmod не] опоздайте]!]'
+  - '[root Смотрите, [parataxis [advmod не] опоздайте]!]'
 references:
   - |
     

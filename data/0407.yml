@@ -29,8 +29,7 @@ dependency_structure:
   - '[root Cl [obl [case до] [det той] поры, [acl [mark пока] Cl]]]'
   - '[root Cl [obl [case до] [det той] поры, [acl [mark когда] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [advmod не] уйдёт [obl [case до] [det той] поры'
-  - '[acl [mark пока] [obj всё] [advmod не] съест]].]'
+  - '[root [nsubj Он] [advmod не] уйдёт [obl [case до] [det той] поры, [acl [mark пока] [obj всё] [advmod не] съест]].]'
 references:
   - |
     

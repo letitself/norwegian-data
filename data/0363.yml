@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [dislocated что [obl [case до] NP-Gen]]'
   - '[mark то] Cl]'
 dependency_structure_of_illustration:
-  - '[root [dislocated Что [obl [case до] [amod нового] руководителя]]'
-  - '[mark то] [nsubj я] [advmod не] хочу [xcomp [obl [case о] нем] говорить].]'
+  - '[root [dislocated Что [obl [case до] [amod нового] руководителя]], [mark то] [nsubj я] [advmod не] хочу [xcomp [obl [case о] нем] говорить].]'
 references:
   - |
     

@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [det такой [advmod же]] XP'
   - '[obl [case как] [advmod и] NP]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Сын] [det такой [advmod же]] высокий'
-  - '[advmod [case как] и] [obl отец].]'
+  - '[root [nsubj Сын] [det такой [advmod же]] высокий, [advmod [case как] и] [obl отец].]'
 references:
   - |
     

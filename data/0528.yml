@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [nmod [case на] то] [advmod и] NP-Nom'
   - '[advcl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Муж] [nmod [case на] то] [advmod и] муж'
-  - '[advcl [mark чтобы] работать].]'
+  - '[root [nsubj Муж] [nmod [case на] то] [advmod и] муж, [advcl [mark чтобы] работать].]'
 references:
   - |
     

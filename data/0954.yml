@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [parataxis дай [nsubj бог]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root Дай [nsubj бог]'
-  - '[conj увидимся] [obl [case через] год].]'
+  - '[root Дай [nsubj бог], [conj увидимся] [obl [case через] год].]'
 references:
   - |
     

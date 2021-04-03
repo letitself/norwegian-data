@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [advmod что-то] незаметно'
   - '[csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Что-то] незаметно'
-  - '[ccomp [mark что] [nsubj ты] торопишься].]'
+  - '[root [advmod Что-то] незаметно, [ccomp [mark что] [nsubj ты] торопишься].]'
 references:
   - |
     

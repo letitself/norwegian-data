@@ -27,9 +27,7 @@ dependency_structure:
   - '[root [parataxis можно [csubj сказать]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] вырос'
-  - '[parataxis можно [csubj сказать]]'
-  - '[obl [case на] [det моих] глазах].]'
+  - '[root [nsubj Он] вырос, [parataxis можно [csubj сказать]], [obl [case на] [det моих] глазах].]'
 references:
   - |
     

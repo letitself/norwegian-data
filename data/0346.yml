@@ -27,8 +27,7 @@ dependency_structure:
   - '[root ходить [nsubj слух'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root Ходят [nsubj слухи'
-  - '[acl [mark что] [nsubj лето] [cop будет] жарким]].]'
+  - '[root Ходят [nsubj слухи, [acl [mark что] [nsubj лето] [cop будет] жарким]].]'
 references:
   - |
     

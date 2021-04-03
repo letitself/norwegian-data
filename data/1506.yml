@@ -29,9 +29,7 @@ dependency_structure:
   - '[obl [case по] мере [nmod того'
   - '[acl [mark как] Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Она] [advmod фактически] управляла [obj [det всеми] делами] [conj [cc и] [obl [case по] мере [nmod того'
-  - '[acl [mark как] [nsubj дед] [advmod [advmod всё] больше] старел]]]'
-  - 'забирала [obj власть] [obl [case в] [det свои] руки]].]'
+  - '[root [nsubj Она] [advmod фактически] управляла [obj [det всеми] делами] [conj [cc и] [obl [case по] мере [nmod того, [acl [mark как] [nsubj дед] [advmod [advmod всё] больше] старел]]], забирала [obj власть] [obl [case в] [det свои] руки]].]'
 references:
   - |
     

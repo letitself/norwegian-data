@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [parataxis именем [nmod NP-Gen]]'
   - 'Cl!]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Именем [nmod короля]]'
-  - 'откройте [obj двери]!]'
+  - '[root [parataxis Именем [nmod короля]], откройте [obj двери]!]'
 references:
   - |
     

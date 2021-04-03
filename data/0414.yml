@@ -30,8 +30,7 @@ dependency_structure:
   - '[root Cl, [obl [case с] тем] [acl [mark чтобы] VP-Inf]]'
   - '[root Cl, [obl [case с] тем] [acl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] встретимся'
-  - '[obl [case с] тем] [acl [mark чтобы] закончить [obj [det эту] работу]].]'
+  - '[root [nsubj Мы] встретимся, [obl [case с] тем] [acl [mark чтобы] закончить [obj [det эту] работу]].]'
 references:
   - |
     

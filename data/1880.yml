@@ -29,8 +29,7 @@ dependency_structure:
   - '[root хочу [xcomp добавить, [ccomp [mark что] Cl]]]'
   - '[root хотеть-Pst [aux бы] [xcomp добавить, [ccomp [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root Хочу [advmod также] [xcomp добавить'
-  - '[ccomp [mark что] [nsubj [advmod ни] [det один] пассажир] [advmod не] пострадал]].]'
+  - '[root Хочу [advmod также] [xcomp добавить, [ccomp [mark что] [nsubj [advmod ни] [det один] пассажир] [advmod не] пострадал]].]'
 references:
   - |
     

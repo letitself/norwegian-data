@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [advcl захоти [dep PronPers-Nom] [xcomp Verb-Inf]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl Захоти [nsubj он] [xcomp рискнуть]]'
-  - 'прыгнул [aux бы] [obl [case с] парашютом].]'
+  - '[root [advcl Захоти [nsubj он] [xcomp рискнуть]], прыгнул [aux бы] [obl [case с] парашютом].]'
 references:
   - |
     

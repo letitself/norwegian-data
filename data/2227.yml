@@ -27,8 +27,7 @@ dependency_structure:
   - '[root Cl'
   - '[advcl [mark так [fixed что]] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] опоздал'
-  - '[advcl [mark так [fixed что]] [nsubj праздник] начался [obl [case без] меня]].]'
+  - '[root [nsubj Я] опоздал, [advcl [mark так [fixed что]] [nsubj праздник] начался [obl [case без] меня]].]'
 references:
   - |
     

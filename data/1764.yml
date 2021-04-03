@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [nsubj я] [aux бы] [advmod не] сказал'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] [aux бы] [advmod не] сказал'
-  - '[ccomp [mark что] [iobj мне] понравился [nsubj [det этот] рассказ]].]'
+  - '[root [nsubj Я] [aux бы] [advmod не] сказал, [ccomp [mark что] [iobj мне] понравился [nsubj [det этот] рассказ]].]'
 references:
   - |
     

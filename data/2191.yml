@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [nsubj мы] [advmod ещё] посмотрим, [ccomp [dep PronInt] Cl]]'
   - '[root посмотрим, [ccomp [dep PronInt] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] [advmod ещё] посмотрим'
-  - '[ccomp [nsubj кто] [obl [case в] [amod следующий] раз] победит]!]'
+  - '[root [nsubj Мы] [advmod ещё] посмотрим, [ccomp [nsubj кто] [obl [case в] [amod следующий] раз] победит]!]'
 references:
   - |
     

@@ -26,8 +26,7 @@ usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case с] целью [nmod VP-Inf]]]'
 dependency_structure_of_illustration:
-  - '[root Необходимо [csubj произвести [obj [amod дополнительную] [amod семантическую] проверку] [obl [case с] целью [nmod установить'
-  - '[ccomp могло [advmod ли] [nsubj [det одно] значение] [xcomp развиться [obl [case из] другого]]]]]].]'
+  - '[root Необходимо [csubj произвести [obj [amod дополнительную] [amod семантическую] проверку] [obl [case с] целью [nmod установить, [ccomp могло [advmod ли] [nsubj [det одно] значение] [xcomp развиться [obl [case из] другого]]]]]].]'
 references:
   - |
     

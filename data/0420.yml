@@ -28,9 +28,7 @@ dependency_structure:
   - '[advcl [mark тем [fixed не] [fixed менее]'
   - 'Cl]]'
 dependency_structure_of_illustration:
-  - '[root [cop Было] сложно'
-  - '[conj [mark тем [fixed не] [fixed менее]]'
-  - '[nsubj мы] справились].]'
+  - '[root [cop Было] сложно, [conj [mark тем [fixed не] [fixed менее]], [nsubj мы] справились].]'
 references:
   - |
     

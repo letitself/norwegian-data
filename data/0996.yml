@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [parataxis [amod другими] словами]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [amod Другими] словами]'
-  - '[nsubj это] [cop была] [amod отличная] книга.]'
+  - '[root [parataxis [amod Другими] словами], [nsubj это] [cop была] [amod отличная] книга.]'
 references:
   - |
     

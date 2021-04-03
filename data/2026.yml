@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [cc или] VP'
   - '[conj [cc или] VP]]'
 dependency_structure_of_illustration:
-  - '[root [cc Или] [nsubj ты] [obj это] сделаешь'
-  - '[conj [cc или] [iobj тебе] [advmod не] поздоровится]!]'
+  - '[root [cc Или] [nsubj ты] [obj это] сделаешь, [conj [cc или] [iobj тебе] [advmod не] поздоровится]!]'
 references:
   - |
     

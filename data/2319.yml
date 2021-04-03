@@ -28,8 +28,7 @@ dependency_structure:
   - '[root сказать-Imp [obl [case на] милость]'
   - '[ccomp Cl]?]'
 dependency_structure_of_illustration:
-  - '[root Скажи [obl [case на] милость]'
-  - '[parataxis [ccomp почему] [nsubj я] должен [xcomp [iobj тебе] верить]]?]'
+  - '[root Скажи [obl [case на] милость], [parataxis [ccomp почему] [nsubj я] должен [xcomp [iobj тебе] верить]]?]'
 references:
   - |
     

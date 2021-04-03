@@ -32,8 +32,7 @@ dependency_structure:
   - '[root Что [advmod же] [expl это] [nsubj [case за] Noun] [det такой], [advcl [mark если] Cl]]'
   - '[root Что [advmod же] [expl это] [nsubj [case за] Noun] [det такой], [advcl [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Что [advmod же] [expl это] [nsubj [case за] друзья] [det такие]'
-  - '[advcl [mark если] [obl [advmod даже] [case с] днем [nmod рождения]] [advmod не] поздравили]!]'
+  - '[root Что [advmod же] [expl это] [nsubj [case за] друзья] [det такие], [advcl [mark если] [obl [advmod даже] [case с] днем [nmod рождения]] [advmod не] поздравили]!]'
 references:
   - |
     

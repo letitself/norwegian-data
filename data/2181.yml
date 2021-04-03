@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [iobj NP-Dat] лучше [cop Cop] [csubj знать'
   - '[ccomp [dep PronInt] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [iobj Маше] лучше [csubj знать'
-  - '[ccomp [advmod почему] [nsubj её] [advmod сегодня] [advmod не] было [obl [case в] школе]]].]'
+  - '[root [iobj Маше] лучше [csubj знать, [ccomp [advmod почему] [nsubj её] [advmod сегодня] [advmod не] было [obl [case в] школе]]].]'
 references:
   - |
     

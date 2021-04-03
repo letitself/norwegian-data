@@ -29,8 +29,7 @@ dependency_structure:
   - '[root VP-Imp [conj [advmod не] VP-Imp]'
   - '[conj [cc а] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Плачь - [conj [advmod не] плачь]'
-  - '[conj [cc а] [obj прошлого] [advmod не] вернуть].]'
+  - '[root Плачь - [conj [advmod не] плачь], [conj [cc а] [obj прошлого] [advmod не] вернуть].]'
 references:
   - |
     

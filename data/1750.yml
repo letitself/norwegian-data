@@ -25,8 +25,7 @@ usage_label: ~
 dependency_structure:
   - '[root XP [obl [case по] полочкам]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Учитель] разложил [obj [amod новую] тему] [obl [case по] полочкам]'
-  - '[conj [cc и] стало] [nsubj всё] [xcomp понятно].]'
+  - '[root [nsubj Учитель] разложил [obj [amod новую] тему] [obl [case по] полочкам], [conj [cc и] стало] [nsubj всё] [xcomp понятно].]'
 references:
   - |
     

@@ -42,8 +42,7 @@ dependency_structure:
   - '[root [cc а] [cop Cop] смысл [csubj VP-Inf], [advcl [mark если] Cl]?]'
   - '[root [cc а] [cop Cop] смысл [csubj VP-Inf]?]'
 dependency_structure_of_illustration:
-  - '[root Какой [nsubj смысл] [csubj менять [obj то'
-  - '[acl [nsubj что] было [advmod всегда]]]]?]'
+  - '[root Какой [nsubj смысл] [csubj менять [obj то, [acl [nsubj что] было [advmod всегда]]]]?]'
 references:
   - |
     

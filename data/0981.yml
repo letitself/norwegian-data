@@ -25,8 +25,7 @@ usage_label: Obsolete
 dependency_structure:
   - '[root [obl [case до] поры] VP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [obl [case до] поры] сидел [advmod тихо]'
-  - '[conj [cc а] [advmod потом] заговорил].]'
+  - '[root [nsubj Он] [obl [case до] поры] сидел [advmod тихо], [conj [cc а] [advmod потом] заговорил].]'
 references:
   - |
     

@@ -44,8 +44,7 @@ dependency_structure:
   - '[root Cl [obl [case с] [det тех] пор'
   - '[acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [iobj мне] [advmod не] звонил [obl [case с] [det тех] пор'
-  - '[acl [mark как] переехал [obl [case в] Москву]]].]'
+  - '[root [nsubj Он] [iobj мне] [advmod не] звонил [obl [case с] [det тех] пор, [acl [mark как] переехал [obl [case в] Москву]]].]'
 references:
   - |
     

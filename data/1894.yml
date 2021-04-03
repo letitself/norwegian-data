@@ -27,9 +27,7 @@ dependency_structure:
   - '[root XP [conj [cc и] [advmod так] далее]]'
   - '[root XP [conj [cc и] [advmod т.] д.]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Кто-то] займётся [obj спортом]'
-  - '[conj [nsubj кто-то] [aux будет] слушать [obj музыку]]'
-  - '[conj [nsubj кто-то] танцевать] [conj [cc и] [advmod так] далее].]'
+  - '[root [nsubj Кто-то] займётся [obj спортом], [conj [nsubj кто-то] [aux будет] слушать [obj музыку]], [conj [nsubj кто-то] танцевать] [conj [cc и] [advmod так] далее].]'
 references:
   - |
     

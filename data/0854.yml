@@ -26,9 +26,7 @@ dependency_structure:
   - '[root [parataxis верно]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Верно]'
-  - '[nsubj что-то [det такое]] случилось [obl [case в] Москве]'
-  - '[acl:relcl [obj чего] [nsubj никто] [advmod ещё] [advmod не] знает].]'
+  - '[root [parataxis Верно], [nsubj что-то [det такое]] случилось [obl [case в] Москве], [acl:relcl [obj чего] [nsubj никто] [advmod ещё] [advmod не] знает].]'
 references:
   - |
     

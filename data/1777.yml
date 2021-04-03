@@ -25,8 +25,7 @@ usage_label: ~
 dependency_structure:
   - '[root [obj [advmod ни] слова] [advmod не] VP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Виталий] уехал'
-  - '[advcl [advmod не] сказав [iobj жене] [obj [advmod ни] слова]].]'
+  - '[root [nsubj Виталий] уехал, [advcl [advmod не] сказав [iobj жене] [obj [advmod ни] слова]].]'
 references:
   - |
     

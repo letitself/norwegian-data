@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [parataxis [cc да] [advmod и] вообще], Cl]'
   - '[root [parataxis [advmod и] вообще], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [cc Да] [advmod и] вообще]'
-  - '[nsubj:pass я] [advmod слишком] занят.]'
+  - '[root [parataxis [cc Да] [advmod и] вообще], [nsubj:pass я] [advmod слишком] занят.]'
 references:
   - |
     

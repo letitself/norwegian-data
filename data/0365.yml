@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [dislocated [nsubj что] касается [obj NP-Gen]]'
   - '[mark то] Cl]'
 dependency_structure_of_illustration:
-  - '[root [dislocated [nsubj Что] касается [obj спорта]]'
-  - '[mark то] [nsubj я] [advmod никогда] [advmod не] любил [xcomp бегать].]'
+  - '[root [dislocated [nsubj Что] касается [obj спорта]], [mark то] [nsubj я] [advmod никогда] [advmod не] любил [xcomp бегать].]'
 references:
   - |
     

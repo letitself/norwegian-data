@@ -31,8 +31,7 @@ dependency_structure:
   - '[root ясен [nsubj перец], [ccomp [mark что] Cl]]'
   - '[root ясен [nsubj пень], [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Ясен [nsubj перец]'
-  - '[parataxis [nsubj ничего [nmod хорошего]] [obj нас] [advmod не] ждёт].]'
+  - '[root Ясен [nsubj перец], [parataxis [nsubj ничего [nmod хорошего]] [obj нас] [advmod не] ждёт].]'
 references:
   - |
     

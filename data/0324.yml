@@ -29,9 +29,7 @@ dependency_structure:
   - '[obl [case как] NP-Nom]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [iobj [det Такому] человеку'
-  - '[acl [case как] он]]'
-  - '[advmod не] стыдно [csubj признаться [obl [case в] [det своей] неправоте]].]'
+  - '[root [iobj [det Такому] человеку, [acl [case как] он]], [advmod не] стыдно [csubj признаться [obl [case в] [det своей] неправоте]].]'
 references:
   - |
     

@@ -33,9 +33,7 @@ dependency_structure:
   - '[root [advcl [advmod не] говоря [obl [case о] том, [acl [mark что] Cl]]]]'
   - '[root [advcl [advmod не] говоря [obl [case о] том, [acl [mark чтобы] Cl]]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj [advmod Мало] кто] слышал [obl [case об] [det этом] виде [nmod спорта]]'
-  - '[advcl [advmod не] говоря [advmod уж] [obl [case о] том'
-  - '[acl [mark чтобы] [obl [case в] него] играть]]].]'
+  - '[root [nsubj [advmod Мало] кто] слышал [obl [case об] [det этом] виде [nmod спорта]], [advcl [advmod не] говоря [advmod уж] [obl [case о] том, [acl [mark чтобы] [obl [case в] него] играть]]].]'
 references:
   - |
     

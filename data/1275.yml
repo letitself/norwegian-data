@@ -42,8 +42,7 @@ usage_label: ~
 dependency_structure:
   - '[root подождать-Imp [xcomp VP-Ipfv.Inf]]'
 dependency_structure_of_illustration:
-  - '[root Подождите [xcomp закрывать [obj магазин]]'
-  - '[conj [nsubj [det [advmod ещё] [advmod не] все] покупатели] вышли].]'
+  - '[root Подождите [xcomp закрывать [obj магазин]], [conj [nsubj [det [advmod ещё] [advmod не] все] покупатели] вышли].]'
 comment: |
     'Частотными заполнителями слота являются глаголы, обозначающие эмоциональные состояния (как положительные, так и отрицательные); глаголы «расставания»; глаголы, обозначающие благодарность.'
 references:

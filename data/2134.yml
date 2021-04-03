@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [parataxis [case по] видимости], Cl]'
   - '[root [parataxis по-видимому], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case По] [det всей] видимости]'
-  - '[obj [det своего] шанса] [nsubj он] [advmod не] упустит.]'
+  - '[root [parataxis [case По] [det всей] видимости], [obj [det своего] шанса] [nsubj он] [advmod не] упустит.]'
 references:
   - |
     

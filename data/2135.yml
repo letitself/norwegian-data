@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [nsubj спору] нет, [parataxis Cl]]'
   - '[root [nsubj спора] нет, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Спора] нет'
-  - '[parataxis [nsubj команда] получилась [xcomp [advmod очень] хорошая]].]'
+  - '[root [nsubj Спора] нет, [parataxis [nsubj команда] получилась [xcomp [advmod очень] хорошая]].]'
 references:
   - |
     

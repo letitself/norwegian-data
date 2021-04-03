@@ -35,8 +35,7 @@ dependency_structure:
   - '[root [mark как [fixed только]] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark так [fixed и]] Cl]]'
   - '[root [mark только] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark как] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [mark Только] [obl [case на] минуточку] присела'
-  - '[advcl [mark как] [advmod сразу] уснула].]'
+  - '[root [mark Только] [obl [case на] минуточку] присела, [advcl [mark как] [advmod сразу] уснула].]'
 references:
   - |
     

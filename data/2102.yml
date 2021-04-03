@@ -28,10 +28,7 @@ dependency_structure:
   - Cl
   - '[conj [cc но] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] человек'
-  - '[parataxis правда]'
-  - '[amod [advmod не] деловой'
-  - '[conj [cc но] честный]].]'
+  - '[root [nsubj Он] человек, [parataxis правда], [amod [advmod не] деловой, [conj [cc но] честный]].]'
 references:
   - |
     

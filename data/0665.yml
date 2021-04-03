@@ -31,8 +31,7 @@ dependency_structure:
   - '[root Verb-Prs.2.Sg [conj [advmod не] Verb-Prs.2.Sg]'
   - '[conj [cc а] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Хочешь [conj [advmod не] хочешь]'
-  - '[conj [cc а] встанем [obl [advmod рано] утром]].]'
+  - '[root Хочешь [conj [advmod не] хочешь], [conj [cc а] встанем [obl [advmod рано] утром]].]'
 references:
   - |
     

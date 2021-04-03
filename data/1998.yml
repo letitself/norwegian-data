@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [obl [case в] понимании [nmod NP-Gen]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [obl [case В] понимании [nmod участников [nmod команды]]]'
-  - '[obl [case для] победы] [cop была] необходима [nsubj [amod совместная] работа].]'
+  - '[root [obl [case В] понимании [nmod участников [nmod команды]]], [obl [case для] победы] [cop была] необходима [nsubj [amod совместная] работа].]'
 references:
   - |
     

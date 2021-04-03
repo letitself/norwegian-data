@@ -33,8 +33,7 @@ dependency_structure:
   - '[root [iobj NP-Dat] [nsubj ничего [det другого]] [advmod не] остаётся [xcomp делать], [advcl [mark кроме [fixed как]] VP-Inf]]'
   - '[root [iobj NP-Dat] [nsubj ничего] [advmod не] остаётся, [advcl [mark как] VP-Inf]]'
 dependency_structure_of_illustration:
-  - '[root [iobj Ему] [nsubj ничего] [advmod не] остаётся'
-  - '[advcl [mark как] уехать [obl [case из] страны]].]'
+  - '[root [iobj Ему] [nsubj ничего] [advmod не] остаётся, [advcl [mark как] уехать [obl [case из] страны]].]'
 references:
   - |
     

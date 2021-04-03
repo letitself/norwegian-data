@@ -32,8 +32,7 @@ dependency_structure:
   - '[root Cl, [advcl [mark если] [iobj PronPers-2.Dat] [cop Cop] [advmod не] Pred]]'
   - '[root Cl, [advcl [mark если] [cop Cop] [advmod не] Pred]]'
 dependency_structure_of_illustration:
-  - '[root Прочитай [obj [det мой] рассказ]'
-  - '[advcl [mark если] [iobj тебе] [advmod не] трудно].]'
+  - '[root Прочитай [obj [det мой] рассказ], [advcl [mark если] [iobj тебе] [advmod не] трудно].]'
 references:
   - |
     

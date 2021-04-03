@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [parataxis [det таким] образом]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [det Таким] образом]'
-  - '[nsubj [det наша] команда] [obl [case за] год] добилась [obj [amod важных] результатов].]'
+  - '[root [parataxis [det Таким] образом], [nsubj [det наша] команда] [obl [case за] год] добилась [obj [amod важных] результатов].]'
 references:
   - |
     

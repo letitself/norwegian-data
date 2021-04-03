@@ -29,8 +29,7 @@ dependency_structure:
   - '[root VP [advmod отныне [conj [cc и] [case во] веки [nmod веков]]]]'
   - '[root VP [obl [case во] веки [nmod веков]]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Пусть] [advmod там] [advmod отныне [conj [cc и] [case во] веки [nmod веков]]] [nsubj все] происходит [advmod так'
-  - '[advcl [mark как] [mark если] [aux бы] [nsubj нас] [advmod не] было]].]'
+  - '[root [advmod Пусть] [advmod там] [advmod отныне [conj [cc и] [case во] веки [nmod веков]]] [nsubj все] происходит [advmod так, [advcl [mark как] [mark если] [aux бы] [nsubj нас] [advmod не] было]].]'
 references:
   - |
     

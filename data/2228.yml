@@ -39,8 +39,7 @@ dependency_structure:
   - '[root Cl'
   - '[advcl [mark тем [fixed более] [fixed что]] CL]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Уже] поздно [csubj [obj что-то] менять]'
-  - '[advcl [mark тем [fixed более] [fixed что]] [nsubj результат] вышел [xcomp неплохой]].]'
+  - '[root [advmod Уже] поздно [csubj [obj что-то] менять], [advcl [mark тем [fixed более] [fixed что]] [nsubj результат] вышел [xcomp неплохой]].]'
 references:
   - |
     

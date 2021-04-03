@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [advcl [mark как] [aux бы] [nsubj то] [advmod ни] было]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Как] [aux бы] [nsubj то] [advmod ни] было]'
-  - '[obl [case перед] выпускниками] [advmod не] стоит [nsubj задача [nmod [obl самим] зарабатывать [obl [case на] [det своё] образование]]].]'
+  - '[root [advcl [mark Как] [aux бы] [nsubj то] [advmod ни] было], [obl [case перед] выпускниками] [advmod не] стоит [nsubj задача [nmod [obl самим] зарабатывать [obl [case на] [det своё] образование]]].]'
 references:
   - |
     

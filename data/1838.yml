@@ -45,9 +45,7 @@ dependency_structure:
   - '[dep XP'
   - '[appos [obl [case в] смысле] XP]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] пригласила [obj [advmod только] [amod самых] [amod близких] подруг'
-  - '[appos [obl [case в] смысле] тебя'
-  - '[conj Машу] [conj [cc и] Катю]]].]'
+  - '[root [nsubj Я] пригласила [obj [advmod только] [amod самых] [amod близких] подруг, [appos [obl [case в] смысле] тебя, [conj Машу] [conj [cc и] Катю]]].]'
 references:
   - |
     

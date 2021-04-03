@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [advcl [advmod хоть] XP]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl Будь] [obl [case у] меня] [nsubj [advmod хоть] [nummod:gov миллион] дел]'
-  - '[nsubj я] [aux бы] [advmod всё [fixed равно]] нашёл [obj время] [xcomp позвонить [iobj тебе]].]'
+  - '[root [advcl Будь] [obl [case у] меня] [nsubj [advmod хоть] [nummod:gov миллион] дел], [nsubj я] [aux бы] [advmod всё [fixed равно]] нашёл [obj время] [xcomp позвонить [iobj тебе]].]'
 references:
   - |
     

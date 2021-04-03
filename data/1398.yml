@@ -27,8 +27,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] шоколаде]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Они] [obl сами] [cop будут] [case в] шоколаде'
-  - '[conj [nsubj [det одна] я [nmod [case со] [det своей] [amod доброй] душой]] [case в] дурах].]'
+  - '[root [nsubj Они] [obl сами] [cop будут] [case в] шоколаде, [conj [nsubj [det одна] я [nmod [case со] [det своей] [amod доброй] душой]] [case в] дурах].]'
 references:
   - |
     

@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [parataxis [advmod как] знать]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [advmod Как] знать]'
-  - '[parataxis может] [advmod ещё] встретимся.]'
+  - '[root [parataxis [advmod Как] знать], [parataxis может] [advmod ещё] встретимся.]'
 references:
   - |
     

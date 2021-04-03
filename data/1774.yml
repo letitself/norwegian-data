@@ -24,8 +24,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root VP [obj навскидку]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] [advmod не] готов [xcomp сказать [obj навскидку]]'
-  - '[parataxis надо [csubj уточнить]].]'
+  - '[root [nsubj Я] [advmod не] готов [xcomp сказать [obj навскидку]], [parataxis надо [csubj уточнить]].]'
 references:
   - |
     

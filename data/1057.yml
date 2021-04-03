@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [cc и] надо [advmod же] [cop Cop]'
   - '[csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [cc И] надо [advmod же]'
-  - '[csubj [mark чтобы] [nsubj он] [obl [advmod именно] [case в] [det тот] день] опоздал]!]'
+  - '[root [cc И] надо [advmod же], [csubj [mark чтобы] [nsubj он] [obl [advmod именно] [case в] [det тот] день] опоздал]!]'
 references:
   - |
     

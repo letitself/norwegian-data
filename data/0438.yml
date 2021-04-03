@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [advmod и] [obl [case без] того] XP]'
   - '[root [obl [case без] того] XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Капитан] [advmod и] [obl [case без] того] знал'
-  - '[ccomp [obj что] нужно [csubj делать]].]'
+  - '[root [nsubj Капитан] [advmod и] [obl [case без] того] знал, [ccomp [obj что] нужно [csubj делать]].]'
 references:
   - |
     

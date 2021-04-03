@@ -35,8 +35,7 @@ dependency_structure:
   - '[root Cl [advmod [advmod точно] так [advmod же], [advcl [mark как] Cl]]]'
   - '[root XP [advmod [advmod точно] так [advmod же], [advcl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мама] готовит [obj пирог] [advmod [advmod точно] так [advmod же]'
-  - '[obl [case как] [advmod и] бабушка]].]'
+  - '[root [nsubj Мама] готовит [obj пирог] [advmod [advmod точно] так [advmod же], [obl [case как] [advmod и] бабушка]].]'
 references:
   - |
     

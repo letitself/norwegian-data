@@ -28,8 +28,7 @@ dependency_structure:
   - '[root Cl'
   - '[parataxis [advmod не] так [advmod ли]]?]'
 dependency_structure_of_illustration:
-  - '[root [amod Уютная] квартира'
-  - '[parataxis [advmod не] так [advmod ли]]?]'
+  - '[root [amod Уютная] квартира, [parataxis [advmod не] так [advmod ли]]?]'
 references:
   - |
     

@@ -27,8 +27,7 @@ dependency_structure:
   - '[root Cl'
   - '[parataxis [amod честное] слово]!]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] [advmod не] хотела [xcomp [obj вас] обидеть]'
-  - '[parataxis [amod честное] слово]!]'
+  - '[root [nsubj Я] [advmod не] хотела [xcomp [obj вас] обидеть], [parataxis [amod честное] слово]!]'
 references:
   - |
     

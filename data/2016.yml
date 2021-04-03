@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [advmod не] факт'
   - '[csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Не] факт'
-  - '[csubj [mark что] [nsubj это] [amod удачный] эксперимент].]'
+  - '[root [advmod Не] факт, [csubj [mark что] [nsubj это] [amod удачный] эксперимент].]'
 references:
   - |
     

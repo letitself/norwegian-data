@@ -29,8 +29,7 @@ dependency_structure:
   - '[root VP [obl [advmod не] [case по] дням'
   - '[conj [cc а] [case по] часам]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Котёнок] растёт [obl [advmod не] [case по] дням'
-  - '[conj [cc а] [case по] часам]].]'
+  - '[root [nsubj Котёнок] растёт [obl [advmod не] [case по] дням, [conj [cc а] [case по] часам]].]'
 references:
   - |
     

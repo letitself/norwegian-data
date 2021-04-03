@@ -26,8 +26,7 @@ usage_label: ~
 dependency_structure:
   - '[root Cl [nmod [case исключая] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '[root Пришли [nsubj все'
-  - '[nmod [case исключая] Петю]].]'
+  - '[root Пришли [nsubj все, [nmod [case исключая] Петю]].]'
 references:
   - |
     

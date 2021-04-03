@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [parataxis [case согласно] NP-Dat]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case Согласно] завещанию]'
-  - '[iobj ей] переходит [nsubj дом].]'
+  - '[root [parataxis [case Согласно] завещанию], [iobj ей] переходит [nsubj дом].]'
 references:
   - |
     

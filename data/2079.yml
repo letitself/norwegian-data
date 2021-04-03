@@ -26,8 +26,7 @@ dependency_structure:
   - '[root разрешите [xcomp представиться], [parataxis NP-Nom]]'
   - '[root позвольте [xcomp представиться], [parataxis NP-Nom]]'
 dependency_structure_of_illustration:
-  - '[root Позвольте [xcomp представиться]'
-  - '[parataxis Александр [flat:name Георгиевич]].]'
+  - '[root Позвольте [xcomp представиться], [parataxis Александр [flat:name Георгиевич]].]'
 references:
   - |
     

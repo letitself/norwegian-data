@@ -40,8 +40,7 @@ dependency_structure:
   - '[root [mark как [fixed бы]] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]'
   - '[root [mark как [fixed бы]] [advmod не] VP-Pfv.Inf]'
 dependency_structure_of_illustration:
-  - '[root Боюсь'
-  - '[advcl [mark как [fixed бы]] [advmod не] упасть]!]'
+  - '[root Боюсь, [advcl [mark как [fixed бы]] [advmod не] упасть]!]'
 references:
   - |
     

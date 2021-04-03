@@ -30,8 +30,7 @@ dependency_structure:
   - '[root извинить-Imp, [ccomp [mark что] Cl]]'
   - '[root простить-Imp, [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Извините [obj меня]'
-  - '[ccomp [mark что] [nsubj я] опоздала].]'
+  - '[root Извините [obj меня], [ccomp [mark что] [nsubj я] опоздала].]'
 references:
   - |
     

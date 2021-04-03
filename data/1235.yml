@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [obl [advmod не] [case в] пример [iobj NP-Dat]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [obl [advmod Не] [case в] пример [iobj Наташе]]'
-  - '[nsubj Катя] [cop была] [advmod гораздо] умнее.]'
+  - '[root [obl [advmod Не] [case в] пример [iobj Наташе]], [nsubj Катя] [cop была] [advmod гораздо] умнее.]'
 references:
   - |
     

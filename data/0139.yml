@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [obl [det каждый] раз] VP]'
   - '[root [obl [det всякий] раз] VP]'
 dependency_structure_of_illustration:
-  - '[root [obl [det Каждый] раз] улыбаюсь'
-  - '[advcl [mark когда] вижу [obj её]].]'
+  - '[root [obl [det Каждый] раз] улыбаюсь, [advcl [mark когда] вижу [obj её]].]'
 references:
   - |
     

@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [obl [case перед] тем [acl [mark как] Cl]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [obl [case Перед] тем [acl [mark как] сесть [obl [case за] стол]]]'
-  - 'помой [obj руки].]'
+  - '[root [obl [case Перед] тем [acl [mark как] сесть [obl [case за] стол]]], помой [obj руки].]'
 references:
   - |
     

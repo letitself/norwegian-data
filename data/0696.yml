@@ -29,8 +29,7 @@ dependency_structure:
   - '[root Cl'
   - '[conj [cc а] [advmod PronPers-[advmod то]] думал]!]'
 dependency_structure_of_illustration:
-  - '[root [amod [det Такой] простой] ответ'
-  - '[conj [cc а] [advmod я-[advmod то]] думал]!]'
+  - '[root [amod [det Такой] простой] ответ, [conj [cc а] [advmod я-[advmod то]] думал]!]'
 references:
   - |
     

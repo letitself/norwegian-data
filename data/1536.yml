@@ -29,10 +29,7 @@ dependency_structure:
   - '[root [advmod ещё] годах [case в] [amod NumOrd-Loc]]'
   - '[root [advmod ещё] году [case в] [amod NumOrd-Loc]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Это] [cop было] [advmod ещё] годах [case в] [amod шестидесятых]'
-  - '[conj [cc а] [advmod вот] [advmod недавно'
-  - '[conj году [case в] [nmod 2008]]]'
-  - 'случилось [nsubj нечто [amod [advmod ещё] [advmod более] неожиданное]]].]'
+  - '[root [nsubj Это] [cop было] [advmod ещё] годах [case в] [amod шестидесятых], [conj [cc а] [advmod вот] [advmod недавно, [conj году [case в] [nmod 2008]]], случилось [nsubj нечто [amod [advmod ещё] [advmod более] неожиданное]]].]'
 references:
   - |
     

@@ -32,10 +32,7 @@ dependency_structure:
   - '[root Cl'
   - '[conj [cc а] [nsubj PronPers-Nom] [advmod как] Verb-Pst]?]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Она]'
-  - '[parataxis конечно]'
-  - '[case в] истерике'
-  - '[conj [cc а] [nsubj ты] [advmod как] думал]?!]'
+  - '[root [nsubj Она], [parataxis конечно], [case в] истерике, [conj [cc а] [nsubj ты] [advmod как] думал]?!]'
 references:
   - |
     

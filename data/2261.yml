@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [advcl случись [nsubj что]]'
   - 'VP-Fut]'
 dependency_structure_of_illustration:
-  - '[root [advcl Случись [nsubj что] [advmod завтра]]'
-  - '[iobj ей] не [obl [case к] кому] [aux будет] [csubj обратиться].]'
+  - '[root [advcl Случись [nsubj что] [advmod завтра]], [iobj ей] не [obl [case к] кому] [aux будет] [csubj обратиться].]'
 references:
   - |
     

@@ -32,8 +32,7 @@ dependency_structure:
   - '[root [advcl [mark чуть] [advmod лишь] VP], [mark как] Cl]]'
   - '[root [advcl [mark чуть] [advmod только] VP], [mark как] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advcl [advmod Чуть [advmod лишь]] появлялось [nsubj [amod свободное] место]]'
-  - '[nsubj все] бежали [obl [case к] нему].]'
+  - '[root [advcl [advmod Чуть [advmod лишь]] появлялось [nsubj [amod свободное] место]], [nsubj все] бежали [obl [case к] нему].]'
 references:
   - |
     

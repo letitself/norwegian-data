@@ -34,8 +34,7 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom] встать-Imp [obl [case на] место [nmod NP-Gen]]]'
   - '[root встать-Imp [obl [case на] место [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [nsubj ты] встань [obl [case на] место [nmod директора]]'
-  - '[conj [advmod тоже] [obj ничего] [advmod не] сделаешь].]'
+  - '[root [cc А] [nsubj ты] встань [obl [case на] место [nmod директора]], [conj [advmod тоже] [obj ничего] [advmod не] сделаешь].]'
 references:
   - |
     

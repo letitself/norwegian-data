@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [parataxis [case с] точки [nmod зрения] [nmod NP-Gen]], Cl]'
   - '[root [parataxis [case с] [det PronPoss-Gen] точки [nmod зрения]], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case С] точки [nmod зрения] [nmod режиссёра]]'
-  - '[nsubj [det этот] фильм] должен [xcomp иметь [obj успех] [obl [case за] рубежом]].]'
+  - '[root [parataxis [case С] точки [nmod зрения] [nmod режиссёра]], [nsubj [det этот] фильм] должен [xcomp иметь [obj успех] [obl [case за] рубежом]].]'
 references:
   - |
     

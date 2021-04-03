@@ -35,8 +35,7 @@ dependency_structure:
   - '[root кажется, [parataxis Cl]]'
   - '[root казалось, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root [iobj Мне] кажется'
-  - '[ccomp [mark что] [nsubj мы] [obl [case с] вами] встречались [advmod раньше]].]'
+  - '[root [iobj Мне] кажется, [ccomp [mark что] [nsubj мы] [obl [case с] вами] встречались [advmod раньше]].]'
 references:
   - |
     

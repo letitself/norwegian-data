@@ -32,8 +32,7 @@ dependency_structure:
   - '[root [obl [case в] [amod NumOrd-F.Acc.Sg] очередь] XP]'
   - '[root [obl [case в] [amod Adj-F.Acc.Sg] очередь] XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [obl [case в] [amod первую] очередь] отец'
-  - '[conj [cc а] [advmod потом] учёный].]'
+  - '[root [nsubj Он] [obl [case в] [amod первую] очередь] отец, [conj [cc а] [advmod потом] учёный].]'
 references:
   - |
     

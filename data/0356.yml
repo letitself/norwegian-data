@@ -42,8 +42,7 @@ dependency_structure:
   - '[root [advcl [mark чем] [aux бы] VP], VP]'
   - '[root [advcl [mark чем] [aux бы] VP], VP [aux бы]]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Чем] [aux бы] учиться]'
-  - '[nsubj он] гуляет.]'
+  - '[root [advcl [mark Чем] [aux бы] учиться], [nsubj он] гуляет.]'
 comment: |
     'См. близкие по значению конструкции 223 нет чтобы/бы VP-Inf, Cl (Нет чтобы подождать, он ушел без нас!); 222 нет бы (NP-Dat) VP-Inf (Нет бы сделать домашнее задание пораньше).'
 references:

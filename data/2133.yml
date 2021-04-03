@@ -26,10 +26,7 @@ dependency_structure:
   - '[root [parataxis конечно], Cl]'
   - '[root [parataxis конечно [advmod же]], Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj [amod Исторические] ошибки]'
-  - '[parataxis конечно]'
-  - присутствуют
-  - '[conj [cc а] [advmod как [advmod же]] [case без] них]?]'
+  - '[root [nsubj [amod Исторические] ошибки], [parataxis конечно], присутствуют, [conj [cc а] [advmod как [advmod же]] [case без] них]?]'
 references:
   - |
     

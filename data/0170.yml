@@ -27,9 +27,7 @@ dependency_structure:
   - '[root [parataxis [case кроме] того]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он]'
-  - '[parataxis [case кроме] того]'
-  - 'плавает.]'
+  - '[root [nsubj Он], [parataxis [case кроме] того], плавает.]'
 references:
   - |
     

@@ -26,9 +26,7 @@ dependency_structure:
   - '[root [advmod как [fixed раз]] VP]'
   - '[advmod [advmod как [fixed раз]] Adv]'
 dependency_structure_of_illustration:
-  - '[root Хорошо'
-  - '[ccomp [mark что] [nsubj ты] позвонил]'
-  - '[conj [nsubj я] [advmod как [fixed раз]] [obl [case про] тебя] вспоминал].]'
+  - '[root Хорошо, [ccomp [mark что] [nsubj ты] позвонил], [conj [nsubj я] [advmod как [fixed раз]] [obl [case про] тебя] вспоминал].]'
 references:
   - |
     

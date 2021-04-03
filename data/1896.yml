@@ -29,8 +29,7 @@ dependency_structure:
   - '[amod Adj [conj [cc и] другие]]'
   - '[amod Adj [conj [cc и] др.]]'
 dependency_structure_of_illustration:
-  - '[root [obl [case В] фильме] снимались [nsubj Джонни [flat:name Депп]'
-  - '[conj Скарлетт [flat:name Йоханссон]] [conj [cc и] другие]].]'
+  - '[root [obl [case В] фильме] снимались [nsubj Джонни [flat:name Депп], [conj Скарлетт [flat:name Йоханссон]] [conj [cc и] другие]].]'
 references:
   - |
     

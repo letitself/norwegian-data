@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [parataxis [xcomp быть] может]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [xcomp Быть] может]'
-  - '[nsubj он] [advmod просто] устал.]'
+  - '[root [parataxis [xcomp Быть] может], [nsubj он] [advmod просто] устал.]'
 references:
   - |
     

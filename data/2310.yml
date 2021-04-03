@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [discourse ну] [cc и] ладно, [parataxis Cl]]'
   - '[root [cc и] ладно, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root [discourse Ну] [cc и] ладно'
-  - '[csubj [mark что] [advmod так] вышло]!]'
+  - '[root [discourse Ну] [cc и] ладно, [csubj [mark что] [advmod так] вышло]!]'
 references:
   - |
     

@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [parataxis [case к] слову], Cl]'
   - '[root [parataxis [obl [case к] слову] сказать], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case К] слову]'
-  - '[nsubj он] [advmod тоже] окончил [obj [det этот] факультет].]'
+  - '[root [parataxis [case К] слову], [nsubj он] [advmod тоже] окончил [obj [det этот] факультет].]'
 references:
   - |
     

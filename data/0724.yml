@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod и] [obl [case без] NP-Gen] знать, [ccomp [mark что] Cl]]'
   - '[root [nsubj NP-Nom] [advmod и] [obl [case без] NP-Gen] знать, [ccomp Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] [advmod и] [obl [case без] вас] знаем'
-  - '[ccomp [obj что] делать].]'
+  - '[root [nsubj Мы] [advmod и] [obl [case без] вас] знаем, [ccomp [obj что] делать].]'
 references:
   - |
     

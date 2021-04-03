@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [obj зуб] даю'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [obj Зуб] даю'
-  - '[ccomp [mark что] [nsubj никто] [obl [case в] комнату] [advmod не] заходил].]'
+  - '[root [obj Зуб] даю, [ccomp [mark что] [nsubj никто] [obl [case в] комнату] [advmod не] заходил].]'
 references:
   - |
     

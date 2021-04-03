@@ -42,8 +42,7 @@ dependency_structure:
   - '[root [parataxis [mark как] правило]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [mark Как] правило]'
-  - '[nsubj история] [obj людей] [iobj ничему] [advmod не] учит.]'
+  - '[root [parataxis [mark Как] правило], [nsubj история] [obj людей] [iobj ничему] [advmod не] учит.]'
 references:
   - |
     

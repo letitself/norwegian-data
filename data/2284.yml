@@ -54,8 +54,7 @@ dependency_structure:
   - '[root [cc а] почём [cop Cop] [csubj знать, [ccomp Cl]]]'
   - '[root почём [cop Cop] [csubj знать, [ccomp Cl]]]'
 dependency_structure_of_illustration:
-  - '[root Почём [iobj мне] [cop было] [csubj знать'
-  - '[ccomp [mark когда] [nsubj ты] вернёшься]].]'
+  - '[root Почём [iobj мне] [cop было] [csubj знать, [ccomp [mark когда] [nsubj ты] вернёшься]].]'
 references:
   - |
     

@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [advcl [det какой] [aux бы] VP] [dep NP] [advmod ни] VP'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [det Какой] [aux бы] умный] [nsubj ты] [advmod ни] [cop был]'
-  - '[advmod не] торопись [obl [case во] время [nmod экзамена]].]'
+  - '[root [advcl [det Какой] [aux бы] умный] [nsubj ты] [advmod ни] [cop был], [advmod не] торопись [obl [case во] время [nmod экзамена]].]'
 references:
   - |
     

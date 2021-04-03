@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [iobj NP-Dat] нужно [cop Cop], [csubj [mark чтобы] Cl]]'
   - '[root нужно [cop Cop], [csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Нужно'
-  - '[csubj [mark чтобы] [case на] столе [cop была] [nsubj [amod чистая] скатерть]].]'
+  - '[root Нужно, [csubj [mark чтобы] [case на] столе [cop была] [nsubj [amod чистая] скатерть]].]'
 references:
   - |
     

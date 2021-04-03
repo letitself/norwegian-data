@@ -30,9 +30,7 @@ dependency_structure:
   - '[root [parataxis как-никак] Cl]'
   - '[root как-никак, [conj [case а] Cl]]'
 dependency_structure_of_illustration:
-  - '[root – [advmod Что] [expl это] [nsubj ты] [obj вино] покупаешь'
-  - '[conj [iobj тебе [advmod же]] нельзя]?] [root – [amod Серебряная] свадьба [advmod завтра]'
-  - '[parataxis как-никак].]'
+  - '[root – [advmod Что] [expl это] [nsubj ты] [obj вино] покупаешь, [conj [iobj тебе [advmod же]] нельзя]?] [root – [amod Серебряная] свадьба [advmod завтра], [parataxis как-никак].]'
 references:
   - |
     

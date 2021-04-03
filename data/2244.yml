@@ -27,9 +27,7 @@ dependency_structure:
   - '[dep [parataxis [case между] прочим]'
   - 'XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] [advmod тут]'
-  - '[parataxis [case между] прочим]'
-  - 'работаем!]'
+  - '[root [nsubj Мы] [advmod тут], [parataxis [case между] прочим],работаем!]'
 references:
   - |
     

@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [cc а] [advcl [mark как] VP]'
   - '[advmod тут] [advmod и] Cl]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [advcl [mark как] пришёл]'
-  - '[advmod тут] [advmod и] началось.]'
+  - '[root [cc А] [advcl [mark как] пришёл], [advmod тут] [advmod и] началось.]'
 references:
   - |
     

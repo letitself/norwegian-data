@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [cc а] [nsubj NP-Nom] [advmod не] думать-Prs'
   - '[ccomp [mark что] Cl]?]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [nsubj Маша] [advmod не] думает'
-  - '[ccomp [mark что] [iobj ей] пора [advmod домой]]?]'
+  - '[root [cc А] [nsubj Маша] [advmod не] думает, [ccomp [mark что] [iobj ей] пора [advmod домой]]?]'
 references:
   - |
     

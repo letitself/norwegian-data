@@ -27,8 +27,7 @@ usage_label: ~
 dependency_structure:
   - '[root [obl [case в] плане [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
-  - '[root [obl [case В] плане [nmod спорта]] [nsubj он] [obl [case у] нас] молодец'
-  - '[conj [cc а] [advmod вот] учится [advmod неважно]].]'
+  - '[root [obl [case В] плане [nmod спорта]] [nsubj он] [obl [case у] нас] молодец, [conj [cc а] [advmod вот] учится [advmod неважно]].]'
 references:
   - |
     

@@ -44,8 +44,7 @@ dependency_structure:
   - '[root нет [csubj [mark чтобы] VP-Inf], [parataxis Cl]]'
   - '[root нет [csubj [mark бы] VP-Inf], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root Нет [csubj [mark чтобы] подождать]'
-  - '[parataxis [nsubj он] ушел [obl [case без] нас]]!]'
+  - '[root Нет [csubj [mark чтобы] подождать], [parataxis [nsubj он] ушел [obl [case без] нас]]!]'
 comment: |
     'См. близкие по значению конструкции 356 чем бы VP, VP (бы) (Чем бы учиться, он гуляет); 222 нет бы (NP-Dat) VP-Inf (Нет бы сделать домашнее задание пораньше).'
 references:

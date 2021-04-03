@@ -26,8 +26,7 @@ usage_label: ~
 dependency_structure:
   - '[root VP [advmod [case вопреки] NP-Dat]]'
 dependency_structure_of_illustration:
-  - '[root [advmod [case Вопреки] [det всем] прогнозам]'
-  - '[case на] улице [cop была] [nsubj [amod хорошая] погода].]'
+  - '[root [advmod [case Вопреки] [det всем] прогнозам], [case на] улице [cop была] [nsubj [amod хорошая] погода].]'
 references:
   - |
     

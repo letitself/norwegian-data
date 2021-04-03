@@ -33,8 +33,7 @@ dependency_structure:
   - '[root Cl, [conj [cc а] [advmod иначе] можно [csubj VP-Fut]]]'
   - '[root Cl, [conj [cc иначе] можно [csubj VP-Fut]]]'
 dependency_structure_of_illustration:
-  - '[root Извинись'
-  - '[conj [cc иначе] [nsubj я] перестану [xcomp [obl [case с] тобой] разговаривать]].]'
+  - '[root Извинись, [conj [cc иначе] [nsubj я] перестану [xcomp [obl [case с] тобой] разговаривать]].]'
 references:
   - |
     

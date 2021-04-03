@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [cc а] [advmod ну-ка] постой, [parataxis Cl]]'
   - '[root [advmod ну-ка] постой, [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [advmod ну-ка] постой'
-  - '[parataxis [nsubj мы] [advmod ещё] [advmod не] договорили]!]'
+  - '[root [cc А] [advmod ну-ка] постой, [parataxis [nsubj мы] [advmod ещё] [advmod не] договорили]!]'
 references:
   - |
     

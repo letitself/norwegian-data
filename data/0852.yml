@@ -31,9 +31,7 @@ dependency_structure:
   - '[root Cl, [parataxis верно [advmod ведь]]?]'
   - '[root Cl, [parataxis верно]?]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] [amod хорошие] ребята'
-  - '[conj [advmod не] злые [obl [case по] существу]]'
-  - '[parataxis верно [advmod ведь]]?]'
+  - '[root [nsubj Мы] [amod хорошие] ребята, [conj [advmod не] злые [obl [case по] существу]], [parataxis верно [advmod ведь]]?]'
 references:
   - |
     

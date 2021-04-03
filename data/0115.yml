@@ -28,9 +28,7 @@ dependency_structure:
   - '[parataxis должно [xcomp быть]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Вы]'
-  - '[parataxis должно [xcomp быть]]'
-  - '[obj этого] [advmod не] знали.]'
+  - '[root [nsubj Вы], [parataxis должно [xcomp быть]], [obj этого] [advmod не] знали.]'
 references:
   - |
     

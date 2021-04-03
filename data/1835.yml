@@ -48,10 +48,7 @@ dependency_structure:
   - '[parataxis скорее]'
   - 'XP]]'
 dependency_structure_of_illustration:
-  - '[root [cc И] [advmod тогда] [nsubj я] понял [conj [cc или]'
-  - '[parataxis скорее]'
-  - 'вспомнил]'
-  - '[ccomp [mark что] [nsubj это] [advmod не] Соня].]'
+  - '[root [cc И] [advmod тогда] [nsubj я] понял [conj [cc или], [parataxis скорее], вспомнил], [ccomp [mark что] [nsubj это] [advmod не] Соня].]'
 references:
   - |
     

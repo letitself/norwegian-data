@@ -29,8 +29,7 @@ dependency_structure:
   - '[root можно [csubj [advmod не] сомневаться], [ccomp [mark что] Cl]]'
   - '[root можно [csubj [advmod не] сомневаться], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root Можно [csubj [advmod не] сомневаться]'
-  - '[ccomp [mark что] [nsubj он] разбогател].]'
+  - '[root Можно [csubj [advmod не] сомневаться], [ccomp [mark что] [nsubj он] разбогател].]'
 references:
   - |
     

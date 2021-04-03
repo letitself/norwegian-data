@@ -28,8 +28,7 @@ dependency_structure:
   - '[root VP [obl [case в] надежде [nmod [case на] то, [acl [mark что] VP]]]]'
   - '[root VP [obl [case в] надежде, [acl [mark что] VP]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj [det Каждый] оператор] сидел [obl [case в] надежде'
-  - '[acl [mark что] запечатлит [obj [det эти] кадры] [advmod именно] [nsubj он]]].]'
+  - '[root [nsubj [det Каждый] оператор] сидел [obl [case в] надежде, [acl [mark что] запечатлит [obj [det эти] кадры] [advmod именно] [nsubj он]]].]'
 references:
   - |
     

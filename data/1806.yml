@@ -41,8 +41,7 @@ dependency_structure:
   - '[root Cl, [parataxis [case без] проблем]]'
   - '[root Cl, [parataxis [case без] вопросов]]'
 dependency_structure_of_illustration:
-  - '[root Переезжай [obl [case ко] мне] [advmod [advmod хоть] завтра]'
-  - '[parataxis [case без] проблем]!]'
+  - '[root Переезжай [obl [case ко] мне] [advmod [advmod хоть] завтра], [parataxis [case без] проблем]!]'
 comment: |
     'См. близкую конструкцию 1807 Cl, не вопрос (Я всё сделаю, не вопрос!)'
 references:

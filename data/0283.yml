@@ -32,8 +32,7 @@ dependency_structure:
   - '[root [advcl [advmod пускай] [advmod и] Cl], Cl]'
   - '[root [advcl [advmod пускай] Cl], Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [advmod Пускай] [nsubj вода] холодная]'
-  - '[advmod всё [fixed равно]] [aux буду] плавать.]'
+  - '[root [advcl [advmod Пускай] [nsubj вода] холодная], [advmod всё [fixed равно]] [aux буду] плавать.]'
 references:
   - |
     

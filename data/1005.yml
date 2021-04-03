@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [advcl [mark если] [aux бы] VP]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Если] [aux бы] [nsubj ты] хотел]'
-  - '[nsubj ты] [aux бы] приехал.]'
+  - '[root [advcl [mark Если] [aux бы] [nsubj ты] хотел], [nsubj ты] [aux бы] приехал.]'
 references:
   - |
     

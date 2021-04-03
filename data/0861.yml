@@ -31,8 +31,7 @@ dependency_structure:
   - '[root Cl, [conj [cc но] [nsubj NP-Nom] [obj виду] [advmod не] подавать, [ccomp [mark что] Cl]]]'
   - '[root Cl, [conj [cc но] [nsubj NP-Nom] [obj виду] [advmod не] подавать]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] обиделся'
-  - '[conj [cc но] [obj виду] [advmod не] подаёт].]'
+  - '[root [nsubj Он] обиделся, [conj [cc но] [obj виду] [advmod не] подаёт].]'
 references:
   - |
     

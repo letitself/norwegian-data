@@ -35,8 +35,7 @@ dependency_structure:
   - '[root [obl [case в] [det тот]  NP-Acc, [acl [mark когда] Cl]]]'
   - '[root [obl [case в] [det тот]  NP-Acc, [acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Все] ахнули [obl [case в] [det тот]  момент'
-  - '[acl [mark когда] [nsubj она] заговорила]].]'
+  - '[root [nsubj Все] ахнули [obl [case в] [det тот]  момент, [acl [mark когда] [nsubj она] заговорила]].]'
 references:
   - |
     

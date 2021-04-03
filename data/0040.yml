@@ -42,8 +42,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root будет [iobj PronPers-Dat] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
-  - '[root Будет [iobj тебе] [nsubj счастье]'
-  - '[conj [nsubj ты] [advmod только] жди].]'
+  - '[root Будет [iobj тебе] [nsubj счастье], [conj [nsubj ты] [advmod только] жди].]'
 references:
   - |
     

@@ -29,9 +29,7 @@ dependency_structure:
   - '[root Cl, [conj [cc а] так, [parataxis Cl]]]'
   - '[root Cl, [parataxis так, [parataxis Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Она] [iobj мне] [advmod не] нравилась'
-  - '[conj [cc а] так'
-  - '[parataxis баловство [det одно]]].]'
+  - '[root [nsubj Она] [iobj мне] [advmod не] нравилась, [conj [cc а] так, [parataxis баловство [det одно]]].]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

@@ -29,8 +29,7 @@ dependency_structure:
   - '[root VP-Imp [nsubj NP-Nom]'
   - '[nsubj NP-Nom] VP-Pst [aux бы]]'
 dependency_structure_of_illustration:
-  - '[root [advcl Преподавай [nsubj она] [obl [case в] школе]]'
-  - '[nsubj все] [aux бы] [cop были] отличниками.]'
+  - '[root [advcl Преподавай [nsubj она] [obl [case в] школе]], [nsubj все] [aux бы] [cop были] отличниками.]'
 references:
   - |
     

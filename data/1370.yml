@@ -26,8 +26,7 @@ dependency_structure:
   - '[dep [obl [obl [case в] аккурат] XP]'
   - '[dep [obl [advmod аккурат] XP]'
 dependency_structure_of_illustration:
-  - '[root Жди [obj меня]'
-  - '[conj [nsubj я] вернусь [obl [obl [case в] аккурат] [case к] обеду]].]'
+  - '[root Жди [obj меня], [conj [nsubj я] вернусь [obl [obl [case в] аккурат] [case к] обеду]].]'
 references:
   - |
     

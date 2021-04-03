@@ -48,9 +48,7 @@ dependency_structure:
   - '[root XP, [nmod [parataxis точнее], XP]]'
   - '[root XP, [nmod [parataxis вернее], XP]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Никто] [advmod не] воспринимает [obj [det этот] сайт] [obl [case как] [amod хороший] ресурс]'
-  - '[parataxis [parataxis точнее]'
-  - '[obl [case о] нём] [advmod вообще] [advmod не] conj знают].]'
+  - '[root [nsubj Никто] [advmod не] воспринимает [obj [det этот] сайт] [obl [case как] [amod хороший] ресурс], [parataxis [parataxis точнее], [obl [case о] нём] [advmod вообще] [advmod не] conj знают].]'
 references:
   - |
     

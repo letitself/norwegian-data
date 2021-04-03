@@ -25,8 +25,7 @@ usage_label: ~
 dependency_structure:
   - '[root [obl [case в] основном] XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [obl [case в] основном] пел'
-  - '[conj [cc но] [advmod иногда] играл [obl [case на] рояле]].]'
+  - '[root [nsubj Он] [obl [case в] основном] пел, [conj [cc но] [advmod иногда] играл [obl [case на] рояле]].]'
 references:
   - |
     

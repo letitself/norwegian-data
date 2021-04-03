@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [parataxis знать-Prs.2 ] [obj что]'
   - 'Cl!]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Знаете] [obj что]'
-  - '[nsubj я] [advmod больше] [advmod не] хочу [xcomp [obj вас] видеть]!]'
+  - '[root [parataxis Знаете] [obj что], [nsubj я] [advmod больше] [advmod не] хочу [xcomp [obj вас] видеть]!]'
 references:
   - |
     

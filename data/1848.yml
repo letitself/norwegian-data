@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [advcl [advmod куда] [aux бы] [advmod ни] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [advmod Куда] [aux бы] [nsubj он] [advmod ни] пришел]'
-  - '[iobj ему] [advmod везде] рады.]'
+  - '[root [advcl [advmod Куда] [aux бы] [nsubj он] [advmod ни] пришел], [iobj ему] [advmod везде] рады.]'
 references:
   - |
     

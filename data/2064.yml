@@ -29,8 +29,7 @@ dependency_structure:
   - '[root Cl'
   - '[parataxis [cc только] [obj NP-Acc] [advmod и] видели]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] выбежал [obl [case из] кабинета]'
-  - '[parataxis [cc только] [obj его] [advmod и] видели]!]'
+  - '[root [nsubj Он] выбежал [obl [case из] кабинета], [parataxis [cc только] [obj его] [advmod и] видели]!]'
 references:
   - |
     

@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] капут!]'
   - '[root [iobj NP-Dat] [cop Cop] каюк!]'
 dependency_structure_of_illustration:
-  - '[root [discourse Ну] всё'
-  - '[parataxis [iobj вам] крышка]!]'
+  - '[root [discourse Ну] всё, [parataxis [iobj вам] крышка]!]'
 references:
   - |
     

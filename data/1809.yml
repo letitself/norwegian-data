@@ -34,8 +34,7 @@ dependency_structure:
   - '[root [parataxis [case как] вариант], можно [cop Cop] [csubj VP-Inf]]'
   - '[root [parataxis [case как] вариант], [NP-Nom] мочь [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case Как] вариант]'
-  - 'можно [csubj отдать [obj ребенка] [obl [case в] [amod частную] школу]].]'
+  - '[root [parataxis [case Как] вариант],можно [csubj отдать [obj ребенка] [obl [case в] [amod частную] школу]].]'
 references:
   - |
     

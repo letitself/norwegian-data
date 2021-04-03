@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [dep [nummod:gov столько] NP-Gen] VP, [advcl [mark что] Cl]]'
   - '[root столько [nsubj NP-Gen] [cop Cop], [advcl [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [obl [case на] концерт] пришло [nsubj [nummod:gov столько] людей]'
-  - '[advcl [mark что] некуда [cop было] [csubj сесть]]]'
+  - '[root [obl [case на] концерт] пришло [nsubj [nummod:gov столько] людей], [advcl [mark что] некуда [cop было] [csubj сесть]]]'
 references:
   - |
     

@@ -25,8 +25,7 @@ dependency_structure:
   - '[root [parataxis вот-вот]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Вот-вот]'
-  - '[iobj мне] [advmod тоже] [nsubj фильм] понравился!]'
+  - '[root [parataxis Вот-вот], [iobj мне] [advmod тоже] [nsubj фильм] понравился!]'
 references:
   - |
     

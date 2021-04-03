@@ -29,8 +29,7 @@ dependency_structure:
   - '[root Cl, [conj [cc не [fixed то]] смотри [obl [case у] меня]]!]'
   - '[root Cl, [conj [cc не [fixed то]] смотрите [obl [case у] меня]]!]'
 dependency_structure_of_illustration:
-  - '[root Должен [xcomp вернуться [obl [case до] десяти]]'
-  - '[conj [cc не [fixed то]] смотри [obl [case у] меня]]!]'
+  - '[root Должен [xcomp вернуться [obl [case до] десяти]], [conj [cc не [fixed то]] смотри [obl [case у] меня]]!]'
 references:
   - |
     

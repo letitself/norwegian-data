@@ -33,8 +33,7 @@ dependency_structure:
   - '[root [parataxis [mark как] выяснилось]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [mark Как] выяснилось]'
-  - '[nsubj половина [nmod жителей [nmod Парижа]]] [advmod никогда] [advmod не] была [obl [case в] Лондоне].]'
+  - '[root [parataxis [mark Как] выяснилось], [nsubj половина [nmod жителей [nmod Парижа]]] [advmod никогда] [advmod не] была [obl [case в] Лондоне].]'
 references:
   - |
     

@@ -25,8 +25,7 @@ usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] досуге]]]'
 dependency_structure_of_illustration:
-  - '[root Положите [obj [det эту] книжку] [advmod здесь]'
-  - '[parataxis [nsubj я] почитаю [obj её] [obl [case на] досуге]].]'
+  - '[root Положите [obj [det эту] книжку] [advmod здесь], [parataxis [nsubj я] почитаю [obj её] [obl [case на] досуге]].]'
 references:
   - |
     

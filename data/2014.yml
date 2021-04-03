@@ -32,8 +32,7 @@ dependency_structure:
   - '[root [advmod куда] [advmod уж] [advmod тут] [cop Cop] [iobj NP-Dat] XP]'
   - '[root [cc да] [advmod куда] [advmod уж] [advmod тут] [cop Cop] [iobj NP-Dat] XP]'
 dependency_structure_of_illustration:
-  - '[root [advmod Куда] [advmod уж] [iobj мне] [obj тебя] понять'
-  - '[appos [amod простой] [amod сибирской] девушке]!]'
+  - '[root [advmod Куда] [advmod уж] [iobj мне] [obj тебя] понять, [appos [amod простой] [amod сибирской] девушке]!]'
 references:
   - |
     

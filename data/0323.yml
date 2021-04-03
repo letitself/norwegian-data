@@ -29,9 +29,7 @@ dependency_structure:
   - '[acl:relcl [dep который] Cl]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj [det Таких] домов'
-  - '[obj которые] [acl:relcl нужно [csubj расселить]]]'
-  - 'много.]'
+  - '[root [nsubj [det Таких] домов, [obj которые] [acl:relcl нужно [csubj расселить]]], много.]'
 references:
   - |
     

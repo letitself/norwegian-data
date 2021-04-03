@@ -25,8 +25,7 @@ dependency_structure:
   - '[root [advcl [mark коль [fixed скоро]] Cl]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Коль [fixed скоро]] [nsubj Петя] обиделся]'
-  - 'придётся [csubj извиняться].]'
+  - '[root [advcl [mark Коль [fixed скоро]] [nsubj Петя] обиделся], придётся [csubj извиняться].]'
 references:
   - |
     

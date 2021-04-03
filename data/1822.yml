@@ -30,8 +30,7 @@ dependency_structure:
   - '[root хотеть-Pst [aux бы] [nsubj NP-Nom]'
   - '[ccomp [mark чтобы] [Cl]]'
 dependency_structure_of_illustration:
-  - '[root Хотела [aux бы] [nsubj она]'
-  - '[ccomp [mark чтобы] [nsubj ты] обратил [obl [case на] нее] [obj внимание]].]'
+  - '[root Хотела [aux бы] [nsubj она], [ccomp [mark чтобы] [nsubj ты] обратил [obl [case на] нее] [obj внимание]].]'
 references:
   - |
     

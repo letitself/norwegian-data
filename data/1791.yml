@@ -24,8 +24,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [advmod дико] XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Она] упрямая'
-  - '[conj [cc но] [iobj мне] [obl [case в] ней] [nsubj это] [advmod дико] нравится].]'
+  - '[root [nsubj Она] упрямая, [conj [cc но] [iobj мне] [obl [case в] ней] [nsubj это] [advmod дико] нравится].]'
 references:
   - |
     Zhukova, V. Title. MA thesis.

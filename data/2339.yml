@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom] [advmod не] находить'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Вы] [advmod не] находите'
-  - '[ccomp [mark что] [nsubj это] [advmod немного] странно]?]'
+  - '[root [nsubj Вы] [advmod не] находите, [ccomp [mark что] [nsubj это] [advmod немного] странно]?]'
 references:
   - |
     

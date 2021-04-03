@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [parataxis [case в] [amod крайнем] случае]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case В] [amod крайнем] случае]'
-  - '[nsubj он] позвонит.]'
+  - '[root [parataxis [case В] [amod крайнем] случае], [nsubj он] позвонит.]'
 references:
   - |
     

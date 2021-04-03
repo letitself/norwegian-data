@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [discourse ах]'
   - '[advmod вот] PronInt [cop Cop] [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
-  - '[root [discourse Ах]'
-  - '[advmod вот] где [nsubj [det мои] очки]!]'
+  - '[root [discourse Ах], [advmod вот] где [nsubj [det мои] очки]!]'
 references:
   - |
     

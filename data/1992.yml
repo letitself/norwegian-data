@@ -28,8 +28,7 @@ dependency_structure:
   - '[root говорят'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root Говорят'
-  - '[ccomp [mark что] [advmod там] видели [obj [advmod даже] инопланетян]].]'
+  - '[root Говорят, [ccomp [mark что] [advmod там] видели [obj [advmod даже] инопланетян]].]'
 references:
   - |
     

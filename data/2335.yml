@@ -32,8 +32,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [obj понятия] [advmod не] иметь [obl [case о] NP-Loc]]'
   - '[root [nsubj NP-Nom] [obj понятия] [advmod не] иметь, [ccomp Cl]]'
 dependency_structure_of_illustration:
-  - '[root [obj Понятия] [advmod не] имею'
-  - '[ccomp [nsubj что] [obl [case между] ними] произошло].]'
+  - '[root [obj Понятия] [advmod не] имею, [ccomp [nsubj что] [obl [case между] ними] произошло].]'
 references:
   - |
     

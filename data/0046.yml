@@ -40,8 +40,7 @@ dependency_structure:
   - '[root [advcl быть-Pst [aux бы] [nsubj NP-Nom]]'
   - '[cc а] Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl Было [aux бы] [nsubj желание]]'
-  - '[cc а] [nsubj деньги] найдутся.]'
+  - '[root [advcl Было [aux бы] [nsubj желание]], [cc а] [nsubj деньги] найдутся.]'
 references:
   - |
     

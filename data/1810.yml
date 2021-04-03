@@ -41,8 +41,7 @@ dependency_structure:
   - '[root [cc и] [advmod не] говори, [parataxis [det такой] [cop Cop] NP-Nom]!]
 [root [cc и] [advmod не] говори, [parataxis [advmod так] Adv!]'
 dependency_structure_of_illustration:
-  - '[root [cc И] [advmod не] говори'
-  - '[parataxis [det такой] фильм]!]'
+  - '[root [cc И] [advmod не] говори, [parataxis [det такой] фильм]!]'
 references:
   - |
     

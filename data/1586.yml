@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [cc когда] XP'
   - '[conj [cc когда] XP]]'
 dependency_structure_of_illustration:
-  - '[root [cc Когда] [advmod вовремя] придёт'
-  - '[conj [cc когда] опоздает].]'
+  - '[root [cc Когда] [advmod вовремя] придёт, [conj [cc когда] опоздает].]'
 references:
   - |
     

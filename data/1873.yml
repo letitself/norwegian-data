@@ -37,8 +37,7 @@ dependency_structure:
   - '[root VP'
   - '[conj [advmod заодно] VP]]'
 dependency_structure_of_illustration:
-  - '[root Сходи [obl [case за] хлебом]'
-  - '[conj [advmod заодно] [obj мусор] вынесешь].]'
+  - '[root Сходи [obl [case за] хлебом], [conj [advmod заодно] [obj мусор] вынесешь].]'
 references:
   - |
     

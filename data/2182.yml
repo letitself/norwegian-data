@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] виднее'
   - '[csubj [dep PronInt] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [iobj Тебе] виднее'
-  - '[csubj [obj что] делать].]'
+  - '[root [iobj Тебе] виднее, [csubj [obj что] делать].]'
 references:
   - |
     

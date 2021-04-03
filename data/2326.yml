@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [advmod где] [expl это] видано'
   - '[ccomp [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Где] [expl это] видано'
-  - '[ccomp [mark чтобы] [nsubj собака] [obj мороженое] ела]!]'
+  - '[root [advmod Где] [expl это] видано, [ccomp [mark чтобы] [nsubj собака] [obj мороженое] ела]!]'
 references:
   - |
     

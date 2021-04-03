@@ -32,8 +32,7 @@ dependency_structure:
   - '[root [advmod как] [advmod ни] Pred [cop Cop] [csubj VP-Inf], [conj [cc но] Cl]]'
   - '[root [advmod как] [advmod ни] Pred [cop Cop] [csubj VP-Inf], [conj [cc а] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Как] [advmod ни] приятно [csubj отдыхать]'
-  - '[conj [cc но] надо [csubj возвращаться [obl [case к] работе]]].]'
+  - '[root [advmod Как] [advmod ни] приятно [csubj отдыхать], [conj [cc но] надо [csubj возвращаться [obl [case к] работе]]].]'
 references:
   - |
     

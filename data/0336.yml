@@ -35,8 +35,7 @@ dependency_structure:
   - '[root [advmod только] [advmod и] NP-Gen.Pl [cop Cop], [acl [nsubj что] [case про] NP-Acc]'
   - '[root [advmod только] [advmod и] NP-Gen.Pl [cop Cop], [acl [nsubj что] VP-Inf]'
 dependency_structure_of_illustration:
-  - '[root [advmod Только] [advmod и] разговоров'
-  - '[nmod [mark что] [case о] доме].]'
+  - '[root [advmod Только] [advmod и] разговоров, [nmod [mark что] [case о] доме].]'
 references:
   - |
     

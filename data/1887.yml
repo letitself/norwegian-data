@@ -29,9 +29,7 @@ dependency_structure:
   - '[acl [mark что] Cl]]'
   - '[conj [cc так] [advmod ещё] [advmod и] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Ты] мало [obl того'
-  - '[acl [mark что] трус]]'
-  - '[conj [cc так] [advmod ещё] [advmod и] дурак].]'
+  - '[root [nsubj Ты] мало [obl того, [acl [mark что] трус]], [conj [cc так] [advmod ещё] [advmod и] дурак].]'
 references:
   - |
     

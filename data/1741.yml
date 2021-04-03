@@ -26,8 +26,7 @@ usage_label: ~
 dependency_structure:
   - '[root VP [obl [case через] NP-Acc]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] пошли [obl [advmod не] [case по] дороге'
-  - '[conj [cc а] [case через] парк]].]'
+  - '[root [nsubj Мы] пошли [obl [advmod не] [case по] дороге, [conj [cc а] [case через] парк]].]'
 references:
   - |
     

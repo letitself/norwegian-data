@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [advcl [mark раз] Cl], [mark то] Cl]'
   - '[root [advcl [mark раз] Cl], Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Раз] [advmod уж] [nsubj мы] встретились]'
-  - '[advmod давайте] обсудим [obj [det эту] проблему].]'
+  - '[root [advcl [mark Раз] [advmod уж] [nsubj мы] встретились], [advmod давайте] обсудим [obj [det эту] проблему].]'
 references:
   - |
     

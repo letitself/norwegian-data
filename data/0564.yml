@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod только] [advmod и] делать'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [advmod только] [advmod и] делает'
-  - '[ccomp [mark что] ходит [obl [case в] кино]].]'
+  - '[root [nsubj Он] [advmod только] [advmod и] делает, [ccomp [mark что] ходит [obl [case в] кино]].]'
 references:
   - |
     

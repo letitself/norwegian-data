@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [advmod вот] [nsubj PronPers-2.Nom] видеть-Prs.2, [conj [cc а] [nsubj PronPers-2.Nom] говорить-Prs.2: [parataxis XP]]]'
   - '[root [cc а] [nsubj PronPers-2.Nom] говорить-Prs.2: [parataxis XP]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Вот] видишь'
-  - '[conj [cc а] [nsubj ты] говоришь: [parataxis пустяки]]!]'
+  - '[root [advmod Вот] видишь, [conj [cc а] [nsubj ты] говоришь: [parataxis пустяки]]!]'
 references:
   - |
     

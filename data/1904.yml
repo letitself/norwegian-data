@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [obl [case кроме] NP-Gen]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [obl [case Кроме] стариков]'
-  - '[obl [case в] [det той] деревне] [nsubj никого] [advmod не] осталось.]'
+  - '[root [obl [case Кроме] стариков], [obl [case в] [det той] деревне] [nsubj никого] [advmod не] осталось.]'
 references:
   - |
     

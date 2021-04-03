@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [advcl что [advmod ни] [nsubj NP-Nom]]'
   - '[mark то] NP-Nom]'
 dependency_structure_of_illustration:
-  - '[root [mark Что] [advmod ни] [nsubj растение]'
-  - '[mark то] сорняк.]'
+  - '[root [mark Что] [advmod ни] [nsubj растение], [mark то] сорняк.]'
 references:
   - |
     

@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [advcl [advmod сколько] [aux бы] [advmod ни] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [nummod:gov Сколько] [aux бы] [advmod ни] было [nsubj соблазнов]]'
-  - '[nsubj я] смогу [xcomp [obl [case перед] ними] устоять].]'
+  - '[root [advcl [nummod:gov Сколько] [aux бы] [advmod ни] было [nsubj соблазнов]], [nsubj я] смогу [xcomp [obl [case перед] ними] устоять].]'
 references:
   - |
     

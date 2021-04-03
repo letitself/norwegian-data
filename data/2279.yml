@@ -27,8 +27,7 @@ dependency_structure:
   - '[root Cl, [parataxis так [advmod ведь]]?]'
   - '[root Cl, [parataxis так]?]'
 dependency_structure_of_illustration:
-  - '[root [obl [case До] магазина] недалеко'
-  - '[parataxis так [advmod ведь]]?]'
+  - '[root [obl [case До] магазина] недалеко, [parataxis так [advmod ведь]]?]'
 references:
   - |
     

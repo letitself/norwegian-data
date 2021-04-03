@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [parataxis [case по] сообщению [nmod NP-Gen]], Cl]'
   - '[root [parataxis [case по] утверждению [nmod NP-Gen]], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case По] сообщению [nmod Би-би-си]]'
-  - '[nsubj ситуация] стабилизировалась.]'
+  - '[root [parataxis [case По] сообщению [nmod Би-би-си]], [nsubj ситуация] стабилизировалась.]'
 references:
   - |
     

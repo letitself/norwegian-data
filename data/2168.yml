@@ -41,8 +41,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] прокатить]'
   - '[root [nsubj NP-Nom] прокатить]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Думаю]'
-  - '[csubj [obl [case с] администрацией] [advmod так] вести [obj себя]] [advmod не] прокатит.]'
+  - '[root [parataxis Думаю], [csubj [obl [case с] администрацией] [advmod так] вести [obj себя]] [advmod не] прокатит.]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [parataxis [case без] сомнения]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case Без] сомнения]'
-  - '[nsubj он] лучший [obl [case среди] сотрудников].]'
+  - '[root [parataxis [case Без] сомнения], [nsubj он] лучший [obl [case среди] сотрудников].]'
 references:
   - |
     

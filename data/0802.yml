@@ -27,8 +27,7 @@ dependency_structure:
   - '[root Cl'
   - '[conj [obl [case в] [amod противном] случае] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [iobj Им] придется [csubj вернуть [obj деньги] [obl [case в] банк]]'
-  - '[conj [obl [case в] [amod противном] случае] [iobj им] грозит [nsubj тюрьма]].]'
+  - '[root [iobj Им] придется [csubj вернуть [obj деньги] [obl [case в] банк]], [conj [obl [case в] [amod противном] случае] [iobj им] грозит [nsubj тюрьма]].]'
 references:
   - |
     

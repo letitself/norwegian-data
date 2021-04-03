@@ -28,8 +28,7 @@ dependency_structure:
   - '[root кто-то [nmod [case вроде] NP-Gen]]'
   - '[root что-то [nmod [case вроде] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] [advmod не] хочу'
-  - '[mark чтобы] [nsubj кто-то [nmod [case вроде] тебя]] [ccomp распространял] [obj ложь] [iobj [det моим] друзьям].]'
+  - '[root [nsubj Я] [advmod не] хочу, [mark чтобы] [nsubj кто-то [nmod [case вроде] тебя]] [ccomp распространял] [obj ложь] [iobj [det моим] друзьям].]'
 references:
   - |
     

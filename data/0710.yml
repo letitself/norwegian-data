@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [discourse ах]'
   - '[advmod вот] [nsubj PronPers-Nom] [case о] чём!]'
 dependency_structure_of_illustration:
-  - '[root [discourse Ах]'
-  - '[advmod вот] [nsubj ты] [case о] чём!]'
+  - '[root [discourse Ах], [advmod вот] [nsubj ты] [case о] чём!]'
 references:
   - |
     

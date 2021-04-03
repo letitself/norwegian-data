@@ -44,9 +44,7 @@ dependency_structure:
   - '[root [parataxis [case к] примеру]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advmod Вот]'
-  - '[parataxis [case к] примеру]'
-  - '[iobj мне] нравится [nsubj Мерилин [flat:name Монро]].]'
+  - '[root [advmod Вот], [parataxis [case к] примеру], [iobj мне] нравится [nsubj Мерилин [flat:name Монро]].]'
 references:
   - |
     

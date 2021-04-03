@@ -43,8 +43,7 @@ dependency_structure:
   - '[root [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
   - '[root [advmod вот] [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj То-то] [advmod и] оно'
-  - '[mark что] [obl [case от] меня] [nsubj ничего] [advmod не] [acl:relcl зависит].]'
+  - '[root [nsubj То-то] [advmod и] оно, [mark что] [obl [case от] меня] [nsubj ничего] [advmod не] [acl:relcl зависит].]'
 references:
   - |
     

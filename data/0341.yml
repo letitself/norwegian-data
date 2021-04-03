@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [iobj [advmod уж] PronInt-[conj PronInt]], [cc а] Cl]'
   - '[root [iobj [advmod ну] PronInt-[conj PronInt]], [cc а] Cl]'
 dependency_structure_of_illustration:
-  - '[root [advmod Уж] [iobj кому-[conj кому]]'
-  - '[cc а] [iobj ему] [nsubj я] [advmod точно] [advmod не] нужна.]'
+  - '[root [advmod Уж] [iobj кому-[conj кому]], [cc а] [iobj ему] [nsubj я] [advmod точно] [advmod не] нужна.]'
 references:
   - |
     

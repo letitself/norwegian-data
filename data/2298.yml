@@ -29,8 +29,7 @@ dependency_structure:
   - '[root речь [nmod [cop Cop] [case о] том'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root Речь [nmod [case о] том'
-  - '[acl [mark что] [nsubj результат] [iobj нам] нужен [advmod [advmod уже] сегодня]]].]'
+  - '[root Речь [nmod [case о] том, [acl [mark что] [nsubj результат] [iobj нам] нужен [advmod [advmod уже] сегодня]]].]'
 references:
   - |
     

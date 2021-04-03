@@ -25,8 +25,7 @@ usage_label: ~
 dependency_structure:
   - '[root [obl [mark как] всегда] XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Вы] прекрасны'
-  - '[obl [mark как] всегда].]'
+  - '[root [nsubj Вы] прекрасны, [obl [mark как] всегда].]'
 references:
   - |
     

@@ -25,8 +25,7 @@ dependency_structure:
   - '[dep [mark как] XP'
   - '[conj [cc так [fixed и]] XP]]'
 dependency_structure_of_illustration:
-  - '[root [obj [det Его] сказки [nmod [case про] животных]] любят [nsubj [mark как] взрослые'
-  - '[conj [cc так [fixed и]] дети]].]'
+  - '[root [obj [det Его] сказки [nmod [case про] животных]] любят [nsubj [mark как] взрослые, [conj [cc так [fixed и]] дети]].]'
 references:
   - |
     

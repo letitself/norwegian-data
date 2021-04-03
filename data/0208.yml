@@ -27,8 +27,7 @@ dependency_structure:
   - '[dep [cc не [fixed то]] XP'
   - '[conj [cc не [fixed то]] XP]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] пошел [obl [cc не [fixed то]] [case к] себе] [obl [case на] дачу'
-  - '[conj [cc не [fixed то]] [case на] станцию]].]'
+  - '[root [nsubj Он] пошел [obl [cc не [fixed то]] [case к] себе] [obl [case на] дачу, [conj [cc не [fixed то]] [case на] станцию]].]'
 references:
   - |
     

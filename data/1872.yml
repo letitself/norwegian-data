@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [parataxis [advmod кстати] говоря], Cl]'
   - '[root [parataxis кстати], Cl]'
 dependency_structure_of_illustration:
-  - '[root [cc И] [parataxis кстати]'
-  - '[nsubj он] пришёл [obl [case без] подарка].]'
+  - '[root [cc И] [parataxis кстати], [nsubj он] пришёл [obl [case без] подарка].]'
 references:
   - |
     

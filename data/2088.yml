@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [advmod несмотря [obl [case на] NP-Acc [nmod NP-Acc]]], Cl]'
   - '[root [advmod невзирая [obl [case на] NP-Acc [nmod NP-Acc]]], Cl]'
 dependency_structure_of_illustration:
-  - '[root [advmod Несмотря [obl [case на] отзывы [nmod туристов]]]'
-  - '[nsubj он] [advmod всё [fixed равно]] поехал [obl [case в] Грузию].]'
+  - '[root [advmod Несмотря [obl [case на] отзывы [nmod туристов]]], [nsubj он] [advmod всё [fixed равно]] поехал [obl [case в] Грузию].]'
 references:
   - |
     

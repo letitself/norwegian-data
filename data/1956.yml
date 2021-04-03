@@ -26,10 +26,7 @@ dependency_structure:
   - '[root [parataxis следовательно]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Следовательно]'
-  - '[csubj удивляться [obj [det его] решительности]]'
-  - '[parataxis несомненно]'
-  - 'стоит.]'
+  - '[root [parataxis Следовательно], [csubj удивляться [obj [det его] решительности]], [parataxis несомненно], стоит.]'
 references:
   - |
     

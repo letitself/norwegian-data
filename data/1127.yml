@@ -26,9 +26,7 @@ dependency_structure:
   - '[root [parataxis право]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [cc Но] [iobj мне]'
-  - '[parataxis право]'
-  - 'лучше [csubj уйти].]'
+  - '[root [cc Но] [iobj мне], [parataxis право], лучше [csubj уйти].]'
 references:
   - |
     

@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [advcl [advmod как] [advmod ни] верти], Cl]'
   - '[root [advcl [advmod как] [advmod ни] крути], Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [advmod Как] [advmod ни] верти]'
-  - '[cc а] надо [csubj [advmod отсюда] уезжать].]'
+  - '[root [advcl [advmod Как] [advmod ни] верти], [cc а] надо [csubj [advmod отсюда] уезжать].]'
 references:
   - |
     

@@ -29,8 +29,7 @@ usage_label: Formal
 dependency_structure:
   - '[root [nsubj NP-Nom] находиться [obl [case в] состоянии [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] находился [obl [case в] состоянии [nmod опьянения]]'
-  - '[advcl [mark когда] садился [obl [case за] руль]].]'
+  - '[root [nsubj Он] находился [obl [case в] состоянии [nmod опьянения]], [advcl [mark когда] садился [obl [case за] руль]].]'
 references:
   - |
     

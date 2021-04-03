@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [advmod не] дай [nsubj Бог], [csubj [mark чтобы] Cl]]'
   - '[root [advmod не] дай [nsubj Боже], [csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Не] дай [nsubj Бог]'
-  - '[csubj [mark чтобы] пришлось [csubj переезжать]]!]'
+  - '[root [advmod Не] дай [nsubj Бог], [csubj [mark чтобы] пришлось [csubj переезжать]]!]'
 references:
   - |
     

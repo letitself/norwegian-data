@@ -27,8 +27,7 @@ dependency_structure:
   - '[root XP, [parataxis [advmod особенно] XP]]'
   - '[root XP, [parataxis [obl [case в] особенности] XP]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] любит [obj [amod русскую] кухню]'
-  - '[parataxis [advmod особенно] пироги [nmod [case с] капустой]].]'
+  - '[root [nsubj Он] любит [obj [amod русскую] кухню], [parataxis [advmod особенно] пироги [nmod [case с] капустой]].]'
 references:
   - |
     

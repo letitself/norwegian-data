@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [parataxis [case ко] [det всему] прочему]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [case Ко] [det всему] прочему]'
-  - '[nsubj он] курит [conj [cc и] пьёт].]'
+  - '[root [parataxis [case Ко] [det всему] прочему], [nsubj он] курит [conj [cc и] пьёт].]'
 references:
   - |
     

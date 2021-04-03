@@ -32,8 +32,7 @@ dependency_structure:
   - '[root думать-Imp [ccomp [obj что] хотеть-Prs]'
   - '[parataxis Cl]'
 dependency_structure_of_illustration:
-  - '[root Думай [ccomp [obj что] хочешь]'
-  - '[parataxis [nsubj я] [advmod всё [fixed равно]] женюсь].]'
+  - '[root Думай [ccomp [obj что] хочешь], [parataxis [nsubj я] [advmod всё [fixed равно]] женюсь].]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.

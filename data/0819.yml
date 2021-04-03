@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [obl [case в] случае, [acl [mark если] Cl]], Cl]'
   - '[root [advcl [mark если] Cl], Cl]'
 dependency_structure_of_illustration:
-  - '[root Звоните [iobj мне] [obl [case в] случае'
-  - '[acl [mark если] возникнут [nsubj проблемы]]].]'
+  - '[root Звоните [iobj мне] [obl [case в] случае, [acl [mark если] возникнут [nsubj проблемы]]].]'
 references:
   - |
     

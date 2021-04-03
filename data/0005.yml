@@ -53,8 +53,7 @@ dependency_structure:
   - '[root [nsubj Noun-Nom] [discourse же] знает, [ccomp Cl]]'
   - '[root [nsubj кто] [discourse же] знает, [ccomp Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Кто] [obj его] знает'
-  - '[advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
+  - '[root [nsubj Кто] [obj его] знает, [advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
 references:
   - |
     

@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [nsubj все] VP'
   - '[conj [det один] [advmod только] [nsubj NP-Nom] VP]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Все] спали'
-  - '[conj [det один] [advmod только] [nsubj дедушка] сидел [obl [case возле] окна]].]'
+  - '[root [nsubj Все] спали, [conj [det один] [advmod только] [nsubj дедушка] сидел [obl [case возле] окна]].]'
 references:
   - |
     

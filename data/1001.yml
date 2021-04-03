@@ -26,8 +26,7 @@ dependency_structure:
   - '[root [parataxis Ей-богу]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Ей-богу]'
-  - '[nsubj я] знал [obj её] [advmod наизусть].]'
+  - '[root [parataxis Ей-богу], [nsubj я] знал [obj её] [advmod наизусть].]'
 references:
   - |
     

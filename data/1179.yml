@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] притворяться'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] притворялся'
-  - '[ccomp [mark что] [advmod не] понимает] [obj меня].]'
+  - '[root [nsubj Он] притворялся, [ccomp [mark что] [advmod не] понимает] [obj меня].]'
 references:
   - |
     

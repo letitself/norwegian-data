@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [obl [case кроме] NP-Gen]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [obl [case Кроме] нас]'
-  - '[obl [case в] квартире] было [nsubj человек [nummod:gov десять]].]'
+  - '[root [obl [case Кроме] нас], [obl [case в] квартире] было [nsubj человек [nummod:gov десять]].]'
 references:
   - |
     

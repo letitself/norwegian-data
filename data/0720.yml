@@ -32,8 +32,7 @@ dependency_structure:
   - '[root Cl, [conj [cc но] [nsubj всё] [case без] зря]]'
   - '[root Cl, [conj [cc но] [nsubj всё] [case без] напрасно]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] [obl час] пытался [xcomp открыть [obj дверь]]'
-  - '[obl [cc но] [case без] толку].]'
+  - '[root [nsubj Он] [obl час] пытался [xcomp открыть [obj дверь]], [obl [cc но] [case без] толку].]'
 references:
   - |
     

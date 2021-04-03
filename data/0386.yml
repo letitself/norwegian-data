@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [advmod ровно] то, [dep что] Cl]'
   - '[root [obl [case в] точности] то, [dep что] Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Это] [advmod как [fixed раз]] то'
-  - '[obj чего] [nsubj я] [acl:relcl боюсь].]'
+  - '[root [nsubj Это] [advmod как [fixed раз]] то, [obj чего] [nsubj я] [acl:relcl боюсь].]'
 references:
   - |
     

@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [advcl [advmod когда] [advmod ни] VP-Imp]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [advcl [advmod Когда] [advmod ни] позвони [iobj ему]]'
-  - '[nsubj:pass он] [advmod всё] занят.]'
+  - '[root [advcl [advmod Когда] [advmod ни] позвони [iobj ему]], [nsubj:pass он] [advmod всё] занят.]'
 references:
   - |
     

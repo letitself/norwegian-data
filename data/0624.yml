@@ -34,8 +34,7 @@ dependency_structure:
   - '[root [advmod всë [fixed же]] Cl]'
   - '[root [advmod всë [fixed равно]] Cl]'
 dependency_structure_of_illustration:
-  - '[root [cop Была] [amod плохая] погода'
-  - '[conj [cc но] [nsubj мы] [advmod все-таки] пошли [xcomp гулять]].]'
+  - '[root [cop Была] [amod плохая] погода, [conj [cc но] [nsubj мы] [advmod все-таки] пошли [xcomp гулять]].]'
 references:
   - |
     

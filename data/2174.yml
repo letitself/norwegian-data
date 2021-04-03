@@ -47,8 +47,7 @@ dependency_structure:
   - '[root VP [obl [case с] [amod пустыми] руками]]'
   - '[root VP [obl [advmod не] [case с] [amod пустыми] руками]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] [advmod не] могу [xcomp приехать [obl [case к] бабушке] [obl [case с] [amod пустыми] руками'
-  - '[conj [case без] подарка]]].]'
+  - '[root [nsubj Я] [advmod не] могу [xcomp приехать [obl [case к] бабушке] [obl [case с] [amod пустыми] руками, [conj [case без] подарка]]].]'
 references:
   - |
     

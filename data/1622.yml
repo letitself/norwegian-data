@@ -28,8 +28,7 @@ dependency_structure:
   - '[root Cl'
   - '[advmod прежде [advcl [mark чем] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] [advmod долго] сомневался'
-  - '[advmod прежде [advcl [mark чем] написать [iobj ей]]].]'
+  - '[root [nsubj Я] [advmod долго] сомневался, [advmod прежде [advcl [mark чем] написать [iobj ей]]].]'
 references:
   - |
     

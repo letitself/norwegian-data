@@ -28,8 +28,7 @@ dependency_structure:
   - '[root [parataxis видит] [nsubj бог]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Видит] [nsubj бог]'
-  - '[nsubj я] [advmod не] желал [iobj ей] [obj зла].]'
+  - '[root [parataxis Видит] [nsubj бог], [nsubj я] [advmod не] желал [iobj ей] [obj зла].]'
 references:
   - |
     

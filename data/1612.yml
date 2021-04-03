@@ -25,8 +25,7 @@ usage_label: Obsolete
 dependency_structure:
   - '[root [advmod тотчас] VP-Pfv]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Дельфин] подплыл [obl [case к] мальчику]'
-  - '[conj [cc но] [advmod тотчас] повернулся [conj [cc и] поплыл [advmod обратно] [obl [case к] лодке]]].]'
+  - '[root [nsubj Дельфин] подплыл [obl [case к] мальчику], [conj [cc но] [advmod тотчас] повернулся [conj [cc и] поплыл [advmod обратно] [obl [case к] лодке]]].]'
 references:
   - |
     

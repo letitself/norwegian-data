@@ -27,8 +27,7 @@ dependency_structure:
   - '[root [parataxis видимо], Cl]'
   - '[root [parataxis очевидно], Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis Видно]'
-  - '[nsubj он] [advmod сегодня] [advmod уже] [advmod не] придёт.]'
+  - '[root [parataxis Видно], [nsubj он] [advmod сегодня] [advmod уже] [advmod не] придёт.]'
 references:
   - |
     

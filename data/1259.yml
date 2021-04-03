@@ -42,8 +42,7 @@ dependency_structure:
   - '[root Cl [obl [case из-за] того'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Я] обиделся [obl [case из-за] того'
-  - '[acl [mark что] [nsubj ты] [obj ничего] [iobj мне] [obl [case об] этом] [advmod не] сказала]].]'
+  - '[root [nsubj Я] обиделся [obl [case из-за] того, [acl [mark что] [nsubj ты] [obj ничего] [iobj мне] [obl [case об] этом] [advmod не] сказала]].]'
 references:
   - |
     

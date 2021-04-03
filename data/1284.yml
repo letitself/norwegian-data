@@ -42,8 +42,7 @@ dependency_structure:
   - '[root Cl'
   - '[advcl [mark поскольку] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Поскольку] [obj английский] [nsubj я] знаю [advmod [advmod недостаточно] хорошо]]'
-  - 'приходится [csubj писать [advmod по-русски]].]'
+  - '[root [advcl [mark Поскольку] [obj английский] [nsubj я] знаю [advmod [advmod недостаточно] хорошо]], приходится [csubj писать [advmod по-русски]].]'
 references:
   - |
     

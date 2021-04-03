@@ -26,8 +26,7 @@ dependency_structure:
   - '[dep [cc то [fixed ли]] XP'
   - '[conj [cc то [fixed ли]] XP]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Сегодня] идет [nsubj [cc то [fixed ли]] дождь'
-  - '[conj [cc то [fixed ли]] снег]].]'
+  - '[root [advmod Сегодня] идет [nsubj [cc то [fixed ли]] дождь, [conj [cc то [fixed ли]] снег]].]'
 references:
   - |
     

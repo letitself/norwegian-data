@@ -30,8 +30,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root XP – [expl это] [iobj PronPers-Dat] [cop Cop] [advmod не] XP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Сибирь] – [expl это] [iobj вам] [advmod не] Москва'
-  - '[conj здесь [nsubj [amod [advmod совсем] другие] условия]].]'
+  - '[root [nsubj Сибирь] – [expl это] [iobj вам] [advmod не] Москва, [conj здесь [nsubj [amod [advmod совсем] другие] условия]].]'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

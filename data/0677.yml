@@ -31,8 +31,7 @@ dependency_structure:
   - '[root [xcomp VP-Inf] [advmod не] VP-Pst, [conj [cc но] Cl]]'
   - '[root [xcomp VP-Inf] [advmod не] VP-Pst]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [nsubj я] [advmod и] [xcomp знать] [advmod не] знал'
-  - '[ccomp [mark что] [nsubj ты] [advmod тоже] [cop будешь] [case в] Берлине].]'
+  - '[root [cc А] [nsubj я] [advmod и] [xcomp знать] [advmod не] знал, [ccomp [mark что] [nsubj ты] [advmod тоже] [cop будешь] [case в] Берлине].]'
 references:
   - |
     

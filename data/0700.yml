@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [cc а] хотеть-Prs [aux бы] [nsubj PronPers-Nom] [xcomp посмотреть, [ccomp [advmod PronInt] Cl]]]'
   - '[root [cc а] хотеть-Prs [aux бы] [nsubj PronPers-Nom] [xcomp послушать, [ccomp [advmod PronInt] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [cc А] хотел [aux бы] [nsubj я] [xcomp знать'
-  - '[ccomp [advmod почему] [nsubj дети] [advmod ещё] [advmod не] [case в] постели]]!]'
+  - '[root [cc А] хотел [aux бы] [nsubj я] [xcomp знать, [ccomp [advmod почему] [nsubj дети] [advmod ещё] [advmod не] [case в] постели]]!]'
 references:
   - |
     

@@ -41,8 +41,7 @@ dependency_structure:
   - '[root стоить [iobj NP-Dat] [csubj VP-Pfv], [advcl [mark как] Cl]'
   - '[root стоить [csubj VP-Pfv], [advcl [mark как] Cl]'
 dependency_structure_of_illustration:
-  - '[root Стоило [iobj ей] [csubj отвернуться]'
-  - '[advcl [mark как] [nsubj он] сбежал].]'
+  - '[root Стоило [iobj ей] [csubj отвернуться], [advcl [mark как] [nsubj он] сбежал].]'
 references:
   - |
     

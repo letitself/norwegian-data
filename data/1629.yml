@@ -26,8 +26,7 @@ dependency_structure:
   - '[dep XP'
   - '[conj [obl [case после] чего] XP]]'
 dependency_structure_of_illustration:
-  - '[root Нужно [csubj довести] [obl [case до] кипения]'
-  - '[conj [obl [case после] чего] добавить [obj овощи]].]'
+  - '[root Нужно [csubj довести] [obl [case до] кипения], [conj [obl [case после] чего] добавить [obj овощи]].]'
 references:
   - |
     

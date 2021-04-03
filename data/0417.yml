@@ -28,9 +28,7 @@ dependency_structure:
   - '[root Cl, [conj [mark так] нет [advmod же], [parataxis Cl]]!]'
   - '[root Cl, [conj [mark так] нет, [parataxis Cl]]!]'
 dependency_structure_of_illustration:
-  - '[root [obj Всё] съел'
-  - '[conj [mark так] нет [advmod же]'
-  - '[parataxis [iobj ему] мало]]!]'
+  - '[root [obj Всё] съел, [conj [mark так] нет [advmod же], [parataxis [iobj ему] мало]]!]'
 references:
   - |
     

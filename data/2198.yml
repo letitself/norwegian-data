@@ -25,8 +25,7 @@ dependency_structure:
   - '[root [advcl [mark когда] VP]'
   - '[advmod тогда] [advmod и] VP]'
 dependency_structure_of_illustration:
-  - '[root [advcl [mark Когда] сделает [obj работу]]'
-  - '[advmod тогда] [advmod и] посмотрим!]'
+  - '[root [advcl [mark Когда] сделает [obj работу]], [advmod тогда] [advmod и] посмотрим!]'
 references:
   - |
     

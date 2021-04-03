@@ -29,8 +29,7 @@ dependency_structure:
   - '[root держу [obj пари, [acl [mark что] Cl]]]'
   - '[root держу [obj пари, [parataxis Cl]]]'
 dependency_structure_of_illustration:
-  - '[root Держу [obj пари'
-  - '[acl [mark что] [nsubj ты] [obl [case в] него] влюблена]].]'
+  - '[root Держу [obj пари, [acl [mark что] [nsubj ты] [obl [case в] него] влюблена]].]'
 references:
   - |
     

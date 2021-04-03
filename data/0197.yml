@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [nmod [advmod не] кто [det иной], [fixed как]] NP]'
   - '[root [nmod [advmod не] что [det иной], [fixed как]] NP]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Это] [cop был] [advmod не] кто [amod иной]'
-  - '[obl [case как] директор [nmod школы]].]'
+  - '[root [nsubj Это] [cop был] [advmod не] кто [amod иной], [obl [case как] директор [nmod школы]].]'
 references:
   - |
     

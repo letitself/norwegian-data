@@ -30,8 +30,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] дать [iobj PronPers-Dat] [xcomp понять, [ccomp [mark что] Cl]]]'
   - '[root [nsubj NP-Nom] дать [xcomp понять, [ccomp [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] дал [iobj мне] [xcomp понять'
-  - '[ccomp [mark что] справится [obl сам]]].]'
+  - '[root [nsubj Он] дал [iobj мне] [xcomp понять, [ccomp [mark что] справится [obl сам]]].]'
 references:
   - |
     

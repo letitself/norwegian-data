@@ -29,8 +29,7 @@ dependency_structure:
   - '[root Cl, [advcl [mark как] надо]]'
   - '[root Cl, [advcl [mark как] принято]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] собрали [obj посуду] [obl [case со] стола]'
-  - '[advcl [mark как] положено].]'
+  - '[root [nsubj Мы] собрали [obj посуду] [obl [case со] стола], [advcl [mark как] положено].]'
 references:
   - |
     

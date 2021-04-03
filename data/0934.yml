@@ -27,9 +27,7 @@ dependency_structure:
   - '[root [parataxis [advmod Грубо] говоря]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [parataxis [advmod Грубо] говоря]'
-  - '[nsubj это [det всё]] запихивается [obl [case в] [nummod:gov два] чемодана]'
-  - '[conj [cc и] [nsubj я] свободен] [obl [case как] птица].]'
+  - '[root [parataxis [advmod Грубо] говоря], [nsubj это [det всё]] запихивается [obl [case в] [nummod:gov два] чемодана], [conj [cc и] [nsubj я] свободен] [obl [case как] птица].]'
 references:
   - |
     

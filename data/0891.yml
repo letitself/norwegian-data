@@ -26,8 +26,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [advmod вот] [nsubj NP-Nom] [advmod и] VP]'
 dependency_structure_of_illustration:
-  - '[root [advmod Вот] [nsubj я] [advmod и] переживал'
-  - '[ccomp [mark что] [nsubj ты] [advmod не] звонишь].]'
+  - '[root [advmod Вот] [nsubj я] [advmod и] переживал, [ccomp [mark что] [nsubj ты] [advmod не] звонишь].]'
 references:
   - |
     

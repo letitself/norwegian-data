@@ -27,8 +27,7 @@ dependency_structure:
   - '[root Cl'
   - '[case окромя] [obl NP-Gen]]'
 dependency_structure_of_illustration:
-  - '[root [csubj Подавать] [iobj им] [cop было] нечего'
-  - '[case окромя] [det той [advmod же]] [obl картошки].]'
+  - '[root [csubj Подавать] [iobj им] [cop было] нечего, [case окромя] [det той [advmod же]] [obl картошки].]'
 references:
   - |
     

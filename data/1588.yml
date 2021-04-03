@@ -29,8 +29,7 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [obl [case на] NP-Acc] [advmod не] приходится]'
 dependency_structure_of_illustration:
-  - '[root [nsubj День] [obl [case на] день] [advmod не] приходится: [parataxis [cc то] [nsubj работы] много'
-  - '[conj [cc то] сижу [obl [case без] дела]]].]'
+  - '[root [nsubj День] [obl [case на] день] [advmod не] приходится: [parataxis [cc то] [nsubj работы] много, [conj [cc то] сижу [obl [case без] дела]]].]'
 references:
   - |
     

@@ -29,8 +29,7 @@ dependency_structure:
   - '[root [parataxis [mark насколько] [nsubj PronPers-1] понимать]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Ты] [advmod ещё] [advmod не] готов'
-  - '[parataxis [mark насколько] [nsubj я] понимаю].]'
+  - '[root [nsubj Ты] [advmod ещё] [advmod не] готов, [parataxis [mark насколько] [nsubj я] понимаю].]'
 references:
   - |
     

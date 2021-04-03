@@ -24,8 +24,7 @@ usage_label: ~
 dependency_structure:
   - '[dep [amod чистый] Noun]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Не] вру'
-  - '[parataxis [amod чистая] правда]!]'
+  - '[root [advmod Не] вру, [parataxis [amod чистая] правда]!]'
 references:
   - |
     

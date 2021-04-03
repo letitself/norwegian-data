@@ -29,8 +29,7 @@ dependency_structure:
   - '[root было [nsubj дело], [parataxis Cl]]'
   - '[root [cc да] было [nsubj дело], [parataxis Cl]]'
 dependency_structure_of_illustration:
-  - '[root Было [nsubj дело]'
-  - '[parataxis звал [obj её] [advmod однажды] [obl [case на] свидание]].]'
+  - '[root Было [nsubj дело], [parataxis звал [obj её] [advmod однажды] [obl [case на] свидание]].]'
 references:
   - |
     

@@ -28,9 +28,7 @@ dependency_structure:
   - '[root [parataxis [amod ясное] дело [cop Cop]]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - '[root [cc А] [nsubj он]'
-  - '[parataxis [amod ясное] дело]'
-  - '[advmod не] приедет.]'
+  - '[root [cc А] [nsubj он], [parataxis [amod ясное] дело], [advmod не] приедет.]'
 references:
   - |
     

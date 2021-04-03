@@ -44,8 +44,7 @@ dependency_structure:
   - '[root [nsubj NP-Nom] делать [obj вид'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Он] делает [obj вид'
-  - '[acl [mark что] слушает]].]'
+  - '[root [nsubj Он] делает [obj вид, [acl [mark что] слушает]].]'
 references:
   - |
     
