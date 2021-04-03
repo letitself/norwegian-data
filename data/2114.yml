@@ -3,9 +3,21 @@ record: 2114
 name: 'у NP-Gen Aux PtcpPass/Cop Pred'
 UD_name: 'у NP-Gen Aux PtcpPass/Cop Praedic'
 illustration: 'У меня всё сделано.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent выполнил определенное [действие]Action, результат которого актуален для настоящей ситуации.
 examples:
+  - |
+       На этот случай у [меня]Agent [был заготовлен]Action простой выход ― без лишних слов дать ему по уху.
+  - |
+       Так и к сегодняшнему свиданию у [него]Agent [была написана]Action новелла ― как ему казалось, великолепная.
+  - |
+       Мы должны были встретиться с ним в «Дорчестере» сегодня утром, а потом я должна была вылететь обратно в Испанию. Но не моим рейсом, на который у [меня]Agent [был взят]Action билет, а вечерним.
+  - |
+       У [нас]Agent [было создано]Action несколько специализированных физико-математических школ.
+  - |
+       Анна разрешила войти в столовую, когда у [неё]Agent всё было [готово]Property, и я ахнула!
 morphology:
   - NP
   - Gen
@@ -22,7 +34,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Agent
+  - Action
 intonation:
   - ~
 usage_label: Colloquial

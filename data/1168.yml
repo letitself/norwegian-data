@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на то, что некоторое [событие]Event или [действие]Action проходит по инициативе или при поддержке [участника]Participant.
+  - norwegian: |
+       Konstruksjonen angir at en gitt [hendelse]Event eller [handling]Action foregår på initiativ fra eller med støtte fra [deltakeren]Participant.
 examples:
   - |
        В Париже в конце этого года под эгидой [ООН]Participant пройдет [большая экологическая конференция]Event.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -9,7 +9,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
@@ -36,7 +36,6 @@ semantic_types:
   - type: Prohibition
     subtypes:
       - type: Continuative prohibitive
-  - type: Reaction to the previous discourse
 family:
   - |
     ""

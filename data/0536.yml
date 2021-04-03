@@ -32,7 +32,7 @@ usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] играть [obj [det никакой] роли]]'
   - '[root [nsubj NP-Nom] [advmod не] играть [obj [amod Adj-Gen] роли]]'
-  - ''
+  - 
   - '[root [nsubj NP-Nom] [advmod не] играть [obj роли]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Это] обстоятельство] [advmod не] сыграло [obl [case в] [det его] судьбе] [obj [det никакой] роли].]'

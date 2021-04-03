@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое качество, физическое или эмоциональное состояние]Cause участника стало причиной некоторого [действия]Action или [ситуации]Situation, произошедших с этим (или, реже, другим - пример 5) участником.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt egenskap, fysisk eller emosjonell tilstand]Cause hos deltakeren har forårsaket en gitt [handling]Action eller [situasjon]Situation som har berørt denne deltakeren (eller, sjeldnere, en annen deltaker – eksempel 5).
 examples:
   - |
        Если [Елена вышла замуж за Тихомирова]Action по [любви]Cause, то ей нечего стыдиться ни первого мужа, ни людей.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action или [ситуации]Situation.
+  - norwegian: |
+       Konstruksjonen betyr at én [handling eller situasjon]Cause er årsaken til en annen [handling]Action eller [situasjon]Situation.
 examples:
   - |
        Но именно в силу того, что [они умели работать в команде, хорошо и быстро писать на заданную тему]Cause, [большинство из них в результате ушло в проекты]Action.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix
-  - Sentential Complement Construction
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Subordinator
   - Matrix Predicate

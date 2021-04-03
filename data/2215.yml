@@ -32,6 +32,11 @@ references:
     
 semantic_types:
   - type: Salient property
+    subtypes:
+      - type: Temporal characteristics
+  - type: Timeline
+    subtypes:
+      - type: Future
 family:
   - |
     ""

@@ -3,12 +3,27 @@ record: 175
 name: 'ладно (бы) XP/Cl, но/так XP/Cl'
 UD_name: 'ладно (бы) XP/Cl, но/так XP/Cl'
 illustration: 'Ладно бы он, но ты-то что в нем нашла.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает разочарование говорящего в [некотором участнике]Participant или [объекте]Theme по сравнению с другим [участником или объектом, который, по мнению говорящего, способен совершить плохой поступок или обладает негативными качествами]Concession. Говорящий не ожидал, что участник или объект проявят себя таким образом. Слот XP заполняется именной группой, глагольной группой, личными местоимениями.
 examples:
+  - |
+       Ладно [Даша]Concession, но [ты]Participant же девочка хорошая, скромная!
+  - |
+       Ладно бы [она получила двойку]Concession, но [ты!]Participant
+  - |
+       Ладно бы [его оштрафовали за неправильную парковку]Concession, но [тебя]Participant!
+  - |
+       Ладно еще [старые пельмени]Concession, но [протухший йогурт]Theme съесть — это перебор!
+  - |
+       Ну ладно [не помогают проводить фестиваль]Concession, так [хотя бы не мешали]Situation.
 morphology:
   - XP
   - Cl
+  - NP
+  - VP
+  - PronPers
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -20,7 +35,9 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
+  - Concession
 intonation:
   - ~
 usage_label: Colloquial
@@ -35,9 +52,11 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Ладно [fixed бы]] он]'
   - '[cc но] [nsubj ты]-[advmod то] [obj что] [obl [case в] нем] нашла.]'
+comment: |
+    'См. близкую конструкцию 2146 добро бы Cl, но Cl/а то Cl/так нет, Cl! (Добро бы говорил сам, но он все время пытался втянуть и Андрея в разговор!)'
 references:
   - |
-    
+    см. Подкласс 7 "Условие, на котором говорящий готов пойти на уступку" (стр. 36) в Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, N. 5, 1999. с. 24-44. 
 semantic_types:
   - type: Comparison
     subtypes:
@@ -45,4 +64,4 @@ semantic_types:
   - type: Concession
 family:
   - |
-    ""
+    "Biclausal constructions of Contrast"

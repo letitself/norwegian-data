@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает [причину]Cause некоторого [действия]Action или [ситуации]Situation, обычно нежелательных.
   - english: |
        Заменить VP на Cl?
+  - norwegian: |
+       Konstruksjonen betegner [årsaken]Cause til en gitt [handling]Action eller [situasjon]Situation. Handlingen eller situasjonen er vanligvis uønsket.
 examples:
   - |
        Ввиду [неявки на это заседание представителей Следственного комитета]Cause [его перенесли на 16 августа]Situation.
@@ -25,8 +27,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

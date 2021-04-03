@@ -7,8 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мнение говорящего о том, как следует себя вести в ситуации, в которой оказался его [собеседник]Listener или другой [участник]Participant. Говорящий сообщает, как бы он [действовал]Action в этой ситуации, если бы оказался в положении этого человека (примеры 1, 2, 3, 4). Конструкция также используется, когда говорящий предполагает, в каком [эмоциональном состоянии]State он бы находился, если бы оказался в этой ситуации вместо его собеседника или другого участника (пример 5).
-  - english: |
-       Исправили формулу
+  - norwegian: |
+       Konstruksjonen uttrykker talerens mening om hvordan man bør opptre i den situasjonen [samtalepartneren]Listener eller en annen [deltaker]Participant er havnet i. Taleren meddeler hvordan taleren selv ville [handlet]Action i denne situasjonen, i den andre personens sted (eksempel 1, 2, 3 og 4). Konstruksjonen anvendes også når taleren anslår hvilken [emosjonelle tilstand]State taleren ville vært i, dersom taleren hadde havnet i denne situasjonen i stedet for samtalepartneren eller den andre deltakeren (eksempel 5).
 examples:
   - |
        Так что на [твоем]Listener месте я [бы не рассчитывал на быстрый результат]Action.
@@ -27,8 +27,7 @@ morphology:
   - Cl
   - NP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

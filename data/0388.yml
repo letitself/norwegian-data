@@ -46,6 +46,8 @@ semantic_types:
     subtypes:
       - type: Negative
   - type: Salient property
+    subtypes:
+      - type: Personal interests
 family:
   - |
     "Capacity/Preferences, Capacity/Intellect"

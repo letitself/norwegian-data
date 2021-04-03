@@ -24,8 +24,7 @@ morphology:
   - Cop
   - VP
 syntactic_type_of_construction:
-  - Matrix
-  - Sentential Complement Construction
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -44,7 +43,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Я]'
   - '[parataxis конечно]'
-  - 'дурак'
+  - дурак
   - '[ccomp [mark что] послушался [obj тебя]].]'
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'

@@ -6,9 +6,11 @@ illustration: 'Вот уже три месяца как она уехала.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы акцентировать внимание на [времени]Time, которое прошло с [некоторого важного события]Event в жизни участников. Как правило, речь идет о длинном промежутке времени, в течение которого продолжается наступившая ситуация. Эффект действия или ситуации как правило актуален в момент речи. Говорящий считает, что это больше, чем ожидается.
+       Конструкция используется для того, чтобы акцентировать внимание на [времени]Time, которое прошло с [некоторого важного события]Event в жизни участников. Как правило, речь идет о длинном промежутке времени, в течение которого продолжается наступившая ситуация. Эффект действия или ситуации как правило актуален в момент речи. Говорящий считает, что это больше, чем ожидается. Taleren mener det ikke finnes fornuftige grunner til å utføre denne handlingen.
   - english: |
-       Тенденция употребляеться с круглыми датами. Вот уже неделя как , неделю как я брожу без дела. Номинатив, Аккузатив, Генитив. Связка как оправило н вастоящем времени. Подчинение, связка. Вот уже неделю как
+       Тенденция употребляеться с круглыми датами. Вот уже неделя как , неделю как я брожу без дела. Номинатив, Аккузатив, Генитив. Связка как оправило н вастоящем времени. Подчинение, связка. Вот уже неделю как The speaker thinks that the this time period is longer than expected. Taleren mener at situasjonen har vart lengre enn det var forventet.
+  - norwegian: |
+       Konstruksjonen brukes for å vektlegge [tiden]Time som er gått siden [en viktig hendelse]Event i deltakernes liv fant sted. Som regel dreier det seg om at den inntrufne situasjonen har vart lenge. Effekten av handlingen eller situasjonen er som regel til stede i taleøyeblikket.
 examples:
   - |
        А я [два]Quantity [года]Time как [университет окончила]Action.
@@ -27,8 +29,8 @@ morphology:
   - Cop
   - Cl
 syntactic_type_of_construction:
-  - Copula Construction, Head
-  - Modifier Construction
+  - Copula Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
   - Subordinator

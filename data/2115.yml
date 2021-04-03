@@ -3,16 +3,27 @@ record: 2115
 name: 'VP от лица NP-Gen'
 UD_name: 'VP от лица NP-Gen'
 illustration: 'Депутат выступил от лица всей партии.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent [говорит или действует]Action вместо [группы людей или организации]Counteragent, по их поручению или с их согласия (примеры 1, 2, 3). Также конструкция часто обозначает  [персонажа]Counteragent художественного текста, который [ведет повествование]Action вместо самого [автора]Agent (примеры 4, 5).
 examples:
+  - |
+       Cтремление [говорить]Action от лица [всего поколения]Participant прослеживается во всех ее книгах.
+  - |
+       От лица [Русской Православной Церкви]Participant считаю своим долгом [обратиться ко всем педагогам]Action со словами признательности и благодарности.
+  - |
+       От лица [коллектива]Participant руководство ЗАО «Сентябрь» поздравляет своих коллег.
+  - |
+       [Личность Пушкина]Agent не Алеко и не Иван Петрович Белкин, от лица [которого]Counteragent [он]Agent любил [рассказывать свои повести]Action.
+  - |
+       Рассказ [ведётся]Action от лица [тринадцатилетнего паренька]Counteragent, влюбившегося во взрослую женщину, местную красавицу Малену.
 morphology:
   - VP
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -21,7 +32,9 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Agent
+  - Action
+  - Counteragent
 intonation:
   - ~
 usage_label: ~
@@ -38,4 +51,4 @@ semantic_types:
       - type: Subject substitution
 family:
   - |
-    ""
+    "Subject substitution"

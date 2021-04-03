@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник, обладающий силой, властью или авторитетом]Causer, заставляет другого [участника]Causee совершить некоторое [действие]Action. [Участник]Causee не стал бы выполнять это действие, если бы действовал самостоятельно.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker med styrke, makt eller autoritet]Causer tvinger en annen [deltaker]Cause til å utføre en gitt [handling]Action. [Deltakeren]Cause ville ikke ha gått i gang med denne handlingen av seg selv.
 examples:
   - |
        Под давлением [революционной власти]Causer [он]Causee [подал прошение об увольнении]Action, которое 6 марта было удовлетворено.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

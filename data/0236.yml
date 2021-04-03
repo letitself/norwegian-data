@@ -7,8 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий отрицает [характеристику]Property другого [участника]Participant или [объекта]Theme и говорит, что он вовсе не такой, каким все его себе представляют. Отрицаться может как положительное, так и отрицательное качество.
-  - english: |
-       Echo construction?
 examples:
   - |
        Жорка, конечно, хороший малый, но никакой [он]Participant не [писатель]Property, а просто литературный щелкунчик, создатель заводских эпопей.
@@ -28,6 +26,7 @@ morphology:
   - Adj
 syntactic_type_of_construction:
   - Copula Construction
+  - Discourse "Echo" Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

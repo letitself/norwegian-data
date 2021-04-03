@@ -9,8 +9,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
-  - Modifier Construction
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -34,7 +33,7 @@ semantic_types:
   - type: Cause
   - type: Reaction to the previous discourse
     subtypes:
-      - type: Insight?
+      - type: Insight
 family:
   - |
     ""

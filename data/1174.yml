@@ -10,8 +10,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -36,6 +35,8 @@ semantic_types:
     subtypes:
       - type: Similarity
   - type: Salient property
+    subtypes:
+      - type: Belonging to a class
 family:
   - |
     ""

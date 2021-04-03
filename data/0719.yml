@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Participant совершает некоторое [действие]Action, не спросив на это разрешения у других участников, которых это действие затрагивает. Как правило, говорящий отрицательно оценивает это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant utfører en gitt [handling]Action uten å innhente tillatelse til dette fra de andre deltakerne handlingen berører. Som regel vurderer taleren handlingen negativt.
 examples:
   - |
        Я не привык к тому, что [кто-то]Participant [пользуется моей электронной почтой]Action без спроса.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

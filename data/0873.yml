@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция указывает на максимальную степень интенсивности признака или действия. Конструкция обозначает, что [участник ситуации]Speaker [издает некоторые звуки]Action максимально громко, не сдерживаясь.
+  - norwegian: |
+       Konstruksjonen angir et kjennetegns eller en handlings høyeste intensitetsnivå. Konstruksjonen betyr at [en deltaker i situasjonen]Speaker [utstøter visse lyder]Action med maksimal lydstyrke, uten å holde igjen.
 examples:
   - |
        [Петька]Speaker еще издали увидел его и [закричал]Action во все горло.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

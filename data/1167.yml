@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что один [участник ситуации]Agent оберегает [другого участника]Beneficiary, а также может способствовать тому, чтобы [действие]Action, выполняемое [другим участником]Beneficiary и дальше протекало привычным образом (примеры 4, 5). Такая ситуация, как правило длится долгое время и не имеет естественного предела. Вместо [участника ситуации]Agent могут быть другие действующие силы (закон, организация и др.).
+  - norwegian: |
+       Konstruksjonen betyr at én [deltaker i situasjonen]Agent beskytter [en annen deltaker]Beneficiary og dessuten kan medvirke til at [handlingen]Action som utføres av [den andre deltakeren]Beneficiary, også i fortsettelsen kan forløpe som før (eksempel 4 og 5). En situasjon av dette slaget varer som regel lenge og har ikke noe naturlig endepunkt. Plassen til [deltakeren i situasjonen]Agent kan inntas av andre aktører (en lov, en organisasjon mm.).
 examples:
   - |
        Они не трогают ребенка, потому что пока [он]Beneficiary под защитой [закона]Agent.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

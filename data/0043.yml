@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция выражает положительное отношение [участника]Participant к некоторому потенциальному [действию]Action или [ситуации]Situation, которые как правило будут осуществляться другими участниками. Подразумевается, что есть ряд альтернатив развертывания событий, и участник ясно высказывает одобрение и поддержку одного из возможных вариантов. Может использоваться как слово "чтобы", так и его усеченный вариант "чтоб".
+  - norwegian: |
+       Konstruksjonen uttrykker [en deltakers]Participant positive holdning til en gitt potensiell [handling]Action eller [situasjon]Situation som vanligvis vil bli iverksatt av andre deltakere. Det er underforstått at det finnes en rekke alternativer for begivenhetenes videre gang, og deltakeren gir sin klare tilslutning og støtte til et av dem. Både ordet "чтобы" og dets avkortede versjon "чтоб" kan brukes.
 examples:
   - |
        Председатель собрания просит голосовать: [кто]Participant за то, чтобы [предоставить квартиру Войновичу]Action?
@@ -26,8 +28,7 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix
-  - Sentential Complement Construction
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:

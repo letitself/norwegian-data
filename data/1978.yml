@@ -7,10 +7,6 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает [действие]Action, которое участник выполняет с помощью некоторого [объекта]Instrument. Обычно это гаджет (примеры 1, 2), устройство, прибор (примеры 3, 4) или музыкальный инструмент (пример 5).
-  - english: |
-       планшете, телефоне, калькуляторе, счетах
-  - norwegian: |
-       Он лежал прикованный к кровати и все время что-то печатал на ноутбуке.
 examples:
   - |
        Шведские биологи [смоделировали]Action на [компьютере]Instrument историю эволюции глаза.
@@ -27,8 +23,7 @@ morphology:
   - NP
   - Loc
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

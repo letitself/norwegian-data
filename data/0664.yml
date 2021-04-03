@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что участник справился или может справиться с некоторой [задачей]Action очень быстро и легко. Как если бы это было так же быстро и легко, как досчитать до двух.
+  - norwegian: |
+       Konstruksjonen betyr at deltakeren har klart eller kan klare en gitt [oppgave]Action veldig raskt og lett. Det er som om dette går like raskt og lett som å telle til to.
 examples:
   - |
        Она в два счёта [научила]Action Мишу мыть посуду.
@@ -22,8 +24,7 @@ morphology:
   - VP
   - Pfv
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

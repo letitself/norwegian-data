@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция вводит [тему]Topic, по которой говорящий высказывает своё [мнение]Evaluation или приводит [фактическую информацию]ContentOfSpeech. Эта тема уже упоминалась ранее.
+  - norwegian: |
+       Konstruksjonen introduserer et [tema]Topic som taleren uttrykker sin [mening]Evaluation om eller kommer med [faktisk informasjon]ContentOfSpeech om. Temaet har vært omtalt tidligere.
 examples:
   - |
        A насчёт [моих «великих мыслей»]Topic, [кажется, лесть дружеская]Evaluation.
@@ -23,7 +25,7 @@ morphology:
   - Gen
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Modifier

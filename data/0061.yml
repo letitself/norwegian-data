@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает, что [участник]Agent неожиданно для говорящего совершил [действие]Action, которое резко изменило ход событий. Действие происходит быстро и за один этап, часто спонтанно или неожиданно. Оба глагола стоят в одной грамматической форме и не согласуются с подлежащим по лицу и числу.
   - english: |
        Нужно отразить в формуле, что императив слот всегда будет в единственном числе, а не императив на -те, и в совершенном виде. То есть NP-Nom возьми и VP-Pfv.Imp.Sg
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent, uventet for taleren, har utført en gitt [handling]Action som brått endret begivenhetenes gang. Handlingen foregår raskt og i én tørn, ofte spontant eller uventet. De to verbene står i samme bøyningsform og kongruerer ikke i person og tall med subjektet.
 examples:
   - |
        Петров в шутку предложил ей пойти на свидание. А [она]Agent ― возьми и [согласись.]Action

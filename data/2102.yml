@@ -9,7 +9,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
@@ -25,7 +25,7 @@ intonation:
 usage_label: ~
 dependency_structure:
   - '[root [parataxis правда]'
-  - 'Cl'
+  - Cl
   - '[conj [cc но] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] человек'

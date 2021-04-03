@@ -11,8 +11,7 @@ morphology:
   - Pst
   - Cl
 syntactic_type_of_construction:
-  - Matrix
-  - Sentential Complement Construction
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -42,7 +41,7 @@ semantic_types:
       - type: Dissatisfaction
   - type: Reaction to the previous discourse
     subtypes:
-      - type: Insight?
+      - type: Insight
 family:
   - |
     ""

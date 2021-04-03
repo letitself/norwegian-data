@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий резко негативно оценивает [объект, участника, время, место, образ действия или объяснение]Theme. Они настолько неизвестны или непонятны говорящему, как если бы только черт знал о них. Конструкцию можно считать ругательной, часто она передает особо эмоциональное, раздраженное отношение говорящего к ситуации в целом (примеры 1, 2, 4, 5).
+  - norwegian: |
+       Konstruksjonen betegner talerens sterkt negative vurdering av [et objekt, en deltaker, et tidspunkt, et sted, en handlemåte eller en forklaring]Theme. Det er som om bare djevelen kjenner til dem, så ukjente eller uforståelige er de for taleren. Konstruksjonen kan oppfattes som utskjellende og gjengir ofte talerens utpreget emosjonelle, irriterte holdning til situasjonen i sin helhet (eksempel 1, 2, 4 og 5).
 examples:
   - |
        ― Саша, Саша... Какая у тебя фамилия? Не помню... Чёрт знает [что]Theme происходит с памятью.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - PronInt
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

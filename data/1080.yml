@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [объекты]Theme или [участники]Participant имеют иностранное происхождение (примеры 1, 2). Также может обозначать, что исходной точкой их [перемещения]Action является другое государство (примеры 3, 4, 5). "Рубеж" в данном случае обозначает государственную границу. Слот XP может заполняться именной или глагольной группой.
+  - norwegian: |
+       Konstruksjonen betyr at [objektene]Theme eller [deltakerne]Participant er av utenlandsk opprinnelse (eksempel 1 og 2). Den kan også bety at utgangspunktet for deres [forflytning]Action er en annen stat (eksempel 3, 4 og 5). "Рубеж" betyr i dette tilfellet statsgrense. Sloten XP kan fylles av en nominalfrase eller en verbalfrase.
 examples:
   - |
        Ежегодные визиты [туристов]Participant из-за рубежа на Рождество Христово стали уже традицией.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - XP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

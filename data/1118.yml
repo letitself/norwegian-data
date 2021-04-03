@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает тенденцию, в соответствии с которой [действие]Action или [ситуация]Situation происходит в большинстве случаев, но не всегда.
+  - norwegian: |
+       Konstruksjonen betegner en tendens som [en handling]Action eller [en situasjon]Situation samsvarer med i de fleste tilfeller, men ikke alltid.
 examples:
   - |
        И в этот день, как правило, [мужчины решают проявить свои кулинарные способности]Event.
@@ -21,7 +23,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
@@ -50,6 +52,8 @@ semantic_types:
     subtypes:
       - type: Habitual
   - type: Salient property
+    subtypes:
+      - type: Repeatedly the same
 family:
   - |
     ""

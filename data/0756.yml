@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [говорящий]Speaker говорит о [чём-либо]Theme кратко и по сути, без лишних деталей. Как если бы можно было использовать только два слова.
+  - norwegian: |
+       Konstruksjonen betyr at [taleren]Speaker snakker om [noe]Theme på en kortfattet og saklig måte, uten overflødige detaljer. Det er som om det går an å bruke bare to ord.
 examples:
   - |
        [Ученик]Speaker напомнил [содержание «Войны и мира»]Theme в двух словах.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

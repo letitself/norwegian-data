@@ -1,18 +1,29 @@
 ---
 record: 1953
-name: 'XP в сопровождении NP-Gen'
-UD_name: 'XP в сопровождении NP-Gen'
+name: 'VP/NP в сопровождении NP-Gen'
+UD_name: 'VP/NP в сопровождении NP-Gen'
 illustration: 'Директор вошёл в сопровождении секретаря.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent [перемещается из одного места в другое]Action, и другой [участник]Associated, его спутник, перемещается вместе с ним. Конструкция также может обозначать категорию [участников]Participant, участие которых в действии зависит от наличия ответственного за них спутника (примеры 4, 5).
 examples:
+  - |
+       Вскоре [она]Agent [вернулась]Action в сопровождении [официанта]Counteragent, который нес на тарелочках колбасу и сыр.
+  - |
+       [Ульяна]Agent тем временем [осматривала]Action яхту в сопровождении [инженера-механика]Counteragent.
+  - |
+       Мы сидели за столиком, когда в зал [вошла]Action сногсшибательная [дама]Agent в сопровождении очень интеллигентного [мужчины]Assosiated.
+  - |
+       В отделении санаторно-курортную терапию получают как дети без родителей, так и [дети]Participant в сопровождении [взрослых]Associated.
+  - |
+       В загородных лагерях побывали 5358 московских школьников, а на базах отдыха — 5663 человека (это [дети]Participant в сопровождении [взрослых]Associated).
 morphology:
-  - XP
+  - VP
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -21,7 +32,9 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Assosiated
 intonation:
   - ~
 usage_label: ~
@@ -36,4 +49,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    ""
+    "Collective action"

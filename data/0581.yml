@@ -11,16 +11,17 @@ definitions:
        This construction expresses the juxtaposition of two [events]Action that take place simultaneously. The construction can also express concession.
 examples:
   - |
-       Все эти истории [Царева]Agent [слушала]Action в то время, как [сидела за работой в цехе…]Action
+       Выбирая покупки, женщина получает удовольствие, в то время как мужчина испытывает сильный стресс.
   - |
        И никто здесь не позволит, чтобы [преступники]Agent [наживались]Action, в то время, как [трудящиеся]Agent едва [сводят концы с концами…]Action
   - |
        Сейчас [я]Agent [говорю одно]Action, в то время, как, [думаю, может быть, о совсем другом.]Action
+  - |
+       Наблюдается тенденция увеличения производства овощей, плодов и ягод на данных участках, в то время как объёмы выращиваемого картофеля сокращаются.
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Matrix
-  - Sentential Complement Construction
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -39,6 +40,8 @@ dependency_structure:
   - '[root Cl [obl [cc в] [det то] время [acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] пришла [obl [cc в] [det то] время [acl [mark как] [nsubj он] уходил]].]'
+comment: |
+    'Не путать с конструкцией 828 Cl, в то время как Cl (Способность человека любить ограничена, в то время как потребность в любви – бесконечна.), которая указывает контраст, не связанный со временем. Конструкция 581 подчеркивает одновременность ситуаций во времени. Конструкция 828 делает акцент на контрасте, не связанном со временем.'
 references:
   - |
     

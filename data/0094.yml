@@ -26,8 +26,7 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix
-  - Infinitival Complement Construction
+  - Matrix and Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Argument
   - Matrix Predicate
@@ -56,6 +55,8 @@ semantic_types:
     subtypes:
       - type: Positive
   - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
   - type: Temporary characteristics
     subtypes:
       - type: Emotional state

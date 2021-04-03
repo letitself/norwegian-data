@@ -36,7 +36,7 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom] [advmod ещё] [iobj PronPers-Dat] [obj спасибо] сказать, [ccomp [mark что] Cl]]'
   - '[root [nsubj PronPers-Nom] [advmod ещё] [obj спасибо] сказать [obl [case за] [det эту] NP-Acc]]'
   - '[root [nsubj PronPers-Nom] [advmod ещё] [obj спасибо] сказать, [ccomp [mark что] Cl]]'
-  - ''
+  - 
 dependency_structure_of_illustration:
   - '[root [parataxis Подожди]'
   - '[nsubj ты] [advmod ещё] [iobj мне] [obj спасибо] скажешь [obl [case за] [det эту] дачу]!]'

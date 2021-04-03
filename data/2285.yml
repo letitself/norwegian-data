@@ -30,7 +30,7 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom] [advmod как] знать, [conj [cc а] Cl]]'
   - '[root [nsubj PronPers-Nom] [advmod как] хотеть, [conj [cc но] Cl]]'
   - '[root [nsubj PronPers-Nom] [advmod как] знать, [conj [cc но] Cl]]'
-  - ''
+  - 
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod как] хочешь'
   - '[conj [cc а] [nsubj я] [obl [case с] ним] работать] [advmod не] [aux буду]!]'

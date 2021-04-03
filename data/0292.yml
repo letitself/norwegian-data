@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает, что у [участника]Experiencer нет времени, чтобы совершить некоторое нужное [действие]Action или заняться [важным делом или вопросом]Theme. Подразумевается, что участник планирует или хочет совершить это действие уже длительное время, но пока ему не удалось осуществить свои планы, потому что он был занят другими делами. Как если бы руки могли ходить, как ноги, но еще не успели "дойти" до важных дел. С помощью этой конструкции участник частично снимает с себя ответственность за свое промедление, перекладывая ее на объективные причины, не зависящие от него, прежде всего недостаток времени. В слове "руки" ударение стоит на первом слоге, это форма множественного числа.
   - norwegian: |
-       Konstruksjonen betyr at deltageren ikke har tid eller kapasitet til å [gjøre noe]Action, f.eks. крышу починить ‘reparere taket’. Nærliggende konstruksjoner i norsk er ‘rekker ikke’, ‘har ikke tid til å’ og ‘tiden strekker ikke til’.
+       Konstruksjonen betyr at [deltakeren]Experiencer ikke har tid til å utføre en gitt, nødvendig [handling]Action eller ta seg av [et viktig gjøremål eller spørsmål]Theme. Det er underforstått at deltakeren alt i lang tid har planlagt eller villet utføre handlingen, men hittil ikke har lyktes i å iverksette sine planer fordi vedkommende har vært opptatt med andre ting. Det er som om armene kunne gå, akkurat som beina, men enda ikke har rukket å "gå borttil" de viktige gjøremålene. Ved hjelp av denne konstruksjonen frasier taleren seg deler av ansvaret for sin sendrektighet og legger det over på objektive årsaker utenfor talerens innflytelse, først og fremst på tidsmangelen. I ordet "руки" ligger trykket på første stavelse, det er ordets flertallsform.
 examples:
   - |
        У [меня]Experiencer всё руки не доходят [купить новый диван]Action.
@@ -26,8 +26,7 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix
-  - Infinitival Complement Construction
+  - Matrix and Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:

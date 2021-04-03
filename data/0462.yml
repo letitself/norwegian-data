@@ -10,8 +10,7 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -36,7 +35,7 @@ semantic_types:
       - type: Similarity
   - type: Salient property
     subtypes:
-      - type: Visual property
+      - type: Sensory property
 family:
   - |
     ""

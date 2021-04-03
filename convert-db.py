@@ -30,10 +30,10 @@ def normalize_usage_label(s):
     return s
 
 
-def print_as_yaml_list(string_spreadsheet, add_quotes=False):
+def print_as_yaml_list(string_spreadsheet):
     s = ""
     for line in split_string(string_spreadsheet):
-        if add_quotes:
+        if ":" in line or "[" in line or "]" in line:
             s += f"  - '{line}'\n"
         else:
             s += f"  - {line}\n"
@@ -85,12 +85,11 @@ def write_record(row, record):
         f.write(f"usage_label: {normalize_usage_label(row['Usage label'])}\n")
 
         f.write("dependency_structure:\n")
-        f.write(print_as_yaml_list(row["Dependency Structure"], add_quotes=True))
+        f.write(print_as_yaml_list(row["Dependency Structure"]))
         f.write("dependency_structure_of_illustration:\n")
         f.write(
             print_as_yaml_list(
-                row["Dependency Structure of Illustration"].replace("\\n", " "),
-                add_quotes=True,
+                row["Dependency Structure of Illustration"].replace("\\n", " ")
             )
         )
 

@@ -3,16 +3,27 @@ record: 1951
 name: 'VP с собой NP-Acc'
 UD_name: 'VP с собой NP-Acc'
 illustration: 'Паша взял с собой диктофон.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor обладает [предметом]Theme и, перемещаясь, намеренно держит его в зоне доступа. Обычно речь идет о том, что участник берет предмет в поездку, на прогулку и др. Также конструкция часто обозначает, что участник разрешает другому [участнику]Participant присоединиться к нему (пример 5). При наличии отрицания NP-Nom может меняться на NP-Gen.
 examples:
+  - |
+       Он [взял]Action с собой в поездку [две тысячи рублей]Theme
+  - |
+       Единственное, что я ей сказал ― чтобы она [захватила]Action с собой [подушку]Theme, потому что у нас в доме подушек мало.
+  - |
+       Это была та самая фотография, [которую]Theme она [возила]Action с собой на гастроли.
+  - |
+       Он привез с собой на Урал охотничье ружьё.
+  - |
+       Николай Васильевич не очень охотно [брал]Action с собой [Соню]Participant.
 morphology:
   - VP
   - NP
   - Acc
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

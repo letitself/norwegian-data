@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что для всех [объектов]Theme или [участников]Participant ситуации характерно некоторое [свойство]Parameter.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [egenskap]Paramenter er karakteristisk for alle [objektene]Theme eller [deltakerne]Participant i situasjonen.
 examples:
   - |
        На дисплее высветились [12 непринятых вызовов]Theme, и все [с одного и того же номера.]Parameter
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -3,16 +3,27 @@ record: 2112
 name: 'VP вместо NP-Gen'
 UD_name: 'VP вместо NP-Gen'
 illustration: 'Маша пришла вместо сестры.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent  осуществляет [действие]Action, которое, согласно ожиданиям, должен осуществлять [другой участник]Counteragent.
 examples:
+  - |
+       На трон вместо [королевы]Counteragent [прыгнул]Action [обаятельный лягушонок]Agent.
+  - |
+       ― Почему вы не отвечаете? ― не отставал Матвей. Вместо [Глинки]Counteragent [ответил]Action [Юра]Agent.
+  - |
+       Девочка капризничала и требовала, чтобы вместо [бабушки]Counteragent её [баюкал]Action [Димка]Agent.
+  - |
+       Но [подготовить диссертацию]Action вместо [Дмитриева]Counteragent [Лена]Agent, к сожалению, не могла.
+  - |
+       Вместо [романов]Counteragent [меня провожают ко сну]Action [мемуары, дневники, письма, стенографические отчёты]Agent.
 morphology:
   - VP
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -20,7 +31,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Agent
+  - Action
+  - Counteragent
 intonation:
   - ~
 usage_label: ~
@@ -37,4 +50,4 @@ semantic_types:
       - type: Subject substitution
 family:
   - |
-    ""
+    "Subject substitution"

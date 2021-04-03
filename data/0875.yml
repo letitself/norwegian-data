@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый участник]Speaker [сообщает]Action [некоторую информацию]Content вслух, публично, не скрывая.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Speaker [meddeler]Action [en gitt informasjon]Content hørbart, for offentligheten, uten å skjule noe.
 examples:
   - |
        [Объявлять]Action во всеуслышание [о нашем открытии]Content не следует.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

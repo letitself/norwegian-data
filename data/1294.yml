@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает причину [действия]Action или [ситуации]Situation. Причиной является [отсутствие некоторого качества]Cause или [действие, которое не имеет места]Cause. Отсутствие качества или действия провоцирует данную [ситуацию]Situation. Конструкция характерна прежде всего для книжных письменных текстов, особенно по юриспруденции, для официальных отчетов.
+  - norwegian: |
+       Konstruksjonen uttrykker årsaken til [en handling]Action eller [en situasjon]Situation. Årsaken er [fraværet av en gitt egenskap]Cause eller [en handling som ikke finner sted]Cause. Fraværet av egenskapen eller handlingen fremkaller den aktuelle [situasjonen]Situation. Konstruksjonen er karakteristisk først og fremst for boklige, skrevne tekster, især juridiske, for offisielle redegjørelser.
 examples:
   - |
        [Дело было прекращено]Situation за [недоказанностью преступления]Cause.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

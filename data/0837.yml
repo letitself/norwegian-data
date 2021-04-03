@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme, несмотря на проведенные над ним [манипуляции]Action, сохранил исходное состояние, не получив никаких повреждений.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme, til tross for den [behandlingen]Action det er blitt utsatt for, har bevart sin opprinnelige tilstand, uskadet.
 examples:
   - |
        Приехал разносчик к вечеру ― а [книги]Theme [лежат]Action, почти все в целости и сохранности.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

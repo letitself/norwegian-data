@@ -1,14 +1,14 @@
 ---
 record: 465
-name: 'NP-Acc звать NP-Ins/NP-Nom'
+name: 'NP-Acc звать-Inf NP-Ins/NP-Nom'
 UD_name: 'NP-Acc звать NP-Ins/NP-Nom'
 illustration: 'Мальчика звать Юрой.'
 cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Property.
-  - english: |
-       нужно в формуле поставить инфинитив или будут стали звать сюда включаем? Impersonal construction for communicating the [name]Theme of a [participant]Participant. It is also possible to use the verb form "зовут" in this construction.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Participant har et konkret [navn]Property.
 examples:
   - |
        Кот вдруг сказал: ― [Меня]Participant звать  [Мельхиор]Property. А вас?

@@ -15,14 +15,13 @@ examples:
   - |
        Дождь идет уже третий день, [он]Agent [льет]Action почти без перерыва.
   - |
-       Он старался скрывать своё мнение, но если приходилось, ― [он]Speaker [высказывал]Action [его]ContentOfSpeech без прикрас.
+       [Галерея]Agent, как все музеи, [работает]Action без перерыва.
   - |
        По выходным [телефон]Agent [звонил]Action без перерыва.
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

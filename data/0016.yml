@@ -9,8 +9,6 @@ definitions:
        Конструкция обозначает, что говорящий считает [действие]Action [участника]Participant ситуации неправильным, предосудительным, стыдным, нехорошим. Слот VP-Inf обычно заполняется глаголом несовершенного вида (примеры 1-4), но встречаются и глаголы совершенного вида (пример 5).
   - english: |
        This construction signifies that the speaker evaluates a certain [action]Action of the [participant]Participant as reprehensible, shameful, bad or in other ways wrong. The slot VP-Inf is usually filled with an imperfective verb (examples 1-4), but perfective verbs can also appear there (example 5).
-  - norwegian: |
-       Konstruksjonen betyr at [en gitt handling]Action er kritikkverdig, skammelig eller på andre måter galt.
 examples:
   - |
        Грех [упускать возможную выгоду.]Action
@@ -29,8 +27,8 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Copula Construction, Matrix
-  - Infinitival Complement Construction
+  - Copula Construction
+  - Matrix and Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:

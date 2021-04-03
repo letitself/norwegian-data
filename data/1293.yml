@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие или качество участника]Cause стало причиной неблагоприятной для него [ситуации]Situation. Эта ситуация служит наказанием для участника.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltakers handling eller egenskap]Cause har forårsaket en [situasjon]Situation som er ugunstig for deltakeren. Situasjonen fungerer som en straff for deltakeren.
 examples:
   - |
        [Отец в наказание за [двойку по математике]Cause не пустил сына на баскетбол]Situation.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Acc
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что участник совершает [действие]Action, которое может служить доказательством, внешним проявлением (то есть знáком) его [позиции или отношения к чему-либо]Motivation.
+  - norwegian: |
+       Konstruksjonen betyr at deltakeren utfører [en handling]Action som kan tjene som bevis eller ytre manifestasjon av (dvs. tegn på) vedkommendes [standpunkt eller holdning til noe]Motivation.
 examples:
   - |
        [Все за столом дружно зашумели]Action в знак [согласия]Motivation .
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

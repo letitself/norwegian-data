@@ -1,30 +1,34 @@
 ---
 record: 645
-name: 'VP NP-Ins'
-UD_name: 'VP NP-Ins'
+name: 'VP (весь/один-Sg.Ins) NP-Ins'
+UD_name: 'VP (весь/один-Sing.Ins) NP-Ins'
 illustration: 'Мы готовили обед всей семьей.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что участник выполняет некоторое [действие]Action в составе [группы участников]Set.
+       Конструкция обозначает, что [группа участников]Set выполняет совместное [действие]Action. Конструкция подчеркивает сплоченность этой группы.
   - english: |
-       Нужно подумать насчет формулы, насколько адекватная запись, чего не хватает? Кажется, важный элемент конструкции слово ВСЕ, ВСЕЙ, ВСЕМ или нашей или другой элемент Determiner. Без этого выражение не получается. Готовили семьей? Проверьте, есть ли в корпусе такое? This construction means that the participant performed the [activity]Activity as part of a [group]Participant. Мы нашей группой решили пойти в кино ?
+       This construction means that the participant performed the [activity]Activity as part of a [group]Participant. Мы нашей группой решили пойти в кино ?
   - norwegian: |
        Konstruksjonen uttrykker at deltageren utførte [handlingen]Activity som del av en [gruppe]Participant.
 examples:
   - |
-       По воскресеньям мы [едем кататься на лыжах]Action [всей семьей.]Participant
+       В конце августа снова [собираемся]Action [семьёй]Set туда, в пансионат "Русь".
   - |
-       Самое главное – это [работать]Action [одной командой.]Participant
+       Самое главное – это [работать]Action одной [командой.]Set
   - |
-       Они [собирали урожай ]Action [всем селом.]Participant
+       Они [собирали урожай ]Action всем [селом.]Set
+  - |
+       Помню, мы [группой]Set [выходим из училища]Action, Вавилин движется навстречу.
+  - |
+       Один раз мы всем [классом]Set [пошли в цирк]Action.
 morphology:
   - VP
   - NP
+  - Sg
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Not Applicable
 syntactic_structure_of_anchor:
@@ -32,7 +36,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - ~
+  - Set
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -50,4 +55,4 @@ semantic_types:
   - type: Manner
 family:
   - |
-    ""
+    "Collective action"

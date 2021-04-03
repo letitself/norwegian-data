@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что участник [оценивает ситуацию или приходит к определенным выводам]Evaluation, учитывая при этом [некоторый фактор]Context (примеры 1-3). Как если бы этот фактор был источником света, который позволяет лучше увидеть ситуацию. Часто этот фактор также является причиной другого причиной другого [действия]Action или [ситуации]Situation (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker [vurderer en situasjon eller gjør seg opp en mening]Evaluation og samtidig tar i betraktning [en gitt faktor]Content (eksempel 1–3). Det er som om denne faktoren er en lyskilde som gjør det mulig å se situasjonen bedre. Ofte forårsaker faktoren også en annen [handling]Action eller [situasjon]Situation (eksempel 4 og 5).
 examples:
   - |
        И в свете [происходящего в мире]Circumstance, в свете [событий, происходящих с английской монархией]Context, [многое становится понятно]Evaluation.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Cl
-  - Modifier Construction
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

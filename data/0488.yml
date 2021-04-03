@@ -16,8 +16,7 @@ morphology:
   - VP
   - Inf
 syntactic_type_of_construction:
-  - Matrix
-  - Infinitival Complement Construction
+  - Matrix and Infinitival Complement Construction
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
@@ -33,7 +32,7 @@ dependency_structure:
   - '[root [iobj NP-Dat] удалось [csubj VP-Inf]]'
   - '[root [iobj NP-Dat] удавалось [csubj VP-Inf]]'
   - '[root [iobj NP-Dat] удается [csubj VP-Inf]]'
-  - ''
+  - 
   - '[root [iobj NP-Dat] удастся [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мише] удалось [csubj покурить].]'

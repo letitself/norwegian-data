@@ -58,6 +58,8 @@ semantic_types:
     subtypes:
       - type: Positive
   - type: Reaction to the previous discourse
+    subtypes:
+      - type: Accentuation
 family:
   - |
     "Assessment of an entity"

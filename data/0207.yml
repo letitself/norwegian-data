@@ -3,14 +3,27 @@ record: 207
 name: 'не то чтобы XP/Cl, а/но XP/Cl'
 UD_name: 'не то чтобы XP/Cl, а/но XP/Cl'
 illustration: 'Он не то чтобы расстроился, но огорчился.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       слот заполняется оценочными прил и нареч
+       Конструкция выражает сравнение и подчеркивает противопоставление двух формулировок. По мнению говорящего, [формулировка]Evaluation во второй части предложения (после «а/но») более точно соответствует ситуации, чем [формулировка]Evaluation в первой части предложения (после «не то чтобы»). Говорящий словно поправляет сам себя в процессе речи. Слот XP может быть выражен предикативом (примеры 1, 2), именной группой (примеры 3, 4), глагольной группой (пример 5).
 examples:
+  - |
+       Князю стало, наконец, не то чтобы [жалко]Evaluation, а как бы [совестно]Evaluation за свои слова.
+  - |
+       До Ниццы не то чтобы [далеко]Evaluation, но и [не рукой подать]Evaluation.
+  - |
+       Это не то чтобы [нормальное явление]Evaluation, но, в общем, [и такое бывает]Evaluation.
+  - |
+       Мне не то чтобы [диван]Evaluation, а и [раскладушку]Evaluation не на что купить.
+  - |
+       Он не то чтобы [пить]Evaluation, а [с людьми любит посидеть поговорить]Evaluation.
 morphology:
   - XP
   - Cl
+  - NP
+  - VP
+  - Pred
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -23,7 +36,7 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - Assertive
 usage_label: ~
@@ -35,6 +48,8 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [cc не [fixed то] [fixed чтобы]] расстроился'
   - '[conj [cc но] огорчился].]'
+comment: |
+    'См. синонимичные конструкции 203 не столь(ко) XP, сколь(ко) XP (Травмы оказались не столько тяжёлыми, сколько сложными.), 1197 не совсем XP, (а) скорее XP (Не совсем друг, скорее, приятель.), 1198 не прямо XP, а/но XP (Стоял не прямо перед зеркалом, а чуть в стороне.)'
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
@@ -50,4 +65,4 @@ semantic_types:
       - type: Both Negative and Positive
 family:
   - |
-    "Little"
+    "Little, Biclausal constructions of Contrast"

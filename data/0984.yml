@@ -7,8 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme (обычно, волосы или одежда) имеет длину, которая ограничена снизу [уровнем]Limit одной из частей тела человека (плечи, локти, пояс, колени, пятки и др.).
-  - english: |
-       См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма). Ограничение сверху передается конструкцией с предлогом "по" в 1516 NP Cop/VP по NP-Acc (Воды было по колено).
 examples:
   - |
        ― Была у нас фельдшер, женщина, лет тридцати с небольшим. Симпатичная женщина, фигуристая, с [косой]Theme до [пояса]Limit.
@@ -24,8 +22,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -43,7 +40,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[dep Юбка [nmod [case до] пят]]'
 comment: |
-    'См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма).'
+    'См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма). Ограничение сверху передается конструкцией с предлогом "по" в 1516 NP Cop/VP по NP-Acc (Воды было по колено).'
 references:
   - |
     

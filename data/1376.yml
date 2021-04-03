@@ -17,14 +17,13 @@ examples:
   - |
        Археологические раскопки [возобновились в 2000 году]Action под руководством [Николая Овчарова]Agent.
   - |
-       Эта студия под руководством [художника, поэта и музыканта Владимира Васильевича Лубенко]Agent [открылась]Action пять лет назад.
+       А какие победы [одерживали]Action они под руководством [великого полководца]Agent!
 morphology:
   - VP
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

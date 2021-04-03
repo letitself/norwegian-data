@@ -35,9 +35,11 @@ references:
 semantic_types:
   - type: Result
   - type: Salient property
+    subtypes:
+      - type: Experience
   - type: Temporary characteristics
     subtypes:
-      - type: Sircumstances
+      - type: Circumstances
 family:
   - |
     ""

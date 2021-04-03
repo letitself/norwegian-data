@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторая [ситуация]Situation будет иметь место в следующие несколько дней, однако точное время наступления этой ситуации неизвестно.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation vil finne sted en av de nærmeste dagene, skjønt det eksakte tidspunktet for når situasjonen vil inntreffe, er ukjent.
 examples:
   - |
        [Я вам еще позвоню]Situation на днях.
@@ -22,8 +24,7 @@ morphology:
   - VP
   - Fut
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

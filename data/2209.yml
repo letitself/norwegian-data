@@ -7,8 +7,6 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает [характеристику]Evaluation человека, которая связана с отдельной [частью тела]Location, но при этом переносится на человека в целом, на его личностные качества.
-  - norwegian: |
-       несдержанный, бойкий, язык, лёгкий, тяжелый, счастливый на руку 1 вхождение в корпусе!, нечистый, рука, скорый, нога 2 вхождения
 examples:
   - |
        Со студенческих лет ее знаю, двадцать лет, даже больше, и вся она была такая ироничная, такая, ты знаешь, [острая]Evaluation на [язык]Location.
@@ -26,8 +24,7 @@ morphology:
   - Acc
   - Sg
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -49,6 +46,8 @@ references:
     
 semantic_types:
   - type: Salient property
+    subtypes:
+      - type: Personality
 family:
   - |
     ""

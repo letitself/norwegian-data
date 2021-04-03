@@ -7,8 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent ситуации совершил [действие]Action незаметно для других, пока их внимание было занято другими делами или событиями. Часто речь идет о том, что участник незаметно уходит, исчезает (примеры 1, 2) или ему удается украсть или транспортировать объект (примеры 3, 4). Ударение: шумóк.
-  - english: |
-       This construction signifies that a [participant]Participant has committed [an action]Action, while those around were occupied with other things. The participant remained unnoticed. Stress: шумóк.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent i situasjonen har utført [en handling]Action uten at de andre merket det, mens deres oppmerksomhet var rettet mot andre gjøremål eller hendelser. Ofte dreier det seg om at deltakeren ubemerket går eller blir borte (eksempel 1 og 2) eller lykkes i å stjele eller flytte et objekt (eksempel 3 og 4). Trykk: шумóк.
 examples:
   - |
        Хозяйка пришла, с весёлой улыбкой наливает гостям шипучее. Хозяин под шумок куда-то [пропал]Action.
@@ -23,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

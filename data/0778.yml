@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция имеет прямое и переносное значение. В прямом значении (примеры 1, 2, 3), конструкция обозначает, что [участник ситуации]Participant выполняя некоторое [действие]Action, обнимает [другого участника]Associated или некоторый [объект]Theme. В переносном значении (примеры 4, 5), конструкция обозначает, что [участник]Participant, не обнимая [объект]Theme буквально, на протяжении некоторого времени находится очень близко к этому объекту, в непрерывном контакте с ним или непрерывно пользуется им.
+  - norwegian: |
+       Konstruksjonen har direkte og overført betydning. I direkte betydning (eksempel 1, 2 og 3) betyr konstruksjonen at [en deltaker i situasjonen]Participant under utførelsen av en gitt [handling]Action omfavner [en annen deltaker]Associated eller et gitt [objekt]Theme. I overført betydning (eksempel 4 og 5) betyr konstruksjonen at [deltakeren]Participant, uten å omfavne [objeket]Theme i bostavelig forstand, en viss tid befinner seg svært nær eller i kontinuerlig kontakt med dette objektet, eller at vedkommende uavlatelig benytter seg av det.
 examples:
   - |
        [Они]Participant ругаются, как извозчики, а потом [засыпают]Action в обнимку с [плюшевыми собачками и сердечками]Theme.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция указывает на максимальную степень интенсивности признака или действия и имеет прямое и переносное значение. В прямом значении, конструкция обозначает, что тело участника при выполнении им самим или другим участником некоторого, как правило, статичного [действия]Action целиком находится в прямом положении, а не согнутым или сложенным (примеры 1-4). В переносном значении, конструкция обозначает, что некоторая проблема стала очевидной, приобрела важность (пример 5).
+  - norwegian: |
+       Konstruksjonen angir et kjennetegns eller en handlings høyeste intensitetsnivå og har direkte og overført betydning. I direkte betydning betyr konstruksjonen at deltakerens kropp, når deltakeren selv eller en annen deltaker utfører en gitt, som regel statisk [handling]Action, er fullstendig utstrakt, ikke bøyd eller sammenfoldet (eksempel 1–4). I overført betydning betyr konstruksjonen at et gitt problem er blitt åpenbart og viktig (eksempel 5).
 examples:
   - |
        Она [вытянулась]Action во весь рост на траве и закрыла глаза.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

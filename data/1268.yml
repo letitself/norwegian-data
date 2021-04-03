@@ -6,8 +6,18 @@ illustration: 'У неё с редактором любовь.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает [отношения]Situation, в которые вовлечен некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated.
+       Конструкция обозначает [эмоциональные отношения]Situation, в которые вовлечен некоторый [участник]Experiencer вместе с другим [участником]Assosiated.
 examples:
+  - |
+       У [меня]Experiencer с [Микой]Associated были [трения]Situation, я не любил, чтобы мной руководили ни с того ни с сего.
+  - |
+       Не скажу, конечно, что у [меня]Experiencer с [ней]Associated [роман]Situation, но что-то похожее.
+  - |
+       Я знала, что у [отца]Experiencer с [матерью]Associated [разлад]Situation, очень это переживала, они не подозревали ― я очень скрытная.
+  - |
+       У [Оли]Experiencer с [Владиславом]Associated были [просто дружеские отношения]Situation.
+  - |
+       ― А почему я должен вам помогать? ― Потому что у нас с тобой дружба, ― заявил Куцапов
 morphology:
   - NP
   - Gen
@@ -25,8 +35,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Action
-  - Participant
+  - Situation
+  - Experiencer
   - Assosiated
 intonation:
   - ~
@@ -45,4 +55,4 @@ semantic_types:
       - type: Possession
 family:
   - |
-    "Collective agent"
+    "Collective participant"

@@ -3,9 +3,21 @@ record: 2113
 name: 'NP-Nom Cop/оставаться за NP-Acc'
 UD_name: 'NP-Nom Cop/оставаться за NP-Acc'
 illustration: 'Петя был за старшего.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent получает [роль другого участника]Status и выполняет его обязанности.
 examples:
+  - |
+       Все по очереди залезали на шкаф, а [Люба]Agent — она была за [принца]Status — их оттуда снимала.
+  - |
+       [Ты]Agent остаешься за [хозяйку]Status, я тебя введу в курс дела.
+  - |
+       [Я]Agent буду Ксюше за [няньку]]Status.
+  - |
+       В таких случаях [ты]Agent обычно остаешься за [сторожа]]Status.
+  - |
+       Какой-то [старичок]Agent был у них за [главного]Status, он всегда говорил первым.
 morphology:
   - NP
   - Nom
@@ -24,7 +36,8 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - ~
+  - Agent
+  - Status
 intonation:
   - ~
 usage_label: ~
@@ -42,4 +55,4 @@ semantic_types:
       - type: Subject substitution
 family:
   - |
-    ""
+    "Subject substitution"

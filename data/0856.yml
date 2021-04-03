@@ -42,7 +42,6 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
-  - type: Salient property
   - type: Temporary characteristics
     subtypes:
       - type: Behavior

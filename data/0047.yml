@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает, что [участник ситуации]Experiencer внутри себя, втайне [знает, надеется или верит]Sense, что произошло или произойдёт какое-то [событие]Event или [ситуация]Situation. Имеются в виду самые сокровенные мысли и переживания, которые участник ситуации иногда сам не осознаёт и не показывает окружающим людям. Как если бы душа человека была контейнером и чувства находились глубоко внутри него.
   - norwegian: |
-       Konstruksjonen betyr at [subjektet]Agent innerst inne [håper, tror, eller er klar over]Sense [noe]Action. Disse tankene og følelsene kan være ubevisste. En nærliggende konstruksjon i norsk er “innerst inne”, e.g. в глубине души именно на это я и рассчитывал ‘innerst inne var det akkurat det jeg regnet med’. NOT FINAL
+       Konstruksjonen betyr at [en deltaker i situasjonen]Experiencer innerst inne, i det skjulte [vet, håper eller tror]Sense at det har skjedd eller kommer til å skje en eller annen [hendelse]Event eller [situasjon]Situation. Det er snakk om de aller mest inderlige tanker og opplevelser som deltakeren i situasjonen av og til ikke selv er seg bevisst og ikke viser til folk omkring. Det er som om personens sjel er en beholder og følelsene befinner seg dypt inni den.
 examples:
   - |
        [Николаев]Agent в глубине души [надеялся]Sense, что [рано или поздно встретится с Катей]Action.
@@ -24,8 +24,7 @@ morphology:
   - VP
   - Cl
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -6,26 +6,25 @@ illustration: 'Нам с Машей это не нравится.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated. Слот PronPers-Pl обозначает всех участников действия ("мы с коллегой" значит "я и коллега", "нас с Мезиным" значит "меня и Мезина", "они с мужем" значит "жена и муж").
+       Конструкция обозначает, что некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated выполняют совместное [действие]Action, вместе испытывают некоторое [состояние]State или вместе и в одной и той же роли участвуют в некоторой ситуации. Слот PronPers-Pl обозначает всех участников действия ("мы с коллегой" значит "я и коллега", "они с мужем" значит "жена и муж", "нас с Мезиным" значит "меня и Мезина").
 examples:
   - |
-       [Зашли]Action [мы]Participant с [коллегой]Assosiated летним вечером выпить пива.
+       [Зашли]Action [мы]Agent с [коллегой]Assosiated летним вечером выпить пива.
   - |
-       [Учились]Action [мы]Participant с [Костей]Assosiated вместе в колледже.
+       Маша копила много лет на свое жилье после того, как [они]Agent с [мужем]Associated [разошлись]Action.
   - |
-       Однажды на Новый год [мы]Participant с [друзьями]Assosiated [поехали]Action кататься на лыжах в Финляндию.
+       Успехов [вам]Addressee с [Санькой]Associated, и здоровья!
   - |
-       Через некоторое время она [посадила]Action [нас]Participant с [Мезиным]Assosiated за одну парту.
+       За пределами льда я стараюсь жить другой жизнью, не зацикливаться на спорте. И разница в несколько лет нисколько не мешает [нам]Experiencer с [Сергеем]Associated находить общий язык.
   - |
-       Маша копила много лет на свое жилье после того, как [они]Participant с [мужем]Associated [разошлись]Action, воспитав детей, продали дом, разделив деньги между детьми.
+       Через некоторое время она [посадила]Action [нас]Patient с [Мезиным]Assosiated за одну парту.
 morphology:
   - PronPers
   - Pl
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -33,9 +32,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Action
   - Participant
   - Assosiated
+  - Action
+  - State
 intonation:
   - ~
 usage_label: Colloquial
@@ -50,4 +50,4 @@ semantic_types:
   - type: Comitative
 family:
   - |
-    "Collective agent"
+    "Collective participant"

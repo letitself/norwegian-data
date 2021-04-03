@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Participant принадлежит или раньше принадлежал к [некоторой социальной группе]Set.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Participant tilhører eller tidligere har tilhørt [en gitt samfunnsgruppe]Set.
 examples:
   - |
        Есть у меня [друзья]Participant из среды [военных]Set.
@@ -22,8 +24,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

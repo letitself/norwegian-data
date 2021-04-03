@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий не понимает, почему происходит некоторая [ситуация]Situation, и испытывает удивление, недоумение и раздражение. Слова "с какой радости" означают 'почему'. Конструкция может также обозначать отказ говорящего выполнять действие (пример 3). Конструкция звучит грубо и невежливо по отношению к малознакомым людям.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke forstår hvorfor en gitt [situasjon]Situation pågår og kjenner seg forundret, forbløffet og irritert. Ordene "c какого перепуга" betyr 'hvorfor'. Konstruksjonen kan også betegne talerens vegring mot å utføre handlingen (eksempel 3). Konstruksjonen klinger grovt og uhøflig overfor personer en kjenner dårlig.
 examples:
   - |
        Если нет электричества, то с какой радости [электрозамок будет работать]Situation?
@@ -21,8 +23,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
-  - Modifier Construction
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -43,6 +44,8 @@ dependency_structure:
   - '[root [obl [case с] [det какой [det такой]] радости] Cl?]'
 dependency_structure_of_illustration:
   - '[root [obl [case С] [det какой] радости] [nsubj ты] [obj меня] провожаешь?]'
+comment: |
+    'См. близкие конструкции 1263 и 293.'
 references:
   - |
     

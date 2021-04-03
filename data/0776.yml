@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция имеет прямое и переносное значение. В прямом значении (примеры 1, 2), конструкция обозначает, что [участник]Participant синхронизирует фазу шага при ходьбе с [другими участниками]Standard. В переносном значении (примеры 3, 4, 5), конструкция обозначает, что [участник]Participant синхронизирует темп развития своей [деятельности]Activity с темпом развития какого-то [явления]Standard.
+  - norwegian: |
+       Konstruksjonen har direkte og overført betydning. I direkte betydning (eksempel 1 og 2) betyr konstruksjonen at [en deltaker]Participant som går, synkroniserer skrittfrekvensen sin med [andre deltakere]Standard. I overført betydning (eksempel 3, 4 og 5) betyr konstruksjonen at [en deltaker]Participant synkroniserer tempoet i utviklingen av sin [virksomhet]Activity med utviklingstempoet til en eller annen [foreteelse]Standard.
 examples:
   - |
        [Я]Participant шёл с нею рядом, стараясь [идти]Activity в ногу, и, к удивлению моему, совершенно не чувствовал себя стеснённым.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Ins
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

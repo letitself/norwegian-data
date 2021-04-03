@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторая [ситуация]Situation будет иметь место в относительно скором будущем. Говорящий ранее ожидал, что [ситуация]Situation наступит в отдалённом будущем, а теперь момент её наступления приблизился.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation vil finne sted i relativt nær fremtid. Taleren har tidligere forventet at [situasjonen]Situation ville inntreffe i fjern fremtid, men nå nærmer tidspunktet seg.
 examples:
   - |
        Эх, [богатство]Situation не за горами!
@@ -21,8 +23,7 @@ examples:
 morphology:
   - NP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

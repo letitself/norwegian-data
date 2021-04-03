@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция имеет значение 'я считаю, что Cl'.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens mening i en gitt sak og innleder vanligvis [et vurderende utsagn]Evaluation. Konstruksjonen har betydningen 'jeg synes at Cl'.
 examples:
   - |
        Давно собирался посмотреть этот фильм и хотел было уже покупать dvd, а тут узнал, что его как раз по ТВ показывают. И хорошо, что всё-таки не потратил денег — как по мне, [фильм того совершенно не стоил]Evaluation.
@@ -21,7 +23,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical

@@ -7,8 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мнение [говорящего]Speaker (или, реже, другого [участника]Agent) о том, как следует себя вести в ситуации, в которой оказался его [собеседник]Listener или другой [участник]Participant. Говорящий сообщает, как бы он [действовал]Action в этой ситуации, если бы оказался в положении этого человека. Конструкция также используется, когда говорящий предполагает, в каком [эмоциональном состоянии]State он бы находился, если бы оказался в этой ситуации вместо его собеседника или другого участника. Конструкция обычно стоит в начале предложения, но может быть и в его конце (пример 2).
-  - english: |
-       было будь NP-Nom на PronPoss месте, Cl бы
+  - norwegian: |
+       Konstruksjonen uttrykker [talerens]Speaker (eller, sjeldnere, en annen [deltakers]Agent) mening om hvordan man bør opptre i en situasjon som [samtalepartneren]Listener eller en annen [deltaker]Participant er havnet i. Taleren meddeler hvordan taleren selv ville [handlet]Action i denne situasjonen, i den andre personens sted. Konstruksjonen anvendes også når taleren anslår hvilken [emosjonelle tilstand]State taleren ville vært i, dersom taleren hadde havnet i denne situasjonen i stedet for samtalepartneren eller den andre deltakeren. Konstruksjonen står vanligvis i begynnelsen av setningen, men kan også  stå til slutt (eksempel 2).
 examples:
   - |
        – Я бы [никогда больше с тобой не стала разговаривать]Action, будь [я]Speaker на [ее]Participant месте.
@@ -27,7 +27,7 @@ morphology:
   - Loc
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical

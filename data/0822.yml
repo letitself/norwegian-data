@@ -3,16 +3,25 @@ record: 822
 name: 'VP в совершенстве'
 UD_name: 'VP в совершенстве'
 illustration: 'Он владел китайским в совершенстве.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something'
+       Конструкция обозначает наивысшую положительную оценку [уровню знаний или умений]State человека, его способности выполнять некоторое [действие]Action.
 examples:
+  - |
+       Китайские мастера в совершенстве [владели техникой резьбы по дереву]State, о чем свидетельствуют печатные листки, выполненные еще в XII веке.
+  - |
+       Она с отцом вместе занималась хинди, сама к концу студенческих лет почти в совершенстве [выучила французский]Action.
+  - |
+       ― Он лишился правой руки. ― Как же он играл? ― Он научился в совершенстве [играть левой]Action. ― Разве такое возможно?
+  - |
+       Искусством разговаривать взглядами она явно [владела]State в совершенстве.
+  - |
+       Тут и "двоеженство", и насильственная связь с нелюбимым и нелюбящим человеком, и несчастная судьба детей, лишённых имени. Каждую из этих коллизий Коллинз [разработал]Action в совершенстве и довёл до крайней драматической остроты.
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -21,7 +30,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: ~

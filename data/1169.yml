@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на [значимую характеристику]Property того, как протекала некоторая [ситуация]Situation. Эта характеристика могла оказывать существенное влияние на ход [этой ситуации]Situation.
+  - norwegian: |
+       Konstruksjonen viser til [et betydningsfullt trekk]Property ved hvordan en gitt [situasjon]Situation har forløpt. Dette trekket var i stand til å øve vesentlig innflytelse på gangen i [situasjonen]Situation.
 examples:
   - |
        [Все, что делается]Situation под знаком [любви]Property, не может быть порочным, стыдным.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

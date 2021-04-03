@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на [цель]Purpose, ради которой [участник]Agent совершает некоторое [действие]Action или происходит некоторая [ситуация]Situation. Конструкция может начинаться только с описания совершаемого действия и не может начинаться с описания цели.
+  - norwegian: |
+       Konstruksjonen angir [målet]Purpose med at [deltakeren]Agent utfører en gitt [handling]Action eller at en [situasjon]Situation pågår. Konstruksjonen kan kun starte med å beskrive handlingen som blir utført og kan ikke starte med å beskrive målet.
 examples:
   - |
        И письмо-то [написано]Action с той целью, чтобы [Вам как можно легче было уклониться]Purpose.

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что участник не стремится активно действовать, чтобы предотвратить некоторое нежелательное [действие]Action.
+  - norwegian: |
+       Konstruksjonen betyr at deltakeren ikke bestreber seg på å foreta seg noe aktivt for å hindre en gitt uønsket [handling]Action.
 examples:
   - |
        Похоже, он решил [сдаться]Action без боя.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

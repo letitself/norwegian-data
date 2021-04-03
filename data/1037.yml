@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent выполняет некоторое [действие]Action, о котором [другой участник]Maleficiary не знает. При этом совершаемое [действие]Action затрагивает интересы [другого участника]Maleficiary и ему правильнее было бы знать об этом. Говорящий не одобряет это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utfører en gitt [handling]Action som [en annen deltaker]Maleficiary ikke vet om. Samtidig berører den aktuelle [handlingen]Action [den andre deltakerens]Maleficiary interesser, og det ville vært mer korrekt om vedkommende hadde visst om det. Taleren bifaller ikke handlingen.
 examples:
   - |
        При Пете [Маша]Agent делала вид, что она печальна, а за спиной у [него]Maleficiary [веселилась и все время смеялась]Action.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

@@ -3,16 +3,27 @@ record: 812
 name: 'Cl в ряду NP-Gen'
 UD_name: 'Cl в ряду NP-Gen'
 illustration: 'Они числили его в ряду своих национальных героев.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы подчеркнуть принадлежность [элемента]Element к некоторому [множеству]Set. Как если бы все элементы множества поставили в одну линию (ряд), включая этот элемент.
 examples:
+  - |
+       [Губанов]Element стоит в ряду [таких русских поэтов]Set, как Кольцов, Некрасов, Клюев, Есенин, Павел Васильев, Клычков.
+  - |
+       В ряду великих [писателей]Set XIX века [Герцен]Element занял достойное место.
+  - |
+       [Имя Н. И. Вавилова]Element в ряду великих [биологов].
+  - |
+       Советская спелеология сравнительно молода, однако её [достижения]Element находятся в ряду самых [выдающихся]Set в мире.
+  - |
+       [Вышка]Element стоит немного особняком в ряду [технических университетов]Set.
 morphology:
   - Cl
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Cl
-  - Modifier Construction
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -35,6 +46,8 @@ references:
 semantic_types:
   - type: Inclusive
   - type: Salient property
+    subtypes:
+      - type: Belonging to a class
   - type: Subset
 family:
   - |

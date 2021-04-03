@@ -3,9 +3,25 @@ record: 441
 name: 'NP, в том числе (и) NP'
 UD_name: 'NP, в том числе (и) NP'
 illustration: 'Живые существа, в том числе и растения, пьют воду.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы упомянуть важный по мнению говорящего [элемент]Element, который входит в некоторое [множество]Set.
+  - english: |
+       This construction emphasises that [something]Theme, e.g. растения ‘plants’, is part of a [category in question]Theme, e.g. живые существа ‘living beings’. When mentioning the category, it is important for the speaker to make this point.
+  - norwegian: |
+       Konstruksjonen påpeker at [noe]Theme, f.eks. растения ‘plantevekster’, er del av [en gitt kategori]Theme, f.eks. живые существа ‘levende vesener’. Det er viktig for taleren å understreke dette poenget. På norsk vil man ofte uttrykke det samme vha. “deriblant” eller “inkludert”, f.eks. “alt som lever, heriblant/inkludert planter…”.
 examples:
+  - |
+       [Любая страна]Set, в том числе и [Мексика]Element, заинтересована в международных связях.
+  - |
+       Значение американской экономики очень важно для [всех]Set, в том числе и [для России]Element.
+  - |
+       К нам тянутся [люди]Set, в том числе и [молодёжь]Element.
+  - |
+       Он подходит для [любой кожи]Set, в том числе и для очень [чувствительной]Element!
+  - |
+       [Саратовские газеты]Set, в том числе и ["Богатей"]Element, много писали о скандальной сделке с залогом недвижимости "Хард-банку"
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -20,7 +36,8 @@ part_of_speech_of_anchor:
   - Noun
   - Particle
 semantic_roles:
-  - ~
+  - Element
+  - Set
 intonation:
   - ~
 usage_label: ~

@@ -44,7 +44,7 @@ dependency_structure:
   - '[root [nsubj NumCrd-Nom [nmod [case минус] NumCrd-Nom]] – равно [xcomp NumCrd-Nom]]'
   - '[root [nsubj NumCrd-Nom [nmod [case минус] NumCrd-Nom]] – равно [xcomp NumCrd-Dat]]'
   - '[root [nsubj NumCrd-Nom [nmod [case минус] NumCrd-Nom]] VP [xcomp NumCrd]]'
-  - ''
+  - 
 dependency_structure_of_illustration:
   - '[root [nsubj Пять [nmod [case минус] три]] [cop будет] два.]'
 references:

@@ -6,7 +6,9 @@ illustration: 'Он в нерешительности остановился п�
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что [участник]Participant, временно выполняет пассивное [действие]Action вместо более активного. При этом [участник]Participant сомневается, выполнять ли активное действие (пример х), ждёт (пример ц) или выбирает между несколькими активными действиями (пример ы).
+       Конструкция обозначает, что [участник]Participant временно выполняет пассивное [действие]Action вместо более активного. При этом [участник]Participant сомневается, выполнять ли активное действие (пример 1), ждёт (пример 3) или выбирает между несколькими активными действиями (пример 4).
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant midlertidig utfører en passiv [handling]Action i stedet for en mer aktiv. Samtidig forholder [deltakeren]Participant seg nølende til å utføre den aktive handlingen (eksempel 1), avventende (eksempel 3) eller er i ferd med å velge en av flere aktive handlinger (eksempel 4).
 examples:
   - |
        Какое-то время [Степан Иванович]Participant [стоял]Action в нерешительности. Потом медленно направился к моему плащу.
@@ -21,8 +23,7 @@ examples:
 morphology:
   - VP
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

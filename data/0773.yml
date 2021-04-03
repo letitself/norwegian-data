@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [действие]Action (случившееся или потенциальное) противоречит [ограничениям]Limit, которые накладывает известный участникам ситуации источник. Ограничения на это [действие]Action могут быть полными или частичными, формальными (правила, законы, технические нормы, инструкции) или неформальными (традиции, социальные нормы, устои, договорённости).
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Action (som har foregått eller kan komme til å inntreffe) strider mot [noen begrensninger]Limit som er innført av en kilde som deltakerne i situasjonen er kjent med. Begrensningene av [handlingen]Action kan være fullstendige eller avgrensede, formelle (regler, lover, tekniske standarder, retningslinjer) eller uformelle (tradisjoner, sosiale normer, vaner, overenskomster).
 examples:
   - |
        Любопытно, что алтарь главного католического собора в нарушение [канонов]Limit [обращён на запад]Action.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

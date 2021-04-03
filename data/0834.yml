@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторая [ситуация]Situation или выполнение [действия]Action влечет за собой вред или ущерб названному [объекту]Theme.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation eller utførelsen av [en handling]Action medfører skade eller tap på et navngitt [objekt]Theme.
 examples:
   - |
        Но никогда здесь [не примут решения о минимизации затрат]Action в ущерб [качеству обслуживания]Theme, установленному внутренними правилами клиники.
@@ -23,8 +25,7 @@ morphology:
   - NP
   - Dat
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

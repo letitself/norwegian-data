@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мнение [говорящего]Speaker или [другого участника]Participant по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция имеет значение 'я считаю, что Cl'. Конструкция может стоять как в начале предложения (пример 1), так и вклиниваться в середину высказывания (примеры 2, 3, 4, 5).
+  - norwegian: |
+       Konstruksjonen uttrykker [talerens]Speaker eller en [annen deltakers]Participant mening i en gitt sak og innleder vanligvis [et vurderende utsagn]Evaluation. Konstruksjonen har betydningen 'jeg synes at Cl'. Konstruksjonen kan stå så vel i begynnelsen av setningen (eksempel 1) som innskutt i midten av utsagnet (eksempel 2, 3, 4 og 5).
 examples:
   - |
        На [мой]Speaker взгляд, [он рассуждает в правильном направлении]Evaluation.
@@ -23,7 +25,7 @@ morphology:
   - Acc
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical

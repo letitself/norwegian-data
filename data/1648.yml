@@ -3,15 +3,26 @@ record: 1648
 name: 'однажды VP-Fut'
 UD_name: 'однажды VP-Fut'
 illustration: 'Однажды ты поймёшь это.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что в отдаленном будущем произойдет некоторое [событие]Event, благодаря которому наступит новая ситуация. Говорящий уверен в том, что это случится. Слот VP обычно заполняется глаголами совершенного вида.
 examples:
+  - |
+       Порой мы сильно и навсегда ссорились, но я никогда не теряла надежды, что однажды [зазвонит телефон]Event и я [услышу её голос]Event или [получу от неё письмо]Event.
+  - |
+       Сейчас ему открылся первый слог того главного слова, которое хочет сказать ему земля. Он будет искать дальше и однажды [найдет]Event.
+  - |
+       ― Я надеюсь, что однажды спорт здесь [станет большой индустрией]Event.
+  - |
+       У Ольги есть кумир ― поэт, живущий в Петербурге. Однажды их пути [пересекутся]Event. Ольга страстно влюбится в своего поэта, а он окажется мерзавцем.
+  - |
+       Самое большее, что она себе позволяла, ― это помечтать о том, как они однажды [встретятся]Action, лет через пять, когда он уже будет взрослым мужчиной, а она ― всё еще привлекательной женщиной.
 morphology:
   - VP
   - Fut
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -19,7 +30,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - ~
 usage_label: ~
@@ -27,6 +38,8 @@ dependency_structure:
   - '[root [advmod однажды] VP-Fut]'
 dependency_structure_of_illustration:
   - '[root [advmod Однажды] [nsubj ты] поймёшь [obj это].]'
+comment: |
+    'См. близкие конструкции 815, 1646. Не путать с конструкцией 1664.'
 references:
   - |
     

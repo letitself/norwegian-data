@@ -7,8 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мысли [говорящего]Speaker о том, как бы он [действовал]Action в условиях полной свободы, следуя исключительно своим истинным желаниям (воле). Подразумевается, что в реальной ситуации есть условия, которые мешают ему так действовать.
-  - english: |
-       Добавили БЫ в формулу, как в 188, 740.
+  - norwegian: |
+       Konstruksjonen uttrykker [talerens]Speaker tanker om hvordan taleren ville [handlet]Action under full frihet, ved utelukkende å følge sine egentlige ønsker (viljen). Det er underforstått at det i en reell situasjon er forhold som hindrer taleren i å handle slik.
 examples:
   - |
        На фабрике есть лаборатория, где вручную создаются новые конфеты. Будь моя воля, я бы [проводил там все время]Action.
@@ -23,7 +23,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Cl
+  - Clause
   - XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical

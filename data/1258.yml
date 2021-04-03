@@ -9,6 +9,8 @@ definitions:
        Конструкция используется для обозначения [участника]Causer, чьи действия привели к неприятной [ситуации]Situation. Участником может быть конкретный человек (пример 4), группа лиц (пример 2) или организация (банк, фирма, редакция, пример 3). Вина может также приписываться совокупности действий (таких как политика) или положению дел (обстоятельства в примере 5), которые таким образом персонифицируются.
   - english: |
        Заменить VP на Cl?
+  - norwegian: |
+       Konstruksjonen brukes for å betegne [en deltaker]Causer, hvis handlinger har ført til en ubehagelig [situasjon]Situation. Deltakeren kan være en konkret person (eksempel 4), en gruppe mennesker (eksempel 2) eller en organisasjon (en bank, et firma, en redaksjon, eksempel 3). Skylden kan også tilskrives en sum av handlinger (f.eks. politikken) eller tingenes tilstand (omstendighetene i eksempel 5), som derved personifiseres.
 examples:
   - |
        Как отмечают эксперты, [около 80% лесных пожаров ежегодно возникает]Situation по вине [человека]Causer.
@@ -25,8 +27,7 @@ morphology:
   - NP
   - Gen
 syntactic_type_of_construction:
-  - Head
-  - Modifier Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
