@@ -3,9 +3,23 @@ record: 566
 name: 'NP-Nom числиться на/в NP-Loc'
 UD_name: 'NP-Nom числиться на/в NP-Loc'
 illustration: 'Он числился на службе.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция, обозначающая, что некоторый субъект находится [в определённом списке или категории]Location
+  - english: |
+       This construction signifies that the subject is [in a specified list or category]Location.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Он хотел числиться на [службе]Location.
+  - |
+       Надо брать тех людей, которые хотят работать, а не числиться на [работе]Location.
+  - |
+       [Я]Agent числился в [штате театра]Location и полностью зависел от решений руководства.
+  - |
+       В ней сообщалось, что никаких сведений об отце не имеется и [он]Agent числится в [списке без вести пропавших.]Location
 morphology:
   - NP
   - Nom

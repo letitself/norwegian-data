@@ -23,8 +23,8 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Exclamatory
   - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod как] [expl это] [nsubj NP-Nom] [obl сам] [advmod не] VP-Pst]'

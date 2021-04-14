@@ -3,9 +3,23 @@ record: 557
 name: 'Cl, чтобы Cl'
 UD_name: 'Cl, чтобы Cl'
 illustration: 'Я сообщил другу номер поезда, чтобы он меня встретил.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения некоторой [ цели, которая характеризует существование [участника]Patient ]Goal . Цель часто связана с [деятельностью]Goal, которую [участник]Patient выполняет лучше всего.
+  - english: |
+       This construction is used to express an aim that characterises the existence of the [participant]Patient. The aim is often related to an [activity]Goal that [the participant]Patient performs extremely well.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Человеку нужен Бог, потому что [человек]Patient [создан]создан, [чтобы]чтобы [поклоняться]Goal.
+  - |
+       ― Все больше убеждаюсь, ― [ты]Patient создан, чтобы [играть Кориолана]Goal.
+  - |
+       ― Помнишь, как сказано: [мальчик]Patient создан, чтобы [плавать]Goal, [мама]Patient ― чтобы [ждать]Goal.
+  - |
+       -
 morphology:
   - Cl
 syntactic_type_of_construction:

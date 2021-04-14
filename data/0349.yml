@@ -3,9 +3,21 @@ record: 349
 name: 'хорошо Cop бы (NP-Dat) VP-Inf'
 UD_name: 'хорошо Cop бы (NP-Dat) VP-Inf'
 illustration: 'Хорошо бы покурить.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения говорящим [планов]Action или других желательных для него событий.
+  - english: |
+       This construction points to [something]Action that the speaker would have liked to do, or feels would be appropriate to do, in a given situation (perfective verb, e.g. покурить ‘have a cigarette’) or habitually (imperfective verb, e.g. помнить и выполнять это золотое правило ‘remember and follow this golden rule’). Often, but not always, the perfective verbs in this construction involve the prefix по- and a delimitative meaning, e.g. покурить ‘have a cigarette’ and походить ‘walk for a bit’.
+  - norwegian: |
+       Konstruksjonen peker på [noe]Action som taleren gjerne skulle gjort, eller føler det ville være riktig å gjøre, i en bestemt situasjon (perfektivt verb, f.eks. покурить ’ta en røyk’) eller regelmessig (imperfektivt verb, f.eks. помнить и выполнять это золотое правило ‘huske og følge denne gyldne regelen’). De perfektive verbene i denne konstruksjonen inneholder ofte, men ikke alltid по- og en delimitativ betydning, f.eks. покурить ‘ta seg en røyk (bokst. røyke litt)’ og походить ‘gå litt’.
 examples:
+  - |
+       Хорошо бы [всегда помнить и выполнять это золотое правило]Action.
+  - |
+       Хорошо бы [посоветоваться с взрослой умной женщиной]Action ― но таких в окружении нет.
+  - |
+       Хорошо бы [походить в этом костюме]Action, поваляться, даже на улицу бы выйти под дождь, потереться о стены.
   - |
        Хорошо бы Вике сегодня здесь остаться на ночь.
 morphology:

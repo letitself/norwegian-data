@@ -3,11 +3,19 @@ record: 273
 name: 'подумаешь, Cl!'
 UD_name: 'подумаешь, Cl!'
 illustration: 'Подумаешь, немного опоздал!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. Конструкция обозначает, что говорящий относится к какой-либо [ситуации]Theme с пренебрежением, иронией, насмешкой. [ [Подумаешь]подумаешь, [обидится!]Theme]подумаешь_(какой)_Cl
+       Конструкция обозначает, что говорящий относится к какой-либо [ситуации]Theme с пренебрежением, иронией, насмешкой.
+  - english: |
+       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern.
 examples:
+  - |
+       Подумаешь, [обидится!]Theme
+  - |
+       Подумаешь, [ воображала какая!]Theme
+  - |
+       Подумаешь, [тройка]Theme! Это необязательный предмет.
 morphology:
   - Cl
 syntactic_type_of_construction:

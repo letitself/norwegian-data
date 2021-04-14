@@ -3,9 +3,21 @@ record: 326
 name: 'то и дело VP'
 UD_name: 'то и дело VP'
 illustration: 'Маме то и дело звонили.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает повторение [некоторого действия]Action, которое не ограничено во времени. [Участник]Participant выполняет действие вне зависимости от каких-либо внешних условий.
+  - english: |
+       This construction expresses the repitition of [an action]Action which is not limited in time. [The participant]Participant performs the action regardless of any external conditions.
 examples:
+  - |
+       [Наши врачи]Participant то и дело [оставляют после операций в телах своих пациентов то ножницы, то полотенце]Action.
+  - |
+       [Иванов]Participant то и дело [оглядывался по сторонам]Action. Он старался вовремя заметить какую-нибудь неожиданность.
+  - |
+       [Миша]Participant то и дело [появлялся дома неожиданно]Action. Словно хотел застать врасплох.
+  - |
+       -
 morphology:
   - VP
 syntactic_type_of_construction:

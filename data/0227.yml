@@ -3,9 +3,21 @@ record: 227
 name: 'ни за какие NP-Acc.Pl (в мире) не VP'
 UD_name: 'ни за какие NP-Acc.Plur (в мире) не VP'
 illustration: 'Ни за какие деньги не продам дом!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации не согласен выполнять какое-то [действие]Action даже в обмен на очевидные [ценности]Theme и привилегии.
+  - english: |
+       This construction means that there is [something]Theme the subject will not do, e.g. продать дом ‘sell (their) house’, [whatever they may get for it]Theme, e.g. деньги ‘money’.
+  - norwegian: |
+       Konstruksjonen uttrykker at det er [noe]Theme subjektet ikke vil gjøre, f.eks. продать дом ‘selge huset (sitt)’, uansett [hva han måtte få for det]Theme, f.eks. деньги ‘penger’.
 examples:
+  - |
+       Ни за какие [сокровища]Theme не [пойду]Action! я с ним на свидание!
+  - |
+       Ни за какие [блага]Theme Виталий не [согласился]Action бы работать в компании брата.
+  - |
+       Собака ни за какие [лакомства]Theme не [лезла]Action в воду.
 morphology:
   - NP
   - Acc

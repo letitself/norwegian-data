@@ -5,7 +5,17 @@ UD_name: 'к ужасу/счастью NP-Gen, Cl'
 illustration: 'К счастью мамы, все пришли домой рано.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает положительную или отрицательную реакцию [участника]Experiencer на [некоторую ситуацию]Situation.
+  - english: |
+       This construction expresses [a participant's]Experiencer positive or negative reaction to [a situation]Situation.
 examples:
+  - |
+       К счастью [Иванова]Experiencer, [на его докладе присутствовали четыре студентки]Situation.
+  - |
+       [Маша взяла ножницы и отрезала себе косы]Situation, к ужасу [родителей]Experiencer.
+  - |
+       К ужасу [пассажиров]Experiencer, [водитель Люба резко остановила свой автобус и не могла ехать еще 15 минут]Situation.
 morphology:
   - NP
   - Gen

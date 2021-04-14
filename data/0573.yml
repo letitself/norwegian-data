@@ -3,9 +3,21 @@ record: 573
 name: 'NP-Nom Cop NP-Dat к лицу'
 UD_name: 'NP-Nom Cop NP-Dat к лицу'
 illustration: 'Синее платье было ей к лицу.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы показать, что [некоторого участника]Experiencer украшает [определенный образ (или набор вещей)]Theme и смотрится гармонично. В прошедшем или будущем времени вводится глагол-связка "быть".
+  - english: |
+       This construction is used to show that [a certain fashion (or set of things)]Theme suits [a participant]Experiencer , looks good on [the participant]Experiencer. In past and future tense a form of the verb "быть" is needed.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       [Одежда]Theme, которая прежде была [ей]Experiencer к лицу, стала немодной.
+  - |
+       Ведь она так красива! Даже [некоторая бледность]Theme будет [ей]Experiencer к лицу.
+  - |
+       ― Я не люблю, когда женщины курят, но [вам]Experiencer [курение]Theme к лицу, ― отметил Марк.
 morphology:
   - NP
   - Nom

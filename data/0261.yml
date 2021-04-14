@@ -50,7 +50,7 @@ semantic_types:
   - type: Purpose
   - type: Salient property
     subtypes:
-      - type: Intended use
+      - type: Functionality
   - type: Temporary characteristics
     subtypes:
       - type: Transformation

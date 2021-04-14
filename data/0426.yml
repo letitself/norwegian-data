@@ -3,9 +3,21 @@ record: 426
 name: 'Cl, как подобает/положено/надо/принято'
 UD_name: 'Cl, как подобает/положено/надо/принято'
 illustration: 'Мы собрали посуду со стола, как положено.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action было выполнено с учетом всех актуальных правил или традиций. Словосочетание "как положено" может как следовать за наименованием действия, так и предшествовать ему.
+  - english: |
+       This construction indicates that [an action]Action was perfomed taking into account all current rules or customs. In a sentence the phrase "как положено" can come both before and after the action it refers to.
 examples:
+  - |
+       [Максим ел вилкой]Action, как положено. Ему уже исполнилось три года.
+  - |
+       Как положено, [первый урок был посвящен знакомству]Action, зато второй сразу начался с письменной работы.
+  - |
+       Сначала, как положено, [руководители проекта обратились в офисы известных компаний]Action.
+  - |
+       -
 morphology:
   - Cl
 syntactic_type_of_construction:

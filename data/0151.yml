@@ -5,7 +5,19 @@ UD_name: 'как ни VP, (а) Cl'
 illustration: 'Как он ни старался, экзамен сдать не смог.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется в ситуации, когда вне зависимости от количества повторения [некоторого действия]Action [результат]Result будет одинаковым. СМ Синтаксическая конструкция указывает на то, что ситуация Р не будет иметь места, несмотря на многочисленные способствующие ее наступлению обстоятельства Q". Антипод конструкции несмотря ни на что. В.Ю.Апресян 1999 Слова со значением уступки. Подкласс обманутое ожидание. Изначально как ни VP Cl, добавили запятую
+  - english: |
+       This construction expresses that [the result]Result of [a given activity]Action will be the same, regardless of how many attempts are made, e.g. как ни старался, экзамен сдать не смог ‘regardless of how much effort he put in, he was not able to pass the exam’.
+  - norwegian: |
+       Konstruksjonen betyr at [resultatet]Result av [en gitt aktivitet]Action forblir det samme uansett hvor mange forsøk som gjøre, f.eks. как ни старался, экзамен сдать не смог ‘uansett hvor mye han prøvde, klarte han ikke å ta eksamen’.
 examples:
+  - |
+       Как ни [приду]Action в этот магазин – [очередь.]Result
+  - |
+       Как ни [суди]Action, [эта задача при нынешней скорости жизни для многих почти что невыполнима.]Result
+  - |
+       Как ни [убеждают]Action нас литература, кинофильмы в необыкновенной «взрослости» нынешних детей, их полном понимании реалий современной жизни, [дети по-прежнему остаются детьми.]Result
 morphology:
   - VP
   - Cl

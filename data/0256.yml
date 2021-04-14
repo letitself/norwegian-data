@@ -3,11 +3,21 @@ record: 256
 name: 'NP-Nom какой Cop'
 UD_name: 'NP-Nom какой Cop'
 illustration: 'Посмотрите, ужас какой!'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       [Конструкция]NP-Nom_какой используется для интенсификации некоторой [оценочной характеристики]Evaluation объекта. Ужас какой Кошмар какой Красота какая. Can be used to express both positive and negative evaluation. Construction in itself conveys Intensity, evaluation is expressed lexically here by the noun that fills the slot NP-Nom. Mirative type of assessment
+       [Конструкция]NP-Nom_какой используется для интенсификации некоторой [оценочной характеристики]Evaluation объекта.
+  - english: |
+       [This construction ]NP-Nom_какой is used to intensify a certain [single characteristic]Evaluation of an object.
+  - norwegian: |
+       Ужас какой Кошмар какой Красота какая. Can be used to express both positive and negative evaluation. Construction in itself conveys Intensity, evaluation is expressed lexically here by the noun that fills the slot NP-Nom. Mirative type of assessment
 examples:
+  - |
+       ― Андрей Алексеевич! Господи… [кошмар]Evaluation какой… ― Что такое? - спрашиваю.
+  - |
+       Кира Петровна! Вы только послушайте, [счастье]Evaluation какое! Квартиру дали Зинаиде моей!
+  - |
+       [Красота]Evaluation какая! ― говорил он и жадно белыми зубами вонзался в колбасную мякоть.
 morphology:
   - NP
   - Nom

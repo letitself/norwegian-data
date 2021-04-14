@@ -3,9 +3,19 @@ record: 310
 name: 'смотря PronInt VP'
 UD_name: 'смотря PronInt VP'
 illustration: '– Долго ли ехать до бассейна? – Смотря где ты живёшь.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в ответе на вопрос. Говорящий считает, что его ответ зависит от [одного из факторов, которые имеют отношение к актуальной ситуации]Theme . [Сама ситуация]Situation может опускаться, так как будет ясна из контекста.
+  - english: |
+       This construction expresses the speaker's uncertainty in answering a question. The speaker believes that his/her answer depends on [one of the factors that is relevant to the current situation]Theme. [The situation itself]Situation can be omitted as it would be clear from the context.
 examples:
+  - |
+       ― А что сейчас вообще читают? ― Смотря [кто]Theme… ― Молодые люди, например? Что может нравиться молодой девушке? ― уточнил Паша.
+  - |
+       Крем не зависит от cрока годности. Смотря [как]Theme [хранить]Situation.
+  - |
+       ― Как работается, Павел Николаевич? ― По-разному. ― Есть успехи? ― Смотря [что]Theme [считать успехами…]Situation
 morphology:
   - PronInt
   - VP

@@ -5,7 +5,19 @@ UD_name: 'дело Cop не в NP-Loc (, а в NP-Loc)'
 illustration: 'Дело не в опозданиях.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий подчеркивает, что [что-то]Theme не является причиной чего-либо. Говорящий уверен, что [то, о чем идет речь,]Theme – это не главное.
+  - english: |
+       This construction expresses that a certain situation is caused by something else than [X]Theme, e.g. опоздания ‘delays’ or наши аппетиты ‘our appetite’.
+  - norwegian: |
+       Konstruksjonen uttrykker at en gitt situasjon er utløst av noe annet enn [X], f.eks. опоздания ‘forsinkelser’ or наши аппетиты ‘matlysten vår’.
 examples:
+  - |
+       И дело не в [наших аппетитах]Theme, а в инфляции, которую подстегивают монополисты.
+  - |
+       И дело не в [исполнительной власти]Theme. И не в креслах!
+  - |
+       И дело не в [деньгах]Theme. Дело в общении.
 morphology:
   - Cop
   - NP

@@ -3,9 +3,21 @@ record: 164
 name: 'какой угодно NP'
 UD_name: 'какой угодно NP'
 illustration: 'Какой угодно подарок'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется, когда говорящий считает, что [некоторый объект]Theme может быть любым. Обычно говорящему не важно, каким будет объект, или говорящий не может предсказать, каким будет объект.
+  - english: |
+       This construction expresses that [X]Theme can be of any kind, e.g. какой угодно подарок ‘any kind of present’. The speaker is indifferent to, or uncertain about, which kind [X]Theme represents.
+  - norwegian: |
+       Konstruksjonen uttrykker at [X]Theme kan være hvilken som helst i sitt slag, f.eks. какой угодно подарок ‘hvilken som helst slags gave’. Taleren er likegyldig eller usikker på hva slags type [X]Theme representerer.
 examples:
+  - |
+       Нет, лучше какой угодно [холод]Theme, чем эта страшная жара!
+  - |
+       У каждого еврея может быть какой угодно [родной язык]Theme ― вовсе не обязательно еврейский.
+  - |
+       От этого человека можно ожидать какую угодно [подлость]Theme.
 morphology:
   - NP
 syntactic_type_of_construction:

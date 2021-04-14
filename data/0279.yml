@@ -3,11 +3,21 @@ record: 279
 name: 'при NP-Loc Cl'
 UD_name: 'при NP-Loc Cl'
 illustration: 'При таком росте он может стать хорошим баскетболистом.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       добавить таком в формулу
+       Конструкция используется для обозначения [некоторого условия]Condition для выполнения [действия]Action . добавить таком в формулу
+  - english: |
+       This construction describes [a condition]condition, e.g. при таком росте ‘with that height‘, that must be in place for [something]Activity to happen, e.g. стать хорошим баскетболистом ‘become a great basketball player’.
+  - norwegian: |
+       Konstruksjonen beskriver [en betingelse]Condition, f.eks. при таком росте ‘med en slik høyde’, som er nødvendig for at [en handling]Action skal finne sted, f.eks. стать хорошим баскетболистом ‘bli en god basketballspiller’.
 examples:
+  - |
+       При [оценке]Condition [необходимо учитывать и то, что огромный ущерб охотничьим хозяйствам наносит браконьерство]Action.
+  - |
+       [Это послужило основным критерием]Action при [выборе источника информации]Condition.
+  - |
+       [Используйте специальный измеритель уровня воды]Action при [посадке растения]Condition.
 morphology:
   - NP
   - Loc

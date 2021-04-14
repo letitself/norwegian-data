@@ -5,7 +5,21 @@ UD_name: 'вот так NP-Nom Cop: (Cl)!'
 illustration: 'Вот так встреча!'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что какое-либо [действие]Action является следствием ситуации, о которой говорилось ранее, или вывод из этой ситуации.
+  - english: |
+       This construction expresses that a certain [action]Action is the consequence of a certain situation (e.g. X cannot remember anything because he is drunk), or how one should relate to/think about this situation now (e.g. X should be happy that they have not had to deal with it).
+  - norwegian: |
+       Konstruksjonen uttrykker at en viss [handling]Action skjer som følge av en annen situasjon (f.eks. X husker ingenting fordi han har drukket), eller hvordan man nå bør forholde seg til/tenke om denne situasjonen (f.eks. X bør være glad for at han eller hun ikke har måttet hanskes med den).
 examples:
+  - |
+       ― Вот и [радуйтесь]Action, что вы с такой ситуацией не сталкивались.
+  - |
+       Ну вот и [подумай]Action, кого ты пытался обмануть.
+  - |
+       А сердце-то больное, вот и [не выдержало.]Action
+  - |
+       Напился, вот и [не помнишь]Action ничего!
 morphology:
   - NP
   - Nom

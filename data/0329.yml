@@ -3,9 +3,23 @@ record: 329
 name: 'то VP, то VP'
 UD_name: 'то VP, то VP'
 illustration: 'Он то плакал, то угрожал.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения чередования некоторых [действий]Action , которые участник совершает последовательно.
+  - english: |
+       This construction expresses that the (animate or inanimate) participant alternates between two [activities]Action. In English, the construction can often be translated as ‘in turn’ or ‘by turns’, e.g. он то плакал, то угрожал ‘he wept and made threats in turn’.
+  - norwegian: |
+       Konstruksjonen uttrykker at den (animate eller inanimate) deltageren veksler mellom to aktiviteter. På norsk kan konstruksjonen oversettes med ‘snart... snart...’ eller ‘om hverandre’, f.eks. f.eks. он то плакал, то угрожал ‘snart gråt han, snart truet han’ eller ’han gråt og truet om hverandre’.
 examples:
+  - |
+       Ветер то [затихал]Action, то [вырывался]Action из провала.
+  - |
+       Его лицо то [светлело]Action, то [хмурилось]Action в отсветах костра.
+  - |
+       Лампа то [желтеет]Action, то [загорается]Action ослепительным белым светом.
+  - |
+       он был то веселым, то грустным. Значение чередования ситуаций.
 morphology:
   - VP
 syntactic_type_of_construction:

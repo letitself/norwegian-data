@@ -6,18 +6,22 @@ illustration: 'Дальше идти некуда.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что нет такого места, куда бы можно было [пойти]Action или [поместить]Action что-либо. "Некуда" может как предшествовать глаголу, так и следовать за глаголом.
+       Конструкция обозначает отсутствие места, куда [участнику]Experiencer можно было бы [отправиться]Action или [поместить]Action некоторый предмет. Ударение в "некуда" стоит на не-.
   - english: |
-       This construction means that the dative subject has nowhere to [go]Action or [put]Action something. The dative subject can be implicit. Некуда ‘nowhere’ is positioned either before or after the verb.
+       This construction means that the dative subject has nowhere to [go]Action or [put]Action something. The dative subject can be implicit. Некуда ‘nowhere’ is positioned either before or after the verb. "Некуда" может как предшествовать глаголу, так и следовать за глаголом.
   - norwegian: |
        Konstruksjonen forteller at dativsubjektet ikke har noe sted å [gå til]Action eller [plassere]Action noe. Dativsubjektet kan være implisitt. Некуда ‘nowhere’ står enten før eller etter verbet.
 examples:
   - |
-       Мне некуда [идти.]Action
+       Однажды под Новый год сильно простудилась, лежала с температурой в общежитии. Мои соседки по комнате разъехались по домам, ну а [мне]Experiencer [ехать]Action было некуда.
   - |
-       [Возвращаться]Action некуда. Остаётся вот этот пустой дом, затерянный в снегах.
+       ― Иди-ка сюда, ― тихо сказал один из них. В таких случаях можно и убежать, ничего стыдного в этом нет, но [бежать]Action было некуда ― внизу отвесная скала. Я подошёл к ним.
   - |
-       А бытовая необходимость: некуда было [уложить]Action трёх детей.
+       [Возвращаться]Action некуда. Остаётся вот этот пустой дом, затерянный в снегах. —
+  - |
+       ― Сжигаем все, что горит. — А буфет? Он же еще хороший. Жалко. Посуду будет некуда [ставить]Action.
+  - |
+       [Одежду повесить]Action некуда ― крючков на задней стенке нет.
 morphology:
   - NP
   - Dat
@@ -34,7 +38,8 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Predicative
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -45,7 +50,7 @@ dependency_structure_of_illustration:
   - '[root [advmod Дальше] [csubj идти] некуда.]'
 references:
   - |
-    ссылка на иомдина
+    См. Апресян Ю. Д., Иомдин Л. Л. 1989. Конструкции типа НЕГДЕ СПАТЬ: синтаксис, семантика, лексикография. // Семиотика и информатика, вып. 29., 1989, 34-92; Падучева Е. В. 2017. Отрицательные местоимения-предикативы // Русская корпусная грамматика, http://rusgram.ru/Отрицательные_местоимения-предикативы; Avgustinova, Tania. Forthcoming. Russian infinitival existential constructions from HPSG perspective. To appear in the Proceedings of the 4th European conference on Formal Description of Slavic Languages (FDSL-4). 18 pp.
 semantic_types:
   - type: Non-existence
     subtypes:

@@ -5,7 +5,21 @@ UD_name: 'едва не VP-Past'
 illustration: 'Иван Иванович едва не умер после такого розыгрыша.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется в ситуации, когда [участник или объект]Theme были очень близки к выполнению [некоторого действия]Action, но в итоге не выполнили его.
+  - english: |
+       This construction is used in a situation whereby [the participant or object]Theme was very close to completing an [action]Action, but in the end did not.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       В первый год [Некрасов]Theme едва не [умер]Action ― перитонит.
+  - |
+       Фоссету пришлось снизить высоту, из-за чего [он]Theme [ [едва]едва [не]не [упал]Action ]едва_не_VP-Past в воду.
+  - |
+       Но впоследствии [Саша]Theme едва не [умер]Action со смеху, когда у нас за столом дома изображал лекцию Щербы бесподобный Ираклий Андроников.
+  - |
+       -
 morphology:
   - VP
   - Pst

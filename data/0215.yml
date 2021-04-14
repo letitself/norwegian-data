@@ -3,9 +3,19 @@ record: 215
 name: 'не-Pred Cop бы VP-Inf'
 UD_name: 'не-Praedic Cop бы VP-Inf'
 illustration: 'Неплохо бы отдохнуть.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий предлагает что-либо [сделать]Action. Конструкция вносит оценочную [характеристику]Estimation ситуации или чьих-либо действий как желательных.
 examples:
+  - |
+       [Невредно]Estimation бы [вздремнуть]Action часика два.
+  - |
+       [Неплохо]Estimation бы [выпить пива.]Action
+  - |
+       [Недурно]Estimation бы и [поспать]Action хоть немного.
+  - |
+       [Нехудо]Estimation бы ему эту книгу [прочесть]Action.
 morphology:
   - Pred
   - Cop

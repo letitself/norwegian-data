@@ -5,7 +5,19 @@ UD_name: 'время NP-Gen (не) пришло'
 illustration: 'Время серьезного разговора пришло.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий считает, что наступил подходяший момент для [чего-либо]Theme. Порядок слов может быть следующим: "пришло" может предшествовать объекту или следовать за ним.
+  - english: |
+       This construction means that, according to the speaker, the time for [something]Theme has (or has not) come. The verb form пришло ‘has come’ is placed either before or after the object. A similar construction is used in English, namely “The time for something has come”. Note that in English the Theme may be a verb (e.g. “visit” in “the time has come to visit China”), while in the Russian construction the Theme is a noun in the Genitive, e.g. серьёзного разговора ‘a serious talk, gen.sg’.
+  - norwegian: |
+       Konstruksjonen betyr at taleren synes tiden for [noe]Theme (ikke) har kommet. Verbformen пришло ‘har kommet’ står enten før eller etter objektet. I norsk finner vi en tilsvarende konstruksjon, nemlig “tiden har kommet for (å)…”. Merk imidlertid at Tema i den norske konstruksjonen også kan være et verb (f.eks. “søke” i “tiden har kommet for å søke studieplass”), mens Tema i den russiske konstruksjonen er et substantiv i genitiv, f.eks. серьёзного разговора ‘en alvorsprat, gen.sg’.
 examples:
+  - |
+       Время [объяснений]Theme ещё не пришло.
+  - |
+       Время [перемен]Theme пришло, а опереться не на кого.
+  - |
+       Пришло  время [созерцания]Theme.
 morphology:
   - NP
   - Gen

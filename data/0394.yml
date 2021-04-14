@@ -3,9 +3,19 @@ record: 394
 name: 'Pred PronPers-Dat Cop!'
 UD_name: 'Praedic PronPers-Dat Cop!'
 illustration: 'Смешно ему!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий выражает неодобрение [действий]Action [другого участника.]Patient
+  - english: |
+       Убрать и заменить примеры 2 и 3.
 examples:
+  - |
+       [Весело]Theme [ему]Experiencer! Да ты понимаешь, что я и убить его могу!
+  - |
+       Ответил ей: ― [Хорошо]Theme [ему]Experiencer?
+  - |
+       Он чувствовал на горле сухую клешню, отчаянно задыхался, но не боялся… ― [Страшно]Theme [тебе]Experiencer?
 morphology:
   - Pred
   - PronPers

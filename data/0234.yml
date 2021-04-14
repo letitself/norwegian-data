@@ -3,9 +3,17 @@ record: 234
 name: 'никак VP?'
 UD_name: 'никак VP?'
 illustration: 'Он никак стал врачом?'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенное предположение о чём-либо или вопрос-подтверждение какого-либо [события]Action.
 examples:
+  - |
+       Никак [наши едут.]Action
+  - |
+       Никак [кто-то пришёл?]Action
+  - |
+       Он никак [заболел.]Action
 morphology:
   - VP
 syntactic_type_of_construction:

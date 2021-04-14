@@ -3,9 +3,23 @@ record: 571
 name: 'NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom'
 UD_name: 'NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom'
 illustration: 'Она старше, чем ты.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Сравнительная конструкция, в которой сравнивыемый [объект]Theme обладает [определенной характеристикой]Property в большей степени, чем второй [объект]Prototype.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Я считаю, что [она]Theme [умнее]Property, чем [её сестра.]Prototype
+  - |
+       [Она]Theme [выше]Property, чем [все женщины нашей семьи]Prototype вместе взятые.
+  - |
+       Смотрела на семьи подружек и с гордостью осознавала, что [мой папа]Theme [веселее]Property, чем [дядя Вова]Prototype, [красивее]Property, чем [наш сосед]Prototype, [добрее]Property, чем [Анин папа.]Prototype
+  - |
+       -
 morphology:
   - NP
   - Nom

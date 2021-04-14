@@ -3,11 +3,19 @@ record: 161
 name: 'какой из NP-Gen Cop NP-Nom?!'
 UD_name: 'какой из NP-Gen Cop NP-Nom?!'
 illustration: 'Какой из тебя учитель?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
+       Конструкция является риторическим вопросом и обозначает, что говорящий выражает недоверие, сомнение и даже усмешку по поводу способностей [какого-либо участника]Actant иметь какие-либо [качества или профессию]Theme.
+  - english: |
        Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом)
 examples:
+  - |
+       Какой из [него]Actant [экономист]Theme?
+  - |
+       Какой из [меня]Actant [лидер]Theme?
+  - |
+       Какой из [тебя]Actant [писатель]Theme?
 morphology:
   - NP
   - Gen

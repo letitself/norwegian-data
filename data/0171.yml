@@ -3,9 +3,25 @@ record: 171
 name: 'кто-то/что-то вроде NP-Gen'
 UD_name: 'кто-то/что-то вроде NP-Gen'
 illustration: 'Я не хочу, чтобы кто-то вроде тебя распространял ложь моим друзьям.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и обозначает приблизительное сходство [одного участника или объекта]Comparee с [другим]Standard (примеры 1-2). Конструкция также может использоваться, когда говорящий не обладает точной информацией об [участнике]Participant или [объекте]Theme и делает предположение о том, кем или чем он является, на основе внешних наблюдений. Говорящий предлагает наиболее подходящую с его точки зрения [номинацию]Evaluation для этого участника или объекта (примеры 3-5).
+  - english: |
+       This construction describes any person who, for all practical purposes, shares the characteristics of [X]Theme. A closely related construction in English is ‘someone like [X]Theme’, e.g. Я не хочу, чтобы кто-то вроде тебя распространял ложь моим друзьям ‘I don’t want someone like you spreading lies [about Y] to my friends’.
+  - norwegian: |
+       Konstruksjonen refererer til en hvilken som helst person som for alle praktiske formål deler egenskapene til [X]Theme. En nærliggende konstruksjon i norsk er ‘en som [X]Theme‘, f.eks. Я не хочу, чтобы кто-то вроде тебя распространял ложь моим друзьям ‘Jeg vil ikke at en som deg skal spre løgn til vennene mine’.
 examples:
+  - |
+       Притчет называет [Оруэлла]Comparee «святым», кем-то вроде [Дон-Кихота]Standard, и пытается представить его в виде «мученика».
+  - |
+       Радовалась и Таня ― [Тома]Comparee заняла в её жизни особое место, что-то вроде [говорящей собачки, о которой надо заботиться]Standard.
+  - |
+       Судя по ее виду, [она]Participant была кем-то вроде [завхоза]Evaluation.
+  - |
+       Просто [мой отец]Participant был кем-то вроде [буддийского священника]Evaluation.
+  - |
+       [Эта зона]Theme и сейчас представляет собой что-то вроде [заповедника]Evaluation.
 morphology:
   - NP
   - Gen
@@ -20,7 +36,11 @@ part_of_speech_of_anchor:
   - Pronoun
   - Preposition
 semantic_roles:
-  - ~
+  - Comparee
+  - Evaluation
+  - Participant
+  - Standard
+  - Theme
 intonation:
   - ~
 usage_label: Colloquial

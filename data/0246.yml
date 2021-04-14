@@ -3,9 +3,21 @@ record: 246
 name: 'NP-Nom Cop ничуть не Adj-Cmp NP-Gen/VP ничуть не Adv-Cmp NP-Gen'
 UD_name: 'NP-Nom Cop ничуть не Adj-Cmp NP-Gen/VP ничуть не Adv-Cmp NP-Gen'
 illustration: 'Ты ничуть не лучше своей сестры.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что по мнению говорящего некоторый субъект или объект имеет [качественные характеристики]Property, которые не отличаются от характеристик того объекта, с которым производится сравнение.
+  - english: |
+       This construction means that something has [certain properties]Evaluation to the same extent as somethimg else, e.g. ты ничуть не лучше своей сестры ‘you are no better than your sister’.
+  - norwegian: |
+       Konstruksjonen betyr at noe har [visse egenskaper]Evaluation i samme grad som noe annet, f.eks. ты ничуть не лучше своей сестры ‘du er ikke det spor bedre enn søsteren din’.
 examples:
+  - |
+       Эти подарки, наверное, ничуть не [хуже]Property прошлогодних.
+  - |
+       Он понял, что генералу страшно ничуть не [меньше]Property, чем ему самому.
+  - |
+       В свои тридцать лет он выглядит ничуть не [старше]Property своего брата.
 morphology:
   - NP
   - Nom

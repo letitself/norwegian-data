@@ -3,9 +3,23 @@ record: 466
 name: 'NP-Acc не проведёшь'
 UD_name: 'NP-Acc не проведёшь'
 illustration: 'Почтальона не проведёшь.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для характеристики [некоторого участника]Theme, которого невозможно обмануть или запутать.
+  - english: |
+       This construction means that [someone]Theme cannot be fooled, e.g. почтальона не проведешь ‘you can’t fool the postman’.
+  - norwegian: |
+       Konstruksjonen betyr at [noen]Theme ikke lar seg lure, f.eks. почтальона не проведёшь ‘postmannen lar seg ikke lure’.
 examples:
+  - |
+       [Болельщиков России]Theme не проведешь.
+  - |
+       Люди говорят, что [полицейского]Theme не проведешь!
+  - |
+       [Меня]Experiencer такими уловками не проведешь.
+  - |
+       -
 morphology:
   - NP
   - Acc

@@ -3,11 +3,19 @@ record: 348
 name: 'хороший-Short NP-Nom!'
 UD_name: 'хороший-Short NP-Nom!'
 illustration: 'Хорош учёный!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
+       Конструкция употребляется при выражении [пренебрежительно-снисходительной оценки]хороший [кого-либо или чего-либо]Theme, иронического отношения к [кому-либо или к чему-либо.]Theme
+  - english: |
        Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом) только в настоящем
 examples:
+  - |
+       Хороша [история]Theme, ничего не скажешь!
+  - |
+       Тоже мне — хорош [друг!]Theme
+  - |
+       Хорош, нечего сказать, хорош [мальчик]Theme!… Отец лежит, а он играет.
 morphology:
   - Short
   - NP

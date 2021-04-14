@@ -3,9 +3,19 @@ record: 355
 name: 'человек NP-Gen'
 UD_name: 'человек NP-Gen'
 illustration: 'Человек трудной судьбы.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция характеризует человека как обладателя некоторых [свойств/качеств]Theme.
+  - english: |
+       This construction characterises a person as possessing certain [properties/qualities]Theme.
 examples:
+  - |
+       К тому же он – человек [дела]Theme.
+  - |
+       Если бы люди [искусства]Theme любили себя, как некоторые дамы, которые 24 часа в сутки заняты только своей особой, то артистов просто не было бы.
+  - |
+       Здесь нужен знаток, а самый лучший знаток – это человек [науки.]Theme
 morphology:
   - NP
   - Gen

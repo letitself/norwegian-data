@@ -3,9 +3,21 @@ record: 542
 name: 'NP-Nom обернуться NP-Ins'
 UD_name: 'NP-Nom обернуться NP-Ins'
 illustration: 'Дело обернулось бедой.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция используется, когда [некоторая ситуация]Situation может привести к [негативным последствиям]Evaluation, по мнению говорящего.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       [Ошибка]Theme может обернуться [трагедией]Evaluation, ― писал он в письме.
+  - |
+       [Этот суд]Theme обернется [катастрофой]Evaluation для самого завода.
+  - |
+       Опыт доказал нам то, что даже иногда [большая ошибка]Theme может обернуться [благом]Evaluation.
 morphology:
   - NP
   - Nom

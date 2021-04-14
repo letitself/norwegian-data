@@ -3,11 +3,21 @@ record: 320
 name: 'так называемый NP'
 UD_name: 'так называемый NP'
 illustration: 'Так называемый образец'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
+       Конструкция указывает на то, что [какое-либо слово или выражение]Theme по своему значению не соответствует обозначаемому предмету или явлению. Другое значение: конструкция имеет ироническую коннотацию, говоря о предмете или объекте.
+  - english: |
+       This construction indicates that [a word or expression]Theme does not correspond to a thing or event in its meaning. Another meaning: the construction can have ironic connotations, when talking about the subject-matter or object.
+  - norwegian: |
        Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом)
 examples:
+  - |
+       Комнаты разделены так называемой [глухой стеной.]Theme
+  - |
+       Фонд рассматривает, в частности, и проекты, представленные на так называемых [региональных конкурсах.]Theme
+  - |
+       Особенно сильно борется редактор за так называемую ["чистоту языка".]Theme
 morphology:
   - NP
 syntactic_type_of_construction:

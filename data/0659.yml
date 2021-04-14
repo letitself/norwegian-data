@@ -3,9 +3,25 @@ record: 659
 name: 'VP-Inf (NP-Dat) Cop негде'
 UD_name: 'VP-Inf (NP-Dat) Cop негде'
 illustration: 'В такой квартире даже развернуться негде.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает отсутствие места, необходимого [участнику]Experiencer для осуществления некоторого [действия]Action. Ударение в "негде" стоит на не-.
+  - english: |
+       This construction means that there is no place for the dative subject to perform a certain [Action]Action or [get]Action something. Негде is placed before or after the verb.
+  - norwegian: |
+       Konstruksjonen betyr at dativsubjektet ikke har noe sted, eller tilstrekkelig plass til å utføre en viss [handling]Action eller [få tak i]Action noe. Негде plasseres før eller etter verbet.
 examples:
+  - |
+       [Александре]Experiencer негде [жить.]Action
+  - |
+       В парке негде [укрыться]Action от жары или дождя.
+  - |
+       Зал был не просто переполнен, там негде было [присесть]Action даже на ступеньках проходов.
+  - |
+       Приятель моих друзей Коля испытывал личную драму, его выселили с квартиры, и [ему]Experiencer негде было [встречать Новый год.]Action
+  - |
+       Если Вы отправляетесь с дитем на пляж или на прогулку, зная, что [спрятаться от солнца]Action будет негде, тогда надо пользоваться кремами с наибольшим коэффициентом защиты.
 morphology:
   - VP
   - Inf

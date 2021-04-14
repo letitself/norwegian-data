@@ -3,9 +3,17 @@ record: 297
 name: 'самый Adj в NP-Loc'
 UD_name: 'самый Adj в NP-Loc'
 illustration: 'Самый старый в мире дом'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что кто-то или что-то проявлет [качества, свойства]Evaluation в высшей степени, является истинным (прототипическим) представителем [в каком-либо месте]Location .
 examples:
+  - |
+       В Москве открывается самый [большой]Evaluation в [Европе]Location торговый комплекс.
+  - |
+       По опросам, Большаков ― самый [популярный]Evaluation в [стране]Location политик.
+  - |
+       Я радовался тому, что у нас есть самый [популярный]Evaluation в [Москве]Location магазин.
 morphology:
   - Adj
   - NP

@@ -3,9 +3,17 @@ record: 280
 name: 'NP-Nom принять-Pst NP-Acc за NP-Acc'
 UD_name: 'NP-Nom принять-Past NP-Acc за NP-Acc'
 illustration: 'Он принял того мужчину за своего отца.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий или участник ситуации обознался/перепутал и отождествил один [объект]Theme с [другим]Prototype.
 examples:
+  - |
+       Тут же лицо его осветилось улыбкой, и Маша подумала, что ошиблась, приняв [его]Theme за [англичанина.]Prototype
+  - |
+       Подали что-то такое белое, я принял [это]Theme за [манную кашу.]Prototype
+  - |
+       Олег принял [её]Theme за [прислугу]Prototype, но друг шепнул ему, что это жена поэта.
 morphology:
   - NP
   - Nom

@@ -5,7 +5,19 @@ UD_name: 'время NP-Gen прошло'
 illustration: 'Время сомнений прошло.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [что-либо]Theme миновало, перестало длиться или перестало быть актутальным.
+  - english: |
+       This construction means that [something]Theme has passed in time, no longer continues, or no longer is relevant.
+  - norwegian: |
+       Konstruksjonen uttrykker at [noe]Theme er forbi, ikke fortsetter, eller ikke lenger er aktuelt.
 examples:
+  - |
+       По-моему, времена [романов]Theme прошли.
+  - |
+       Время [безделья]Theme прошло, и от этого немного легче.
+  - |
+       Время [уговоров]Theme прошло, насилие должно быть остановлено силой.
 morphology:
   - NP
   - Gen

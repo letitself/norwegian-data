@@ -5,7 +5,21 @@ UD_name: 'едва ли XP/Cl'
 illustration: 'Едва ли Паша заплатит.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция используется тогда, когда вероятность выполнения [некоторого действия]Action очень мала или говорящий не уверен, что участник или объект может выполнить это действие.
+  - english: |
+       This construction is used when the likelihood of performing [an action]Action is very small, or the speaker is unsure whether the participant or object could carry out this action.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Однако читателей [мой ответ]Theme едва ли [удовлетворит]Action.
+  - |
+       [Такие приборы]Theme едва ли [переступят границы лабораторий в ближайшие годы.]Action
+  - |
+       [Он]Theme едва ли [знал о Ван Гоге]Action, однако где-то это имя встретил и оценил.
+  - |
+       -
 morphology:
   - XP
   - Cl

@@ -46,8 +46,6 @@ references:
     
 semantic_types:
   - type: Comitative
-    subtypes:
-      - type: Comitative
   - type: Degree of intensity
     subtypes:
       - type: Maximizer

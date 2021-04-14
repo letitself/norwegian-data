@@ -5,6 +5,8 @@ UD_name: 'NP-Nom по-V-ивать'
 illustration: 'Иван мне позванивает.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое событие]Event происходит многократно.
 examples:
 morphology:
   - NP
@@ -19,7 +21,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - ~
 usage_label: Colloquial

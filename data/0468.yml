@@ -3,9 +3,23 @@ record: 468
 name: 'NP-Nom привлекать NP-Acc в NP-Loc'
 UD_name: 'NP-Nom привлекать NP-Acc в NP-Loc'
 illustration: 'Женщин привлекают в богачах их деньги.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Experiencer испытывает симпатию к определенному [субъекту или объекту]Stimulus в связи с тем, что этот [субъект или объект]Stimulus обладает [каким-то свойством.]Theme
+  - english: |
+       This construction means that [someone]Experiencer is attracted to or has sympathy for [someone else]Stimulus because of [something]Theme this person possesses.
+  - norwegian: |
+       Konstruksjonen forteller at [noen]Experiencer liker eller er tiltrukket av [en annen person]Stimulus pga. [noe]Theme denne personen besitter.
 examples:
+  - |
+       [Вас]Experiencer привлекает в [этой профессии]Stimulus [высокая зарплата?]Theme
+  - |
+       [Женщин]Experiencer привлекал в [нем]Stimulus [особый магнетизм, внутренний огонь.]Theme
+  - |
+       Лично [меня]Experiencer больше всего привлекал в [Чернышеве]Stimulus [его талант.]Theme
+  - |
+       -
 morphology:
   - NP
   - Nom

@@ -3,9 +3,21 @@ record: 2119
 name: '(NP-Dat) следует/следовало VP-Inf'
 UD_name: '(NP-Dat) следует/следовало VP-Inf'
 illustration: 'При проезде в метро следует соблюдать порядок.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Experiencer выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации. Совершение действия обычно мотивируется правилами, этическими нормами или чувством долга.
 examples:
+  - |
+       Спиртное следует [продавать только в специальных магазинах]Action.
+  - |
+       К ребенку следует [относиться с уважением]State.
+  - |
+       [Начинающему водителю]Experiencer следует [быть очень внимательным на дороге]State.
+  - |
+       Конечно, порядок следовало [навести раньше]Action.
+  - |
+       Я высказал мнение, что [ему]Experiencer следовало [прикинуться глухонемым или иностранцем.]Action В целях конспирации.
 morphology:
   - NP
   - Dat
@@ -20,7 +32,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
   - ~
 usage_label: Formal
@@ -29,10 +42,15 @@ dependency_structure:
   - '[root [iobj NP-Dat] следовало [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [obl [case При] проезде [nmod [case в] метро]] следует [csubj соблюдать [obj порядок]].]'
+comment: |
+    'См. близкую по значению конструкцию 18.'
 references:
   - |
-    
+    См. степени облигаторности в статье Цейтлин С. Н. Необходимость // Теория функциональной грамматики. Темпоральность. Модальность. - Л., 1990. С.142 и след.
 semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
   - type: Root modality
     subtypes:
       - type: Necessity

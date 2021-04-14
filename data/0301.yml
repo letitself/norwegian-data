@@ -3,9 +3,21 @@ record: 301
 name: 'своего рода NP'
 UD_name: 'своего рода NP'
 illustration: 'Этот концерт был своего рода дебютом для организаторов.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция описывает [некоторый объект или событие]Theme с помощью указания на его приблизительное сходство с [другим явлением]Theme .
+  - english: |
+       This construction is used to describe [something]Theme by comparing it to [something else]Theme. In English the construction can often be translated as ‘like’, e.g. этот концерт был своего рода дебютом для организаторов ‘this concert was like a debut for the organizers’.
+  - norwegian: |
+       Konstruksjonen brukes for å beskrive [noe]Theme ved å sammenligne med [noe annet]Theme. På norsk kan konstruksjonen ofte oversettes med ‘en slags’, f.eks. этот концерт был своего рода дебютом для организаторов ‘denne konserten var en slags debut for organisatorene’.
 examples:
+  - |
+       [Поэзия Пушкина]Theme являлась своего рода [загадкой]Evaluation, которую надо разгадать.
+  - |
+       [Поход в кино]Theme сегодня стал своего рода [праздником]Evaluation, на который отправляются, как правило, в компании, с семьей, друзьями.
+  - |
+       Теперь я понимаю, что [любовь]Theme ― это своего рода [бизнес]Evaluation, у каждого свой риск.
 morphology:
   - NP
 syntactic_type_of_construction:

@@ -3,9 +3,17 @@ record: 258
 name: 'от/из NP-Gen нести NP-Ins'
 UD_name: 'от/из NP-Gen нести NP-Ins'
 illustration: 'От него несёт алкоголем.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [кто-либо]Theme или [что-либо]Theme очень сильно пахнет [чем-либо неприятным]Cause. Конструкция имеет негативную коннотацию.
 examples:
+  - |
+       От [него]Theme несло [луком]Cause и [чесноком]Cause одновременно. Отвратительно!
+  - |
+       Из [палатки]Theme несёт [рыбой.]Cause
+  - |
+       От [папы]Theme сильно несло [табаком]Cause и [водкой.]Cause
 morphology:
   - NP
   - Gen

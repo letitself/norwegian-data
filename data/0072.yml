@@ -5,7 +5,19 @@ UD_name: 'вот-вот VP-Fut NP-Nom'
 illustration: 'Вот-вот прилетит самолет.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает неизбежность [некоторого действия]Action . [Участник]Participant (или ситуация в целом) находится в одном шаге от выполнения действия.
+  - english: |
+       This construction expresses the inevitability [of an action]Action. [The participant]Participant is one step away from completing the action or the situation as a whole is one step away from being completed.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Вот-вот [зазвенит]Action [звонок]Participant, и школьники разойдутся по домам.
+  - |
+       Деревья вокруг замерзли, легкий морозец холодил душу и ощущалось, что вот-вот [пойдет]Action [снег]Participant.
+  - |
+       За окнами ночь, в доме все спят. И чувствую, вот-вот [заплачу]Action. Почему? Сам не знаю.
 morphology:
   - VP
   - Fut

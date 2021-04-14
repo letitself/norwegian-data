@@ -3,11 +3,21 @@ record: 456
 name: 'NP с большой буквы'
 UD_name: 'NP с большой буквы'
 illustration: 'Врач с большой буквы'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
+       Конструкция используется для выражения уважительного отношения к [некоторому участнику или объекту]Theme, который особенно отличается своими положительными качествами.
+  - english: |
+       This construction is used to express a respectful relationship to [a certain participant or object]Theme, which is distinguished by its positive characteristics.
+  - norwegian: |
        синоним общеоценочного предиката хороший. Rationalistic evaluation of importance and value of an object (оценка важности, ценности), role, power, impact . Subgroup 1: object or subject is evaluated: important and positive
 examples:
+  - |
+       Эта девушка стала для моего отца судьбой. Это была Любовь. [Любовь]Theme с большой буквы.
+  - |
+       Перед нами [художник]Theme с большой буквы. Талантливый, со своим восприятием мира.
+  - |
+       Роман Джейн Остин – это история не просто девушки, а [Женщины]Theme с большой буквы.
 morphology:
   - NP
 syntactic_type_of_construction:

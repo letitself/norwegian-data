@@ -3,9 +3,19 @@ record: 271
 name: 'VP под видом NP-Gen'
 UD_name: 'VP под видом NP-Gen'
 illustration: 'Она приехала в город под видом туриста.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Употребляется при указании на 1) [кого-либо]Agent, за кого [кто-либо]Theme выдает себя; 2) [что-либо]Theme, являющееся вымышленным предлогом или внешним поводом какого-либо действия; 3) [что-либо]Theme внешне похожее на какой-либо предмет или действие, которое выдается или принимается за что-либо другое.
+  - english: |
+       This construction is used when 1) [someone]Agent presents [themselves]Theme as someone other than who they are, 2) there is [an invented motive]Theme or external cause for some action, or 3) there is [something]Theme that externally resembles another object or action which is passed off as something other than what it is.
 examples:
+  - |
+       [Они]Agent продавали кошачьи шубы под видом [норковых]Theme.
+  - |
+       [Они]Agent явились к продавцу под видом [покупателей.]Theme
+  - |
+       Под видом [командировки]Theme [он]Agent мог послать в наш город двух-трёх деловых людей, они бы всё досконально узнали.
 morphology:
   - VP
   - NP

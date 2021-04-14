@@ -75,7 +75,7 @@ def write_record(row, record):
         f.write("intonation:\n")
         f.write(
             print_as_yaml_list(
-                row["Communicative type (only for Clause and Biclausal)"],
+                row["Communicative type"],
                 split_sequence,
             )
         )

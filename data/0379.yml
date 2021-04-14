@@ -3,11 +3,21 @@ record: 379
 name: 'чтоб PronPers-Nom VP-Pfv.Pst!'
 UD_name: 'чтоб PronPers-Nom VP-Perf.Past!'
 illustration: 'Чтоб он пропал!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
+       Конструкция выражает [метафорическую угрозу]Action и негативное отношение говорящего к [некоторому участнику]Participant . Как правило, используется в разговорной речи.
+  - english: |
        General negative attitude to the situation on the side of the speaker - in all Curse constructions
+  - norwegian: |
+       N/A
 examples:
+  - |
+       ― Вор! ― плача и кашляя, повторила Елена странному мужчине. ― Чтоб [ты]Participant [сдох]Action! Не хочу тебя больше видеть!
+  - |
+       Я столько ведер воды принес в огород, а Маша мне даже не помогла! Чтоб [она]Participant [провалилась]Action!
+  - |
+       Чтоб [он]Participant [пропал]Action, этот проклятый мост! Из-за него столько бед произошло в нашей деревне.
 morphology:
   - PronPers
   - Nom

@@ -3,9 +3,21 @@ record: 541
 name: 'NP-Nom Cop ни при чём'
 UD_name: 'NP-Nom Cop ни при чём'
 illustration: 'Мы тут были ни при чём.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция означает непричастность [участника]Theme или [объекта]Theme к [некоторому произошедшему событию и действию]Situation . В прошедшем или будущем времени требует наличие глагола-связки "быть" (в нужной форме).
+  - english: |
+       This construction means that [someone]Theme or [something]Theme is irrelevant for a [certain event or action]Situation. In past and future tense, the construction requires the use of быть ‘be’ (conjugated according to the subject).
+  - norwegian: |
+       Konstruksjonen forteller at [noen]Theme eller [noe]Theme ikke har noe å gjøre med [en viss hendelse eller handling]Situation. Når konstruksjonen brukes i fortid- og fremtidsform, trengs også kopulaverbet быть ‘være’ (i riktig form).
 examples:
+  - |
+       [Ужасные потери французской армии, оставлявшей Россию, были вызваны никуда не годным планированием]Situation, и [погода]Theme здесь была ни при чём.
+  - |
+       [Вася]Theme тут ни при чём.
+  - |
+       [― Есть надо было меньше!]Situation ― [Еда]Theme тут была ни при чём. Я толстела, потому что мой организм требовал витаминов.
 morphology:
   - NP
   - Nom

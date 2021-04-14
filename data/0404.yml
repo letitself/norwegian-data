@@ -3,9 +3,21 @@ record: 404
 name: 'Cl в связи с NP-Ins'
 UD_name: 'Cl в связи с NP-Ins'
 illustration: 'Все рейсы отменены в связи с плохой погодой.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы показать отношение случившегося [события]Circumstance и его [причины]Cause. Оба события могут происходить последовательно или одновременно. Ударение в слове "связи" ставится на последний слог (в связИ с ...).
+  - english: |
+       This construction means that one [event]Circumstance is caused by, or connected with, [another event]Cause. The two events can take place at the same time or in sequence. Note that that the stress in связи is on the last syllable, i.e. в связИ с ‘in connection with’.
+  - norwegian: |
+       Denne konstruksjonen forteller at én [hendelse]Circumstance er forsårsaket av, eller knyttet til en [annen hendelse]Cause. De to hendelsene foregå samtidig tid eller etter hverandre. Merk at trykket i связи faller på siste stavelse: в связИ с ‘i forbindelse med’.
 examples:
+  - |
+       [Респонденты также допускают возможность остаться дома]Circumstance в связи с [различными событиями в семье (болезнь близких и т. д.)]Cause .
+  - |
+       [Российские специалисты контролируют предприятия США]Circumstance в связи с [поставкой куриного мяса]Cause.
+  - |
+       [Александр Соколов находился в Иркутске]Circumstance в связи с [открытием здесь музыкального фестиваля "Звёзды на Байкале"]Cause.
 morphology:
   - Cl
   - NP

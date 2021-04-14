@@ -38,7 +38,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - Clause
+  - ~
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case к] примеру]'

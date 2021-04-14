@@ -7,7 +7,15 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция используется в ситуации, когда участник собирается приобрести товар, [индивидуальная стоимость]Quantity которого равна [заявленной]Quantity. Может также быть копеек, кров, евро и другие валюты.
+  - english: |
+       This construction is used when a [participant]Participant purchases goods, the [price]Quantity of which equals the [given amount]Quantity.
 examples:
+  - |
+       Родная мама купила у меня экземпляр журнала за [20]Quantity рублей, а редактор Василий Панченко за [30]Quantity.
+  - |
+       Они оказываются милыми людьми и за [пятьдесят]Quantity рублей готовы сторожить мою машину часа три.
+  - |
+       За [сто]Quantity рублей сейчас можно купить разве что жвачку
 morphology:
   - NP
   - VP

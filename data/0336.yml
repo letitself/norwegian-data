@@ -3,11 +3,21 @@ record: 336
 name: 'только и NP-Gen.Pl Cop, что Cl'
 UD_name: 'только и NP-Gen.Plur Cop, что Cl'
 illustration: 'Только и разговоров, что о доме.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       updated formula NP-Gen.Pl Cop, что о NP-Loc/про  NP-Acc/VP-Inf только и что это эмфатическое, а не столько подчинение. Сейчас стояло Matrix + Subordinate Clause Construction. Это неверно? Получается, это все одна клауза. Copula Construction OR clause?
+       Конструкция обозначает, что [некоторый участник]Agent не делает практически ничего, кроме указанного [действия.]Situation Конструкция обычно имеет негативную оценку.
+  - english: |
+       updated formula NP-Gen.Pl Cop, что о NP-Loc/про NP-Acc/VP-Inf только и что это эмфатическое, а не столько подчинение. Сейчас стояло Matrix + Subordinate Clause Construction. Это неверно? Получается, это все одна клауза. Copula Construction OR clause?
 examples:
+  - |
+       Будто у меня только и [дел]Theme, что [торчать у двери!]Situation
+  - |
+       Наконец-то свободна, вот оно, счастье, все эти полгода только и [расспросов]Theme, что [о тебе.]Situation
+  - |
+       У них только и [забот]Theme, что [о детях.]Situation
+  - |
+       -
 morphology:
   - NP
   - Gen

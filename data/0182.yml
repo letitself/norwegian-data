@@ -3,9 +3,19 @@ record: 182
 name: 'может (быть), Cl'
 UD_name: 'может (быть), Cl'
 illustration: 'Может быть, он уехал в Африку.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в своих [выводах]Conclusion. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Конструкция является вводной и на письме выделяется запятыми. Если конструкция используется в начале вопросительного предложения, то она выполняет функцию деликатного [призыва к действию.]Suggestion
+  - english: |
+       This construction expresses a speaker's uncertainty about his or her [conclusions]Conclusion. The speaker does not have sufficient grounds to confirm a given action or situation with certainty. If the construction is used at the beginning of a question, it functions as an [invitation to act.]Suggestion
 examples:
+  - |
+       На картинке была нарисована женщина. Может быть, [фея или волшебница.]Conclusion
+  - |
+       Мы совершаем одни и те же ошибки, снова и снова. Если бы мы всё время помнили о них, может быть, [мы бы совершали их немного реже.]Conclusion
+  - |
+       Может быть, [вам бы хотелось стереть из мировой культуры какое-нибудь произведение]Suggestion?
 morphology:
   - Cl
 syntactic_type_of_construction:

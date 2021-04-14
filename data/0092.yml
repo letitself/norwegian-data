@@ -5,9 +5,24 @@ UD_name: 'где-то XP'
 illustration: 'Я приду где-то в восемь вечера.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий сообщает о некотором [времени]Time, [месте]Location или [количестве]Quantity приблизительно, примерно. Слот XP заполняется предложной группой (примеры 2, 3), наречием (пример 1, 4) или группой числительного (пример 5).
 examples:
+  - |
+       Я его не видел где-то уже [полгода.]Time
+  - |
+       Где-то [через месяц]Time я получу за книгу гонорар и мне будет на что жить.
+  - |
+       Утро пришло с резкой болью где-то [в боку]Location, отдающей в поясницу.
+  - |
+       Затем раздался лай собак. Затем рычание мотоциклов где-то [справа.]Location
+  - |
+       Не могу точно сказать, сколько посетителей было в тот день, но думаю, около 100 – 150. Где-то [шестьдесят]Quantity процентов из них ― те, кто уже был у нас хоть раз, остальные пришли впервые.
 morphology:
   - XP
+  - PP
+  - Adv
+  - NumCrd
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -17,7 +32,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
-  - ~
+  - Time
+  - Location
+  - Quantity
 intonation:
   - ~
 usage_label: Colloquial

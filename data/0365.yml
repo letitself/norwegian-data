@@ -3,9 +3,21 @@ record: 365
 name: 'что касается NP-Gen, то Cl'
 UD_name: 'что касается NP-Gen, то Cl'
 illustration: 'Что касается спорта, то я никогда не любил бегать.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для возврата к [предмету разговора]Theme, который обсуждался ранее в дискурсе. Вторая часть предложения вводит дополнительную [информацию]Situation о [предмете разговора.]Theme
+  - english: |
+       This construction returns focus to a particular [topic]Theme mentioned previously in the discussion, e.g. спорт ‘sports’. The second part of the sentence (introduced with то) expresses what the speaker wants to say about this topic. Closely related constructions in English are ‘as far as X is concerned’ and ‘with regard to X’, e.g. что касается спорта, я никогда не любил бегать ‘as far as sports are concerned, I have never liked to run’.
+  - norwegian: |
+       Konstruksjonen drar fokus tilbake til et [tema]Theme som har vært nevnt tidligere i samtalen, f.eks. спорт ‘sport’. Andre del av setningen (introdusert med то) uttrykker det taleren ønsker å si mht. dette temaet. En nærliggende konstruksjon i norsk er ‘når det gjelder X, så...’, ‘hva angår X, så...’ og ‘med hensyn til X, så...’, f.eks. я никогда не любил бегать ‘når det gjelder sport, så har jeg aldri likt å løpe’.
 examples:
+  - |
+       Что касается [нашего сотрудничества]Theme, то [оно будет развиваться в соответствии с подписанными соглашениями.]Situation
+  - |
+       Что касается [личных впечатлений]Theme о Париже, то [со мной произошёл забавный случай.]Situation
+  - |
+       Что касается [оперативного вмешательства]Theme, то [оно может не понадобиться]Situation, если вовремя принять необходимые меры.
 morphology:
   - NP
   - Gen

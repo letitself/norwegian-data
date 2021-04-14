@@ -3,9 +3,25 @@ record: 568
 name: 'NP что, VP/Cop Pred?'
 UD_name: 'NP что, VP/Cop Praedic?'
 illustration: 'Он что, выпивает?'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенность, сомнение, недоверие говорящего к высказыванию другого участника. Говорящий недоволен или не ожидал таких [действий]Action другого [участника]Agent . Говорящий на основании только что открывшейся информации проверяет информациюю у другого участника.
+  - english: |
+       This construction expresses the speaker's uncertainty, doubt, distrust to what another participant tells them. The speaker is displeased with or did not expect the other [participant]Agent to perform such actions. On the basis of the information given the speaker verifies this with another participant.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       [Он]Agent что, тебе [не поверил?]Action
+  - |
+       [Ты]Agent что, все время [притворялся?]Action
+  - |
+       [Она]Agent что, [счастлива]Action с ним?
+  - |
+       [Мама]Agent что, [врала]Action тебе?
+  - |
+       Это что, тоже входит в мои обязанности?
 morphology:
   - NP
   - VP

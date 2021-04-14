@@ -3,9 +3,23 @@ record: 423
 name: 'Cl, а (не) то VP-Fut'
 UD_name: 'Cl, а (не) то VP-Fut'
 illustration: 'Нужно больше работать, а то уволят.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает предостережение говорящего о некоторой ситуации в будущем. Если не выполнить [определенное условие в настоящем]Condition, то это обязательно приведет к [негативным последствиям]Result .
+  - english: |
+       This construction expresses the speaker's warning about a situation in the future. If [a certain condition in the present]Condition is not fulfilled, then this will lead to [negative consequences]Result.
+  - norwegian: |
+       см комментарий в доке Игоря
 examples:
+  - |
+       Яму возле школы никто закрывать не собирается. [Ты туда не ходи с Мишей]Condition. А то [выбежит вдруг и провалится]Result.
+  - |
+       [Варенье съешьте первым]Condition, а то [испортится]Result.
+  - |
+       [Не рассказывай]Condition! А то [будет неинтересно]Result! — Молчу, молчу, — шептал он.
+  - |
+       -
 morphology:
   - Cl
   - VP

@@ -3,9 +3,21 @@ record: 539
 name: 'NP-Nom не преминуть VP-Inf'
 UD_name: 'NP-Nom не преминуть VP-Inf'
 illustration: 'Он не преминул сделать замечания.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция, которая выражает ситуация невозможности [некоторым объектом]Agent упущуения [сделать что-либо]Action, пройти [мимо чего-либо]Action
+  - english: |
+       This construction expresses that [someone]Agent does not delay in, or miss an opportunity of, [doing something]Action. Note that the construction is slightly formal and that преминуть always is negated.
+  - norwegian: |
+       Konstruksjonen uttrykker at [noen]Agent ikke drøyer med eller går glipp av en mulighet til [å gjøre noe]Action. Legg merke til at konstruksjonen er noe formell og at преминуть alltid er negert.
 examples:
+  - |
+       [Они]Agent не преминули [упрекнуть]Action меня за оставление первопрестольной столицы.
+  - |
+       Разумеется, [я]Agent не преминул [воспользоваться]Action его благосклонным расположением.
+  - |
+       [Митрич]Agent не преминул [сделать]Action Остапу какое-то въедливое замечание.
 morphology:
   - NP
   - Nom

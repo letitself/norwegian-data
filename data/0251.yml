@@ -3,11 +3,21 @@ record: 251
 name: 'ну/так уж (и) XP'
 UD_name: 'ну/так уж (и) XP'
 illustration: 'Он спалил весь дом. Так уж и весь!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       СКЕПСИС, сомнение, недоверие. Конструкция используется для обозначения того, что говорящий недоволен [ситуацией]Situationили испытывает недоверие в связи с [ситуацией]Situation, описанной собеседником.
+       Конструкция используется для обозначения того, что говорящий недоволен [ситуацией]Situation или испытывает недоверие в связи с [ситуацией]Situation, описанной собеседником. СКЕПСИС, сомнение, недоверие.
+  - english: |
+       This construction expresses that the speaker doesn’t believe, or is dissatisfied with, [something]Situation.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren har mistillit til, eller er misfornøyd med, [noe]Situation.
 examples:
+  - |
+       Ну уж и [молода]Situation! Сорок два года ― не молодость.
+  - |
+       Ну уж [ты тоже выбрал профессию]Situation, ― Люба качнула головой. Но мы же теперь выяснили, что я не бухгалтер.
+  - |
+       Он спалил весь дом. Так уж и [весь!]Situation
 morphology:
   - XP
 syntactic_type_of_construction:

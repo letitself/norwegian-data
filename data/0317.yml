@@ -3,9 +3,21 @@ record: 317
 name: 'столько NP-Gen Cop/VP, что Cl'
 UD_name: 'столько NP-Gen Cop/VP, что Cl'
 illustration: 'На концерт пришло столько людей, что некуда было сесть.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает значение избыточности (неопределенное, но довольно значительное) некоторого [объекта]Theme, на которое не рассчитывал участник ситуации. Это избыточное количество объекта влияет либо на некоторое [событие]Situation (как в примере 3, выучил наизусть), либо препятствует его осуществлению (как в примере 1, ставить некуда).
+  - english: |
+       This construction expresses that there is a large (not fixed, but quite substantial) amount of [something]Theme. The given amount influences an [event]Situation (as in the third example, выучил наизусть ‘(he) learned (something) by heart’) or prevents it from taking place (as in the first example, ставить некуда ‘(there was/is) nowhere to put (something)’.
+  - norwegian: |
+       Konstruksjonen uttrykker at det er en stor (ubestemt, men nokså betydelig) mengde av [noe]Theme. Den gitte mengden påvirker en [hendelse]Situation (som i det tredje eksempelet: выучил наизусть ‘(han) lærte (noe) utenat’) eller forhindrer at den finner sted (som i det første eksempelet: ставить некуда ‘(det er/var) ikke noe sted å sette (noe)’).
 examples:
+  - |
+       Ей подарили столько [цветов]Theme, что [ставить некуда.]Situation
+  - |
+       Пришло столько [гостей]Theme, что [мы не ожидали.]Situation
+  - |
+       Сам он прослушал эту запись столько [раз]Theme, что [выучил ее наизусть.]Situation
 morphology:
   - NP
   - Gen

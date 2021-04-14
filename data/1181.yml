@@ -3,9 +3,15 @@ record: 1181
 name: 'NP-Nom с NP-Ins Cop одно лицо'
 UD_name: 'NP-Nom с NP-Ins Cop одно лицо'
 illustration: 'Вася с папой одно лицо.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает сильное [внешнее]Parameter сходство [человека]Comparee с [членом его семьи или известной личностью или персонажем с узнаваемой внешностью]Standard. Как если бы они действительно имели одно и то же лицо.
 examples:
+  - |
+       ― [Я]Comparee с [мамой]Standard ― одно лицо.
+  - |
+       На меня? Да ты что… Он вообще на меня не похож… [Он]Comparee скорее с [девушкой своей]Standard одно лицо.
 morphology:
   - NP
   - Nom

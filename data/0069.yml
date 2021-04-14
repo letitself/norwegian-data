@@ -5,7 +5,19 @@ UD_name: 'вот NP-Nom!'
 illustration: 'Вот дурак!'
 cefr_level: A1
 definitions:
+  - russian: |
+       Это оценочная конструкция, которая используется для выражения сожаления и досады, которые испытывает говорящий по отношению к [некоторой ситуации или человеку]Evaluation.
+  - english: |
+       This is an evaluative construction which is used to express a sadness and annoyance, with which the speaker assesses a [given situation or person]Evaluation .
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Вот [козел]Evaluation! Как он мог тебя бросить?!
+  - |
+       Вот [дурак]Evaluation! И зачем я тебя послушал?
+  - |
+       Как это ты ничего еще не сделал? Вот [лентяй]Evaluation!
 morphology:
   - NP
   - Nom

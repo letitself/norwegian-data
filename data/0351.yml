@@ -3,11 +3,21 @@ record: 351
 name: 'хоть NP, хоть NP'
 UD_name: 'хоть NP, хоть NP'
 illustration: 'Покупай хоть мотоцикл, хоть машину.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. Конструкция обозначает потенциальный выбор между двумя [объектами]Object, при котором оба объекта имеют одинаковые преимущества вне зависимости от своего качества или количества. Неважно, что будет выбрано. Звоните в любое время, хоть днем хоть ночью Апресян. both ways are fine
+       Конструкция обозначает потенциальный выбор между двумя [объектами]Object, при котором оба объекта имеют одинаковые преимущества вне зависимости от своего качества или количества. Неважно, что будет выбрано. Звоните в любое время, хоть днем хоть ночью Апресян. both ways are fine
+  - english: |
+       This construction indicates the potential choice between two [objects]Object, in which both objects have the same benefits regardless of their quality or quantity.
+  - norwegian: |
+       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern.
 examples:
+  - |
+       Мне всё равно. Хоть [чай]Object, хоть [кофе]Object. Лишь бы без твоих придирок!
+  - |
+       Для людей искусства любовь поклонников – это эликсир жизни, ради их любви они готовы притворяться хоть [ангелами]Object, хоть [дьяволами]Object, лишь бы их любили.
+  - |
+       Профессор очень трепетно относится к сухим винам. Хоть [к красным винам]Object, хоть [к белым винам]Object. Особенно к грузинским винам.
 morphology:
   - NP
 syntactic_type_of_construction:

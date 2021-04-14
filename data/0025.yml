@@ -6,18 +6,22 @@ illustration: 'Есть было нечего.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что отстуствует что-либо, что могло бы быть объектом [действия]Action.
+       Конструкция обозначает отсутствие у [участника]Experiencer объекта, необходимого для осуществления некоторого [действия]Action. Ударение в "нечего" стоит на не-.
   - english: |
        This construction means that the object of the [activity]Action is missing.
   - norwegian: |
        Konstruksjonen betyr at objektet for [handlingen]Action er fraværende.
 examples:
   - |
-       Присоединяюсь к поздравлениям! [Добавить]Action нечего. Успехов нашим деткам!
+       [Мне]Experiencer было нечего [терять]Action, поэтому я не боялся.
   - |
-       Так что об их расставании больше и [сказать]Action нечего.
+       Спрашивайте, о чем хотите, [скрывать]Action [нам]Experiencer нечего, мы работаем по прозрачным схемам, самыми современными технологиями.
   - |
-       [Мне]Agent было нечего [терять]Action, поэтому я не боялся.
+       В последнее время [удивляться]Action было нечему.
+  - |
+       А скоро [чинить]Action будет нечего: сломался двигатель, ты его выкинул и поставил новый.
+  - |
+       Он не сомневался, что Арнольд найдёт в его работе недостатки ― и [возразить]Action ему будет нечего.
 morphology:
   - NP
   - Dat
@@ -34,7 +38,8 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Predicative
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
   - ~
 usage_label: ~
@@ -45,7 +50,7 @@ dependency_structure_of_illustration:
   - '[root [cop Есть] [cop было] нечего.]'
 references:
   - |
-    ссылка на иомдина
+    См. Апресян Ю. Д., Иомдин Л. Л. 1989. Конструкции типа НЕГДЕ СПАТЬ: синтаксис, семантика, лексикография. // Семиотика и информатика, вып. 29., 1989, 34-92; Падучева Е. В. 2017. Отрицательные местоимения-предикативы // Русская корпусная грамматика, http://rusgram.ru/Отрицательные_местоимения-предикативы; Avgustinova, Tania. Forthcoming. Russian infinitival existential constructions from HPSG perspective. To appear in the Proceedings of the 4th European conference on Formal Description of Slavic Languages (FDSL-4). 18 pp.
 semantic_types:
   - type: Non-existence
     subtypes:

@@ -3,9 +3,21 @@ record: 2061
 name: '(NP-Dat) VP-Inf Cop некогда'
 UD_name: '(NP-Dat) VP-Inf Cop некогда'
 illustration: 'Ему идти в кино некогда.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает отсутствие у [участника]Experiencer времени, необходимого для осуществления некоторого [действия]Action. Ударение в "некогда" стоит на не-.
 examples:
+  - |
+       Правда, работы много и всё так интересно, что некогда [скучать.]Action
+  - |
+       И невозможно, да и некогда было [объяснять]Action им моё настоящее положение: пусть думают, что я доктор.
+  - |
+       Роди троих детей, и [тебе]Experiencer некогда будет [думать о всякой ерунде.]Action
+  - |
+       По ходу игры некогда [разбирать, кто тут мальчик, а кто ― девочка]Action.
+  - |
+       Там полный дом народа, постоянные гости, некогда [присесть.]Action
 morphology:
   - NP
   - Dat
@@ -22,7 +34,8 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Predicative
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
   - ~
 usage_label: ~

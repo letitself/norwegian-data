@@ -3,11 +3,21 @@ record: 312
 name: 'совсем ещё NP'
 UD_name: 'совсем ещё NP'
 illustration: 'Совсем ещё мальчик'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту) too little experience Конструкция выражает недостаточную опытность и неподготовленность [некоторого участника]Theme . Говорящий характеризует [участника или объект]Theme с точки зрения их [новизны]Evaluation для реального мира. В прошедшем времени используется глагол-связка "быть".
+       Конструкция выражает недостаточную опытность и неподготовленность [некоторого участника]Theme . Говорящий характеризует [участника или объект]Theme с точки зрения их [новизны]Evaluation для реального мира. Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту) too little experience
+  - english: |
+       This construction is used to characterize [someone or something]Theme as too young, inexperienced or unprepared for some situation. In past tense, the construction furthermore requires the copula verb быть ‘be’.
+  - norwegian: |
+       Konstruksjonen brukes for å karakterise [noe eller noen]Theme som for ung, uerfaren eller uforberedt for en gitt situasjon. I fortid krever konstruksjonen i tillegg kopulaverbet быть ‘være’.
 examples:
+  - |
+       [Маша]Theme была совсем ещё [ребёнком]Evaluation и абсолютно беспомощна, не могла защитить себя.
+  - |
+       [Психология]Theme – очень старая, но совсем ещё [молодая наука]Evaluation. Она имеет за собой тысячелетнее прошлое, и тем не менее она вся еще в будущем.
+  - |
+       Около кабака гордо развевался совсем ещё [новенький]Evaluation [красный флаг]Theme. Огромная толпа подошла ближе к нему.
 morphology:
   - NP
 syntactic_type_of_construction:

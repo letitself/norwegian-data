@@ -5,7 +5,19 @@ UD_name: 'вроде (как) XP/Cl'
 illustration: 'Он вроде как идет.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция употребляется, когда говорящий выражает предположительность какого-либо [действия]Theme или [ситуации]Theme.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Вроде как [он это уже говорил.]Theme
+  - |
+       Здесь вроде [нескучно.]Theme
+  - |
+       Он вроде как [не обижался на тебя.]Theme
 morphology:
   - XP
   - Cl

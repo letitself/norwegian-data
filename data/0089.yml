@@ -6,8 +6,16 @@ illustration: 'Всем борщам борщ.'
 cefr_level: A2
 definitions:
   - russian: |
+       Конструкция используется для того, чтобы выделить [объект]Actant среди [подобных]Set ему, как наилучшего обладателя свойственных им качеств.
+  - english: |
        Nominal pattern with reduplication - with the meaning 'best example'
 examples:
+  - |
+       Кевин из Города грехов – всем [злодеям]Set [злодей]Theme.
+  - |
+       Но именно он всем [поэтам]Set [поэт]Theme.
+  - |
+       Ее отец – красивый, статный – всем [мужчинам]Set [мужчина]Theme.
 morphology:
   - NP
   - Nom

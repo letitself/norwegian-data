@@ -5,7 +5,17 @@ UD_name: 'как нельзя Adv-Cmp VP'
 illustration: 'Порошок как нельзя лучше отстирал жирные пятна.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется тогда, когда [некоторое действие]Action выполняется лучшим образом, особенно с учетом [определяющего параметра]Property .
+  - english: |
+       This construction is used when an [action]Action is performed in the best way, especially taking into account the [defining aspect]Property.
 examples:
+  - |
+       Он все видел, все знал ― и [к обоим относился]Action как нельзя [радушнее]Property, не подавая ни малейшего вида, что угадывает между ними любовь под оболочкой пленительной дружбы.
+  - |
+       Живешь смирно, никого не трогаешь, и вдруг [тебя обзывают]Action как нельзя [хуже]Property.
+  - |
+       Хозяйство, порученное ему на корабле, [шло]Action как нельзя [успешнее]Property ― не для него, но для всей команды.
 morphology:
   - Adv
   - Cmp

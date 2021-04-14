@@ -3,9 +3,23 @@ record: 283
 name: 'пусть/пускай (даже) (и) Cl, Cl'
 UD_name: 'пусть/пускай (даже) (и) Cl, Cl'
 illustration: 'Пускай вода холодная, всё равно буду плавать.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает независимость от [некоторого фактора или ситуации]Theme , которые не имеют никакого значения для будущего, по мнению говорящего. Либо говорящий настаивает на продолжении [некоторого действия]Action . Конструкция используется в разговорной речи.
+  - english: |
+       This construction expresses that [something]Theme that potentially could be seen as an obstacle, problem or negative, in the given situation is seen as irrelevant to the speaker, e.g. пускай вода холодная, всё равно буду плавать ‘I don’t care if the water is cold, I will swim anyway.’ The construction is used in informal speech.
+  - norwegian: |
+       Konstruksjonen uttrykker at [noe]Theme som potensielt kunne være en hindring, et problem, eller noe negativt, i den gitte situasjonen betraktes som irrelevant for taleren, f.eks. пускай вода холодная, всё равно буду плавать ‘vannet kan være så kaldt det vil, jeg kommer uansett til å bade’. Konstruksjonen brukes i uformell tale.
 examples:
+  - |
+       Дед сказал: Я скоро выздоровлю и начну сначала жить. Пускай [старый]Theme, никогда не поздно начать.
+  - |
+       Сидит собака на дереве. Ну и пускай [сидит]Action! Может, ей там понравилось…
+  - |
+       Маша ответила громко и радостно: ― Пускай [ветер]Theme, пускай [буря]Theme! Я ничего не боюсь!
+  - |
+       original formula was пускай XP. Дефиниция для 283 и 284 дана одна и та же. Стоит ли соедить их в одну конструкцию? стр 33. "Имеет место ситуация Q; признавая, что Q сильно выходит за пределы нормы и создает отсутствие нормальных условий для существования ситуации Р, говорящий утрвеждает, что Р имеет или будет иметь место". Лексемы этого подкласса используются для описания разного рода крайностей, гечо то предельно большого или предельно малого.
 morphology:
   - Cl
 syntactic_type_of_construction:

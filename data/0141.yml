@@ -5,7 +5,23 @@ UD_name: 'как известно, Cl'
 illustration: 'Как известно, он мастер стихи сочинять.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция указывает, что информация, содержащаяся в [клаузе]Cl , является хорошо знакомой всем, или описывает ситуацию, актуальную всегда. Конструкция является вводной и на письме выделяется запятыми.
+  - english: |
+       This construction emphasizes that the information in [the clause]CL is well-known - to the listeners in particlar, or to all people in general. A closely related construction in English is ‘as is well-known’.
+  - norwegian: |
+       Konstruksjonen understreker at informasjonen i [delsetningen]CL er velkjent, enten for de spesifikke lytterne, eller for folk generelt. En nærliggende konstruksjon i norsk er ‘som kjent’.
 examples:
+  - |
+       Как известно, [в этом году будет отмечаться 300-летие Петербурга]Cl.
+  - |
+       [Государство]Cl, [как известно], [есть орудие классовых интересов]Cl.
+  - |
+       [Многие яды]Cl, [как известно], [обладают целебными свойствами]Cl.
+  - |
+       -
+  - |
+       -
 morphology:
   - Cl
 syntactic_type_of_construction:

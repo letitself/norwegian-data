@@ -3,9 +3,19 @@ record: 438
 name: '(и) без того XP'
 UD_name: '(и) без того XP'
 illustration: 'Капитан и без того знал, что нужно делать.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что с [кем-либо]Experiencer независимо от каких-либо обстоятельств произойдёт [какое-либо событие]Situation. Говорящему не нужны доказательства того, что произойдёт, так как он уверен в этом.
 examples:
+  - |
+       [Мне]Experiencer и без того [хватало, чем заняться в жизни.]Situation
+  - |
+       Впрочем, [мои родные]Experiencer и без того [считают, что я спятил.]Situation
+  - |
+       [ [Он]Experiencer и без того [завтра умрёт.]Situation
+  - |
+       летние пожары почти уничтожили и без того небогатый урожай
 morphology:
   - XP
 syntactic_type_of_construction:

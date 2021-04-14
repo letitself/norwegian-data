@@ -5,7 +5,19 @@ UD_name: 'ещё Adv-Cmp/Adj-Cmp'
 illustration: 'Он стал выглядеть ещё хуже.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для сравнения объектов или ситуаций, имеющих [некоторое свойство]Property. Конструкция обозначает, что некоторый [объект или ситуация]Theme обладает [этим свойством]Property в большей степени, чем остальные.
+  - english: |
+       The construction is used to compare objects or situations having [some property]Property, when you want to say that the [object or situation]Theme has [its property]Property to a greater degree than before.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Вернулся он минут через десять, при этом [улыбка на его лице]Theme стала ещё [веселее]Property.
+  - |
+       А ещё [интереснее]Property были [зёрнышки]Theme, с виду невзрачные, беловатые, как лимонные семечки.
+  - |
+       А теперь появилась [новая версия]Theme, и она ещё [лучше]Property предыдущей.
 morphology:
   - Adv
   - Cmp

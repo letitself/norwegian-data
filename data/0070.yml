@@ -5,7 +5,19 @@ UD_name: 'вот PronPers-Dat и NP-Nom!'
 illustration: 'Вот тебе и встреча!'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения удивления говорящего. [Событие или объект]Evaluation оказались не такими, как он ожидал.
+  - english: |
+       This construction is used to express the speaker’s surprise. [The event or object]Evaluation was not what the speaker had expected.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Бывает, температура падает до минус пятнадцати градусов. Вот тебе и [Юг]Evaluation !
+  - |
+       Местная девушка Маша говорила по-французски совершенно свободно, хотя отучилась только 7 классов школы. Вот тебе и [деревня]Evaluation.
+  - |
+       Громадные ямы с водой. Вот вам и [пляж]Evaluation.
 morphology:
   - PronPers
   - Dat

@@ -3,9 +3,23 @@ record: 430
 name: 'Intj, какой (Adj-Nom) Cop (NP-Nom)!'
 UD_name: 'Intj, какой (Adj-Nom) Cop (NP-Nom)!'
 illustration: 'Ой, какой горячий хлеб!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает [эмоциональную реакцию]Evaluation говорящего на [некоторую ситуацию или объект]Stimulus . Упоминание [объекта]Stimulus или [характеристики]Evaluation можно опустить, если он понятен из контекста. Встречается только в разговорной речи.
+  - english: |
+       This construction expresses the speaker’s [emotional reaction]Evaluation to [a certain situation or object]Stimulus. The name of the [object]Stimulus or the relevant [characteristics]Evaluation can be omitted if they are understood from context. The construction is used only in colloquial speech. In English, a closely related construction is found in expressions, such as "What a beautiful face!", "What a stupid person!", etc.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens [emosjonelle reaksjon]Evaluation på [en gitt situasjon eller et gitt objekt]Stimulus. Navnet på [objektet]Stimulus, eller [egenskapen det er snakk om]Evaluation kan utelates fra konstruksjonen dersom den forståes av konteksten. Konstruksjonen har et muntlig preg. I norsk brukes en nærliggende konstruksjon i uttrykk som "for et vakkert ansikt!", "for en teit person!", osv.
 examples:
+  - |
+       Увидев Васино лицо вблизи, я воскликнула: ― [Ой]Actant, какой [хорошенький]Evaluation!
+  - |
+       Торговец удивился и сказал: ― [Ай]Actant, какой [глупый]Evaluation! [Ай]Actant, какой [глупый]Evaluation [человек]Stimulus! Таких глупых я еще и не видел!
+  - |
+       [Ах]Actant, какая [красота]Stimulus сияла вокруг: море, солнце, цветы.
+  - |
+       -
 morphology:
   - Intj
   - Adj

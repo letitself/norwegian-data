@@ -5,7 +5,21 @@ UD_name: 'довольно (PronPers-2.Dat) VP-Imp.Inf!'
 illustration: 'Довольно жаловаться!'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает [собеседника или другого участника]Participant прекратить выполнять [некоторое действие]Action. Говорящий оценивает это действие отрицательно, так как оно кажется ему слишком длительным. Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником. Конструкция может также использоваться говорящим по отношению к самому себе.
+  - english: |
+       The construction is used when the speaker wants the interlocutor to stop [some action]Action that is currently taking place. The speaker evaluates this action negatively, as it causes him/her discomfort or seems to the speaker too long.
 examples:
+  - |
+       Ну, ладно, довольно [плакать и рыдать.]Action
+  - |
+       Он протянул руку к стакану со спиртом, но Беляков быстро опрокинул его стакан: ― Довольно [пить]Action…
+  - |
+       Ну, господа, садитесь… Кошкин, довольно [спорить]Action… ей-богу, надоело слушать!..
+  - |
+       Он дрожал как осиновый лист и все время стучал зубами. ― Довольно [тебе]Participant [зубами стучать]Action! ― ворчал Ворчун. ― Тут и так холодно, а он еще зубами стучит!
+  - |
+       Довольно [нам всем]Participant [вести себя так, будто живем вечно!]Action
 morphology:
   - PronPers
   - 2
@@ -22,7 +36,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Predicative
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Exclamatory
 usage_label: ~

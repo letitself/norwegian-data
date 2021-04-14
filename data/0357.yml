@@ -3,9 +3,21 @@ record: 357
 name: 'чем Adj-Cmp, тем Adj-Cmp/чем Adv-Cmp, тем Adv-Cmp'
 UD_name: 'чем Adj-Cmp, тем Adj-Cmp/чем Adv-Cmp, тем Adv-Cmp'
 illustration: 'Чем больше, тем лучше.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает пропорциональную зависимость между двумя или более событиями. Постепенное [увеличение или уменьшение фактора]Property в первом событии, которое вводится словом "чем", приводит к [соответствующему изменению]Property во втором событии, которое начинается словом "тем".
+  - english: |
+       This construction expresses a mutual dependency between two or more properties: A strengthening or weakening of [the first property]Property leads to a corresponding change in [the second property]Property. In English чем and тем are translated as ‘the’, e.g. чем больше тем лучше ‘the more the better’.
+  - norwegian: |
+       Konstruksjonen uttrykker et gjensidig avhengighetsforhold mellom to egenskaper: forsterkning eller svekking av [den ene egenskapen]Property fører til en tilsvarende endring i [den andre egenskapen]Property. På norsk oversettes чем og тем med ‘det’ eller ‘desto’, f.eks. чем больше тем лучше ‘det/desto større det/desto bedre’.
 examples:
+  - |
+       Мы просто хотели записаться и [выйти на путь,]Event и чем [быстрее]Property , тем [лучше]Property!
+  - |
+       Считалось, что чем [больше]Property, тем [богаче]Property будет урожай в этом году.
+  - |
+       Чем [дальше]Property в лес, тем [больше]Property [дров.]Theme
 morphology:
   - Adj
   - Cmp

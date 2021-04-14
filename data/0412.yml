@@ -3,11 +3,21 @@ record: 412
 name: 'Cl, очень даже XP!'
 UD_name: 'Cl, очень даже XP!'
 illustration: 'Твой выбор я очень даже одобряю.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
+       Конструкция обозначает, что говорящий выражает свое [мнение]Theme в противоположность [сказанному, ожидаемому.]Situation
+  - english: |
+       This construction signifies that the speaker is expressing his/her [opinion]Theme in contrast to what is [said or/and expected]Situation.
+  - norwegian: |
        слот заполняется оценочными прил и нареч Initally Cl очень даже XP!. Конструкция обозначает, что говорящий выражает свое [мнение]Theme в противоположность [сказанному, ожидаемому.]Situation. [ [Не знаю, почему тебе не понравился тыквенный суп]Situation, [очень]очень [даже]даже [вкусно]Theme ]XP_очень_даже_XP! ! [ [Значение это совершенно не устаревшее]Situation и [очень]очень [даже]даже [обиходное.]Theme ]XP_очень_даже_XP!
 examples:
+  - |
+       [Картошку]Situation я очень даже [люблю]Theme, особенно в мундире.
+  - |
+       [Не знаю, почему тебе не понравился тыквенный суп]Situation, очень даже [вкусно]Theme!
+  - |
+       [Значение это совершенно не устаревшее]Situation и очень даже [обиходное.]Theme
 morphology:
   - Cl
   - XP

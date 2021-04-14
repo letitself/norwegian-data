@@ -1,14 +1,12 @@
 ---
 record: 61
-name: 'NP-Nom возьми и VP-Imp'
-UD_name: 'NP-Nom возьми и VP-Imper'
+name: 'NP-Nom возьми и VP-Pfv.Imp.Sg'
+UD_name: 'NP-Nom возьми и VP-Perf.Imper.Sing'
 illustration: 'А он возьми и купи новую машину!'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent неожиданно для говорящего совершил [действие]Action, которое резко изменило ход событий. Действие происходит быстро и за один этап, часто спонтанно или неожиданно. Оба глагола стоят в одной грамматической форме и не согласуются с подлежащим по лицу и числу.
-  - english: |
-       Нужно отразить в формуле, что императив слот всегда будет в единственном числе, а не императив на -те, и в совершенном виде. То есть NP-Nom возьми и VP-Pfv.Imp.Sg
   - norwegian: |
        Konstruksjonen betyr at [en deltaker]Agent, uventet for taleren, har utført en gitt [handling]Action som brått endret begivenhetenes gang. Handlingen foregår raskt og i én tørn, ofte spontant eller uventet. De to verbene står i samme bøyningsform og kongruerer ikke i person og tall med subjektet.
 examples:
@@ -26,7 +24,9 @@ morphology:
   - NP
   - Nom
   - VP
+  - Pfv
   - Imp
+  - Sg
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:

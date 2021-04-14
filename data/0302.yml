@@ -3,9 +3,17 @@ record: 302
 name: 'сдаётся PronPers-Dat, Cl'
 UD_name: 'сдаётся PronPers-Dat, Cl'
 illustration: 'Сдаётся мне, что сегодня будет дождь.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [говорящий или другой участник ситуации]Agent прогнозирует наступление какой-либо [ситуации]Situation в будущем, однако этот прогноз субъективен.
 examples:
+  - |
+       [Мне]Agent сдаётся, [что вам следовало бы получше кормить ваших животных.]Situation
+  - |
+       И сдаётся [ему]Agent, [этот разговор добром не кончится.]Situation
+  - |
+       Сдаётся [мне]Agent, [в это время никого дома нет.]Situation
 morphology:
   - PronPers
   - Dat

@@ -3,9 +3,21 @@ record: 383
 name: 'чудо какой Adj'
 UD_name: 'чудо какой Adj'
 illustration: 'Машенька просто чудо какая красивая.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает одобрение говорящего. Говорящий считает, что [некоторый объект]Experiencer наделен исключительно [положительными качествами]Evaluation . В прошедшем времени используется глагол-связка "быть" .
+  - english: |
+       This construction expresses the speaker's approval. The speaker thinks that [an object]Experiencer is exclusively endowed with [positive qualities]Evaluation. In past tense the verb "быть" is used.
+  - norwegian: |
+       Он не только сподвиг чудо какую женщину на подвиг есть в косвеном падеже
 examples:
+  - |
+       Семья большая. А главное ― [муж, Николай Прокофьевич]Experiencer . Чудо какой [заботливый]Evaluation.
+  - |
+       ― Чудо какая [милая]Evaluation! ― сказала Маша, глядя на [Вареньку]Experiencer, когда та подавала стакан француженке.
+  - |
+       Это был украинский наряд, с настоящими лентами всех цветов радуги… [Я]Experiencer в нем была чудо какая [хорошая]Evaluation, просто настоящая украинка!
 morphology:
   - Adj
 syntactic_type_of_construction:

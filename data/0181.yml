@@ -3,9 +3,19 @@ record: 181
 name: 'мастак/мастер на NP-Acc'
 UD_name: 'мастак/мастер на NP-Acc'
 illustration: 'Мастак на выдумки'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция характеризует некоторого субъекта как искусного и опытного [в каком-либо деле]Theme.
+  - english: |
+       This construction characterises a subject as skillful and experienced [in something]Theme
 examples:
+  - |
+       Приедет, расскажет ей кучу сказок, он мастак на [такие дела.]Theme
+  - |
+       Пусть кто покрасивее скажет, я не мастак на [слова.]Theme
+  - |
+       Что и говорить, отец мой был мастак [ругаться.]Theme
 morphology:
   - NP
   - Acc

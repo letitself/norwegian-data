@@ -1,13 +1,26 @@
 ---
 record: 499
-name: 'XP как XP'
-UD_name: 'XP как XP'
+name: 'XP/Cl как XP/Cl'
+UD_name: 'XP/Cl как XP/Cl'
 illustration: 'Мальчик был как ангел.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает сходство [одного объекта]Comparee с [другим]Standard по [некоторому признаку]Parameter. Объектами могут быть предметы, участники ситуации или целые ситуации. Признак, по которому происходит сравнение, может быть назван (примеры 1-2) или понятен из контекста. Сравнение может происходить с реальными (пример 3), гипотетическими (пример 4) или вообще не существующими в реальности [объектами]Standard (пример 5). Слот XP может заполняться именной или предложной группой или целой клаузой.
 examples:
+  - |
+       [Она]Comparee не хочет быть [пестренькой]Parameter, как [попугайчик]Standard.
+  - |
+       [Официант, наливающий в тарелку суп]Comparee, [внимателен]Parameter, как [лаборант]Standard, [значителен]Parameter, как [судья]Standard, [сосредоточен]Parameter, как [Флобер за письменным столом]Standard.
+  - |
+       Датчане сосредоточились на идее бутерброда, [доведя эту банальность до художественного совершенства]Comparee, как [Энди Уорхол консервы]Standard.
+  - |
+       Каждый день [к семи утра]Comparee, как [на дежурство]Standard, выходил я на набережную Сены.
+  - |
+       Она почти влюбилась в [слоненка Эле-Фантика]Comparee, как [в чудо природы]Standard, как [в живой и ходячий диван, который бы так подошёл для её гостиной]Standard.
 morphology:
   - XP
+  - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -17,7 +30,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Parameter
+  - Standard
 intonation:
   - ~
 usage_label: ~
@@ -25,6 +40,8 @@ dependency_structure:
   - '[dep XP [nmod [case как] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мальчик] [cop был] [case как] ангел.]'
+comment: |
+    'После союза «как» в конструкции не употребляются клаузы с причастиями и деепричастиями, что отличает ее от синонимичных конструкций 1171 XP/Cl словно XP/Cl (Мальчик пел словно соловей), 1172 XP/Cl будто XP/Cl (Она была красивая будто богиня) и 1173 XP/Cl точно XP/Cl (Хрупкий точно из стекла).'
 references:
   - |
     

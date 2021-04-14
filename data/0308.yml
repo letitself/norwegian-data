@@ -3,9 +3,23 @@ record: 308
 name: 'словом, Cl'
 UD_name: 'словом, Cl'
 illustration: 'Словом, я хочу её видеть.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говоряший делает [вывод]Conclusion или константирует факт после некоторой произошедшей ситуации. Синониминый ряд: "в итоге", "в общем", "короче говоря".
+  - english: |
+       This construction summarizes the speaker’s [main point]Conclusion, e.g. словом, я хочу её видеть ‘in one word, I would like to see her’. Russian synonyms are в итоге ‘as a result’, в общем ‘generally‘ and короче говоря ‘put briefly’.
+  - norwegian: |
+       Konstruksjonen oppsummerer talerens [hovedpoeng]Conclusion, e.g. словом, я хочу её видеть ‘kort sagt øsnker jeg å se henne’. Russiske synonymer er в итоге ‘som et resultat’, в общем ‘alt i alt, generelt’ og короче говоря ‘kort sagt/fortalt’.
 examples:
+  - |
+       Словом, [разгадку я найти не мог]Conclusion.
+  - |
+       Словом, [открытка ещё на несколько дней осталась у меня в кармане]Conclusion.
+  - |
+       Словом, [никто не хотел выполнить эту тяжёлую работу.]Conclusion
+  - |
+       -
 morphology:
   - Cl
 syntactic_type_of_construction:

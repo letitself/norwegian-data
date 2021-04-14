@@ -3,9 +3,21 @@ record: 285
 name: 'ради бога/всего святого/Христа, VP-Imp!'
 UD_name: 'ради бога/всего святого/Христа, VP-Imper!'
 illustration: 'Ради бога, успокойся!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для усиления [просьбы]Action .
+  - english: |
+       This construction is used to strengthen a [request]Action, e.g. успокойся ‘calm down’. A closely related construction in English is ‘for God’s sake’.
+  - norwegian: |
+       Konstruksjonen brukes for å forsterke en [anmodning]Action, f.eks. успокойся ‘ro deg ned’. En nærliggende konstruksjon i norsk er ‘for Guds skyld’.
 examples:
+  - |
+       Ваня, [не ломай машинку]Action, ради [бога!]
+  - |
+       Наталья, [извините]Action ради бога, но я сейчас не понимаю вас.
+  - |
+       Ради Бога, [не надо плакать!]Action
 morphology:
   - VP
   - Imp

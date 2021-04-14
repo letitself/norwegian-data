@@ -3,11 +3,23 @@ record: 559
 name: 'VP VP-Inf'
 UD_name: 'VP VP-Inf'
 illustration: 'Он лег отдохнуть. Все сели смотреть телевизор.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает, что некоторый [субъект]Agent направляется, чтобы принести/привести с собой [что-либо]Theme для [кого-либо]Beneficiary.
   - english: |
-       сериальная серийная конструкция
+       This construction expresses that a [subject]Agent goes to get an [object]Theme for [someone]Beneficiary.
+  - norwegian: |
+       целевой инфинитив "Infinitive of purpose". употребление инфинитива со значением цели после глаголов движения идти, пойти, прийти, подойти. Я подошёл посмотреть. употребление инфинитива с глаголами перемещения, изменения состояния или местоположения: садиться – сесть, ложиться – лечь.
 examples:
+  - |
+       [Мама]Agent сходила за [водой]Theme [дочке]Beneficiary.
+  - |
+       [Христофоров]Agent сходил за [чашечкой чая]Theme [Машe]Beneficiary.
+  - |
+       [Петя]Agent сходил за [топором]Theme [Васе]Beneficiary, а потом положил голову на бревно и сказал: "Руби!"
+  - |
+       -
 morphology:
   - VP
   - Inf

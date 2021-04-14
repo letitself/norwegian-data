@@ -3,11 +3,19 @@ record: 180
 name: 'мало ли PronInt VP'
 UD_name: 'мало ли PronInt VP'
 illustration: 'Мало ли чего он попросит!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
+       Конструкция обозначает, что слова или мнение собеседника для говорящего не важны и не имеют значения. Говорящий не соглашается с мнением собеседника и высказывает, отстаивает [свою точку зрения.]Theme
+  - english: |
        Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. Indifference. [ [Мало]мало [ли]ли [где]Actant [меня теперь лечить будут!
 examples:
+  - |
+       Ведь должна была сказать! — Мало ли [что]Actant [должна]Theme.
+  - |
+       «Мало ли [что]Actant [может случиться]Theme, а разведчики без офицера остаются», – сказал он командиру, и тот согласился с ним.
+  - |
+       Мало ли [где]Actant [меня теперь лечить будут!]Theme
 morphology:
   - PronInt
   - VP

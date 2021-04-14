@@ -3,9 +3,19 @@ record: 417
 name: 'Cl так нет (же), Cl'
 UD_name: 'Cl так нет (же), Cl'
 illustration: 'Всё съел, так нет же, ему мало!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает возмущение, недовольство говорящего по поводу того, что [ход вещей]Event пошел не не так, как следовало или [как можно было ожидать.]Situation
+  - english: |
+       This construction expresses anger and dissatisfaction with the speaker about the fact that [a series of events]Event did not go as they should have, or [as expected]Situation.
 examples:
+  - |
+       [Лежал бы сейчас дома на диване, чаек пил]Situation, так нет же, [пошел c нами на концерт.]Event
+  - |
+       [Все сидели молча и ждали концерта]Situation, так нет же, [ему обязательно надо было поговорить!]Event
+  - |
+       [Лучше бы действительно ничего не дарила]Situation, так нет, [опять эти носки купила.]Situation
 morphology:
   - Cl
 syntactic_type_of_construction:

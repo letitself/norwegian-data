@@ -7,21 +7,19 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает [причину]Cause некоторого [действия]Action или [ситуации]Situation, обычно нежелательных.
-  - english: |
-       Заменить VP на Cl?
   - norwegian: |
        Konstruksjonen betegner [årsaken]Cause til en gitt [handling]Action eller [situasjon]Situation. Handlingen eller situasjonen er vanligvis uønsket.
 examples:
   - |
-       Ввиду [неявки на это заседание представителей Следственного комитета]Cause [его перенесли на 16 августа]Situation.
-  - |
-       Ввиду [разницы в возрасте]Cause, [мне трудно было его догнать]Situation.
+       – Ввиду [сложности и ответственности дела]Cause [разрешите]Action мне ехать немедленно.
   - |
        Ввиду [наступившей русской зимы]Cause, москвичи [с энтузиазмом покупают шубы]Action ― для москвичей это не роскошь, а средство утепления.
   - |
-       – Ввиду [сложности и ответственности дела]Cause [разрешите]Action мне ехать немедленно.
+       Ввиду [неявки на это заседание представителей Следственного комитета]Cause [его перенесли на 16 августа]Situation.
   - |
        [Рейсы могут быть отменены]Situation ввиду [бездорожья]Cause.
+  - |
+       Ввиду [разницы в возрасте]Cause, [мне трудно было его догнать]Situation.
 morphology:
   - VP
   - NP

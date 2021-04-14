@@ -3,9 +3,17 @@ record: 447
 name: 'и впрямь/вправду XP'
 UD_name: 'и впрямь/вправду XP'
 illustration: 'Я и впрямь ему верю.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий подтверждает достоверность какого-либо [факта]Evaluation или выражает уверенность в [произошедшем событии]Evaluation. Синонимичные конструкции со словами "в самом деле", "на самом деле", "действительно".
 examples:
+  - |
+       [Он]Theme и впрямь [болен.]Evaluation
+  - |
+       И впрямь [нам]Theme [пора отдохнуть.]Evaluation
+  - |
+       Да, спорить бесполезно, [фильм]Theme и вправду [худший]Evaluation из творений Спилберга.
 morphology:
   - XP
 syntactic_type_of_construction:

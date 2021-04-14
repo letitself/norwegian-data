@@ -3,9 +3,21 @@ record: 247
 name: 'NP-Nom носить/иметь Adj-Acc характер-Acc'
 UD_name: 'NP-Nom носить/иметь Adj-Acc характер-Acc'
 illustration: 'Большинство звонков носило консультационный характер.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что какой-либо предмет, событие или явление имеет/заключает в себе какое-то [отличительное свойство или особенность]Property.
+  - english: |
+       This construction means that something, e.g. большинство звонков ‘the majority of the calls’, is of a certain character, e.g. носило консультационный характер ‘had a consultative character’.
+  - norwegian: |
+       Konstruksjonen betyr at noe er av en viss karakter, f.eks. большинство звонков имело консультационный характер ‘de fleste telefonsamtalene hadde veiledningskarakter’.
 examples:
+  - |
+       Конный спорт на Кавказе носит [национально-бытовой]Property характер.
+  - |
+       Многие наставления родителей носят [рекомендательный]Property характер, подразумевая возможность выбора.
+  - |
+       Очевидно, что это дело носит [политический]Property характер.
 morphology:
   - NP
   - Nom

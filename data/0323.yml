@@ -3,9 +3,17 @@ record: 323
 name: 'такой NP, который Cl, Cl'
 UD_name: 'такой NP, который Cl, Cl'
 illustration: 'Таких домов, которые нужно расселить, много.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что существует некоторый [объект]Theme, который подобен по каким-либо признакам, характеристикам [другому объекту]Evaluation.
 examples:
+  - |
+       Такое [состояние]Theme, какое [сейчас у вас]Evaluation, [может быть опасным для жизни.]Situation
+  - |
+       Такой [человек]Theme, как [мой брат]Evaluation, [не подведет.]Situation
+  - |
+       Такие [приключения]Theme, которые [случались с нами]Evaluation, [потом вспоминаются с удовольствем.]Situation
 morphology:
   - NP
   - Cl

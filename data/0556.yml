@@ -3,9 +3,23 @@ record: 556
 name: 'NP-Nom слыть NP-Ins'
 UD_name: 'NP-Nom слыть NP-Ins'
 illustration: 'Она слыла отличницей.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Theme славится [чем-то особенным]Property, считается известным в качестве [кого-либо]Property
+  - english: |
+       This construction signifies that [a participant]Theme has a reputation for [something specific]Property, or is known for being [someone]Property.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Его [жена]Theme слыла [красавицей]Property, выступала моделью для многих картин мужа.
+  - |
+       До пятого класса [Полищук]Theme слыла [отличницей]Property, потом "скатилась" на двойки.
+  - |
+       [Макаров]Theme слыл [человеком умным]Property, образованным, опытным.
+  - |
+       -
 morphology:
   - NP
   - Nom

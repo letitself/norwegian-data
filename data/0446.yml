@@ -3,9 +3,19 @@ record: 446
 name: 'NP за NP-Acc'
 UD_name: 'NP за NP-Acc'
 illustration: 'Журнал за ноябрь скоро выйдет из печати.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [объект]Theme появился [в течение какого-либо срока.]Time
+  - english: |
+       This construction indicates that an [object]Theme has appeared in relation to [a certain time period]Time.
 examples:
+  - |
+       Это [газета]Theme за [пятницу]Time, – сказал Димка.
+  - |
+       По предварительной оценке, [федеральный бюджет]Theme за [январь – декабрь 2002 года]Time.
+  - |
+       Теперь мы можем уже оперировать [отчетами]Theme за [октябрь.]Time
 morphology:
   - NP
   - Acc

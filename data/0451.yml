@@ -3,9 +3,17 @@ record: 451
 name: 'NP как будто VP'
 UD_name: 'NP как будто VP'
 illustration: 'Они как будто уезжают сегодня.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция употребляется при выражении говорящим неуверенности или предположения по поводу какого-либо [события]Action или [действия]Action со стороны [участника ситуации.]Agent
 examples:
+  - |
+       [Дождя]Agent как будто [не намечается.]Action
+  - |
+       [Он]Agent как будто [говорил]Action, что придёт.
+  - |
+       [Он]Agent как будто [приехал]Action уже.
 morphology:
   - NP
   - VP

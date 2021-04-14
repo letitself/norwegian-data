@@ -3,9 +3,19 @@ record: 354
 name: 'чего доброго, VP-Prs/VP-Fut'
 UD_name: 'чего доброго, VP-Pres/VP-Fut'
 illustration: 'Чего доброго, заставят посуду мыть.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает опасение говорящего в связи с [гипотетической ситуацией]Action, которая может произойти в будущем. Если предпринять какое-либо действие, то результат может привести к нежелательным последствиям. Упоминание действия может как следовать за словосочетанием "чего доброго", так и предшествовать ему.
+  - english: |
+       This construction expresses the speaker's anticipation about a future situation. If the [action]Action is carried out, it may lead to undesirable consequences. In a sentence the action can follow or precede "чего доброго".
 examples:
+  - |
+       ― Не грязни её, да папиросы горящие не клади, а то [прожжёшь]Action, чего доброго.
+  - |
+       ― Расскажу потом свой страшный сон, сейчас не могу, а то, чего доброго, [опять приснится]Action.
+  - |
+       Нина попыталась выйти из квартиры, но тут же вернулась к оконцу, решив, что теперь выходить нельзя: чего доброго, [еще убьют в темноте]Action.
 morphology:
   - VP
   - Prs
@@ -32,7 +42,7 @@ dependency_structure_of_illustration:
   - '[root [parataxis Чего [amod доброго]], заставят [xcomp [obj посуду] мыть].]'
 references:
   - |
-    
+    Dobrushina, N.R. 2006. Грамматические формы и конструкции со значениме опасения и предостережения. Вопросы языкозналия, 2, 28-67.
 semantic_types:
   - type: Apprehension
     subtypes:

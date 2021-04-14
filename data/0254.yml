@@ -3,9 +3,23 @@ record: 254
 name: 'одинаково XP'
 UD_name: 'одинаково XP'
 illustration: 'Он относится ко всем одинаково внимательно.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что субъект/объект в равной мере, степени выполняет [какое-либо действие или имеет какие-либо личные качества]State в совершенно противоположных ситуациях. Конструкция может также обозначать намерение субъекта совершить два абсолютно разных [действия]State в зависимости от ситуации.
+  - english: |
+       This construction means that the participant [performs a certain action]Situation or [has certain characteristics]State to the same degree in opposite situations, e.g. он был одинаково молчалив среди друзей и в незнакомой компании ‘he was just as quiet among friends as in the company of strangers’. The construction can furthermore express that, depending on how something unfolds, the subject is equally ready to [perform one action]Situation as they are to [perform another]Situation, e.g. разойтись миром vs. подраться ‘part in peace’ vs. ‘fight’.
+  - norwegian: |
+       Konstruksjonen betyr at deltageren [utfører en viss handling]Situation eller [har visse egenskaper]State i samme grad i det som kan betegnes som motsatte situasjoner, f.eks. он был одинаково молчалив среди друзей и в незнакомой компании ‘han var like tyst blant venner som i fremmedes selskap’. Konstruksjonen kan også uttrykke at subjektet er like beredt til å [utføre en handling]Situation som [en annen]Situation, alt ettersom hvordan noe utvikler seg, e.g. разойтись миром vs. подраться ‘skilles i fred’ vs. ‘slåss’.
 examples:
+  - |
+       Сегодня ему одинаково [не работалось]State и утром, и днём.
+  - |
+       Он был одинаково [молчалив]State среди друзей и в незнакомой компании.
+  - |
+       Он стоял, чуть склонив голову, одинаково [готовый]State и к тому, чтобы разойтись с миром, и к тому, чтобы подраться.
+  - |
+       -
 morphology:
   - XP
 syntactic_type_of_construction:

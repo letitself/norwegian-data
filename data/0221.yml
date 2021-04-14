@@ -3,9 +3,21 @@ record: 221
 name: 'NP-Nom нести NP-Acc'
 UD_name: 'NP-Nom нести NP-Acc'
 illustration: 'Он несет наказание за совершенные преступления.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что кто-либо испытывет или испытывал какие-либо [трудности]Theme или [неприятности]Theme в связи со сложившейся ситуацией, которую он не в состоянии изменить. Конструкция имеет ограниченную сочетаемость на абстрактные объекты: бремя, кара, наказание, груз ответственности.
+  - english: |
+       This construction means that someone experiences [something difficult or unpleasant]Theme because of something that has happened and which they cannot change. The construction occurs with certain abstract nouns: бремя ‘burden’, кара ‘penalty, retribution’, наказание ‘punishment’, груз ответственности ‘the weight of responsibility’.
+  - norwegian: |
+       Konstruksjonen betyr at noen opplever [noe vanskelig eller ubehagelig]Theme som følge av noe som har skjedd og som de ikke har mulighet til å endre. Konstruksjonen forekommer med abstrakte substantiver: бремя ‘byrde’, кара ‘straff’, наказание ‘straff’, груз ответственности ‘ansvarsbyrde’.
 examples:
+  - |
+       Он несёт [бремя]Theme ответственности по содержанию данного дома.
+  - |
+       Она понесла [кару]Theme за мнимую вину, за несовершенный проступок.
+  - |
+       Он понес [наказание]Theme в виде увольнения со службы.
 morphology:
   - NP
   - Nom

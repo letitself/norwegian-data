@@ -3,9 +3,19 @@ record: 162
 name: 'какой такой NP'
 UD_name: 'какой такой NP'
 illustration: 'Какая такая причина у нее обижаться?'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает, что говорящий недоумевает или не соглашается с кем-либо, о [ком-нибудь]Theme или [чём-нибудь]Theme совершенно неизвестном. Конструкция имеет оттенок раздражения или пренебрежения.
+  - english: |
+       This construction expresses that the speaker is perplexed or is not in agreement with someone, about [someone]Theme or [something]Theme that is completely unknown. This construction indicates a hint of irritation or disregard.
 examples:
+  - |
+       Какие такие [проводы]Theme ещё выдумала!
+  - |
+       Какая-то девушка вас спрашивает. Какая такая [девушка]Theme?
+  - |
+       Пришёл Иванов. Какой такой [Иванов]Theme?
 morphology:
   - NP
 syntactic_type_of_construction:

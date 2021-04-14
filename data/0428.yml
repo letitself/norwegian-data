@@ -3,11 +3,21 @@ record: 428
 name: 'Cl, (a) так, Cl'
 UD_name: 'Cl, (a) так, Cl'
 illustration: 'Она мне не нравилась, а так, баловство одно.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
+       Конструкция употребляется для характеристики [обстоятельства действия]Theme, которое не имеет особенной цели или большого значения для говорящего.
+  - english: |
        Initially DiscCl так, Cl. Negative because the object does not have enough value. Object is evaluated as unimportant Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
 examples:
+  - |
+       [Что ты мне принес?]Context – Так, [безделицу.]Theme
+  - |
+       [Что с тобой? – спросил Петр Иваныч.]Context – Так, [пришла в голову одна идея.]Theme
+  - |
+       ["Что делаешь?"]Context Так, [ничего]Theme
+  - |
+       -
 morphology:
   - Cl
 syntactic_type_of_construction:

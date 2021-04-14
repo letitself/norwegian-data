@@ -3,9 +3,23 @@ record: 561
 name: 'таки VP'
 UD_name: 'таки VP'
 illustration: 'Он таки добился успеха несмотря на все сложности.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник осуществляет какое-либо [действие]Action вопреки какой-либо помехе или чему-либо желаемому.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       [Он]Agent таки [пришел]Action, хотя мы его не звали.
+  - |
+       [Я]Agent [успел]Action таки на поезд вчера!
+  - |
+       [Он]Agent таки [навязался]Action к нам в компанию.
+  - |
+       Сделать ссылки на 624 и 662
 morphology:
   - VP
 syntactic_type_of_construction:

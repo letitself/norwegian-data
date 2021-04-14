@@ -5,7 +5,19 @@ UD_name: 'до NP-Gen Cl'
 illustration: 'До завтрака нельзя включать телевизор.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает самый дальний [временной предел]Event, после которого [ситуация]Situation может измениться, но не ранее.
+  - english: |
+       This construction expresses the latest [time]Event after which [a situation]Situation may change, but not prior.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       [Не читайте вы «советских» газет]Situation до [обеда]Event, аппетит испортите…
+  - |
+       [Иногда я могу танцевать хоть]Situation до [утра]Event.
+  - |
+       [― Нельзя ли попросить у вас шесть рублей]Situation до [завтра]Event?
 morphology:
   - NP
   - Gen

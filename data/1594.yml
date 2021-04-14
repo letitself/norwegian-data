@@ -5,6 +5,8 @@ UD_name: 'от случая к случаю VP'
 illustration: 'Варвара ночует дома от случая к случаю.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое событие]Event происходит многократно, но реже, чем ожидается, иногда.
 examples:
 morphology:
   - VP
@@ -18,7 +20,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - ~
 usage_label: ~

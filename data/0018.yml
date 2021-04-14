@@ -6,18 +6,22 @@ illustration: 'Нам не мешало бы подкрепиться.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий считает, что [кому-либо]Experiencer следует выполнить [какое-либо действие]Action, которое он считает приемлемым и уместным в какой-либо конкретной ситуации.
+       Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Experiencer выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации.
   - english: |
-       This construction means that, according to the speaker, it would be appropriate or a good idea to perform [a certain action]Action. A [dative subject]Experiencer is included if the given action should be performed by someone in particular.
+       This construction means that, according to the speaker, it would be appropriate or a good idea to perform [a certain action]Action. A [dative subject]Experiencer is included if the given action should be performed by someone in particular. Конструкция обозначает, что с точки зрения говорящего ему самому или другому [участнику]Experiencer следует выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации.
   - norwegian: |
        Konstruksjonen uttrykker at det ifølge taleren i en gitt situasjon ville være riktig eller lurt å utføre en viss [handling]Action. Et [dativsubjekt]Experiencer inkluderes hvis denne handlingen bør utføres av en bestemt person.
 examples:
   - |
-       Тут не мешало бы [дать небольшое уточнение.]Action
-  - |
        Пиво не мешало бы [подержать в холодильнике]Action.
   - |
        Время уже позднее, [вам]Experiencer не мешало бы [отдохнуть.]Action
+  - |
+       Она сказала, что есть очень интересная диссертация, с которой и [мне]Experiencer не мешало бы [ознакомиться]Action, только она не помнит, кто автор, зато название знает.
+  - |
+       ― Вечер наш, что будем делать? ― Как скажешь, ― говорю, ― не мешает [отметить встречу.]Action ― Тогда приглашаю тебя в "Селигер", поужинаем.
+  - |
+       ― И [мне]Experiencer не мешает [побриться]Action, ― добавил Адам.
 morphology:
   - NP
   - Dat
@@ -35,7 +39,8 @@ part_of_speech_of_anchor:
   - Verb
   - Particle
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
   - Assertive
 usage_label: Colloquial
@@ -46,9 +51,11 @@ dependency_structure:
   - '[root [advmod не] мешает [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам] [advmod не] мешало [aux бы] [csubj подкрепиться].]'
+comment: |
+    'См. близкую по значению конструкцию 2119.'
 references:
   - |
-    Ему не мешает ей позвонить степени облигаторности Цейтлин С.Н. Необходимость //Теория функциональной грамматики. Темпорвльность. Модальность. - Л.,1990. С.142 и след. см.: Шведова Н.Е. о семантических компонентах высказываний со значением долженствования. Русская грамматика. - К.,1980. Т.2. С.П6 и след. Лексемы следует, лучше, не мешает, стоит и некоторые другие используются для передачи факта нереализованного, например: Раз вы не застали его дома, следовало оставить ей записку.
+    См. степени облигаторности в статье Цейтлин С. Н. Необходимость // Теория функциональной грамматики. Темпоральность. Модальность. - Л., 1990. С.142 и след.
 semantic_types:
   - type: Causation
     subtypes:

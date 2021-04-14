@@ -5,7 +5,19 @@ UD_name: 'вот это Cop NP-Nom!'
 illustration: 'Вот это подарок!'
 cefr_level: A1
 definitions:
+  - russian: |
+       Это оценочная конструкция, которая используется для выражения удивления говорящего, который впервые увидел [некоторый объект]Theme или стал свидетелем [некоторого произошедшего события]Theme, которые его поразили. Оценка может быть как положительной, так и отрицательной.
+  - english: |
+       This evaluative construction is used to express the surprise of the speaker, who has seen a [certain object]Theme for the first time or witnessed an [event]Theme that surprised him/her. The evaluation can be both positive and negative.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Вот это [жизнь]Theme! Вот это [судьба]Theme!
+  - |
+       Вот это [подвиг]Theme!
+  - |
+       Даже от алиментов отказалась. Вот это [характер]Theme!
 morphology:
   - Cop
   - NP

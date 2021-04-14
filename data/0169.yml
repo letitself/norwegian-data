@@ -3,9 +3,21 @@ record: 169
 name: 'NP-Nom краснеть за NP-Acc'
 UD_name: 'NP-Nom краснеть за NP-Acc'
 illustration: 'Мама краснела за оценки сына.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий или участник стыдится [действий]Partcipant другого участника ситуации, которые получили негативную оценку окружающих.
+  - english: |
+       This construction expresses that someone feels embarrassed or ashamed at [someone, something or an action]Reason in such a way that they could turn red.
+  - norwegian: |
+       Konstruksjonen betyr at noen er flau eller skjemmes over [noen, noe eller noe som har skjedd]Reason på en slik måte at de kunne rødme.
 examples:
+  - |
+       [Ника]Agent краснеет за [свою трусость]Reason.
+  - |
+       Читал и краснел за [свой ужасный английский]Reason.
+  - |
+       Не пришлось бы краснеть за [этих ребят]Reason.
 morphology:
   - NP
   - Nom

@@ -3,9 +3,21 @@ record: 409
 name: 'Cl как есть'
 UD_name: 'Cl как есть'
 illustration: 'Отдавайте как есть.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [что-либо]Theme представляется или делается без прикрас, в своем изначальном состояниии, в истинном виде, по-настоящему.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Я опять улёгся — как есть, [в ботинках.]Theme
+  - |
+       [Нищий он,]Theme как есть [нищий!]Theme
+  - |
+       [Я говорю]Theme все как есть!
 morphology:
   - Cl
 syntactic_type_of_construction:

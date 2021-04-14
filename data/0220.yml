@@ -3,9 +3,21 @@ record: 220
 name: 'NP-Nom нести NP-Acc'
 UD_name: 'NP-Nom нести NP-Acc'
 illustration: 'Он понес большие убытки на работе.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что кто-либо испытывет [трудности]Theme или [неприятности]Theme. Конструкция имеет ограниченную сочетаемость: потери, убытки, урон.
+  - english: |
+       This construction means that someone experiences [something difficult or unpleasant]Theme. The following nouns occur in the construction: потери ‘losses‘, убытки ‘losses, damage’ and урон ‘injury’.
+  - norwegian: |
+       Konstruksjonen uttrykker at noen opplever [noe vanskelig eller ubehagelig]Theme. I konstruksjonen forekommer følgende substantiv: потери ‘tap (pl.)‘, убытки ‘tap, skader’ and урон ‘skade’.
 examples:
+  - |
+       Он несет [убытки]Theme на новой работе.
+  - |
+       Обычно в сражении одна из воюющих сторон несет [очень значительный урон.]Theme
+  - |
+       Банку под него придется создавать дополнительные резервы, а значит, понести [потери.]Theme
 morphology:
   - NP
   - Nom

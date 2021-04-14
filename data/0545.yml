@@ -3,9 +3,21 @@ record: 545
 name: 'NP-Nom относиться к числу NP-Gen'
 UD_name: 'NP-Nom относиться к числу NP-Gen'
 illustration: 'Он относится к числу скептиков.'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция показывает, что [некоторый участник или объект]Theme принадлежит к [другому множеству людей или объектов]Set. Основной глагол "относиться" согласуется с числом и родом [участника или объекта]Theme.
+  - english: |
+       This construction shows that [a participant or object]Theme belongs to [another set of people or objects]Set. The main verb "относиться" agrees with the number and genus [of the participant or object]Theme.
+  - norwegian: |
+       Compare 533, 545, 555, 556, 566, 567. They are similar and form a family
 examples:
+  - |
+       [Архитекторы Федоровы]Theme относятся к числу [тех специалистов]Set, которые серьезно работают над смягчением стрессовой ситуации .
+  - |
+       [Балейкин]Theme относился к [числу бизнесменов]Set, не утративших интерес к добыванию денежных знаков .
+  - |
+       Танин муж при жизни обожал фотографироваться. [Этот портрет]Theme относился к числу [лучших]Set.
 morphology:
   - NP
   - Nom

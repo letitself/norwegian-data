@@ -3,11 +3,21 @@ record: 287
 name: 'разве не NP-Nom Cop?'
 UD_name: 'разве не NP-Nom Cop?'
 illustration: 'Разве не красота?'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Rethorical questions, Matching the standard
+       Конструкция используется в ситуации, когда говорящий считает, что [некоторый объект]Theme или [ситуация]Theme по каким-либо свойствам напоминает [другой объект]Evaluation . Говорящий намерен выяснить, согласен ли с ним собеседник. Часто [объект]Theme или [ситуация]Theme известны из контекста, поэтому [их]Theme можно опустить. Конструкция также используется для оценки ситуации, при которой не требуется наличие [объекта]Theme. Rethorical questions, Matching the standard
+  - english: |
+       This construction is used to emphasize [a certain characteristic]Evaluation about [something]Theme, e.g. разве не красота ‘isn’t it just beautiful?’. The speaker wants to find out if the addresse agrees or give an evaluation of the [situation]Theme. [What is being characterized]Theme is clear from the larger context and is not necessarily mentioned in the construction itself.
+  - norwegian: |
+       Konstruksjoen brukes for å understreke [en viss egenskap]Evaluation ved [noe]Theme, f.eks. разве не красота ‘er den/det ikke bare nydelig?’. Taleren ønsker å finne ut om adressaten er enig, eller gi en vurdering av [situasjonen]Theme. [Hva som karakteriseres]Theme er klart fra den videre konteksten og nevnes dermed ikke nødvendigvis i konstruksjonen selv.
 examples:
+  - |
+       ― Может быть, вызвать врача? ― А [вы]Theme разве не [врач]Evaluation? Я вам доверяю.
+  - |
+       [Мой сын будет жить вместе с этим страшным человеком]Theme. Ну разве не [катастрофа]Evaluation?
+  - |
+       Да и просто на них смотреть ― разве не [удовольствие]Evaluation?
 morphology:
   - NP
   - Nom

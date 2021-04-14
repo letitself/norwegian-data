@@ -3,9 +3,23 @@ record: 549
 name: 'NP-Nom пребывать на/в NP-Loc/у NP-Gen'
 UD_name: 'NP-Nom пребывать на/в NP-Loc/у NP-Gen'
 illustration: 'Охранник пребывает на посту.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция, обозначающая, что[некоторый субъект]Agent находится [в каком-то положении или месте]Location.
+  - english: |
+       This construction signifies that [the subject]Agent is [in some position or place]Location.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Этот господин — давний член нашего Общества, и у него ничуть не меньше прав пребывать в [нашем монастыре]Location, нежели у вас.
+  - |
+       [Он]Agent пребывал на той же [должности]Location в сторожевом полку, со вторым воеводой Ф.И. Салтыковым.
+  - |
+       [Государственный секретарь Вэнс ]Agent в мрачном расположении духа пребывал [у себя дома]Location.
+  - |
+       -
 morphology:
   - NP
   - Nom

@@ -3,9 +3,21 @@ record: 461
 name: 'NP Adj/Noun'
 UD_name: 'NP Adj/N'
 illustration: 'У нее была юбка мини и платье-футляр.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция описывает некоторый [материал или покрой]Set, свойственный [какому-либо предмету]Theme. Конструкция обычно используется при описании одежды.
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       [Джинсы]Theme [клеш]Set снова в моде!
+  - |
+       [Платье]Theme [футляр]Set помогает создать элегантный и безупречный образ.
+  - |
+       Красивые [джинсы]Theme [стретч]Set подойдут любой девушке.
 morphology:
   - NP
   - Adj

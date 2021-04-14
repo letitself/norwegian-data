@@ -3,9 +3,23 @@ record: 555
 name: 'NP-Nom сделаться NP-Ins/Adj-Ins'
 UD_name: 'NP-Nom сделаться NP-Ins/Adj-Ins'
 illustration: 'Он сделался важным начальником.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы показать [изменение]Result [некоторого участника или объекта]Theme . Это изменение произошло с течением времени или по другим обстоятельствам. Изменение коснулось либо статуса, либо каких-либо характерных особенностей.
+  - english: |
+       This construction is used to show the [change]Result [of a participant or an object]Theme. This change happened over time or due to other circumstances. The change has affected either the status or some characteristic features.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       У бабушки Пани была дочь Лидия. Вот её племянник Эдик посетил во вполне зрелом возрасте 21 года в городе Рига. [Лидия]Theme сделалась [адвокатом]Result и родила дочь Ларису.
+  - |
+       Закат угасал, [небо]Theme сделалось [светлее и выше]Result, и река посветлела.
+  - |
+       Мать не могла оплакивать сына ― [она]Theme сделалась [немой и безголосой]Result.
+  - |
+       -
 morphology:
   - NP
   - Nom

@@ -3,9 +3,17 @@ record: 399
 name: 'Cl (да) и всё тут'
 UD_name: 'Cl (да) и всё тут'
 illustration: 'Не буду есть мясо и всё тут.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что возникшая [ситуация]Situation необратима, поэтому говорящему нечего добавить. Часто сама эта ситуация спровоцирована говорящим.
 examples:
+  - |
+       В общем, [не завелась машина]Situation, и всё тут.
+  - |
+       [А вот возьму и выйду за него замуж]Situation, и всё тут.
+  - |
+       [Убегу из дома]Situation, да и всё тут.
 morphology:
   - Cl
 syntactic_type_of_construction:

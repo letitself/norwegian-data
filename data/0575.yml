@@ -3,9 +3,21 @@ record: 575
 name: 'NP-Nom NP-Dat показать-Fut!'
 UD_name: 'NP-Nom NP-Dat показать-Fut!'
 illustration: 'Я тебе покажу!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения угрозы [говорящего]Experiencer [участнику ситуации]Participant, которая не предполагает конкретных действий в будущем в отношении участника. Обычно на письме сопровождается восклицательным знаком.
+  - english: |
+       This construction is used to express a non-specific future threat to the participant. In written form an exclamation mark is usually used.
+  - norwegian: |
+       еще существует Pro_Pro-Dat_устрою "Я тебе устрою", еще есть в нашем списке "Я тебе поору!"
 examples:
+  - |
+       "Хватит вертеться!. [Я]Participant [тебе]Experiencer покажу! Сядь как следует!"
+  - |
+       Незнакомцы оставили свои машины на дороге. Иван выскочил из дома и закричал злобно: ― Уезжайте! Сейчас ребят позову, [ребята]Participant [вам]Experiencer покажут!
+  - |
+       Николай Михайлович часто повторял: "Пусть только явится! [Я]Participant [ему]Experiencer покажу! Никаких ему больше денег не дам."
 morphology:
   - NP
   - Nom

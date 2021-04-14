@@ -1,13 +1,26 @@
 ---
 record: 1590
-name: 'временами VP'
-UD_name: 'временами VP'
+name: 'временами VP-Ipfv'
+UD_name: 'временами VP-Imp'
 illustration: 'Временами пересматриваю этот фильм.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое событие]Event происходит многократно, но реже, чем ожидается, иногда.
 examples:
+  - |
+       Дождь временами [переставал]Event, а потом снова шел.
+  - |
+       Всё время было ощущение какой-то неуверенности или даже вины… Это ощущение трудно передать словами… Оно временами [ослабевало]Event, потом опять усиливалось… Но полностью никогда не исчезало…
+  - |
+       По комнате ходил молодой парень, временами [поглядывал на телефон]Action…
+  - |
+       Родители заставляют ее играть на фаготе и временами [отдавать ноутбук]Action в пользование младшей сестренке.
+  - |
+       Временами [казалось]Event, что боль в руке прошла.
 morphology:
   - VP
+  - Ipfv
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -17,7 +30,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - ~
 usage_label: ~

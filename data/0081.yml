@@ -5,7 +5,19 @@ UD_name: 'всё тот же NP'
 illustration: 'Всё те же лица.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция используется для того, чтобы подчеркнуть полную идентичность [объекта]Theme с тем, который уже известен из предыдущего контекста.
+  - english: |
+       The construction is used to emphasize the complete identity of an [object]Theme which is already known from previous context. A form of the verb "быть" is used in the past or future tense.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Заявки на конкурс подали всё те же [участники]Theme.
+  - |
+       За победу в следующем чемпионате мира будет сражаться всё тот же [Михаэль Шумахер]Theme, который уже участвовал в прошлом году.
+  - |
+       Весь мир изменился, всё другое, только [эта прекрасная женщина]Theme была всё та же.
 morphology:
   - NP
 syntactic_type_of_construction:

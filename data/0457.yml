@@ -3,9 +3,21 @@ record: 457
 name: 'с виду Adj NP'
 UD_name: 'с виду Adj NP'
 illustration: 'Старик был с виду спокоен.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий характеризует [внешние (наружние) качества]Theme [кого-либо]Theme или [чего-либо.]Theme
+  - english: |
+       N/A
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Я сорвал с виду [гнилое]Evaluation [яблоко]Theme, но оказалось свежее.
+  - |
+       За домом с виду [нестарая]Evaluation [женщина]Theme что-то высматривала на грядках.
+  - |
+       С виду [он]Theme достаточно [замкнутый.]Evaluation
 morphology:
   - Adj
   - NP

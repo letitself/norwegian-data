@@ -5,7 +5,21 @@ UD_name: 'еле XP'
 illustration: 'Он еле ходит.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция используется по отношению к некоторому [субъекту]Agent, который выполняет какое-то [действие]Action с трудом. Слово "еле" можно использовать в качестве синонима таких слов, как "мало", "недостаточно", "едва" и подобных.
+  - english: |
+       The construction is used in reference to a [subject]Agent that carries out an [action]Action with difficulty. The word "еле" can be used as a synonym for words like "мало", "недостаточно", "едва".
+  - norwegian: |
+       N/A
 examples:
+  - |
+       Он еле [дождался]Action, пока я доковыряюсь ключом в замке и, не снимая сапожек, прямиком пошёл в свою спальню.
+  - |
+       Дед Андрей в больнице лежал, на станции. Но еле [передвигался]Action.
+  - |
+       Компьютер еле [работает]Action...
+  - |
+       -
 morphology:
   - XP
 syntactic_type_of_construction:

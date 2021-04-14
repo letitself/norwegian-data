@@ -62,11 +62,6 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
-  - type: Root modality
-    subtypes:
-      - type: Necessity
-        subtypes:
-          - type: External
 family:
   - |
     "Discontent"

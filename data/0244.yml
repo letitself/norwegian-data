@@ -3,9 +3,21 @@ record: 244
 name: 'NP-Nom Cop ничем не Adj-Cmp NP-Gen/VP ничем не Adv-Cmp NP-Gen'
 UD_name: 'NP-Nom Cop ничем не Adj-Cmp NP-Gen/VP ничем не Adv-Cmp NP-Gen'
 illustration: 'Он ничем не хуже тебя.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что, по мнению говорящего, некоторый субъект или объект имеет [качественные характеристики]Evaluation, которые не отличаются от тех, с которыми говорящий их сравнивает.
+  - english: |
+       This construction means that something has [certain properties]Evaluation to the same extent as somethimg else, e.g. хоккей ничем не страшнее и не опаснее других видов спорта ‘ice hoccey is no more frightening or dangerous than other sports’.
+  - norwegian: |
+       Konstruksjonen betyr at noe har [visse egenskaper]Evaluation i samme grad som noe annet, f.eks. хоккей ничем не страшнее и не опаснее других видов спорта ‘ishockey er ikke det spor mer skummelt eller farlig enn andre idrettsgrener’.
 examples:
+  - |
+       Пиво у вас так себе. Ничем не [лучше]Evaluation [кваса.]Theme
+  - |
+       И хоккей ничем не [страшнее]Evaluation и не [опаснее]Evaluation [других видов спорта.]Theme
+  - |
+       Телевизор ничем не [интереснее]Evaluation [учебников]Theme.
 morphology:
   - NP
   - Nom

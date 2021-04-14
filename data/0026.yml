@@ -6,18 +6,20 @@ illustration: 'Вася только что принес деньги.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция выражает [действие]Action [участника]Participant, которое произошло в ближайшем прошедшем времени. Говорящий оценивает результат этого действия.
+       Конструкция обозначает, что некоторое [действие]Action было совершено совсем недавно, перед самым моментом речи или другой точкой во времени. Говорящий оценивает результат этого действия.
   - english: |
-       This construction is used to express a [participant's]Participant [action]Action that has just recently taken place. The speaker evaluates the result of this action.
-  - norwegian: |
-       N/A
+       The construction signifies that an [action]Action took place just recently, namely right before the time of speech or another moment in time. The speaker evaluates the result of this action.
 examples:
   - |
        На кухне ужинал Олег. Видимо, только что [вернулся с работы]Action.
   - |
-       [Министр образования]Participant только что [объявил о том]Action, что конкурс на получение стипендии будет проведён 27 марта.
+       Как я только что [сказал]Action ― у меня нет на это ни времени, ни сил, ни даже желания.
   - |
-       Только что [посмотрели в кинотеатре фильм Чарли Чаплина]Action. Два часа подряд! Какой восторг!
+       Я связался со своим приятелем Никитой, который тогда только что [поступил в музыкальное училище]Action и уже играл в какой-то группе.
+  - |
+       Министр печати только что [объявил]Action о том, что конкурс будет проведён 27 марта.
+  - |
+       Только что [завершилась]Action Московская международная книжная ярмарка.
 morphology:
   - VP
   - Pfv
@@ -31,7 +33,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - ~
 usage_label: ~

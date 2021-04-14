@@ -3,11 +3,21 @@ record: 240
 name: 'ничего себе (такой) NP'
 UD_name: 'ничего себе (такой) NP'
 illustration: 'Ничего себе машина. Она слишком большая!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       ничего себе машину купил Contrary to expectations. Negation
+       Конструкция выражает удивление говорящего по поводу [некоторого объекта или ситуации]Stimulus . Часто объект или ситуация не упоминается. Говорящий возмущен происходящим. ничего себе машину купил Contrary to expectations. Negation
+  - english: |
+       This construction expresses amazement: the speaker is suprised at [a thing or situation]Stimulus. The thing or situation in question is usually clear from the context and can be left unmentioned.
+  - norwegian: |
+       Konstruksjonen uttrykker forbløffelse: taleren er overrasket over [en ting eller situasjon]Stimulus. Den aktuelle tingen eller situasjonen blir ofte ikke nevnt konkret da konteksten som regel gjør det klart hva det er snakk om.
 examples:
+  - |
+       ― Я тебя люблю, ― говорил Иванов, ― за то, что ты хитрый. ― Ничего себе [комплимент]Stimulus, ― отвечал Петров.
+  - |
+       ― Так что же, вся эта организация ― шутка? ― продолжал Мышкин. ― Ничего себе [шуточки]Stimulus…― пробормотал я.
+  - |
+       Димка выпрямился и посмотрел на чемоданы. ― Ничего себе [багаж]Stimulus, ― даже присвистнул он. ― Вы что, на целый год приехали?
 morphology:
   - NP
 syntactic_type_of_construction:

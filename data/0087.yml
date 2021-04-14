@@ -6,8 +6,16 @@ illustration: 'Она всего лишь медсестра.'
 cefr_level: A2
 definitions:
   - russian: |
+       Конструкция употребляется для существенного снижения значения некоторого параметра [субъекта]Theme или [объекта]Theme по сравнению с ожидаемым.
+  - english: |
        Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту). Добавить: всего только.
 examples:
+  - |
+       Разумеется, этот рассказ ― всего лишь [литературное произведение.]Theme
+  - |
+       Это всего лишь [иллюзия]Theme.
+  - |
+       У него было всего лишь [превосходство]Theme пройденной дистанции.
 morphology:
   - NP
 syntactic_type_of_construction:

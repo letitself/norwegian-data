@@ -3,9 +3,17 @@ record: 304
 name: 'NP-Nom сидеть за NP-Ins'
 UD_name: 'NP-Nom сидеть за NP-Ins'
 illustration: 'Брат сидет за работой.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что кто-то занимается [чем-нибудь]Theme или трудится над [чем-то]Theme интенсивно.
 examples:
+  - |
+       Дарья сидит за [газетой]Theme весь вечер.
+  - |
+       Он три ночи уже сидит за [этой книгой.]Theme
+  - |
+       -
 morphology:
   - NP
   - Nom

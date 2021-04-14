@@ -3,11 +3,21 @@ record: 360
 name: 'чёрт с PronPers-Ins!'
 UD_name: 'чёрт с PronPers-Ins!'
 illustration: 'Чёрт с ним! Поеду в город один!'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11. Пока нет в списке: "Шут с ним" Бог с ним
+       Конструкция выражает навязанное согласие говорящего с [некоторым участником или ситуацией]Theme . Говорящий негативно оценивает участника или ситуацию и вопреки своей воле принимает данные условия.
+  - english: |
+       This construction expresses consent with [a participant or situation]Theme imposed on the speaker. The speaker negatively evaluates the participant or situation, and contrary to their will, accepts these conditions.
 examples:
+  - |
+       Чёрт с [вами]Theme, приеду я в этот ваш Кольмар.
+  - |
+       В тени бельё до ночи не высохнет. Да чёрт с [ним]Theme, с бельём!
+  - |
+       Короче, не хочешь слушать ― черт с [тобой]Theme. ― Да ладно, Жень, рассказывай. Интересно все-таки.
+  - |
+       General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11. Пока нет в списке: "Шут с ним" Бог с ним
 morphology:
   - PronPers
   - Ins

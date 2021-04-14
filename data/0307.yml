@@ -3,11 +3,23 @@ record: 307
 name: 'NP-Nom Cop слишком Adj, чтобы VP-Inf'
 UD_name: 'NP-Nom Cop слишком Adj, чтобы VP-Inf'
 illustration: 'Он слишком слаб, чтобы лететь на самолете.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Evaluation of capacity for an activity - 'X enough for doing something' нужно в толковании сказать, что субьъекты действия второго глагила могут быть разными. Он слушком слаб, чтобы перевозить его на самолете
+       Конструкция обозначает, что кто-либо или что-либо обладает каким-либо [свойством]Condition сверх меры, и это мешает ему [совершить какого-либо действие.]Action нужно в толковании сказать, что субьъекты действия второго глагила могут быть разными. Он слушком слаб, чтобы перевозить его на самолете Evaluation of capacity for an activity - 'X enough for doing something'
+  - english: |
+       This construction means that someone or something has too much of a certain [property]Condition to be able to [do something]Action, e.g. он слишком слаб, чтобы лететь на самолете ‘he is too weak to travel by plane’.
+  - norwegian: |
+       Konstruksjonen betyr at noen eller noe har for mye av en viss [egenskap]Condition til at kunne [utføre noe]Action, он слишком слаб, чтобы лететь на самолете ‘han er altfor svak til å kunne reise med fly’.
 examples:
+  - |
+       Сегодня я еще слишком [взволнован]Condition, чтобы [писать]Action ответы на письма.
+  - |
+       Люди были слишком [возмущены]Condition снижением зарплат, чтобы [рассуждать]Action хладнокровно.
+  - |
+       Переводчик же был слишком [глупым]Condition, чтобы [помочь]Action в данном случае.
+  - |
+       -
 morphology:
   - NP
   - Nom

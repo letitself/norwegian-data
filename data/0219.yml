@@ -3,9 +3,21 @@ record: 219
 name: 'NP-Nom нести ответственность за NP-Acc'
 UD_name: 'NP-Nom нести ответственность за NP-Acc'
 illustration: 'Родители несут ответственность за детей.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что кто-либо является ответственным за [кого-либо или что-либо]Theme или готов отвечать за [совершенные действия]Theme, [поступки]Theme и их [последствия.]Theme ЗАПИСИ они ответственны. Это скорее характеристика, чем действие субъекта, и в этом специфика этой конструкции.
+  - english: |
+       This construction means that someone is responsible for, or prepared to take responsibility for, [someone or something]Theme.
+  - norwegian: |
+       Konstruksjonen betyr at noen er ansvarlig for, eller er beredt til å ta ansvar for [noe eller noen]Theme.
 examples:
+  - |
+       Люди должны нести ответственность за [свои действия]Theme в соответствии с нормами права.
+  - |
+       Центральный банк несет ответственность за [экономическую ситуацию]Theme в стране.
+  - |
+       Именно прикладные научно-исследовательские институты несли ответственность за [научно-технический прогресс]Theme в каждой конкретной отрасли.
 morphology:
   - NP
   - Nom

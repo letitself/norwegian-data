@@ -3,9 +3,19 @@ record: 398
 name: 'XP не без NP-Gen'
 UD_name: 'XP не без NP-Gen'
 illustration: 'Эти громкие заявления были не без оснований.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для выражения неотъемлемости и присутствия [некоторого признака]Property в [сложившейся ситуации]Theme. Конструкция используется как синонимичная предлогу "с" (с чем-либо).
+  - english: |
+       This construction is used to express the obligatory presence of [a feature]Property in [the current situation]Theme. This construction is used as a synonym of the preposition "с" (с чем-либо).
 examples:
+  - |
+       [Этот путь]Theme не без [рисков]Property, но тоже имеющий право на существование.
+  - |
+       [Самый ранний проект подготовлен в 1999 году]Theme не без [участия депутата от фракции КПРФ Василия Шандыбина]Property.
+  - |
+       ― Ты удовлетворён, Володя? ― не без [ехидства]Property [поинтересовалась она]Theme.
 morphology:
   - XP
   - NP

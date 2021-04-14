@@ -3,9 +3,23 @@ record: 197
 name: 'не кто/что иной, как NP'
 UD_name: 'не кто/что иной, как NP'
 illustration: 'Это был не кто иной, как директор школы.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция употребляется при дополнительном подчеркивании/акцентировании того, что речь идёт именно о [данном лице]Theme или что именно [данное лицо]Theme совершило [какое-либо действие.]Action
+  - english: |
+       This construction is used to emphasize that [the person in question]Theme in fact is X, e.g. директор школы ‘the school’s headmaster’, or that it is [this particular person]Theme who may carry out/has carried out [a certain activity]Action, e.g. Не кто иной, как ваш отец, вчера разбил мою любимую вазу ‘It was none other than your father who yesterday broke my favourite vase’.
+  - norwegian: |
+       Konstruksjonen brukes for å understreke at [personen i fokus]Theme faktisk er X, f.eks. директор школы ‘skolens rektor’, eller at det er nettopp [denne personen]Theme som kan utføre/har utført [en viss handling]Action, f.eks. Не кто иной, как ваш отец, вчера разбил мою любимую вазу ‘Det var ingen ringere enn din far som i går knuste yndlingvasen min.’
 examples:
+  - |
+       [Разрешение может дать]Action не кто иной, как [руководитель учреждения.]Theme
+  - |
+       Не кто иной, как [ваш отец]Theme, [вчера разбил мою любимую вазу.]Action
+  - |
+       Командировку утвердили ещё в июле, и [ехать было разрешено]Action не кому иному, как [Дмитриеву]Theme.
+  - |
+       Это не что иное, как ложь
 morphology:
   - NP
 syntactic_type_of_construction:

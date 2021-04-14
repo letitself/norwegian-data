@@ -5,6 +5,8 @@ UD_name: 'эпизодически VP'
 illustration: 'Эпизодически это лицо появляется на телеэкране.'
 cefr_level: 
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое событие]Event происходит нерегулярно и нечасто, реже, чем ожидается.
 examples:
 morphology:
   - VP
@@ -17,7 +19,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Event
 intonation:
   - ~
 usage_label: Formal

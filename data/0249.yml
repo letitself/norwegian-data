@@ -3,11 +3,19 @@ record: 249
 name: 'ну и что, что XP'
 UD_name: 'ну и что, что XP'
 illustration: 'Ну и что, что холодно.'
-cefr_level: 
+cefr_level: С1
 definitions:
   - russian: |
+       Конструкция используется, если [некоторый факт]Theme не является значимым по мнению говорящего. На письме может отделяться вопросительным или восклицательным знаком, а также точкой.
+  - english: |
        Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. indifference
 examples:
+  - |
+       Ну и что, что [платье старое]Theme! Мать хотела сделать из него юбку.
+  - |
+       Ну и что, что [кашель]Theme? ― раздражалась Марина. ― Все равно пойду танцевать.
+  - |
+       Поедем ко мне в гости, там родители. Ну и что, что [спят]Theme? На кухне посидим.
 morphology:
   - XP
 syntactic_type_of_construction:

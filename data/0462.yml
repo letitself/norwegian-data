@@ -3,9 +3,21 @@ record: 462
 name: 'NP NP-Ins'
 UD_name: 'NP NP-Ins'
 illustration: 'У него голова тыквой.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [определенная часть тела]Object имеет или повторяет [какую-либо форму]ThemeNP.
+  - english: |
+       This construction denotes that [a certain body part]Object has or resembles the shape of [some object]Theme.
+  - norwegian: |
+       N/A
 examples:
+  - |
+       У настоящих слонов [ноги]Object [столбами]Theme, [уши]Object [лопухами.]Theme
+  - |
+       В Кате, хоть ей было под сорок, действительно было что-то от цыпленка: [длинный нос]Object [клювиком.]Theme
+  - |
+       Низкий, без единой морщинки лоб, жёлтые кустики бровей, [ротик]Object [бантиком]Theme ― всё это придавало его физиономии важное качество внешности вора: незаметность.
 morphology:
   - NP
   - Ins

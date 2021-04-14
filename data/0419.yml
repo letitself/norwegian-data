@@ -3,11 +3,21 @@ record: 419
 name: 'Cl, чем Cop не NP-Nom?'
 UD_name: 'Cl, чем Cop не NP-Nom?'
 illustration: 'Присмотрись к Мише. Чем не жених?'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
+       Конструкция употребляется в риторичеких вопросах и восклицаниях и обозначает, что [кто-то или что-то]Agent вполне подходит [для чего-либо]Theme, отвечает требуемому назначению.
+  - english: |
        Rethorical questions, Matching the standard
 examples:
+  - |
+       [Он показал на девушку рядом]Situation. Чем не [красавица!]Theme
+  - |
+       [У нас дома пустой холодильник]Situation. [Хрен и капуста]Agent ― чем не [еда?]Theme
+  - |
+       [Мы выиграли]Situation! Чем не [повод]Theme для праздника?
+  - |
+       -
   - |
        Он показал на девушку рядом]Situation. [Чем]чем [не]не [красавица!
 morphology:

@@ -3,9 +3,21 @@ record: 291
 name: 'рублей NumCrd'
 UD_name: 'рублей NumCrd'
 illustration: 'У Маши было рублей сто на книги.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция с инверсионным порядком слов используется для выражения неопределенности или примерного количества [денежной суммы]Number. Конструкция не используется с такими словами, как «тысяча», «десяток» и подобными.
+  - english: |
+       In this construction, the numeral is placed after рубдь ‘rubel’ to express that the [number of rubles]Number in question is approximate, e.g. у Маши было рублей сто на книги ‘Masha had about one hundred rubles to buy books for’. The construction is not used with such numerals as тысяча ‘thousand’ and десяток ‘ten’.
+  - norwegian: |
+       I denne komstruksjonen er tallordet plassert etter рубль ‘rubel’ for å uttrykke at [antallet rubler]Number er omtrentlig, f.eks. у Маши было рублей сто на книги ‘Masha hadde ca hundre rubler å handle bøker for’. Konstruksjonen brukes ikke med tallord som тысяча ‘tusen’ og десяток ‘ti’.
 examples:
+  - |
+       Одолжите мне рублей [пятьсот]Number на месяц.
+  - |
+       Кларочка, надо будет дать ему под отчёт рублей [двести пятьдесят]Number, что ли.
+  - |
+       В общей сложности наши доходы составляли рублей [триста]Number с небольшим.
 morphology:
   - NumCrd
 syntactic_type_of_construction:

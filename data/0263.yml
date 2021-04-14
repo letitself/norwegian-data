@@ -3,9 +3,21 @@ record: 263
 name: '(Cl,) по крайней мере Cl'
 UD_name: '(Cl,) по крайней мере Cl'
 illustration: 'Если ты его не любишь, ты могла бы его по крайней мере уважать.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает достаточную уверенность участника в достоверности [своего высказывания]Theme, несмотря на неуверенность говорящего в словах участника. В.Ю.Апресян 1999 Слова со значением уступки. Update definition. Concession: good-for-anything / will stop at nothing / At least "Понимая, что иметь желаемое трудно или невозможно, субъект (часто сам говорящий) хочет или готов иметь меньшее Р, обладание которым вероятно" В.Ю.Апресян 1999 Слова со значением уступки. Подкласс 6 "Уступка вопреки желанию" стр 34. подтип "Готовность на все"
+  - english: |
+       This construction expresses that [something]Theme is definitely true although other things in the situation may not be. In English, the construction can often be translated as ‘at least‘, e.g. по крайней мере он не врал ‘at least he didn’t lie’.
+  - norwegian: |
+       Konstruksjonen uttrykker at [noe]Theme helt sikkert er sant selv om andre sider ved situasjonen kanskje ikke er det. På norsk kan konstruksjonen ofte oversettes som ‘i det minste’ eller ‘i hvert fall’, f.eks. по крайней мере он не врал ‘i det minste/i hvert fall løy han ikke’.
 examples:
+  - |
+       И правда – по крайней мере [писал он хорошо]Theme, так считал учитель.
+  - |
+       Мы были счастливы; по крайней мере [я счастлив был с тобой.]Theme
+  - |
+       Переехав, Павел Петрович остался патриотом, по крайней мере [он называл себя патриотом]Theme, хотя Россию знал плохо.
 morphology:
   - Cl
 syntactic_type_of_construction:

@@ -5,10 +5,31 @@ UD_name: '(на)вряд ли XP/Cl'
 illustration: 'Вряд ли он придёт.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает сомнение говорящего в том, что произойдет некоторое [событие]Event или [действие]Action. Конструкция также используется в суждениях об уже происшедших событиях или при оценке ситуации, имеющей место в настоящем. Во всех случаях ситуация оценивается как маловероятная. Слова "вряд ли" или "навряд ли" обычно стоят непосредственно перед тем компонентом ситуации (будь то действие, время, участник, признак и проч.), реалистичность которого ставится под сомнение. В зависимости от этого слот XP заполняется глагольной группой (пример 2), предложной группой (пример 3), именной группой (пример 4), прилагательным или наречием (пример 5).
+  - english: |
+       This construction expresses doubt that a given [event]Event or [action]Action will take place. In English the construction can often be translated as “it is unlikely that…“ or “probably not“.
+  - norwegian: |
+       Ved hjelp av denne konstruksjonen uttrykker taleren tvil mht. at en gitt [begivenhet]Event vil finne sted, eller at en gitt [deltager]Agent vil utføre en viss [handling]Action. I norsk kan konstruksjonen ofte oversettes med “neppe”.
 examples:
+  - |
+       Вряд ли [он повторит этот результат снова на олимпиаде.]Situation
+  - |
+       А вот детям такой подарок вряд ли [понравится.]Event
+  - |
+       Он не знает, с кем заключила договор Джульетта, вряд ли [с Мефистофелем.]Participant
+  - |
+       Ведь говорят, что мы, земляне, навряд ли [единственные мыслящие существа во Вселенной.]Evaluation
+  - |
+       ― Навряд ли [завтра.]Time Нам ничего еще не говорили.
 morphology:
   - XP
   - Cl
+  - VP
+  - NP
+  - PP
+  - Adj
+  - Adv
 syntactic_type_of_construction:
   - Clause
   - XP with parentheticals
@@ -19,7 +40,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Event
+  - Action
+  - Situation
+  - Time
+  - Participant
 intonation:
   - ~
 usage_label: ~

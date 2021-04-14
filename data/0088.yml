@@ -6,10 +6,18 @@ illustration: 'Это был всего-навсего старый диван.'
 cefr_level: A2
 definitions:
   - russian: |
+       Конструкция обозначает, что у адресата и/или говорящего были слишком завышенные ожидания о значении [некоторого объекта]Theme . В реальности эти ожидания не подтвердились. Конструкция может выражать разочарование.
+  - english: |
+       This construction signifies that the addressee and/or speaker had too high expectations about the value [of an object]Theme. In reality these expectations were not proven correct. It can sometimes express disappointment.
+  - norwegian: |
        Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту) Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
 examples:
   - |
-       У него было [ [всего]всего [лишь]лишь [превосходство]Theme]Всего_лишь_NP-Nom пройденной дистанции
+       ― Не бойся, ― сказал Иванов. ― Это всего-навсего [эхо]Theme. Пожалуйста, не бойся.
+  - |
+       Вася отошел от поселка всего-навсего [километр]Theme, не больше.
+  - |
+       Маша взяла свой подарок и торжественно произнесла: ― Смотрите, что у меня есть! Это был всего-навсего [набор довольно старых открыток]Theme.
 morphology:
   - NP
 syntactic_type_of_construction:

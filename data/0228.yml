@@ -3,9 +3,21 @@ record: 228
 name: 'ни за что не VP'
 UD_name: 'ни за что не VP'
 illustration: 'Ни за что не поеду в театр!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция используется для отказа от некоторого [действия в будущем]Action. [Участник]Participant не собирается выполнять действие ни при каких условиях.
+  - english: |
+       This construction means that [the subject]Participant will not agree to, or not be able to, [carry out a certain action]Action. The action referred to will either take place in the future, or is a hypothetical situation expressed by means бы ‘would’, e.g. И я бы ни за что не сказал, что через несколько часов она это сделает ‘And I never would have said, that a few hours later she was going to do that’.
+  - norwegian: |
+       Konstruksjonen betyr at [subjektet]Participant ikke vil gå med på, eller ikke vil være i stand til [å utføre en viss handling]Action. Den aktuelle handlingen vil enten finne sted i fremtiden, eller den viser til en hypotetisk situasjon uttrykt vha. бы ‘ville ha’, f.eks. И я бы ни за что не сказал, что через несколько часов она это сделает ‘Og jeg ville aldri ha sagt at hun kom til å gjøre noe sånt noen timer senere’.
 examples:
+  - |
+       И [я]Participant бы ни за что не [сказал]Action, что через несколько часов она это сделает.
+  - |
+       ― Кто же вы? ― Ни за что не [угадаете]Action. ― О, помилуйте!
+  - |
+       ― Я бы осенью сидел у печки, и [они]Participant бы ни за что не [облетели]Action.
 morphology:
   - VP
 syntactic_type_of_construction:

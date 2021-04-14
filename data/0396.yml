@@ -3,9 +3,17 @@ record: 396
 name: 'Adv-Cmp/Adj-Cmp NP-Gen'
 UD_name: 'Adv-Cmp/Adj-Cmp NP-Gen'
 illustration: 'Олень бежит быстрее лани.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Сравнительная конструкция, в которой [объект]Theme обладает [определенной характеристикой]Property в большей степени, чем [прототип]Prototype.
 examples:
+  - |
+       [Уровень Дона]Theme [выше]Property [уровня Волги]Prototype на 40 метров.
+  - |
+       [Волосы]Theme [ниже]Property [колен]Protype цвета кофе с молоком.
+  - |
+       [Кошка]Theme [умнее]Property [собаки.]Prototype
 morphology:
   - Adv
   - Cmp

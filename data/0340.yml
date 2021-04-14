@@ -3,9 +3,21 @@ record: 340
 name: 'у NP-Gen у NP-Gen Cl'
 UD_name: 'у NP-Gen у NP-Gen Cl'
 illustration: 'У нее у дочки уже родился сын.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что у [участника]Possessor, который выражается местоимением, [ есть близкий родственник или друг]Experiencer, у которого есть [что-либо]Theme в наличии, в собственности. Конструкция также может обозначать, что произошло [некоторое событие]Event.
+  - english: |
+       This construction expresses that [some event]Event has taken place in the life of [a relative or friend]Experiencer of the [participant]Possessor. In English, the participant is mentioned through a possessive pronoun, such as ‘her‘, e.g. у нее у дочки уже родился сын ‘her daughter has already given birth to a son’. The construction can also mean that [the participant’s relative or friend]Experiencer has or owns something, e.g. у него у отца проблемы со здоровьем ‘his father has health problems’.
+  - norwegian: |
+       This construction expresses that [some event]Event has taken place in the life of [a relative or friend]Experiencer of the [participant]Possessor. In English, the participant is mentioned through a possessive pronoun, such as ‘her‘, e.g. у нее у дочки уже родился сын ‘her daughter has already given birth to a son’. The construction can also mean that [the participant’s relative or friend]Experiencer has or owns something, e.g. у него у отца проблемы со здоровьем ‘his father has health problems’.
 examples:
+  - |
+       У [него]Possessor у [отца]Experiencer [проблемы со здоровьем.]Theme
+  - |
+       У [него]Possessor у [друга]Experiencer [свой бизнес.]Theme
+  - |
+       У [меня]Possessor у [мамы]Experiencer [недавно украли кошелек.]Event
 morphology:
   - NP
   - Gen

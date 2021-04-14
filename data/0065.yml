@@ -5,7 +5,21 @@ UD_name: 'вот и VP'
 illustration: 'Вот и поговори с ним!'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий выражает согласие или одобряет [какое-либо решение. ]Evaluation
+  - english: |
+       This construction means that the speaker agrees with or approves of [a certain decision]Evaluation.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren er enig i, eller synes godt om [en viss avgjørelse]Evaluation.
 examples:
+  - |
+       Мы договорились? Ну вот и [прекрасно]Evalution, тогда поедемте со мной!
+  - |
+       Вот и [отлично]Evalution, соберёмся все и поедем.
+  - |
+       ― Ну вот и [славно]Evalution! ― по своему обыкновению заключил беседу Николай.
+  - |
+       -
 morphology:
   - VP
 syntactic_type_of_construction:

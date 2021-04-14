@@ -5,7 +5,19 @@ UD_name: '(VP) все NumCrd NP-Gen'
 illustration: 'Он купил детям все десять книг, которые они просили.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [что-либо]Theme, что представлено в [количестве]Number не менее указанного (ничуть не меньше). Синонимом слова "все" здесь является слово "целых".
+  - english: |
+       This construction means that no less than the whole [amount]Number of [something]Theme is relevant in the given situation, e.g. все десять книг ‘all ten books’. The construction is synonymous with целых ‘whole’, e.g. целых десять книг ‘all ten books’.
+  - norwegian: |
+       Konstruksjonen betyr at ikke mindre enn det fulle [antallet]Number av [noe]Theme er relevant i en gitt situasjon, e.g. все десять книг ‘alle de ti bøkene’. Konstruksjonen er synonym til целых ‘hele’, f.eks. целых десять книг ‘alle de ti bøkene’.
 examples:
+  - |
+       На вид ей все [сорок]NUM-Acc [лет]Theme.
+  - |
+       Заплатил бы не сто рублей, а все [двести]NUM-Acc [рублей]Theme.
+  - |
+       До станции все [тридцать]Number [километров]Theme будет.
 morphology:
   - VP
   - NumCrd
