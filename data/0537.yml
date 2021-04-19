@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant не обладает определенным [признаком]Property, не принадлежит к [числу объектов или участников, которые этот признак имеют]Set.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme eller [en deltaker]Participant ikke besitter et visst [kjennetegn]Property og ikke er blant [de objektene eller deltakerne som har dette kjennetegnet]Set.
 examples:
   - |
        Вот, племянник, один из секретов того, почему [твоя тетя Маро]Participant не из [самых бедных]Set.

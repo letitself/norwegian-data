@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что в ситуации, где существует запрет на некоторое действие, [один участник]Agent, обладающий властью, [позволяет]Action [другому участнику]Patient этот запрет нарушить. Как правило, это разрешение дается однократно или только одному участнику.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent med makt, i en situasjon der en gitt handling er forbudt, [tillater]Action [en annen deltaker]Patient å overtre dette forbudet. Som regel gis tillatelsen én gang eller til bare én deltaker.
 examples:
   - |
        По закону присяжным не разрешается выходить из совещательной комнаты. Но до полвторого дня сидеть в духоте людям, чей средний возраст превышал 55 лет, было просто невмоготу. Поэтому в виде исключения [судья]Agent [выпускал]Action [присяжных]Patient в ближайший магазин за водой.

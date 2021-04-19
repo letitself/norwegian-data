@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что участник выполняет некоторое [действие]Action или производит [некоторый продукт]Patient по поручению другого участника, в соответствии с его требованиями. Этот продукт противопоставлен продуктам массового производства. Чаще всего речь идет о производстве одежды, мебели, автомобилей или тортов. Участник, от которого исходит поручение, в предложении обычно не назван.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker utfører en gitt [handling]Action eller produserer [et gitt produkt]Patient på oppdrag fra en annen deltaker og i samsvar med dennes krav. Produktet står i motsetning til masseproduserte produkter. Ofest er det tale om produksjon av klær, møbler, biler eller bløtkaker. Deltakeren som oppdraget utgår fra, er vanligvis ikke nevnt i setningen.
 examples:
   - |
        Шёлк был очень дорогим товаром и нередко [производился]Action на заказ.

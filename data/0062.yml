@@ -6,18 +6,22 @@ illustration: 'Вон как смотрит!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы обратить внимание слушающего на изменение [ситуации]Situation или [результат некоторого действия]Action.
+       Конструкция используется для того, чтобы обратить внимание слушающего на внешние хорошо заметные проявления некоторого [действия.]Action Слот VP заполняется глаголами обоих видов.
   - english: |
        This construction brings the listener’s attention to a change of state in a [situation]Situation or [result of some action]Action.
   - norwegian: |
-       Konstruksjonen leder lytterens oppmerksomhet til en forandring i [situasjonen]Situation eller i [resultatet av en gitt handling]Action.
+       Konstruksjonen leder lytterens oppmerksomhet til en forandring i [situasjonen]Situation eller til [resultatet av en gitt handling]Action.
 examples:
   - |
-       Тот худой был, а этот вон как [разъелся]Action, [когда Дедом Морозом был]Action.
+       ― Где же они? ― Не знаю, товарищ полковник. Может быть, дождь их задержал. Вон как [хлещет.]Action
   - |
-       [Она торчит здесь три года]Situation, вон как [запылилась]Action.
+       ―  Я-то думал, что встречу развалину, а ты вон как [улыбаешься.]Action
   - |
-       ― Ага, вон как [заговорил]Action, ― удивился бандит, ― [мой тон его не устраивает]Situation!
+       ― Да у него палец болит, вон как [распух]Action, ― объяснила я.
+  - |
+       ― Вон как [покраснел]Action. Это с ним происходит, когда он чем-то сильно недоволен.
+  - |
+       Это бесполезная в доме вещь. Она торчит здесь три года, вон как [запылилась]Action.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -30,7 +34,7 @@ part_of_speech_of_anchor:
   - Particle
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -39,7 +43,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [advmod Вон] [advmod как] смотрит!]'
 common_fillers:
-  - ~
+  - раскраснелся
+  - вырос
+  - вымахала
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

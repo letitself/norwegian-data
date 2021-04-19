@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что в определенном [месте]Location есть некоторое количество [объектов]Theme одного типа, при этом подчеркивается доступность [объектов]Theme. В качестве [объектов]Theme могут выступать конкретные предметы, абстрактные сущности и люди. Слот Prep может заполняться предлогами "в" и "на". Обычно идет речь об объектах, предназначенных для продажи. При наличии отрицания NP-Nom заменяется на NP-Gen.
+  - norwegian: |
+       Konstruksjonen betyr at det på et bestemt [sted]Location finnes et gitt antall [objekter]Theme av én og samme type, samtidig som [objektenes]Theme tilgjengelighet understrekes. [Objektene]Theme kan være konkrete gjenstander, abstrakte fenomener eller personer. Sloten Prep kan fylles av preposisjonene "в" og "на". Vanligvis er det tale om salgsobjekter. Ved nektelse erstattes NP-Nom av NP-Gen.
 examples:
   - |
        [Книжка]Theme есть в наличии у [любого официального представителя]Possessor.

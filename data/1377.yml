@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на [участника]Agent, который контролирует выполнение [действия]Action другим участником, направляет этого участника, помогает ему и учит его.
+  - norwegian: |
+       Konstruksjonen angir [en deltaker]Agent som kontrollerer en annen deltakers utførelse av [en handling]Action og som veileder, hjelper og instruerer vedkommende.
 examples:
   - |
        Многие игроки сборной [работают]Action под [вашим]Agent руководством чуть ли не с юношеских лет.

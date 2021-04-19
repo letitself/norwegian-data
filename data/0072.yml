@@ -6,18 +6,22 @@ illustration: 'Вот-вот прилетит самолет.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция выражает неизбежность [некоторого действия]Action . [Участник]Participant (или ситуация в целом) находится в одном шаге от выполнения действия.
+       Конструкция обозначает, что некоторое [событие]Event произойдет в самом ближайшем будущем, очень скоро после моментa речи, в течение нескольких минут.
   - english: |
        This construction expresses the inevitability [of an action]Action. [The participant]Participant is one step away from completing the action or the situation as a whole is one step away from being completed.
   - norwegian: |
-       N/A
+       NP-Nom вот-вот VP-Pfv.Fut
 examples:
   - |
-       Вот-вот [зазвенит]Action [звонок]Participant, и школьники разойдутся по домам.
+       Ольги не было дома. Тётка встретила меня приветливо и стала уговаривать выпить чайку и подождать ― "да [она]Agent вот-вот [вернётся.]Event"
   - |
-       Деревья вокруг замерзли, легкий морозец холодил душу и ощущалось, что вот-вот [пойдет]Action [снег]Participant.
+       Деревья вокруг замерзли и ощущалось, что вот-вот [пойдёт]Event [снег]Agent.
   - |
-       За окнами ночь, в доме все спят. И чувствую, вот-вот [заплачу]Action. Почему? Сам не знаю.
+       За окнами ночь, в доме все спят. И чувствую, вот-вот [заплачу.]Event Почему? Сам не знаю.
+  - |
+       Я люблю, когда наступает утро, [солнце]Agent вот-вот [взойдёт]Event, а у меня постель неразобранная ― это значит, что пока все спали, я прожил эти часы ― успел почитать, что-то написать.
+  - |
+       Казалось, что этот [футбол]Participant вот-вот [закончится нулевой ничьей]Event, если только не случится чудо.
 morphology:
   - VP
   - Fut
@@ -32,7 +36,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Event
+  - Agent
+  - Participant
 intonation:
   - ~
 usage_label: ~
@@ -40,8 +46,15 @@ dependency_structure:
   - '[root [advmod вот-вот] VP-Fut [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот-вот] прилетит [nsubj самолет].]'
+comment: |
+    'Не путать с конструкцией 2022 Вот-вот, Cl.'
 common_fillers:
-  - ~
+  - придет
+  - вернется
+  - проснется
+  - заболею
+  - заплачу
+  - упадет
 references:
   - |
     

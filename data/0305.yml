@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent выполняет действие, в котором можно выделить два компонента. Глагол, называющий первый компонент, обозначает [статичное положение участника в пространстве]State (сидеть, стоять, лежать), а второй глагол называет само [действие]Action. Глаголы в конструкции обязательно имеют одинаковую грамматическую форму. Глаголы не разделяются запятой и произносятся без паузы как единое целое. В некоторых случаях порядок компонентов может быть обратным.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utfører en handling som kan deles i to komponenter. Verbet som betegner den første komponenten, beskriver [deltakerens statiske stilling i rommet]State (sitte, stå, ligge), mens det andre verbet betegner selve [handlingen]Action. Verbene i konstruksjonen må ha samme bøyningsform. Verbene skilles ikke med komma og uttales uten pause, som en enhet. I noen tilfeller kan komponentene stå i motsatt rekkefølge.
 examples:
   - |
        [Мы]Agent [сидим]State [ужинаем]Action, а дети играют в комнате.

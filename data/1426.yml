@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на местоположение человека (или, реже, животного, пример 5) в пространстве. Конструкция обозначает, что участник [находится]State в подвешенном состоянии, причем его ноги оказываются сверху, а голова внизу. Конструкция также может обозначать, что участник совершает некоторое [движение]Action, при котором голова оказывается впереди (примеры 3, 4).
+  - norwegian: |
+       Konstruksjonen angir et menneskes (eller, sjeldnere, et dyrs, eksempel 5) plassering i rommet. Konstruksjonen betyr at deltakeren [befinner seg]State i opphengt tilstand med beina opp og hodet ned. Konstruksjonen kan også bety at en deltaker utfører en gitt [bevegelse]Action slik at hodet havner forrest (eksempel 3 og 4).
 examples:
   - |
        Папа показал мне фотографию, на которой они вдвоем дурачатся, [висят]State на перекладине вниз головой.

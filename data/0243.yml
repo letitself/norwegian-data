@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий решительно отрицает [слова]ContentOfSpeech собеседника, категорически с ними не согласен. Обычно говорящий отрицает [характеристику]Evaluation или [действие]Action. Слово "ничего" в данном случае означает "совсем". Слот XP может заполняться глагольной группой, именной группой, предложной группой, прилагательным или наречием.
+  - norwegian: |
+       Konstruksjonen betyr at taleren bestemt avviser samtalepartnerens [ord]ContentOfSpeech og er helt uenig i dem. Vanligvis avviser taleren en [karakteristikk]Evaluation eller [en handling]Action. Ordet "ничего" betyr i dette tilfellet "совсем". Sloten XP kan fylles av en verbalfrase, en nominalfrase, et preposisjonsledd, et adjektiv eller et adverb.
 examples:
   - |
        ― Тебе нравится Бах? ― Уф, не знаю. Он [смешной]ContentOfSpeech. ― Ничего [он]Agent не [смешной]Evaluation. У Баха мужское лицо ― большой рот, большой нос, большие темные глаза…

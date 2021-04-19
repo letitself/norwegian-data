@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает, как говорящий оценивает [действия]Action другого [участника]Agent или свои собственные действия. Конструкция может выражать  [похвалу или осуждение]Evaluation в зависимости от того, нужно или не нужно (по оценке говорящего) было совершать эти действия. Второй слот NP-Nom заполняется только оценочными словами молодец, умница, дурак, дура, идиот, идиотка и подобными.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens vurdering av en annen [deltakers]Agent eller sine egne [handlinger]Action. Konstruksjonen kan uttrykke [ros eller fordømmelse]Evaluation, avhengig av om taleren mener handlingene burde utføres eller ikke. Den andre NP-Nom-sloten fylles kun av verdiladede ord som молодец, умница, дурак, дура, идиот, идиотка og liknende.
 examples:
   - |
        [Ты]Agent, Позднякова, [молодец]Evaluation, [что тогда мне позвонила насчет Галины]Action, это нам, действительно, здорово помогло.

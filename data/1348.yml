@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на определенный [момент]Time в прошлом, с которого ведётся отсчёт начала [ситуации]Situation, описанной в клаузе.
+  - norwegian: |
+       Konstruksjonen angir et bestemt [tidspunkt]Time i fortiden som regnes for å være startpunktet for den [situasjonen]Situation som er beskrevet i setningen.
 examples:
   - |
        Новая книжка оказалась хороша, с интересными историями, картинками. С той поры [Федя полюбил русский язык]Situation, особенно письменные задания, и [сочинения его стали первыми в классе]Situation.

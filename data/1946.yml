@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Possessor имеет доступ к [предмету]Theme в данный момент, может предоставить этот [предмет]Theme, если возникнет необходимость. Как если бы участник держал предмет в своих руках. Конструкция также часто обозначает, что некоторый участник несет ответственность за [детей]Participant (примеры 4, 5). При наличии отрицания NP-Nom меняется на NP-Gen.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Possessor for øyeblikket har tilgang til [en gjenstand]Theme og kan stille [gjenstanden]Theme til rådighet, om nødvendig. Det er som om deltakeren holder gjenstanden i hendene sine. Dessuten betyr konstruksjonen ofte at en gitt deltaker har ansvaret for [barn]Participant (eksempel 4 og 5). Ved nektelse erstattes NP-Nom av NP-Gen.
 examples:
   - |
        У [вас]Possessor [есть]State на руках [история болезни]Theme?

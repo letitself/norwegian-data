@@ -7,8 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция усиливает разницу по некоторому [признаку]Property между двумя объектами, участниками, ситуациями или действиями в ходе их сравнения.
-  - english: |
-       добавить пример с генитивом  (NP-Gen/чем XP) дом просторнее квартиры
   - norwegian: |
        Konstruksjonen forsterker det som skiller to objekter, deltakere, situasjoner eller handlinger når man sammenlikner et gitt [kjennetegn]Property ved dem.
 examples:
@@ -19,9 +17,9 @@ examples:
   - |
        В реальной жизни я ношу не юбки, а джинсы, потому что это гораздо [удобнее]Property.
   - |
-       Что ни говорите, а проблема бессонницы гораздо [серьёзнее]Property, чем принято о ней думать.
-  - |
        Автобусы, кстати, ходят в Далласе гораздо [чаще]Property, чем, например, на севере страны, в Миннесоте.
+  - |
+       Если то, что я сейчас скажу, покажется вам очевидным, то поздравьте себя с тем, что вы гораздо [умнее]Property [меня.]Participant
 morphology:
   - Adj
   - Cmp

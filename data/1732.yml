@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на местоположение человека (или, реже, животного) в пространстве: конструкция обозначает [место]Location, с которым участник [соприкасается]State [частью своего тела]Theme.
+  - norwegian: |
+       Konstruksjonen angir et menneskes (eller, sjeldnere, et dyrs) plassering i rommet. Konstruksjonen betegner [et sted]Location deltakeren [er borti]State [med en kroppsdel]Theme.
 examples:
   - |
        За время сна Петров успел сдвинуть подушку в сторону и [лежал]State [головой]Theme на [простыне]Location.

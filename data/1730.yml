@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на местоположение человека (или, реже, животного) в пространстве. Конструкция обозначает, что один участник [располагается]State относительно [другого участника]Landmark так, что последний видит определённую [часть тела]Theme первого участника. На месте второго участника может находиться некоторый неподвижный [объект]Landmark (стена, дверь и др.). Конструкция может также обозначать, что участники находятся в непосредственной близости друг к другу (пример 5).
+  - norwegian: |
+       Konstruksjonen angir et menneskes (eller, sjeldnere, et dyrs, eksempel 5) plassering i rommet. Konstruksjonen betyr at én deltaker [befinner seg]State slik i forhold til [en annen deltaker]Landmark at sistnevnte ser en bestemt [kroppsdel]Theme av den første deltakeren. I den første deltakerens sted kan det være et gitt ubevegelig [objekt]Landmark (en vegg, en dør e.l.). Konstruksjonen kan også bety at deltakerne befinner seg i umiddelbar nærhet til hverandre (eksempel 5).
 examples:
   - |
        Он [сидел]State [плечом]Theme к [пленному]Landmark, а [спиной]Theme к [дереву]Landmark в своей любимой позе охотника — чуткой, но позволяющей немного поспать.

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme проявляет [качество или признак]Property в крайней степени, до [предела]Limit. Признак может быть положительным или отрицательным. Предел может быть определен обобщенно (например, до крайности, до предела, до невозможности) или в соответствии с тем признаком, о котором идет речь (например, загорелый до черноты, сладкий до приторности).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Participant eller [et objekt]Theme utviser [en egenskap eller et kjennetegn]Property i en ekstrem grad, til den ytterste grense. Kjennetegnet kan være positivt eller negativt. Yttergrensen kan være definert på en generaliserende måte (f.eks. til det ekstreme, til det ytterste, til det umulige) eller i overensstemmelse med det konkrete kjennetegnet (f.eks. så solbrunt at det er svart, så søtt at det er kvalmt).
 examples:
   - |
        Моему сыну 13, [проблемный]Property до [невозможности]Limit.

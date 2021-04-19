@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция указывает на местоположение человека (или, реже, животного) в пространстве. Конструкция обозначает [конечную точку]Goal [движения]Action участника, с которой он соприкасается [частью своего тела]Theme.
+  - norwegian: |
+       Konstruksjonen angir et menneskes (eller, sjeldnere, et dyrs) plassering i rommet. Konstruksjonen betegner [sluttpunktet]Goal for deltakerens [bevegelse]Action, som deltakeren er borti [med en kroppsdel]Theme.
 examples:
   - |
        Я развернулся и [уткнулся]Action [лбом]Theme в [кафель]Goal.

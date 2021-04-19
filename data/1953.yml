@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Agent [перемещается из одного места в другое]Action, и другой [участник]Associated, его спутник, перемещается вместе с ним. Конструкция также может обозначать категорию [участников]Participant, участие которых в действии зависит от наличия ответственного за них спутника (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent [forflytter seg fra et sted til et annet]Action og at en annen [deltaker]Associated, en ledsager, forflytter seg sammen med deltakeren. Konstruksjonen kan også betegne en kategori [deltakere]Participant, hvis deltakelse i handlingen avhenger av tilstedeværelsen av en ledsager som tar ansvar for dem (eksempel 4 og 5).
 examples:
   - |
        Вскоре [она]Agent [вернулась]Action в сопровождении [официанта]Counteragent, который нес на тарелочках колбасу и сыр.

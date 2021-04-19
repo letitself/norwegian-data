@@ -3,9 +3,21 @@ record: 1174
 name: 'NP типа NP-Gen'
 UD_name: 'NP типа NP-Gen'
 illustration: 'Дом типа хижины'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция вводит пояснение некоторого [общего понятия]Theme с помощью [конкретного частного примера]Element (примеры 1, 2, 3). Конструкция также может выражать сравнение и обозначать сходство [одного участника или объекта]Comparee с [другим]Standard (примеры 4, 5).
 examples:
+  - |
+       Про наши киоски разговор особый. Как принято, торгуют в них не только прессой, но и различными [мелкими вещами]Theme типа [расчёсок]Element, [брелков]Element, [телепузиков]Element и т. д.
+  - |
+       Поначалу рассеянное в космосе вещество состояло только из водорода и гелия, непригодных для образования [«твердых» планет]Theme типа [Земли]Element или [Марса]Element .
+  - |
+       Подобное положение дел выгодно [ключевым финансовым центрам]Theme типа [Лондона]Element или [Женевы]Element, куда в итоге и перетекают капиталы из развивающихся государств.
+  - |
+       Опять лечение, [воротник на шею]Comparee типа [скафандра]Standard.
+  - |
+       Ребята с Нюксеницы угостили такой [штукой]Comparee, типа [ликёра]Standard.
 morphology:
   - NP
   - Gen
@@ -19,7 +31,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Comparee
+  - Element
+  - Standard
+  - Theme
 intonation:
   - ~
 usage_label: ~
@@ -28,7 +43,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[obj Дом [nmod [case типа] хижины]]'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     
@@ -36,6 +51,9 @@ semantic_types:
   - type: Comparison
     subtypes:
       - type: Similarity
+  - type: Discourse structure
+    subtypes:
+      - type: Exemplification
   - type: Salient property
     subtypes:
       - type: Belonging to a class

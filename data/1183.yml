@@ -3,9 +3,21 @@ record: 1183
 name: 'NP сродни NP-Dat'
 UD_name: 'NP сродни NP-Dat'
 illustration: 'Коллектив телекомпании был сродни театральной труппе.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и обозначает сходство [одного участника или объекта]Comparee с [другим]Standard. Как правило, речь идет об абстрактных понятиях: чувствах, переживаниях, рассуждениях и др. (примеры 3, 4), реже выражается внешнее сходство (пример 5). Конструкция ассоциируется с книжным стилем изложения.
 examples:
+  - |
+       [Речь]Comparee его была сродни [классической музыке]Standard, [абстрактной живописи]Standard или [пению щегла]Standard.
+  - |
+       А [то, что телефон продолжает работать, когда отключается электричество в доме]Comparee, было для Петрова-младшего сродни [волшебству]Standard.
+  - |
+       Я испытала [что-то]Comparee сродни [тем чувствам, которые не давали мне покоя после смерти Булата Окуджавы]Standard.
+  - |
+       Я воображаю, что [мои ощущения]Comparee сродни [блаженству, которое испытывают люди при посещении настоящей русской бани]Standard.
+  - |
+       [Лицо девушки]Comparee было сродни [усталой философичной фасолине]Standard.
 morphology:
   - NP
   - Dat
@@ -18,7 +30,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - ~
 usage_label: Obsolete
@@ -27,7 +40,8 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Коллектив [nmod телекомпании]] [cop был] [case сродни] [amod театральной] труппе.]'
 common_fillers:
-  - ~
+  - чувства
+  - ощущения
 references:
   - |
     

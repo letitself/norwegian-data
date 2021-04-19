@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция употребляется при обозначении промежутка [времени]Time, определяющего границы какого-либо [действия]Action, состояния или ситуации. [Количество]Quantity [времени]Time говорящий указывает приблизительно, неточно. Значение неточности передается инверсионным порядком слов (NP-Gen на NumCrd-Acc вместо прямого порядка слов на NumCrd-Acc NP-Gen).
+  - norwegian: |
+       Konstruksjonen brukes for å betegne et [tidsrom]Time som setter grensene for en [handling]Action, tilstand eller situasjon. [Mengden]Quantity [tid]Time angir taleren omtrentlig og upresist. Omtrentligheten gjengis ved at ordene står i omvendt rekkefølge (NP-Gen на NumCrd-Acc i stedet for den vanlige rekkefølgen на NumCrd-Acc NP-Gen).
 examples:
   - |
        Мы все [замокли]Action [минут]Time на [пять]Number и слушали, как на кухне работает холодильник.

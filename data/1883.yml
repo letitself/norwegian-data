@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает совместное [действие]Action, которое выполняет некоторый [участник]Agent вместе с другим [участником или группой участников]Associated. Участники в равной степени участвуют в выполнении действия.
+  - norwegian: |
+       Konstruksjonen betegner en felles [handling]Action som en gitt [deltaker]Agent utfører sammen med en annen [deltaker eller gruppe deltakere]Associated. Deltakerne deltar i utførelsen av handlingen i like stor grad.
 examples:
   - |
        [Родные]Agent и [друзья]Agent [веселятся]Action вместе с [участниками ансамбля]Associated.

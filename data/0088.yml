@@ -6,18 +6,20 @@ illustration: 'Это был всего-навсего старый диван.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что у адресата и/или говорящего были слишком завышенные ожидания о значении [некоторого объекта]Theme . В реальности эти ожидания не подтвердились. Конструкция может выражать разочарование.
+       Конструкция обозначает, что говорящий представлял себе некоторый [объект]Theme или некоторого [участника]Participant как более важный, существенный или интересный, чем он оказался в действительности. Конструкция часто выражает разочарование говорящего в связи с тем, что его ожидания не подтвердились (примеры 2, 3).
   - english: |
-       This construction signifies that the addressee and/or speaker had too high expectations about the value [of an object]Theme. In reality these expectations were not proven correct. It can sometimes express disappointment.
-  - norwegian: |
-       Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту) Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
+       This construction signifies that the speaker had too high expectations about the value [of an object]Theme. In reality these expectations were not proven correct. It can sometimes express disappointment.
 examples:
   - |
-       ― Не бойся, ― сказал Иванов. ― Это всего-навсего [эхо]Theme. Пожалуйста, не бойся.
+       ― Не бойся, это всего-навсего [эхо]Theme. Пожалуйста, не бойся.
   - |
-       Вася отошел от поселка всего-навсего [километр]Theme, не больше.
+       Потом я присоединилась к экскурсии, и нас повели куда-то на другой конец зоопарка, а там всего-навсего [куры.]Participant Самые обыкновенные, домашние.
   - |
-       Маша взяла свой подарок и торжественно произнесла: ― Смотрите, что у меня есть! Это был всего-навсего [набор довольно старых открыток]Theme.
+       Маша взяла свой подарок и торжественно произнесла: ― Смотрите, что у меня есть! A это был всего-навсего [набор довольно старых открыток]Theme.
+  - |
+       Интернет ― это не средство массовой информации, а всего-навсего [средство коммуникации]Theme, своего рода продолжение телефона.
+  - |
+       Я был в то время всего-навсего [заведующим]Status сектором, каких в министерстве было больше сотни.
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -29,7 +31,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
 intonation:
   - ~
 usage_label: Colloquial
@@ -37,8 +40,10 @@ dependency_structure:
   - '[root [advmod всего-навсего] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [cop был] [advmod всего-навсего] [amod старый] диван.]'
+comment: |
+    'См. близкую конструкцию 87.'
 common_fillers:
-  - ~
+  - привычка
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

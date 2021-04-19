@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник] Agent разгоняется, чтобы осуществить некоторое [действие] Action. Иногда таким действием является резкая остановка.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent tar fart for å iverksette en gitt [handling]Action. Av og til er denne handlingen å bråstoppe.
 examples:
   - |
        [Ромка]Agent выскочил в коридор и с разбега [вышиб дверь в ванную]Action.

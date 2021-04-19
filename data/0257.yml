@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent [говорит или действует]Action вместо [группы людей или организации]Counteragent, по их поручению или с их согласия.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent [snakker eller handler]Action i stedet for [en gruppe personer eller en organisasjon]Counteragent, på oppdrag fra dem eller med deres samtykke.
 examples:
   - |
        От имени [всех мужчин]Counteragent [я]Agent [поздравляю с 8 марта]Action наших дорогих женщин!

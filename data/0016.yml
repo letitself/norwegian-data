@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает, что говорящий считает [действие]Action [участника]Participant ситуации неправильным, предосудительным, стыдным, нехорошим. Слот VP-Inf обычно заполняется глаголом несовершенного вида (примеры 1-4), но встречаются и глаголы совершенного вида (пример 5).
   - english: |
        This construction signifies that the speaker evaluates a certain [action]Action of the [participant]Participant as reprehensible, shameful, bad or in other ways wrong. The slot VP-Inf is usually filled with an imperfective verb (examples 1-4), but perfective verbs can also appear there (example 5).
+  - norwegian: |
+       Konstruksjonen betyr at taleren mener [en deltakers]Participant [handling]Action er uriktig, forkastelig, skammelig eller dårlig. Sloten VP-Inf fylles vanligvis av et verb i imperfektivt aspekt (eksempel 1-4), men verb i perfektivt aspekt forekommer også (eksempel 5).
 examples:
   - |
        Грех [упускать возможную выгоду.]Action

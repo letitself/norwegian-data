@@ -6,16 +6,20 @@ illustration: 'Она всего лишь медсестра.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция употребляется для существенного снижения значения некоторого параметра [субъекта]Theme или [объекта]Theme по сравнению с ожидаемым.
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant оценивается говорящим как не важный, не существенный по своему значению, не имеющий достаточной ценности, чтобы принимать его во внимание. В связи с этим к объекту или участнику могут предъявляться заниженные требования. Конструкция часто несет отрицательную оценку.
   - english: |
-       Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту). Добавить: всего только.
+       The construction means that the speaker evaluates a certain [object]Theme or a [participant]Participant is unimportant, irrelevant, not having enough value to be taken into account. In this regard, the requirements imposed upon the object or the participant can be significantly understated. The construction often carries a negative assessment.
 examples:
   - |
-       Разумеется, этот рассказ ― всего лишь [литературное произведение.]Theme
+       Любая книга, любая телепрограмма по психологии или о воспитании ребенка ― это всего лишь [книга]Theme или [телепрограмма]Theme, а не инструкция по применению.
   - |
-       Это всего лишь [иллюзия]Theme.
+       В первые минуты разговора понятно, что эти воспоминания для женщины значат очень даже много, а для мужчины это всего лишь [прошлое.]Theme
   - |
-       У него было всего лишь [превосходство]Theme пройденной дистанции.
+       ― Разве не является любое суждение о происхождении слова всего лишь [гипотезой]Theme?
+  - |
+       ― Вы актриса? ― спросил он. ― О, нет, я всего лишь [гримёрша.]Status
+  - |
+       Генерал пояснил, что является всего лишь [посредником]Status в этих переговорах.
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -27,7 +31,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
 intonation:
   - ~
 usage_label: ~
@@ -35,8 +40,21 @@ dependency_structure:
   - '[root [advmod всего [advmod лишь]] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [advmod всего [advmod лишь]] медсестра.]'
+comment: |
+    'См. близкую конструкцию 88.'
 common_fillers:
-  - ~
+  - иллюзия
+  - сон
+  - прошлое
+  - слухи
+  - игра
+  - гипотеза
+  - случайность
+  - легенда
+  - посредник
+  - видимость
+  - оболочка
+  - инструмент
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

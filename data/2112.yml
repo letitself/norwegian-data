@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Agent  осуществляет [действие]Action, которое, согласно ожиданиям, должен осуществлять [другой участник]Counteragent.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent utfører [en handling]Action som det er forventet at [en annen deltaker]Counteragent skal utføre.
 examples:
   - |
        На трон вместо [королевы]Counteragent [прыгнул]Action [обаятельный лягушонок]Agent.

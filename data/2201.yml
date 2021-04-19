@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme меняет своего обладателя. Некоторый участник становится новым официальным [обладателем]Possessor объекта, получает право распоряжаться им. В качестве объекта чаще всего выступают недвижимость, земля, организации.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme bytter eier. En gitt deltaker blir den nye offisielle [eieren]Possessor av objektet og får retten til å forvalte det. Objektet er oftest en fast eiendom, en jordeiendom eller en organisasjon.
 examples:
   - |
        Оказалось, что [магазин]Theme ему больше не принадлежит и за долги отошел какому-то [фонду]Possessor, а сам бывший владелец исчез в неизвестном направлении.
