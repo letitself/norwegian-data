@@ -47,6 +47,10 @@ dependency_structure:
   - '[root [advmod давно] пора [cop Cop] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Детям] [advmod давно] пора [csubj поесть].]'
+common_fillers:
+  - спать
+  - есть
+  - ложиться
 references:
   - |
     

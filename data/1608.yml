@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod всегда] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod всегда] опаздывает.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -37,6 +37,8 @@ dependency_structure:
   - '[dep рублей [nummod NumCrd]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] Маши] было [nsubj рублей [nummod:gov сто]] [obl [case на] книги].]'
+common_fillers:
+  - ~
 references:
   - |
     

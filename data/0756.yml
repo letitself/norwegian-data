@@ -42,6 +42,9 @@ dependency_structure:
   - '[root VP [obl [case в] [nummod двух] словах]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case в] [nummod двух] словах] рассказал [obl [case про] [det свою] книгу].]'
+common_fillers:
+  - рассказать
+  - объяснить
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] стать [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вчера] [nsubj он] стал [xcomp отцом].]'
+common_fillers:
+  - ~
 references:
   - |
     

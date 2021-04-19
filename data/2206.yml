@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] надавить [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Оратор] давил [obl [case на] чувства].]'
+common_fillers:
+  - ~
 references:
   - |
     

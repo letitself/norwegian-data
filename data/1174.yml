@@ -27,6 +27,8 @@ dependency_structure:
   - '[dep NP [nmod [case типа] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[obj Дом [nmod [case типа] хижины]]'
+common_fillers:
+  - ~
 references:
   - |
     

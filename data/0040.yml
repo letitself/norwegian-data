@@ -43,6 +43,12 @@ dependency_structure:
   - '[root будет [iobj PronPers-Dat] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root Будет [iobj тебе] [nsubj счастье], [conj [nsubj ты] [advmod только] жди].]'
+common_fillers:
+  - счастье
+  - удача
+  - сюрприз
+  - конец
+  - рыбалка
 references:
   - |
     

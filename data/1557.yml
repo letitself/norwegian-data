@@ -40,6 +40,8 @@ dependency_structure:
   - '[dep NP [nmod [case на] глубине [nmod [nummod NumCrd-Gen] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Встаньте [obl [case на] расстоянии [nmod [nummod двух] метров] [obl друг [fixed от] [fixed друга]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

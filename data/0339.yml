@@ -43,6 +43,17 @@ dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [case У] Паши [cop есть] [nsubj кот].]'
+common_fillers:
+  - подруга
+  - знакомая
+  - дед
+  - отец
+  - недостатки
+  - выбор
+  - квартира
+  - машина
+  - дача
+  - идеи
 references:
   - |
     

@@ -41,6 +41,13 @@ dependency_structure:
   - '[dep NP [nmod [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root Боль [nmod [case в] животе]]'
+common_fillers:
+  - боль
+  - слабость
+  - шум
+  - звон
+  - уши
+  - голова
 references:
   - |
     

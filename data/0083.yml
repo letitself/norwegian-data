@@ -49,6 +49,10 @@ dependency_structure_of_illustration:
   - '[root [nsubj Шум] становился [xcomp [advmod всё] сильнее].]'
 comment: |
     'См. близкую конструкцию всё NP-Nom Cop всё Adj-Cmp и ~Adj-Cmp/ VP Adv-Cmp и ~Adv-Cmp (Спортсмен бежал всё быстрее и быстрее.)'
+common_fillers:
+  - сильнее
+  - лучше
+  - приятнее
 references:
   - |
     См. Zhukova, V. Title. MA thesis.

@@ -34,6 +34,8 @@ dependency_structure:
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [mark Как] выяснилось], [nsubj половина [nmod жителей [nmod Парижа]]] [advmod никогда] [advmod не] была [obl [case в] Лондоне].]'
+common_fillers:
+  - ~
 references:
   - |
     

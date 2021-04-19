@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl NP-Gen [nummod NumCrd] [advmod назад]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] был [obl [case в] Швеции] [obl лет [nummod:gov десять] [advmod назад]].]'
+common_fillers:
+  - ~
 references:
   - |
     

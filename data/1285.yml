@@ -44,6 +44,11 @@ dependency_structure:
   - '[root VP [obl [case по] случаю [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] случаю [nmod юбилея [nmod жены]]] [nsubj он] [obl сам] помоет [obj тарелки].]'
+common_fillers:
+  - праздник
+  - день рождения
+  - юбилей
+  - годовщина
 references:
   - |
     

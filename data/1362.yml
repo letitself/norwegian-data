@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case по] ходу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] ходу [nmod фильма]] думаешь, [ccomp [cc а] [advmod почему] [nsubj [det эта] история] [advmod не] может [xcomp [cop быть] правдой]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

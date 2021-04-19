@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case под] предлогом [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] ушёл [obl [case с] работы] [obl [case под] предлогом [nmod болезни]].]'
+common_fillers:
+  - ~
 references:
   - |
     

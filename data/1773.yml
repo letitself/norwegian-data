@@ -27,6 +27,8 @@ dependency_structure:
   - '[dep [advmod навскидку] [nummod NumCrd] NP]'
 dependency_structure_of_illustration:
   - '[root Получилось [advmod навскидку] [nsubj [nummod:gov тридцать] страниц [nmod текста]].]'
+common_fillers:
+  - ~
 references:
   - |
     

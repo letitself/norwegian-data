@@ -42,6 +42,17 @@ dependency_structure:
   - '[root VP [obl [case от] лица [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Депутат] выступил [obl [case от] лица [nmod [det всей] партии]].]'
+common_fillers:
+  - говорить
+  - выступать
+  - писать
+  - действовать
+  - вести
+  - компания
+  - государство
+  - администрация
+  - руководство
+  - жители
 references:
   - |
     

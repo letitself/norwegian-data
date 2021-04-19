@@ -42,6 +42,12 @@ dependency_structure:
   - '[dep NP [nmod [case в] адрес [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] адрес [nmod Вани]] послышались [nsubj оскорбления].]'
+common_fillers:
+  - слова
+  - замечания
+  - претензии
+  - критика
+  - обвинения
 references:
   - |
     

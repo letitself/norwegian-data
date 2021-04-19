@@ -47,6 +47,8 @@ dependency_structure:
   - '[root [cop Cop] можно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Можно [iobj мне] [csubj открыть [obj окно]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

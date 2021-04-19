@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] обязываться [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Банк] обязуется [xcomp оплачивать [obj услуги] [obl [case в] срок]].]'
+common_fillers:
+  - ~
 references:
   - |
     

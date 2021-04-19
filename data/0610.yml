@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [obl [case Prep] NP-Loc] [nsubj PronInt-Gen] [advmod только] нет!]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] ярмарке] [nsubj чего] [advmod только] нет!]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -33,6 +33,8 @@ dependency_structure:
   - '[acl Cl [conj [cc или] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] [advmod не] [case в] том, [acl богатые [nsubj мы] [conj [cc или] бедные]].] [root [nsubj Дело] [advmod не] [case в] том, [acl [obl [case во] что] [nsubj я] верю [conj [cc или] [advmod не] верю]].]'
+common_fillers:
+  - ~
 references:
   - |
     

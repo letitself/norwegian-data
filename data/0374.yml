@@ -38,6 +38,8 @@ dependency_structure:
   - '[root [nsubj что] [iobj NP-Dat] мешать [xcomp VP-Inf]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Что] [iobj ему] мешало [xcomp рассказать [obj [det всю] правду]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

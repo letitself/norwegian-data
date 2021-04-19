@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj вид, [acl [mark будто] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [case У] тебя [nsubj [det такой] вид, [acl [mark будто] [iobj тебе] [nsubj это] [advmod не] интересно]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [advmod вплоть] [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] просидели [obl [case за] столом] [obl [advmod вплоть] [case до] [amod позднего] вечера].]'
+common_fillers:
+  - ~
 references:
   - |
     

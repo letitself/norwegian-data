@@ -45,6 +45,11 @@ dependency_structure_of_illustration:
   - '[root [obl [case По] [amod внешнему] виду [nmod мебели]] можно [csubj подумать, [ccomp [mark что] [nsubj она] переходит [obl [case из] поколения] [obl [case в] поколение]]].]'
 comment: |
     'Не путать с конструкцией 1296 VP по NP-Dat (По состоянию здоровья он был отпущен домой).'
+common_fillers:
+  - запах
+  - вид
+  - лицо
+  - голос
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [cc а] [advmod не] VP-Pfv.Inf [advmod ли] [iobj NP-Dat]?]'
 dependency_structure_of_illustration:
   - '[root [cc А] [advmod не] пойти [advmod ли] [iobj нам] [obl [case в] кафе]?]'
+common_fillers:
+  - ~
 references:
   - |
     

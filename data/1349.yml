@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod по-прежнему] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Тётя] [advmod по-прежнему] живет [obl [case в] Петербурге].]'
+common_fillers:
+  - ~
 references:
   - |
     

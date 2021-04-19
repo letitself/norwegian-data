@@ -37,6 +37,10 @@ dependency_structure:
   - '[root [advmod всё] [advmod ещё] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod всё] [advmod ещё] спит?]'
+common_fillers:
+  - живет
+  - остается
+  - плачет
 references:
   - |
     

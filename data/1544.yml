@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case за] копейки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] купил [obj машину] [obl [case за] [amod сущие] копейки].]'
+common_fillers:
+  - ~
 references:
   - |
     

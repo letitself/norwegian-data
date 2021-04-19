@@ -43,6 +43,12 @@ dependency_structure:
   - '[root VP [advmod вровень [obl [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Его] глаза] оказались [advmod вровень [obl [case с] [det моими] глазами]].]'
+common_fillers:
+  - встать
+  - стать
+  - ставить
+  - поставить
+  - идти
 references:
   - |
     

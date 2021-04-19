@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [advmod нежданно-негаданно] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod вдруг] встал [conj [cc и] побежал] [obl [case к] двери].]'
+common_fillers:
+  - ~
 references:
   - |
     

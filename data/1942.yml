@@ -33,6 +33,8 @@ dependency_structure:
   - '[root назвать-Pl [obj NP-Acc] [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [obj [amod Старшего] сына] назвали [xcomp Иваном] [obl [case в] честь [nmod прадеда]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -35,6 +35,8 @@ dependency_structure:
   - '[root Cl, [conj [nmod NP-Gen] [advmod и] [nsubj след] простыл]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Когда] [nsubj все] проснулись], [nmod его] [advmod и] [nsubj след] простыл.]'
+common_fillers:
+  - ~
 references:
   - |
     

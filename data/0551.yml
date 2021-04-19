@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] приходиться [iobj NP-Dat] [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] мальчик] приходится [iobj мне] [xcomp сыном].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[nummod NumCrd [nmod [case с] хвостиком]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [nummod:gov пятьдесят] лет [nmod [case с] хвостиком].]'
+common_fillers:
+  - ~
 references:
   - |
     

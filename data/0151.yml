@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [advcl [mark как] [advmod ни] VP], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Как] [nsubj он] [advmod ни] старался], [xcomp [obj экзамен] сдать] [advmod не] смог.]'
+common_fillers:
+  - ~
 references:
   - |
     

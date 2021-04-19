@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] суметь [xcomp VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] смогла [xcomp уйти] [obl [case с] работы] [advmod пораньше].]'
+common_fillers:
+  - ~
 references:
   - |
     

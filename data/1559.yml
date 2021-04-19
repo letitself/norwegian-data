@@ -33,6 +33,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] [nummod NumCrd-Loc] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Машина] стоит [obl [case в] [nummod пяти] метрах [nmod [case от] дороги]].]'
+common_fillers:
+  - ~
 references:
   - |
     

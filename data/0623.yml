@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] [nummod NumCrd] раз]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Число] увеличилось [obl [case в] [nummod:gov четыре] раза].]'
+common_fillers:
+  - ~
 references:
   - |
     

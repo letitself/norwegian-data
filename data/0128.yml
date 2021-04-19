@@ -44,6 +44,13 @@ dependency_structure:
   - '[root [case за] NumCrd-Acc [nmod NP-Gen.Pl]]]'
 dependency_structure_of_illustration:
   - '[root Набралось [nsubj [case за] сотню [nmod желающих]].]'
+common_fillers:
+  - тридцать
+  - сорок
+  - десяток
+  - сотня
+  - тысяча
+  - гостей
 references:
   - |
     

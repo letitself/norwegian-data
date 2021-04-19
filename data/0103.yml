@@ -45,6 +45,12 @@ dependency_structure:
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] делает [obj вид, [acl [mark что] слушает]].]'
+common_fillers:
+  - слушать
+  - работать
+  - спать
+  - читать
+  - торопиться
 references:
   - |
     

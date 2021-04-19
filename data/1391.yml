@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] оказаться [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] оказаться [obl [case в] [amod трудной] ситуации].]'
+common_fillers:
+  - ~
 references:
   - |
     

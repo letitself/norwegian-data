@@ -46,6 +46,13 @@ dependency_structure:
   - '[root [nsubj NP-Nom] оставаться [case за] NP-Acc]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] [cop был] [case за] старшего.]'
+common_fillers:
+  - старший
+  - главный
+  - командир
+  - начальник
+  - хозяин
+  - командующий
 references:
   - |
     

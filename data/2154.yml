@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] рисковать [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вы] рискуете [xcomp остаться [obl [case без] работы]]!]'
+common_fillers:
+  - ~
 references:
   - |
     

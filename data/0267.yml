@@ -43,6 +43,8 @@ dependency_structure:
   - '[root VP [obj [case по] [nummod NumCrd] NP [nmod [case в] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] сочинял [obj [case по] [nummod:gov несколько] стихотворений [nmod [case в] год]].]'
+common_fillers:
+  - ~
 references:
   - |
     

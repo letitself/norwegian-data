@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod так] [advmod и] VP-Pfv]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod так] [advmod и] ахнул.]'
+common_fillers:
+  - ~
 references:
   - |
     

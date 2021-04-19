@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nummod NumCrd] час [nmod ночи]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] прилетаем [obl [case в] [nummod:gov два] часа [nmod ночи]].]'
+common_fillers:
+  - ~
 references:
   - |
     

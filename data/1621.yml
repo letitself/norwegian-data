@@ -30,6 +30,8 @@ dependency_structure:
   - '[acl [mark как] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] успели [xcomp приготовить [obj ужин]] [obl [case до] того, [acl [mark как] пришли [nsubj гости]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

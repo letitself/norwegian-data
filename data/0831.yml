@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] угоду] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] сказал [obj это] [obl [case в] угоду] [iobj начальству].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] Verb-Bare]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ребенок] [advmod вдруг] хлоп [obl [case об] землю]!]'
+common_fillers:
+  - ~
 references:
   - |
     

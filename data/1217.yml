@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [cop Cop] необходимо [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Тебе] необходимо [csubj прочитать [obj [det эту] книгу]].]'
+common_fillers:
+  - ~
 references:
   - |
     

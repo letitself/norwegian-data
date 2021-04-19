@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] сидеть [obl [case за] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Брат] сидит [obl [case за] работой].]'
+common_fillers:
+  - ~
 references:
   - |
     

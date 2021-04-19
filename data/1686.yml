@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] пытаться [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] [advmod долго] пытались [xcomp поймать].]'
+common_fillers:
+  - ~
 references:
   - |
     

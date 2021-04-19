@@ -31,6 +31,8 @@ dependency_structure:
   - '[root VP [obl [nummod NumCrd-Acc] раз [nmod [case за] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] ест [obl [nummod:gov три] раза [nmod [case в] день]].]'
+common_fillers:
+  - ~
 references:
   - |
     

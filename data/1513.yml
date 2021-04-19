@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] Adj-Short [conj [cc и] [advmod не] Adj-Short]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] рад [conj [cc и] [advmod не] рад].]'
+common_fillers:
+  - ~
 references:
   - |
     

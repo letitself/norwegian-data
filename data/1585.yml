@@ -27,6 +27,8 @@ dependency_structure:
   - '[conj [advmod иногда] XP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Иногда] дождь, [conj [advmod иногда] снег].]'
+common_fillers:
+  - ~
 references:
   - |
     

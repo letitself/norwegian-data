@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case изо] [det всех] сил]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ваня] бежал [obl [case изо] [det всех] сил].]'
+common_fillers:
+  - ~
 references:
   - |
     

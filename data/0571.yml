@@ -46,6 +46,8 @@ dependency_structure:
   - '[root VP [advmod Adv-Cmp, [obl [case чем] NP-Nom]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] старше, [obl [case чем] ты].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -43,6 +43,10 @@ dependency_structure:
   - '[root Cl [obl [case в] стенах [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] стенах [nmod школы]] [nsubj:pass алкоголь] запрещён.]'
+common_fillers:
+  - институт
+  - университет
+  - школа
 references:
   - |
     

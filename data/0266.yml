@@ -37,6 +37,8 @@ dependency_structure:
   - '[dep NP [nmod [case по] NP-Dat.Pl]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] утрам] [nsubj он] бегал.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [obl [case у] NP-Gen] вышло [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [advmod впервые] получилось [csubj приехать [advmod вовремя]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -46,6 +46,8 @@ dependency_structure:
   - '[root [dep NP] что, [dislocated [cop Cop] Pred]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] что, [dislocated выпивает]?]'
+common_fillers:
+  - ~
 references:
   - |
     

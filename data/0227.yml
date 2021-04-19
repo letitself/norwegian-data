@@ -44,6 +44,8 @@ dependency_structure:
   - '[root [obl [advmod ни] [case за] [det какие] NP-Acc.Pl [nmod [case в] мире]] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case за] [det какие] деньги] [advmod не] продам [obj дом]!]'
+common_fillers:
+  - ~
 references:
   - |
     

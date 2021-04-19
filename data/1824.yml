@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] пере-Verb [obj [det все] NP-Acc.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] перемыл [obj [det все] тарелки [nmod [case в] доме]].]'
+common_fillers:
+  - ~
 references:
   - |
     

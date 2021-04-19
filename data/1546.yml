@@ -48,6 +48,13 @@ dependency_structure_of_illustration:
   - '[obj Книга [nmod объёмом [nmod [case в] [nummod:gov сто] страниц]]]'
 comment: |
     'См. близкие конструкции 55 NP весом/массой (в) NumCrd-Acc NP (Баржа весом в шесть тонн), 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP (Велодорожка длиной шесть километров).'
+common_fillers:
+  - кубометр
+  - страница
+  - мегабайт
+  - литр
+  - слово
+  - знак
 references:
   - |
     

@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep NP [nmod [advmod вкупе] [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root Сижу [parataxis изучаю] [obj расписание [nmod электричек]] [advmod вкупе [obl [case с] картой [nmod Подмосковья]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom [nmod [case с] NP-Ins]] квиты?]'
 dependency_structure_of_illustration:
   - '[root [parataxis Выходит], [nsubj мы] квиты?]'
+common_fillers:
+  - ~
 references:
   - |
     

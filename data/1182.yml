@@ -40,6 +40,11 @@ dependency_structure:
   - '[root [nsubj NP-Nom.Pl] [cop Cop] [case на] [det одно] лицо]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Все] [det эти] врачи] [case на] [det одно] лицо.]'
+common_fillers:
+  - азиаты
+  - европейцы
+  - менты
+  - младенцы
 references:
   - |
     

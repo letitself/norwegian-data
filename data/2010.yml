@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [advcl [obl [det один] раз] VP-Fut], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [obl Раз] ошибёшься], [advmod потом] будут [nsubj [amod большие] проблемы].]'
+common_fillers:
+  - ~
 references:
   - |
     

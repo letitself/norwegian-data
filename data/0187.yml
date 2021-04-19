@@ -37,6 +37,8 @@ dependency_structure:
   - '[root VP [obl [case на] [nummod NumCrd-Acc] рублей]]'
 dependency_structure_of_illustration:
   - '[root "[obl [case На] [nummod:gov сто] рублей] можно [csubj купить [obj хлеб [conj [cc и] колбасу]]]."]'
+common_fillers:
+  - ~
 references:
   - |
     

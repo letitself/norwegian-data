@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case по] образцу NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass Кофейня] создана [obl [case по] образцу [nmod [amod парижских] [amod уличных] кафе]].]'
+common_fillers:
+  - ~
 references:
   - |
     

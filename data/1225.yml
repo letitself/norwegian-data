@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] вынудить [obj NP-Acc] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] вынудил [obj партнёра] [xcomp подписать [obj договор]].]'
+common_fillers:
+  - ~
 references:
   - |
     

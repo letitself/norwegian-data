@@ -30,6 +30,8 @@ dependency_structure:
   - '[ccomp [mark что] Cl?]'
 dependency_structure_of_illustration:
   - '[root [cc Да] понимаешь [advmod ли] [nsubj ты], [ccomp [mark что] [nsubj мы] [advmod теперь] банкроты]?]'
+common_fillers:
+  - ~
 references:
   - |
     

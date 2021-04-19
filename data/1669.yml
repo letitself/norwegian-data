@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [mark как] VP-Imp]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj Маша] [mark как] поскользнись [conj [cc и] упала] [obl [case на] спину].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -25,6 +25,8 @@ dependency_structure:
   - '[root XP [dep [advmod преимущественно] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] книга] [cop будет] интересна [iobj [advmod преимущественно] историкам].]'
+common_fillers:
+  - ~
 references:
   - |
     

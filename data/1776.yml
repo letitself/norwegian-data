@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl NP-Nom [nmod [case в] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] цитирую [obl слово [nmod [case в] слово]], [conj записывайте]!]'
+common_fillers:
+  - ~
 references:
   - |
     

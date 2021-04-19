@@ -43,6 +43,11 @@ dependency_structure:
   - '[root VP [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] люблю [obj Петра] [obl [case за] скромность].]'
+common_fillers:
+  - ругать
+  - наказать
+  - благодарить
+  - наградить
 references:
   - |
     

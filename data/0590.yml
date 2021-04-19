@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] VP [obj NP-Acc] [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] поставил [obj [det своего] ученика] [xcomp подсобником].]'
+common_fillers:
+  - ~
 references:
   - |
     

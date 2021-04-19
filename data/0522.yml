@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] иметь [obj вес] [obl [case при] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] имел [obj [amod большой] вес] [obl [case в] обществе].]'
+common_fillers:
+  - ~
 references:
   - |
     

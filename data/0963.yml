@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl день [conj [cc и] ночь]]]'
 dependency_structure_of_illustration:
   - '[root [obl День [conj [cc и] ночь]] [nsubj мы] готовились [obl [case к] экзамену].]'
+common_fillers:
+  - ~
 references:
   - |
     

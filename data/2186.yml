@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] поздно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [advmod ещё] рано [csubj есть [nsubj сахар]].]'
+common_fillers:
+  - ~
 references:
   - |
     

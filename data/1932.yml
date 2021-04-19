@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [obl [case на] случай [nmod NP-Gen]] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] случай [nmod дождя]] берите [obj зонт].]'
+common_fillers:
+  - ~
 references:
   - |
     

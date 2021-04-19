@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case в] бытность [det PronPoss] [obl [case на] NP-Loc]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] бытность [det мою] [obl [case на] Сахалине]] [obl [case при] [amod Александровской] тюрьме] числилось [nsubj [nummod [advmod более] [nummod двух] тысяч] заключенных].]'
+common_fillers:
+  - ~
 references:
   - |
     

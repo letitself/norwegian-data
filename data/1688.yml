@@ -33,6 +33,8 @@ dependency_structure:
   - '[conj [cc но] [advmod так [fixed и]] [advmod не] Verb]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] писал - [conj писал] [obj [det свой] роман], [conj [cc но] [advmod так [fixed и]] [advmod не] закончил [obj его]].]'
+common_fillers:
+  - ~
 references:
   - |
     

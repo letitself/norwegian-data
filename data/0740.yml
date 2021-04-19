@@ -56,6 +56,13 @@ dependency_structure:
   - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] месте [nmod NP-Gen]], [mark то] Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl Будь] [nsubj я] [obl [case на] [det твоем] месте], [nsubj я] [aux бы] согласился [obl [case на] [det эту] должность].]'
+common_fillers:
+  - ее
+  - его
+  - твоем
+  - вашем
+  - их
+  - я
 references:
   - |
     

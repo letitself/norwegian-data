@@ -27,6 +27,8 @@ dependency_structure:
   - '[root Cl, [advcl [mark пока] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] читал, [advcl [mark пока] [advmod не] стемнело].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -45,6 +45,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] пребывать [obl [case у] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Охранник] пребывает [obl [case на] посту].]'
+common_fillers:
+  - ~
 references:
   - |
     

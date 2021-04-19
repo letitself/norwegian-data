@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case из] NP-Gen [nmod VP-Inf]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] сделал [obj это] [obl [case из] желания [nmod понравиться]].]'
+common_fillers:
+  - ~
 references:
   - |
     

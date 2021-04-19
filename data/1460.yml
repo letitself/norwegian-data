@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod мало] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Офисные] работники] [advmod мало] двигаются.]'
+common_fillers:
+  - ~
 references:
   - |
     

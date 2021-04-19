@@ -36,6 +36,8 @@ dependency_structure:
   - '[amod [det самый] Adj [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[amod [amod Самый] лучший [obl [case за] [amod последний] год]]'
+common_fillers:
+  - ~
 references:
   - |
     

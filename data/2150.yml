@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP, [parataxis [advmod вдруг] VP-Fut]]'
 dependency_structure_of_illustration:
   - '[root Возьми [obj зонтик], [advcl [advmod вдруг] пойдет [nsubj дождь]].]'
+common_fillers:
+  - ~
 references:
   - |
     

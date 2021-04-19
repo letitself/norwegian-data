@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [advmod хоть] XP]'
 dependency_structure_of_illustration:
   - '[root Приезжай [advmod хотя [fixed бы]] [obl [case на] недельку], [advcl [mark если] [advmod уж] [advmod больше] [advmod не] получается].]'
+common_fillers:
+  - ~
 references:
   - |
     

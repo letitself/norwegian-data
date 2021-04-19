@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] продолжение [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] продолжение [nmod дня]] состоялось [nsubj [nummod:gov несколько] [amod серьёзных] переговоров].]'
+common_fillers:
+  - ~
 references:
   - |
     

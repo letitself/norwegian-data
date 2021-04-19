@@ -28,6 +28,8 @@ dependency_structure:
   - '[root вишь [ccomp [mark advmod] Cl]]'
 dependency_structure_of_illustration:
   - '[root [case В] этом [advmod и] [nsubj проблема].] [root Вишь [ccomp [mark advmod] вышло].]'
+common_fillers:
+  - ~
 references:
   - |
     

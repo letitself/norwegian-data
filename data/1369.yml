@@ -41,6 +41,9 @@ dependency_structure:
   - '[root [det один] NP [conj [cc и] NP] [conj [cc и] NP]]'
 dependency_structure_of_illustration:
   - '[root [case У] меня [obl [case до] [amod самого] августа] [nsubj [det одна] работа [conj [cc и] работа]].]'
+common_fillers:
+  - работа
+  - учеба
 references:
   - |
     

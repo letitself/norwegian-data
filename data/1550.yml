@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] размере [nmod [nummod NumCrd-Nom] NP]]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ей] выплатили [obj компенсацию [nmod [case в] размере [nmod [nummod [nummod тридцати] тысяч] рублей]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

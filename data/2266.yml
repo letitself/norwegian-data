@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [amod малая] толика [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Машина [conj [cc и] дом]] – [expl это] [advmod только] [amod малая] толика [nmod того, [acl [nsubj что] [obl [case у] них] есть]].]'
+common_fillers:
+  - ~
 references:
   - |
     

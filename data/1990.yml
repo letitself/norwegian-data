@@ -27,6 +27,8 @@ dependency_structure:
   - '[amod [advmod мало-мальски] AP]'
 dependency_structure_of_illustration:
   - '[root [case В] [det каждом] [amod [advmod мало-мальски] крупном] городе [cop была] [nsubj [det своя] газета].]'
+common_fillers:
+  - ~
 references:
   - |
     

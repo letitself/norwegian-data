@@ -55,6 +55,15 @@ dependency_structure:
   - '[root [advmod навряд [fixed ли]] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Вряд [fixed ли]] [nsubj он] придёт.]'
+common_fillers:
+  - завтра
+  - сегодня
+  - скоро
+  - притный
+  - единственный
+  - мне
+  - понравится
+  - получится
 references:
   - |
     

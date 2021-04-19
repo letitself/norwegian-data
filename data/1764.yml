@@ -31,6 +31,8 @@ dependency_structure:
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [aux бы] [advmod не] сказал, [ccomp [mark что] [iobj мне] понравился [nsubj [det этот] рассказ]].]'
+common_fillers:
+  - ~
 references:
   - |
     

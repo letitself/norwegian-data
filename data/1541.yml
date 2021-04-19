@@ -26,6 +26,8 @@ dependency_structure:
   - '[root [advmod приблизительно] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod примерно] преставляю [iobj себе], [ccomp [case в] чем [nsubj разница [nmod [case между] львом [conj [cc и] леопардом]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

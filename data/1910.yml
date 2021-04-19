@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj каждый] VP [obj NP-Acc]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Каждый] ученик] выучил [obj стихотворение].]'
+common_fillers:
+  - ~
 references:
   - |
     

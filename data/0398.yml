@@ -38,6 +38,8 @@ dependency_structure:
   - '[dep XP [obl [advmod не] [case без] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эти] [amod громкие] заявления] [cop были] [advmod не] [case без] оснований.]'
+common_fillers:
+  - ~
 references:
   - |
     

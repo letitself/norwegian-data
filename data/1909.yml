@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [det каждый] NP-Sg]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] останавливался [obl [case у] [det каждой] картины [nmod [case в] [det этом] зале]].]'
+common_fillers:
+  - ~
 references:
   - |
     

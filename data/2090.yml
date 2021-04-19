@@ -26,6 +26,8 @@ dependency_structure:
   - '[advcl [mark хотя] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] пришёл, [advcl [mark хотя] [nsubj мы] [obj его] [advmod не] приглашали].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [dep все [conj [cc и] каждый]]]'
 dependency_structure_of_illustration:
   - '[root [obj [det Эту] книгу] можно [csubj рекомендовать [iobj всем [conj [cc и] каждому]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

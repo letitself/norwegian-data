@@ -36,6 +36,8 @@ dependency_structure:
   - '[root VP [obj [advmod [advmod не] больше] NP [nmod [case в] [amod одни] руки]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] кассе] продают [obj [case по] [nummod:gov два] билета [nmod [case в] [amod одни] руки]].]'
+common_fillers:
+  - ~
 references:
   - |
     

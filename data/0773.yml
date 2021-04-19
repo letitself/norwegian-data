@@ -43,6 +43,14 @@ dependency_structure:
   - '[root VP [obl [case в] нарушение [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] [obl [case в] нарушение [nmod [det всех] правил]] дали [obj согласие [nmod [case на] строительство]].]'
+common_fillers:
+  - правил
+  - требований
+  - традиции
+  - закона
+  - договоренностей
+  - инструкций
+  - устава
 references:
   - |
     

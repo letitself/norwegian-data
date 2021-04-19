@@ -44,6 +44,15 @@ dependency_structure:
   - '[dep NP [nmod [case перед] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]].]'
+common_fillers:
+  - выступать
+  - отвечать
+  - читать лекцию
+  - говорить
+  - камера
+  - гости
+  - аудитория
+  - публика
 references:
   - |
     

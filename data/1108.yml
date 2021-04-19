@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [advmod как [advmod же]] [nsubj NP-Nom] [advmod не] VP-Pst?]'
 dependency_structure_of_illustration:
   - '[root [advmod Как [advmod же]] [nsubj он] [advmod не] знал?] [root [nsubj Мы] [advmod [advmod только] вчера] [obj это] обсуждали.]'
+common_fillers:
+  - ~
 references:
   - |
     

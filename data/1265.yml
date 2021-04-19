@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] отсутствие [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] отсутствие [nmod текилы]] [nsubj они] довольствовались [iobj водкой].]'
+common_fillers:
+  - ~
 references:
   - |
     

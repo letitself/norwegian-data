@@ -32,6 +32,8 @@ dependency_structure:
   - '[dep NP [nmod [case на] [det полную] катушку]]'
 dependency_structure_of_illustration:
   - '[root Развлекаемся [obl [case на] [det всю] катушку]!]'
+common_fillers:
+  - ~
 references:
   - |
     

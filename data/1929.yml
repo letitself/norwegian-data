@@ -31,6 +31,8 @@ dependency_structure:
   - '[ccomp [mark что] Cl]?]'
 dependency_structure_of_illustration:
   - '[root [obl [case С] чего] [nsubj ты] взял, [ccomp [mark что] [case у] меня [amod плохое] [nsubj настроение]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

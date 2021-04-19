@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] опередить [obj NP-Acc] [obl [case на] [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Победитель] обогнал [obj конкурента] [obl [case на] [nummod:gov две] секунды].]'
+common_fillers:
+  - ~
 references:
   - |
     

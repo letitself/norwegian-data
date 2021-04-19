@@ -40,6 +40,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [iobj NP-Dat] рознь]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ученик] [iobj ученику] рознь.]'
+common_fillers:
+  - ~
 references:
   - |
     

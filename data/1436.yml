@@ -29,6 +29,8 @@ dependency_structure:
   - '[conj [cc а] [nsubj NP-Nom] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дружба] дружбой, [conj [cc а] [nsubj служба] службой].]'
+common_fillers:
+  - ~
 references:
   - |
     

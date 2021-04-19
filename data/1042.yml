@@ -26,6 +26,8 @@ dependency_structure:
   - '[conj [cc зато] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] опоздали [obl [case на] самолет], [conj [cc зато] [advmod теперь] есть [nsubj [amod дополнительный] день [nmod отдыха]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

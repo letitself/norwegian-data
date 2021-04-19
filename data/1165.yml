@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case под] прикрытием [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Корабли] маневрировали [obl [case под] прикрытием [nmod авиации]].]'
+common_fillers:
+  - ~
 references:
   - |
     

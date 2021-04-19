@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [csubj Cl] [advmod не] [cop суть] важно]'
 dependency_structure_of_illustration:
   - '[root [csubj [cop Был] [nsubj человек] трезвым [conj [cc или] пьяным]] – [advmod не] суть!]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [advmod даром] [mark что] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Люди] [advmod везде] одинаковые, [advcl [advmod даром] [mark что] говорят [obl [case на] [amod разных] языках]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case в] тени]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ваня] [obl [amod долгое] время] оставался [obl [case в] тени [nmod [amod старшего] брата]].]'
+common_fillers:
+  - ~
 references:
   - |
     

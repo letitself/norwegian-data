@@ -44,6 +44,14 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] [case за] горами]'
 dependency_structure_of_illustration:
   - '[root [nsubj Зарплата] [advmod уже] [advmod не] [case за] горами.]'
+common_fillers:
+  - зима
+  - лето
+  - весна
+  - свадьба
+  - выборы
+  - праздник
+  - победа
 references:
   - |
     

@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [dep XP] [advmod ни] [case в] [det какие] ворота]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Такое] поведение] [obl [advmod ни] [case в] [det какие] ворота] [advmod не] лезет!]'
+common_fillers:
+  - ~
 references:
   - |
     

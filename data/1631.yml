@@ -25,6 +25,8 @@ dependency_structure:
   - '[root VP [advmod вовремя]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] сдал [obj задание] [advmod вовремя].]'
+common_fillers:
+  - ~
 references:
   - |
     

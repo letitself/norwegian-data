@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] нести [obj ответственность] [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Родители] несут [obj ответственность] [obl [case за] детей].]'
+common_fillers:
+  - ~
 references:
   - |
     

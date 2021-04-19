@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case с] [amod Adj] видом]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] стоит [advmod здесь] [obl [case с] [amod умным] видом].]'
+common_fillers:
+  - ~
 references:
   - |
     

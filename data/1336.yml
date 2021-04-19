@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] представлять [iobj собой] [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] работа] представляет [iobj собой] [obj описание [nmod [amod сравнительных] конструкций]].]'
+common_fillers:
+  - ~
 references:
   - |
     

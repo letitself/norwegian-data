@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case в] интересах [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Укреплять [obj сотрудничество] [obl [case в] интересах [nmod стабильности [conj [cc и] безопасности] [nmod [case на] планете]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

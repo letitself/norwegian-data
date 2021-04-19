@@ -31,6 +31,8 @@ dependency_structure:
   - '[root Adj-Cmp [obl [det всех] остальных]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] прибежала [obl [case к] финишу] [advmod быстрее] [obl остальных].]'
+common_fillers:
+  - ~
 references:
   - |
     

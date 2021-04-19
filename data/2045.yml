@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep каждый [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [obl [case О] каждом [nmod [case из] персонажей [nmod книги]]] написана [nsubj:pass статья].]'
+common_fillers:
+  - ~
 references:
   - |
     

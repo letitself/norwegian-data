@@ -38,6 +38,8 @@ dependency_structure:
   - '[root [advmod чего] [advmod тут] VP-Inf?]'
 dependency_structure_of_illustration:
   - '[root [advmod Что] [advmod тут] думать?] [root Надо [csubj [advmod срочно] покупать [obj [det эту] сумку]]!]'
+common_fillers:
+  - ~
 references:
   - |
     

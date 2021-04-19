@@ -43,6 +43,9 @@ dependency_structure:
   - '[root VP [obl [case под] именем [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] знаем [obj [det этот] период [nmod истории]] [obl [case под] именем [nmod Просвещения]].]'
+common_fillers:
+  - знать
+  - фигурировать
 references:
   - |
     

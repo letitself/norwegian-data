@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] себе]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod вообще] [advmod немного] странный, [conj [obl весь] [case в] себе].]'
+common_fillers:
+  - ~
 references:
   - |
     

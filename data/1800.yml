@@ -36,6 +36,9 @@ dependency_structure:
   - '[advmod Adv-евато]'
 dependency_structure_of_illustration:
   - '[root [obl [case После] переезда] [obl [case в] доме] [aux:pass было] пустовато.]'
+common_fillers:
+  - пустовато
+  - глуповато
 references:
   - |
     About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation.

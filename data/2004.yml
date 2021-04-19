@@ -34,6 +34,8 @@ dependency_structure:
   - 
 dependency_structure_of_illustration:
   - '[root [parataxis [mark Насколько] [nsubj я] знаю], [nsubj Вася] [advmod отлично] играет [obl [case в] футбол].]'
+common_fillers:
+  - ~
 references:
   - |
     

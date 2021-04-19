@@ -30,6 +30,8 @@ dependency_structure:
   - '[dep множество [nmod NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root Можно [csubj найти [obj [amod великое] множество [nmod примеров [nmod [det этой] конструкции]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

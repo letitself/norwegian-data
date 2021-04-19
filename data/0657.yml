@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [csubj VP-Inf] – [cop Cop] [mark всё [fixed равно] [fixed что]] VP-Inf]'
 dependency_structure_of_illustration:
   - '[root [csubj Бояться [obj её]] – [mark всё [fixed равно] [fixed что]] бояться [obj котёнка].]'
+common_fillers:
+  - ~
 references:
   - |
     

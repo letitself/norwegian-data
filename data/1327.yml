@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] [advmod уже] образе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [nummod:gov Три] гостя], [obl [case в] [advmod уже] образе [nmod ангелов]], сидят [obl [case за] столом].]'
+common_fillers:
+  - ~
 references:
   - |
     

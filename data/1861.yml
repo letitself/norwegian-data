@@ -49,6 +49,10 @@ dependency_structure:
   - '[root [nsubj NumCrd-Nom [nmod [case в] степени [nmod NumCrd-Nom]]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Два [nmod [case в] степени [nmod пять]]] равно [xcomp [nummod:gov тридцать] два].]'
+common_fillers:
+  - равняется
+  - будет
+  - получится
 references:
   - |
     

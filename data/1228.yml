@@ -27,6 +27,8 @@ dependency_structure:
   - '[conj [case равно [fixed как] [fixed и]] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Использование [nmod доверенности] [conj [case равно [fixed как] [fixed и]] [amod само] участие [nmod [case в] сделке]]] [advmod совершенно] необязательно.]'
+common_fillers:
+  - ~
 references:
   - |
     

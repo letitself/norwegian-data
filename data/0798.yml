@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] вправе [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] вправе [obl сам] [xcomp решать, [ccomp [advmod как] [iobj ему] жить]].]'
+common_fillers:
+  - ~
 references:
   - |
     

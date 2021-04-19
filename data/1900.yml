@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [advcl [advmod не] говоря [obl [case о] NP-Loc]] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj [advmod Даже] взрослые] [cop были] [case в] восторге, [advcl [advmod не] говоря [advmod уже] [obl [case о] детях]].]'
+common_fillers:
+  - ~
 references:
   - |
     

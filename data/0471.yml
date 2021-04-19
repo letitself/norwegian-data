@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] Verb-ся]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod не] спится.]'
+common_fillers:
+  - ~
 references:
   - |
     

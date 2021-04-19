@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] хватило [nsubj NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам] хватает [nsubj сахара].]'
+common_fillers:
+  - ~
 references:
   - |
     

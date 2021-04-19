@@ -31,6 +31,8 @@ dependency_structure:
   - '[nummod NumCrd [nmod [case с] копейками]]'
 dependency_structure_of_illustration:
   - '[root Прошло [nsubj [nummod:gov 100] дней [nmod [case с] копейками]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -41,6 +41,8 @@ dependency_structure:
   - '[parataxis [cop будь] [nsubj то] NP [conj [cc или] NP]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] статья] пригодится [iobj [det каждому] специалисту], [parataxis [cop будь] [nsubj то] врач [conj [cc или] биофизик]].]'
+common_fillers:
+  - ~
 references:
   - |
     

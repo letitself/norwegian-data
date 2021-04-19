@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod дико] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] упрямая, [conj [cc но] [iobj мне] [obl [case в] ней] [nsubj это] [advmod дико] нравится].]'
+common_fillers:
+  - ~
 references:
   - |
     Zhukova, V. Title. MA thesis.

@@ -44,6 +44,8 @@ dependency_structure:
   - '[root VP [obl [advmod менее] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [advmod больше] [nummod двух] суток] [advmod не] спал.]'
+common_fillers:
+  - ~
 references:
   - |
     

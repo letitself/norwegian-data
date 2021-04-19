@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [case [case вдоль] по] [obl NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] пошли [case [case вдоль] по] [obl улице].]'
+common_fillers:
+  - ~
 references:
   - |
     

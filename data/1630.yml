@@ -25,6 +25,8 @@ dependency_structure:
   - '[root VP [advmod постфактум]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] узнал [obl [case об] этом] [advmod постфактум].]'
+common_fillers:
+  - ~
 references:
   - |
     

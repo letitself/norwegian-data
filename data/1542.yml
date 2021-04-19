@@ -26,6 +26,8 @@ dependency_structure:
   - '[advmod [advmod [advmod приблизительно] пополам]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] разделили [obj [det эту] сумму] [advmod [advmod приблизительно] пополам].]'
+common_fillers:
+  - ~
 references:
   - |
     

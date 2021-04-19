@@ -49,6 +49,8 @@ dependency_structure:
   - '[root что-то [nmod [case вроде] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod не] хочу, [mark чтобы] [nsubj кто-то [nmod [case вроде] тебя]] [ccomp распространял] [obj ложь] [iobj [det моим] друзьям].]'
+common_fillers:
+  - NA
 references:
   - |
     

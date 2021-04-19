@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case с] тыла]]]'
 dependency_structure_of_illustration:
   - '[root Решили [xcomp напасть [obl [case с] тыла]].]'
+common_fillers:
+  - ~
 references:
   - |
     

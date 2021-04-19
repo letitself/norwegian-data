@@ -46,6 +46,9 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [acl весь] [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] пошел [det весь] [obl [case в] отца].]'
+common_fillers:
+  - маму
+  - отца
 references:
   - |
     

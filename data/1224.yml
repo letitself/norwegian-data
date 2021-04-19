@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] распорядился [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Царь] распорядился [xcomp построить [advmod здесь] [obj город]].]'
+common_fillers:
+  - ~
 references:
   - |
     

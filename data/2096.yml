@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [advmod [advmod и] действительно] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod правда] [obj ничего] [obl [case об] этом] [advmod не] знаю.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] [nsubj ничего] [advmod не] остаётся, [advcl [mark как] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [nsubj ничего] [advmod не] остаётся, [advcl [mark как] уехать [obl [case из] страны]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] применении [nmod [case к] NP-Dat]]]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] понять [obj [det его] идеи] [obl [case в] применении [nmod [case к] [amod российской] действительности]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

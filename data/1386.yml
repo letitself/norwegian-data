@@ -45,6 +45,12 @@ dependency_structure:
   - '[dep NP [nmod [case на] дом]]]'
 dependency_structure_of_illustration:
   - '[root Можно [csubj вызвать [obj врача] [obl [case на] дом]].]'
+common_fillers:
+  - вызвать
+  - доставить
+  - задать
+  - доставка
+  - выезд
 references:
   - |
     

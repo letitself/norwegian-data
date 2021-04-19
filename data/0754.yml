@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case в] границах [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [case Около] [nummod [nummod 15] миллионов] человек] проживает [obl [case в] границах [nmod Москвы]].]'
+common_fillers:
+  - ~
 references:
   - |
     

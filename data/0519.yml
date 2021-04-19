@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case по] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Родители] пошли [obl [case по] грибы].]'
+common_fillers:
+  - ~
 references:
   - |
     

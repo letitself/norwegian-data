@@ -43,6 +43,8 @@ dependency_structure:
   - '[root Cl, [advcl [mark если] [cop Cop] [advmod не] Pred]]'
 dependency_structure_of_illustration:
   - '[root Прочитай [obj [det мой] рассказ], [advcl [mark если] [iobj тебе] [advmod не] трудно].]'
+common_fillers:
+  - ~
 references:
   - |
     

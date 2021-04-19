@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [advmod наравне [obl [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Linux] [cop была] популярна [advmod наравне [obl [case с] Windows]].]'
+common_fillers:
+  - ~
 references:
   - |
     

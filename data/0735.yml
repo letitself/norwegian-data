@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [discourse ну] будет [iobj NP-Dat] [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
   - '[root [cop Будет] [iobj ему] пирог!]'
+common_fillers:
+  - ~
 references:
   - |
     

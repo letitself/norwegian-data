@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] [advmod не] [case по] карману [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod не] [case по] карману [nsubj [det такая] машина].]'
+common_fillers:
+  - ~
 references:
   - |
     

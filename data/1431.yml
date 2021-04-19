@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case на] тему [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[obj Доклад [nmod [case на] тему [nmod применения [nmod [amod атомной] энергии]]]]'
+common_fillers:
+  - ~
 references:
   - |
     

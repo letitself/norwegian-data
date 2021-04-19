@@ -44,6 +44,14 @@ dependency_structure:
   - '[root [obl [case у] NP-Gen] [cop Cop] Pred]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [nsubj:pass всё] сделано.]'
+common_fillers:
+  - меня
+  - него
+  - нее
+  - них
+  - сделано
+  - написано
+  - подготовлено
 references:
   - |
     

@@ -49,6 +49,12 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case в] радиусе [nmod [nummod NumCrd-Gen] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] радиусе [nmod [nummod двух] километров [nmod [case от] дома]]] нет [nsubj связи].]'
+common_fillers:
+  - километр
+  - метр
+  - миля
+  - есть
+  - нет
 references:
   - |
     

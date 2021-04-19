@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [advcl [mark когда] [aux бы] [advmod не] NP-Nom], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [aux бы] [advmod не] Петя], [nsubj мы] [aux бы] [nsubj все] погибли.]'
+common_fillers:
+  - ~
 references:
   - |
     

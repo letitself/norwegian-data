@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] массе]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Избиратели] [obl [case в] массе] [det своей] консервативны.]'
+common_fillers:
+  - ~
 references:
   - |
     

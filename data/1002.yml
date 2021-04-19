@@ -43,6 +43,11 @@ dependency_structure:
   - '[root [nsubj NP-Gen] [mark как] [advmod не] бывало]'
 dependency_structure_of_illustration:
   - '[root [nsubj Простуды] [mark как] [advmod не] бывало.]'
+common_fillers:
+  - сон
+  - усталость
+  - стресс
+  - обида
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root кто, [advcl [mark если] [advmod не] NP]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто], [advcl [mark если] [advmod не] Петя], придёт [obl [case на] помощь]?]'
+common_fillers:
+  - ~
 references:
   - |
     

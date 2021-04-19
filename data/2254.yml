@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [cop Cop] [nsubj NP-Gen] [advmod хоть] отбавляй]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] нас] [nsubj проблем] [advmod хоть] отбавляй.]'
+common_fillers:
+  - ~
 references:
   - |
     

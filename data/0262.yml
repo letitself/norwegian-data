@@ -44,6 +44,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] переименовать [obj NP-Acc] [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Николай [amod II]] переименовал [obj Санкт-Петербург] [obl [case в] Петроград].]'
+common_fillers:
+  - ~
 references:
   - |
     

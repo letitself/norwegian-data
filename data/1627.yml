@@ -27,6 +27,8 @@ dependency_structure:
   - '[acl [obl [case вследствие] чего] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Деньги] расходовались [advmod нерационально], [acl [obl [case вследствие] чего] [nsubj предприятие] [advmod быстро] разорилось].]'
+common_fillers:
+  - ~
 references:
   - |
     

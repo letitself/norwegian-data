@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep NP [nmod [case касательно] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [parataxis Может] подскажете [obj кое-что [nmod [case касательно] налогов]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

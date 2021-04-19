@@ -44,6 +44,15 @@ dependency_structure:
   - '[root VP [obl [case в] руки [nmod [case к] NP-Dat]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Власть] попала [obl [case в] руки [nmod [amod неопытного] человека]].]'
+common_fillers:
+  - попасть
+  - отдать
+  - перейти
+  - дать
+  - вручить
+  - судьба
+  - власть
+  - врага
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP-Pst [conj [cc и] [advmod не] VP-Pst]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] верил [conj [cc и] [advmod не] верил].]'
+common_fillers:
+  - ~
 references:
   - |
     

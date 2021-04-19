@@ -38,6 +38,12 @@ dependency_structure:
   - '[root VP [advmod туда-[conj сюда]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Собака] бегала [advmod туда-сюда].]'
+common_fillers:
+  - бегать
+  - ходить
+  - бродить
+  - носиться
+  - метаться
 references:
   - |
     

@@ -44,6 +44,13 @@ dependency_structure:
   - '[dep [obl [case в] среднем] [nummod NumCrd] NP]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] среднем] [nsubj дорога [nmod [case до] работы]] занимает [obl [case у] меня] [obj [nummod:gov два] часа].]'
+common_fillers:
+  - год
+  - лет
+  - занимает
+  - составляет
+  - стоит
+  - уходит
 references:
   - |
     

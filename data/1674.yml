@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] закончиться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj День] закончился [iobj ужином [nmod [case в] [amod дорогом] ресторане]].]'
+common_fillers:
+  - ~
 references:
   - |
     

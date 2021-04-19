@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod еле-еле] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod еле-еле] дотянулся [obl [case до] телефона].]'
+common_fillers:
+  - ~
 references:
   - |
     

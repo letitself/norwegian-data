@@ -40,6 +40,8 @@ dependency_structure:
   - '[root [advmod вот-вот] VP-Fut [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот-вот] прилетит [nsubj самолет].]'
+common_fillers:
+  - ~
 references:
   - |
     

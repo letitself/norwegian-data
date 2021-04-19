@@ -43,6 +43,9 @@ dependency_structure:
   - '[root [advcl [advmod не] считая [obj NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Трое] [case в] лодке, [advcl [advmod не] считая [obj собаки]].]'
+common_fillers:
+  - детей
+  - приезжих
 references:
   - |
     

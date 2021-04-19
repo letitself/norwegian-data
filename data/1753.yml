@@ -47,6 +47,8 @@ dependency_structure:
   - '[root [advmod так] [obj чего [advmod ж]] [nsubj PronPers-Nom] [advmod сразу] [advmod не] VP-Pst?]'
 dependency_structure_of_illustration:
   - '[root [iobj Тебе] [nsubj деньги] нужны?] [root [obj Чего [advmod же]] [nsubj ты] [advmod раньше] [advmod не] сказал?]'
+common_fillers:
+  - ~
 references:
   - |
     

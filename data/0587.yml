@@ -43,6 +43,15 @@ dependency_structure:
   - '[root VP [obl [case по] NP-Dat.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] любили [xcomp [advmod часто] ездить [obl [case по] знакомым]].]'
+common_fillers:
+  - ездить
+  - возить
+  - ходить
+  - магазины
+  - гости
+  - знакомые
+  - друзья
+  - родственники
 references:
   - |
     

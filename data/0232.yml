@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [advmod нигде] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [obj [det Таких] [amod вкусных] сыров] [advmod уже] [advmod нигде] [advmod не] купишь.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -32,6 +32,8 @@ dependency_structure:
   - '[root VP [obl [case в] окружении [nmod NP-Gen.Sg]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] [det моём] окружении] [advmod не] принято [csubj говорить [obl [case о] [det таких] вещах]].]'
+common_fillers:
+  - ~
 references:
   - |
     

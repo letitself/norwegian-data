@@ -43,6 +43,8 @@ dependency_structure:
   - '[root [cc а] [cop Cop] смысл [csubj VP-Inf]?]'
 dependency_structure_of_illustration:
   - '[root Какой [nsubj смысл] [csubj менять [obj то, [acl [nsubj что] было [advmod всегда]]]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

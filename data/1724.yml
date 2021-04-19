@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case в] окружении [nmod NP-Gen.Pl]]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] окружении [nmod цветов]] растёт [nsubj [amod большой] куст [nmod жасмина]].]'
+common_fillers:
+  - ~
 references:
   - |
     

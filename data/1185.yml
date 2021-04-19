@@ -37,6 +37,8 @@ dependency_structure:
   - '[root Cl, [conj [cc и] [parataxis [obl того] хлеще], Cl]]'
 dependency_structure_of_illustration:
   - '[root Произошло [nsubj событие], [acl именуемое [obl [case по] науке] [xcomp саботажем, [conj [cc или] – [parataxis [obl того] хлеще] – [amod экономической] контрреволюцией]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

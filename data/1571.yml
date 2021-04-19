@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [conj [cc и] ничего [nmod [case кроме] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Правда [conj [cc и] ничего [nmod [case кроме] правды]!]'
+common_fillers:
+  - ~
 references:
   - |
     

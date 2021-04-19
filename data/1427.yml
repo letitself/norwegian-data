@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [nsubj что] [cop Cop] [obl [case по] NP-Dat]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Что] дома [obl [case по] еде]?]'
+common_fillers:
+  - ~
 references:
   - |
     

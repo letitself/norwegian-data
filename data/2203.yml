@@ -43,6 +43,15 @@ dependency_structure:
   - '[root [nsubj NP-Nom] скинуться [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мужики] скинулись [obl [case на] пиво].]'
+common_fillers:
+  - мы
+  - соседи
+  - водку
+  - угощение
+  - бутылки
+  - вино
+  - билет
+  - дорогу
 references:
   - |
     

@@ -51,6 +51,10 @@ dependency_structure:
   - '[root Cl [case в] [nummod NumCrd-Loc] домах]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] магазин] [cop был] [case в] [nummod трёх] кварталах [nmod [case от] почты].]'
+common_fillers:
+  - двух
+  - трех
+  - нескольких
 references:
   - |
     

@@ -40,6 +40,8 @@ dependency_structure:
   - '[dep [amod [obl [case с] виду] Adj] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Старик] [cop был] [obl [case с] виду] спокоен.]'
+common_fillers:
+  - ~
 references:
   - |
     

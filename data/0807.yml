@@ -42,6 +42,18 @@ dependency_structure:
   - '[root VP [obl [case в] распоряжение [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Информация] попала [obl [case в] распоряжение [nmod злоумышленников]].]'
+common_fillers:
+  - поступить
+  - переслать
+  - оставить
+  - дать
+  - отдать
+  - передать
+  - отойти
+  - попасть
+  - средства
+  - недвижимость
+  - власть
 references:
   - |
     

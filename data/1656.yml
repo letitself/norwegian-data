@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obl [case на] [amod сегодняшний] день] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] [amod сегодняшний] день] [nsubj население [nmod страны]] превышает [obj [nummod:gov [nummod один] миллиард] человек].]'
+common_fillers:
+  - ~
 references:
   - |
     

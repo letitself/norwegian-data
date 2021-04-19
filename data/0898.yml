@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [advmod впредь [obl [case до] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] запретили [xcomp служить] [advmod впредь [obl [case до] разрешения]].]'
+common_fillers:
+  - ~
 references:
   - |
     

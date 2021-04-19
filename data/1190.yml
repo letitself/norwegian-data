@@ -36,6 +36,8 @@ dependency_structure:
   - '[advmod [advmod чуточку] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [advmod чуть] выше [obl меня].]'
+common_fillers:
+  - ~
 references:
   - |
     

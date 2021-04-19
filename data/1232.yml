@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case по] примеру [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] примеру [nmod [amod старшей] сестры]] [nsubj он] стал [xcomp работать [obl [case в] музее]].]'
+common_fillers:
+  - ~
 references:
   - |
     

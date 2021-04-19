@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case посредством] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obj Территорию] увеличили [obl [case посредством] покупки [nmod [amod соседних] участков]].]'
+common_fillers:
+  - ~
 references:
   - |
     

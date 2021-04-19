@@ -44,6 +44,15 @@ dependency_structure_of_illustration:
   - '[root [nsubj Она] вернулась [obl [case под] утро].]'
 comment: |
     'Значение предлога "под" с наименованием временной границы близко его употреблению в 2271 NP под NumCrd-Acc (лет) (Людмиле Петровне под пятьдесят).'
+common_fillers:
+  - утро
+  - вечер
+  - конец
+  - старость
+  - Рождество
+  - Новый год
+  - осень
+  - занавес
 references:
   - |
     This is termed as "the proximate future construction" (one of the two temporal boundary constructions) of the preposition pod in the article Kuznetsova, Plungian, Rakhilina. 2013. "Time as secondary to space: Russian pod ‘under’and iz-pod ‘from-under’in temporal constructions". Russian Linguistics 37 (3), Special Issue: Time and Space in Russian Temporal Expressions, 293-316. See pp. 304-305.

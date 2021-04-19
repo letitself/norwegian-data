@@ -43,6 +43,19 @@ dependency_structure:
   - '[dep PronPers-Pl [nmod [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам [nmod [case с] Машей]] [nsubj это] [advmod не] нравится.]'
+common_fillers:
+  - мы
+  - нам
+  - они
+  - им
+  - вы
+  - вам
+  - мужем
+  - женой
+  - другом
+  - подругой
+  - друзьями
+  - коллегами
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case во] власти [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] власти [nmod чувств]] [nsubj он] наговорил [obj лишнего].]'
+common_fillers:
+  - ~
 references:
   - |
     

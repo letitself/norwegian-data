@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [obl PP [nmod [case в] большинстве [det своем]]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дети [nmod [case в] большинстве [det своем]]] [cop были] готовы [obl [case к] школе].]'
+common_fillers:
+  - ~
 references:
   - |
     

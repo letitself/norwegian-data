@@ -41,6 +41,15 @@ dependency_structure:
   - '[root VP [obl [advmod вместе] [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] пошёл [obl [advmod вместе] [case с] ними].]'
+common_fillers:
+  - веселиться
+  - играть
+  - уехать
+  - проживать
+  - появиться
+  - друзьями
+  - родственниками
+  - семьей
 references:
   - |
     

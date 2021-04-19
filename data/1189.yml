@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [advmod немножко] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] задача] [advmod немного] сложнее [obl предыдущей].]'
+common_fillers:
+  - ~
 references:
   - |
     

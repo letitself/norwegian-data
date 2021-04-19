@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [advmod не] пройти [nsubj [advmod и] NP-Gen], [advcl [mark как] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] пройдёт [nsubj [advmod и] [nummod трех] месяцев], [advcl [mark как] [nsubj мы] вернёмся [advmod домой]].]'
+common_fillers:
+  - ~
 references:
   - |
     

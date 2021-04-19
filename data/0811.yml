@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] русле [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Российское] кино] развивается [obl [case в] русле [nmod [amod мировых] процессов]].]'
+common_fillers:
+  - ~
 references:
   - |
     

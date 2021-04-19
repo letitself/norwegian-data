@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] помылся [obl [case за] [nummod:gov пять] минут].]'
+common_fillers:
+  - ~
 references:
   - |
     

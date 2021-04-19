@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [obl [case с] грехом] [advmod пополам] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [obl [case с] горем] [advmod пополам] решил [obj [det эту] задачу].]'
+common_fillers:
+  - ~
 references:
   - |
     

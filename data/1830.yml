@@ -42,6 +42,8 @@ dependency_structure:
   - '[dep NP [nmod [case на] имя [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj написать [obj заявление [nmod [case на] имя [nmod директора]]]].]'
+common_fillers:
+  - заявление
 references:
   - |
     

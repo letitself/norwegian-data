@@ -28,6 +28,8 @@ dependency_structure:
   - '[csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] факт, [csubj [mark что] [nsubj это] [amod удачный] эксперимент].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case во] избежание [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] избежание [nmod конфликта]] [nsubj стороны] пришли [obl [case к] [amod мирному] урегулированию [nmod вопроса]].]'
+common_fillers:
+  - ~
 references:
   - |
     

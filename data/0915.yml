@@ -45,6 +45,13 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod так] [advmod и] про-Verb?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вы] [advmod так] [advmod и] [aux будете] стоять [advmod здесь]?]'
+common_fillers:
+  - присидишь
+  - простоишь
+  - прождешь
+  - просидел
+  - просидят
+  - провисит
 references:
   - |
     

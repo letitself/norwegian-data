@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] уложиться [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] уложился [obl [case в] [nummod:gov два] дня].]'
+common_fillers:
+  - ~
 references:
   - |
     

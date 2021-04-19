@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl [case за] городом]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы [nmod [case с] друзьями]] провели [obj выходные] [obl [case за] городом].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] преминуть [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod не] преминул [xcomp сделать [obj замечания]].]'
+common_fillers:
+  - ~
 references:
   - |
     

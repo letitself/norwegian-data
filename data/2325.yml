@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [advmod так] [aux бы] [advmod сразу] [advmod и] VP-Pst]'
 dependency_structure_of_illustration:
   - '[root [advmod Так] [aux бы] [advmod сразу] [advmod и] сказал, [ccomp [mark что] женат].]'
+common_fillers:
+  - ~
 references:
   - |
     

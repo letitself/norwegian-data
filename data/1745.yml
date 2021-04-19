@@ -26,6 +26,8 @@ dependency_structure:
   - '[root XP [advmod сплошь [conj [cc и] рядом]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] телевидении] [nsubj [det такие] [amod известные] люди] встречаются [advmod сплошь [conj [cc и] рядом]].]'
+common_fillers:
+  - ~
 references:
   - |
     

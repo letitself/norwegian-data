@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [iobj PronPers-Dat] [obl NP-Dat] [cop Cop] Pred]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [obl ушам] холодно.]'
+common_fillers:
+  - ~
 references:
   - |
     

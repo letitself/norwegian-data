@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl [case на] корню]]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass [det Эта] инициатива] [aux:pass была] загублена [obl [case на] корню].]'
+common_fillers:
+  - ~
 references:
   - |
     

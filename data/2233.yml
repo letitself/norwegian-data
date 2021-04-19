@@ -30,6 +30,8 @@ dependency_structure:
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [det Какой] [aux бы] умный] [nsubj ты] [advmod ни] [cop был], [advmod не] торопись [obl [case во] время [nmod экзамена]].]'
+common_fillers:
+  - ~
 references:
   - |
     

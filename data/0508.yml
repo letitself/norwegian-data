@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] вести [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Врач] ведёт [obj больного] [obl [case после] операции].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root ясно [cop Cop] [nsubj одно]: [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root Ясно [nsubj одно]: [parataxis [nsubj [det такая] одежда] дороже].]'
+common_fillers:
+  - ~
 references:
   - |
     

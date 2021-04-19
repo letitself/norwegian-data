@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [det каждый] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [obl [det каждый] день] чистит [obj зубы].]'
+common_fillers:
+  - ~
 references:
   - |
     

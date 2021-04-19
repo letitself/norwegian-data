@@ -43,6 +43,9 @@ dependency_structure:
   - '[dep NP [nmod [case под] заголовком "[appos XP]"]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] магазинах] появилась [nsubj книга [nmod [case под] названием "[appos [amod Новая] история]"]].]'
+common_fillers:
+  - книга
+  - статья
 references:
   - |
     

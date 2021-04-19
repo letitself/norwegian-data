@@ -37,6 +37,8 @@ dependency_structure:
   - '[amod Adj-йший [obl [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Медицина] является [xcomp древнейшей [obl [case из] наук]].]'
+common_fillers:
+  - ~
 references:
   - |
     

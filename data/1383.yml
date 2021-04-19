@@ -42,6 +42,11 @@ dependency_structure:
   - '[dep NP [nmod [case на] заказ]]'
 dependency_structure_of_illustration:
   - '[root [obj Платье] сшили [obl [case на] заказ].]'
+common_fillers:
+  - шить
+  - делать
+  - производить
+  - изготавливать
 references:
   - |
     

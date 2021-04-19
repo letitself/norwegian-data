@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Gen] хватить [obl [case за] глаза]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Этого] хватит [obl [case за] глаза].]'
+common_fillers:
+  - ~
 references:
   - |
     

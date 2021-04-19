@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] иметь [obj свойство] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Память] имеет [obj свойство] [xcomp стирать [obj [amod неприятные] воспоминания]].]'
+common_fillers:
+  - ~
 references:
   - |
     

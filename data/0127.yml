@@ -41,6 +41,14 @@ dependency_structure:
   - '[root VP [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мать] [obl [case за] дочь] сделала [obj [amod домашнее] задание].]'
+common_fillers:
+  - решать
+  - платить
+  - делать
+  - выполнять
+  - ребенок
+  - девушка
+  - человек
 references:
   - |
     

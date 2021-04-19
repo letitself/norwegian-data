@@ -28,6 +28,8 @@ dependency_structure:
   - '[root NP [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам] [nummod:gov две] чашки [nmod чая].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case на] благо [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] работал [obl [case на] благо [nmod родины]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case в] пылу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] пылу [nmod борьбы]] [nsubj он] получил [obj травму].]'
+common_fillers:
+  - ~
 references:
   - |
     

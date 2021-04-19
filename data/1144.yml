@@ -31,6 +31,8 @@ dependency_structure:
   - '[dep NP [nmod [case с] видом]]'
 dependency_structure_of_illustration:
   - '[obl Номер [nmod [case с] видом [nmod [case на] море]]]'
+common_fillers:
+  - ~
 references:
   - |
     

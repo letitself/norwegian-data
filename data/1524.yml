@@ -29,6 +29,8 @@ dependency_structure:
   - '[nummod NumCrd [nmod [case с] гаком]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] метра [nummod:gov два [nmod [case с] гаком]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [dep XP] [advmod не] годиться]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] машина] [advmod никуда] [advmod не] годится.]'
+common_fillers:
+  - ~
 references:
   - |
     

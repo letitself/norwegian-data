@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case под] страхом [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Никто] [advmod не] заставит [obj меня] [xcomp [obj это] сделать] [obl [advmod даже] [case под] страхом [nmod [amod смертной] казни]].]'
+common_fillers:
+  - ~
 references:
   - |
     

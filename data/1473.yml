@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod очень] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [advmod очень] рада [xcomp [obj это] слышать].]'
+common_fillers:
+  - ~
 references:
   - |
     

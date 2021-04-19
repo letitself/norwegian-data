@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] процессе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass [det Все] вопросы] [aux:pass будут] решены [obl [case в] процессе [nmod работы]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] [advmod сразу] надлежало [csubj VP-Inf]]]'
 dependency_structure_of_illustration:
   - '[root [iobj Комитету] [advmod сразу] надлежит [csubj внести [obj оплату [nmod услуг]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

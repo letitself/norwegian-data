@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] держать [obj NP-Acc] [obl [case при] себе]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] держит [obj мысли] [obl [case при] себе].]'
+common_fillers:
+  - ~
 references:
   - |
     

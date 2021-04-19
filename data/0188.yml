@@ -48,6 +48,12 @@ dependency_structure:
   - '[root [obl [case на] месте [det NP-Gen]] Cl [aux бы]]'
 dependency_structure_of_illustration:
   - '[root [obl [case на] [det его] месте] [nsubj я] [aux бы] поступила [obl [case в] [amod другой] университет]]'
+common_fillers:
+  - твоем
+  - вашем
+  - его
+  - ее
+  - их
 references:
   - |
     

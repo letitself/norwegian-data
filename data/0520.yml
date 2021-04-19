@@ -27,6 +27,8 @@ dependency_structure:
   - '[dep NP [nmod [case из] Adj-Gen]]'
 dependency_structure_of_illustration:
   - '[dep Человек [nmod [case из] любопытных]]'
+common_fillers:
+  - ~
 references:
   - |
     

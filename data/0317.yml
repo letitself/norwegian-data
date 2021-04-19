@@ -44,6 +44,8 @@ dependency_structure:
   - '[root столько [nsubj NP-Gen] [cop Cop], [advcl [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [obl [case на] концерт] пришло [nsubj [nummod:gov столько] людей], [advcl [mark что] некуда [cop было] [csubj сесть]]]'
+common_fillers:
+  - ~
 references:
   - |
     

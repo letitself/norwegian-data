@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case с] подачи [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obj Дату [nmod фестиваля]] выбрали [obl [case с] подачи [nmod главы [nmod совета]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

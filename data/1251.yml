@@ -28,6 +28,8 @@ dependency_structure:
   - '[acl [mark что] Cl]]]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] уволили [obl [case на] основании [nmod того, [acl [mark что] [nsubj он] [advmod не] справлялся [obl [case со] [det своими] обязанностями]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

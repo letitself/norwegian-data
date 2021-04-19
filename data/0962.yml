@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl день [nmod [case за] днём]]]'
 dependency_structure_of_illustration:
   - '[root [obl День [nmod [case за] днём]] [nsubj они] работали [obl [case на] заводе].]'
+common_fillers:
+  - ~
 references:
   - |
     

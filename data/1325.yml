@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] форме [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Игрушка [nmod [case в] форме [nmod шара]]]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -33,6 +33,8 @@ dependency_structure:
   - 'root VP [obl [case спустя] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] встретились [obl [case спустя] [nummod:gov двадцать] лет].]'
+common_fillers:
+  - ~
 references:
   - |
     

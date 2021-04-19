@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [nsubj NP-Gen] [advmod сколько] хочешь]'
 dependency_structure_of_illustration:
   - '[root Читай [advcl [advmod сколько] хочешь].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obl NP-Ins] [nsubj NP-Nom] [cop Cop] [case в] NP-Acc]'
 dependency_structure_of_illustration:
   - '[root [obl Лицом] [nsubj она] [case в] мать.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [dep PronPers-Pl [det весь]] XP]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам [det всем]] нужен [nsubj отдых].]'
+common_fillers:
+  - ~
 references:
   - |
     

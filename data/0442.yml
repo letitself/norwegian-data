@@ -38,6 +38,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] него] была [nsubj тетрадь [nmod [case в] клетку]].]'
+common_fillers:
+  - ~
 references:
   - |
     

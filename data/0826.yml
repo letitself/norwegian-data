@@ -42,6 +42,14 @@ dependency_structure:
   - '[dep NP [nmod [case в] счёт [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] купила [obj холодильник] [obl [case в] счёт [nmod [amod будущей] зарплаты]].]'
+common_fillers:
+  - выкуп
+  - долг
+  - аванс
+  - гонорар
+  - зарплата
+  - выдать
+  - купить
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[dep NP [conj [cc и] [amod прочий] NP]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Жильцы] выбросили [obj [amod старые] бумаги, [conj остатки [nmod еды]] [conj [cc и] [amod прочий] мусор]].]'
+common_fillers:
+  - ~
 references:
   - |
     

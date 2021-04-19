@@ -28,6 +28,8 @@ dependency_structure:
   - '[root Cl [advmod оттуда, [advcl [advmod PronInt] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] попали [advmod туда, [advcl [advmod где] [advmod раньше] [advmod не] были]].]'
+common_fillers:
+  - ~
 references:
   - |
     

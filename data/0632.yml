@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [advmod [advmod не] хуже [obl PronPers-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] знаю [advmod лучше [obl вашего]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [obl [advmod ни] [case при] [det какой-Loc] NP-Loc] [advmod не] VP-Fut]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case при] [det каких] условиях] [advmod не] соглашусь [obl [case на] [det такое] предложение].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case в] надежде, [acl [mark что] VP]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Каждый] оператор] сидел [obl [case в] надежде, [acl [mark что] запечатлит [obj [det эти] кадры] [advmod именно] [nsubj он]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

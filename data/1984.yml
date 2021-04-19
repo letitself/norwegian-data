@@ -34,6 +34,8 @@ dependency_structure:
   - '[root VP [obl [case до] NP-Gen [advmod включительно]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Заявки [nmod [case на] конференцию]] принимаются [obl [case до] 25 [flat августа] [advmod включительно]].]'
+common_fillers:
+  - ~
 references:
   - |
     

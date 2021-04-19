@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] нести [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] несет [obj наказание] [obl [case за] [amod совершенные] преступления].]'
+common_fillers:
+  - ~
 references:
   - |
     

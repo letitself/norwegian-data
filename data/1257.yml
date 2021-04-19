@@ -43,6 +43,8 @@ dependency_structure:
   - '[root VP [obl [case ввиду] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod не] пришёл [obl [case ввиду] болезни].]'
+common_fillers:
+  - NA
 references:
   - |
     

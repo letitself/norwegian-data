@@ -40,6 +40,8 @@ dependency_structure:
   - '[root Cl [obl [case в] знак [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case в] знак [nmod согласия]] кивнул [iobj головой].]'
+common_fillers:
+  - ~
 references:
   - |
     

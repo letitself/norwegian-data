@@ -41,6 +41,8 @@ dependency_structure:
   - '[root VP [obl [case при] помощи [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obj всё] починил [obl [case с] помощью [nmod отвёртки]].]'
+common_fillers:
+  - ~
 references:
   - |
     

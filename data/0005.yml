@@ -54,6 +54,15 @@ dependency_structure:
   - '[root [nsubj кто] [discourse же] знает, [ccomp Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] [obj его] знает, [advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
+common_fillers:
+  - бог
+  - чёрт
+  - шут
+  - пёс
+  - бес
+  - господь
+  - леший
+  - дьявол
 references:
   - |
     

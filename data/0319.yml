@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod так [fixed и]] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [advmod так [fixed и]] [advmod не] женился.]'
+common_fillers:
+  - ~
 references:
   - |
     ссылка на Плунгяна

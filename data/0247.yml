@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] иметь [obj [amod Adj-Acc] характер-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Большинство [nmod звонков]] носило [obj [amod консультационный] характер].]'
+common_fillers:
+  - ~
 references:
   - |
     

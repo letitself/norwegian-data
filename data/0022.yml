@@ -46,6 +46,11 @@ dependency_structure:
   - '[root [csubj [obj NP-Acc] девать] [cop Cop] некуда]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам] [advmod уже] [csubj [obj еду] девать] некуда.]'
+common_fillers:
+  - деньги
+  - силы
+  - хлам
+  - барахло
 references:
   - |
     См. Апресян Ю. Д., Иомдин Л. Л. 1989. Конструкции типа НЕГДЕ СПАТЬ: синтаксис, семантика, лексикография. // Семиотика и информатика, вып. 29., 1989, 34-92; Падучева Е. В. 2017. Отрицательные местоимения-предикативы // Русская корпусная грамматика, http://rusgram.ru/Отрицательные_местоимения-предикативы; Avgustinova, Tania. Forthcoming. Russian infinitival existential constructions from HPSG perspective. To appear in the Proceedings of the 4th European conference on Formal Description of Slavic Languages (FDSL-4). 18 pp.

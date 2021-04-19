@@ -26,6 +26,8 @@ dependency_structure:
   - '[obl [case подобно] тому [acl [mark как] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] ощущаем [obj давления [nmod воздуха]], [obl [case подобно] тому [acl [mark как] [nsubj рыбы] [advmod не] чувствуют [obj давления [nmod воды]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

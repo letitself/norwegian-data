@@ -43,6 +43,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] привлекают [obj NP-Acc] [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [obj Женщин] привлекают [obl [case в] богачах] [nsubj [det их] деньги].]'
+common_fillers:
+  - ~
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.

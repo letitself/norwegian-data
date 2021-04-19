@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [advmod так [fixed и]] VP-Ipfv]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кот] [advmod так [fixed и]] сидит [obl [case на] окне].]'
+common_fillers:
+  - ~
 references:
   - |
     

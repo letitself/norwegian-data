@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep все [nmod [case из] PronPers-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [advmod Почти] все [nmod [case из] нас]] знакомы [obl [case с] директором].]'
+common_fillers:
+  - ~
 references:
   - |
     

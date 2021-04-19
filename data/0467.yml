@@ -45,6 +45,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] отдать [obj NP-Acc] [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] хотим [xcomp отдать [obj детей] [obl [case в] [amod музыкальную] школу]].]'
+common_fillers:
+  - ~
 references:
   - |
     

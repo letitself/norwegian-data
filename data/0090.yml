@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [obl [case вследствие] NP-Gen] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case Вследствие] [det такого] поведения] [nsubj [det наш] договор] аннулируется.]'
+common_fillers:
+  - ~
 references:
   - |
     

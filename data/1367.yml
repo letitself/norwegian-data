@@ -30,6 +30,8 @@ dependency_structure:
   - '[root про-Verb [obl NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Отец] проработал [obl [case на] заводе] [obl [nummod:gov пять] лет].]'
+common_fillers:
+  - ~
 references:
   - |
     

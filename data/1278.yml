@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] получил [obj [amod хорошее] образование] [iobj стараниями [nmod родителей]].]'
+common_fillers:
+  - ~
 references:
   - |
     

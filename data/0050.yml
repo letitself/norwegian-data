@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [case в] том - [advmod то] [advmod и] [nsubj NP-Nom], [acl Cl]]'
 dependency_structure_of_illustration:
   - '[root [case В] том - [advmod то] [advmod и] [nsubj дело], [acl [mark что] [advmod не] знаем].]'
+common_fillers:
+  - ~
 references:
   - |
     

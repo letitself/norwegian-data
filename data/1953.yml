@@ -42,6 +42,15 @@ dependency_structure:
   - '[root XP [obl [case в] сопровождении [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Директор] вошёл [obl [case в] сопровождении [nmod секретаря]].]'
+common_fillers:
+  - идти
+  - вернуться
+  - войти
+  - посещать
+  - гида
+  - взрослых
+  - друзей
+  - подруги
 references:
   - |
     

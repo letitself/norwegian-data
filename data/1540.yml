@@ -31,6 +31,8 @@ dependency_structure:
   - '[obl [advmod приблизительно] [case Prep] NumCrd]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj приготовить [obj супа [nmod [advmod примерно] [case на] [nummod:gov восемь] порций]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

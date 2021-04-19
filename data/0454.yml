@@ -37,6 +37,8 @@ dependency_structure:
   - '[dep NP [nmod лет [nummod NumCrd-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Вошел [nsubj старик [nmod лет [nummod семидесяти]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

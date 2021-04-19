@@ -41,6 +41,8 @@ dependency_structure:
   - '[conj [cc а] NP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] [nsubj дом] [case у] них, [conj [cc а] [amod столярная] мастерская].]'
+common_fillers:
+  - ~
 references:
   - |
     

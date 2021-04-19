@@ -42,6 +42,12 @@ dependency_structure:
   - '[root VP [obl [case в] компании [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Удалось [csubj провести] [obj вечер] [obl [case в] компании [nmod [amod любимых] актёров]].]'
+common_fillers:
+  - друзей
+  - ребят
+  - людей
+  - сидеть
+  - поехать
 references:
   - |
     

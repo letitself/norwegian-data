@@ -29,6 +29,8 @@ dependency_structure:
   - '[root XP [advmod внутрь]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] зашли [obl [case внутрь] крепости].]'
+common_fillers:
+  - ~
 references:
   - |
     

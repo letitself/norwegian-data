@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [csubj VP-Inf] [cop Cop] [case в] тренде]'
 dependency_structure_of_illustration:
   - '[root [case В] моде [advmod сейчас] [nsubj [amod яркие] цвета [nmod [case в] одежде]].]'
+common_fillers:
+  - ~
 references:
   - |
     

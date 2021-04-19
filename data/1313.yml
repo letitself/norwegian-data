@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] двор] привезли [obj доски] [obl [case на] постройку [nmod сарая]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -31,6 +31,8 @@ dependency_structure:
   - '[root дать-Pl [obj NP-Acc] [obl [case на] выбор]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] школе] [iobj нам] предложили [obj [nummod:gov два] языка] [obl [case на] выбор].]'
+common_fillers:
+  - ~
 references:
   - |
     

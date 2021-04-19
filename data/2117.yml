@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] необходимый-Short [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] нужна [nsubj [det ваша] поддержка].]'
+common_fillers:
+  - ~
 references:
   - |
     

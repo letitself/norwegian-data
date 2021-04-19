@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] отличаться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] отличается [xcomp [amod большой] выносливостью].]'
+common_fillers:
+  - ~
 references:
   - |
     

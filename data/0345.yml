@@ -37,6 +37,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] ходит [obl [case в] NP-Loc.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [advmod уже] [advmod давно] ходит [obl [case в] невестах].]'
+common_fillers:
+  - ~
 references:
   - |
     

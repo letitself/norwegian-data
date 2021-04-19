@@ -27,6 +27,8 @@ dependency_structure:
   - '[root XP [obl [case навстречу] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мальчик] побежал [obl [case навстречу] другу].]'
+common_fillers:
+  - ~
 references:
   - |
     

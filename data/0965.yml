@@ -27,6 +27,8 @@ dependency_structure:
   - '[conj [dep Noun] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obj час] работает, [conj [obl час] отдыхает].]'
+common_fillers:
+  - ~
 references:
   - |
     

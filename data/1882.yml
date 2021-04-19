@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obl [case с] [det тем [advmod же]] успехом] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case С] [det таким [advmod же]] успехом] [nsubj мы] можем [xcomp поехать [obl [advmod и] [case на] поезде]].]'
+common_fillers:
+  - ~
 references:
   - |
     

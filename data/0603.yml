@@ -30,6 +30,8 @@ dependency_structure:
   - '[dep NP-Pl [amod [obl [obl один] [fixed другой-Gen]] Adj-Cmp]]'
 dependency_structure_of_illustration:
   - '[dep Девочки [amod [obl одна [fixed другой]] стройнее].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -38,6 +38,8 @@ dependency_structure:
   - '[obj [det какой [advcl угодно]] NP]'
 dependency_structure_of_illustration:
   - '[obj [det Какой [advcl угодно]] подарок]'
+common_fillers:
+  - ~
 references:
   - |
     

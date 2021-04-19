@@ -25,6 +25,8 @@ dependency_structure:
   - '[root PronInt [advcl угодно]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] попросил [xcomp купить [obj что [advcl угодно]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

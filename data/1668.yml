@@ -45,6 +45,12 @@ dependency_structure:
   - '[root [obj [nmod [case без] году] неделя] VP]'
 dependency_structure_of_illustration:
   - '[root Пробыл [nsubj я] [obl [case в] стране] [obj [nmod [case без] году] неделя], [conj [cc но] делаю [obj вид, [acl [mark что] [advmod не] чужой]]].]'
+common_fillers:
+  - здесь
+  - у
+  - в
+  - работает
+  - живет
 references:
   - |
     

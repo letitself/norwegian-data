@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl [case под] ноги]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] остановился [conj [cc и] бросил] [obj мешок] [obl [case под] ноги].]'
+common_fillers:
+  - ~
 references:
   - |
     

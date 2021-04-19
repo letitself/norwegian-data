@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [nsubj NP] [advmod как [fixed будто]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] [advmod как [fixed будто]] уезжают [advmod сегодня].]'
+common_fillers:
+  - ~
 references:
   - |
     

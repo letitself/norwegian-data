@@ -27,6 +27,8 @@ dependency_structure:
   - '[root Cl, [conj [cc и] [cc притом] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Продавец] нажал [obl [case на] кнопку], [conj [cc причём] [nsubj грабитель] [obj этого] [advmod не] заметил].]'
+common_fillers:
+  - ~
 references:
   - |
     

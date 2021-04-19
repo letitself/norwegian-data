@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [mark только] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark как] Cl]]'
 dependency_structure_of_illustration:
   - '[root [mark Только] [obl [case на] минуточку] присела, [advcl [mark как] [advmod сразу] уснула].]'
+common_fillers:
+  - ~
 references:
   - |
     

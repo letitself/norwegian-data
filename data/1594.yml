@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [obl [case от] случая [nmod [case к] случаю]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Варвара] ночует [advmod дома] [obl [case от] случая [nmod [case к] случаю]].]'
+common_fillers:
+  - ~
 references:
   - |
     

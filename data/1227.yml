@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case на] равных [nmod [case со] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дети] работали [obl [case на] равных [nmod [case со] взрослыми]].]'
+common_fillers:
+  - ~
 references:
   - |
     

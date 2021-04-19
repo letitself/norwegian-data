@@ -52,6 +52,9 @@ dependency_structure:
   - '[root [csubj [obj NumCrd-Acc делить [obl [case на] NumCrd-Acc]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
   - '[root [csubj [obj Пятнадцать] разделить [obl [case на] три]] advmod равно [xcomp пять].]'
+common_fillers:
+  - будет
+  - получится
 references:
   - |
     

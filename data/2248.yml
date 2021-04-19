@@ -31,6 +31,8 @@ dependency_structure:
   - '[dep NP [nmod [case по] [amod полной] программе]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] отдыхаем [obl [case по] полной]!]'
+common_fillers:
+  - ~
 references:
   - |
     

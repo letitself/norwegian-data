@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [dep PronInt [advmod только]] [advmod не] VP!]'
 dependency_structure_of_illustration:
   - '[root [advmod Куда [advmod только]] [nsubj он] [advmod не] ездил!]'
+common_fillers:
+  - ~
 references:
   - |
     

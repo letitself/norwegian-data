@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [advmod разительно] Adj-Short]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Новый] результат] [advmod разительно] отличается [obl [case от] предыдущего].]'
+common_fillers:
+  - ~
 references:
   - |
     

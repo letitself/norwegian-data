@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl [case к] ногам]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] бросился [obl [case к] ногам [nmod короля]] [conj [cc и] стал] [xcomp молить [obl [case о] пощаде]].]'
+common_fillers:
+  - ~
 references:
   - |
     

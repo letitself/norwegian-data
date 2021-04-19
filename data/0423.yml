@@ -45,6 +45,8 @@ dependency_structure:
   - '[root Cl, [conj [mark а [fixed не] [fixed то]] VP-Fut]]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj [advmod больше] работать], [conj [mark а [fixed то]] уволят].]'
+common_fillers:
+  - ~
 references:
   - |
     

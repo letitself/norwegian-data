@@ -49,6 +49,8 @@ dependency_structure:
   - '[root [csubj Cl] равняется [xcomp NumCrd-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Два [nmod [case плюс] один]] [advmod не] равно [xcomp пяти].]'
+common_fillers:
+  - NA
 references:
   - |
     

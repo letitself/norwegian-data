@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [advmod ровно] [case в] [nummod NumCrd] час]]'
 dependency_structure_of_illustration:
   - '[root Приходи [obl [advmod ровно] [case в] [nummod:gov пять] часов].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -44,6 +44,8 @@ dependency_structure:
   - '[amod [advmod наименее] Adj] [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Август] [amod [advmod наиболее] жаркий] месяц [nmod [case из] [det всех] [amod летних] месяцев].]'
+common_fillers:
+  - ~
 references:
   - |
     

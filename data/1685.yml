@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep [advmod практически] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod почти] приехали: [parataxis осталось] [nsubj [advmod всего] [nummod:gov две] остановки].]'
+common_fillers:
+  - ~
 references:
   - |
     

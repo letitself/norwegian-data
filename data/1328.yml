@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case со] вкусом] [appos NP-Gen]]'
 dependency_structure_of_illustration:
   - '[obj Мороженое [nmod [case со] вкусом] [appos клубники]]'
+common_fillers:
+  - ~
 references:
   - |
     

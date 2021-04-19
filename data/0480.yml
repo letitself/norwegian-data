@@ -48,6 +48,14 @@ dependency_structure_of_illustration:
   - '[root [iobj Тебе] [advmod не] пристало [csubj ходить [obl [case по] дискотекам]].]'
 comment: |
     'См. близкие по значению конструкции NP-Dat не подобает VP-Inf (Не подобает московскому царю кланяться польскому королю), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не нужно/надо VP-Inf (не нужно опекать детей до безрассудства), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
+common_fillers:
+  - вам
+  - тебе
+  - человеку
+  - женщине
+  - ходить
+  - ругаться
+  - шляться
 references:
   - |
     Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673.

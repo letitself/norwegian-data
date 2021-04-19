@@ -44,6 +44,19 @@ dependency_structure:
   - '[root [case у] NP-Gen [obl [case в] собственности] [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [case У] неё [obl [case в] собственности] [nsubj [amod однокомнатная] квартира].]'
+common_fillers:
+  - остался
+  - оказаться
+  - находиться
+  - иметь
+  - иметься
+  - акции
+  - завод
+  - фабрика
+  - квартира
+  - недвижимость
+  - дом
+  - земли
 references:
   - |
     

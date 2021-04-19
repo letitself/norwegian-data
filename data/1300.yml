@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod отныне] VP]'
 dependency_structure_of_illustration:
   - '[root [advmod Отныне] [obj специалистов [nmod [case по] [amod японскому] языку]] [aux будут] готовить [obl [advmod только] [case в] [det этом] университете].]'
+common_fillers:
+  - ~
 references:
   - |
     

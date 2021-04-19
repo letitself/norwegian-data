@@ -52,6 +52,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] равняется [xcomp [nummod NumCrd-Dat] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Количество [nmod [amod проданных] билетов]] равняется [xcomp семидесяти].]'
+common_fillers:
+  - NA
 references:
   - |
     

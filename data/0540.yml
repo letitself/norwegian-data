@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [obl [advmod ни] [case в] какую] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Студент] [obl [advmod ни] [case в] какую] [advmod не] соглашается [obl [case с] преподавателем].]'
+common_fillers:
+  - ~
 references:
   - |
     

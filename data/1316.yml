@@ -30,6 +30,8 @@ dependency_structure:
   - '[root VP [obl [case в] доказательство [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] доказательство [nmod невиновности [nmod клиента]]] [nsubj адвокат] привел [obj [amod убедительные] доводы].]'
+common_fillers:
+  - ~
 references:
   - |
     

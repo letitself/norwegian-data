@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obl [case во] времена [nmod NP-Gen]] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] времена [nmod Ивана [amod Грозного]]] [nsubj народ] жил [advmod по-другому].]'
+common_fillers:
+  - ~
 references:
   - |
     

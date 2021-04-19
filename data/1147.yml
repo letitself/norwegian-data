@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj [amod Adj] вид]]'
 dependency_structure_of_illustration:
   - '[root [case У] Пети [nsubj [advmod очень] [amod довольный] вид].]'
+common_fillers:
+  - ~
 references:
   - |
     

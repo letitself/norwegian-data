@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] как [fixed раз]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Платье] [cop было] как [fixed раз].]'
+common_fillers:
+  - ~
 references:
   - |
     

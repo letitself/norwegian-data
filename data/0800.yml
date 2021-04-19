@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case в] придачу]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] придачу [nmod [case к] медали]] [nsubj он] получил [obj премию].]'
+common_fillers:
+  - ~
 references:
   - |
     

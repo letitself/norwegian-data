@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] NP-Loc], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl Будь] [nsubj он] [obl [case в] Москве], [nsubj я] [aux бы] [advmod обязательно] пригласила [obj его] [obl [case в] гости].]'
+common_fillers:
+  - ~
 references:
   - |
     

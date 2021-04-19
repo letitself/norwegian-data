@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] стоять [obl [case на] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Бутылка] стоит [obl [case на] столе].]'
+common_fillers:
+  - ~
 references:
   - |
     

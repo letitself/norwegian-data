@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [cc и] [nsubj NP-Nom] [advmod тоже] XP]'
 dependency_structure_of_illustration:
   - '[root [cc И] [nsubj Вася] [advmod тоже] придёт.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] VP [obl [advmod точь-в-точь] [case как [fixed и]] NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] улыбается [obl [advmod точь-в-точь] [case как] мама].]'
+common_fillers:
+  - ~
 references:
   - |
     

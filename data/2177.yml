@@ -51,6 +51,8 @@ dependency_structure_of_illustration:
   - '[root [nsubj Город] [advmod сейчас] называется [xcomp Екатеринбург], [conj [cc или] [advcl [mark если] [iobj вам] угодно] Свердловск].]'
 comment: |
     'См. другую конструкцию со словом "угодно": 1016 если NP-Dat Cop угодно, Cl (Если вам угодно, называйте меня Генрихом).'
+common_fillers:
+  - NA
 references:
   - |
     

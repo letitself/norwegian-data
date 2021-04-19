@@ -49,6 +49,8 @@ dependency_structure:
   - '[root VP [iobj NP-Dat.Pl] [obj [case по] [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] дал [iobj всем] [obj [case по] яблоку [conj [cc и] [case по] [nummod:gov две] конфеты]].]'
+common_fillers:
+  - ~
 references:
   - |
     

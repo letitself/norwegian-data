@@ -44,6 +44,8 @@ dependency_structure:
   - '[root куда [iobj NP-Dat] [cop Cop] [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root Куда [iobj Оле] [obl [case до] [det моей] дочки].] [root [nsubj Она] [advmod ведь] [det такая] красивая!]'
+common_fillers:
+  - NA
 references:
   - |
     

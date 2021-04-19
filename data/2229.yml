@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep [obl [advmod ни] много [conj [advmod ни] мало]] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] прожила [obl [case с] ним] [obl [nummod:gov [obl [advmod ни] много [conj [advmod ни] мало]] пять] лет].]'
+common_fillers:
+  - ~
 references:
   - |
     

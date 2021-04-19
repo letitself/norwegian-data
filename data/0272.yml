@@ -46,6 +46,16 @@ dependency_structure:
   - '[root VP [obl [case под] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Маша] живет [obl [case под] Москвой].]'
+common_fillers:
+  - битва
+  - сражение
+  - трагедия
+  - авария
+  - катастрофа
+  - дом
+  - имение
+  - жить
+  - случиться
 references:
   - |
     

@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [det какой] [det такой] [nsubj NP]'
 dependency_structure_of_illustration:
   - '[root Какая [det такая] [nsubj причина] [obl [case у] нее] [csubj обижаться]?]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl [case в] себя]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case в] конце [nmod концов]] замолчал, [conj [advmod совсем] ушел [obl [case в] себя]].]'
+common_fillers:
+  - ~
 references:
   - |
     

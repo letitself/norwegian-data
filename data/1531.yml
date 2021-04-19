@@ -40,6 +40,9 @@ dependency_structure:
   - '[dep уйма [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] [det все] расходы] ушла [nsubj уйма [nmod денег]].]'
+common_fillers:
+  - деньги
+  - время
 references:
   - |
     Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва.

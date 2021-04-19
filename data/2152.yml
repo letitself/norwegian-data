@@ -35,6 +35,8 @@ dependency_structure:
   - '[root [advmod не] дай [nsubj Боже] [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] дай [nsubj Бог] [iobj мне] [csubj забыть [obj пароль] [nmod [case к] почте]]!]'
+common_fillers:
+  - ~
 references:
   - |
     

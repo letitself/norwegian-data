@@ -42,6 +42,15 @@ dependency_structure:
   - '[root [advmod где-то] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] приду [obl [advmod где-то] [case в] восемь [nmod вечера]].]'
+common_fillers:
+  - вечером
+  - через месяц
+  - на неделе
+  - справа
+  - слева
+  - вверху
+  - снизу
+  - процент
 references:
   - |
     

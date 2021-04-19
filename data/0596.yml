@@ -30,6 +30,8 @@ dependency_structure:
   - '[conj Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] пошел [advmod было] [obl [case на] работу], [conj [cc но] передумал].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -36,6 +36,8 @@ dependency_structure:
   - '[dep человек [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root Человек [nmod [amod трудной] судьбы].]'
+common_fillers:
+  - ~
 references:
   - |
     

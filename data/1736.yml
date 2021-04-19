@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [advmod вниз [case по] NP-Dat]]]'
 dependency_structure_of_illustration:
   - '[root Следует [csubj двигаться] [obl [advmod вниз [case по] реке]].]'
+common_fillers:
+  - ~
 references:
   - |
     

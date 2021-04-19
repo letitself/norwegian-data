@@ -40,6 +40,9 @@ dependency_structure:
   - '[root VP [iobj [amod голыми] руками]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] [obl [amod голыми] руками] [advmod не] возьмёшь.]'
+common_fillers:
+  - взять
+  - брать
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case во] главе [nmod NP-Gen]]]]'
 dependency_structure_of_illustration:
   - '[root [advmod Раньше] [nsubj он] работал [xcomp врачом], [conj [cc а] [advmod теперь] [nsubj он] стоит [obl [case во] главе [nmod [amod крупной] компании]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP-Ipfv [advmod снова [conj [cc и] снова]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] приходил [obl [case к] [det нашему] дому] [advmod снова [conj [cc и] снова]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case во] [det все] времена]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] [det все] времена] [nsubj это] способствовало [iobj развитию [nmod общества]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] готовый-Short [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] готов [xcomp открыть [obj счёт] [obl [case в] банке]].]'
+common_fillers:
+  - ~
 references:
   - |
     

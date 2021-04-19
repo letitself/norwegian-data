@@ -45,6 +45,10 @@ dependency_structure:
   - '[root VP [obl [case по] вине [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] вине [nmod подрядчика]] [nsubj:pass работы] [advmod не] [aux:pass были] выполнены [obl [case в] срок].]'
+common_fillers:
+  - обстоятельств
+  - банка
+  - водителя
 references:
   - |
     

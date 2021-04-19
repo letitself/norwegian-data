@@ -45,6 +45,11 @@ dependency_structure:
   - '[dep NP [nmod [case на] дому]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Врач] принимал [obl [case на] дому].]'
+common_fillers:
+  - лечение
+  - работать
+  - подрабатывать
+  - принимать
 references:
   - |
     

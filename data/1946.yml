@@ -45,6 +45,16 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case у] NP-Gen] [case на] руках]'
 dependency_structure_of_illustration:
   - '[root [nsubj Документы] [obl [case у] меня] [case на] руках.]'
+common_fillers:
+  - быть
+  - есть
+  - нет
+  - оказаться
+  - деньги
+  - документы
+  - бумаги
+  - дети
+  - ребенок
 references:
   - |
     

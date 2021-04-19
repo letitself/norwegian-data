@@ -31,6 +31,8 @@ dependency_structure:
   - '[root Noun-Nom [conj [cc и] Noun-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мужик] здоровый [det такой].] [root [discourse Ну] медведь [conj [cc и] медведь].]'
+common_fillers:
+  - ~
 references:
   - |
     

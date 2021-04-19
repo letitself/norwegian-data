@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [advmod как [fixed бы]] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass Спектакль] [advmod как [fixed бы]] разбит [obl [case на] [nummod:gov несколько] частей].]'
+common_fillers:
+  - ~
 references:
   - |
     

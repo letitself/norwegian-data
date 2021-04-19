@@ -53,6 +53,12 @@ dependency_structure:
   - '[root [obl [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP] [mark как] Cl.]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod уже] [nummod:gov три] месяца [acl [mark как] [nsubj она] уехала].]'
+common_fillers:
+  - лет
+  - года
+  - часа
+  - часов
+  - минут
 references:
   - |
     

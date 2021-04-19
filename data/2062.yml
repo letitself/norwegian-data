@@ -41,6 +41,11 @@ dependency_structure:
   - '[root [dep ничто] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Никто] [advmod не] [aux будет] [obj тебя] ругать.]'
+common_fillers:
+  - слушать
+  - помочь
+  - знать
+  - мешать
 references:
   - |
     

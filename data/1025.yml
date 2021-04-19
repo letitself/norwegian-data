@@ -30,6 +30,8 @@ dependency_structure:
   - '[conj [cc а] [case по] часам]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Котёнок] растёт [obl [advmod не] [case по] дням, [conj [cc а] [case по] часам]].]'
+common_fillers:
+  - ~
 references:
   - |
     

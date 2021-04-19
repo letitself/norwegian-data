@@ -34,6 +34,8 @@ dependency_structure:
   - '[root VP [advmod [advmod нисколько] [advmod не] Adv-Cmp [obl [case чем] NP-Nom]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod нисколько] [advmod не] хуже] [obj это] знает.]'
+common_fillers:
+  - ~
 references:
   - |
     

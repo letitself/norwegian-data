@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP-Pfv [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Илья [flat:name Тимофеевич]] [obl [case за] [nummod:gov 44] года] дослужился [obl [case до] генерала].]'
+common_fillers:
+  - ~
 references:
   - |
     

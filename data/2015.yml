@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [advmod как] [cop Cop] можно [csubj Cl]?!]'
 dependency_structure_of_illustration:
   - '[root [cc Да] [advmod как [advmod же]] [expl это] можно [obl [case в] деревне] [obl [case без] кур]!]'
+common_fillers:
+  - ~
 references:
   - |
     

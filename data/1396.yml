@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] действии]]'
 dependency_structure_of_illustration:
   - '[root Вот [nsubj он], [appos прогресс [nmod [case в] действии]]!]'
+common_fillers:
+  - ~
 references:
   - |
     

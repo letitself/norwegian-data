@@ -27,6 +27,8 @@ dependency_structure:
   - '[dep NP [advmod навеки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы [nmod [case с] Пашей]] – друзья [advmod навеки].]'
+common_fillers:
+  - ~
 references:
   - |
     

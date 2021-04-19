@@ -35,6 +35,8 @@ dependency_structure:
   - '[dep [nsubj NP] [nummod NumCrd] NP [nmod [case с] каждого]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Плата [nmod [case за] вход]] – [nummod:gov двести] рублей [nmod [case с] человека].]'
+common_fillers:
+  - ~
 references:
   - |
     

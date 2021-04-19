@@ -28,6 +28,8 @@ dependency_structure:
   - '[advmod [advmod значительно] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ресторан] [advmod значительно] дороже [obl кафе].]'
+common_fillers:
+  - ~
 references:
   - |
     

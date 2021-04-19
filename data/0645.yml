@@ -45,6 +45,14 @@ dependency_structure:
   - '[root VP [obl NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] готовили [obj обед] [obl [det всей] семьей].]'
+common_fillers:
+  - отделом
+  - семьей
+  - семейством
+  - взводом
+  - группой
+  - школой
+  - классом
 references:
   - |
     

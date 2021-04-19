@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] характеризоваться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Современная] эпоха] характеризуется [iobj разрушением "[nmod [amod стилистического] единства]"].]'
+common_fillers:
+  - ~
 references:
   - |
     

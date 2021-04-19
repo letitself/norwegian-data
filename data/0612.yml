@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom [advmod же]] [cop Cop] NP-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod же] мальчик.]'
+common_fillers:
+  - ~
 references:
   - |
     

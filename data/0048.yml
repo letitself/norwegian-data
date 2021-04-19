@@ -47,6 +47,11 @@ dependency_structure:
   - '[root [obl [case в] жизни] [advmod не] VP [obj ничего [amod подобного]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [obl [case в] жизни] [advmod никуда] [advmod не] опаздывал.]'
+common_fillers:
+  - видеть
+  - слышать
+  - есть
+  - опаздывать
 references:
   - |
     

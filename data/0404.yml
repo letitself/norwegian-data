@@ -40,6 +40,8 @@ dependency_structure:
   - '[root Cl [obl [case в] связи [nmod [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass [det Все] рейсы] отменены [obl [case в] связи [nmod [case с] [amod плохой] погодой]].]'
+common_fillers:
+  - ~
 references:
   - |
     

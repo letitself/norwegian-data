@@ -48,6 +48,10 @@ dependency_structure:
   - '[root VP [nmod [case с] торца]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вход] [case с] торца.]'
+common_fillers:
+  - вход
+  - здание
+  - дом
 references:
   - |
     

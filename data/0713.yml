@@ -44,6 +44,14 @@ dependency_structure:
   - '[root VP [obl [case без] ведома [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Без] ведома [nmod жены]] [nsubj он] отнес [obj деньги] [obl [case в] казино].]'
+common_fillers:
+  - делать
+  - автора
+  - пользователя
+  - хозяина
+  - начальства
+  - родителей
+  - жены
 references:
   - |
     

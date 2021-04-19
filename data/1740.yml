@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep NP [nmod [case через] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root Магазин [nmod [case через] дорогу].]'
+common_fillers:
+  - ~
 references:
   - |
     

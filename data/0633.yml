@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case на] раз-[conj два]-[conj три]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Настоящий] мастер] может [xcomp изготовить [obj обувь]] [obl [case на] раз].]'
+common_fillers:
+  - ~
 references:
   - |
     

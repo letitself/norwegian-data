@@ -37,6 +37,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] способный-Short [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] способен [obl [case на] [amod любую] подлость].]'
+common_fillers:
+  - ~
 references:
   - |
     

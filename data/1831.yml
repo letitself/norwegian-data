@@ -45,6 +45,8 @@ dependency_structure:
   - '[appos [mark то [fixed есть]] XP]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [obl [case в] доме] живет [cc и] [nsubj теща, [appos [mark то [fixed есть]] мать [nmod [det моей] жены]]], [conj [cc и] дети].]'
+common_fillers:
+  - NA
 references:
   - |
     

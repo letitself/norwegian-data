@@ -31,6 +31,8 @@ dependency_structure:
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [nsubj Кто] [aux бы] [advmod ни] звал [obj её] [obl [case в] кино]], [nsubj она] [advmod не] соглашалась.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -26,6 +26,8 @@ dependency_structure:
   - '[root [advmod вдоль [conj[cc и]  поперёк]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] исходили [obj Москву] [advmod вдоль [conj[cc и]  поперёк]].]'
+common_fillers:
+  - ~
 references:
   - |
     

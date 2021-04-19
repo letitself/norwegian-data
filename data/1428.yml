@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] деле [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] деле [nmod урегулирования [nmod конфликтов]]] [nsubj [det наше] взаимодействие] пойдёт [obl [case на] пользу].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[nummod NumCrd [nmod [case с] чем-то]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] пришла [obl [case в] шесть] [obl [case с] чем-то].]'
+common_fillers:
+  - ~
 references:
   - |
     

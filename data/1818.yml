@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [advmod чур] XP!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] пойдет [obl [case в] магазин]?] [root [advmod Только] [advmod чур] [advmod не] я!]'
+common_fillers:
+  - ~
 references:
   - |
     

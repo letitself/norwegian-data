@@ -36,6 +36,8 @@ dependency_structure:
   - '[acl [mark чтобы] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [advmod Ни] [nummod:gov одна] ночь] [advmod не] проходила [obl [case без] того, [acl [mark чтобы] [nsubj Сережа] [advmod не] играл [obl [case на] скрипке]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

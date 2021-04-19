@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod мало-помалу] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod мало-помалу] привыкал [obl [case к] [amod новым] правилам].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -39,6 +39,10 @@ dependency_structure:
   - '[root VP [obl [case из] рук] [obl [case в] руки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Большие] деньги] переходили [obl [case из] рук] [obl [case в] руки].]'
+common_fillers:
+  - переходить
+  - ходить
+  - передавать
 references:
   - |
     

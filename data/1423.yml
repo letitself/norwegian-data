@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case без] сознания]'
 dependency_structure_of_illustration:
   - '[root Помогите, [parataxis [advmod тут] [nsubj девушка] [case без] сознания]!]'
+common_fillers:
+  - ~
 references:
   - |
     

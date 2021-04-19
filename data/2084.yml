@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nmod [case без] [nummod NumCrd-Gen] минут] NumCrd-Nom]]'
 dependency_structure_of_illustration:
   - '[root Приходи [obl [case к] [nmod [case без] пятнадцати] десять].]'
+common_fillers:
+  - ~
 references:
   - |
     

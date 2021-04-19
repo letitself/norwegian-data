@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] узнать [obl [case о] NP-Loc] [obl [case от] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Катя] узнала [obl [case об] [det этом] рецепте] [obl [case от] бабушки].]'
+common_fillers:
+  - ~
 references:
   - |
     

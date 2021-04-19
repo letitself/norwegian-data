@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [mark чтоб] [nsubj PronPers-Nom] Verb-Pst!]'
 dependency_structure_of_illustration:
   - '[root [mark Чтобы] [nsubj он] опоздал?!] [root [nsubj Он] [advmod всегда] выходит [advmod вовремя].]'
+common_fillers:
+  - ~
 references:
   - |
     

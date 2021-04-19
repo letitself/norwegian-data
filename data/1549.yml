@@ -46,6 +46,11 @@ dependency_structure:
   - '[dep NP [nmod площадью [nmod [nummod NumCrd-Nom] NP]]]'
 dependency_structure_of_illustration:
   - '[root Участок [nmod площадью [nmod [nummod:gov сто] гектаров]]]'
+common_fillers:
+  - квадратные метры
+  - квадратные километры
+  - гектары
+  - акры
 references:
   - |
     

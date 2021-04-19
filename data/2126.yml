@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] иметь [obj смысл] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Вам] имеет [obj смысл] [csubj обратиться [obl [case к] специалистам]].]'
+common_fillers:
+  - ~
 references:
   - |
     

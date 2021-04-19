@@ -37,6 +37,8 @@ dependency_structure:
   - '[root [advmod [advmod как [fixed нельзя]] Adv-Cmp] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Порошок] [advmod [advmod как [fixed нельзя]] лучше] отстирал [obj [amod жирные] пятна].]'
+common_fillers:
+  - ~
 references:
   - |
     

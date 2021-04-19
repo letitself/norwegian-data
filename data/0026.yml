@@ -42,6 +42,13 @@ dependency_structure:
   - '[root [advmod только [fixed что]] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [advmod только] [fixed что] принес [obj деньги].]'
+common_fillers:
+  - сказал
+  - отметил
+  - пришел
+  - проснулся
+  - вернулся
+  - получил
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] стоить [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Повару] стоит [csubj научиться [xcomp готовить]].]'
+common_fillers:
+  - ~
 references:
   - |
     

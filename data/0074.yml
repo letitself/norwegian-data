@@ -43,6 +43,8 @@ dependency_structure:
   - '[root [nsubj время [nmod NP-Gen]] [advmod не] пришло]'
 dependency_structure_of_illustration:
   - '[root [nsubj Время [nmod [amod серьезного] разговора]] пришло.]'
+common_fillers:
+  - ~
 references:
   - |
     

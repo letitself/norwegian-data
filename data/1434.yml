@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] сделать [obj ошибку [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [advmod постоянно] делает [obj ошибки [nmod [case на] правило "[appos [obj жи] [conj ши] пиши [obl [case с] буквой [appos и]]]"]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [iobj мне] по-Verb-ивать]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [iobj мне] позванивает.]'
+common_fillers:
+  - ~
 references:
   - |
     

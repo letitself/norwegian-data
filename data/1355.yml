@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case с] утра [nmod [case до] ночи]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case с] утра [nmod [case до] ночи]] писал [obj книгу].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] вести [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дверь] вела [obl [case в] комнату].]'
+common_fillers:
+  - ~
 references:
   - |
     

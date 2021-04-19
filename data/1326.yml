@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] виде [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вышивка [nmod [case в] виде [nmod цветов]]] способна [xcomp украсить [obj [det любой] костюм]].]'
+common_fillers:
+  - ~
 references:
   - |
     

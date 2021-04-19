@@ -43,6 +43,10 @@ dependency_structure:
   - '[root VP [obl [case во] [det все] глаза]]'
 dependency_structure_of_illustration:
   - '[root Смотри [obl [case во] [det все] глаза], [advcl [mark чтобы] [nsubj никто] [advmod не] прошёл]!]'
+common_fillers:
+  - смотреть
+  - глядеть
+  - разглядывать
 references:
   - |
     

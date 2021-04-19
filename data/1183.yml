@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep NP [nmod [case сродни] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Коллектив [nmod телекомпании]] [cop был] [case сродни] [amod театральной] труппе.]'
+common_fillers:
+  - ~
 references:
   - |
     

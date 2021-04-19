@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [xcomp VP-Inf-[advmod то]] VP-Inf, [conj [cc а] Cl]]'
 dependency_structure_of_illustration:
   - '[root [xcomp Спросить] спрошу, [conj [cc но] [nsubj он] может [xcomp [advmod не] знать]].]'
+common_fillers:
+  - ~
 references:
   - |
     

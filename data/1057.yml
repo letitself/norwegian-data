@@ -30,6 +30,8 @@ dependency_structure:
   - '[csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [cc И] надо [advmod же], [csubj [mark чтобы] [nsubj он] [obl [advmod именно] [case в] [det тот] день] опоздал]!]'
+common_fillers:
+  - ~
 references:
   - |
     

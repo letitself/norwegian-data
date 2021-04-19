@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [advmod [advmod не] иначе [fixed как]] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Дома] [obj кошку] называли [advmod не] [advmod иначе] [obl [case как] Охотница].]'
+common_fillers:
+  - ~
 references:
   - |
     

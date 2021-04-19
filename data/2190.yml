@@ -44,6 +44,8 @@ dependency_structure:
   - '[root [advmod серьезно] говорить, [parataxis XP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Точно] [iobj тебе] говорю, [parataxis [advmod здесь] [nsubj что-то] [advmod не] так].]'
+common_fillers:
+  - ~
 references:
   - |
     

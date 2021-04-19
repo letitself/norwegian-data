@@ -43,6 +43,10 @@ dependency_structure:
   - '[root VP [obl [case в] знак [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] знак [nmod признания]] [nsubj он] подарил [obj цветы].]'
+common_fillers:
+  - протест
+  - согласие
+  - благодарность
 references:
   - |
     

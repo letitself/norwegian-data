@@ -26,6 +26,8 @@ dependency_structure:
   - '[root [advmod однажды] VP-Pst]'
 dependency_structure_of_illustration:
   - '[root [advmod Однажды] [nsubj мы] летали [obl [case на] вертолёте].]'
+common_fillers:
+  - ~
 references:
   - |
     

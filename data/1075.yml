@@ -31,6 +31,8 @@ dependency_structure:
   - '[root VP [obl [nummod NumCrd] NP [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root Выдали [obj воды] [obl [case из] расчета [obj [nummod:gov 500] мл [nmod [case на] человека]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

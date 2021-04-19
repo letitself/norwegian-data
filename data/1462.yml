@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod насилу] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [advmod насилу] доехал [obl [case до] деревни].]'
+common_fillers:
+  - ~
 references:
   - |
     

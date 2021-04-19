@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [advmod как [advmod же]] [obl [case без] NP-Gen] VP?]'
 dependency_structure_of_illustration:
   - '[root [advmod Как [advmod же]] [case без] Маши?]'
+common_fillers:
+  - ~
 references:
   - |
     

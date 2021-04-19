@@ -44,6 +44,13 @@ dependency_structure:
   - '[root [nsubj NP-Nom] принять [obj [amod Adj] оборот]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] приняло [obj [amod неожиданный] оборот].]'
+common_fillers:
+  - неожиданный
+  - серьёзный
+  - новый
+  - дело
+  - беседа
+  - события
 references:
   - |
     

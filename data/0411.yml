@@ -45,6 +45,8 @@ dependency_structure:
   - '[root Cl, [conj [discourse ну] [advcl нет] [mark так] нет]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod не] поедешь?] [root [advcl Нет] [mark так] нет.]'
+common_fillers:
+  - ~
 references:
   - |
     

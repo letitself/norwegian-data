@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [nsubj проблема] [cop Cop] [case в] том, [acl [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Вся] беда] [case в] том, [acl [mark что] [nsubj я] люблю [obj Петю], [conj [cc а] [nsubj Петя] любит] [obj Машу]].]'
+common_fillers:
+  - ~
 references:
   - |
     

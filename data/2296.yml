@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [advmod не] может [xcomp [cop быть] такого], [csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] может [xcomp быть], [csubj [mark чтобы] [nsubj вы] [advmod ещё] [advmod не] посетили [obj [det эту] выставку]]!]'
+common_fillers:
+  - ~
 references:
   - |
     

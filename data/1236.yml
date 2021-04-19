@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [cop было] [aux бы] [advmod не] лишним [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [cop Было] [aux бы] [advmod не] лишним [csubj ответить [obl [case на] [det это] письмо]].]'
+common_fillers:
+  - ~
 references:
   - |
     

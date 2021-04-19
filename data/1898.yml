@@ -27,6 +27,8 @@ dependency_structure:
   - '[root Cl [obl [case сверх] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Сверх] [amod обычной] суммы] [nsubj Виталий] оставил [obj [nummod:gov немного] денег] [obl [case на] чай].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] иметь [obj силу]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Это] требование] имеет [obj [amod юридическую] силу].]'
+common_fillers:
+  - ~
 references:
   - |
     

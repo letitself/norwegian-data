@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [advcl [mark кабы] [iobj NP-Dat] VP-Inf], [VP-Pst] [aux бы]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Кабы] [nsubj он] [advmod получше] платил], [mark так] [advmod и] [nsubj работники] [cop были [aux бы]] довольны.]'
+common_fillers:
+  - ~
 references:
   - |
     

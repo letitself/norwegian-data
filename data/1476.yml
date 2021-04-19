@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod сильно] XP]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] [amod новой] работе] [nsubj он] стал [xcomp зарабатывать [advmod [advmod сильно] больше]].]'
+common_fillers:
+  - ~
 references:
   - |
     

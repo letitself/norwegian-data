@@ -44,6 +44,12 @@ dependency_structure:
   - '[root VP [obl [case без] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] пришла [obl [case на] встречу] [obl [case без] подруги].]'
+common_fillers:
+  - стук
+  - внимание
+  - часы
+  - отец
+  - остаток
 references:
   - |
     

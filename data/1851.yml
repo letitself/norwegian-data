@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] стоит [obj [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Платье] стоит [obj [nummod:gov сто] рублей].]'
+common_fillers:
+  - ~
 references:
   - |
     

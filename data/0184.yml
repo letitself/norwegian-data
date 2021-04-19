@@ -38,6 +38,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] мочь-Pst [aux бы] [xcomp [advmod и] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Брат] мог [aux бы] [xcomp [advmod и] написать].]'
+common_fillers:
+  - ~
 references:
   - |
     

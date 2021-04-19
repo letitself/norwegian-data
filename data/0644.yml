@@ -45,6 +45,25 @@ dependency_structure:
   - '[root VP [obl NP-Gen [case через] [nummod:gov NumCrd-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] хочет [xcomp купить [obj машину]] [obl года [case через] [nummod:gov два]].]'
+common_fillers:
+  - года
+  - лет
+  - часа
+  - часов
+  - минуты
+  - минут
+  - недели
+  - недель
+  - месяца
+  - месяцев
+  - века
+  - веков
+  - метров
+  - метра
+  - километров
+  - километра
+  - шагов
+  - шага
 references:
   - |
     

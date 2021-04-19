@@ -38,6 +38,8 @@ dependency_structure:
   - '[dep NP [nmod цвета [nmod неба]]]'
 dependency_structure_of_illustration:
   - '[root Девушка [nmod [case с] глазами [nmod цвета [nmod неба]]]]'
+common_fillers:
+  - ~
 references:
   - |
     

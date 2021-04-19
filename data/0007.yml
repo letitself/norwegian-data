@@ -48,6 +48,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc] [iobj NP-Ins].]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] похож [obl[case на] папу].]'
+common_fillers:
+  - ~
 references:
   - |
     

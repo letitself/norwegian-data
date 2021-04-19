@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] занять [obj [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [nsubj это] заняло [obj [nummod:gov десять] минут].]'
+common_fillers:
+  - ~
 references:
   - |
     

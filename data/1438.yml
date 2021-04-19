@@ -26,6 +26,8 @@ dependency_structure:
   - '[root [nsubj Noun-Nom] – [expl это] Noun-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Москва] – [expl это] Москва.]'
+common_fillers:
+  - ~
 references:
   - |
     

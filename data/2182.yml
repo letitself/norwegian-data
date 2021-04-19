@@ -30,6 +30,8 @@ dependency_structure:
   - '[csubj [dep PronInt] Cl]]'
 dependency_structure_of_illustration:
   - '[root [iobj Тебе] виднее, [csubj [obj что] делать].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -45,6 +45,8 @@ dependency_structure:
   - '[root [advmod [advmod чуть] не] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod чуть [fixed было]] не] забыл [obl [case про] экзамен].]'
+common_fillers:
+  - ~
 references:
   - |
     

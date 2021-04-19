@@ -39,6 +39,8 @@ dependency_structure:
   - '[dep деньги [nmod [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] откладывал [obj деньги] [obl [case на] покупку [nmod машины]].]'
+common_fillers:
+  - ~
 references:
   - |
     

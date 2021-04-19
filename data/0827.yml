@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [obl [case в] течение [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] течение [nmod семестра]] [nsubj он] [advmod не] сходил [obl [advmod ни] [case на] [nummod одну] лекцию].]'
+common_fillers:
+  - ~
 references:
   - |
     

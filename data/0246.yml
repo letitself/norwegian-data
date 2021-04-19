@@ -46,6 +46,8 @@ dependency_structure:
   - '[root VP [advmod [advmod ничуть] [advmod не] Adv-Cmp [obl NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod [advmod ничуть] не] лучше [obl [det своей] сестры].]'
+common_fillers:
+  - ~
 references:
   - |
     

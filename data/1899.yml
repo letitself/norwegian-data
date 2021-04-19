@@ -27,6 +27,8 @@ dependency_structure:
   - '[root Cl [obl [case помимо] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Помимо] продуктов] [obl [case на] ужин] [nsubj мы] купили [obj бутылку [nmod вина]].]'
+common_fillers:
+  - ~
 references:
   - |
     

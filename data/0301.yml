@@ -38,6 +38,8 @@ dependency_structure:
   - '[dep [nmod [det своего] рода] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] концерт] [cop был] [nmod [det своего] рода] дебютом [obl [case для] организаторов].]'
+common_fillers:
+  - ~
 references:
   - |
     

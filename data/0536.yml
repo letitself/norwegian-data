@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] играть [obj роли]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Это] обстоятельство] [advmod не] сыграло [obl [case в] [det его] судьбе] [obj [det никакой] роли].]'
+common_fillers:
+  - ~
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

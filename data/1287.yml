@@ -44,6 +44,10 @@ dependency_structure:
   - '[root VP [obl [case под] давлением [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Правительство] [obl [case под] давлением [nmod [amod прогрессивной] общественности]] учредило [obj нечто [nmod [case вроде] [amod государственной] опеки]].]'
+common_fillers:
+  - обстоятельства
+  - окружающие
+  - власти
 references:
   - |
     

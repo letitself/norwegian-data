@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] рамки NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Такая] решительность] [advmod идеально] укладывалась [obl [case в] рамки [nmod отношений [nmod [case с] [amod крупнейшими] [amod спортивными] федерациями]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

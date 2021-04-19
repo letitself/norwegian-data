@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [nsubj дело] доходить [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] доходит [obl [case до] драки].]'
+common_fillers:
+  - ~
 references:
   - |
     

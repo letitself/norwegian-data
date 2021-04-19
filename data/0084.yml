@@ -41,6 +41,8 @@ dependency_structure:
   - '[dep [det все] [nummod:gov NumCrd] NP-Gen]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] купил [iobj детям] [obj [det все] [nummod:gov десять] книг], [obj которые] [nsubj они] [acl:relcl просили].]'
+common_fillers:
+  - ~
 references:
   - |
     

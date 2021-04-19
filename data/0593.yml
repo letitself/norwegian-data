@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [iobj NP-Ins.Pl] [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] скупала [iobj мешками] [obj картошку] [obl [case в] магазине].]'
+common_fillers:
+  - ~
 references:
   - |
     

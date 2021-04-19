@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] хотелось [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] хочется [xcomp уехать [obl [case на] море]].]'
+common_fillers:
+  - ~
 references:
   - |
     

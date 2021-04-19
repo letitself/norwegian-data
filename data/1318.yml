@@ -31,6 +31,8 @@ dependency_structure:
   - '[root VP [obl [case в] надежде [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Человек] живёт [obl [case в] надежде [nmod [advmod когда-нибудь] продлить [obj жизнь] [iobj [amod другому] человеку]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

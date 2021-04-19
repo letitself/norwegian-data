@@ -44,6 +44,16 @@ dependency_structure:
   - '[root [nsubj NP-Nom] бросить [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] бросил [xcomp курить].]'
+common_fillers:
+  - курить
+  - пить
+  - выпивать
+  - учиться
+  - писать стихи
+  - сочинять
+  - заниматься танцами
+  - играть
+  - петь
 references:
   - |
     

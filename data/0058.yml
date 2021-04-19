@@ -35,6 +35,8 @@ dependency_structure:
   - '[root Cl [obl [case вне] зависимости [nmod [case от] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Вне] зависимости [nmod [case от] результатов]] [nsubj мы] продолжим [obj работу].]'
+common_fillers:
+  - ~
 references:
   - |
     

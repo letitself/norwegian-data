@@ -47,6 +47,12 @@ dependency_structure:
   - '[root [nsubj NP-Nom] велеть [iobj NP-Dat] [xcomp [advmod не] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мать] велела [iobj сыну] [xcomp учиться].]'
+common_fillers:
+  - идти
+  - ждать
+  - отвечать
+  - принести
+  - купить
 references:
   - |
     

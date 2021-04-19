@@ -42,6 +42,8 @@ dependency_structure:
   - '[dep NP [nmod [case для] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Для] удобства [nmod зрителей]] [obj кресла] заменили [obl [case на] новые].]'
+common_fillers:
+  - ~
 references:
   - |
     

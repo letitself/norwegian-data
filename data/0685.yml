@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [nsubj кто] сказал, [ccomp [mark что] Cl]?]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj кто] сказал, [ccomp [mark что] [nsubj мы] [advmod не] хотим [obl [case в] кино]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

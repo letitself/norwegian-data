@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [advmod сегодня] XP, [conj [advmod завтра] – XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Зима [nmod [case в] Москве]] суровая.] [root [advmod Сегодня] здоров, [conj [advmod завтра] – болен].]'
+common_fillers:
+  - ~
 references:
   - |
     

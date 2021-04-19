@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case по] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Курочка] [obl [case по] зёрнышку] клюёт.]'
+common_fillers:
+  - ~
 references:
   - |
     

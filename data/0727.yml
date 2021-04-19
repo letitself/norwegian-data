@@ -45,6 +45,9 @@ dependency_structure:
   - '[root VP [obl бок [fixed о] [fixed бок]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] работаем [obl бок [fixed о] [fixed бок] [obl [case с] [det такими] талантами]].]'
+common_fillers:
+  - жить
+  - работать
 references:
   - |
     

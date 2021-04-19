@@ -34,6 +34,8 @@ dependency_structure:
   - '[dep NP [nmod [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root Пришлось [csubj платить [obj штраф [nmod [case за] [amod неправильную] парковку]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

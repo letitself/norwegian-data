@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case на] потеху] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Клоун] выступает [obl [case на] потеху] [iobj публике].]'
+common_fillers:
+  - ~
 references:
   - |
     

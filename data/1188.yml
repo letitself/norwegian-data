@@ -29,6 +29,8 @@ dependency_structure:
   - '[advmod [advmod не] [advmod сильно] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [advmod не] [advmod сильно] умнее [obl нас].]'
+common_fillers:
+  - ~
 references:
   - |
     

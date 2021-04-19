@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [advmod даже] [advcl [mark если] [dep NP] [advmod и] VP], [mark то] Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [nsubj он] [advmod и] выиграет [obj матч]], [mark то] [xcomp чемпионом] [advmod всё [fixed равно]] [advmod не] станет.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -27,6 +27,8 @@ dependency_structure:
   - '[dep [advmod [advmod чуть [advmod ли]] не] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] можно [csubj закрыть [obj фабрику, [acl:relcl [advmod где] работает [nsubj [nummod [advmod [advmod чуть [advmod ли]] не] [nummod:gov десять] тысяч] человек]]]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

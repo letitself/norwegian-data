@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [iobj PronPers-Dat] хорошо [csubj говорить], [conj [cc а] [nsubj я] Cl]]'
 dependency_structure_of_illustration:
   - '[root [iobj Тебе] легко [csubj говорить], [conj [cc а] [nsubj я] пережила [obj [det эту] трагедию], [obl [case как] личную]].]'
+common_fillers:
+  - ~
 references:
   - |
     

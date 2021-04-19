@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case с] целью [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Исследование] проводится [obl [case с] целью [nmod разработки [nmod лекарствa [nmod [case против] [amod сибирской] язвы]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

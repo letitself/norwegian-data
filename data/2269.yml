@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [obl друг [fixed друга]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] можем [xcomp жить [obl друг [fixed без] [fixed друга]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

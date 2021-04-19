@@ -37,6 +37,8 @@ dependency_structure:
   - '[root [amod полный] Noun!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [cop был] [amod полный] провал!]'
+common_fillers:
+  - ~
 references:
   - |
     

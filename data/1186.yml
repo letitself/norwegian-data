@@ -28,6 +28,8 @@ dependency_structure:
   - '[advmod [advmod намного] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] песня] [advmod намного] красивее.]'
+common_fillers:
+  - ~
 references:
   - |
     

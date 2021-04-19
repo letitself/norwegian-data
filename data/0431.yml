@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [dep PronInt [advmod только]] [nsubj NP-Nom] VP!]'
 dependency_structure_of_illustration:
   - '[root [advmod Как [advmod только]] [nsubj она] [obj это] выносит!]'
+common_fillers:
+  - ~
 references:
   - |
     

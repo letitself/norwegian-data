@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case в] районе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj подождать [obl [case в] районе [nmod [nummod пяти] минут]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

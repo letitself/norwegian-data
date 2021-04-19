@@ -45,6 +45,11 @@ dependency_structure:
   - '[root VP [obj NP-Acc] [obl NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root Продавать [obj яйца] [obl десятками].]'
+common_fillers:
+  - десяток
+  - сотня
+  - тысяча
+  - дюжина
 references:
   - |
     

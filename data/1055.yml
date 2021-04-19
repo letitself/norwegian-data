@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [advmod зачем] [aux бы] [nsubj NP-Nom] стать-Pst [xcomp Verb-Inf]?]'
 dependency_structure_of_illustration:
   - '[root [cc И] [advmod зачем] [aux бы] [nsubj Вася] стал [xcomp петь]?]'
+common_fillers:
+  - ~
 references:
   - |
     

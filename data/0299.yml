@@ -36,6 +36,8 @@ dependency_structure:
   - '[amod [det самый] Adj [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Август]– [amod самый] жаркий [obl [case из] месяцев].]'
+common_fillers:
+  - ~
 references:
   - |
     

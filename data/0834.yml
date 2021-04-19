@@ -45,6 +45,8 @@ dependency_structure:
   - '[root VP [obl [case во] вред] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [advmod Зачем] заниматься [iobj спортом] [obl [case в] ущерб] [iobj здоровью]?]'
+common_fillers:
+  - себе
 references:
   - |
     

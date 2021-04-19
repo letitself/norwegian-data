@@ -41,6 +41,10 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [amod вылитый] NP-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Катя] [amod вылитая] мама.]'
+common_fillers:
+  - мать
+  - отец
+  - барби
 references:
   - |
     

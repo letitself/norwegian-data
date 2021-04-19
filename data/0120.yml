@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [advmod едва [fixed не]] VP-Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [flat:name Иванович] [advmod едва [fixed не]] умер [obl [case после] [det такого] розыгрыша].]'
+common_fillers:
+  - ~
 references:
   - |
     

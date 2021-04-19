@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj спора] нет, [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Спора] нет, [parataxis [nsubj команда] получилась [xcomp [advmod очень] хорошая]].]'
+common_fillers:
+  - ~
 references:
   - |
     

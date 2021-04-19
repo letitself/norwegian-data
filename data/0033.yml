@@ -42,6 +42,10 @@ dependency_structure:
   - '[root [obl [case Без] [nummod пяти] минут] NP]'
 dependency_structure_of_illustration:
   - '[root [obl [case Без] [nummod пяти] минут] врач]'
+common_fillers:
+  - врач
+  - доктор наук
+  - кандидат наук
 references:
   - |
     

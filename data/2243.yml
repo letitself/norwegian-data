@@ -28,6 +28,8 @@ dependency_structure:
   - 'XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Василий [flat:name Иванович]], [parataxis [case на] минуточку], [amod [amod самый] важный] человек [nmod [case в] городе]!]'
+common_fillers:
+  - ~
 references:
   - |
     

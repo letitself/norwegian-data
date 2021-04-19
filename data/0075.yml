@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [nsubj время [nmod NP-Gen]] прошло]'
 dependency_structure_of_illustration:
   - '[root [nsubj Время [nmod сомнений]] прошло.]'
+common_fillers:
+  - ~
 references:
   - |
     

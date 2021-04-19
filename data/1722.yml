@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case в] хвосте [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] хвосте [nmod поезда]] [aux:pass была] прицеплена [nsubj:pass цистерна].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -47,6 +47,12 @@ dependency_structure:
   - '[dep NP [nmod [case в] награду]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] награду [nmod [case за] [amod отличную] работу]] [nsubj он] получил [obj премию].]'
+common_fillers:
+  - потомкам
+  - потомству
+  - всем
+  - внукам
+  - прочим
 references:
   - |
     

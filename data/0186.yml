@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [case на] что [iobj NP-Dat] [cop Cop] [nsubj NP-Nom]?]'
 dependency_structure_of_illustration:
   - '[root [case На] что [iobj мне] [nsubj [det эти] книги]?]'
+common_fillers:
+  - ~
 references:
   - |
     

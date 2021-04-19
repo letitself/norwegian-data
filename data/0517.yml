@@ -26,6 +26,8 @@ dependency_structure:
   - '[root [dep NP] [advmod и] VP]'
 dependency_structure_of_illustration:
   - '[root [obj Меня] пригласили, [conj [nsubj я] [advmod и] пришёл].]'
+common_fillers:
+  - ~
 references:
   - |
     

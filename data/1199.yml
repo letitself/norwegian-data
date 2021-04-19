@@ -32,6 +32,8 @@ dependency_structure:
   - '[dep [cc настолько [advmod же]] XP, [conj [cc насколько [fixed и]] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] дом] [cop был] [cc столь [advmod же]] неудобный, [conj [cc сколь [fixed и]] дорогой].]'
+common_fillers:
+  - ~
 references:
   - |
     

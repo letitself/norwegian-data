@@ -26,6 +26,8 @@ dependency_structure:
   - '[dep [amod закоренелый] Noun][dep [amod закадычный] Noun]'
 dependency_structure_of_illustration:
   - '[root [nsubj Антон]– [amod заядлый] игрок [nmod [case в] покер].]'
+common_fillers:
+  - ~
 references:
   - |
     

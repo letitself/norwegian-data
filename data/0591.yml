@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obj NP-Acc] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] достал [obj деньги] [xcomp поехать [obl [case на] юг]].]'
+common_fillers:
+  - ~
 references:
   - |
     

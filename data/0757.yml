@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case в] духе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[dep Рассказ [nmod [case в] духе [nmod Чехова]]]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -36,6 +36,8 @@ dependency_structure:
   - '[root станет [nsubj NP-Nom] [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root Станет [nsubj он] [xcomp [obj посуду] мыть]!]'
+common_fillers:
+  - ~
 references:
   - |
     

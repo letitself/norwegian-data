@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP] один [nmod [case из] Adj-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] фильм] один [nmod [case из] лучших [obl [case у] Спилберга]].]'
+common_fillers:
+  - ~
 references:
   - |
     

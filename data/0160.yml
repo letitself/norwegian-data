@@ -38,6 +38,8 @@ dependency_structure:
   - '[root [det какой] [advmod ещё] NP]'
 dependency_structure_of_illustration:
   - '[root [obj [det Какую] [advmod ещё] машину] [nsubj ты] купил?]'
+common_fillers:
+  - ~
 references:
   - |
     

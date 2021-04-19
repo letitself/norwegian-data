@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [advcl [advmod так] [advmod и] быть], VP-Imp]'
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Так] [advmod и] быть], расскажу [iobj тебе] [obj всё].]'
+common_fillers:
+  - ~
 references:
   - |
     

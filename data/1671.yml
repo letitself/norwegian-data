@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] приняться [xcomp Verb-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] принялся [xcomp тянуть [obj меня] [obl [case в] сторону [nmod выхода]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

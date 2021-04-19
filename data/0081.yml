@@ -38,6 +38,8 @@ dependency_structure:
   - '[root [advmod всё] [det те [advmod же]] NP]'
 dependency_structure_of_illustration:
   - '[root [advmod Всё] [det те [advmod же]] лица.]'
+common_fillers:
+  - ~
 references:
   - |
     

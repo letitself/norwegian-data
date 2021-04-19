@@ -52,6 +52,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] [nummod NumCrd-Loc] часах]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] живу [obl [case в] [nummod пяти] минутах [nmod [case от] метро]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -41,6 +41,15 @@ dependency_structure:
   - '[root VP [case за] счёт [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Только] [case за] счёт [nmod [amod государственной] поддержки]] могут [xcomp выжить] [nsubj [amod культурные] программы [nmod [case на] телевидении]].]'
+common_fillers:
+  - средств
+  - бюджета
+  - активов
+  - расходов
+  - продажи
+  - работы
+  - эффекта
+  - сокращения
 references:
   - |
     

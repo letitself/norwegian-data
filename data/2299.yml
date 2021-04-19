@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [cop Cop] [advmod не] дело, [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [advmod не] дело, [ccomp [mark что] [nsubj он] [obl один] бродит [obl [case по] улицам [nmod [amod незнакомого] города]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

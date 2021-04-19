@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [advmod [obl NP-Ins] назад]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] съехали [obl [case с] горки] [advmod [obl головой] вперёд].]'
+common_fillers:
+  - ~
 references:
   - |
     

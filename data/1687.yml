@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] пробовать [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [obl [nummod:gov несколько] раз] пробовал [xcomp открыть [obj окно]].]'
+common_fillers:
+  - ~
 references:
   - |
     

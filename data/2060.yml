@@ -44,6 +44,11 @@ dependency_structure:
   - '[root [cop Cop] некого [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] некого [csubj пригласить].]'
+common_fillers:
+  - спросить
+  - винить
+  - обвинять
+  - подозревать
 references:
   - |
     

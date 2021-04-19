@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] притворяться [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] притворялся [xcomp спящим].]'
+common_fillers:
+  - ~
 references:
   - |
     

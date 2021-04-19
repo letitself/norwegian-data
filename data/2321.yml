@@ -36,6 +36,8 @@ dependency_structure:
   - '[root [nsubj кто] [aux бы] говорил [obl [case о] NP-Loc], [conj [cc но] [advmod только] [advmod не] NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] [aux бы] говорил [obl [case о] [amod правильном] питании]!]'
+common_fillers:
+  - ~
 references:
   - |
     

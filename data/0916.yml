@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod почему] [expl это] VP?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod что] [discourse это] [obj уроки] [advmod не] делаешь?]'
+common_fillers:
+  - ~
 references:
   - |
     

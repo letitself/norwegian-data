@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [iobj NP-Dat] [obl [case на] вид] [cop Cop] лет [nummod NumCrd]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [obl [case на] вид] лет [nummod сорок].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -32,6 +32,8 @@ dependency_structure:
   - '[conj [cc а] Cl]]'
 dependency_structure_of_illustration:
   - '[root Хочешь [conj [advmod не] хочешь], [conj [cc а] встанем [obl [advmod рано] утром]].]'
+common_fillers:
+  - ~
 references:
   - |
     

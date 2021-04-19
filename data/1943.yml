@@ -29,6 +29,8 @@ dependency_structure:
   - '[root как [cop Cop] [nsubj [det PronPoss] отчество]?]'
 dependency_structure_of_illustration:
   - '[root Как [nsubj [det ваше] имя]?]'
+common_fillers:
+  - ~
 references:
   - |
     

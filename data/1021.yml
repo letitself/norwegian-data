@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [cop Cop] [csubj [obl [case из-за] чего] Verb-Inf]]'
 dependency_structure_of_illustration:
   - '[root Есть [csubj [obl [case из-за] чего] расстраиваться].]'
+common_fillers:
+  - ~
 references:
   - |
     

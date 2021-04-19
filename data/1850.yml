@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] писал [obj письмо] [obl [nummod:gov четыре] часа].]'
+common_fillers:
+  - ~
 references:
   - |
     

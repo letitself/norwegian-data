@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] силе]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Все] [det наши] договоренности] [case в] силе.]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -31,6 +31,8 @@ dependency_structure:
   - '[root VP [obl [case про] прошествии [nmod [nummod NumCrd-Gen] лет]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Про] прошествии [nmod [nummod десяти] лет]] хочется [xcomp [advmod снова] [obj её] увидеть].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -25,6 +25,8 @@ dependency_structure:
   - '[root XP [advmod извне]]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] [nsubj организм [nmod человека]] [aux будет] реагировать [obl [case на] влияние] [advmod извне]?]'
+common_fillers:
+  - ~
 references:
   - |
     

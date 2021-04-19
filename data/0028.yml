@@ -44,6 +44,10 @@ dependency_structure:
   - '[root [nsubj NP-Nom] по-Verb - [conj по-Verb] [conj [cc и] VP]]'
 dependency_structure_of_illustration:
   - '[root Поспит - [conj поспит] [conj [cc и] проснётся].]'
+common_fillers:
+  - поспит
+  - подумает
+  - покричит
 references:
   - |
     

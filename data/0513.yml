@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] залиться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] закатилась [iobj слезами].]'
+common_fillers:
+  - ~
 references:
   - |
     

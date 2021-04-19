@@ -40,6 +40,9 @@ dependency_structure:
   - '[root [advmod не] NP [det какой-нибудь]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] бомжи [det какие-нибудь]!]'
+common_fillers:
+  - бомж
+  - проходимец
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

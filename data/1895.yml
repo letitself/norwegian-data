@@ -28,6 +28,8 @@ dependency_structure:
   - '[root XP [conj [cc и] [obl т.] п.]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] прочитал [obj [nummod:gov несколько] [amod дурацких] [amod бульварных] книжек, [acl:relcl [nsubj которые] [advmod только] начали [xcomp выходить]]: [appos [det всякие] «Антикиллеры» [conj [cc и] [obl тому] подобное]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

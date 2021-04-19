@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case по] сравнению [nmod [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [det такой] медленный [obl [case по] сравнению [nmod [case с] остальными]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case на] века]]'
 dependency_structure_of_illustration:
   - '[dep Книга [nmod [case на] века]]'
+common_fillers:
+  - ~
 references:
   - |
     

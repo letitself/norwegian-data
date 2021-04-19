@@ -50,6 +50,15 @@ dependency_structure:
   - '[root VP [dep [nummod NumCrd] NP [nmod [case в] диаметре]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дерево] имеет [obj ствол [nmod [nummod:gov три] метра [nmod [case в] обхвате]]].]'
+common_fillers:
+  - сантиметр
+  - метр
+  - фут
+  - дюйм
+  - быть
+  - иметь
+  - составлять
+  - достигать
 references:
   - |
     

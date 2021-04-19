@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] боролись [obl [case за] мир [nmod [case на] земле]].]'
+common_fillers:
+  - ~
 references:
   - |
     

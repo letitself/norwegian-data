@@ -44,6 +44,8 @@ dependency_structure:
   - '[root [advmod вот] [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj То-то] [advmod и] оно, [mark что] [obl [case от] меня] [nsubj ничего] [advmod не] [acl:relcl зависит].]'
+common_fillers:
+  - NA
 references:
   - |
     

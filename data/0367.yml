@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [advcl [obj что] [advmod ни] говорите], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [obj Что] [advmod ни] говори], [cc а] [nsubj он] прав.]'
+common_fillers:
+  - ~
 references:
   - |
     

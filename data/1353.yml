@@ -26,6 +26,8 @@ dependency_structure:
   - '[root VP [obl [amod битый] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod тут] [obl [amod битый] час] ждем [obl [case в] очереди].]'
+common_fillers:
+  - ~
 references:
   - |
     

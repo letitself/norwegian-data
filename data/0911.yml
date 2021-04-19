@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [obl [det весь] NP-Acc] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ребёнок] [obl [det всю] дорогу] спал.]'
+common_fillers:
+  - ~
 references:
   - |
     

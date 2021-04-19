@@ -28,6 +28,8 @@ dependency_structure:
   - '[root [advmod когда-нибудь] VP-Fut]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] прочитаю [obj [det эту] книгу] [advmod [advmod когда-нибудь] потом].]'
+common_fillers:
+  - ~
 references:
   - |
     

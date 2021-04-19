@@ -53,6 +53,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] прийтись-Pst [obl [case в] аккурат]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Сапоги] пришлись [iobj ему] [advmod впору].]'
+common_fillers:
+  - ~
 references:
   - |
     

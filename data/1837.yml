@@ -45,6 +45,13 @@ dependency_structure:
   - '[root VP [obl [amod следующим] образом: [acl Cl]]]'
 dependency_structure_of_illustration:
   - '[root Делается [nsubj это] [advmod так: [advcl [advmod ровно] разложите [obj салфетку] [conj [cc и] загните [obj [det все] [nummod:gov четыре] угла] [obl [case к] центру]]]].]'
+common_fillers:
+  - переформулировать
+  - выразить
+  - сделать
+  - выглядеть
+  - действовать
+  - сформулировать
 references:
   - |
     

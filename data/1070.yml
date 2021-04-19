@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] пришёл [obl [case из] вежливости].]'
+common_fillers:
+  - ~
 references:
   - |
     

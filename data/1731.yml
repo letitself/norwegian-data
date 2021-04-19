@@ -42,6 +42,11 @@ dependency_structure:
   - '[root VP [obl NP-Ins] [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root Упасть [obl головой] [obl [case в] подушку]]'
+common_fillers:
+  - ткнуть
+  - ткнуться
+  - падать
+  - носом
 references:
   - |
     Рахилина, Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, изд. 2, испр. и доп. – 448 с. (стр. 265-266)

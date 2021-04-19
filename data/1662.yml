@@ -31,6 +31,8 @@ dependency_structure:
   - '[root VP [obl [nummod NumCrd-Acc] лет [advmod назад]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] закончил [obj университет] [obl [nummod:gov три] года [advmod назад]].]'
+common_fillers:
+  - ~
 references:
   - |
     Статья С.С.Сая

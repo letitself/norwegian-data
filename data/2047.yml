@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep [nummod NumCrd] NP [nmod каждый]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мальчики] принесли [obj [case по] [nummod:gov три] книги [nmod каждый]].]'
+common_fillers:
+  - ~
 references:
   - |
     

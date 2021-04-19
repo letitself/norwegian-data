@@ -32,6 +32,8 @@ dependency_structure:
   - '[amod Adj [obl [case на] [det весь] Noun-Acc.Sg] [obl NP-Ins]]'
 dependency_structure_of_illustration:
   - '[amod Известный [obl [case на] [det весь] мир]]'
+common_fillers:
+  - ~
 references:
   - |
     

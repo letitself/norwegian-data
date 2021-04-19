@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obj NP-Acc] прозвали [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [obl [case За] внешность] [obj Квазимодо] прозвали [xcomp Горбуном].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [advmod так] повелось, [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Так] [advmod уж] повелось, [ccomp [mark что] [obl [case по] имени - [nmod отчеству]] [obj его] [nsubj никто] [advmod никогда] [advmod не] называл].]'
+common_fillers:
+  - ~
 references:
   - |
     

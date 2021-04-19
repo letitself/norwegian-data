@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj:pass всё] [cop Cop] схвачено]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] [det нашего] директора] [advmod везде] [nsubj:pass всё] схвачено.]'
+common_fillers:
+  - ~
 references:
   - |
     

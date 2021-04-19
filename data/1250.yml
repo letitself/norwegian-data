@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obl [case на] основании [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] основании [nmod статьи [appos 3] [nmod закона [nmod [case об] образовании]]]] [nsubj [det каждый] человек] имеет [obj право [nmod [case на] образование]].]'
+common_fillers:
+  - ~
 references:
   - |
     

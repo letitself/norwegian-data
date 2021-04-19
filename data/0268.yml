@@ -48,6 +48,11 @@ dependency_structure:
   - '[root VP [obj [case по] [nummod NumCrd] NP [nmod [case за] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] Сочи] [obj мимозу] можно [csubj продать [obl [case по] [nummod:gov два] рубля [nmod [case за] [nummod:gov один] килограмм]]].]'
+common_fillers:
+  - продавать
+  - покупать
+  - рубли
+  - килограмм
 references:
   - |
     

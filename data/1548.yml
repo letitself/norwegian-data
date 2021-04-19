@@ -48,6 +48,11 @@ dependency_structure:
   - '[dep NP [nmod диаметром [nmod NumCrd-Nom [nmod NP]]]]'
 dependency_structure_of_illustration:
   - '[obj Взрыв [nmod радиусом [nmod [case в] десятки [nmod метров]]]]'
+common_fillers:
+  - метр
+  - километр
+  - миля
+  - фут
 references:
   - |
     

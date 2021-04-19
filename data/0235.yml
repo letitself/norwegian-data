@@ -40,6 +40,8 @@ dependency_structure:
   - '[root [nsubj [det никакой] NP] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Никакая] машина] [obl [case по] [det такой] дороге] [advmod не] проедет.]'
+common_fillers:
+  - ~
 references:
   - |
     

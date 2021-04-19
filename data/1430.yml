@@ -29,6 +29,8 @@ dependency_structure:
   - '[dep NP [nmod [case по] вопросам [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[nsubj Специалист [nmod [case по] вопросам [nmod экологии]]]'
+common_fillers:
+  - ~
 references:
   - |
     

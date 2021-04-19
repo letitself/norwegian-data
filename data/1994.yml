@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [parataxis [case по] замечанию [nmod NP-Gen]], Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Встреча], [parataxis [case по] выражению [nmod Игоря [flat:name Сергеевича]]], [cop была] превосходная.]'
+common_fillers:
+  - ~
 references:
   - |
     

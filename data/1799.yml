@@ -36,6 +36,11 @@ dependency_structure:
   - '[amod Adj-еватый]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кирпич] [obl [case в] Голландии] имеет [obj [amod коричневатый] оттенок].]'
+common_fillers:
+  - коричневатый
+  - голубоватый
+  - мутноватый
+  - глуповатый
 references:
   - |
     About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation.

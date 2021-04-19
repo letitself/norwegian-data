@@ -31,6 +31,8 @@ dependency_structure:
   - '[conj [det один] [advmod только] [nsubj NP-Nom] VP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Все] спали, [conj [det один] [advmod только] [nsubj дедушка] сидел [obl [case возле] окна]].]'
+common_fillers:
+  - ~
 references:
   - |
     

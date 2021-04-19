@@ -43,6 +43,12 @@ dependency_structure:
   - '[obl [obl [case без] малого [nummod NumCrd]] NP-Gen]'
 dependency_structure_of_illustration:
   - '[root [obl [case Без] малого [nummod:gov двадцать]] лет]'
+common_fillers:
+  - десять
+  - десяток
+  - сотня
+  - миллиард
+  - миллион
 references:
   - |
     

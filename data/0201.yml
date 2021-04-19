@@ -43,6 +43,9 @@ dependency_structure:
   - '[root [advmod совсем] VP-Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod не] совсем] оправился [obl [case от] смерти [nmod родителей]].]'
+common_fillers:
+  - оправиться
+  - понять
 references:
   - |
     

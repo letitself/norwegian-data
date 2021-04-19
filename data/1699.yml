@@ -38,6 +38,13 @@ dependency_structure:
   - '[root VP [obl [case под] рукой]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [advmod всегда] есть [nsubj [amod запасной] ключ] [obl [case под] рукой].]'
+common_fillers:
+  - оказался
+  - оказалось
+  - нашел
+  - держать
+  - иметь
+  - быть
 references:
   - |
     

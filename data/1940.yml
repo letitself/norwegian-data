@@ -45,6 +45,12 @@ dependency_structure:
   - '[root VP [obl [case под] псевдонимом]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] писал [obj рассказы] [obl [case под] псевдонимом [appos Иван] [flat:name Бездомный]].]'
+common_fillers:
+  - скрыться
+  - скрываться
+  - писать
+  - печататься
+  - работать
 references:
   - |
     

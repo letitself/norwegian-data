@@ -31,6 +31,8 @@ dependency_structure:
   - '[csubj [mark если] [aux бы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [cop было] [aux бы] здорово, [csubj [mark если] [aux бы] [nsubj он] позвонил]!]'
+common_fillers:
+  - ~
 references:
   - |
     

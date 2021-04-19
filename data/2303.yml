@@ -28,6 +28,8 @@ dependency_structure:
   - '[ccomp Cl]]'
 dependency_structure_of_illustration:
   - '[root [acl Сам] подумай, [ccomp [advmod зачем] [iobj [amod взрослому] человеку] [nsubj это] нужно]?]'
+common_fillers:
+  - ~
 references:
   - |
     

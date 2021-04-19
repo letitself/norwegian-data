@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case на] пользу] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Конкуренция] пойдёт [iobj [amod российскому] рынку] [obl [case на] пользу].]'
+common_fillers:
+  - ~
 references:
   - |
     

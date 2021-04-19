@@ -39,6 +39,8 @@ dependency_structure:
   - '[root VP [obl [case ради] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root Надо [csubj съесть [obl вечером] [obj пирожное]] [obl [advmod хотя [fixed бы]] [case ради] наслаждения].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -39,6 +39,8 @@ dependency_structure:
   - '[root [advcl [mark хоть] VP-Imp], [cc но] Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Хоть] умри], [cc а] [advmod завтра] должен [xcomp [cop быть] [case на] работе [obl [advmod рано] утром]].]'
+common_fillers:
+  - ~
 references:
   - |
     

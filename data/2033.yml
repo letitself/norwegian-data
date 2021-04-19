@@ -33,6 +33,8 @@ dependency_structure:
   - '[dep [nummod NumCrd] целых [flat [nummod NumCrd] тысячных]]'
 dependency_structure_of_illustration:
   - '[obl [nummod:gov Пять] целых [flat [nummod:gov семь] десятых] [nmod сантиметра]]'
+common_fillers:
+  - ~
 references:
   - |
     

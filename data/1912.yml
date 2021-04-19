@@ -45,6 +45,10 @@ dependency_structure:
   - '[root VP-Sg [nsubj [case по] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] [det каждого] входа] стоит [nsubj [case по] часовому].]'
+common_fillers:
+  - лежать
+  - стоять
+  - стоять
 references:
   - |
     

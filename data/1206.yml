@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] прикидываться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [iobj дурачком-[advmod то]] [advmod не] прикидывайся!]'
+common_fillers:
+  - ~
 references:
   - |
     

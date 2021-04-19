@@ -43,6 +43,8 @@ dependency_structure:
   - '[root [nsubj дело] [cop Cop] [advmod не] [case в] NP-Loc!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] [advmod не] [case в] опозданиях.]'
+common_fillers:
+  - ~
 references:
   - |
     

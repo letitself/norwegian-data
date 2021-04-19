@@ -43,6 +43,10 @@ dependency_structure:
   - '[dep NP [nmod величиной [nmod [case с] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Собака] [cop была] размером [nmod [case с] лошадь].]'
+common_fillers:
+  - килограмм
+  - грамм
+  - тонна
 references:
   - |
     

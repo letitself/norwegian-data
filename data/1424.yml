@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] центре [nmod внимания]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Мой] друг] [advmod теперь] [case в] центре [nmod внимания].]'
+common_fillers:
+  - ~
 references:
   - |
     

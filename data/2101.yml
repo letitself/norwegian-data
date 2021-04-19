@@ -28,6 +28,8 @@ dependency_structure:
   - '[conj [dep NP] [cc же] VP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя [conj [cc и] Таня]] ушли, [conj [nsubj Маша] [cc же] осталась [xcomp [obj нас] поддержать]].]'
+common_fillers:
+  - ~
 references:
   - |
     

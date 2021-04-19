@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [obl один] XP, [conj [obl другой] XP]]'
 dependency_structure_of_illustration:
   - '[root [obl [nummod:gov Один] день] строит, [conj [obl другой] ломает].]'
+common_fillers:
+  - ~
 references:
   - |
     

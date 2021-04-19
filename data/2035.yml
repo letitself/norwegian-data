@@ -30,6 +30,8 @@ dependency_structure:
   - '[dep [nummod NumCrd] NumOrd-Gen.Pl]'
 dependency_structure_of_illustration:
   - '[root [obj [nummod:gov Три] пятых [nmod бассейна]]] заполнили [iobj водой].]'
+common_fillers:
+  - ~
 references:
   - |
     

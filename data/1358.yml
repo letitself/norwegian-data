@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [advcl [advmod не] переставая]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Телефон] звонит [advcl [advmod не] переставая].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -32,6 +32,8 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom] [advmod не] мог [aux бы] [xcomp  VP-Pfv.Inf]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod не] мог [aux бы] [xcomp передать [obj соль]]?]'
+common_fillers:
+  - ~
 references:
   - |
     

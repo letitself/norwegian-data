@@ -30,6 +30,8 @@ dependency_structure:
   - '[root Cl, [conj [cc а] [obl [case меж] тем] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] погрузились [obl [case в] работу], [conj [cc а] [obl [case между] тем] [nsubj чай] [advmod совсем] остыл].]'
+common_fillers:
+  - ~
 references:
   - |
     

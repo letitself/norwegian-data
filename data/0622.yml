@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case в] соответствии [nmod [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] становится [xcomp [amod новым] президентом [nmod компании]] [obl [case в] соответствии [nmod [case с] [amod новыми] документами]].]'
+common_fillers:
+  - ~
 references:
   - |
     

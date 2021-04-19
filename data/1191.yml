@@ -28,6 +28,8 @@ dependency_structure:
   - '[advmod [advmod слегка] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] чемодан] [advmod слегка] тяжелее [obl сумки].]'
+common_fillers:
+  - ~
 references:
   - |
     

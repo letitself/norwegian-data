@@ -43,6 +43,8 @@ dependency_structure:
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] обиделся [obl [case из-за] того, [acl [mark что] [nsubj ты] [obj ничего] [iobj мне] [obl [case об] этом] [advmod не] сказала]].]'
+common_fillers:
+  - NA
 references:
   - |
     

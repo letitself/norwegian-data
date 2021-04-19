@@ -46,6 +46,11 @@ dependency_structure:
   - '[root VP [obj NP-Acc] [obl [case из] ничего]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] смастерил [obj шкатулку] [obl [case из] ничего].]'
+common_fillers:
+  - создать
+  - сделать
+  - сотворить
+  - сготовить
 references:
   - |
     

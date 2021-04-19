@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [obl [amod целый-Ins.Pl] NP-Ins.Pl] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl часами] смотрел [obl [case на] звёзды].]'
+common_fillers:
+  - ~
 references:
   - |
     

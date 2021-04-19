@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod порой] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Нагрузка [nmod [case в] школе]] [advmod порой] бывает [xcomp [advmod достаточно] тяжёлой].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -42,6 +42,13 @@ dependency_structure:
   - '[dep NP [nmod [case из] среды [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[nsubj [amod Постоянные] читатели [nmod [case из] среды [nmod ученых]]]'
+common_fillers:
+  - выходцы
+  - люди
+  - интеллигенция
+  - рабочие
+  - народ
+  - предприниматели
 references:
   - |
     

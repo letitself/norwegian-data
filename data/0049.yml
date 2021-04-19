@@ -42,6 +42,10 @@ dependency_structure:
   - '[root Cl [obl [case в] зависимости [nmod [case от] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Уровень [nmod зарплаты]] определяется [obl [case в] зависимости [nmod [case от] опыта [nmod работы]]].]'
+common_fillers:
+  - ситуации
+  - условий
+  - количества
 references:
   - |
     

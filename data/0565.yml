@@ -43,6 +43,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] ухитриться [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] умудрился [xcomp упасть].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -39,6 +39,12 @@ dependency_structure:
   - '[root [advmod наряду [obl [case с] NP-Ins]] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Наряду [obl [case с] [amod российскими] спортсменами]], [obl [case в] соревновании] участвовали [nsubj иностранцы].]'
+common_fillers:
+  - участвуют
+  - работают
+  - принимают участие
+  - является
+  - считается
 references:
   - |
     

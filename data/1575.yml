@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obj [det Все] овощи] нужно [csubj залить [iobj кипятком] [conj [cc и] варить [obl [case до] готовности]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

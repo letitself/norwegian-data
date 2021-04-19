@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod зачастую] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Мелкие] фирмы] [advmod зачастую] [advmod не] могут [xcomp оплатить [obj работу [nmod [det всех] сотрудников]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -45,6 +45,11 @@ dependency_structure:
   - '[root [nsubj NP-Nom] носит [obj [amod Adj.Poss-Acc] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] носит [obj фамилию [nmod мужа]].]'
+common_fillers:
+  - фамилия
+  - имя
+  - титул
+  - звание
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case на] [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Проезд] подорожал [obl [case на] [nummod:gov двадцать] рублей].]'
+common_fillers:
+  - ~
 references:
   - |
     

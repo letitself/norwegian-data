@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] морочить [iobj NP-Dat] [obj голову] [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] морочь [iobj мне] [obj голову] [iobj [det этими] книжками]!]'
+common_fillers:
+  - ~
 references:
   - |
     

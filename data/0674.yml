@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] сводить [obj концы] [obl [case с] концами]]'
 dependency_structure_of_illustration:
   - '[root [obl [case После] смерти [nmod мужа]] [nsubj она] [advmod едва] сводила [obj концы] [obl [case с] концами].]'
+common_fillers:
+  - ~
 references:
   - |
     

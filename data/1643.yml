@@ -31,6 +31,8 @@ dependency_structure:
   - '[root VP [obl [case через] [nummod NumCrd-Acc] Noun]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Через] [nummod:gov пять] лет] [nsubj он] закончит [obj школу].]'
+common_fillers:
+  - ~
 references:
   - |
     

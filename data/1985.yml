@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case среди] прочих] [dep XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] статус] [obl [case среди] прочего] давал [obj право [nmod носить [obj оружие]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

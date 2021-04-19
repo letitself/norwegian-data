@@ -27,6 +27,8 @@ dependency_structure:
   - '[root [obl [case в] [det наши] дни] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Фильм] остается [xcomp интересным] [obl [advmod и] [case в] [det наши] дни].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -53,6 +53,10 @@ dependency_structure_of_illustration:
   - '[root [nsubj Два [nmod [case плюс] два]] [advmod равно] четыре.]'
 comment: |
     'См. близкую конструкцию 2038 (если) к NumCrd-Dat прибавить NumCrd-Acc будет/получится/выйдет NumCrd-Nom (К четырём прибавить два будет шесть).'
+common_fillers:
+  - будет
+  - получится
+  - равняется
 references:
   - |
     

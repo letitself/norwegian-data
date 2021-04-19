@@ -41,6 +41,9 @@ dependency_structure:
   - '[root VP [obl [case в] виде [nmod исключения]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] порядке [nmod исключения]] [nsubj я] разрешил [xcomp [iobj ему] сдать [obj документы] [advmod пораньше]].]'
+common_fillers:
+  - разрешить
+  - позволить
 references:
   - |
     

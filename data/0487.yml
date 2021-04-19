@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [advmod хоть [fixed бы]] [cop Cop] VP-Pfv.Inf]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod только] [aux бы] увидеть [obj ее].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [advmod так-то] да, [conj [cc но] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Так-то] [nsubj оно] так, [conj [cc но] [nsubj он] [iobj мне] [advmod всё [fixed равно]] [advmod не] нравится].]'
+common_fillers:
+  - ~
 references:
   - |
     

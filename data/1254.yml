@@ -30,6 +30,8 @@ dependency_structure:
   - '[root хватить [nsubj NP-Gen], [advcl [mark чтобы] VP]]'
 dependency_structure_of_illustration:
   - '[root Хватило [nsubj [nummod одного] разговора], [advcl [mark чтобы] [obj всё] понять [obl [case об] [det этом] человеке]].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -40,6 +40,8 @@ dependency_structure:
   - '[dep NP [nmod [case за] [nummod NumCrd-Acc] рублей]]'
 dependency_structure_of_illustration:
   - '[obj Открытка [nmod [case за] [nummod:gov пять] рублей]]'
+common_fillers:
+  - ~
 references:
   - |
     

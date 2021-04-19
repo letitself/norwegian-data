@@ -44,6 +44,11 @@ dependency_structure:
   - '[root VP [obl [case в] кругу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Провести [obj вечер] [obl [case в] кругу [nmod семьи]]]'
+common_fillers:
+  - семья
+  - родные
+  - близкие
+  - друзья
 references:
   - |
     

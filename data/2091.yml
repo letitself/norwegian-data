@@ -25,6 +25,8 @@ dependency_structure:
   - '[root [advmod худо-[conj бедно]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Сорокин] [advmod худо-[conj бедно]] [obl сам] создал [obj [det свой] [amod литературный] мир].]'
+common_fillers:
+  - ~
 references:
   - |
     

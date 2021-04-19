@@ -28,6 +28,8 @@ dependency_structure:
   - '[root VP [obl [case как] [case Prep] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] мог [obl [case к] нему] [xcomp прийти] [obl [case как] ученик].]'
+common_fillers:
+  - ~
 references:
   - |
     

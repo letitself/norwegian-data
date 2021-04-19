@@ -38,6 +38,8 @@ dependency_structure:
   - '[root нужно [cop Cop] [csubj VP-Inf], [advcl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Достаточно [cop было] [nsubj [det одного] [det ее] взгляда], [advcl [mark чтобы] влюбиться].]'
+common_fillers:
+  - ~
 references:
   - |
     

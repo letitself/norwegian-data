@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case из] числа [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] конкурс] приехали [nsubj ученики [nmod [case из] числа [nmod лучших [obl [case в] [det своей] школе]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

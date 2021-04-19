@@ -43,6 +43,10 @@ dependency_structure:
   - '[root VP [obl [case за] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Пациенты] выбрасывают [obj [det свои] очки] [obl [case за] ненадобностью].]'
+common_fillers:
+  - ненадобность
+  - негодность
+  - недоказанность
 references:
   - |
     

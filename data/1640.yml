@@ -30,6 +30,8 @@ dependency_structure:
   - '[dep [acl [obl NP-Ins.Pl] PtcpPass] NP]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj сохранить [obj [acl [obl веками] сложившийся] облик [nmod города]]].]'
+common_fillers:
+  - ~
 references:
   - |
     

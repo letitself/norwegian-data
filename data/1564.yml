@@ -27,6 +27,8 @@ dependency_structure:
   - '[root VP [obl [case во] [det все] колокола]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Врачи] бьют [obl [case во] [det все] колокола]: [parataxis [obl [case без] вакцинации] [obj страну] ждёт [nsubj эпидемия]].]'
+common_fillers:
+  - ~
 references:
   - |
     

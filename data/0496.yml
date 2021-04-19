@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP-Gen.Pl [nummod NumCrd]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] лекцию] пришли [nsubj человек [nummod:gov двадцать]].]'
+common_fillers:
+  - ~
 references:
   - |
     

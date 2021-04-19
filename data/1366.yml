@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] переставать [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [advmod Никогда] [advmod не] переставайте [xcomp учиться]!]'
+common_fillers:
+  - ~
 references:
   - |
     

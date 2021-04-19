@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [csubj NP-Gen2] [cop Cop] [aux бы] Pred]'
 dependency_structure_of_illustration:
   - '[root [obj Кофейку] неплохо [aux бы].]'
+common_fillers:
+  - ~
 references:
   - |
     

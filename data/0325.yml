@@ -34,6 +34,8 @@ dependency_structure:
   - '[root [obl [det тем] временем] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [det Тем] временем] [nsubj директор] покинул [obj здание].]'
+common_fillers:
+  - ~
 references:
   - |
     

@@ -29,6 +29,8 @@ dependency_structure:
   - '[root VP [obl [case перед] лицом [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] сплотит [obj нас] [obl [case перед] лицом [nmod опасности]].]'
+common_fillers:
+  - ~
 references:
   - |
     

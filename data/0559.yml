@@ -40,6 +40,8 @@ dependency_structure:
   - '[root VP [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] лег [xcomp отдохнуть].] [root [nsubj Все] сели [xcomp смотреть [obj телевизор]].]'
+common_fillers:
+  - ~
 references:
   - |
     

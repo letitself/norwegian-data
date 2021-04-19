@@ -38,6 +38,8 @@ dependency_structure:
   - '[dep NP [nmod NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [case У] него [nsubj голова [nmod тыквой]].]'
+common_fillers:
+  - ~
 references:
   - |
     

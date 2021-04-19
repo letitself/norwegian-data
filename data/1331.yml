@@ -28,6 +28,8 @@ dependency_structure:
   - '[dep NP [nmod [case из] разряда [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[obj Фильм [nmod [case из] разряда [nmod тех, [acl:relcl [obl [case на] которые] [nsubj дети] должны [xcomp водить [obj [det своих] родителей]]]]].]'
+common_fillers:
+  - ~
 references:
   - |
     
