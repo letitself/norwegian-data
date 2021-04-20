@@ -6,18 +6,20 @@ illustration: 'Посмотрите, ужас какой!'
 cefr_level: A2
 definitions:
   - russian: |
-       [Конструкция]NP-Nom_какой используется для интенсификации некоторой [оценочной характеристики]Evaluation объекта.
+       Конструкция используется для интенсификации [оценочной характеристики]Evaluation объекта, участника или ситуации в целом. Слот NP-Nom заполняется оценочными существительными, которые несут отрицательную или положительную оценку.
   - english: |
-       [This construction ]NP-Nom_какой is used to intensify a certain [single characteristic]Evaluation of an object.
-  - norwegian: |
-       Ужас какой Кошмар какой Красота какая. Can be used to express both positive and negative evaluation. Construction in itself conveys Intensity, evaluation is expressed lexically here by the noun that fills the slot NP-Nom. Mirative type of assessment
+       This construction is used to intensify an [evaluative characteristic]Evaluation of an object, a participant or a situation on the whole. The evaluative nouns that fill the slot NP-Nom can carry either negative or positive polarity value.
 examples:
   - |
        ― Андрей Алексеевич! Господи… [кошмар]Evaluation какой… ― Что такое? - спрашиваю.
   - |
+       ― И как же вы их разбираете? ― По алфавиту. ― [Чушь]Evaluation какая! ― возмутился Трубинский. ― Кому это нужно?
+  - |
        Кира Петровна! Вы только послушайте, [счастье]Evaluation какое! Квартиру дали Зинаиде моей!
   - |
-       [Красота]Evaluation какая! ― говорил он и жадно белыми зубами вонзался в колбасную мякоть.
+       [Красота]Evaluation какая! ― говорил он и широко улыбался.
+  - |
+       Себя не жалко ― так о матерях своих подумайте. Матерям-то [горе]Evaluation какое будет!..
 morphology:
   - NP
   - Nom
@@ -32,7 +34,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - ~
 usage_label: Colloquial
@@ -41,7 +43,24 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Посмотрите, [parataxis ужас] [det какой]!]'
 common_fillers:
-  - ~
+  - ужас
+  - кошмар
+  - чушь
+  - глупости
+  - чепуха
+  - беда
+  - досада
+  - хулиган
+  - красота
+  - счастье
+  - радость
+  - молодцы
+  - был
+  - была
+  - было
+  - были
+  - будет
+  - будут
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

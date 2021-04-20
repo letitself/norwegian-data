@@ -6,20 +6,22 @@ illustration: 'Он то плакал, то угрожал.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для выражения чередования некоторых [действий]Action , которые участник совершает последовательно.
+       Конструкция обозначает чередование двух, как правило, противоположных [ситуаций]Situation во времени (пример 1) или двух [действий]Activity одного [участника]Agent (примеры 2-5). Ситуаций и действий может быть больше двух (примеры 2, 3, 5). Между ситуациями проходит нефиксированный промежуток времени, который оценивается говорящим как краткий, причем иногда интервал настолько краткий, что ситуации могут следовать друг за другом мгновенно.
   - english: |
        This construction expresses that the (animate or inanimate) participant alternates between two [activities]Action. In English, the construction can often be translated as ‘in turn’ or ‘by turns’, e.g. он то плакал, то угрожал ‘he wept and made threats in turn’.
   - norwegian: |
        Konstruksjonen uttrykker at den (animate eller inanimate) deltageren veksler mellom to aktiviteter. På norsk kan konstruksjonen oversettes med ‘snart... snart...’ eller ‘om hverandre’, f.eks. f.eks. он то плакал, то угрожал ‘snart gråt han, snart truet han’ eller ’han gråt og truet om hverandre’.
 examples:
   - |
-       Ветер то [затихал]Action, то [вырывался]Action из провала.
+       И кашель то [прекращался]Situation, то снова [нападал]Situation.
   - |
-       Его лицо то [светлело]Action, то [хмурилось]Action в отсветах костра.
+       Её ужаснула бедность, грязь и, главное, трудность ежедневной жизни, в которой [она]Agent должна была не отдыхать, как отдыхала бы с Таней на даче, а с утра до вечера то [кормить поросят]Activity, то [нянчить]Activity Фенину трехмесячную дочку, то [стирать]Activity в холодной воде грязные тряпки…
   - |
-       Лампа то [желтеет]Action, то [загорается]Action ослепительным белым светом.
+       [Он]Agent то [басит]Activity, то [срывается на визг]Activity, а то [говорит голосом мультяшного персонажа]Activity.
   - |
-       он был то веселым, то грустным. Значение чередования ситуаций.
+       Мама говорит, что он начинал какие-то странные разговоры, [она]Agent его совсем не понимала, ― то [плакала]Activity, то [принималась утешать]Activity.
+  - |
+       Сын постоянно что-то требует: то [катай его на спине]Activity, то [учи уроки]Activity, то [играй в прятки]Activity.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -32,7 +34,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Situation
+  - Action
+  - Agent
 intonation:
   - Assertive
 usage_label: ~
@@ -41,11 +45,13 @@ dependency_structure:
   - '[conj [cc то] VP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [cc то] плакал, [conj [cc то] угрожал].]'
+comment: |
+    'См. близкие конструкции 303 сегодня ХP, (а) завтра XP (Зима в Москве суровая. Сегодня здоров, завтра – болен.), 965 Noun XP, ~Noun XP (Он час работает, час отдыхает.), 1585 иногда XP, иногда XP (Иногда дождь, иногда снег.), 1586 когда XP, когда XP (Когда вовремя придёт, когда опоздает.), 1587 один (Noun) XP, другой XP (Один день строит, другой ломает.), 1588 NP-Nom на ~NP-Acc не приходится (День на день не приходится: то работы много, то сижу без дела.). При этом для конструкции 303 более характерными являются контексты однократной смены ситуации, и повторное наступление первой ситуации маловероятно, тогда как для остальных конструкций характерным является многократное повторение чередующихся ситуаций.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
-    
+    См. Рахилина Е.В., Ладыгина А.С. Русские конструкции со значением чередования ситуаций // М.В. Ляпон (ред.). Язык: поиски, факты, гипотезы. Сб. статей к 100-летию со дня рождения акад. Н. Ю. Шведовой. М.: Лексрус, 2016, 320-335.
 semantic_types:
   - type: Comparison
     subtypes:

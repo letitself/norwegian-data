@@ -3,11 +3,23 @@ record: 2260
 name: 'VP как сумасшедший/ошалелый/очумелый/ненормальный'
 UD_name: 'VP как сумасшедший/ошалелый/очумелый/ненормальный'
 illustration: 'Он бегает по офису как сумасшедший.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник производит некоторую [деятельность]Activity с высокой степенью интенсивности. Как правило, речь идет о быстром движении (бегать, носиться, скакать и др.) или произведении громких звуков (смеяться, кричать и др.). Как если бы участник вел себя так, как свойственно сумасшедшему.
 examples:
+  - |
+       Всю неделю я [работал]Activity как сумасшедший.
+  - |
+       Жена [хохотала]Activity взахлеб безостановочно, как ненормальная.
+  - |
+       Мама [кричала]Activity как сумасшедшая.
+  - |
+       Ты чего это [носилась]Activity по комнате, как очумелая?
+  - |
+       Шофер [гонит]Activity как ошалелый, не соблюдая никаких правил.
 morphology:
-  - XP
+  - VP
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -18,7 +30,7 @@ part_of_speech_of_anchor:
   - Conjunction
   - Adjective
 semantic_roles:
-  - ~
+  - Activity
 intonation:
   - ~
 usage_label: ~
@@ -30,7 +42,10 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] бегает [obl [case по] офису] [obl [case как] сумасшедший].]'
 common_fillers:
-  - ~
+  - бегать
+  - носиться
+  - орать
+  - смеяться
 references:
   - |
     
