@@ -3,7 +3,7 @@ record: 2160
 name: 'NP-Nom Cop хороший-Short/плохой-Short NP-Ins'
 UD_name: 'NP-Nom Cop  хороший-Short/плохой-Short NP-Ins'
 illustration: 'Эти места хороши своими лесами.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Конструкции с творительным экспликативным, Различие между каузальными и интепретирующими отношениями нейтрализуются в синтаксической конструкции, оформленной тво­ рительным падежом: хороший (хорош) чем? плохой (плох) чем? ; Общеоценочные прилагательные обладают синтаксической валент­ ностью на творительный подчиненного имени, реализующейся более всего тогда, когда прилагательное занимает место предиката и стоит в краткой форме: Чай хорош тем, что крепок. Эти места хороши своими лесами. ти цветы хороши своим запахом. explication of general assessment
@@ -25,13 +25,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] хороший-Short [obl NP-Ins]]'
   - '[root [nsubj NP-Nom] [cop Cop] плохой-Short [obl NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эти] места] хороши [iobj [det своими] лесами].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

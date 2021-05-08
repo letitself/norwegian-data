@@ -3,7 +3,7 @@ record: 1481
 name: 'так XP!'
 UD_name: 'так XP!'
 illustration: 'Мне так понравилось! Здесь так интересно!'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -19,12 +19,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [advmod так] XP!]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod так] понравилось!] [root [advmod Здесь] [advmod так] интересно!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

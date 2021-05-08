@@ -6,7 +6,7 @@ illustration: 'Что бы он ни говорил, я ручаюсь за не
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что несмотря на то, что какое-либо [событие]Action может произойти (или уже произошло), это не влияет на [ситуацию]Situation в целом. Не путать со "чтобы".
+       Конструкция обозначает, что несмотря на то, что какое-либо [событие]Action может произойти (или уже произошло), это не влияет на [ситуацию]Situation в целом. Не путать со «чтобы».
   - english: |
        В.Ю.Апресян 1999 Слова со значением уступки. Подкласс обманутое ожидание.
 examples:
@@ -36,18 +36,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [obj что] [aux бы] [nsubj NP-Nom] [advmod ни] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [obj Что] [aux бы] [nsubj он] [advmod ни] говорил], [nsubj я] ручаюсь [obl [case за] него].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

@@ -37,7 +37,7 @@ semantic_roles:
   - Property
   - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obj NP-Acc] звать [xcomp NP-Ins]]'
@@ -47,10 +47,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 1944 NP-Acc зовут NP-Nom (Мою дочку зовут Маша).'
 common_fillers:
-  - ~
+  - См. похожую конструкцию 1944.
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

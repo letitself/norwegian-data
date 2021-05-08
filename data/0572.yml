@@ -33,19 +33,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Theme
-  - Participant
   - Property
   - Limit
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep [amod Adj-Nom [obl [case до] NP-Gen]] NP]'
 dependency_structure_of_illustration:
   - '[dep [amod Религиозные [obl [case до] фанатизма]] родители]'
 comment: |
-    'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа. Прилагательное может стоять в полной или краткой форме. См. близкую конструкцию с прямым значение предлога "до" в 984 NP до NP-Gen (Юбка до пят).'
+    'При глаголе-связке в прошедшем и будущем времени, прилагательное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа. Прилагательное может стоять в полной или краткой форме. См. близкую конструкцию с прямым значение предлога "до" в 984 NP до NP-Gen (Юбка до пят). См. также конструкцию 112.'
 common_fillers:
   - нитки
   - невозможности
@@ -58,7 +58,7 @@ common_fillers:
   - тошноты
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

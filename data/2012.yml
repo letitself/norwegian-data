@@ -36,7 +36,7 @@ semantic_roles:
   - Action
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] NP-Loc]]'
@@ -63,7 +63,7 @@ common_fillers:
   - поезде
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
   - type: Manner

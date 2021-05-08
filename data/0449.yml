@@ -34,12 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep Noun [nmod [case из] Noun-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Сейчас] покажу [iobj вам] [obj чудо [nmod [case из] чудес]], [appos [det мой] [amod новый] фотоаппарат]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

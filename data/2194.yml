@@ -3,7 +3,7 @@ record: 2194
 name: 'что (ещё) за NP?'
 UD_name: 'что (ещё) за NP?'
 illustration: 'Что ещё за глупости он спрашивает?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство Что еще за контроль? что еще за машину он купил
@@ -23,23 +23,25 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[dep что [advmod ещё] [nsubj [case за] NP]?]'
   - '[dep что [nsubj [case за] NP]?]'
 dependency_structure_of_illustration:
   - '[root [det Что] [advmod ещё] [obl [case за] глупости] [nsubj он] спрашивает?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
-      - type: Mental attitude
+      - type: Mental Attitude
   - type: Polarity value
     subtypes:
       - type: Negative

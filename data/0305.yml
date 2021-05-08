@@ -33,16 +33,18 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - Agent
-  - State
   - Action
+  - State
+  - Agent
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [root [nsubj NP-Nom] сидеть [xcomp VP]]'
 dependency_structure_of_illustration:
   - '[root Сижу [xcomp курю].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ждать
   - смотреть

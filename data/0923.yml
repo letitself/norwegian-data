@@ -3,7 +3,7 @@ record: 923
 name: 'глубокий Noun'
 UD_name: 'глубокий N'
 illustration: 'Я глубокий старик.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [amod глубокий] Noun]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [amod глубокий] старик.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -30,18 +30,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis может [xcomp быть]], Cl]'
   - '[root [parataxis может], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Может [xcomp быть]], [nsubj он] уехал [obl [case в] Африку].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    Hansen, B. 2009. Сonstructional aspects of the rise of epistemic sentence adverbs in Russian. In: Wiener Slawistischer Almanach, Sonderband 74. P. 75-86.
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

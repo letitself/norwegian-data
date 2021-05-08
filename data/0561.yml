@@ -9,8 +9,6 @@ definitions:
        Конструкция обозначает, что участник осуществляет какое-либо [действие]Action вопреки какой-либо помехе или чему-либо желаемому.
   - english: |
        N/A
-  - norwegian: |
-       N/A
 examples:
   - |
        [Он]Agent таки [пришел]Action, хотя мы его не звали.
@@ -33,17 +31,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod таки] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod таки] добился [obj успеха] [advmod несмотря [obl [case на] [det все] сложности]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
 family:

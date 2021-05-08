@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root [det какая] [cop Cop] разница, [parataxis Cl [conj [cc или] Cl]]?]'
   - '[root [cc да] [det какая] [cop Cop] разница, [parataxis Cl [conj [cc или] Cl]]?]'
 dependency_structure_of_illustration:
   - '[root [det Какая] разница, [parataxis [amod хороший] [nsubj ты] тренер [conj [cc или] нет]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

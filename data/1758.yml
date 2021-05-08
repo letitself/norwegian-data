@@ -3,7 +3,7 @@ record: 1758
 name: '(ну/ну это) как Verb-Pfv.Inf'
 UD_name: '(ну/ну это) как V-Perf.Inf'
 illustration: 'Да ведь такой вывод напрашивается здесь однозначно! – Ну, это как посмотреть. Я на это смотрю иначе.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [discourse ну] [expl это] [advmod как] Verb-Pfv.Inf]'
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root [expl это] [advmod как] Verb-Pfv.Inf]'
 dependency_structure_of_illustration:
   - '[root [advmod Да] [advmod ведь] [nsubj [det такой] вывод] напрашивается [advmod здесь] [advmod однозначно]!] [root – [discourse Ну], [expl это] [advmod как] посмотреть.] [root [nsubj Я] [obl [case на] это] смотрю [advmod иначе].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

@@ -3,7 +3,7 @@ record: 1353
 name: 'VP битый час'
 UD_name: 'VP битый час'
 illustration: 'Мы тут битый час ждем в очереди.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [amod битый] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod тут] [obl [amod битый] час] ждем [obl [case в] очереди].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

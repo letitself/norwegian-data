@@ -3,7 +3,7 @@ record: 1960
 name: 'Это всё Cop Pred, но Cl'
 UD_name: 'Это всё Cop Praedic, но Cl'
 illustration: 'Это всё хорошо, но самое главное – безопасность.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Конструкция завершает обсуждение одной темы и переводит внимание на другую тему разговора. Конструкция обозначает, что [существование какой-либо ситуации]Theme не должно повлиять на событие, происходящие параллельно. См. 437
@@ -23,20 +23,22 @@ part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj это [det всё]] [cop Cop] Adj-Short'
   - '[conj [cc но] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это [det всё]] хорошо, [conj [cc но] [nsubj [amod самое] главное] – безопасность].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

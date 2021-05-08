@@ -3,7 +3,7 @@ record: 1396
 name: 'NP в действии'
 UD_name: 'NP в действии'
 illustration: 'Вот он, прогресс в действии!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] действии]]'
 dependency_structure_of_illustration:
   - '[root Вот [nsubj он], [appos прогресс [nmod [case в] действии]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

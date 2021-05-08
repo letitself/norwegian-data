@@ -6,18 +6,20 @@ illustration: 'До сих пор мне грустно.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция выражает временное значение для [ситуации]Situation, которая началась в прошлом и продолжается вплоть до настоящего момента.
+       Конструкция обозначает длительную [ситуацию]Situation, которая началась в прошлом и продолжается до настоящего момента. Ожидалось, что эта ситуация должна была закончиться, но она продолжается.
   - english: |
-       This construction expresses a temporal meaning of a [situation]Situation that began in the past and continues until the present moment.
-  - norwegian: |
-       N/A
+       This construction denotes a [situation]Situation that began in the past and continues until the present moment.
 examples:
   - |
-       Меня вот спрашивают: почему ты до сих пор [не женат]Situation?
+       Меня вот спрашивают: почему ты до сих пор [не женат?]Situation
   - |
-       До сих пор [неясно, был ли на самом деле этот взрыв, или же нет]Situation.
+       До сих пор [неясно, был ли на самом деле этот взрыв или нет.]Situation
   - |
-       До сих пор [я спокоен, хотя ситуация сложная.]Situation
+       До сих пор [я спокоен]Situation, хотя ситуация сложная.
+  - |
+       Как ему удаётся создавать столь живые, бессмертные творения, я до сих пор [не понимаю.]Situation
+  - |
+       Вообще-то портал до сих пор [создаётся]Situation, ежедневно всеми пользователями и нашими коллегами.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -31,19 +33,24 @@ part_of_speech_of_anchor:
   - Pronoun
   - Noun
 semantic_roles:
-  - ~
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case до] [det сих] пор] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case До] [det сих] пор] [iobj мне] грустно.]'
+comment: |
+    'См. близкую конструкцию 113.'
 common_fillers:
-  - ~
+  - помню
+  - не знают
+  - не понимаю
+  - пытаются
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

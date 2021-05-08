@@ -6,7 +6,7 @@ illustration: 'Эти громкие заявления были не без о�
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для выражения неотъемлемости и присутствия [некоторого признака]Property в [сложившейся ситуации]Theme. Конструкция используется как синонимичная предлогу "с" (с чем-либо).
+       Конструкция используется для выражения неотъемлемости и присутствия [некоторого признака]Property в [сложившейся ситуации]Theme. Конструкция используется как синонимичная предлогу «с» (с чем-либо).
   - english: |
        This construction is used to express the obligatory presence of [a feature]Property in [the current situation]Theme. This construction is used as a synonym of the preposition "с" (с чем-либо).
 examples:
@@ -32,17 +32,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[dep XP [obl [advmod не] [case без] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эти] [amod громкие] заявления] [cop были] [advmod не] [case без] оснований.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

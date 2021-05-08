@@ -3,7 +3,7 @@ record: 2245
 name: 'VP постольку-поскольку'
 UD_name: 'VP постольку-поскольку'
 illustration: 'Его интересует это постольку-поскольку.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. из списка Ани Клезович. Suggested tags: Мера проявления признака, степень качества, отрицательная оценка . Initial formula:  V_постольку-поскольку.  I found it on the website. P_постольку-поскольку – Его интересует это постольку-поскольку. Tolkovanie is there. значит не сильно. Интенсифицирует глагольные формы, а не именные: *Реальных персонажей было постольку-поскольку. Не употребляется с формами .совершенного вида: *Я отнёсся к нему постольку-поскольку. Также недопустимы формы императива: *Относись к нему с уважением, а к остальным – постольку-поскольку. Формы сослагательного наклонения ни разу не встретились в выборке: ? Учись я в его школе, я бы относился к учёбе постольку-поскольку. Мера проявления признака, степень качества, С мальчишеской точки зрения, она властью не выглядит: у мальчиков главная референтная группа ― это другие мальчики, а девочки ― постольку-поскольку.  [Игорь Кон, Ольга Балла. Человек с птичьего полета // «Знание - сила», 2010 отрицательная оценка   Конструкция модифицирует глаголы отношения, обладания (редко – глагол «быть»). Обозначает слабую и слегка пренебрежительную степень проявления отношения к чему-либо. Но это на уровне хоккейного матча: ну победили-проиграли, но к реальной жизни это [постольку-поскольку]постольку-поскольку [относится]Action. Харизматик опирается на поддержку толпы, конкретные люди его [интересуют]Action [постольку-поскольку]постольку-поскольку.
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [advmod постольку-поскольку]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] интересует [nsubj это] [advmod постольку-поскольку].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

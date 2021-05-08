@@ -35,7 +35,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [obl [case в] [amod ближайшем] будущем] VP]'
@@ -43,13 +43,15 @@ dependency_structure:
   - '[root [obl [case в] [amod недалёком] будущем] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] [amod ближайшем] будущем] [obj [det всех] нас] ждут [nsubj перемены].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - не предвидится
   - не планируется
   - ситуация может измениться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

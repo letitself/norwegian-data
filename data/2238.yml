@@ -3,7 +3,7 @@ record: 2238
 name: 'VP на глаз'
 UD_name: 'VP на глаз'
 illustration: 'Так на глаз и не определишь, сколько здесь людей.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает приблизительный расчет
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] глаз]]'
 dependency_structure_of_illustration:
   - '[root [advmod Так] [obl [case на] глаз] [advmod и] [advmod не] определишь, [ccomp [nummod:gov сколько] здесь [nsubj людей]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

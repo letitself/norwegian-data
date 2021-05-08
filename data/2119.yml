@@ -33,9 +33,10 @@ part_of_speech_of_anchor:
   - Verb
 semantic_roles:
   - Experiencer
+  - State
   - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [iobj NP-Dat] следует [csubj VP-Inf]]'
@@ -53,7 +54,7 @@ common_fillers:
   - прислушаться
 references:
   - |
-    См. степени облигаторности в статье Цейтлин С. Н. Необходимость // Теория функциональной грамматики. Темпоральность. Модальность. - Л., 1990. С.142 и след.
+    См. степени облигаторности в статье Цейтлин С. Н. Необходимость // Теория функциональной грамматики. Темпоральность. Модальность. - Л., 1990. С.142.
 semantic_types:
   - type: Causation
     subtypes:

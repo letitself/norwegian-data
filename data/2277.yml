@@ -3,7 +3,7 @@ record: 2277
 name: 'что (это) Cop за NP-Nom!'
 UD_name: 'что (это) Cop за NP-Nom!'
 illustration: 'Что за бред!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root что [expl это] [cop Cop] [nsubj [case за] NP-Nom]!]'
   - '[root что [cop Cop] [nsubj [case за] NP-Nom]!]'
 dependency_structure_of_illustration:
   - '[root Что [nsubj [case за] бред]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

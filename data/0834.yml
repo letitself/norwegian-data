@@ -35,24 +35,28 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Situation
   - Theme
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] ущерб] [iobj NP-Dat]]'
   - '[root VP [obl [case во] вред] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [advmod Зачем] заниматься [iobj спортом] [obl [case в] ущерб] [iobj здоровью]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - себе
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

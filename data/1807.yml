@@ -23,9 +23,11 @@ part_of_speech_of_anchor:
   - Noun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Participant
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'

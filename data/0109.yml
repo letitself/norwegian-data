@@ -6,18 +6,22 @@ illustration: 'Он держит мысли при себе.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется, когда участник не должен или не хочет привлекать внимание к [некоторому физическому объекту или мнению]Theme, которым он обладает.
+       Конструкция имеет прямое и переносное значение. В прямом значении конструкция обозначает, что некоторый [участник]Possessor имеет в зоне своего ближайшего доступа некоторый [предмет.]Possessed Предмет находится среди личных вещей [участника]Possessor (обычно в кармане одежды или сумке), при перемещении участник берет его с собой, чтобы при необходимости воспользоваться им (пример 1) или чтобы уберечь от других участников (пример 2). Конструкция может также обозначать, что [участник]Possessor имеет в своем ближайшем окружении нужного для него [человека]Participant, услугами, знаниями или поддержкой которого он может воспользоваться при необходимости (пример 3). В переносном значении конструкция обозначает, что участник намеренно не привлекает внимание к своим [мыслям, чувствам, мнению]Theme (примеры 4, 5).
   - english: |
        This construction means that a participant does not share something they know, feel or think with others. A closely related construction in English is ‘keep X to onself’, e.g. До официального расследования преступления полицейский предпочитает держать своё мнение при себе ‘Before a criminal event is investigated, a police offer prefers to keep his opinions to himself’.
   - norwegian: |
-       Konstruksjonen betyr at en deltager ikke deler noe de vet, føler eller tenker med andre. En nærliggende konstruksjon i norsk er ‘å holde A for seg selv’, f.eks. До официального расследования преступления полицейский предпочитает держать своё мнение при себе ‘Før kriminalsaken offisielt blir etterforsket, foretrekker en politimann å holde meningene sine for seg selv’.
+       HERE I COPIED YOUR TRANSLATION OF A SIMILAR CONSTRUCTION, PLEASE TRANSLATE ONLY THE BOLDFACED TEXT: Konstruksjonen har direkte og overført betydning. I direkte betydning betyr konstruksjonen at en gitt [deltaker]Possessor har en gitt [gjenstand]Theme nært og lett tilgjengelig. Gjenstanden befinner seg blant [deltakerens]Possessor personlige eiendeler (vanligvis i lommene på klærne eller i veska), og ved forflytninger tar deltakeren den med seg for å bruke den ved behov (eksempel 1) eller чтобы уберечь от других участников (eksempel 2). Konstruksjonen kan også bety at [deltakeren]Possessor i sine nære omgivelser har en nyttig person, hvis tjenester, kunnskaper eller lojalitet deltakeren kan benytte seg av ved behov (eksempel 3). I overført betydning betyr konstruksjonen at что участник намеренно не привлекает внимание к своим [мыслям, чувствам, мнению]Theme (eksempel 4 og 5).
 examples:
   - |
-       Поэтому Иван старался не упускать книгу из виду и до последней минуты хотел держать [ее]Theme при себе.
+       Все это Зайцев тщательно записывал в толстый блокнот, [который]Possessed [он]Possessor всегда держал при себе.
   - |
-       До официального расследования преступления полицейский предпочитает держать [свое мнение]Theme при себе.
+       [Больные]Possessor много говорят о воровстве у них вещей или денег, стараются держать при себе [все ценные вещи]Possessed, убирая их под матрас или подушку.
   - |
-       -
+       [Правители]Possessor России всегда держали при себе [советников]Participant и даже [иностранных философов]Participant.
+  - |
+       Некоторые [чувства]Theme трудно держать при себе, они так или иначе прорываются наружу.
+  - |
+       До официального расследования [полицейский]Agent предпочитает держать [свое мнение]Theme при себе.
 morphology:
   - NP
   - Nom
@@ -33,19 +37,34 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - Theme
+  - Possessor
+  - Agent
+  - Possessed
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] держать [obj NP-Acc] [obl [case при] себе]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] держит [obj мысли] [obl [case при] себе].]'
+comment: |
+    'См. близкую конструкцию 1948.'
 common_fillers:
-  - ~
+  - деньги
+  - ценные вещи
+  - документы
+  - оружие
+  - паспорт
+  - ребенок
+  - охрана
+  - мысли
+  - чувства
+  - мнение
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

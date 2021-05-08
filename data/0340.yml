@@ -33,17 +33,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [obl [case у] NP-Gen] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] нее] [obl [case у] дочки] [advmod уже] родился [nsubj сын].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также статью Леонтьева А. Л. У Х-а у У-а: Конструкции с рекурсивной группой у + GEN в русском языке // Acta Linguistica, 2007 (1, 1). C. 3-13.
 semantic_types:
   - type: Non-Standard Subject
     subtypes:

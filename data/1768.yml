@@ -3,7 +3,7 @@ record: 1768
 name: 'я/мы не хотеть-Pst и не хотеть-Prs'
 UD_name: 'я/мы не хотеть-Past и не хотеть-Pres'
 illustration: 'Мы никого не хотели и не хотим обидеть.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -16,8 +16,9 @@ syntactic_function_of_anchor:
   - Coordinator
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Reduplication, Negation, Subject
-  - Predicate
+  - Reduplication
+  - Negation
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
@@ -26,17 +27,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj PersPron-2.Nom] [obj никого] [advmod не] хотеть-Pst [conj [cc и] [advmod не] хотеть-Prs] [xcomp обидеть]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [obj никого] [advmod не] хотели [conj [cc и] [advmod не] хотим] [xcomp обидеть].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

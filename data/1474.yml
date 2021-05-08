@@ -3,7 +3,7 @@ record: 1474
 name: 'чрезвычайно/необыкновенно XP'
 UD_name: 'чрезвычайно/необыкновенно XP'
 illustration: 'Он необыкновенно горд за сына.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -19,18 +19,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod необыкновенно] XP]'
   - '[root [advmod чрезвычайно] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod необыкновенно] горд [obl [case за] сына].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

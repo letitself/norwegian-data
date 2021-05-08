@@ -3,7 +3,7 @@ record: 1090
 name: 'VP (не) к месту'
 UD_name: 'VP (не) к месту'
 illustration: 'Ты очень к месту это сказала.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -24,13 +24,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case к] месту]]'
   - '[root VP [obl [advmod не] [case к] месту]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod очень] [obl [case к] месту] [obj это] сказала.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

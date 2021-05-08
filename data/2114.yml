@@ -1,7 +1,7 @@
 ---
 record: 2114
-name: 'у NP-Gen Aux PtcpPass/Cop Pred'
-UD_name: 'у NP-Gen Aux PtcpPass/Cop Praedic'
+name: 'у NP-Gen NP-Nom Aux PtcpPass/Cop Pred'
+UD_name: 'у NP-Gen NP-Nom Aux PtcpPass/Cop Praedic'
 illustration: 'У меня всё сделано.'
 cefr_level: B1
 definitions:
@@ -25,6 +25,7 @@ morphology:
   - PtcpPass
   - Cop
   - Pred
+  - Nom
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -34,16 +35,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Agent
   - Action
+  - Property
+  - Agent
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [aux Aux] PtcpPass]'
   - '[root [obl [case у] NP-Gen] [cop Cop] Pred]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [nsubj:pass всё] сделано.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - меня
   - него
@@ -54,7 +58,7 @@ common_fillers:
   - подготовлено
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-Standard Subject
     subtypes:

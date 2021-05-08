@@ -34,11 +34,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - Situation
   - Action
   - Agent
+  - Situation
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root Cl'
@@ -60,7 +60,7 @@ common_fillers:
   - ему
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); См. Цейтлин, С.Н. Необходимость. // Теория функциональной грамматики. Темпоральность. Модальность. АН СССР. Институт языкознания. Л., 1990. С 142-156; Шведова, Н. Ю. О долженствовательном наклонении // Синтаксис и норма / Под ред. Г. Ю. Золотовой. М.: Наука, 1974.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

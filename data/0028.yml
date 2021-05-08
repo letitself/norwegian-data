@@ -35,22 +35,24 @@ part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
   - Agent
-  - Activity
   - Event
+  - Activity
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] по-Verb - [conj по-Verb] [conj [cc и] VP]]'
 dependency_structure_of_illustration:
   - '[root Поспит - [conj поспит] [conj [cc и] проснётся].]'
+comment: |
+    'См. похожую конструкцию 598.'
 common_fillers:
   - поспит
   - подумает
   - покричит
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

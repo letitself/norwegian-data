@@ -34,10 +34,11 @@ part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
   - Action
-  - Situation
+  - Cause
   - Event
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [advmod ни] [case с] того] [conj [advmod ни] [case с] сего] Cl]'
@@ -56,7 +57,7 @@ common_fillers:
   - начал
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
 family:

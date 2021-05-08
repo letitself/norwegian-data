@@ -19,7 +19,10 @@ examples:
   - |
        [Все авеню и стриты]Set казались ему на одно лицо. Но номера у них были разные: в Нью-Йорке потеряться трудно.
 morphology:
-  - '[Все авеню и стриты]Set казались ему на одно лицо. Но номера у них были разные: в Нью-Йорке потеряться трудно.'
+  - NP
+  - Nom
+  - Pl
+  - Cop
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -34,12 +37,14 @@ semantic_roles:
   - Parameter
   - Set
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom.Pl] [cop Cop] [case на] [det одно] лицо]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Все] [det эти] врачи] [case на] [det одно] лицо.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - азиаты
   - европейцы
@@ -47,7 +52,7 @@ common_fillers:
   - младенцы
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -35,20 +35,22 @@ part_of_speech_of_anchor:
   - Conjunction
   - Verb
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root [advcl [mark если] позволить-Fut.2]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] позволите], [nsubj я] [obl [case к] вам] зайду [obl [case в] конце [nmod дня]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Request
   - type: Root modality

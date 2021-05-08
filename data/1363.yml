@@ -3,7 +3,7 @@ record: 1363
 name: 'VP в бытность PronPoss в/на NP-Loc VP'
 UD_name: 'VP в бытность PronPoss в/на NP-Loc VP'
 illustration: 'В бытность мою на Сахалине при Александровской тюрьме числилось более двух тысяч заключенных.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [obl [case в] бытность [det PronPoss] [obl [case в] NP-Loc]]]'
   - '[root VP [obl [case в] бытность [det PronPoss] [obl [case на] NP-Loc]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] бытность [det мою] [obl [case на] Сахалине]] [obl [case при] [amod Александровской] тюрьме] числилось [nsubj [nummod [advmod более] [nummod двух] тысяч] заключенных].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

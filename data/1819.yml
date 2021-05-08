@@ -37,15 +37,18 @@ part_of_speech_of_anchor:
   - Adverb
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod ещё] чего, [parataxis VP-Fut [nsubj NP-Nom]]!]'
   - '[root [advmod ещё] чего, [parataxis VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root [advmod Ещё] чего, [parataxis [aux будет] [nsubj она] готовить [obj [det его] [amod любимые] блюда]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - буду
   - будет

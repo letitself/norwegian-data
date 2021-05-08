@@ -3,7 +3,7 @@ record: 796
 name: 'NP-Nom Cop в порядке вещей'
 UD_name: 'NP-Nom Cop в порядке вещей'
 illustration: 'Такое поведение сейчас в порядке вещей.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] порядке [nmod вещей]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Такое] поведение] [advmod сейчас] [case в] порядке [nmod вещей].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

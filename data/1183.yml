@@ -33,18 +33,20 @@ semantic_roles:
   - Comparee
   - Standard
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[dep NP [nmod [case сродни] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Коллектив [nmod телекомпании]] [cop был] [case сродни] [amod театральной] труппе.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - чувства
   - ощущения
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

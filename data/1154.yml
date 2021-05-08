@@ -3,7 +3,7 @@ record: 1154
 name: 'каков (у NP-Gen) Cop NP-Nom?'
 UD_name: 'каков (у NP-Gen) Cop NP-Nom?'
 illustration: 'Ну что, каков у меня сын?'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -31,6 +31,8 @@ dependency_structure:
   - '[root каков [cop Cop] [nsubj NP-Nom]?]'
 dependency_structure_of_illustration:
   - '[root [parataxis [discourse Ну] что], каков [obl [case у] меня] [nsubj сын]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

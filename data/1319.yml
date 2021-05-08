@@ -3,7 +3,7 @@ record: 1319
 name: 'VP в расчёте на NP-Acc'
 UD_name: 'VP в расчёте на NP-Acc'
 illustration: 'Он позвонил в расчёте на то, что поговорит с вами.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] расчёте [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] позвонил [obl [case в] расчёте [nmod [case на] то, [acl [mark что] поговорит [obl [case с] вами]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

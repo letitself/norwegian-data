@@ -3,7 +3,7 @@ record: 1299
 name: 'VP (не) по делу'
 UD_name: 'VP (не) по делу'
 illustration: 'Он всё говорил по делу.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -24,13 +24,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case по] делу]]'
   - '[root VP [obl [advmod не] [case по] делу]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obj всё] говорил [obl [case по] делу].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

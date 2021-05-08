@@ -3,7 +3,7 @@ record: 1568
 name: 'VP на всех парусах/парах'
 UD_name: 'VP на всех парусах/парах'
 illustration: 'После школы ученики на всех парусах мчали на футбол.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] [det всех] парусах]]'
   - '[root VP [obl [case на] [det всех] парах]]'
 dependency_structure_of_illustration:
   - '[root [obl [case После] школы] [nsubj ученики] [obl [case на] [det всех] парусах] мчали [obl [case на] футбол].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

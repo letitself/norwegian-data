@@ -6,7 +6,7 @@ illustration: 'Его ругают за дело.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает [агрессивное физическое или словесное действие]Action, в процессе которого участник получает справедливое по оценке говорящего наказание, поскольку оно вызвано плохим поступком или поведением этого участника. Слово "дело" всегда стоит только в форме винительного падежа единственного числа.
+       Конструкция обозначает [агрессивное физическое или словесное действие]Action, в процессе которого участник получает справедливое по оценке говорящего наказание, поскольку оно вызвано плохим поступком или поведением этого участника. Слово «дело» всегда стоит только в форме винительного падежа единственного числа.
   - norwegian: |
        Konstruksjonen betegner [en agressiv fysisk eller verbal handling]Action som påfører deltakeren en straff taleren vurderer som rettferdig, ettersom handlingen ble utløst av at deltakeren gjorde noe galt eller oppførte seg dårlig. Ordet "дело" står alltid i nominativ entall.
 examples:
@@ -34,12 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] дело]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] ругают [obl [case за] дело].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - наказать
   - бить
@@ -51,7 +53,7 @@ common_fillers:
   - посадить
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

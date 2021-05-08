@@ -6,7 +6,7 @@ illustration: 'Шесть в квадрате равно тридцать шес
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция формулирует математическую операцию возведения [числа]Quantity во вторую степень (квадрат) или в третью степень (куб) и называет [результат]Result. Слот VP заполняется глагольными формами "равняется" и "будет". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 2, 3, 4, 5). Со словом "будет" или если оно опущено, результат всегда выражен формой именительного падежа (пример 1).
+       Конструкция формулирует математическую операцию возведения [числа]Quantity во вторую степень (квадрат) или в третью степень (куб) и называет [результат]Result. Слот VP заполняется глагольными формами «равняется» и «будет». Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова «равно» или «равняется» (примеры 2, 3, 4, 5). Со словом «будет» или если оно опущено, результат всегда выражен формой именительного падежа (пример 1).
   - norwegian: |
        Konstruksjonen formulerer regneoperasjonen å opphøye [et tall]Quantity i annen potens (å kvadrere) eller i tredje potens (å kubere), og angir [svaret]Result. Sloten VP fylles av verbformene 'равняется' og 'будет'. Ved bruk av ordene 'равно' eller 'равняется' kan svaret stå i nominativ eller dativ (eksempel 2, 3, 4 og 5). Sammen med ordet 'будет', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 1).
 examples:
@@ -36,10 +36,10 @@ part_of_speech_of_anchor:
   - Noun
   - Adjective
 semantic_roles:
-  - Quantity
   - Result
+  - Quantity
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NumCrd-Nom [nmod [case в] квадрате]] – равно [xcomp NumCrd-Nom]]'
@@ -50,12 +50,14 @@ dependency_structure:
   - '[root [nsubj NumCrd-Nom [nmod [case в] кубе]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Шесть [nmod [case в] квадрате]] равно [xcomp [nummod:gov тридцать] шесть].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - равняется
   - будет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Calculation
     subtypes:

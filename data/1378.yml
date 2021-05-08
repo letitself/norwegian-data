@@ -3,7 +3,7 @@ record: 1378
 name: 'VP NP-Acc с руками (и ногами)'
 UD_name: 'VP NP-Acc с руками (и ногами)'
 illustration: 'В секцию по плаванию меня брали с руками и ногами – я показывала неплохие результаты.'
-cefr_level: 
+cefr_level: C2
 definitions:
   - russian: |
        охотно взять, отхватить себе, взять куда. Importance/Worth, Usefulness
@@ -25,13 +25,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obj NP-Acc] [obl [case с] руками [conj [cc и] ногами]]]'
   - '[root VP [obj NP-Acc] [obl [case с] руками]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] секцию [nmod [case по] плаванию]] [obj меня] брали [obl [case с] руками [conj [cc и] ногами]] – [parataxis [nsubj я] показывала [obj [amod неплохие] результаты]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

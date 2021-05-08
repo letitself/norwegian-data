@@ -3,7 +3,7 @@ record: 1573
 name: 'VP/PtcpPass-Short на все сто!'
 UD_name: 'VP/PtcpPass-Short на все сто!'
 illustration: 'Я уверен на все сто!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] [det все] сто]]'
   - '[root PtcpPass-Short [obl [case на] [det все] сто]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] уверен [obl [case на] [det все] сто]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

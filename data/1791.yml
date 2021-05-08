@@ -3,7 +3,7 @@ record: 1791
 name: 'дико XP'
 UD_name: 'дико XP'
 illustration: 'Она упрямая, но мне в ней это дико нравится.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod дико] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] упрямая, [conj [cc но] [iobj мне] [obl [case в] ней] [nsubj это] [advmod дико] нравится].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Zhukova, V. Title. MA thesis.
+    See also Zhukova, Valentina. 2020. Intensifying constructions in Russian based on data from Russian Constructicon. Moscow: National Research University Higher School of Economics, MA Thesis.
 semantic_types:
   - type: Degree of intensity
     subtypes:

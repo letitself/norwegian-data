@@ -6,7 +6,7 @@ illustration: 'Мне некого пригласить.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает отсутствие человека, необходимого [участнику]Experiencer для осуществления некоторого [действия]Action. Ударение в "некого" стоит на не-.
+       Конструкция обозначает отсутствие человека, необходимого [участнику]Experiencer для осуществления некоторого [действия]Action. Ударение в «некого» стоит на не-.
 examples:
   - |
        Больше никто не приезжал. [Кипренскому]Experiencer было некого [рисовать.]Action Тогда он начал писать портреты крестьян и пейзажи на окраинах Твери и берегах Волги.
@@ -37,13 +37,15 @@ semantic_roles:
   - Experiencer
   - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] некого [csubj VP-Inf]]'
   - '[root [cop Cop] некого [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] некого [csubj пригласить].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - спросить
   - винить
@@ -51,7 +53,7 @@ common_fillers:
   - подозревать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

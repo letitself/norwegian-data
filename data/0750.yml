@@ -36,13 +36,13 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Theme
+  - Landmark
   - Situation
   - Distance
-  - Landmark
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [case в] [nummod NumCrd-Loc] кварталах [nmod [case от] NP-Gen]]'
@@ -51,13 +51,15 @@ dependency_structure:
   - '[root Cl [case в] [nummod NumCrd-Loc] домах]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] магазин] [cop был] [case в] [nummod трёх] кварталах [nmod [case от] почты].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - двух
   - трех
   - нескольких
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

@@ -39,7 +39,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj [advmod ни] капли [nmod NP-Gen]] нет]'
@@ -60,7 +60,7 @@ common_fillers:
   - алкоголь
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

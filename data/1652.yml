@@ -34,7 +34,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod не] сегодня [conj завтра]] VP]'
@@ -49,7 +49,7 @@ common_fillers:
   - собираться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

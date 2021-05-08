@@ -34,11 +34,12 @@ part_of_speech_of_anchor:
   - Adjective
   - Noun
 semantic_roles:
-  - Parameter
+  - Set
   - Comparee
+  - Parameter
   - Standard
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom [nmod [case с] NP-Ins]] [cop Cop] [det одно] лицо]'
@@ -60,7 +61,7 @@ common_fillers:
   - дочкой
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

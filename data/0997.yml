@@ -3,9 +3,21 @@ record: 997
 name: 'другой-Gen такой-Gen (NP-Gen) не VP'
 UD_name: 'другой-Gen такой-Gen (NP-Gen) не VP'
 illustration: 'Другого такого не найдешь.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant является единственным в своем роде, так что тождественного ему объекта или участника не существует. Поэтому [поиск]Action такого объекта или участника не даст результата. Ограничение на глагол в слоте VP: не найти, не сыскать, не найдешь, не сыщешь, не будет, не представится, не знаю.
 examples:
+  - |
+       Такая [красавица]Participant была! Другой такой не [сыщешь…]Action
+  - |
+       И дерзкий он, и с приятелями своими дерется, и вино требует, но другого такого не [найти]Action.
+  - |
+       Вот она, [решающая минута]Theme, другой такой не [представится.]Action
+  - |
+       У тебя может ничего не получиться, но пробовать надо, другой такой [возможности]Theme не [будет.]Action
+  - |
+       Я другой такой [страны]Theme не [знаю]Action, где так счастлив русский человек.
 morphology:
   - Gen
   - NP
@@ -21,20 +33,31 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obj [det другой-Gen] такой-Gen] [advmod не] VP]'
   - '[root [obj [det [det другой-Gen] такой-Gen] NP-Gen] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [obj [det Другого] такого] [advmod не] найдешь.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - найти
+  - сыскать
+  - отыскать
+  - найдешь
+  - сыщешь
+  - представиться
+  - знать
+  - быть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

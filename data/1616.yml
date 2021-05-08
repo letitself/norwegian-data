@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action совершается раньше, чем необходимо или ожидается. У участника есть опасения, что осуществление действия в более позднее время может быть сложнее или иметь негативные последствия.
+  - english: |
+       примеры подобраны Катя Волошина
 examples:
 morphology:
   - VP
@@ -19,9 +21,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [advmod заранее]]'
@@ -29,11 +31,13 @@ dependency_structure:
   - '[root VP [advmod заблаговременно]]'
 dependency_structure_of_illustration:
   - '[root [obj [det Этот] вопрос] надо [csubj решить [advmod заранее]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Taxis
     subtypes:

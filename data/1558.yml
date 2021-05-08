@@ -3,7 +3,7 @@ record: 1558
 name: 'NP-Nom обойти/обогнать/опередить на NumCrd-Acc NP-Gen'
 UD_name: 'NP-Nom обойти/обогнать/опередить на NumCrd-Acc NP-Gen'
 illustration: 'Победитель обогнал конкурента на две секунды.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -25,7 +25,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] обойти [obj NP-Acc] [obl [case на] [nummod NumCrd-Acc] NP]]'
@@ -33,11 +33,13 @@ dependency_structure:
   - '[root [nsubj NP-Nom] опередить [obj NP-Acc] [obl [case на] [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Победитель] обогнал [obj конкурента] [obl [case на] [nummod:gov две] секунды].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

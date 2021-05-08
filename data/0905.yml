@@ -32,10 +32,10 @@ part_of_speech_of_anchor:
   - Particle
   - Pronoun
 semantic_roles:
-  - Participant
   - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [det одно [conj [cc и] то [advmod же]]] NP]'
@@ -55,7 +55,7 @@ common_fillers:
   - ошибки
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

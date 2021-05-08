@@ -33,23 +33,25 @@ part_of_speech_of_anchor:
   - Noun
   - Preposition
 semantic_roles:
-  - Theme
   - Property
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod размером [nmod [case с] NP-Acc]]]'
   - '[dep NP [nmod величиной [nmod [case с] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Собака] [cop была] размером [nmod [case с] лошадь].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - килограмм
   - грамм
   - тонна
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

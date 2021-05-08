@@ -34,11 +34,13 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
+  - Theme
   - Action
   - Maleficiary
+  - Acction
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] пику [nmod NP-Dat]]]'
@@ -47,10 +49,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 1787 VP наперекор NP-Dat (Наперекор многим коллегам он верит в телепатию).'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Addressee
     subtypes:

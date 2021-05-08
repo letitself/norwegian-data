@@ -6,7 +6,7 @@ illustration: 'Книга объёмом в сто страниц'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает [объём]Quantity [объекта]Theme, измеренный в [стандартных единицах измерения объема, таких как кубические метры, кубические сантиметры, литры, галлоны]Measure. Если использовано числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе. Конструкция может употребляться в переносном значении, когда объем измеряется другими единицами (количество денежных средств, размер компьютерной памяти, страницы книги и др.)
+       Конструкция обозначает [объём]Quantity [объекта]Theme, измеренный в [стандартных единицах измерения объема, таких как кубические метры, кубические сантиметры, литры, галлоны]Measure. Если использовано числительное «один» или «одна», то [единица измеренения]Measure [объекта]Theme стоит в аккузативе. Конструкция может употребляться в переносном значении, когда объем измеряется другими единицами (количество денежных средств, размер компьютерной памяти, страницы книги и др.)
   - norwegian: |
        Konstruksjonen betegner [et objekts]Theme [volum]Quantity, målt i [standardiserte målenheter for volum, f.eks. kubikkmeter, kubikkcentimenter, liter eller galloner]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ. Konstruksjonen kan brukes i overført betydning når mengden måles i andre målenheter (pengebeløp, dataminne, boksider m.m.).
 examples:
@@ -36,10 +36,10 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Theme
-  - Quantity
   - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod объёмом [nmod [case в] [nummod NumCrd-Acc] NP]]]'
@@ -57,7 +57,7 @@ common_fillers:
   - знак
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

@@ -6,7 +6,7 @@ illustration: 'Кто его знает, почему она так поступ
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что по мнению говорящего, [никому]Cognizer не известно об [обстоятельствах какой-либо ситуации]Content. Конструкция буквально сообщает, что эта информация известна только некоторому  [невероятному или недоступному участнику]Cognizer. Если [участник ситуации]Topic, описанной в клаузе, имеет женский род и/или стоит в форме множественного числа, то это можно отражать (заполнитель "её" или "их" в слоте PronPers-3) или не отражать (заполнитель "его" в слоте PronPers-3) в первой части конструкции. Ограничение на имя существительное: бог, чёрт, шут, пёс, бес, леший, дьявол, господь.
+       Конструкция обозначает, что по мнению говорящего, [никому]Cognizer не известно об [обстоятельствах какой-либо ситуации]Content. Конструкция буквально сообщает, что эта информация известна только некоторому  [невероятному или недоступному участнику]Cognizer. Если [участник ситуации]Topic, описанной в клаузе, имеет женский род и/или стоит в форме множественного числа, то это можно отражать (заполнитель «её» или «их» в слоте PronPers-3) или не отражать (заполнитель «его» в слоте PronPers-3) в первой части конструкции. Ограничение на имя существительное: бог, чёрт, шут, пёс, бес, леший, дьявол, господь.
   - norwegian: |
        Konstruksjonen anvendes for å uttrykke at taleren er i villrede eller ikke forstår den logiske forbindelsen mellom samtalens tema og det sist anførte [argumentet]Theme.
 examples:
@@ -29,8 +29,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
@@ -41,7 +40,7 @@ semantic_roles:
   - Cognizer
   - Topic
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj Noun-Nom] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
@@ -54,6 +53,8 @@ dependency_structure:
   - '[root [nsubj кто] [discourse же] знает, [ccomp Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] [obj его] знает, [advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
+comment: |
+    'Не путать с другими конструкциями, которые содержат глагол "знать": 335, 359, 1061, 2300.'
 common_fillers:
   - бог
   - чёрт
@@ -65,7 +66,7 @@ common_fillers:
   - дьявол
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

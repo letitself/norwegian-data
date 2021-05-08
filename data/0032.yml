@@ -6,7 +6,7 @@ illustration: 'Без малого двадцать лет'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает неточное количество [объектов]Theme, которое немного меньше, чем ближайший [крупный числовой ориентир]Landmark. Ориентир как правило выражен целыми и и часто круглыми числами (числительные "десять", "сорок"; существительные "десяток", "сотня", "тысяча"). Объекты могут быть конкретными (люди, автомобили, рубли) или абстрактными (годы).
+       Конструкция обозначает неточное количество [объектов]Theme, которое немного меньше, чем ближайший [крупный числовой ориентир]Landmark. Ориентир как правило выражен целыми и и часто круглыми числами (числительные «десять», «сорок»; существительные «десяток», «сотня», «тысяча»). Объекты могут быть конкретными (люди, автомобили, рубли) или абстрактными (годы).
   - norwegian: |
        Konstruksjonen betegner [objekter]Theme av et upresist antall som er litt mindre enn nærmeste [store orienteringstall]Landmark. Orienteringstallet er som regel et helt og ofte rundt tall (tallordene 'десять', 'сорок' eller substantivene 'десяток', 'сотня', 'тысяча'). Objektene kan være konkrete (mennesker, biler, rubler) eller abstrakte (år).
 examples:
@@ -37,12 +37,14 @@ semantic_roles:
   - Theme
   - Landmark
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[obl [obl [case без] малого [nummod NumCrd]] NP-Gen]'
 dependency_structure_of_illustration:
   - '[root [obl [case Без] малого [nummod:gov двадцать]] лет]'
+comment: |
+    'См. похожую конструкцию 33.'
 common_fillers:
   - десять
   - десяток
@@ -51,12 +53,14 @@ common_fillers:
   - миллион
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:
       - type: Approximate
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
 family:
   - |
     "A family of MEASURE constructions that express approximate amounts"

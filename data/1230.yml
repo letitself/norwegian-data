@@ -3,7 +3,7 @@ record: 1230
 name: 'VP ровно в NumCrd час-Gen'
 UD_name: 'VP ровно в NumCrd час-Gen'
 illustration: 'Приходи ровно в пять часов.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [advmod ровно] [case в] [nummod NumCrd] час]]'
 dependency_structure_of_illustration:
   - '[root Приходи [obl [advmod ровно] [case в] [nummod:gov пять] часов].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

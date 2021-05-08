@@ -34,13 +34,13 @@ part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
   - Theme
-  - Participant
   - Property
-  - Quantity
-  - Situation
   - Action
+  - Situation
+  - Quantity
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod далеко] не] Adj]'

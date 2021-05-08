@@ -13,8 +13,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate, Verb Pattern
+  - Subject and Predicate
+  - Verb Pattern
 part_of_speech_of_anchor:
   - Pronoun
   - Particle
@@ -23,18 +23,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj кто] [aux бы] мог [xcomp подумать'
   - '[ccomp [mark что] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] [aux бы] мог [xcomp подумать, [ccomp [mark что] [nsubj мы] [obl [case с] вами] [advmod тут] встретимся]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
 family:

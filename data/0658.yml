@@ -26,12 +26,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [csubj VP-Inf] – [advmod не] [case для] NP-Gen]'
 dependency_structure_of_illustration:
   - '[root [csubj Курить] – [advmod не] [case для] Ивана.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

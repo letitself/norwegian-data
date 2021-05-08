@@ -43,6 +43,8 @@ dependency_structure:
   - '[root [obl чем] [nsubj NP-Nom] [advmod не] NP-Nom?]'
 dependency_structure_of_illustration:
   - '[root [obl Чем] [nsubj картошка] [advmod не] еда?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

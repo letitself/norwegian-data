@@ -3,10 +3,10 @@ record: 1170
 name: 'XP так ~XP!'
 UD_name: 'XP так XP!'
 illustration: 'Это был праздник так праздник!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Nominal pattern with reduplication - with the meaning 'best example' XP может быть заполнен NP, VP (гулять так гулять!)
+       Nominal pattern with reduplication - with the meaning «best example» XP может быть заполнен NP, VP (гулять так гулять!)
 examples:
 morphology:
   - XP
@@ -27,6 +27,8 @@ dependency_structure:
   - '[root XP [nmod [mark так] XP]!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [cop был] праздник [nmod [mark так] праздник]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

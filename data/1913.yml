@@ -34,17 +34,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
+  - Action
   - Quantifier
   - Theme
   - Participant
-  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obj NP-Acc] [obl NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root Продавать [obj яйца] [obl десятками].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - десяток
   - сотня
@@ -52,7 +54,7 @@ common_fillers:
   - дюжина
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

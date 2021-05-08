@@ -3,9 +3,21 @@ record: 806
 name: 'VP в рамки NP-Gen'
 UD_name: 'VP в рамки NP-Gen'
 illustration: 'Такая решительность идеально укладывалась в рамки отношений с крупнейшими спортивными федерациями.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant характеризуется через [область, ограниченную физическим или абстрактным пределом]Limit. Как если бы объект или участник был помещен в рамку, как картина или фотография.
 examples:
+  - |
+       Если [клиент]Participant справедливый и понимает, что не вписался в рамки [стандартного заказа]Limit и необходима индивидуальная доработка, он вносит минимальную доплату, в пределах 1500 рублей.
+  - |
+       [Генералов]Participant тоже предпочел вернуться в рамки [приличия]Limit.
+  - |
+       Уместиться в рамки [узкой специальности]Limit у [Кобрина]Participant все-таки не получилось.
+  - |
+       Вины архитекторов в этом не было ― [они]Participant были "загнаны" в рамки [типовых проектов]Limit, которые утверждались "наверху" людьми, далёкими от архитектуры.
+  - |
+       Гиббон сначала описал собственно Рим до его падения в 476 году, а затем включил в рамки [своего исследования]Limit и [Византию]Theme.
 morphology:
   - VP
   - NP
@@ -20,23 +32,31 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Limit
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] рамки NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Такая] решительность] [advmod идеально] укладывалась [obl [case в] рамки [nmod отношений [nmod [case с] [amod крупнейшими] [amod спортивными] федерациями]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - уместиться
+  - вместиться
+  - укладываться
+  - втиснуться
+  - вписываться
 references:
   - |
-    
+    No references
 semantic_types:
-  - type: Comparison
+  - type: Salient property
     subtypes:
-      - type: Similarity
+      - type: Domain
 family:
   - |
     ""

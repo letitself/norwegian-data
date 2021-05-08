@@ -33,15 +33,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Location
   - Action
+  - Location
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [dep [case на] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root Ходить [obl [case на] носках]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - колени
   - носки
@@ -49,7 +51,7 @@ common_fillers:
   - локти
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -3,7 +3,7 @@ record: 2014
 name: '(Да) куда уж (тут) Cop NP-Dat XP'
 UD_name: '(Да) куда уж (тут) Cop NP-Dat XP'
 illustration: 'Куда уж мне тебя понять, простой сибирской девушке!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -24,7 +24,8 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod куда] [advmod уж] [cop Cop] [iobj NP-Dat] XP]'
@@ -33,11 +34,13 @@ dependency_structure:
   - '[root [cc да] [advmod куда] [advmod уж] [advmod тут] [cop Cop] [iobj NP-Dat] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Куда] [advmod уж] [iobj мне] [obj тебя] понять, [appos [amod простой] [amod сибирской] девушке]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

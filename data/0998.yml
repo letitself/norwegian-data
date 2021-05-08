@@ -3,7 +3,7 @@ record: 998
 name: 'думать-Imp что хотеть-Prs, Cl'
 UD_name: 'думать-Imper что хотеть-Pres, Cl'
 illustration: 'Думай что хочешь, я всё равно женюсь.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. пусть думает что хочет
@@ -18,26 +18,27 @@ syntactic_function_of_anchor:
   - Object
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Verb
   - Conjunction
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root думать-Imp [ccomp [obj что] хотеть-Prs]'
   - '[parataxis Cl]'
 dependency_structure_of_illustration:
   - '[root Думай [ccomp [obj что] хочешь], [parataxis [nsubj я] [advmod всё [fixed равно]] женюсь].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

@@ -13,8 +13,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
@@ -22,25 +21,28 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod где] [expl это] видано'
   - '[ccomp [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Где] [expl это] видано, [ccomp [mark чтобы] [nsubj собака] [obj мороженое] ела]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
   - type: Attitude
     subtypes:
-      - type: Mental attitude
+      - type: Mental Attitude
   - type: Polarity value
     subtypes:
       - type: Negative

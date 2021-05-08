@@ -1,49 +1,57 @@
 ---
 record: 143
-name: 'как будто XP/Cl'
-UD_name: 'как будто XP/Cl'
+name: '(XP/Cl) как будто XP/Cl'
+UD_name: '(XP/Cl) как будто XP/Cl'
 illustration: 'Как будто появилась молния.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется, когда некоторая ситуация из контекста напоминает [другую ситуацию]Situation, которая невозможна в данный момент. Говорящий выражает предположение или недоверие. Конструкция также используется для сравнения реальной ситуации с [вымышленной]Situation.
+       Конструкция выражает сравнение и подчеркивает сходство двух ситуаций: некоторая [реальная ситуация]Comparee уподобляется другой, [гипотетической ситуации]Standard. Иногда описание реальной ситуации может отсутствовать, так как оно понятно из контекста (примеры 2, 4, 5). Слот XP не имеет ограничений на заполнение: он может быть заполнен именной (пример 3), предложной (пример 4) или глагольной группой (пример 2), прилагательным, наречием (пример 5), причастным или деепричастным оборотом.
 examples:
   - |
-       В таких зданиях свет льётся со всех сторон ― как будто [нет ни стен, ни потолка]Situation.
+       [Она громко закричала]Comparee ― как будто [Иван был глухим]Standard.
   - |
-       В каждом доме есть магазинчики или рестораны, а сами они как будто [сошли с ярких миниатюр]Situation.
+       Она как будто [стала другим человеком]Standard.
   - |
-       Нам [рассказывают совершенно другую историю, хотя и с теми же самыми героями]Situation.
+       [Сегодня такой был дождина и холод собачий]Comparee, как будто [осень]Standard.
   - |
-       -
+       Я живу как будто [из любопытства]Standard ― всегда помня о том, что наверняка в моей жизни будет ещё что-нибудь интересненькое.
   - |
-       -
+       Они живут как будто [счастливо]Standard.
 morphology:
   - XP
   - Cl
+  - VP
+  - NP
+  - PP
+  - Adj
+  - Adv
 syntactic_type_of_construction:
-  - Clause and Modifier Construction
+  - Connection Construction
 syntactic_function_of_anchor:
-  - Modifier
+  - Subordinator
 syntactic_structure_of_anchor:
   - Multiword Conjunction
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod Как [fixed будто]] Cl]'
   - '[root [advmod Как [fixed будто]] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Как [fixed будто]] появилась [nsubj молния].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    См. Летучий А. Б. Сравнительные конструкции // В. А. Плунгян, Н. М. Стойнова (ред.). Материалы к корпусной грамматике русского языка. Вып. 2: Синтаксические конструкции и грамматические категории. Москва: ИРЯ РАН, 2017. С. 132-204.
 semantic_types:
   - type: Comparison
     subtypes:

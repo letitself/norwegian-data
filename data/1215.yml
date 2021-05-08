@@ -40,18 +40,20 @@ semantic_roles:
   - Action
   - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] можно [csubj VP-Inf]]'
   - '[root [cop Cop] можно [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Можно [iobj мне] [csubj открыть [obj окно]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

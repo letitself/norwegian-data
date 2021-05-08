@@ -3,7 +3,7 @@ record: 1574
 name: 'NP-Nom Cop на грани NP-Gen'
 UD_name: 'NP-Nom Cop на грани NP-Gen'
 illustration: 'Она на грани нервного срыва.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case на] грани [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [case на] грани [nmod [amod нервного] срыва].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

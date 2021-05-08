@@ -3,7 +3,7 @@ record: 1231
 name: 'VP точно в NP-Acc'
 UD_name: 'VP точно в NP-Acc'
 illustration: 'Его приняли точно в назначенное время.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [advmod точно] [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] приняли [obl [advmod точно] [case в] [amod назначенное] время].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

@@ -34,15 +34,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - Participant
+  - Recipient
   - Theme
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root будет [iobj PronPers-Dat] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root Будет [iobj тебе] [nsubj счастье], [conj [nsubj ты] [advmod только] жди].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - счастье
   - удача
@@ -51,7 +53,7 @@ common_fillers:
   - рыбалка
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

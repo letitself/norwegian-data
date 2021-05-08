@@ -29,21 +29,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - Standard
   - Comparee
+  - Standard
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl'
   - '[obl [case вместо] того [acl [mark чтобы] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] сидит [flat играет], [obl [case вместо] того [acl [mark чтобы] учиться]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -3,7 +3,7 @@ record: 692
 name: 'Cl, а NP-Nom как думать-Prs?'
 UD_name: 'Cl, а NP-Nom как думать-Pres?'
 illustration: 'Мне кажется, ему не идёт этот костюм, а ты как думаешь?'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -32,11 +32,13 @@ dependency_structure:
   - '[conj [cc а] [nsubj NP-Nom] [advmod как] думать-Prs]?]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] кажется, [csubj [iobj ему] [advmod не] идёт [nsubj [det этот] костюм]], [conj [cc а] [nsubj ты] [advmod как] думаешь]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

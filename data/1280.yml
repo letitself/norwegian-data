@@ -35,7 +35,7 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root Cl'
@@ -45,10 +45,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 726 Cl благодаря тому, что Cl (Мы успели в аэропорт благодаря тому, что выехали заранее) и 1290 VP благодаря NP-Dat (Благодаря труду человек выделился из природы)'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

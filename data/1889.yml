@@ -3,7 +3,7 @@ record: 1889
 name: 'Cl, причём/(и) притом Cl'
 UD_name: 'Cl, причём/(и) притом Cl'
 illustration: 'Продавец нажал на кнопку, причём грабитель этого не заметил.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -19,7 +19,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl, [conj [cc причём] Cl]]'
@@ -27,11 +27,13 @@ dependency_structure:
   - '[root Cl, [conj [cc и] [cc притом] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Продавец] нажал [obl [case на] кнопку], [conj [cc причём] [nsubj грабитель] [obj этого] [advmod не] заметил].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

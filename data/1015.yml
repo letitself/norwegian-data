@@ -1,11 +1,23 @@
 ---
 record: 1015
-name: '(если уж) Verb-Inf – так XP'
-UD_name: '(если уж) V-Inf – так XP'
+name: '(если уж) Verb-Ipfv.Inf – так (~Verb-Ipfv.Inf) PP/Adv'
+UD_name: '(если уж) V-Imp.Inf – так (V-Imp.Inf) PP/Adv'
 illustration: 'Если уж петь – так до хрипоты.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий считает бессмысленным выполнение некоторого [действия]Action без необходимого [условия]Condition. Часто условие указывает на определенный образ действия, который подразумевает большую степень вовлеченности участника в действие.
 examples:
+  - |
+       Если уж [играть]Action с кем-то, так [лучше уж с Англией.]Condition
+  - |
+       Если уж [кричать]Action, так [во весь голос.]Manner
+  - |
+       Уж, если [любить]Action – так [любить]Action [без остатка.]Manner
+  - |
+       Если [жить]Action, так [жить]Action [так, чтобы жизнь была без неприятностей.]Manner
+  - |
+       [Умирать]Action – так [с песней.]Manner
 morphology:
   - Verb
   - Inf
@@ -21,21 +33,23 @@ part_of_speech_of_anchor:
   - Conjunction
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Condition
 intonation:
-  - Assertive
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [mark если] [advmod уж] Verb-Inf] – [mark так] XP]'
   - '[root [advcl Verb-Inf] – [mark так] XP]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [advmod уж] петь] – [mark так] [case до] хрипоты.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Manner

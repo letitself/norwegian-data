@@ -5,6 +5,8 @@ UD_name: 'NP-Nom Cop (не) в силах/состоянии VP-Inf'
 illustration: 'Он не в силах помочь тебе в этой ситуации.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник может или не может выполнить некоторое действие по причине наличия или отсутствия необходимых для этого физических или моральных ресурсов. Имеется в виду здоровье, физическая форма либо душевные силы.
 examples:
 morphology:
   - NP
@@ -25,7 +27,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] [case в] силах [csubj VP-Inf]]'
@@ -34,11 +36,13 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [case в] состоянии [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod не] [case в] силах [csubj помочь [iobj тебе] [obl [case в] [det этой] ситуации]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

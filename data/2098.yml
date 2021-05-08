@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [amod сам] NP]'
 dependency_structure_of_illustration:
   - '[root [obj Премьеру [nmod балета]] посетила [nsubj [amod сама] королева].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

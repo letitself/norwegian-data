@@ -2,10 +2,22 @@
 record: 1194
 name: 'Adj-Cmp/Adv-Cmp прочих'
 UD_name: 'Adj-Cmp/Adv-Cmp прочих'
-illustration: 'Быстрее прочих'
-cefr_level: 
+illustration: 'Эта школа сильнее прочих.'
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [производимое ими действие]Action (примеры 4, 5). У [одного объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [группы других ("прочих"), с которыми он образует гомогенное множество]Standard.
 examples:
+  - |
+       А теперь для многих молодых людей [эти имена и ценности]Comparee [живей]Parameter, [значительней]Parameter прочих.
+  - |
+       [Этот храм]Comparee казался [выше]Parameter и [великолепнее]Parameter прочих.
+  - |
+       Они хотят, чтобы Россия состоялась как особая цивилизация, [которая]Comparee была бы [лучше]Parameter, [живее]Parameter прочих.
+  - |
+       [Последняя фраза]Comparee [прозвучала]Action [жестче]Parameter прочих.
+  - |
+       [Эта машина]Comparee [стоит]State [дороже]Parameter прочих.
 morphology:
   - Adj
   - Cmp
@@ -19,20 +31,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - Comparee
+  - Parameter
+  - Standard
+  - State
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root Adj-Cmp [obl прочих]]'
   - '[advmod Adv-Cmp [obl прочих]]'
 dependency_structure_of_illustration:
   - '[root Быстрее [obl прочих]]'
+comment: |
+    'См. близкую конструкцию 1195 Adj-Cmp/Adv-Cmp многих (Она казалась моложе многих)'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

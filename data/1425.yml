@@ -33,13 +33,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obj NP-Acc] [advmod наизнанку]]'
   - '[root VP [advmod наизнанку]]'
 dependency_structure_of_illustration:
   - '[root [obj Рубашку] вывернули [advmod наизнанку].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - вывернуть
   - вывернуться
@@ -49,7 +51,7 @@ common_fillers:
   - носить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Temporary characteristics

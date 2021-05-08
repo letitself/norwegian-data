@@ -1,10 +1,12 @@
 ---
 record: 535
-name: 'NP-Nom не выносить NP-Acc'
-UD_name: 'NP-Nom не выносить NP-Acc'
+name: 'NP-Nom не выносить NP-Acc/NP-Gen'
+UD_name: 'NP-Nom не выносить NP-Acc/NP-Gen'
 illustration: 'Она не выносит нецензурную речь.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает резко отрицательное отношение [говорящего или другого участника ситуации]Experiencer к определенному [типу поведения]Stimulus, который обычно назван отглагольным существительным. Как если бы участник не мог физически или морально вытерпеть, выдержать конкретную ситуацию, в которой он бы непосредственно сталкивался с таким поведением.
 examples:
 morphology:
   - NP
@@ -22,17 +24,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] выносить [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [advmod не] выносит [obj [amod нецензурную] речь].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

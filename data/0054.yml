@@ -37,16 +37,19 @@ part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
   - Action
+  - Addressee
   - Agent
   - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] велеть [iobj NP-Dat] [xcomp VP-Inf]]'
   - '[root [nsubj NP-Nom] велеть [iobj NP-Dat] [xcomp [advmod не] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мать] велела [iobj сыну] [xcomp учиться].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - идти
   - ждать
@@ -55,7 +58,7 @@ common_fillers:
   - купить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

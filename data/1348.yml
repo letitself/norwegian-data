@@ -33,9 +33,10 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
-  - ~
+  - Time
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case с] [det той] поры] Cl]'
@@ -47,7 +48,7 @@ common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

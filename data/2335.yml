@@ -3,7 +3,7 @@ record: 2335
 name: 'NP-Nom понятия не иметь о NP-Loc/Cl'
 UD_name: 'NP-Nom понятия не иметь о NP-Loc/Cl'
 illustration: 'Понятия не имею, что между ними произошло.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -16,8 +16,10 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Negation, Light Verb Construction, Verb
-  - Object, Nominal Pattern
+  - Negation
+  - Light Verb Construction
+  - Verb and Object
+  - Nominal Pattern
 part_of_speech_of_anchor:
   - Noun
   - Negation Marker
@@ -26,18 +28,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [obj понятия] [advmod не] иметь [obl [case о] NP-Loc]]'
   - '[root [nsubj NP-Nom] [obj понятия] [advmod не] иметь, [ccomp Cl]]'
 dependency_structure_of_illustration:
   - '[root [obj Понятия] [advmod не] имею, [ccomp [nsubj что] [obl [case между] ними] произошло].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:
@@ -46,6 +50,8 @@ semantic_types:
     subtypes:
       - type: Negative
   - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
 family:
   - |
     "Capacity/Intellect"

@@ -32,6 +32,7 @@ part_of_speech_of_anchor:
   - Interjection
 semantic_roles:
   - Evaluation
+  - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -39,6 +40,8 @@ dependency_structure:
   - '[root [discourse ах [fixed PronPers-Nom]] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root [discourse Ах] [nsubj ты] подлец!]'
+comment: |
+    'См. другие конструкции с междометиями: 30, 136, 2163, 2164.'
 common_fillers:
   - ты
   - она
@@ -60,7 +63,7 @@ common_fillers:
   - бездельница
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова Н. Ю. Очерки по синтаксису русской разговорной речи. — М. : АН СССР, 1960. 
 semantic_types:
   - type: Assessment
     subtypes:

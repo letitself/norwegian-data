@@ -3,7 +3,7 @@ record: 1849
 name: 'откуда бы ни VP-Pst, Cl'
 UD_name: 'откуда бы ни VP-Past, Cl'
 illustration: 'Откуда бы ни появилась эта идея, у нее много сторонников.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [advmod откуда] [aux бы] [advmod ни] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Откуда] [aux бы] [advmod ни] появилась [nsubj [det эта] идея]], [case у] нее [nsubj много] [nsubj сторонников].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Spatial expression

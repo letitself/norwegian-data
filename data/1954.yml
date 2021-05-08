@@ -38,12 +38,14 @@ semantic_roles:
   - Agent
   - Associated
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] компании [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Удалось [csubj провести] [obj вечер] [obl [case в] компании [nmod [amod любимых] актёров]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - друзей
   - ребят
@@ -52,7 +54,7 @@ common_fillers:
   - поехать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Spatial expression

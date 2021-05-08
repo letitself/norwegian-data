@@ -3,7 +3,7 @@ record: 838
 name: 'NP-Nom Cop в цене'
 UD_name: 'NP-Nom Cop в цене'
 illustration: 'Раньше дружба была в цене.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Importance/Worth Rationalistic evaluation of importance and value of an object (оценка важности, ценности), role, power, impact. object or subject is evaluated: important and positive
@@ -24,12 +24,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] цене]'
 dependency_structure_of_illustration:
   - '[root [advmod Раньше] [nsubj дружба] [cop была] [case в] цене.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

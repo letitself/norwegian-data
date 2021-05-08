@@ -36,12 +36,14 @@ semantic_roles:
   - Location
   - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod где-то] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] приду [obl [advmod где-то] [case в] восемь [nmod вечера]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - вечером
   - через месяц
@@ -53,7 +55,7 @@ common_fillers:
   - процент
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

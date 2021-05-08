@@ -3,7 +3,7 @@ record: 2261
 name: 'Случись что, VP-Fut'
 UD_name: 'Случись что, VP-Fut'
 illustration: 'Случись что завтра, ей не к кому будет обратиться.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -13,26 +13,27 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Verb
   - Pronoun
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl случись [nsubj что]]'
   - 'VP-Fut]'
 dependency_structure_of_illustration:
   - '[root [advcl Случись [nsubj что] [advmod завтра]], [iobj ей] не [obl [case к] кому] [aux будет] [csubj обратиться].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
 family:

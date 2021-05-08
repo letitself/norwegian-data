@@ -6,18 +6,22 @@ illustration: 'Он ничем не хуже тебя.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что, по мнению говорящего, некоторый субъект или объект имеет [качественные характеристики]Evaluation, которые не отличаются от тех, с которыми говорящий их сравнивает.
+       Конструкция выражает сравнение и подчеркивает тождественность двух и более объектов, участников или действий по степени проявления [некоторого признака]Parameter. Отрицается разница между [одним]Comparee и [другим]Standard объектом, участником или действием.
   - english: |
        This construction means that something has [certain properties]Evaluation to the same extent as somethimg else, e.g. хоккей ничем не страшнее и не опаснее других видов спорта ‘ice hoccey is no more frightening or dangerous than other sports’.
   - norwegian: |
        Konstruksjonen betyr at noe har [visse egenskaper]Evaluation i samme grad som noe annet, f.eks. хоккей ничем не страшнее и не опаснее других видов спорта ‘ishockey er ikke det spor mer skummelt eller farlig enn andre idrettsgrener’.
 examples:
   - |
-       Пиво у вас так себе. Ничем не [лучше]Evaluation [кваса.]Theme
+       И [Хоккей]Comparee ничем не [страшнее]Parameter и не [опаснее]Parameter [других видов спорта]Standard.
   - |
-       И хоккей ничем не [страшнее]Evaluation и не [опаснее]Evaluation [других видов спорта.]Theme
+       Эта [таблетка]Comparee [выглядит]Action ничем не [хуже]Parameter [аспирина.]Standard
   - |
-       Телевизор ничем не [интереснее]Evaluation [учебников]Theme.
+       Художник, говорят, был замечательный. А ведь бедно жил. [Личные вещи]Comparee у него были ничем не [дороже]Parameter [тех, какие остались от старых времен у тетки Геннадия.]Standard
+  - |
+       Жизнь после табуна [кипит]Action и бурлит ничем не [хуже]Parameter [какой-нибудь Москвы]Standard.
+  - |
+       Эсперанто прост для европейцев ― носителей романских и германских языков, отчасти славянских. А для китайцев, вьетнамцев, индонезийцев, даже для венгров и турок [он]Comparee ничем не [проще]Parameter того же [английского.]Standard
 morphology:
   - NP
   - Nom
@@ -37,20 +41,27 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Parameter
+  - Comparee
+  - Standard
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl ничем] [advmod не] Adj-Cmp [obl NP-Gen]]'
   - '[root VP [advmod [obl ничем] [advmod не] AdV-Cmp [obl NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [iobj ничем] [advmod не] хуже [obl тебя].]'
+comment: |
+    'См. похожие конструкции 246, 1450, 2343.'
 common_fillers:
-  - ~
+  - лучше
+  - хуже
+  - дороже
+  - меньше
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -6,7 +6,7 @@ illustration: 'Лучше не говори мне про это.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется, когда говорящий побуждает собеседника выполнить [действие]Action вместо другого [действия]Action, которое собеседник уже выполняет или собирается выполнить. Побуждение звучит как просьба или совет. Ограничений на вид глагола нет. При наличии отрицательной частицы "не" конструкция, как правило, выражает предостережение говорящего в адрес собеседника, чтобы собеседник не выполнял некоторое действие (примеры 4 и 5). Это действие выражено глаголом несовершенного вида. Говорящий оценивает невыполнение действия более положительно, чем его выполнение.
+       Конструкция используется, когда говорящий побуждает собеседника выполнить [действие]Action вместо другого [действия]Action, которое собеседник уже выполняет или собирается выполнить. Побуждение звучит как просьба или совет. Ограничений на вид глагола нет. При наличии отрицательной частицы «не» конструкция, как правило, выражает предостережение говорящего в адрес собеседника, чтобы собеседник не выполнял некоторое действие (примеры 4 и 5). Это действие выражено глаголом несовершенного вида. Говорящий оценивает невыполнение действия более положительно, чем его выполнение.
   - norwegian: |
        Konstruksjonen brukes når taleren anmoder samtalepartneren om å utføre [en handling]Action i stedet for en annen [handling]Action som samtalepartneren allerede utfører eller har tenkt å utføre. Anmodningen lyder som en bønn eller et råd. Det er ingen begrensninger i bruken av verbaspekt. Med nektelsespartikkelen "не" uttrykker konstruksjonen som regel talerens advarsel til samtalepartneren om at samtalepartneren ikke må utføre en gitt handling (eksempel 4 og 5). Handlingen uttrykkes av et verb i imperfektivt aspekt. Taleren vurderer det som mer positivt å ikke utføre handlingen, enn å utføre den.
 examples:
@@ -35,13 +35,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod лучше] [advmod не] VP-Imp]'
   - '[root [advmod лучше] VP-Imp]'
 dependency_structure_of_illustration:
   - '[root [advmod Лучше] [advmod не] говори [iobj мне] [obl [case про] это].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - спрашивай
   - подумай
@@ -50,7 +52,7 @@ common_fillers:
   - займись
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

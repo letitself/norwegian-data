@@ -35,11 +35,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Theme
   - Action
+  - Theme
   - Location
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case с] торца [nmod NP-Gen]]]'
@@ -48,13 +48,15 @@ dependency_structure:
   - '[root VP [nmod [case с] торца]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вход] [case с] торца.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - вход
   - здание
   - дом
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

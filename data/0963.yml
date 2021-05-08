@@ -3,7 +3,7 @@ record: 963
 name: 'VP день и ночь'
 UD_name: 'VP день и ночь'
 illustration: 'День и ночь мы готовились к экзамену.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl день [conj [cc и] ночь]]]'
 dependency_structure_of_illustration:
   - '[root [obl День [conj [cc и] ночь]] [nsubj мы] готовились [obl [case к] экзамену].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

@@ -33,10 +33,10 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - Situation
   - Cause
+  - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [obl [case ввиду] того'
@@ -47,10 +47,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию ввиду NP-Gen'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

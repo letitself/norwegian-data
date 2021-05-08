@@ -36,7 +36,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [advmod как] можно [cop Cop] [csubj VP-Inf]!]'
@@ -52,7 +52,7 @@ common_fillers:
   - отказать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

@@ -3,7 +3,7 @@ record: 1006
 name: 'если бы NP-Nom и VP-Pst, то только для того, чтобы VP-Inf'
 UD_name: 'если бы NP-Nom и VP-Past, то только для того, чтобы VP-Inf'
 illustration: 'Если бы он и пришел, то только для того, чтобы наговорить гадостей.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -26,7 +26,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark если] [aux бы] [nsubj NP-Nom] [advmod и] VP-Pst]'
@@ -34,11 +34,13 @@ dependency_structure:
   - '[acl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [aux бы] [nsubj он] [advmod и] пришел], [mark то] [advmod только] [case для] того, [acl [mark чтобы] наговорить [obj гадостей]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Purpose

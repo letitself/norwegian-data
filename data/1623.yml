@@ -6,8 +6,18 @@ illustration: 'Едва старик ушел, в сад быстро вошел
 cefr_level: C2
 definitions:
   - russian: |
-       Конструкция обозначает, что одно [действие]Action совершается сразу после другого [действия]Action.
+       Конструкция обозначает, что одно [действие]Action совершается сразу после другого [действия]Action. Как если бы достаточно было произойти некоторому действию, чтобы за ним сразу произошло другое. Такая комбинация двух действий может иметь место один раз (примеры 1-4) или многократно (пример 5).
 examples:
+  - |
+       На следующее утро, едва только [рассвело]Action, я, попрощавшись с Петером, [поехал в национальный парк]Action.
+  - |
+       Едва Шевцов [положил трубку]Action, как снова [зазвонил]Action телефон.
+  - |
+       ― Зал оживился, и, едва лишь апплодисменты [утихли]Action, Мотов [продолжил]Action.
+  - |
+       Едва конвоир [отошел]Action, как мы [присели отдохнуть.]Action
+  - |
+       Едва только мои собеседники [узнавали, что я из Советского Союза]Action, как [тут же начинался восторженный разговор о советском павильоне.]Action
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -20,9 +30,9 @@ part_of_speech_of_anchor:
   - Adverb
   - Conjunction
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark едва] VP], Cl]]'
@@ -33,11 +43,13 @@ dependency_structure:
   - '[root [advcl [mark едва] [advmod только] VP], [mark как] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Едва] [nsubj старик] ушел], [obl [case в] сад] [advmod быстро] вошел [nsubj доктор].]'
+comment: |
+    'См. похожие конструкции 316, 1063, 1624, 2011.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Taxis
     subtypes:

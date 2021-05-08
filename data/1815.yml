@@ -3,7 +3,7 @@ record: 1815
 name: 'Ну, разумеется, XP!'
 UD_name: 'Ну, разумеется, XP!'
 illustration: '– Крепкие напитки он не любит. – Ну, разумеется, не любит.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -19,7 +19,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [discourse ну]'
@@ -27,11 +27,13 @@ dependency_structure:
   - 'XP!]'
 dependency_structure_of_illustration:
   - '[root – [obj [amod Крепкие] напитки] [nsubj он] [advmod не] любит.] [root – [discourse Ну], [parataxis разумеется], [advmod не] любит.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

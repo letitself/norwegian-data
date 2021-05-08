@@ -3,7 +3,7 @@ record: 1321
 name: 'XP это Cop не PronPoss-Nom'
 UD_name: 'XP это Cop не PronPoss-Nom'
 illustration: 'Математика это не моё.'
-cefr_level: 
+cefr_level: A1
 definitions:
   - russian: |
        Ходить по театрам это не мое. если ставить местоимение Я то отношение, если про 3 лицо то Оценка. если ставить местоимение Я то отношение, если про 3 лицо то Оценка. Capacity, being capable to deal with smth, feeling comfortable with a certain activity, Rationalistic attitude: Preferences (how good/bad the speaker is at X, and feels comfortable doing X) - Overlap between Attitude and Assessment
@@ -25,12 +25,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root XP [expl это] [cop Cop] [advmod не] PronPoss-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Математика] [expl это] [advmod не] моё.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

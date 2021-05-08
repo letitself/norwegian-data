@@ -3,7 +3,7 @@ record: 1130
 name: 'можно подумать, (что) Cl'
 UD_name: 'можно подумать, (что) Cl'
 illustration: 'Можно подумать, ты лучше всех готовишь!'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Subgroup 2: Biclausal constructions with negative evaluation of the choice of behavior 3
@@ -24,13 +24,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root можно [csubj подумать, [ccomp [mark что] Cl]]]'
   - '[root можно [csubj подумать, [parataxis Cl]]]'
 dependency_structure_of_illustration:
   - '[root Можно [csubj подумать, [parataxis [nsubj ты] [advmod лучше [obj всех]] готовишь]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

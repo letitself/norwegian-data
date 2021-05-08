@@ -35,13 +35,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod только [fixed что]] VP-Pfv.Pst]'
   - '[root [advmod только [fixed что]] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [advmod только] [fixed что] принес [obj деньги].]'
+comment: |
+    'См. похожую конструкцию 1667'
 common_fillers:
   - сказал
   - отметил
@@ -51,7 +53,7 @@ common_fillers:
   - получил
 references:
   - |
-    
+    См. также статью Летучий А. Б. Русские наречия со значением времени только, только-только, только что: значение недавнего прошлого и результативное значение // Вопросы языкознания. 2017. № 1. С. 53–73.
 semantic_types:
   - type: Timeline
     subtypes:

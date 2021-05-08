@@ -3,7 +3,7 @@ record: 1930
 name: 'что NP-Dat Cop до NP-Gen?'
 UD_name: 'что NP-Dat Cop до NP-Gen?'
 illustration: 'Что тебе до её прошлого?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern Что тебе до чужих денег? примеры на прошедшее время в корпусе из 19 в Что ему было до них теперь? И он мысленно улыбался своему собственному любопытству., есть современные Что ей было до того, что Эверглэйдз был всемирно известным заповедником и что в его трясинах плавали реликтовые полосатые рыбы, а в ярких манграх скрипичными ключами стояли цапли, белоснежные, как ландыши. [Константин Плешаков. Рассказы // «Дружба народов», 1999.04.15]
@@ -25,17 +25,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root что [iobj NP-Dat] [cop Cop] [obl [case до] NP-Gen]?]'
 dependency_structure_of_illustration:
   - '[root Что [iobj тебе] [obl [case до] [det её] прошлого]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

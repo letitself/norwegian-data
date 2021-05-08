@@ -35,7 +35,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP-Fut [obl [case на] днях]]'
@@ -49,7 +49,7 @@ common_fillers:
   - заявить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

@@ -37,13 +37,15 @@ semantic_roles:
   - Action
   - Patient
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] заказ]]'
   - '[dep NP [nmod [case на] заказ]]'
 dependency_structure_of_illustration:
   - '[root [obj Платье] сшили [obl [case на] заказ].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - шить
   - делать
@@ -51,7 +53,7 @@ common_fillers:
   - изготавливать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Purpose

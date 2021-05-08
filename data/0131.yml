@@ -6,14 +6,20 @@ illustration: 'Он здоров врать.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что субъект имеет какие-либо способности, ловок, искусен [чем-либо заниматься]Action. Конструкция дает оценочную характеристику (обычно негативную) кого-либо как неутомимого, ловкого, искусного в чём-либо. Употребляется обычно с восклицанием. Слово "здоров" используется здесь только в краткой форме. Оценка кого-л. как неутомимого, ловкого, искусного в чем-либо. two constructions: 'stop doing Y' (we do not find it in data, corpus), 'X is good at doing Y' Evaluation of intellectual ability, mental ability - 'good at doing something'
+       Конструкция характеризует некоторого [участника]Agent как ловкого, искусного, неутомимого в [определенной деятельности.]Activity Способности участника оцениваются высоко и положительно, даже если сам род деятельности может оцениваться иначе. Слово «здоров» используется здесь только в краткой форме. Слот VP-Inf чаще заполняется глаголами несовершенного вида, но встречается и совершенный вид (пример 4).
+  - english: |
+       X is good at doing Y' Evaluation of intellectual ability, mental ability - 'good at doing something'
 examples:
   - |
-       ― Здоров [драться-то]Action! ― послышалось в задних рядах.
+       Ну, давай подерёмся, если [ты]Agent так же здоров [драться]Activity, как здоров [ругаться!]Activity
   - |
-       А ты, Петя, оказывается, здоров [болтать]Action про наши дела.
+       Я кому своего попугая ни предлагал ― не берут: не прокормить, [жрать]Activity был здоров, яблоко дай, морковку дай, маковых зерен, рацион у него такой, мы так и до перестройки сами не питались.
   - |
-       Ну, давай подерёмся, если ты так же здоров [драться]Action, как здоров ругаться!
+       Да, прапрадедушка здоров [сочинять!]Activity Барон Мюнхгаузен по сравнению с ним жалкий враль.
+  - |
+       Да [он]Agent, голландец был, ветеринар, но [выпить]Activity здоров! Три стакана — и ничего.
+  - |
+       ― Ну, ты здоров [дрыхнуть!]Activity ― сказал Валюшок, присаживаясь рядом с кроватью.
 morphology:
   - NP
   - Nom
@@ -29,16 +35,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Predicative
 semantic_roles:
-  - ~
+  - Agent
+  - Activity
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] здоров VP-Inf]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] здоров [xcomp врать].]'
+comment: |
+    'См. близкую конструкцию 181.'
 common_fillers:
-  - ~
+  - жрать
+  - поесть
+  - выпить
+  - поспать
+  - спать
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

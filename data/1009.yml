@@ -3,7 +3,7 @@ record: 1009
 name: 'если уж на то пошло, Cl'
 UD_name: 'если уж на то пошло, Cl'
 illustration: 'Если уж на то пошло, давайте и я выступлю.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [mark если] [advmod уж] [obl [case на] то] пошло]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [advmod уж] [obl [case на] то] пошло], [advmod давайте] [nsubj [cc и] я] выступлю.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Concession

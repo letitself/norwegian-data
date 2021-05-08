@@ -3,9 +3,21 @@ record: 1670
 name: 'за-Verb'
 UD_name: 'за-V'
 illustration: 'Весь зал зааплодировал.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает начало [некоторого действия]Action («зааплодировал» значит 'начал аплодировать'). Часто речь идет о звуках, которые начинает издавать некоторый участник, группа участников или предмет.
 examples:
+  - |
+       ― Да ведь это неловко, ― пробовал кто-то [запротестовать]Action, но класс [зашумел]Action.
+  - |
+       ― Он поднял руку с тростью вверх и театр одобрительно [загудел]Action.
+  - |
+       Когда учитель, решая уравнение, начертил график, класс [засмеялся]Action: на доске четко обозначилась фигура крокодила.
+  - |
+       Подняли занавес. Хор [запел]Action. Царица на троне сидела и смотрела в зеркальце.
+  - |
+       Вскоре пошел дождь. Мостовая [заблестела]Action, а поверхность Москвы-реки подернулась рябью.
 morphology:
   - Verb
 syntactic_type_of_construction:
@@ -17,19 +29,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root за-Verb]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Весь] зал] зааплодировал.]'
+comment: |
+    'См. близкую конструкцию 1671 NP-Nom приняться Verb-Inf (Он принялся тянуть меня в сторону выхода.)'
 common_fillers:
-  - ~
+  - зашуметь
+  - загудеть
+  - заиграть
+  - закричать
+  - засмеяться
+  - заплакать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

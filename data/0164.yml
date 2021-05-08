@@ -32,17 +32,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[obj [det какой [advcl угодно]] NP]'
 dependency_structure_of_illustration:
   - '[obj [det Какой [advcl угодно]] подарок]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    Падучева Е. В. Русские местоимения свободного выбора // Russian Linguistics. 2018. № 42. С. 291–319.
 semantic_types:
   - type: Quantification
     subtypes:

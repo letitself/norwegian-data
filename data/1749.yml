@@ -3,7 +3,7 @@ record: 1749
 name: 'NP/VP с хвоста/головы NP-Gen'
 UD_name: 'NP/VP с хвоста/головы NP-Gen'
 illustration: 'Нумерация вагонов начинается с головы состава.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case с] головы [nmod NP-Gen]]]'
@@ -31,11 +31,13 @@ dependency_structure:
   - '[dep NP [nmod [case с] хвоста [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Нумерация [nmod вагонов]] начинается [obl [case с] головы [nmod состава]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

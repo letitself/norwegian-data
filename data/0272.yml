@@ -35,17 +35,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
+  - Action
   - Location
   - Theme
   - Situation
-  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Маша] живет [obl [case под] Москвой].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - битва
   - сражение
@@ -58,7 +60,7 @@ common_fillers:
   - случиться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

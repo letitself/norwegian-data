@@ -6,12 +6,10 @@ illustration: 'Неплохо бы отдохнуть.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий предлагает что-либо [сделать]Action. Конструкция вносит оценочную [характеристику]Estimation ситуации или чьих-либо действий как желательных.
+       Конструкция обозначает, что говорящий ненавязчиво предлагает совершить некоторое желательное для него [действие.]Action
 examples:
   - |
        [Невредно]Estimation бы [вздремнуть]Action часика два.
-  - |
-       [Неплохо]Estimation бы [выпить пива.]Action
   - |
        [Недурно]Estimation бы и [поспать]Action хоть немного.
   - |
@@ -31,19 +29,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Estimation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root не-Pred [cop Cop] [aux бы] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Неплохо [aux бы] [csubj отдохнуть].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

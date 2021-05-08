@@ -3,7 +3,7 @@ record: 1691
 name: 'зря/напрасно VP'
 UD_name: 'зря/напрасно VP'
 illustration: 'Зря стараешься!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        no need to do X, not useful
@@ -21,13 +21,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod зря] VP]'
   - '[root [advmod напрасно] VP]'
 dependency_structure_of_illustration:
   - '[root [advmod Зря] стараешься!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

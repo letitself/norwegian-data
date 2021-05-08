@@ -3,7 +3,7 @@ record: 949
 name: 'да что PronPers-2, Cl'
 UD_name: 'да что PronPers-2, Cl'
 illustration: 'Да что ты, Маша, всё будет хорошо.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        про утешение
@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [cc да] что [nsubj PronPers-2]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [cc Да] что [nsubj ты], [vocative Маша]], [nsubj всё] [cop будет] хорошо.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

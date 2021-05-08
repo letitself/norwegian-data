@@ -39,7 +39,8 @@ part_of_speech_of_anchor:
   - Pronoun
   - Оnomatopoeia
 semantic_roles:
-  - ~
+  - Participant
+  - Listener
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -55,7 +56,7 @@ common_fillers:
   - вы
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

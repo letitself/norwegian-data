@@ -35,12 +35,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case во] [det весь] рост]]'
 dependency_structure_of_illustration:
   - '[root Вытянулся [obl [case во] [det весь] рост] [conj [cc и] прыгнул].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - стоять
   - выпрямиться
@@ -51,7 +53,7 @@ common_fillers:
   - подняться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

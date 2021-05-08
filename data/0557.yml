@@ -6,20 +6,18 @@ illustration: 'Я сообщил другу номер поезда, чтобы 
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для выражения некоторой [ цели, которая характеризует существование [участника]Patient ]Goal . Цель часто связана с [деятельностью]Goal, которую [участник]Patient выполняет лучше всего.
-  - english: |
-       This construction is used to express an aim that characterises the existence of the [participant]Patient. The aim is often related to an [activity]Goal that [the participant]Patient performs extremely well.
-  - norwegian: |
-       N/A
+       Конструкция обозначает, что участник ситуации совершает некоторое [действие]Action с определенной [целью]Purpose.
 examples:
   - |
-       Человеку нужен Бог, потому что [человек]Patient [создан]создан, [чтобы]чтобы [поклоняться]Goal.
+       В вечных пробках города забываешь, что автомобиль [создан]Action, чтобы [на нем ездить…]Purpose
   - |
-       ― Все больше убеждаюсь, ― [ты]Patient создан, чтобы [играть Кориолана]Goal.
+       Я взял фонарик и [осветил лестницу]Action, чтобы [можно было найти упавший браслет.]Purpose
   - |
-       ― Помнишь, как сказано: [мальчик]Patient создан, чтобы [плавать]Goal, [мама]Patient ― чтобы [ждать]Goal.
+       Порежьте хлеб на кубики и [оставьте]Action, чтобы [он немного подсох.]Purpose
   - |
-       -
+       Виталий [приехал]Action, чтобы [я помог ему подготовиться к экзамену.]Purpose
+  - |
+       Чтобы [у нас не было безработных]Purpose, нужно [создать новые рабочие места.]Action
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -31,20 +29,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Action
+  - Purpose
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl'
   - '[advcl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] сообщил [iobj другу] [obj номер [nmod поезда]], [advcl [mark чтобы] [nsubj он] [obj меня] встретил].]'
+comment: |
+    'См. близкую по значению конструкцию 559.'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

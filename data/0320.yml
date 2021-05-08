@@ -32,12 +32,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[dep [acl [advmod так] называемый] NP]'
 dependency_structure_of_illustration:
   - '[dep [acl [advmod Так] называемый] образец]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

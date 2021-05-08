@@ -35,11 +35,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Speaker
   - Participant
   - Evaluation
+  - Speaker
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case на] [det PronPoss-Acc] взгляд]'
@@ -56,7 +56,7 @@ common_fillers:
   - их
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

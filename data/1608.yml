@@ -3,7 +3,7 @@ record: 1608
 name: 'всегда VP'
 UD_name: 'всегда VP'
 illustration: 'Он всегда опаздывает.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod всегда] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod всегда] опаздывает.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

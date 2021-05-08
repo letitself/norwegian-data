@@ -3,7 +3,7 @@ record: 841
 name: 'в PronDem пору/время Cl'
 UD_name: 'в PronDem пору/время Cl'
 illustration: 'Ершов служил в эту пору в армии.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root [case в] [det PronDem] пору] Cl]'
   - '[root [case в] [det PronDem] время] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ершов] служил [obl [case в] [det эту] пору] [obl [case в] армии].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

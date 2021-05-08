@@ -3,7 +3,7 @@ record: 876
 name: 'во всех отношениях XP'
 UD_name: 'во всех отношениях XP'
 illustration: 'Новый спектакль был во всех отношениях удачным.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        слот заполняется оценочными прил и нареч
@@ -23,12 +23,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [obl [case во] [det всех] отношениях] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Новый] спектакль] [cop был] [obl [case во] [det всех] отношениях] удачным.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

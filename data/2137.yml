@@ -3,7 +3,7 @@ record: 2137
 name: 'ясно Cop одно: Cl'
 UD_name: 'ясно Cop одно: Cl'
 illustration: 'Ясно одно: такая одежда дороже.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -14,25 +14,26 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicative Expression
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Adjective
   - Pronoun
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root ясно [cop Cop] [nsubj одно]: [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root Ясно [nsubj одно]: [parataxis [nsubj [det такая] одежда] дороже].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

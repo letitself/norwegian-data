@@ -3,7 +3,7 @@ record: 1410
 name: 'VP в секрете/тайне'
 UD_name: 'VP в секрете/тайне'
 illustration: 'Эти сведения держат в секрете.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] секрете]]'
   - '[root VP [obl [case в] тайне]]'
 dependency_structure_of_illustration:
   - '[root [obj [det Эти] сведения] держат [obl [case в] секрете].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

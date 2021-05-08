@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case без] конца]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Родители] ругались [obl [case без] конца].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -1,27 +1,34 @@
 ---
 record: 140
-name: 'как всегда XP'
-UD_name: 'как всегда XP'
+name: 'как всегда, XP/Cl'
+UD_name: 'как всегда, XP/Cl'
 illustration: 'Вы прекрасны, как всегда.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что [описываемая ситуация]Situation или [действие]Action всегда происходит определенным образом, и в очередной раз произошло то же самое.
+       Конструкция подчёркивает, что [описываемая ситуация]Situation или [действие]Action или его [обстоятельства]Circumstances повторялись много раз до момента речи и стали обычным явлением. Слот XP заполняется глагольной, именной или предложной группой, наречием или прилагательным.
 examples:
   - |
-       Коммунисты [провели заседание]Action ― как всегда, в закрытом режиме.
+       Да, конечно, [ты прав]Situation, как всегда.
   - |
-       В шутке, как всегда, [есть доля истины]Situation.
+       Володя, как всегда, [был в отъезде]Situation, и мне пришлось ехать одной.
   - |
-       Героя, как всегда, [играет]Action сам Вуди Аллен.
+       Ты, как всегда, [преувеличиваешь]Action.
   - |
-       -
+       Лиза, как всегда, [с блестящей точностью и скоростью]Manner выполнила поручение.
   - |
-       -
+       Снег пошел, как всегда, [неожиданно.]Manner
 morphology:
   - XP
+  - VP
+  - NP
+  - PP
+  - Adv
+  - Adj
+  - Cl
 syntactic_type_of_construction:
   - Head and Modifier Construction
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -30,19 +37,23 @@ part_of_speech_of_anchor:
   - Conjunction
   - Adverb
 semantic_roles:
-  - ~
+  - Situation
+  - Action
+  - Circumstances
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [mark как] всегда] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вы] прекрасны, [obl [mark как] всегда].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

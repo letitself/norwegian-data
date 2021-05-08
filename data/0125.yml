@@ -6,18 +6,20 @@ illustration: 'Ещё побьют!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый участник выражает опасение по поводу [действий]Action другого участника или [ситуации]Action, которая могла бы произойти.
+       Конструкция выражает опасение говорящего по поводу [действий]Action другого участника или [ситуации]Action, которая может произойти.
   - english: |
-       This construction signifies that a participant is expressing doubt/apprehension because of the [actions]Action of another participant or [situation]Action which may occur.
-  - norwegian: |
-       N/A
+       This construction expresses the speaker's apprehension because of the [actions]Action of another participant or a [situation]Action that can occur.
 examples:
   - |
        Ещё [повредишь]Action что-нибудь, осторожно!
   - |
-       Не из ручьёв же пить грязную воду, ещё [подцепишь]Action какую болезнь.
+       Не пей грязную воду, ещё [подцепишь какую болезнь.]Action
   - |
-       Какой-то он неспокойный: ещё [ударит]Action !
+       Какой-то он неспокойный: ещё [ударит!]Action
+  - |
+       Лари подбежал к Николь, стал заигрывать, но красавица смотрела на него снисходительно. Вот еще, связываться с какой-то мелюзгой! Еще [испачкает!]Action Она такая чистенькая, волосок к волоску. А у него и лапы грязные, и репьи к шерсти прилипли!
+  - |
+       ― Вперед не садись. А то ещё [вырвет.]Situation
 morphology:
   - VP
   - Fut
@@ -30,7 +32,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -38,11 +41,17 @@ dependency_structure:
   - '[root [advmod ещё] VP-Fut]'
 dependency_structure_of_illustration:
   - '[root [advmod Ещё] побьют!]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - побьют
+  - отберут
+  - стукнут
+  - замарает
+  - упадешь
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Apprehension
     subtypes:

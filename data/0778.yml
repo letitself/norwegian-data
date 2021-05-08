@@ -34,18 +34,20 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
   - Associated
   - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] обнимку [nmod [case с]] NP-Ins]]'
   - '[root VP [obl [case в] обнимку]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дети] спят [obl [case в] обнимку [nmod [case с]] игрушками].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - спать
   - засыпать
@@ -53,7 +55,7 @@ common_fillers:
   - стоять
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

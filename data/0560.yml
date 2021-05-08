@@ -15,7 +15,7 @@ examples:
   - |
        Многие подростки так и [просидят]Action на диване или у компьютера всю молодость.
   - |
-       А достоверные факты, увиденные глазами психолога, так и [остались]Action в научных архивах.
+       А достоверные факты, увиденные глазами психолога, так и [остаются]Action в научных архивах.
   - |
        Возможности мультимедийных технологий так и [остаются]Action до сих пор потенциальными, их освоение и использование идёт медленно.
   - |
@@ -34,19 +34,20 @@ part_of_speech_of_anchor:
   - Particle
 semantic_roles:
   - Action
-  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod так [fixed и]] VP-Ipfv]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кот] [advmod так [fixed и]] сидит [obl [case на] окне].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -23,13 +23,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] идти [nsubj NP-Nom]]'
   - '[root [iobj NP-Dat] идти [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ей] идёт [nsubj [det эта] причёска].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

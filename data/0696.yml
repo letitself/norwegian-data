@@ -3,7 +3,7 @@ record: 696
 name: 'Cl, а PronPers-то думал!'
 UD_name: 'Cl, а PronPers-то думал!'
 illustration: 'Такой простой ответ, а я-то думал!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -30,11 +30,13 @@ dependency_structure:
   - '[conj [cc а] [advmod PronPers-[advmod то]] думал]!]'
 dependency_structure_of_illustration:
   - '[root [amod [det Такой] простой] ответ, [conj [cc а] [advmod я-[advmod то]] думал]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Reaction to the previous discourse

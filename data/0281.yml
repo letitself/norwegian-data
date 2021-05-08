@@ -34,10 +34,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - Action
   - Experiencer
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] пришлось [csubj VP-Inf]]'
@@ -46,13 +46,15 @@ dependency_structure:
   - '[root придётся [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Пришлось [csubj выпить [obj лекарство]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - работать
   - бросить
   - согласиться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

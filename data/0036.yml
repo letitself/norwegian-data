@@ -6,7 +6,7 @@ illustration: 'Более чем понятно'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция повышает степень интенсивности [признака]Property объекта или ситуации. Показывает, что интенсивность признака выше, чем ожидалось или было необходимо.
+       Конструкция повышает степень интенсивности [признака]Property объекта или ситуации. Конструкция показывает, что интенсивность признака выше, чем ожидалось или было необходимо.
   - norwegian: |
        Konstruksjonen gjør at [et kjennetegn]Property ved et objekt eller en situasjon får økt intensitet. Den viser at kjennetegnet gjør seg gjeldende med større intensitet enn det som var forventet eller nødvendig.
 examples:
@@ -36,18 +36,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[advmod [advmod более [fixed чем]] Adv]'
   - '[root [advmod более [fixed чем]] Pred]'
 dependency_structure_of_illustration:
   - '[root [advmod Более [fixed чем]] понятно]'
+comment: |
+    'No comment yet'
 common_fillers:
   - понятно
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

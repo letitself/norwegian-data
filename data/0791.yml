@@ -3,7 +3,7 @@ record: 791
 name: 'в NumOrd-F.Acc.Sg/Adj-F.Acc.Sg очередь XP'
 UD_name: 'в NumOrd-F.Acc.Sing/Adj-F.Acc.Sing очередь XP'
 illustration: 'Он в первую очередь отец, а потом учёный.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -26,18 +26,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] [amod NumOrd-F.Acc.Sg] очередь] XP]'
   - '[root [obl [case в] [amod Adj-F.Acc.Sg] очередь] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case в] [amod первую] очередь] отец, [conj [cc а] [advmod потом] учёный].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

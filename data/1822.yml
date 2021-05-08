@@ -3,7 +3,7 @@ record: 1822
 name: 'хотеть-Pst бы NP-Nom, чтобы Cl'
 UD_name: 'хотеть-Past бы NP-Nom, чтобы Cl'
 illustration: 'Хотела бы она, чтобы ты обратил на нее внимание.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root хотеть-Pst [aux бы] [nsubj NP-Nom]'
   - '[ccomp [mark чтобы] [Cl]]'
 dependency_structure_of_illustration:
   - '[root Хотела [aux бы] [nsubj она], [ccomp [mark чтобы] [nsubj ты] обратил [obl [case на] нее] [obj внимание]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Volition
 family:

@@ -3,7 +3,7 @@ record: 1366
 name: 'NP-Nom (никогда) не переставать VP-Inf'
 UD_name: 'NP-Nom (никогда) не переставать VP-Inf'
 illustration: 'Никогда не переставайте учиться!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -26,18 +26,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod никогда] [advmod не] переставать [xcomp VP-Inf]]'
   - '[root [nsubj NP-Nom] [advmod не] переставать [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [advmod Никогда] [advmod не] переставайте [xcomp учиться]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

@@ -3,7 +3,7 @@ record: 1234
 name: 'VP не в пример Adj-Cmp/Adv-Cmp'
 UD_name: 'VP не в пример Adj-Cmp/Adv-Cmp'
 illustration: 'Он выглядел не в пример приятнее.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [xcomp [advmod не] [obl [case в] пример] Adj-Cmp]]'
   - '[root VP [advmod [advmod не] [obl [case в] пример] Adv-Cmp]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] выглядел [advmod [advmod не] [obl [case в] пример] приятнее].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

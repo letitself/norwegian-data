@@ -3,7 +3,7 @@ record: 944
 name: 'Разве (не) VP?'
 UD_name: 'Разве (не) VP?'
 illustration: 'Да разве бы он стал такое предлагать?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство, подозрение Разве ты не хочешь в кино?
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root [advmod разве] [advmod не] VP?]'
 dependency_structure_of_illustration:
   - '[root [cc Да] [advmod разве] [aux бы] [nsubj он] стал [xcomp [obj такое] предлагать]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

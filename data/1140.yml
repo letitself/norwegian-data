@@ -32,12 +32,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] бегу]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] бегу] поговорили [obl [case с] Петром] [flat:name Ивановичем].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - надевать
   - стрелять
@@ -56,7 +58,7 @@ common_fillers:
   - решать вопросы
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Taxis

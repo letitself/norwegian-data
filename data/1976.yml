@@ -36,12 +36,14 @@ semantic_roles:
   - Action
   - Instrument
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case по] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root Говорить [obl [case по] телефону]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - скайпу
   - аське
@@ -62,7 +64,7 @@ common_fillers:
   - преподавать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
 family:

@@ -32,10 +32,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] спроса]]'
@@ -48,7 +48,7 @@ common_fillers:
   - войти
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

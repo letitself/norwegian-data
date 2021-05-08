@@ -34,16 +34,18 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - State
   - Theme
+  - State
   - Landmark
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl NP-Ins] [obl [case к] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root Лежать [obl лицом] [obl [case к] стене]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - стоять
   - сидеть
@@ -55,7 +57,7 @@ common_fillers:
   - плечом
 references:
   - |
-    Рахилина, Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, изд. 2, испр. и доп. – 448 с. (стр. 262-263)
+    См. также Рахилина Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, 2-e издание. С. 262-263.
 semantic_types:
   - type: Manner
   - type: Spatial expression

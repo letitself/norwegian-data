@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [advcl [obl [case во] что] [aux бы] [nsubj то] [advmod ни] стало]]'
 dependency_structure_of_illustration:
   - '[root [csubj Закончить [obj книгу]] надо [advcl [obl [case во] что] [aux бы] [nsubj то] [advmod ни] стало].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

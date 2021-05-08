@@ -3,9 +3,21 @@ record: 1729
 name: 'VP перед лицом NP-Gen'
 UD_name: 'VP перед лицом NP-Gen'
 illustration: 'Это сплотит нас перед лицом опасности.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает [действие]State, которое происходит в непосредственной пространственной близости к [участнику]Participant или временной близости к негативным [обстоятельствам]Circumstances ситуации. Как если бы эти обстоятельства были человеком и стояли напротив участника ситуации лицом к нему.
 examples:
+  - |
+       А наш батальон идет, наступает, [стоит]State перед лицом [противника]Participant.
+  - |
+       Состязательная форма процесса, где истец и ответчик непосредственно [стояли]State перед лицом [суда]Participant, допускалась лишь по гражданско-правовым спорам, не затрагивавшим интересы государства.
+  - |
+       Цивилизованный мир [оказывается]State перед лицом [угрозы новых глобальных социальных и классовых расколов]Circumstances.
+  - |
+       Есть моменты в жизни, когда мы вдруг [оказываемся]State перед лицом [последствий своих слов или своих поступков]Circumstances.
+  - |
+       Перед лицом [такого горя]Circumstances, [такого несчастья]Circumstances [должны отступить]State на второй план все недоразумения, перед лицом [смерти]Circumstances [надо стать]State выше всяких обид.
 morphology:
   - VP
   - NP
@@ -21,19 +33,29 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - State
+  - Participant
+  - Circumstances
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case перед] лицом [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] сплотит [obj нас] [obl [case перед] лицом [nmod опасности]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - оказаться
+  - оказываться
+  - противника
+  - угрозы
+  - опасности
+  - смерти
+  - горя
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Manner

@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [dep PronInt'
@@ -30,11 +30,13 @@ dependency_structure:
   - 'VP]'
 dependency_structure_of_illustration:
   - '[root [iobj Кому], [advcl [case как] [advmod не] тебе], понимать [obj [amod детскую] психологию]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

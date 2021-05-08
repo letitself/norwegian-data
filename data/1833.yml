@@ -6,7 +6,7 @@ illustration: 'Он мне подарил книгу, а именно энцик
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "а именно", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой. Подтипом этой конструкции является "не (просто) XP, а именно XP" (пример 5), с помощью которой говорящий подбирает более точное слово в своем описании ситуации, как бы поправляя сам себя.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами «а именно», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой. Подтипом этой конструкции является «не (просто) XP, а именно XP» (пример 5), с помощью которой говорящий подбирает более точное слово в своем описании ситуации, как бы поправляя сам себя.
   - norwegian: |
        Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Сontent. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som står etter ordene 'а именно', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Sloten XP kan fylles av en nominalfrase, preposisjonsfrase eller en verbalfrase.  En undertype av denne konstruksjonen er 'не (просто) ХР, а именно ХР' (eksempel 5), som taleren bruker for å lete frem et ord som beskriver situasjonen mer presist, som om vedkommende korrigerer seg selv.
 examples:
@@ -34,21 +34,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
+  - Content
   - Topic
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP'
   - '[appos [cc а [fixed именно]] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [iobj мне] подарил [obj книгу, [appos [cc а [fixed именно]] энциклопедию [nmod [case о] динозаврах]]].]'
+comment: |
+    'См. другие конструкции со словом "именно" 135 и 1813.'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

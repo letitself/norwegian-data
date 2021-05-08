@@ -3,7 +3,7 @@ record: 1414
 name: 'NP-Nom/VP-Inf Cop в моде/тренде'
 UD_name: 'NP-Nom/VP-Inf Cop в моде/тренде'
 illustration: 'В моде сейчас яркие цвета в одежде.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -24,7 +24,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] моде]'
@@ -33,11 +33,13 @@ dependency_structure:
   - '[root [csubj VP-Inf] [cop Cop] [case в] тренде]'
 dependency_structure_of_illustration:
   - '[root [case В] моде [advmod сейчас] [nsubj [amod яркие] цвета [nmod [case в] одежде]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

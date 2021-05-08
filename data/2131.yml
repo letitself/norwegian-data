@@ -3,7 +3,7 @@ record: 2131
 name: 'вероятно/по всей вероятности, Cl'
 UD_name: 'вероятно/по всей вероятности, Cl'
 illustration: 'Вероятно, я забыл тетрадь дома.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis вероятно], Cl]'
   - '[root [parataxis [case по] [det всей] вероятности], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Вероятно], [nsubj я] забыл [obj тетрадь] [advmod дома].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

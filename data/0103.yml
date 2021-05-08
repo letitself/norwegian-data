@@ -6,7 +6,7 @@ illustration: 'Он делает вид, что слушает.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что [участник]Agent ситуации притворяется и имитирует некоторое [действие]Action, [состояние]State или поведение, которое должно свидетельствовать о наличии определенной [ситуации]Situation. Если речь идет об имитации действия, то наименование участника после союза "что" не повторяется (примеры 1, 2). Если речь идет об имитации состояния или поведения, то слот Cl обычно описывает ситуацию, наличие которой участник имитирует (примеры 3, 4, 5).
+       Конструкция обозначает, что [участник]Agent ситуации притворяется и имитирует некоторое [действие]Action, [состояние]State или поведение, которое должно свидетельствовать о наличии определенной [ситуации]Situation. Если речь идет об имитации действия, то наименование участника после союза «что» не повторяется (примеры 1, 2). Если речь идет об имитации состояния или поведения, то слот Cl обычно описывает ситуацию, наличие которой участник имитирует (примеры 3, 4, 5).
   - norwegian: |
        Konstruksjonen betyr at [en deltaker]Agent i situasjonen forstiller seg og imiterer en gitt [handling]Action, [tilstand]State eller adferd som skal vitne om at en bestemt [situasjon]Situation er til stede. Når det er en handling som imiteres, gjentas ikke navnet på deltakeren etter konjunksjonen "что" (eksempel 1 og 2). Når det er en tilstand eller adferd som imiteres, beskriver sloten Cl vanligvis en situasjon som deltakeren imiterer at er til stede (eksempel 3, 4 og 5).
 examples:
@@ -35,18 +35,20 @@ part_of_speech_of_anchor:
   - Noun
   - Conjunction
 semantic_roles:
-  - Agent
   - Action
   - State
+  - Agent
   - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] делать [obj вид'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] делает [obj вид, [acl [mark что] слушает]].]'
+comment: |
+    'См. близкую конструкцию 1179 NP-Nom притворяться, что Cl (Он притворялся, что не понимает меня)'
 common_fillers:
   - слушать
   - работать
@@ -55,7 +57,7 @@ common_fillers:
   - торопиться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

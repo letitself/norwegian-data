@@ -3,7 +3,7 @@ record: 2016
 name: 'Не факт, что Cl'
 UD_name: 'Не факт, что Cl'
 illustration: 'Не факт, что это удачный эксперимент.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod не] факт'
   - '[csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] факт, [csubj [mark что] [nsubj это] [amod удачный] эксперимент].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

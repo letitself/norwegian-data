@@ -3,8 +3,10 @@ record: 1308
 name: 'VP в надежде (на то), что VP'
 UD_name: 'VP в надежде (на то), что VP'
 illustration: 'Каждый оператор сидел в надежде, что запечатлит эти кадры именно он.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       скорее всего вторую глаг группу надо заменить на клаузу
 examples:
 morphology:
   - VP
@@ -22,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] надежде [nmod [case на] то, [acl [mark что] VP]]]]'
   - '[root VP [obl [case в] надежде, [acl [mark что] VP]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Каждый] оператор] сидел [obl [case в] надежде, [acl [mark что] запечатлит [obj [det эти] кадры] [advmod именно] [nsubj он]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

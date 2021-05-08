@@ -3,7 +3,7 @@ record: 1156
 name: 'какого черта Cl!'
 UD_name: 'какого черта Cl!'
 illustration: 'Какого черта здесь так грязно!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        General negative attitude to the situation on the side of the speaker - in all Curse constructions. Restriction on VP: уходить, убираться, уезжать Correct ко всем чертям/ к чертям/ к черту VP. посмотреть на изменение экспрессивности, есть ли различия в сочетаемости, какие глаголы - по корпусу мин 50-100 (глаголы движения и пр), иди к чёрту
@@ -28,11 +28,13 @@ dependency_structure:
   - '[root [obl [det какого] черта] Cl!]'
 dependency_structure_of_illustration:
   - '[root [obl [det Какого] черта] [advmod здесь] [advmod так] грязно!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

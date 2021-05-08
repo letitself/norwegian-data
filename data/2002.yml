@@ -3,7 +3,7 @@ record: 2002
 name: 'по представлениям NP-Gen/по PronPoss-Dat представлениям, Cl'
 UD_name: 'по представлениям NP-Gen/по PronPoss-Dat представлениям, Cl'
 illustration: 'По представлению матери, Миша обязательно должен был закончить музыкальную школу.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case по] представлениям [nmod NP-Gen]], Cl]'
   - '[root [parataxis [case по] [det PronPoss-Gen] представлениям], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case По] представлению [nmod матери]], [nsubj Миша] [advmod обязательно] должен [cop был] [xcomp закончить [obj [amod музыкальную] школу]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
 family:
   - |

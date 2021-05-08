@@ -3,7 +3,7 @@ record: 1164
 name: 'наиболее/наименее Adj среди NP-Gen.Pl'
 UD_name: 'наиболее/наименее Adj среди NP-Gen.Plur'
 illustration: 'Петя – наиболее приятный человек среди моих знакомых.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[amod [advmod наиболее] Adj [obl [case среди] NP-Gen.Pl]]'
   - '[amod [advmod наименее] Adj [obl [case среди] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] – [amod [advmod наиболее] приятный] человек [obl [case среди] [det моих] знакомых].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

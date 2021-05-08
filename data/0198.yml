@@ -6,7 +6,7 @@ illustration: 'Не могу не согласиться.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция с двойным отрицанием выражает усиленное [утверждение]Action. В некоторых контекстах может обозначать [долженствование]Action (например, не могу не помочь/сказать и т.п.)
+       Конструкция обозначает, что [говорящий или другой участник]Experiencer осмысляет [некоторое действие]Action как единственно возможный приемлемый вариант поведения в сложившейся ситуации. С точки зрения говорящего, у участника нет выбора. Нередко подразумевается, что это действие идет вопреки желаниям или возможностям участника. BYLO Конструкция с двойным отрицанием выражает усиленное [утверждение]Action. В некоторых контекстах может обозначать [долженствование]Action (например, не могу не помочь/сказать и т.п.)
   - english: |
        The speaker adopts some strategy as the only acceptable in the situation, acceptable according to his her ideas. Confidence about action/decision. Нет выбора. no choicе, obviousness, unequivocalness Конструкция с двойным отрицанием выражает усиленное [утверждение]Action. В некоторых контекстах может обозначать [долженствование]Action (например, не могу не помочь/сказать и т.п.) Бурный рост предложения на компьютеры [ [не]не [мог]мочь [не]не [привести]Action ]не_мочь_не_VP-Inf к усилению конкуренции.
   - norwegian: |
@@ -35,17 +35,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] мочь [advmod не] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] могу [advmod не] [xcomp согласиться].]'
+comment: |
+    'См. похожую конструкцию 21.'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

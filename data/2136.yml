@@ -3,7 +3,7 @@ record: 2136
 name: 'судя по всему, Cl'
 UD_name: 'судя по всему, Cl'
 illustration: 'Судя по всему, эта идея станет одной из центральных.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis судя [obl [case по] всему]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Судя [obl [case по] всему]], [nsubj [det эта] идея] станет [xcomp одной [nmod [case из] центральных]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

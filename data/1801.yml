@@ -35,11 +35,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - Property
   - Action
+  - Property
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod адски] XP]'
@@ -55,7 +55,7 @@ common_fillers:
   - холодно
 references:
   - |
-    Zhukova, V. Title. MA thesis.
+    See also Zhukova, Valentina. 2020. Intensifying constructions in Russian based on data from Russian Constructicon. Moscow: National Research University Higher School of Economics, MA Thesis.
 semantic_types:
   - type: Degree of intensity
     subtypes:

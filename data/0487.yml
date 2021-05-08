@@ -30,7 +30,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod только [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
@@ -41,11 +41,13 @@ dependency_structure:
   - '[root [advmod хоть [fixed бы]] [cop Cop] VP-Pfv.Inf]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod только] [aux бы] увидеть [obj ее].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Exclusive
   - type: Volition

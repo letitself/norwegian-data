@@ -3,10 +3,10 @@ record: 1528
 name: 'NP-Nom Cop ни к чёрту'
 UD_name: 'NP-Nom Cop ни к чёрту'
 illustration: 'Нервы у меня ни к чёрту.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       память, нервы, печень - части тела либо "ментальные характеристики" - связано со здоровьем, в том числе и психическим. реже - реакция на плохое качество объекта - мотор, стол, пальто ни к черту. черт НЕ мб заменён на фиг/хрен
+       память, нервы, печень - части тела либо «ментальные характеристики» - связано со здоровьем, в том числе и психическим. реже - реакция на плохое качество объекта - мотор, стол, пальто ни к черту. черт НЕ мб заменён на фиг/хрен
 examples:
 morphology:
   - NP
@@ -26,12 +26,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] [case к] чёрту]'
 dependency_structure_of_illustration:
   - '[root [nsubj Нервы] [obl [case у] меня] [advmod ни] [case к] чёрту.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

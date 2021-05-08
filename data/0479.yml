@@ -38,14 +38,17 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Experiencer
-  - Action
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] [advmod не] [case до] NP-Gen]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod не] [case до] уборки.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - отдыха
   - прогулок

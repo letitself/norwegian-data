@@ -3,7 +3,7 @@ record: 1898
 name: 'Cl cверх NP-Gen'
 UD_name: 'Cl cверх NP-Gen'
 illustration: 'Сверх обычной суммы Виталий оставил немного денег на чай.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case сверх] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Сверх] [amod обычной] суммы] [nsubj Виталий] оставил [obj [nummod:gov немного] денег] [obl [case на] чай].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Additive
 family:

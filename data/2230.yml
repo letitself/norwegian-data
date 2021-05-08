@@ -1,13 +1,25 @@
 ---
 record: 2230
-name: 'XP, подобно тому как XP'
-UD_name: 'XP, подобно тому как XP'
+name: 'Cl, подобно тому как Cl'
+UD_name: 'Cl, подобно тому как Cl'
 illustration: 'Мы не ощущаем давления воздуха, подобно тому как рыбы не чувствуют давления воды.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает сходство [одной ситуации]Comparee с [другой реальной ситуацией]Standard. Конструкция может использоваться для объяснения ситуации путем сравнения ее с другой, которая, с точки зрения говорящего, является более знакомой и понятной для адресата (пример 4).
 examples:
+  - |
+       У римлян были воспитательные путешествия: [молодых людей отправляли в Грецию]Comparee ― подобно тому, как [молодых англичан в XVIII веке отправляли в Швейцарию]Standard.
+  - |
+       Подобно тому как [нетерпеливый юноша ждёт часа свидания]Standard, [я ждал часа ночи]Comparee.
+  - |
+       [Природа воссоздавала из праха и камня облик древнего леса]Comparee подобно тому, как [скульптор отливает из металла фигуры людей]Standard.
+  - |
+       [Именно такая структура «заставляет» свет огибать объект]Comparee подобно тому, как [вода в ручье обтекает камень]Standard.
+  - |
+       [Сосредоточьте ресурсы на этих товарах]Comparee, подобно тому, как [на войне собирают войска для главного удара]Standard.
 morphology:
-  - XP
+  - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -17,20 +29,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP'
   - '[obl [case подобно] тому [acl [mark как] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] ощущаем [obj давления [nmod воздуха]], [obl [case подобно] тому [acl [mark как] [nsubj рыбы] [advmod не] чувствуют [obj давления [nmod воды]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

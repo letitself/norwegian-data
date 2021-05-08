@@ -37,7 +37,7 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case по] NP-Dat]]'
@@ -55,7 +55,7 @@ common_fillers:
   - злой умысел
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

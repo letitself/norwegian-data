@@ -3,16 +3,20 @@ record: 1778
 name: 'XP – это PronPers-Dat Cop не XP'
 UD_name: 'XP – это PronPers-Dat Cop не XP'
 illustration: 'Сибирь – это вам не Москва, здесь совсем другие условия.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Evaluation by negation of a positive / negative quality - what it is NOT add, write a comment what XP includes, xolodno ne zharko, kurit eto ne shutki shutit. Ещё есть "тут/здесь Pron-Dat не VP"
+       Конструкция выражает сравнение и подчеркивает противопоставление двух ситуаций или их элементов (участников, объектов, действий). Говорящий заявляет, что [один элемент ситуации]Comparee не является [другим элементом ситуации]Standard, а значит, устроен или ведет себя не так, как другой. Поэтому говорящий как бы заявляет потенциальному [собеседнику]Addressee, что подобное сравнение недопустимо, некорректно или неуместно. Слот XP может заполняться именной группой, глагольной группой с глаголом в инфинитиве, предложной группой или наречием.
 examples:
 morphology:
   - XP
   - PronPers
   - Dat
   - Cop
+  - NP
+  - VP
+  - PP
+  - Adv
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
@@ -25,12 +29,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root XP – [expl это] [iobj PronPers-Dat] [cop Cop] [advmod не] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Сибирь] – [expl это] [iobj вам] [advmod не] Москва, [conj здесь [nsubj [amod [advmod совсем] другие] условия]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -3,7 +3,7 @@ record: 1809
 name: 'Как вариант, можно Cop VP-Inf / (NP-Nom) мочь VP-Inf'
 UD_name: 'Как вариант, можно Cop VP-Inf / (NP-Nom) мочь VP-Inf'
 illustration: 'Как вариант, можно отдать ребенка в частную школу.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -28,18 +28,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [case как] вариант], можно [cop Cop] [csubj VP-Inf]]'
   - '[root [parataxis [case как] вариант], [NP-Nom] мочь [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case Как] вариант],можно [csubj отдать [obj ребенка] [obl [case в] [amod частную] школу]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Options
   - type: Root modality

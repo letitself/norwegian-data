@@ -35,22 +35,25 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Causee
   - Causer
+  - Situation
+  - Causee
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] давлением [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Правительство] [obl [case под] давлением [nmod [amod прогрессивной] общественности]] учредило [obj нечто [nmod [case вроде] [amod государственной] опеки]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - обстоятельства
   - окружающие
   - власти
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

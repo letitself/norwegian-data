@@ -6,7 +6,7 @@ illustration: 'Внутри сосуда давление было высоко�
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция указывает на локализацию [объекта]Theme, [участника]Participant или [ситуации]Situation в пределах некоторого [контейнера]Location. Контейнер может быть как конкретным физическим пространством (примеры 1, 3, 4, 5), так и абстрактным (пример 2). Слово "внутри" может использоваться как предлог с зависимым существительным, которое может опускаться, или как наречие. Слот XP может заполняться глагольной группой (пример 1), именной группой (примеры 2, 3), прилагательным (пример 4), наречием или целой клаузой (пример 5).
+       Конструкция указывает на локализацию [объекта]Theme, [участника]Participant или [ситуации]Situation в пределах некоторого [контейнера]Location. Контейнер может быть как конкретным физическим пространством (примеры 1, 3, 4, 5), так и абстрактным (пример 2). Слово «внутри» может использоваться как предлог с зависимым существительным, которое может опускаться, или как наречие. Слот XP может заполняться глагольной группой (пример 1), именной группой (примеры 2, 3), прилагательным (пример 4), наречием или целой клаузой (пример 5).
   - norwegian: |
        Konstruksjonen angir hvor [et objekt]Theme, [en deltaker]Participant eller [en situasjon]Situation befinner seg innenfor [en beholder]Location. Beholderen kan være så vel et konkret fysisk rom (eksempel 1, 3, 4 og 5) som et abstrakt (eksempel 2). Ordet 'внутри' kan anvendes som en preposisjon, der utfyllingen er et substantiv som kan utelates, eller som et adverb. Sloten XP kan fylles av en verbfrase (eksempel 1), nominalfrase (eksempel 2 og 3), et adjektiv (eksempel 4), et adverb eller en hel leddsetning (eksempel 5).
 examples:
@@ -39,17 +39,21 @@ part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
   - Theme
-  - Participant
-  - Situation
+  - Property
+  - Action
   - Location
+  - Situation
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [obl [case внутри] NP-Gen]]'
   - '[root XP [advmod внутри]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Внутри] сосуда] [nsubj давление] [cop было] высокое.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - пустой
   - полый
@@ -58,7 +62,7 @@ common_fillers:
   - компания
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

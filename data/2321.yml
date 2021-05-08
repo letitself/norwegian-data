@@ -5,6 +5,8 @@ UD_name: 'Кто бы говорил о NP-Loc, (но только не NP-Nom)'
 illustration: 'Кто бы говорил о правильном питании!'
 cefr_level: 
 definitions:
+  - russian: |
+       Exclamatory mark in formula
 examples:
 morphology:
   - NP
@@ -18,8 +20,8 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Coordinator
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate, Argument Structure
+  - Subject and Predicate
+  - Argument Structure
 part_of_speech_of_anchor:
   - Pronoun
   - Particle
@@ -29,18 +31,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj кто] [aux бы] говорил [obl [case о] NP-Loc]]'
   - '[root [nsubj кто] [aux бы] говорил [obl [case о] NP-Loc], [conj [cc но] [advmod только] [advmod не] NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] [aux бы] говорил [obl [case о] [amod правильном] питании]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

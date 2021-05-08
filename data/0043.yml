@@ -6,7 +6,7 @@ illustration: 'Я за то, чтобы ты у нас жил.'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция выражает положительное отношение [участника]Participant к некоторому потенциальному [действию]Action или [ситуации]Situation, которые как правило будут осуществляться другими участниками. Подразумевается, что есть ряд альтернатив развертывания событий, и участник ясно высказывает одобрение и поддержку одного из возможных вариантов. Может использоваться как слово "чтобы", так и его усеченный вариант "чтоб".
+       Конструкция выражает положительное отношение [участника]Participant к некоторому потенциальному [действию]Action или [ситуации]Situation, которые как правило будут осуществляться другими участниками. Подразумевается, что есть ряд альтернатив развертывания событий, и участник ясно высказывает одобрение и поддержку одного из возможных вариантов. Может использоваться как слово «чтобы», так и его усеченный вариант «чтоб».
   - norwegian: |
        Konstruksjonen uttrykker [en deltakers]Participant positive holdning til en gitt potensiell [handling]Action eller [situasjon]Situation som vanligvis vil bli iverksatt av andre deltakere. Det er underforstått at det finnes en rekke alternativer for begivenhetenes videre gang, og deltakeren gir sin klare tilslutning og støtte til et av dem. Både ordet "чтобы" og dets avkortede versjon "чтоб" kan brukes.
 examples:
@@ -38,11 +38,11 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - Participant
   - Action
+  - Participant
   - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case за] то, [acl [mark чтобы] Cl]]'
@@ -52,7 +52,7 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожую конструкцию 1804 NP-Nom Cop за NP-Acc (Я за революцию).'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

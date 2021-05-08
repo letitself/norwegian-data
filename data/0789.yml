@@ -6,14 +6,14 @@ illustration: 'Недавно ввели новые штрафы в отноше
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee (примеры 1, 2, 3). Конструкция может также указывать на [участника или объект]Topic, о котором высказывается [определенное суждение]Evaluation (в этом употреблении слова "в отношении" синонимичны словам "относительно", "насчет") (примеры 4, 5).
+       Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee (примеры 1, 2, 3). Конструкция может также указывать на [участника или объект]Topic, о котором высказывается [определенное суждение]Evaluation (в этом употреблении слова «в отношении» синонимичны словам «относительно», «насчет») (примеры 4, 5).
   - norwegian: |
        Konstruksjonen betyr at en gitt [handling]Action er rettet mot [en deltaker]Addressee eller [en gruppe deltakere]Addressee (eksempel 1, 2 og 3). Konstruksjonen kan også vise til [den deltakeren eller det objektet]Topic som [et gitt utsagn]Evaluation dreier seg om. (Brukt på denne måten er ordene 'в отношении' synonyme med ordene 'относительно' og ''насчёт') (eksempel 4 og 5).
 examples:
   - |
        В отношении [родителей]Addressee запрещается [проявлять даже малейшую грубость или недовольство]Action.
   - |
-       Никаких кадровых [решений]Action в отношении [Кудрина]Àddressee не последует.
+       Никаких кадровых [решений]Action в отношении [Кудрина]Addressee не последует.
   - |
        Собственно, после истории с Крымом и начались [санкции]Action в отношении [России]Addressee.
   - |
@@ -34,12 +34,14 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Evaluation
+  - Theme
   - Action
   - Addressee
   - Topic
-  - Evaluation
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] отношении [nmod NP-Gen]]]'
@@ -55,7 +57,7 @@ common_fillers:
   - решение
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Addressee
     subtypes:

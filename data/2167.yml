@@ -3,7 +3,7 @@ record: 2167
 name: '(NP-Dat) NP-Nom (не) катить'
 UD_name: '(NP-Dat) NP-Nom (не) катить'
 illustration: 'Мне такой аргумент не катит.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Использовать нельзя, потому что неуместен. Сейчас это катит, шпион это круто. В общем, Байрон, как говорят мои студенты, уже «не катил». [Андрей Геласимов. Рахиль // «Октябрь», 2003] в корпусе. в гугле А ещё больше не катил категорический отказ покланяться императору как Богу. редко но бывает в прошедшем конструкции еще и про уместность (whether the object can be of use)
@@ -26,7 +26,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [nsubj NP-Nom] [advmod не] катить]'
@@ -35,6 +35,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] катить]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [nsubj [det такой] аргумент] [advmod не] катит.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

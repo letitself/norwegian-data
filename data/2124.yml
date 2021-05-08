@@ -3,7 +3,7 @@ record: 2124
 name: '(NP-Dat) положено/полагается VP-Inf'
 UD_name: '(NP-Dat) положено/полагается VP-Inf'
 illustration: 'Вам положено сидеть дома.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,7 +23,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [iobj NP-Dat] положено [cop Cop] [csubj VP-Inf]]'
@@ -32,11 +32,13 @@ dependency_structure:
   - '[root полагается [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Вам] положено [csubj сидеть [advmod дома]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

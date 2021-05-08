@@ -3,7 +3,7 @@ record: 1001
 name: 'ей-богу, Cl'
 UD_name: 'ей-богу, Cl'
 illustration: 'Ей-богу, я знал её наизусть.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root [parataxis Ей-богу]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Ей-богу], [nsubj я] знал [obj её] [advmod наизусть].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

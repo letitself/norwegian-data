@@ -3,7 +3,7 @@ record: 1847
 name: 'кто бы ни VP-Pst, Cl'
 UD_name: 'кто бы ни VP-Past, Cl'
 illustration: 'Кто бы ни звал её в кино, она не соглашалась.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [nsubj кто] [aux бы] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [nsubj Кто] [aux бы] [advmod ни] звал [obj её] [obl [case в] кино]], [nsubj она] [advmod не] соглашалась.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Concession

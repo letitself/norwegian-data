@@ -6,7 +6,7 @@ illustration: 'В такой квартире даже развернуться 
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает отсутствие места, необходимого [участнику]Experiencer для осуществления некоторого [действия]Action. Ударение в "негде" стоит на не-.
+       Конструкция обозначает отсутствие места, необходимого [участнику]Experiencer для осуществления некоторого [действия]Action. Ударение в «негде» стоит на не-.
   - english: |
        This construction means that there is no place for the dative subject to perform a certain [Action]Action or [get]Action something. Негде is placed before or after the verb.
   - norwegian: |
@@ -38,15 +38,18 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Predicative
 semantic_roles:
-  - ~
+  - Experiencer
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [csubj VP-Inf] [cop Cop] негде]'
   - '[root [csubj VP-Inf] [iobj NP-Dat] [cop Cop] негде]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] [det такой] квартире] [csubj [advmod даже] развернуться] негде.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - жить
   - укрыться
@@ -54,7 +57,7 @@ common_fillers:
   - присесть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

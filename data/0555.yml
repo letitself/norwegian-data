@@ -9,8 +9,6 @@ definitions:
        Конструкция используется для того, чтобы показать [изменение]Result [некоторого участника или объекта]Theme . Это изменение произошло с течением времени или по другим обстоятельствам. Изменение коснулось либо статуса, либо каких-либо характерных особенностей.
   - english: |
        This construction is used to show the [change]Result [of a participant or an object]Theme. This change happened over time or due to other circumstances. The change has affected either the status or some characteristic features.
-  - norwegian: |
-       N/A
 examples:
   - |
        У бабушки Пани была дочь Лидия. Вот её племянник Эдик посетил во вполне зрелом возрасте 21 года в городе Рига. [Лидия]Theme сделалась [адвокатом]Result и родила дочь Ларису.
@@ -36,18 +34,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] сделаться [xcomp NP-Ins]]'
   - '[root [nsubj NP-Nom] сделаться [xcomp Adj-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] сделался [xcomp [amod важным] начальником].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

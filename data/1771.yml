@@ -3,7 +3,7 @@ record: 1771
 name: 'ещё бы PronPers-Nom не Verb-Pst, Cl!'
 UD_name: 'ещё бы PronPers-Nom не V-Past, Cl!'
 illustration: 'А он даст лодку? – Ещё бы он не дал, я же его любимчик!'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -32,11 +32,13 @@ dependency_structure:
   - '[parataxis Cl]!]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj он] даст [obj лодку]?] [root – [advmod Ещё] [aux бы] [nsubj он] [advmod не] дал, [parataxis [nsubj я [advmod же]] [det его] любимчик]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

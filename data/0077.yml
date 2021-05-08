@@ -37,23 +37,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
+  - Evaluation
   - Theme
   - Action
   - Situation
   - Manner
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod вроде [fixed бы]] XP]'
   - '[root [advmod вроде [fixed бы]] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Вроде [fixed бы]] [nsubj он] обещал [xcomp прийти].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod так] [aux бы] [advmod сразу] [advmod и] VP-Pst, [ccomp [mark что] Cl]]'
   - '[root [advmod так] [aux бы] [advmod сразу] [advmod и] VP-Pst]'
 dependency_structure_of_illustration:
   - '[root [advmod Так] [aux бы] [advmod сразу] [advmod и] сказал, [ccomp [mark что] женат].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

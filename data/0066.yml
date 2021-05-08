@@ -6,20 +6,18 @@ illustration: 'Вот так встреча!'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция обозначает, что какое-либо [действие]Action является следствием ситуации, о которой говорилось ранее, или вывод из этой ситуации.
-  - english: |
-       This construction expresses that a certain [action]Action is the consequence of a certain situation (e.g. X cannot remember anything because he is drunk), or how one should relate to/think about this situation now (e.g. X should be happy that they have not had to deal with it).
-  - norwegian: |
-       Konstruksjonen uttrykker at en viss [handling]Action skjer som følge av en annen situasjon (f.eks. X husker ingenting fordi han har drukket), eller hvordan man nå bør forholde seg til/tenke om denne situasjonen (f.eks. X bør være glad for at han eller hun ikke har måttet hanskes med den).
+       Конструкция выражает удивление говорящего неожиданным [объектом]Theme, [участником]Participant или [событием]Event. Удивление возникает в результате разочарования (реальность хуже, чем ожидалось) или восхищения (реальность лучше, чем ожидалось). Является ли оценка положительной или отрицательной, обычно становится понятно только из контекста. Oбычно такое пояснение дается в отдельной клаузе Cl.
 examples:
   - |
-       ― Вот и [радуйтесь]Action, что вы с такой ситуацией не сталкивались.
+       Вот так [аквариум!]Theme [Оригинальное сооружение находится в рыбном ресторане столицы Филиппин Маниле. Чтобы привлечь посетителей, хозяин ресторанчика соорудил огромный аквариум, в котором плавают три девушки и юноша. Пока посетители ужинают, пловцы изображают морских обитателей.]Situation
   - |
-       Ну вот и [подумай]Action, кого ты пытался обмануть.
+       Вдруг дверь отворилась ― и заявился нежданный гость: высокий молодой парень, тот самый, который повстречался нам вчера. Егор даже слегка растерялся. ― О-о! ― сказал он. ― Вот так [гость!]Participant
   - |
-       А сердце-то больное, вот и [не выдержало.]Action
+       Элегантный хозяин отеля, [сам подающий гостям кофе и пиво.]Situation Наши удивлены ― вот так [капиталист!..]Participant
   - |
-       Напился, вот и [не помнишь]Action ничего!
+       ― Марья Владимировна, у вас, конечно, большой опыт. Я вас хотел спросить: по какому это признаку можно узнать, любишь человека или нет? ― Вот так [вопрос!]Theme Придётся отвечать.
+  - |
+       Через несколько дней карта поступила в отделение банка, и я отправился её получать. [В банке меня "приятно" удивили необходимостью оформления страховки и оплаты в кассе 3000 рублей.]Situation Вот так ["подарок"!]Theme При оформлении заявки ни один из сотрудников о такой необходимости не сообщил.
 morphology:
   - NP
   - Nom
@@ -34,7 +32,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Event
+  - Theme
+  - Participant
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -43,8 +44,19 @@ dependency_structure:
   - '[root [advmod вот] [advmod так] NP-Nom [cop Cop]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod так] встреча!]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - встреча
+  - история
+  - штука
+  - раз
+  - вопрос
+  - новость
+  - дела
+  - сюрприз
+  - совпадение
+  - номер
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
@@ -55,7 +67,7 @@ semantic_types:
   - type: Mirative
   - type: Polarity value
     subtypes:
-      - type: Positive
+      - type: Both Negative and Positive
 family:
   - |
     "Expressions of surprisal"

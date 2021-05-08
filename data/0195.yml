@@ -32,9 +32,9 @@ part_of_speech_of_anchor:
   - Predicative
   - Particle
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [advmod не] грех [cop Cop] [csubj [advmod и] VP-Pfv.Inf]]'

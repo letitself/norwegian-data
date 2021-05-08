@@ -3,7 +3,7 @@ record: 1109
 name: 'как же NP-Dat Cop не VP-Inf?'
 UD_name: 'как же NP-Dat Cop не VP-Inf?'
 illustration: 'Как же мне не помнить?'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        The speaker adopts some strategy as the only acceptable in the situation, acceptable according to his her ideas. Confidence about action/decision. Нет выбора. no choicе, obviousness, unequivocalness Конструкция обозначает, что [кому-либо]Patient необходимо, приходится [сделать что-либо]Actionвопреки его желаниям и возможностям и несмотря на препятствия.
@@ -33,11 +33,13 @@ dependency_structure:
   - '[root [advmod как [advmod же]] [iobj NP-Dat] [cop Cop] [advmod не] VP-Inf?]'
 dependency_structure_of_illustration:
   - '[root [advmod Как [advmod же]] [iobj мне] [advmod не] помнить?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

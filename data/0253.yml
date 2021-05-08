@@ -6,20 +6,22 @@ illustration: 'От него одни проблемы.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция употребляется, чтобы выделить или подчеркнуть исключительность [какого-либо объекта]Theme или [субъекта.]Theme Конструкция может нести негативную оценку.
+       Конструкция повышает степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что некоторая ситуация заполнена  множеством гомогенных [событий, обстоятельств или участников]Theme, которые могут оцениваться негативно. Слово "один" в данной конструкции означает 'только', 'исключительно'. Как если бы кроме описанных событий, обстоятельств или участников в ситуации больше ничего не присутствовало. Так, "Кот ест одну рыбу" означает, что кот ест только рыбу, а другую еду не ест или почти не ест.
   - english: |
        This construction emphasizes that [something]Situation involves nothing but [X]Theme, e.g. проблемы ‘problems’ in от него одни проблемы ‘there are only problems with him’. In English the construction can often be translated as ‘only’ or ‘nothing but’. The construction has a negative connotation.
   - norwegian: |
        Konstruksjonen understreker at [noe]Situation ikke har noe annet enn [X]Theme, f.eks. проблемы ‘problemer’ i от него одни проблемы ‘med ham er det bare problemer’. På norsk kan konstruksjonen ofte oversettes med ‘bare’ eller ‘kun’. Konstruksjonen har negativ konnotasjoner.
 examples:
   - |
-       [У нас в команде]Situation одни [мальчики]Theme.
+       У меня в университете из-за физики одни [проблемы]Theme.
   - |
-       [От тебя]Situation одни [неприятности]Theme!
+       От тебя одни [неприятности]Theme!
   - |
-       [Кот ест]Situation одну [рыбу]Theme.
+       Дома одно [расстройство]Theme.
   - |
-       [Чаю в станционном буфете не было]Situation, предлагался один [кофе]Theme.
+       Кот ест одну [рыбу]Theme.
+  - |
+       У нас в команде одни [мальчики]Theme.
 morphology:
   - Noun
 syntactic_type_of_construction:
@@ -32,19 +34,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adjective
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [amod одни] Noun]]'
 dependency_structure_of_illustration:
   - '[root [case От] него [nsubj [amod одни] проблемы].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - беды
+  - проблемы
+  - несчастья
+  - страдания
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

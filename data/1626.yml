@@ -3,7 +3,7 @@ record: 1626
 name: 'впоследствии VP'
 UD_name: 'впоследствии VP'
 illustration: 'Впоследствии он возглавил целый департамент.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -17,19 +17,21 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [advmod впоследствии] VP]'
 dependency_structure_of_illustration:
   - '[root [advmod Впоследствии] [nsubj он] возглавил [obj [amod целый] департамент].]'
+comment: |
+    'См. похожие конструкции 316, 1063, 1623, 2011.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Taxis
     subtypes:

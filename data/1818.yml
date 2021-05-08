@@ -3,7 +3,7 @@ record: 1818
 name: '(Только) чур (не) XP!'
 UD_name: '(Только) чур (не) XP!'
 illustration: 'Кто пойдет в магазин? Только чур не я!'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -20,7 +20,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod только] [advmod чур] [advmod не] XP!]'
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root [advmod чур] XP!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] пойдет [obl [case в] магазин]?] [root [advmod Только] [advmod чур] [advmod не] я!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Prohibition

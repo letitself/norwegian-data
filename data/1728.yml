@@ -35,15 +35,17 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Situation
   - Set
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] кругах [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] кругах [nmod [amod московских] историков]] [nsubj:pass [det эта] идея] [advmod широко] распространена.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - журналисты
   - молодежь
@@ -51,7 +53,7 @@ common_fillers:
   - формалисты
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

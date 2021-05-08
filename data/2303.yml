@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [acl сам] подумать-Imp'
   - '[ccomp Cl]]'
 dependency_structure_of_illustration:
   - '[root [acl Сам] подумай, [ccomp [advmod зачем] [iobj [amod взрослому] человеку] [nsubj это] нужно]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

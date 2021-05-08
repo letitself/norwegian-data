@@ -32,16 +32,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
   - Patient
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case за] шиворот]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Полицейский] тащит [obj его] [obl [case за] шиворот].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - взять
   - тащить
@@ -50,7 +52,7 @@ common_fillers:
   - брать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

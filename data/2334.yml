@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj [advmod не] PronPers-Dat] судить'
   - '[ccomp Cl]]'
 dependency_structure_of_illustration:
   - '[root [iobj [advmod Не] тебе] судить, [ccomp [det что] [nsubj я] [case за] человек].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

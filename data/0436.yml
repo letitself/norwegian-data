@@ -6,7 +6,7 @@ illustration: 'Мужик он и есть мужик.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы подчеркнуть, что сущность [некоторого объекта]Theme не поменяется ни при каких обстоятельствах и все [ожидания]Standard будут верны. [Местоимение]Actant соотносится с объектом, согласуется с ним по числу и роду. Основной глагол "есть" не изменяется по временам.
+       Конструкция используется для того, чтобы подчеркнуть, что сущность [некоторого объекта]Theme не поменяется ни при каких обстоятельствах и все [ожидания]Standard будут верны. [Местоимение]Actant соотносится с объектом, согласуется с ним по числу и роду. Основной глагол «есть» не изменяется по временам.
 examples:
   - |
        А чего его перестраивать, верно? [Сарай]Theme [он]Actant и есть [сарай]Standard. Там кое-что осталось от прежних хозяев, а поверх и нашего старья набросали достаточно.
@@ -32,17 +32,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [dislocated Noun-Nom] [nsubj PronPers-3.Nom] [advmod и] [cop есть] Noun-Nom]'
 dependency_structure_of_illustration:
   - '[root [dislocated Мужик] [nsubj он] [advmod и] [cop есть] мужик.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

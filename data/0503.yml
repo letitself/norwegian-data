@@ -26,13 +26,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [dep XP] [iobj NP-Dat] [cop Cop] [advmod ни] [case к] чему]'
   - '[root [dep XP] [cop Cop] [advmod ни] [case к] чему]'
 dependency_structure_of_illustration:
   - '[root [nsubj [advmod Ещё] [nummod:gov одно] платье] [iobj мне] [advmod ни] [case к] чему.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

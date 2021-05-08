@@ -3,7 +3,7 @@ record: 1540
 name: 'примерно/приблизительно Prep NumCrd (NP-Gen)'
 UD_name: 'примерно/приблизительно Prep NumCrd (NP-Gen)'
 illustration: 'Нужно приготовить супа примерно на восемь порций.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[obl [advmod примерно] [case Prep] NumCrd [NP-Gen]]'
@@ -31,16 +31,20 @@ dependency_structure:
   - '[obl [advmod приблизительно] [case Prep] NumCrd]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj приготовить [obj супа [nmod [advmod примерно] [case на] [nummod:gov восемь] порций]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:
       - type: Approximate
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
 family:
   - |
     ""

@@ -6,7 +6,7 @@ illustration: 'Август наиболее жаркий месяц из все
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что какой-либо [субъект или объект]Theme проявляет свои [качества]Property больше/меньше других объектов или субъектов из [определенного класса]Set.
+       Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в максимальной степени его проявления и этим отличается от всех остальных представителей [некоторого класса]Standard.
   - english: |
        This construction means that [X]Theme has a given [property]Property to a higher/lower degree than all the other members of its [particular class]Set, e.g. август наиболее жаркий месяц из всех летних ‘August is the warmest of all the summer months’.
   - norwegian: |
@@ -37,18 +37,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod [advmod наиболее] Adj] [nmod [case из] NP-Gen.Pl]]'
   - '[amod [advmod наименее] Adj] [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Август] [amod [advmod наиболее] жаркий] месяц [nmod [case из] [det всех] [amod летних] месяцев].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

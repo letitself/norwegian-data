@@ -32,15 +32,17 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] уме]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod спешно] подбирал [obl [case в] уме] [obj слова [nmod [case для] ответа]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - считать
   - перебирать
@@ -48,7 +50,7 @@ common_fillers:
   - решать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

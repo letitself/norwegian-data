@@ -34,23 +34,25 @@ part_of_speech_of_anchor:
   - Noun
   - Conjunction
 semantic_roles:
-  - Agent
   - Action
-  - Situation
+  - Agent
   - Purpose
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root Cl [obl [case с] [det той] целью'
   - '[acl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [cc Но] упомянул [obj [det это] определение] [obl [case с] [det той] целью, [acl [mark чтобы] вывести] [obj либералов] [obl [case на] признание]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

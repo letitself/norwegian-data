@@ -6,7 +6,7 @@ illustration: 'Я пригласила только самых близких п
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "в смысле", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Часто говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Подразумевается, что первоначальный вариант формулировки будет непонятен собеседнику или может быть понят им неправильно. Слот XP может заполняться именной, предложной или глагольной группой.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами «в смысле», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Часто говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Подразумевается, что первоначальный вариант формулировки будет непонятен собеседнику или может быть понят им неправильно. Слот XP может заполняться именной, предложной или глагольной группой.
   - norwegian: |
        Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'в смысле', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Ofte er det som om taleren korrigerer sin opprinnelige, noe upresise, formulering ved å foreslå en alternativ formulering. Det er underforstått at den opprinnelige versjonen av formuleringen vil være uforståelig for samtalepartneren eller at vedkommende kan komme til å forstå den forkjært. Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
@@ -36,21 +36,24 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Content
   - Topic
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep XP'
   - '[appos [obl [case в] смысле] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] пригласила [obj [advmod только] [amod самых] [amod близких] подруг, [appos [obl [case в] смысле] тебя, [conj Машу] [conj [cc и] Катю]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

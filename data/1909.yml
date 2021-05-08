@@ -3,7 +3,7 @@ record: 1909
 name: 'VP (Prep) каждый NP-Sg'
 UD_name: 'VP (Prep) каждый NP-Sing'
 illustration: 'Я останавливался у каждой картины в этом зале.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case Prep] [det каждый] NP-Sg]]'
   - '[root VP [obl [det каждый] NP-Sg]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] останавливался [obl [case у] [det каждой] картины [nmod [case в] [det этом] зале]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

@@ -33,21 +33,23 @@ part_of_speech_of_anchor:
   - Particle
   - Noun
 semantic_roles:
-  - Situation
-  - Evaluation
   - Theme
+  - Evaluation
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [conj [cc Cconj] [obl [case в] [det то [advmod же]] время] XP]]'
 dependency_structure_of_illustration:
   - '[root [expl Это] [nsubj материал] дешёвый [conj [cc и] [obl [case в] [det то [advmod же]] время] надёжный].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    См. Подкласс "Обманутое ожидание". Группа 4. (Стр. 28) в Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, N. 5, 1999. с. 24-44. 
+    См. подкласс "Обманутое ожидание", группа 4 (стр. 28) в статье Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, 1999, № 5. С. 24-44. 
 semantic_types:
   - type: Comparison
     subtypes:

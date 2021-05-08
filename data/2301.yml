@@ -21,22 +21,24 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl'
   - '[parataxis [amod честное] слово]!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod не] хотела [xcomp [obj вас] обидеть], [parataxis [amod честное] слово]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Mental attitude
+      - type: Mental Attitude
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty

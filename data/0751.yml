@@ -34,22 +34,24 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Situation
   - Location
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case в] стенах [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] стенах [nmod школы]] [nsubj:pass алкоголь] запрещён.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - институт
   - университет
   - школа
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

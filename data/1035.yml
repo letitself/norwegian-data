@@ -6,7 +6,7 @@ illustration: 'Паспорт он носил за пазухой.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что [ситуация]Situation происходит или [объект]Theme находится в пространстве между грудью и прилегающей к ней одеждой, которое называется "пазуха". Объектом часто выступают небольшие предметы, которые необходимо скрыть (примеры 1, 5), или небольшие животные, которых необходимо согреть (пример 2).
+       Конструкция обозначает, что [ситуация]Situation происходит или [объект]Theme находится в пространстве между грудью и прилегающей к ней одеждой, которое называется «пазуха». Объектом часто выступают небольшие предметы, которые необходимо скрыть (примеры 1, 5), или небольшие животные, которых необходимо согреть (пример 2).
   - norwegian: |
        Konstruksjonen betyr at [en situasjon]Situation utspiller seg eller [et objekt]Theme befinner seg i området som kalles 'пазуха', mellom brystet og klesplagget som ligger inntil det. Objektet er ofte en liten gjenstand som må skjules (eksempel 1 og 5) eller et lite dyr som må varmes (eksempel 2).
 examples:
@@ -34,16 +34,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Situation
   - Theme
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [obl [case за] пазухой]]'
   - '[dep NP [nmod [case за] пазухой]]'
 dependency_structure_of_illustration:
   - '[root [obj Паспорт] [nsubj он] носил [obl [case за] пазухой].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - находиться
   - быть
@@ -52,7 +54,7 @@ common_fillers:
   - прятать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

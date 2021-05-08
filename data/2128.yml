@@ -3,7 +3,7 @@ record: 2128
 name: 'бьюсь об заклад, что Cl'
 UD_name: 'бьюсь об заклад, что Cl'
 illustration: 'Бьюсь об заклад, что вы проиграете.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root бьюсь [obl [case об] заклад]'
   - '[ccomp [mark что] Cl]'
 dependency_structure_of_illustration:
   - '[root Бьюсь [obl [case об] заклад], [ccomp [mark что] [nsubj вы] проиграете].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

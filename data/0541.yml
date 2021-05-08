@@ -6,18 +6,22 @@ illustration: 'Мы тут были ни при чём.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция означает непричастность [участника]Theme или [объекта]Theme к [некоторому произошедшему событию и действию]Situation . В прошедшем или будущем времени требует наличие глагола-связки "быть" (в нужной форме).
+       Конструкция обозначает непричастность определенного [человека]Participant или  [фактора]Theme к [некоторой ситуации.]Situation По мнению говорящего, действия участника или наличие фактора (погода, возраст, деньги и пр.) нельзя считать [причиной]Cause произошедшего события и поэтому их нельзя винить или (реже) благодарить. Обычно речь идет о негативной ситуации (примеры 1-4), реже о позитивной (пример 5).
   - english: |
-       This construction means that [someone]Theme or [something]Theme is irrelevant for a [certain event or action]Situation. In past and future tense, the construction requires the use of быть ‘be’ (conjugated according to the subject).
+       This construction means that [someone]Theme or [something]Theme is irrelevant for a [certain event or action]Situation.
   - norwegian: |
-       Konstruksjonen forteller at [noen]Theme eller [noe]Theme ikke har noe å gjøre med [en viss hendelse eller handling]Situation. Når konstruksjonen brukes i fortid- og fremtidsform, trengs også kopulaverbet быть ‘være’ (i riktig form).
+       Konstruksjonen forteller at [noen]Theme eller [noe]Theme ikke har noe å gjøre med [en viss hendelse eller handling]Situation.
 examples:
   - |
-       [Ужасные потери французской армии, оставлявшей Россию, были вызваны никуда не годным планированием]Situation, и [погода]Theme здесь была ни при чём.
+       ― Прямо какая-то беда с этими подростками, ― сказала классная руководительница. ― [Они все в этом возрасте "съезжают" по учёбе, начинают прогуливать…]Situation ― Да нет, ― вздохнула я, ― [возраст]Cause тут ни при чём. Это всё из-за компьютера, наверное, ― мы ему компьютер купили…
   - |
-       [Вася]Theme тут ни при чём.
+       [Ужасные потери французской армии были вызваны плохим планированием]Situation, и [погода]Cause здесь была ни при чём.
   - |
-       [― Есть надо было меньше!]Situation ― [Еда]Theme тут была ни при чём. Я толстела, потому что мой организм требовал витаминов.
+       [― Что я сделал? Надо было спрятать твою книгу!]Situation ― Ничего, успокойся, ― обнимал сына Паша. ― [Ты]Cause тут совсем ни при чем. Это я виноват.
+  - |
+       ― Нет, не говорите, я видел, [в каком состоянии он вчера от вас пришёл.]Situation Ему нельзя пить ни капли, это для него яд! ― Охотно верю, но [я]Cause тут ни при чём. Я его не совращал. Он сам ко мне пришёл с бутылкой виски.
+  - |
+       Так что можешь считать, что [ты работаешь на себя.]Situation [Я]Cause тут почти ни при чём. Это просто обстоятельства так сложились.
 morphology:
   - NP
   - Nom
@@ -33,19 +37,30 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Cause
+  - Theme
+  - Participant
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] [case при] чём]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod тут] [cop были] [advmod ни] [case при] чём.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - я
+  - мы
+  - ты
+  - они
+  - погода
+  - возраст
+  - деньги
 references:
   - |
-    
+    См. также статью Иомдин Л. Л. 2020. Ни при чем: об одной микросинтаксической конструкции с отрицанием. // А.В. Кейдан (ред.), Друзья, слова, таблицы. Сборник статей в честь 75-летия А. К. Поливановой. М. – Екатеринбург: Кабинентный учёный. С. 160-169.
 semantic_types:
   - type: Cause
 family:

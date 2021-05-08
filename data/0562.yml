@@ -6,7 +6,7 @@ illustration: 'Я терпеть не могу соревноваться!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что [говорящий или участник ситуации]Experiencer очень не любит/не переносит [что-либо или кого-либо.]Theme. Capacity, being capable to deal with smth, feeling comfortable with a certain activity, Rationalistic attitude: Preferences (how good/bad the speaker is at X, and feels comfortable doing X) - Overlap between Attitude and Assessment
+       Конструкция обозначает резко отрицательное отношение [говорящего или другого участника ситуации]Experiencer к определенному [типу поведения]Activity, который обычно назван отглагольным существительным. Как если бы участник не мог физически или морально вытерпеть, выдержать конкретную ситуацию, в которой он бы непосредственно сталкивался с таким поведением.
   - english: |
        This construction means that [the speaker or a participant in the situation]Experiencer strongly dislikes [something or someone]Theme, e.g. соревноваться ‘to compete’. A closely related construction in English is ‘A cannot stand B’. The verb is imperfective.
   - norwegian: |
@@ -37,13 +37,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [xcomp терпеть] [advmod не] мочь [xcomp VP-Ipfv.Inf]]'
   - '[root [nsubj NP-Nom] [xcomp терпеть] [advmod не] мочь [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [xcomp терпеть] [advmod не] могу [xcomp соревноваться]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

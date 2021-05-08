@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod и] [obl [case без] NP-Gen] знать, [ccomp [mark что] Cl]]'
   - '[root [nsubj NP-Nom] [advmod и] [obl [case без] NP-Gen] знать, [ccomp Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod и] [obl [case без] вас] знаем, [ccomp [obj что] делать].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

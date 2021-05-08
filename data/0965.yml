@@ -33,13 +33,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - Situation
-  - Measure
   - Theme
   - Location
   - Direction
+  - Measure
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [dep Noun] XP'
@@ -58,7 +58,7 @@ common_fillers:
   - полгода
 references:
   - |
-    См. Рахилина Е.В., Ладыгина А.С. Русские конструкции со значением чередования ситуаций // М.В. Ляпон (ред.). Язык: поиски, факты, гипотезы. Сб. статей к 100-летию со дня рождения акад. Н. Ю. Шведовой. М.: Лексрус, 2016, 320-335.
+    См. также статью Рахилина Е.В., Ладыгина А.С. Русские конструкции со значением чередования ситуаций // М.В. Ляпон (ред.). Язык: поиски, факты, гипотезы. Сб. статей к 100-летию со дня рождения акад. Н. Ю. Шведовой. М.: Лексрус, 2016, 320-335.
 semantic_types:
   - type: Comparison
     subtypes:

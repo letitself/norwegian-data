@@ -38,7 +38,7 @@ semantic_roles:
   - Cause
   - Participant
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case с] NP-Gen.Sg [nmod NP-Gen]]]'
@@ -54,7 +54,7 @@ common_fillers:
   - дозволение
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
   - type: Root modality

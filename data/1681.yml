@@ -33,9 +33,9 @@ part_of_speech_of_anchor:
   - Adjective
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] итоге] VP]'
@@ -43,14 +43,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [obl [case В] итоге] [nsubj все] [advmod мирно] разошлись [obl [case по] домам].]'
 comment: |
-    'См. синонимичную конструкцию 1682 в (конечном) итоге VP (В итоге все мирно разошлись по домам.)'
+    'См. синонимичную конструкцию 1680 и близкие конструкции 1679, 1682'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

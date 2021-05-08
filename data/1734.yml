@@ -3,7 +3,7 @@ record: 1734
 name: 'VP во главе NP-Gen'
 UD_name: 'VP во главе NP-Gen'
 illustration: 'Раньше он работал врачом, а теперь он стоит во главе крупной компании.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,19 +22,23 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case во] главе [nmod NP-Gen]]]]'
 dependency_structure_of_illustration:
   - '[root [advmod Раньше] [nsubj он] работал [xcomp врачом], [conj [cc а] [advmod теперь] [nsubj он] стоит [obl [case во] главе [nmod [amod крупной] компании]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
-  - type: Temporary characteristics
+  - type: Salient property
+    subtypes:
+      - type: Status
 family:
   - |
     ""

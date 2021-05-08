@@ -3,7 +3,7 @@ record: 1455
 name: 'NP на нуле'
 UD_name: 'NP на нуле'
 illustration: 'Из больницы выписали пациента с иммунитетом на нуле.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        X is a zero level = X does not exist or is very low = bad Выписали вроде здорового человека, а в действительности на 90 процентов больного с иммунитетом на нуле.
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case на] нуле]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Из] больницы] выписали [obj пациента [nmod [case с] иммунитетом] [nmod [case на] нуле]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

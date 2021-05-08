@@ -37,7 +37,9 @@ part_of_speech_of_anchor:
   - Conjunction
   - Adverb
 semantic_roles:
-  - ~
+  - Action
+  - Participant
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial

@@ -1,11 +1,23 @@
 ---
 record: 1021
-name: '(NP-Dat) Cop из-за чего Verb-Inf'
-UD_name: '(NP-Dat) Cop из-за чего V-Inf'
+name: '(NP-Dat) быть из-за чего Verb-Inf'
+UD_name: '(NP-Dat) быть из-за чего V-Inf'
 illustration: 'Есть из-за чего расстраиваться.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что существует реальная причина [эмоционального состояния]State или [действий]Action [участника ситуации]Experiencer.
 examples:
+  - |
+       Тут ведь действительно есть из-за чего [волноваться.]State
+  - |
+       [Профессору Бору]Experiencer было из-за чего [тревожиться!]State Но вот кто из ближних никогда, ни на час не терял веры в Харальда, это его старший брат.
+  - |
+       ― Фи, ― ничуть не смутившись, сказал Миронов, ― есть из-за чего [шум поднимать]Action?
+  - |
+       [Им-то]Experiencer как раз есть из-за чего [стараться]Action: победят ― будут чемпионы…
+  - |
+       Есть из-за чего [приходить в мрачное настроение!]State
 morphology:
   - NP
   - Dat
@@ -22,20 +34,26 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - Experiencer
+  - State
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] [csubj [obl [case из-за] чего] Verb-Inf]]'
   - '[root [cop Cop] [csubj [obl [case из-за] чего] Verb-Inf]]'
 dependency_structure_of_illustration:
   - '[root Есть [csubj [obl [case из-за] чего] расстраиваться].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - волноваться
+  - тревожиться
+  - переживать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

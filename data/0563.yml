@@ -6,7 +6,7 @@ illustration: 'Поездка в Африку того стоит.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы показать, что [некоторый объект]Theme или [случившаяся ситуация]Theme полностью оправдывают все затраты и труды, которые требуются или требовались ранее. Говорящий доволен результатом. Допускается использование конструкции в настоящем и прошедшем времени (основной глагол "стоить" согласуется с подлежащим).
+       Конструкция используется для того, чтобы показать, что [некоторый объект]Theme или [случившаяся ситуация]Theme полностью оправдывают все затраты и труды, которые требуются или требовались ранее. Говорящий доволен результатом. Допускается использование конструкции в настоящем и прошедшем времени (основной глагол «стоить» согласуется с подлежащим).
   - english: |
        Verb pattern - lexically radiated constructions, заменили иллюстрацию, изначально было Плавание того стоит, омонимия путешестцвие и вид спорта.
   - norwegian: |
@@ -28,20 +28,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Pronoun
   - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [obj того] стоить]'
 dependency_structure_of_illustration:
   - '[root [nsubj Поездка [nmod [case в] Африку]] [obj того] стоит.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

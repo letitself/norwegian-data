@@ -3,7 +3,7 @@ record: 1908
 name: 'VP/NP NumCrd NP-Gen с человека/носа/каждого'
 UD_name: 'VP/NP NumCrd NP-Gen с человека/носа/каждого'
 illustration: 'Плата за вход – двести рублей с человека.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -24,7 +24,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obj [nummod NumCrd] NP [nmod [case с] человека]]]'
@@ -35,16 +35,20 @@ dependency_structure:
   - '[dep [nsubj NP] [nummod NumCrd] NP [nmod [case с] каждого]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Плата [nmod [case за] вход]] – [nummod:gov двести] рублей [nmod [case с] человека].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:
       - type: Distributive
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
 family:
   - |
     ""

@@ -38,20 +38,22 @@ semantic_roles:
   - Theme
   - Associated
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[dep [advmod как [fixed раз-[advmod таки]]] XP]]'
 dependency_structure_of_illustration:
   - '[root – [nsubj Маша] отказалась [xcomp [iobj нам] помогать].] [root – [parataxis Нет], [nsubj она] [advmod как [fixed раз-[advmod таки]]] хотела [xcomp [iobj нам] помочь], [obl [case в] отличие [nmod [case от] остальных]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - да
   - нет
   - наоборот
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

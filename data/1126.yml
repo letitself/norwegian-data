@@ -3,10 +3,10 @@ record: 1126
 name: 'NP-Dat ничего не стоить VP-Inf'
 UD_name: 'NP-Dat ничего не стоить VP-Inf'
 illustration: 'Ему ничего не стоит написать книгу.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       добавить в комментарий: Pron-Dat ничего не стоит VP-Inf (мне ничего не стоит с Вами согласиться и на этом закончить наше обсуждение) Evaluation of intellectual ability, mental ability - 'good at doing something'
+       добавить в комментарий: Pron-Dat ничего не стоит VP-Inf (мне ничего не стоит с Вами согласиться и на этом закончить наше обсуждение) Evaluation of intellectual ability, mental ability - «good at doing something»
 examples:
 morphology:
   - NP
@@ -28,12 +28,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [obj ничего] [advmod не] стоить [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [obj ничего] [advmod не] стоит [csubj написать [obj книгу]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

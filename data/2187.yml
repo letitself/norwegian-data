@@ -3,10 +3,10 @@ record: 2187
 name: '(NP-Dat/у NP-Gen) хватить NP-Gen VP-Inf'
 UD_name: '(NP-Dat/у NP-Gen) хватить NP-Gen VP-Inf'
 illustration: 'У неё хватило ума приостановить супруга.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something'
+       Evaluation of intellectual ability, mental ability - «good at doing something»
 examples:
 morphology:
   - NP
@@ -26,7 +26,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case у] NP-Gen] хватить [nsubj NP-Gen] [xcomp VР-Inf]]'
@@ -34,6 +34,8 @@ dependency_structure:
   - '[root хватить [nsubj NP-Gen] [xcomp VР-Inf]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] неё] хватило [nsubj ума] [xcomp приостановить [obj супруга]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -47,6 +49,8 @@ semantic_types:
     subtypes:
       - type: Both Negative and Positive
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     "Capacity/Intellect"

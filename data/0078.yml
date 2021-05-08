@@ -6,7 +6,7 @@ illustration: 'Вряд ли он придёт.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает сомнение говорящего в том, что произойдет некоторое [событие]Event или [действие]Action. Конструкция также используется в суждениях об уже происшедших событиях или при оценке ситуации, имеющей место в настоящем. Во всех случаях ситуация оценивается как маловероятная. Слова "вряд ли" или "навряд ли" обычно стоят непосредственно перед тем компонентом ситуации (будь то действие, время, участник, признак и проч.), реалистичность которого ставится под сомнение. В зависимости от этого слот XP заполняется глагольной группой (пример 2), предложной группой (пример 3), именной группой (пример 4), прилагательным или наречием (пример 5).
+       Конструкция обозначает сомнение говорящего в том, что произойдет некоторое [событие]Event или [действие]Action. Конструкция также используется в суждениях об уже происшедших событиях или при оценке ситуации, имеющей место в настоящем. Во всех случаях ситуация оценивается как маловероятная. Слова «вряд ли» или «навряд ли» обычно стоят непосредственно перед тем компонентом ситуации (будь то действие, время, участник, признак и проч.), реалистичность которого ставится под сомнение. В зависимости от этого слот XP заполняется глагольной группой (пример 2), предложной группой (пример 3), именной группой (пример 4), прилагательным или наречием (пример 5).
   - english: |
        This construction expresses doubt that a given [event]Event or [action]Action will take place. In English the construction can often be translated as “it is unlikely that…“ or “probably not“.
   - norwegian: |
@@ -40,13 +40,14 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
+  - Evaluation
   - Event
   - Action
-  - Situation
   - Time
+  - Situation
   - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod вряд [fixed ли]] XP]'
@@ -55,6 +56,8 @@ dependency_structure:
   - '[root [advmod навряд [fixed ли]] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Вряд [fixed ли]] [nsubj он] придёт.]'
+comment: |
+    'См. близкую по смыслу конструкцию 119.'
 common_fillers:
   - завтра
   - сегодня
@@ -66,7 +69,7 @@ common_fillers:
   - получится
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

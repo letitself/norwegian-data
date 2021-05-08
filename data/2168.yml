@@ -3,7 +3,7 @@ record: 2168
 name: '(с NP-Ins) NP-Nom/VP-Inf (не) прокатить'
 UD_name: '(с NP-Ins) NP-Nom/VP-Inf (не) прокатить'
 illustration: 'Думаю, с администрацией так вести себя не прокатит.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        использовать нельзя, потому что результат не приведет к желаемому результату. С автомобилями такое не прокатит. Твое фуфло здесь не прокатит. после того, как ланкомовские средства не прокатили особо, думала уже, что не найду уже то, что подойдет… [ Красота, здоровье, отдых: Красота (форум) (2005)] конструкции еще и про уместность (whether the object can be of use)
@@ -29,7 +29,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case с] NP-Ins] [csubj VP-Inf] [advmod не] прокатить]'
@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] прокатить]'
 dependency_structure_of_illustration:
   - '[root [parataxis Думаю], [csubj [obl [case с] администрацией] [advmod так] вести [obj себя]] [advmod не] прокатит.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -55,6 +57,8 @@ semantic_types:
     subtypes:
       - type: Both Negative and Positive
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     "Usefulness"

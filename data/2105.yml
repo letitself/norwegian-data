@@ -23,9 +23,9 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Ins] [advmod тут] [advmod и] [advmod не] пахнуть]'
@@ -33,6 +33,8 @@ dependency_structure:
   - '[root [iobj NP-Ins] [advmod и] [advmod не] пахнуть]'
 dependency_structure_of_illustration:
   - '[root [iobj Наукой] [advmod тут] [advmod и] [advmod не] пахнет.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

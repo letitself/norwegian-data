@@ -6,8 +6,14 @@ illustration: 'Мужик здоровый такой. Ну медведь и м
 cefr_level: 
 definitions:
   - russian: |
-       SIMILARITY-reading. Semantics: Formal resemblance, similarity in appearance or behavior. Был у нас на заводе сотрудник. Ну, медведь и медведь. (Sannikov 2008: 336). Status of NU: optional, appears frequently.
+       Конструкция выражает сравнение и обозначает сходство [участника]Comparee с [некоторым прототипом]Standard. Сходство с прототипом проявляется во внешних характеристиках участника или в его поведении.
 examples:
+  - |
+       Был у нас на заводе [сотрудник]Comparee. Ну, [медведь]Standard и [медведь]Standard.
+  - |
+       [Профессор]Comparee одет в какие-то лохмотья. Ну, [бомж]Standard и [бомж]Standard.
+  - |
+       [Этот бомж]Comparee на вид такой солидный, интеллигентный. Ну, [профессор]Standard и [профессор]Standard.
 morphology:
   - Noun
   - Nom
@@ -22,20 +28,23 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [discourse ну] Noun-Nom [conj [cc и] Noun-Nom]]'
   - '[root Noun-Nom [conj [cc и] Noun-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мужик] здоровый [det такой].] [root [discourse Ну] медведь [conj [cc и] медведь].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    См. также Санников В. З. Конструкции с тождественными словоформами (КТС) // Санников В. З. Русский синтаксис в семантико-прагматическом пространстве. Москва: Языки славянских культур, 2008. С. 361-387; Endresen A. 2019. Rabota i rabota: Russian constructions with reduplication. Conference talk at: Novemberseminaret i russisk, UiT (November 29, 2019). 
 semantic_types:
   - type: Comparison
     subtypes:

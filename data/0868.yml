@@ -33,10 +33,10 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
-  - Speaker
   - Action
+  - Speaker
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case во] [det весь] голос]]'
@@ -55,7 +55,7 @@ common_fillers:
   - реветь
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

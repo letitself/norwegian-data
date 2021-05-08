@@ -44,11 +44,13 @@ dependency_structure:
   - '[root [advmod хоть] [aux бы] [advmod не] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Миша] пошел [obl [case по] [amod скользкой] дороге].] [root [advmod Только] [aux бы] [advmod не] упал!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Apprehension
     subtypes:

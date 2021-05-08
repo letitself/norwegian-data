@@ -22,9 +22,10 @@ part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
 semantic_roles:
-  - ~
+  - Content
+  - Source
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [mark насколько] [iobj мне] помнится], Cl]'
@@ -35,11 +36,13 @@ dependency_structure:
   - '[root [parataxis помнится], Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы], [parataxis [mark как] [iobj мне] помнится], [obl [case в] детстве] [advmod часто] кормили [obj птиц].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of information
 family:

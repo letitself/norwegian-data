@@ -6,7 +6,7 @@ illustration: 'По внешнему виду мебели можно подум
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что [некоторый предмет, признак или действие]Cause служит характерным проявлением некоторой [ситуации]Situation. Как правило, речь идет о [внешних характеристиках]Property (лицо, взгляд и т. п.) или [признаках, доступных для восприятия другими органами чувств]Property (голос, смех, запах и т. п.). Эти признаки позволяют сделать выводы о состоянии участника (пример 1) или события (пример 2), дают возможность распознать участника среди множества других (примеры 3-5). Предлог "по" в данной конструкции близок по значению предлогу "судя по".
+       Конструкция обозначает, что [некоторый предмет, признак или действие]Cause служит характерным проявлением некоторой [ситуации]Situation. Как правило, речь идет о [внешних характеристиках]Property (лицо, взгляд и т. п.) или [признаках, доступных для восприятия другими органами чувств]Property (голос, смех, запах и т. п.). Эти признаки позволяют сделать выводы о состоянии участника (пример 1) или события (пример 2), дают возможность распознать участника среди множества других (примеры 3-5). Предлог «по» в данной конструкции близок по значению предлогу «судя по».
   - norwegian: |
        Konstruksjonen betyr at [en gjenstand, et kjennetegn eller en handling]Cause tjener som en typisk manifestasjon av en gitt [situasjon]Situation. Som regel er det tale om [utseendemessige trekk]Property (ansikt, blikk o.l.) eller [kjennetegn som kan oppfattes med andre sanseorganer]Property (stemme, latter, lukt o.l.). Disse kjennetegnene gjør det mulig å danne seg et bilde av deltakerens (eksempel 1) eller hendelsens (eksempel 2) tilstand, og å identifisere deltakeren blant en mengde andre (eksempel 3-5). Preposisjonen "по" i denne konstruksjonen ligger i betydning nær preposisjonen "судя по".
 examples:
@@ -33,11 +33,13 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Cause
   - Property
+  - Action
+  - State
   - Situation
+  - Cause
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case по] NP-Dat]]'
@@ -52,7 +54,7 @@ common_fillers:
   - голос
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
   - type: Salient property

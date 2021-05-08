@@ -6,7 +6,9 @@ illustration: 'Самое время вершить большие дела.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что для совершения некоторого [действия]Action наступил удачный, подходящий момент и этим нужно воспользоваться. Когда используется "не", конструкция обозначает, что момент речи не является удачным для совершения этого действия, а слот заполняется только глаголами несовершенного вида.
+       Конструкция обозначает, что для совершения некоторого [действия]Action наступил удачный, подходящий момент и этим нужно воспользоваться. Когда используется «не», конструкция обозначает, что момент речи не является удачным для совершения этого действия, а слот заполняется только глаголами несовершенного вида.
+  - english: |
+       The construction means that the right moment has come to perform some [action]Action, and that one must take advantage of this. When “не” is used, the construction means that at the time of the utterance, the moment is not conducive to the successful performance of the action, and the slot is filled only with imperfective verbs.
   - norwegian: |
        Konstruksjonen betyr at det rette, passende øyeblikket for å utføre en gitt [handling]Action er kommet og må benyttes. Ved bruk av "не" betyr konstruksjonen at taletidspunktet ikke er det rette for å utføre handlingen, og sloten fylles kun av verb i imperfektivt aspekt.
 examples:
@@ -37,20 +39,22 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod не] время [cop Cop] [csubj VP-Inf]]'
   - '[root время [cop Cop] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [amod Самое] время [csubj вершить [amod большие] [obj дела]].]'
+comment: |
+    'См. близкие конструкции со словом "время" 74 и 75, а также похожие конструкции со словом "пора" 484 и 697.'
 common_fillers:
   - обедать
   - рассказать
   - подумать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

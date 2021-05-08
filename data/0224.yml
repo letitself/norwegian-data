@@ -32,15 +32,17 @@ part_of_speech_of_anchor:
   - Particle
   - Negation Marker
 semantic_roles:
-  - Event
   - Action
+  - Event
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root нет-[conj нет] [conj [cc да [fixed и]] VP-Pfv]]'
 dependency_structure_of_illustration:
   - '[root Нет-[conj нет] [conj [cc да [fixed и]] скажет [obj что-нибудь]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - скажет
   - мелькнет
@@ -50,7 +52,7 @@ common_fillers:
   - посмотрит
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

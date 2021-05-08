@@ -34,7 +34,7 @@ semantic_roles:
   - Comparee
   - Associated
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root Cl'
@@ -44,10 +44,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. синонимичную конструкцию 1212 Cl, тогда как Cl (Он никого не любит, тогда как все его боготворят.). Не путать с конструкцией 581 Cl в то время как Cl (Она пришла в то время как он уходил.), которая указывает на одновременность ситуаций во времени. Конструкция 828 делает акцент на контрасте, не связанном со временем.'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

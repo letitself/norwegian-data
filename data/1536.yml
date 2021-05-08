@@ -3,7 +3,7 @@ record: 1536
 name: 'VP годах/году в NumOrd-Loc'
 UD_name: 'VP годах/году в NumOrd-Loc'
 illustration: 'Это было ещё годах в шестидесятых, а вот недавно, году в 2008, случилось нечто ещё более неожиданное.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod ещё] годах [case в] [amod NumOrd-Loc]]'
   - '[root [advmod ещё] году [case в] [amod NumOrd-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [cop было] [advmod ещё] годах [case в] [amod шестидесятых], [conj [cc а] [advmod вот] [advmod недавно, [conj году [case в] [nmod 2008]]], случилось [nsubj нечто [amod [advmod ещё] [advmod более] неожиданное]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

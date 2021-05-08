@@ -3,7 +3,7 @@ record: 2138
 name: 'ясен перец/пень, (что) Cl'
 UD_name: 'ясен перец/пень, (что) Cl'
 illustration: 'Ясен перец, ничего хорошего нас не ждёт.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -14,8 +14,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Adjective
   - Noun
@@ -23,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root ясен [nsubj перец], [parataxis Cl]]'
@@ -32,11 +31,13 @@ dependency_structure:
   - '[root ясен [nsubj пень], [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root Ясен [nsubj перец], [parataxis [nsubj ничего [nmod хорошего]] [obj нас] [advmod не] ждёт].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

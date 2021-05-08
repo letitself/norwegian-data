@@ -3,10 +3,10 @@ record: 746
 name: 'NP-Nom Cop достаточно Adj, чтобы VP-Inf'
 UD_name: 'NP-Nom Cop достаточно Adj, чтобы VP-Inf'
 illustration: 'Он достаточно взрослый, чтобы понять это.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       Evaluation of capacity for an activity - 'X enough for doing something'
+       Evaluation of capacity for an activity - «X enough for doing something»
 examples:
 morphology:
   - NP
@@ -27,13 +27,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod достаточно] Adj'
   - '[advcl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod достаточно] взрослый, [advcl [mark чтобы] понять [obj это]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -36,12 +36,14 @@ semantic_roles:
   - Addressee
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] адрес [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] адрес [nmod Вани]] послышались [nsubj оскорбления].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - слова
   - замечания
@@ -50,7 +52,7 @@ common_fillers:
   - обвинения
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Addressee
     subtypes:

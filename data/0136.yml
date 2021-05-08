@@ -6,18 +6,20 @@ illustration: 'Ишь, какой веселый!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется, когда говорящий удивлен или восхищен каким-либо [качеством]Quality участника ситуации. only in present tense, but we can say stal
+       Конструкция выражает неодобрение, осуждение или зависть говорящего к другому участнику ситуации. Конструкция акцентирует внимание на определенной [характеристике]Evaluation этого участника, которая проявляется внешне, хорошо заметна и кажется говорящему неуместной или мнимой. Слот Adj-Nom заполняется прилагательными, которые характеризуют личностные качества, настроение или поведение участника. Характеристика может быть положительной или отрицательной сама по себе, но в данной конструкции она интерпретируется и оценивается негативно. Конструкция может использоваться в дружеском тоне в качестве шутки.
   - english: |
-       The construction expresses that the speaker is amazed by a [property]Quality of another participant in the situation. The characteristic can be positive, e.g. весёлый ‘cheerful’, as a well as negative, e.g. злой ‘wicked’.
-  - norwegian: |
-       Konstruksjonen uttrykker at taleren er forbløffet over en [egenskap]Quality hos en annen deltager i situasjonen. Denne egenskapen kan være positiv, e.g. весёлый ‘munter’, så vel som negativ, e.g. злой ‘slem’.
+       The construction expresses the speaker's disapproval or even envy regarding another participant of a situation.The speaker draws attention to a specific [characteristics]Property of the participant that is visible to others and is deemed inappropriate by the speaker. The characteristic can be positive, e.g. весёлый ‘cheerful’ or negative, e.g. злой ‘wicked’ but is interpreted in this construction as a negative one.
 examples:
   - |
-       Ишь, какой [злой]Quality.
+       — Моя идея, — ответил Матвей. — Я один виноват. — Ишь какой [благородный]Evaluation! — воскликнул Иван Саввич. — Мы и без твоего благородства разобрались, что ты кругом виноват.
   - |
-       ― Ишь, какой [грамотный]Quality, ― восхитился Петр, ― а ведь я его тебе в ученики привел.
+       — Я дам тебе куртку, – предложил Димка, – хочешь? У меня в сумке еще одна, я купил для отца. — Ишь, какой [щедрый]Evaluation! Даже отцовской куртки ему для Варвары не жалко!
   - |
-       Ишь, какой [щедрый]Quality! Даже отцовской куртки ему для Варвары не жалко!
+       Надо — потерпим. Только Сашка уже плачет, молча. Ишь, какая [нервная]Evaluation.
+  - |
+       Она была замкнутой, молчаливой, одна без подруг! “Ишь, какая [гордая]Evaluation!” – осуждали её молодые утки.
+  - |
+       Нам нынче герои-одиночки не нужны, наша сила в коллективе! А то ишь, какой [шустрый…]Evaluation
 morphology:
   - Adj
   - Nom
@@ -33,7 +35,7 @@ part_of_speech_of_anchor:
   - Interjection
   - Pronoun
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -42,11 +44,15 @@ dependency_structure:
   - '[det какой] Adj-Nom [cop Cop]!]'
 dependency_structure_of_illustration:
   - '[root [discourse Ишь], [det какой] веселый!]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - умный
+  - добрый
+  - хороший
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). P. 14.
 semantic_types:
   - type: Assessment
     subtypes:

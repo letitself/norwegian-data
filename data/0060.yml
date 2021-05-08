@@ -36,9 +36,16 @@ part_of_speech_of_anchor:
   - Adverb
   - Negation Marker
 semantic_roles:
+  - Theme
+  - Circumstance
+  - Property
+  - Action
+  - Location
+  - Direction
   - Situation
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod вовсе] не] XP]'
@@ -57,7 +64,7 @@ common_fillers:
   - случайный
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

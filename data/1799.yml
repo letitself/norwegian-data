@@ -29,13 +29,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod Adj-оватый]'
   - '[amod Adj-еватый]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кирпич] [obl [case в] Голландии] имеет [obj [amod коричневатый] оттенок].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - коричневатый
   - голубоватый
@@ -43,7 +45,7 @@ common_fillers:
   - глуповатый
 references:
   - |
-    About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation.
+    About morphological markers of attenuativity see Makarova, Anastasia. 2014. Makarova, Anastasia. 2014. Rethinking diminutives: a case study of Russian verbs. Doctoral Dissertation. UiT: The Arctic University of Norway.
 semantic_types:
   - type: Degree of intensity
     subtypes:

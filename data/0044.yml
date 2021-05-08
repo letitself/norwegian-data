@@ -6,7 +6,7 @@ illustration: 'Он был полон энтузиазма.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция имеет прямое и переносное употребление. В прямом употреблении, конструкция обозначает, что некоторый физический [контейнер]Container заполнен [содержимым]Contained (примеры 1, 2). В переносном употреблении, контейнером становится человек, а содержимым являются чувства, эмоции, мысли и другие абстрактные понятия (примеры 3, 4), которые наполняют его до краев. Например, выражение "полон энтузиазма" означает, что у человека много энтузиазма. При еще большей степени абстракции, контейнером может быть поведение человека (например, взгляд, движения, пример 5). Комментарий: Полная форма прилагательного "полный" используется в аттрибутивной функции с тем же управлением: ср. Ведь все мы ― сильные, смелые, полные [убеждений]Contained, ― в сущности, такие ранимые и крошечные перед лицом смерти. Французская кухня и ресторанный бизнес ― мир, полный [противоречий]Contained.
+       Конструкция имеет прямое и переносное употребление. В прямом употреблении, конструкция обозначает, что некоторый физический [контейнер]Container заполнен [содержимым]Contained (примеры 1, 2). В переносном употреблении, контейнером становится человек, а содержимым являются чувства, эмоции, мысли и другие абстрактные понятия (примеры 3, 4), которые наполняют его до краев. Например, выражение «полон энтузиазма» означает, что у человека много энтузиазма. При еще большей степени абстракции, контейнером может быть поведение человека (например, взгляд, движения, пример 5).
   - norwegian: |
        Konstruksjonen har direkte og overført betydning. I direkte betydning betyr konstruksjonen at en gitt fysisk [beholder]Container er fylt med [innhold]Contained (eksempel 1 og 2). I overført betydning er det et menneske som blir beholderen, og innholdet er følelser, emosjoner, tanker og andre abstrakte begreper (eksempel 3 og 4) som fyller mennesket til randen. For eksempel betyr uttrykket "полон энтузиасма" at personen har mye entusiasme. På et enda høyere abstraksjonsnivå kan beholderen være et menneskes opptreden (for eksempel et blikk eller en bevegelse, eksempel 5).
 examples:
@@ -36,21 +36,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adjective
 semantic_roles:
-  - ~
+  - Theme
+  - Agent
+  - Contained
+  - Container
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] полный-Short [obl NP-Gen].]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [cop был] полон [obl энтузиазма].]'
 comment: |
-    'Полная форма прилагательного "полный" используется в аттрибутивной функции с тем же управлением: ср. Ведь все мы ― сильные, смелые, полные [убеждений]Contained, ― в сущности, такие ранимые и крошечные перед лицом смерти. Французская кухня и ресторанный бизнес ― мир, полный [противоречий]Contained.'
+    'Полная форма прилагательного «полный» используется в аттрибутивной функции с тем же управлением: ср. Ведь все мы ― сильные, смелые, полные [убеждений]Contained, ― в сущности, такие ранимые и крошечные перед лицом смерти. Французская кухня и ресторанный бизнес ― мир, полный [противоречий]Contained.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

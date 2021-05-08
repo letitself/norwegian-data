@@ -3,7 +3,7 @@ record: 1638
 name: 'во времена NP-Gen VP'
 UD_name: 'во времена NP-Gen VP'
 illustration: 'Во времена Ивана Грозного народ жил по-другому.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case во] времена [nmod NP-Gen]] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] времена [nmod Ивана [amod Грозного]]] [nsubj народ] жил [advmod по-другому].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

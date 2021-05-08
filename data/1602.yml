@@ -3,7 +3,7 @@ record: 1602
 name: 'VP периодами'
 UD_name: 'VP периодами'
 illustration: 'Я периодами возвращаюсь к этой книге.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl периодами]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [obl периодами] возвращаюсь [obl [case к] [det этой] книге].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

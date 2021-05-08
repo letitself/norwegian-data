@@ -3,7 +3,7 @@ record: 2021
 name: '(Да) было дело, Cl'
 UD_name: '(Да) было дело, Cl'
 illustration: 'Было дело, звал её однажды на свидание.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -14,8 +14,7 @@ syntactic_function_of_anchor:
   - Discourse Particle
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
@@ -23,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root было [nsubj дело], [parataxis Cl]]'
   - '[root [cc да] было [nsubj дело], [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root Было [nsubj дело], [parataxis звал [obj её] [advmod однажды] [obl [case на] свидание]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

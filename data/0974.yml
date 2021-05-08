@@ -3,7 +3,7 @@ record: 974
 name: 'до боли XP'
 UD_name: 'до боли XP'
 illustration: 'До боли знакомый запах'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [obl [case до] боли] XP]'
 dependency_structure_of_illustration:
   - '[obj [amod [obl [case До] боли] знакомый] запах]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

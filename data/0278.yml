@@ -30,17 +30,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case при] условии [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] могу [xcomp помочь [iobj Вам] [obl [case при] условии [nmod подписания [nmod [amod особого] соглашения]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
 family:

@@ -37,12 +37,14 @@ semantic_roles:
   - Evaluation
   - Location
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod Adj [obl [case на] Noun-Acc.Sg]]'
 dependency_structure_of_illustration:
   - '[amod Лёгкий [obl [case на] руку]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - несдержанный
   - бойкий
@@ -56,7 +58,7 @@ common_fillers:
   - нога
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

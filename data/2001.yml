@@ -3,7 +3,7 @@ record: 2001
 name: 'с точки зрения NP-Gen/с PronPoss-Gen точки зрения, Cl'
 UD_name: 'с точки зрения NP-Gen/с PronPoss-Gen точки зрения, Cl'
 illustration: 'С точки зрения режиссёра, этот фильм должен иметь успех за рубежем.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case с] точки [nmod зрения] [nmod NP-Gen]], Cl]'
   - '[root [parataxis [case с] [det PronPoss-Gen] точки [nmod зрения]], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case С] точки [nmod зрения] [nmod режиссёра]], [nsubj [det этот] фильм] должен [xcomp иметь [obj успех] [obl [case за] рубежом]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
 family:
   - |

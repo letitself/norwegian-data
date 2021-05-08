@@ -6,7 +6,7 @@ illustration: 'Самый лучший за последний год'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что кто-то или что-то проявлет [качества, свойства]Evaluation в высшей степени, является истинным (прототипическим) представителем [за какой-либо промежуток времени]Time .
+       Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в наивысшей степени его проявления и этим отличается от всех объектов или участников, которые существуют в течение определенного [периода времени]Measure.
 examples:
   - |
        Они поняли, что началось самое [интересное]Evaluation приключение за [последнее столетие]Time.
@@ -30,17 +30,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod [det самый] Adj [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[amod [amod Самый] лучший [obl [case за] [amod последний] год]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

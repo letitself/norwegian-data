@@ -3,7 +3,7 @@ record: 2121
 name: '(NP-Dat) нужно Cop, чтобы Cl'
 UD_name: '(NP-Dat) нужно Cop, чтобы Cl'
 illustration: 'Нужно, чтобы на столе была чистая скатерть.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] нужно [cop Cop], [csubj [mark чтобы] Cl]]'
   - '[root нужно [cop Cop], [csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root Нужно, [csubj [mark чтобы] [case на] столе [cop была] [nsubj [amod чистая] скатерть]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

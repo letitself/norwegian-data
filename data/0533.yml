@@ -5,6 +5,8 @@ UD_name: 'NP-Nom начинать NP-Ins'
 illustration: 'Он начинал учителем.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает начальный [статус]Status некоторого [участника ситуации]Agent, как правило в плане его профессиональной деятельности и карьеры. Со временем этот первоначальный статус изменился на другой, как правило более высокий или престижный.
 examples:
 morphology:
   - NP
@@ -21,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] начинать [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] начинал [xcomp учителем].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

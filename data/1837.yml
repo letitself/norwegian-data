@@ -34,10 +34,10 @@ part_of_speech_of_anchor:
   - Adjective
   - Pronoun
 semantic_roles:
-  - Theme
   - Action
+  - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root VP [advmod так: [advcl Cl]]]'
@@ -45,6 +45,8 @@ dependency_structure:
   - '[root VP [obl [amod следующим] образом: [acl Cl]]]'
 dependency_structure_of_illustration:
   - '[root Делается [nsubj это] [advmod так: [advcl [advmod ровно] разложите [obj салфетку] [conj [cc и] загните [obj [det все] [nummod:gov четыре] угла] [obl [case к] центру]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - переформулировать
   - выразить
@@ -54,7 +56,7 @@ common_fillers:
   - сформулировать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

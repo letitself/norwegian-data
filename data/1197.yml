@@ -39,7 +39,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Evaluation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [advmod не] [advmod совсем] XP, [conj [parataxis скорее], XP]]'
@@ -49,10 +49,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. синонимичные конструкции 203 не столь(ко) XP, сколь(ко) XP (Травмы оказались не столько тяжёлыми, сколько сложными.), 207 не то чтобы XP/Cl, а/но XP/Cl (Он не то чтобы расстроился, но огорчился.), 1198 не прямо XP, а/но XP (Стоял не прямо перед зеркалом, а чуть в стороне.)'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

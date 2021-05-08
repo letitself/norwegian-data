@@ -33,23 +33,25 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Agent
   - Action
+  - Agent
   - Counteragent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case вместо] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Маша] пришла [obl [case вместо] сестры].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - отвечать
   - быть
   - стать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-Standard Subject
     subtypes:

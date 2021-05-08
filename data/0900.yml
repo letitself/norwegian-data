@@ -37,12 +37,14 @@ semantic_roles:
   - Theme
   - Standard
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [advmod вровень [obl [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Его] глаза] оказались [advmod вровень [obl [case с] [det моими] глазами]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - встать
   - стать
@@ -51,7 +53,7 @@ common_fillers:
   - идти
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

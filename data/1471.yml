@@ -3,7 +3,7 @@ record: 1471
 name: 'VP в NumCrd раз Adj-Cmp/Adv-Cmp'
 UD_name: 'VP в NumCrd раз Adj-Cmp/Adv-Cmp'
 illustration: 'От этого разговора ему стало в десять раз обиднее.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] [nummod NumCrd] раз] Adj-Cmp]]'
   - '[root VP [obl [case в] [nummod NumCrd] раз] Adv-Cmp]]'
 dependency_structure_of_illustration:
   - '[root [obl [case От] [det этого] разговора] [iobj ему] стало [advmod [obl [case в] [nummod:gov десять] раз] обиднее].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -3,7 +3,7 @@ record: 2152
 name: 'не дай Бог/Боже (NP-Dat) VP-Pfv.Inf'
 UD_name: 'не дай Бог/Боже (NP-Dat) VP-Perf.Inf'
 illustration: 'Не дай Бог мне забыть пароль к почте!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -17,8 +17,9 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate, Negation, Verb Pattern
+  - Subject and Predicate
+  - Negation
+  - Verb Pattern
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
@@ -26,7 +27,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod не] дай [nsubj Бог] [iobj NP-Dat] [csubj VP-Pfv.Inf]]'
@@ -35,11 +36,13 @@ dependency_structure:
   - '[root [advmod не] дай [nsubj Боже] [csubj VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] дай [nsubj Бог] [iobj мне] [csubj забыть [obj пароль] [nmod [case к] почте]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Apprehension
     subtypes:

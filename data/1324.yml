@@ -32,16 +32,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Speaker
   - Action
   - ContentOfSpeech
+  - Speaker
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case без] прикрас]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Художник] показал [obj [amod сельскую] жизнь] [obl [case без] прикрас].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - показать
   - показывать
@@ -50,7 +52,7 @@ common_fillers:
   - рассказать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Salient property

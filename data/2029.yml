@@ -33,17 +33,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
+  - Action
   - Theme
   - Participant
-  - Action
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] пришла [obl [case на] встречу] [obl [case без] подруги].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - стук
   - внимание
@@ -52,7 +54,7 @@ common_fillers:
   - остаток
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
 family:

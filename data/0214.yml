@@ -1,21 +1,25 @@
 ---
 record: 214
-name: 'не VP-Inf же Cop!'
-UD_name: 'не VP-Inf же Cop!'
+name: 'не VP-Ipfv.Inf же Cop!'
+UD_name: 'не VP-Imp.Inf же Cop!'
 illustration: 'Не уезжать же домой!'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы через отрицание показать, какое действие наименее приемлемо в сложившейся ситуации. Говорящий планирует выполнить другое действие. Частица "же" стоит сразу после [основного глагола]Action.
+       Конструкция выражает негативное отношение говорящего к некоторой стратегии поведения. Говорящий критикует и осуждает потенциальное [действие]Action как наименее приемлемое в сложившейся ситуации. Обычно речь идет о некотором затруднительном положении, из которого самым простым выходом было бы указанное [действие]Action, но говорящий планирует выполнить другое действие. Частица «же» стоит сразу после глагола.
+  - english: |
+       Disapproval of behavior Контекст ситуации – некое безвыходное положение, из которого самым очевидным и простым выходом являлось бы совершение [действия]Action, но по каким-то причинам это неприемлемо.
 examples:
-  - |
-       Не [сидеть]Action же здесь, на вокзале, на скучных твёрдых скамейках!
   - |
        ― Что ж, идёмте, не [стоять]Action же здесь до утра, ― сказала Лида.
   - |
-       Куртка, конечно, портила весь вид, но не [мерзнуть]Action же!
+       Куртка, конечно, портила весь вид, но не [мёрзнуть]Action же!
   - |
-       -
+       ― Эта штука тебе вряд ли здесь понадобится. ― Не [выбрасывать]Action же!
+  - |
+       Ну не [выходить]Action же мне на Елисейские поля в купальнике, с мобильным терминалом и опросниками!
+  - |
+       “Не [пропадать]Action же добру”, ― пояснил мне молодой доктор наук, считая, очевидно, всякое своё выступление большим добром.
 morphology:
   - VP
   - Inf
@@ -30,7 +34,7 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Particle
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -38,11 +42,18 @@ dependency_structure:
   - '[root не [csubj VP-Inf [advmod же]] [cop Cop]!]'
 dependency_structure_of_illustration:
   - '[root Не [csubj уезжать [advmod же] [advmod домой]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - стоять
+  - сидеть
+  - мерзнуть
+  - пропадать
+  - возвращаться
+  - ломать
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

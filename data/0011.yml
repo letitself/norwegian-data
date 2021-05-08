@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция имеет значение 'я считаю, что Cl'.
+  - english: |
+       The construction expresses the speaker’s opinion on some issue and usually introduces an [evaluative statement]Evaluation. The construction encodes the meaning ‘I believe that Cl.’
   - norwegian: |
        Konstruksjonen uttrykker talerens mening i en gitt sak og innleder vanligvis [et vurderende utsagn]Evaluation. Konstruksjonen har betydningen 'jeg synes at Cl'.
 examples:
@@ -36,7 +38,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Evaluation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [mark как] [case по] мне]], Cl]'
@@ -44,12 +46,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [mark Как] [case по] мне]], [nsubj это] [advmod ещё] [advmod не] беда.]'
 comment: |
-    'См. похожие конструкции 264 по мнению NP-Gen, Cl (По мнению властей, необходимо принять меры и остановить загрязнение реки); 1137 на PronPoss-Acc взгляд, Cl (На мой взгляд, это не искусство).'
+    'См. похожие конструкции 264 и 1137.'
 common_fillers:
   - NA
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

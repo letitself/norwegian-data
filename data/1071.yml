@@ -3,7 +3,7 @@ record: 1071
 name: 'VP из NP-Gen в ~NP-Acc'
 UD_name: 'VP из NP-Gen в NP-Acc'
 illustration: 'Из года в год мы возвращались в это место.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case из] NP-Gen [nmod [case в] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Из] года [nmod [case в] год]] [nsubj мы] возвращались [obl [case в] [det это] место].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

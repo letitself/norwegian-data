@@ -37,11 +37,11 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Experiencer
-  - Participant
   - Theme
+  - Participant
   - Source
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] знать [obj NP-Acc] [obl [case по] NP-Dat]]'
@@ -66,7 +66,7 @@ common_fillers:
   - Москве
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of information
 family:

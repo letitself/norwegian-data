@@ -3,7 +3,7 @@ record: 1456
 name: 'NP ниже плинтуса'
 UD_name: 'NP ниже плинтуса'
 illustration: 'Самооценка ниже плинтуса'
-cefr_level: 
+cefr_level: C2
 definitions:
   - russian: |
        X is a zero level = X does not exist or is very low = bad
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep NP [case ниже] плинтуса]'
 dependency_structure_of_illustration:
   - '[root [nsubj Самооценка] [case ниже] плинтуса]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

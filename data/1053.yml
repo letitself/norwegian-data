@@ -31,18 +31,20 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - Purpose
-  - Agent
   - Action
   - Event
+  - Agent
+  - Purpose
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case для] того, [acl [mark чтобы] Cl]]]'
   - '[obl [case для] того, [acl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod долго] обсуждали [obl [case с] ним] [obj план] [obl [case для] того, [acl [mark чтобы] [advmod не] возникло] [nsubj проблем]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - нужно
   - необходимо
@@ -54,7 +56,7 @@ common_fillers:
   - принять
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

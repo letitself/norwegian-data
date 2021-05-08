@@ -37,17 +37,19 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case ввиду] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod не] пришёл [obl [case ввиду] болезни].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

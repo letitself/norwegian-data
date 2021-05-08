@@ -23,9 +23,10 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [csubj VP-Inf] [cop Cop] [advmod не] вопрос]'
@@ -34,6 +35,8 @@ dependency_structure:
   - '[root [csubj VP-Inf] [cop Cop] [cc да] [advmod вообще] [advmod не] вопрос]'
 dependency_structure_of_illustration:
   - '[root [csubj Построить [obj дом]] – [advmod не] вопрос!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

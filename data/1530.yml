@@ -3,7 +3,7 @@ record: 1530
 name: 'за каким чёртом Cl'
 UD_name: 'за каким чёртом Cl'
 illustration: 'За каким чёртом мне это нужно!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11. значение - почему. черт мб заменён на фиг/хрен
@@ -23,12 +23,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case за] [det каким] чёртом] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case За] [det каким] чёртом] [iobj мне] [nsubj это] нужно!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

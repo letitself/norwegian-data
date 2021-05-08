@@ -3,7 +3,7 @@ record: 1570
 name: 'VP на пределе NP-Gen'
 UD_name: 'VP на пределе NP-Gen'
 illustration: 'Работать на пределе возможностей'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] пределе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Работать [obl [case на] пределе [nmod возможностей]]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -3,7 +3,7 @@ record: 1756
 name: '(а) (вот) тут/здесь PronPers-Nom VP!'
 UD_name: '(а) (вот) тут/здесь PronPers-Nom VP!'
 illustration: 'А вот тут ты ошибаешься! Предела нет и быть не может!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -36,11 +36,13 @@ dependency_structure:
   - '[root [advmod здесь] [nsubj PronPers-Nom] VP!]'
 dependency_structure_of_illustration:
   - '[root [cc А] [advmod вот] [advmod тут] [nsubj ты] ошибаешься!] [root [nsubj Предела] нет [conj [cc и] [xcomp быть] [advmod не] может]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

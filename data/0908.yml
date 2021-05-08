@@ -35,19 +35,21 @@ semantic_roles:
   - Action
   - Set
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [det всем] миром]]'
 dependency_structure_of_illustration:
   - '[root Поможем [obl [det всем] миром].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - помогать
   - строить
   - собирать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Degree of intensity

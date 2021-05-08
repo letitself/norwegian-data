@@ -32,7 +32,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Activity
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case как] сумасшедший]]'
@@ -41,6 +41,8 @@ dependency_structure:
   - '[root VP [obl [case как] ненормальный]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] бегает [obl [case по] офису] [obl [case как] сумасшедший].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - бегать
   - носиться
@@ -48,7 +50,7 @@ common_fillers:
   - смеяться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

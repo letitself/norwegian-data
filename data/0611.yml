@@ -31,11 +31,13 @@ dependency_structure:
   - '[root [advmod ещё] [obl [case у] меня] VP-Pfv.Fut]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [obj меня] [advmod ещё] вспомнишь!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Threat
 family:

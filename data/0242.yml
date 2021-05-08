@@ -1,21 +1,25 @@
 ---
 record: 242
-name: 'NP-Nom Cop ничего (такой-Nom)'
-UD_name: 'NP-Nom Cop ничего (такой-Nom)'
+name: 'NP-Nom Cop (NP-Nom) ничего (такой-Nom)'
+UD_name: 'NP-Nom Cop (NP-Nom) ничего (такой-Nom)'
 illustration: 'Профессор он был ничего.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция используется для выражения общей одобрительной [оценки]Evaluation [участника или объекта.]Stimulus Конструкция не предполагает выделения определенных черт, только соответствие базовому уровню. Слово ["ничего"]ничего может как предшествовать упоминанию [участника или объекта]Stimulus, так и следовать после него.
+       Конструкция выражает общую одобрительную оценку некоторого [участника ситуации]Participant или [объекта]Theme. Обычно имеется в виду внешность или профессиональные качества. Конструкция не предполагает выделения каких-либо отличительных особенностей участника или объекта.
   - english: |
-       This construction expresses an overall positive [evaluation]Evaluation of a [participant or object]Stimulus. It does not assume the identification of specific features, just a comparison with a basic level. The word ["ничего"]ничего can precede the mention of the [participant or object]Stimulus or follow it.
+       This construction expresses an overall positive evaluation of a [participant]Participant or an [object]Theme. It does not point out any specific features.
 examples:
   - |
-       [Даша]Stimulus и сама была ничего [повар]Evaluation, но иногда получалось у неё замечательно, а иной раз и есть нельзя.
+       Иванова села рядом, на соседний стул, склонила голову набок, пристально рассматривая Мишин профиль. ― Да, [ты]Participant [парень]Theme ― ничего! Недаром девушки любят.
   - |
-       Иванова села рядом, на соседний стул, склонила голову набок, пристально рассматривая Мишин профиль . ― Да, [ты]Stimulus [парень]Evaluation ― ничего! Недаром девушки любят.
+       ― А кто такой [Джейми Оливер]Participant, Сима? ― Один повар. Блондин. Ничего такой. По телевизору показывали…
   - |
-       Вернувшись в вокзал, Данила сказал Марине, что ничего [город]Evaluation, не хуже и не лучше других.
+       [Даша]Participant и сама была ничего [повар]Participant, но иногда получалось у неё замечательно, а иной раз и есть нельзя.
+  - |
+       Данила сходил в город, почитал объявления о приёме на работу и предоставлении жилья. На работу всюду требовались квалифицированные кадры. Насчёт жилья все нпросто. А так-то [городишко]Theme был ничего, с речкой, втекающей в огромный пруд.
+  - |
+       Колосенцев помолчал, прислушиваясь к вкусовым ощущениям, и вынес вердикт: –  Кофе – дерьмо, пить невозможно, а [все остальное]Theme ничего, приемлемо.
 morphology:
   - NP
   - Nom
@@ -31,17 +35,22 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Participant
+  - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] ничего [det такой-Nom]]'
   - '[root [nsubj NP-Nom] [cop Cop] ничего]'
 dependency_structure_of_illustration:
   - '[root Профессор [nsubj он] [cop был] [nmod ничего].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - город
+  - парень
+  - девчонка
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

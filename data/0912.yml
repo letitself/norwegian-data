@@ -3,7 +3,7 @@ record: 912
 name: 'всю жизнь VP'
 UD_name: 'всю жизнь VP'
 illustration: 'Он всю жизнь хотел поехать в Австралию.'
-cefr_level: B2
+cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что [ситуация]Situation длится очень долгое время и актуальна до сих пор. Как если бы ее длительность была сопоставима со всей жизнью человека.
@@ -34,17 +34,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [det всю] жизнь]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [det всю] жизнь] хотел [xcomp поехать [obl [case в] Австралию]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

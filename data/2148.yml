@@ -3,7 +3,7 @@ record: 2148
 name: 'При весь-Loc NP-Loc (к PronPers-Dat), Cl'
 UD_name: 'При весь-Loc NP-Loc (к PronPers-Dat), Cl'
 illustration: 'При всём уважении к Вам, профессор, я не могу с Вами согласиться.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [parataxis [case при] [det весь-Loc] NP-Loc [nmod [case к] PronPers-Dat]], Cl]'
   - '[root [parataxis [case при] [det весь-Loc] NP-Loc], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case При] [det всём] уважении [nmod [case к] Вам, [vocative профессор]]], [nsubj я] [advmod не] могу [xcomp [obl [case с] Вами] согласиться].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
 family:

@@ -3,9 +3,21 @@ record: 1937
 name: 'как PronPers-Acc Cop по NP-Dat (звать)?'
 UD_name: 'как PronPers-Acc Cop по NP-Dat (звать)?'
 illustration: 'Как вас по отчеству? Сергеевич?'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция оформляет вопрос, цель которого ― узнать [отчество]Name [собеседника или другого человека]Participant.
 examples:
+  - |
+       ― И всё-таки ты, Любовь… как [тебя]Participant по [батюшке-то]Name?
+  - |
+       Как [вас]Participant по [отчеству]Name, ребята, ей богу, забыл?
+  - |
+       ― Не Татьяна, а ― Татьяна… Как [вас]Participant по [батюшке]Name? ― Юрьевна.
+  - |
+       Как его по [батюшке-то]Name? Мы все его Вася да Вася, а как по [отцу-то]Name, я и забыл.
+  - |
+       Простите, пожалуйста, я не помню, как [вас]Participant по [отчеству]Name.
 morphology:
   - PronPers
   - Acc
@@ -26,20 +38,25 @@ part_of_speech_of_anchor:
   - Pronoun
   - Verb
 semantic_roles:
-  - ~
+  - Participant
+  - Name
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod как] [obj PronPers-Acc] [obl [case по] NP-Dat] звать?]'
   - '[root как [orphan PronPers-Acc] [cop Cop] [orphan [case по] NP-Dat]?]'
 dependency_structure_of_illustration:
   - '[root Как [orphan вас] [orphan [case по] отчеству]? [appos Сергеевич]?]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - отчеству
+  - батюшке
+  - отцу
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

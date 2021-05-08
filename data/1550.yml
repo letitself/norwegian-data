@@ -3,7 +3,7 @@ record: 1550
 name: 'NP в размере NumCrd-Gen NP-Gen'
 UD_name: 'NP в размере NumCrd-Gen NP-Gen'
 illustration: 'Ей выплатили компенсацию в размере тридцати тысяч рублей.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] размере [nmod [nummod NumCrd-Gen] NP-Gen]]]'
   - '[dep NP [nmod [case в] размере [nmod [nummod NumCrd-Nom] NP]]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ей] выплатили [obj компенсацию [nmod [case в] размере [nmod [nummod [nummod тридцати] тысяч] рублей]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

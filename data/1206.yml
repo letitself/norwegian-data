@@ -3,9 +3,21 @@ record: 1206
 name: 'NP-Nom прикидываться NP-Ins'
 UD_name: 'NP-Nom прикидываться NP-Ins'
 illustration: 'Ты дурачком-то не прикидывайся!'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Agent имитирует некоторое [состояние]State, которое не имеет места в действительности. Его целью является ввести другого участника ситуации в заблуждение своим поведением или внешним видом.
 examples:
+  - |
+       Условия были такие: [один]Agent прикидывается [доктором]State, другой наряжается больным, а третий ― медсестрой.
+  - |
+       — Только не прикидывайся [самым чистоплотным котом на свете]State, — сказала она Марсику.
+  - |
+       Часто [змея]Agent прикидывается [сухим сучком]State, чтобы вернее ужалить добычу.
+  - |
+       Бот — это… робот. [Программа]Participant, которая прикидывается [человеком]State.
+  - |
+       Неужели ты действительно не понимаешь, что происходит? Не прикидывайся [болваном]State!
 morphology:
   - NP
   - Nom
@@ -19,19 +31,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Agent
+  - State
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] прикидываться [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [iobj дурачком-[advmod то]] [advmod не] прикидывайся!]'
+comment: |
+    'См. близкую конструкцию 1205 NP-Nom притворяться NP-Ins (Он притворялся спящим)'
 common_fillers:
-  - ~
+  - дурачок
+  - идиот
+  - "шланг"
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

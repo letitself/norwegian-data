@@ -3,7 +3,7 @@ record: 2240
 name: 'VP на досуге'
 UD_name: 'VP на досуге'
 illustration: 'Положите эту книжку здесь, я почитаю её на досуге.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] досуге]]]'
 dependency_structure_of_illustration:
   - '[root Положите [obj [det эту] книжку] [advmod здесь], [parataxis [nsubj я] почитаю [obj её] [obl [case на] досуге]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Manner

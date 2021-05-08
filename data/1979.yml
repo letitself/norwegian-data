@@ -3,7 +3,7 @@ record: 1979
 name: 'VP из NP-Gen'
 UD_name: 'VP из NP-Gen'
 illustration: 'Стрелять из ружья'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [действие]Action совершается при помощи некоторого [предмета]Instrument, как правило длинного и полого внутри, цилиндрической формы. Обычно речь идет об оружии (ружье, пушка), инструментах для полива (шланг, лейка, душ) и посуде для питья (бутылка, кружка). Как если бы эти инструменты были контейнером, который является начальной точкой движения его содержимого (в ситуации с поливом вода – содержимое, лейка – контейнер).
@@ -34,12 +34,14 @@ semantic_roles:
   - Action
   - Instrument
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root Стрелять [obl [case из] ружья]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - поливать
   - лейки
@@ -55,7 +57,7 @@ common_fillers:
   - рогатки
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
 family:

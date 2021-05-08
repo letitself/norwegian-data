@@ -3,7 +3,7 @@ record: 1591
 name: 'иной раз VP'
 UD_name: 'иной раз VP'
 illustration: 'Иной раз после разговора с ним становилось очень грустно.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root [obl [amod иной] раз] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [amod Иной] раз] [obl [case после] разговора [nmod [case с] ним]] становилось [xcomp [advmod очень] грустно].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

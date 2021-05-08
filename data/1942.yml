@@ -3,9 +3,21 @@ record: 1942
 name: 'назвать-Pl NP-Acc NP-Ins (в честь NP-Gen)'
 UD_name: 'назвать-Plur NP-Acc NP-Ins (в честь NP-Gen)'
 illustration: 'Старшего сына назвали Иваном в честь прадеда.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторому [объекту]Theme или [участнику]Experiencer присвоено определенное [имя]Name. Если присутствует элемент «в честь NP-Gen», то конструкции обозначает, что данное [имя]Name с именем [другого человека]Participant, обычно родственника или знаменитости и дано в знак уважения к этому человеку.
 examples:
+  - |
+       [Сына]Experiencer назвали [Виктором]Name в честь [отца]Participant, который в этом же бою погиб.
+  - |
+       Кстати, а почему вы решили назвать малышку именно Ксюшей? Сразу вспоминается ваша задорная песенка «Ксюша ― юбочка из плюша»… И правильно, что вспоминается. Именно из-за этой песенки мы и назвали [дочку]Experiencer [Ксюшей.]Name Посмотрели с Сашей на малышку и сразу решили ― пусть будет Ксюшей.
+  - |
+       А через девять месяцев родилась девочка. Назвали [Снежана.]Name
+  - |
+       ― А [меня]Experiencer назвали тоже в честь [знаменитой женщины]Participant ― Виола.
+  - |
+       Отец решил назвать [меня]Participant [Деборой]Name ― в честь [Деборы Гелли]Participant.
 morphology:
   - Pl
   - NP
@@ -24,20 +36,33 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
+  - Participant
+  - Name
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root назвать-Pl [obj NP-Acc] [xcomp NP-Ins] [obl [case в] честь [nmod NP-Gen]]]'
   - '[root назвать-Pl [obj NP-Acc] [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [obj [amod Старшего] сына] назвали [xcomp Иваном] [obl [case в] честь [nmod прадеда]].]'
+comment: |
+    'Ср. близкую конструкцию 405.'
 common_fillers:
-  - ~
+  - ребенка
+  - сына
+  - дочь
+  - дочку
+  - детей
+  - отца
+  - деда
+  - бабушку
+  - бабки
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

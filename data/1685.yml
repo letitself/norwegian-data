@@ -3,7 +3,7 @@ record: 1685
 name: 'почти/практически XP'
 UD_name: 'почти/практически XP'
 illustration: 'Мы почти приехали: осталось всего две остановки.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -19,23 +19,27 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [advmod почти] XP]'
   - '[dep [advmod практически] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod почти] приехали: [parataxis осталось] [nsubj [advmod всего] [nummod:gov две] остановки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Approximator
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

@@ -9,8 +9,6 @@ definitions:
        Конструкция выражает высокую вероятность совершения [действия]Action, но в итоге не случившееся неприятное событие.
   - english: |
        НУЖНО ПОЧИСТИТЬ ПРИМЕРЫ< С СОВ ВИДОМ ГЛАГОЛА, С БЫЛО. Нужно написать немного другое толкование, чтобы была разница, отличие от 569, где только сов вид. Formula on the website: NP-Nom_чуть_не_VP. Конструкция выражает [действие]Action ,которое не состоялось, но вероятность которого была очень высока. Значит, что участник ситуации почти совершил [действие]Action [участника]Participant , но всё-таки избежал его совершения Correct name: убрали NP-Nom [ [Я]Participant [чуть]чуть [не]не [плакал]Action ]NP-Nom_чуть_не_VP, прощаясь с мечтой о веселом летнем отдыхе[ [Директор]Participant [чуть]чуть [не]не [узнал про происшествие]Action ]NP-Nom_чуть_не_VP , но, счастью, его вовремя отвлёк телефонный звонокю. merged with чуть_(было)_не_VP. Конструкция показывает, что какое-то [нежелательное событие]Activity|Action|Situation должно было произойти, но не произошло. Я ведь на тебе [ [чуть]чуть [было]было [не]не [женился]Action ]чуть_(было)_не_VP тогда. vse 3 primera s glagolom v preterite
-  - norwegian: |
-       N/A
 examples:
   - |
        [Петр]Agent чуть было не [женился]Action на Ларисе, но вовремя одумался.
@@ -38,18 +36,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod [advmod чуть [fixed было]] не] VP-Pfv.Pst]'
   - '[root [advmod [advmod чуть] не] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod чуть [fixed было]] не] забыл [obl [case про] экзамен].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
     subtypes:

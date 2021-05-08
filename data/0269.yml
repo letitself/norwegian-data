@@ -37,7 +37,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root по-Verb-Pst [conj [cc и] будет]]'
@@ -65,7 +65,7 @@ common_fillers:
   - поплакать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

@@ -32,12 +32,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [advcl [mark как] попало]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] писал [advcl [mark как] попало].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - лежать
   - валяться
@@ -48,7 +50,7 @@ common_fillers:
   - одеваться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -20,20 +20,22 @@ part_of_speech_of_anchor:
   - Adverb
   - Conjunction
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl'
   - '[advmod прежде [advcl [mark чем] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod долго] сомневался, [advmod прежде [advcl [mark чем] написать [iobj ей]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Taxis
     subtypes:

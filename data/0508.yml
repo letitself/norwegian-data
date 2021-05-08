@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] вести [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Врач] ведёт [obj больного] [obl [case после] операции].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

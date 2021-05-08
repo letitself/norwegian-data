@@ -6,22 +6,28 @@ illustration: 'Он относится ко всем одинаково вним
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что субъект/объект в равной мере, степени выполняет [какое-либо действие или имеет какие-либо личные качества]State в совершенно противоположных ситуациях. Конструкция может также обозначать намерение субъекта совершить два абсолютно разных [действия]State в зависимости от ситуации.
+       Конструкция выражает сравнение и подчеркивает тождественность степени, в которой реализуется [действие, состояние или проявляется свойство]Parameter объекта или участника в различных ситуациях. Слот XP заполняется глагольной группой (пример 1), прилагательным (примеры 2, 3), наречием (пример 5) или предикативом (пример 4).
   - english: |
        This construction means that the participant [performs a certain action]Situation or [has certain characteristics]State to the same degree in opposite situations, e.g. он был одинаково молчалив среди друзей и в незнакомой компании ‘he was just as quiet among friends as in the company of strangers’. The construction can furthermore express that, depending on how something unfolds, the subject is equally ready to [perform one action]Situation as they are to [perform another]Situation, e.g. разойтись миром vs. подраться ‘part in peace’ vs. ‘fight’.
   - norwegian: |
        Konstruksjonen betyr at deltageren [utfører en viss handling]Situation eller [har visse egenskaper]State i samme grad i det som kan betegnes som motsatte situasjoner, f.eks. он был одинаково молчалив среди друзей и в незнакомой компании ‘han var like tyst blant venner som i fremmedes selskap’. Konstruksjonen kan også uttrykke at subjektet er like beredt til å [utføre en handling]Situation som [en annen]Situation, alt ettersom hvordan noe utvikler seg, e.g. разойтись миром vs. подраться ‘skilles i fred’ vs. ‘slåss’.
 examples:
   - |
-       Сегодня ему одинаково [не работалось]State и утром, и днём.
+       Сегодня ему одинаково [не работалось]Parameter и утром, и днём.
   - |
-       Он был одинаково [молчалив]State среди друзей и в незнакомой компании.
+       Он был одинаково [молчалив]Parameter среди друзей и в незнакомой компании.
   - |
-       Он стоял, чуть склонив голову, одинаково [готовый]State и к тому, чтобы разойтись с миром, и к тому, чтобы подраться.
+       Он стоял, чуть склонив голову, одинаково [готовый]Parameter и к тому, чтобы разойтись с миром, и к тому, чтобы подраться.
   - |
-       -
+       Им, видно, было одинаково [неловко]Parameter и продолжать разговор, и прервать его внезапно.
+  - |
+       Человек, который может одинаково [хорошо]Parameter выступать и на собраниях, и на митингах на улице, станет хорошим приобретением для партии.
 morphology:
   - XP
+  - VP
+  - Adj
+  - Adv
+  - Pred
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -31,19 +37,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Parameter
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [advmod одинаково] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] относится [obl [case ко] всем] [advmod одинаково] [advmod внимательно].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - хорошо
+  - плохо
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

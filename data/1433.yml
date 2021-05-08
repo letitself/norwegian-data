@@ -3,7 +3,7 @@ record: 1433
 name: 'у NP-Gen NP-Nom хромать'
 UD_name: 'у NP-Gen NP-Nom хромать'
 illustration: 'У брата сильно хромает география.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Из корпуса: У нас сильно хромает информационное обеспечение реформ. География видимо хромает у тебя
@@ -24,12 +24,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj NP-Nom] хромает]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] брата] [advmod сильно] хромает [nsubj география].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -42,7 +44,9 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
-  - type: Temporary characteristics
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
 family:
   - |
     "Capacity/Intellect"

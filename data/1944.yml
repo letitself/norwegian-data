@@ -6,20 +6,20 @@ illustration: 'Мою дочку зовут Маша.'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Property.
+       Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Name.
   - norwegian: |
        Konstruksjonen betyr at [en konkret deltaker]Participant har et konkret [navn]Property.
 examples:
   - |
-       Октябрина Михайловна говорит, что [актрису]Participant зовут [Одри Хепберн]Property.
+       Октябрина Михайловна говорит, что [актрису]Participant зовут [Одри Хепберн]Name.
   - |
-       [Нашего водителя]Participant зовут [Перт]Property.
+       [Нашего водителя]Participant зовут [Перт]Name.
   - |
-       ― [Меня]Participant зовут [Ира]Property, и я не люблю, когда на меня долго смотрят и молчат.
+       ― [Меня]Participant зовут [Ира]Name, и я не люблю, когда на меня долго смотрят и молчат.
   - |
-       [Главного героя]Participant зовут [Мозес]Property, он ― юноша неземной красоты со сложным заболеванием.
+       [Главного героя]Participant зовут [Мозес]Name, он ― юноша неземной красоты со сложным заболеванием.
   - |
-       ― [Вас]Participant зовут [Сара]Property? ― перешел я на английский. ― Да, ― ответила она.
+       ― [Вас]Participant зовут [Сара]Name? ― перешел я на английский. ― Да, ― ответила она.
 morphology:
   - NP
   - Acc
@@ -34,9 +34,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Participant
+  - Name
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obj [det мою] NP-Acc] зовут [nsubj NP-Nom]]'
@@ -45,10 +46,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 465 NP-Acc звать NP-Ins/NP-Nom (Мальчика звать Юрой).'
 common_fillers:
-  - ~
+  - См. близкую конструкцию 465.
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

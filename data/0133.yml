@@ -2,24 +2,24 @@
 record: 133
 name: 'VP из NP-Gen (к NP-Dat)'
 UD_name: 'VP из NP-Gen (к NP-Dat)'
-illustration: 'Иван из милости забрал к себе кота.'
+illustration: 'Она работает бесплатно, из любви к искусству.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что причиной некоторого [действия]Action является [чувство или эмоция]Cause, которые участник испытывает по отношению к другому [участнику]Participant, [идее]Theme или [ситуации]Situation. Эмоции обычно положительные (1, 2, 3), но могут быть и отрицательными (примеры 4, 5).
+       Конструкция обозначает, что причиной некоторого [действия]Action является [чувство или эмоция]Cause, которые участник испытывает по отношению к другому  [участнику, идее или ситуации]Stimulus. Эмоции обычно положительные (примеры 1, 2), но могут быть и отрицательными (примеры 3-5).
   - norwegian: |
-       Konstruksjonen betyr at årsaken til en gitt [handling]Action er [en følelse eller emosjon]Cause som deltakeren nærer overfor en annen [deltaker]Participant, [en ide]Theme eller [en situasjon]Situation. Emosjonene er vanligvis positive (1, 2 og 3), men kan også være negative (eksempel 4 og 5).
+       Konstruksjonen betyr at årsaken til en gitt [handling]Action er [en følelse eller emosjon]Cause som deltakeren nærer overfor en annen [deltaker, en ide eller en situasjon]Stimulus. Emosjonene er vanligvis positive (eksempel 1, 2), men kan også være negative (eksempel 3, 4 og 5).
 examples:
   - |
-       Увидев открытую дверь, горничная [заглянула в номер]Action из  [любопытства]Cause.
+       Не все были такие уж уникальные, встречались и средние музыканты, а то и просто профнепригодные. Кого-то [держали в оркестре]Action из [жалости]Cause к [семье]Stimulus, кого-то ― из [сочувствия]Cause к [годам]Stimulus.
   - |
-       Не все были такие уж уникальные, встречались и средние музыканты, а то и просто профнепригодные. Кого-то [держали в оркестре]Action из [жалости]Cause к [семье]Participant, кого-то ― из [сочувствия]Cause к [годам]Circumstances.
+       ― Нет, свои деньги мы получим и так. Мы это [делаем]Action из [сострадания]Cause к людям.
   - |
-       Тут, правда, дело не в деньгах ― [за работу мы брались]Action из [любви]Cause к [искусству]Theme.
+       Если он так сильно любил Ольгу, что смог из [ревности]Cause [пойти на убийство]Action, то как же, спрашивается, он решился?
   - |
-       Вся в слезах, она излагала маме или бабушке, как ее [обидели]Action ни за что, ни про что, а просто из [зависти]Cause к [таланту]Theme…
+       Вся в слезах, она излагала маме или бабушке, как ее [обидели]Action ни за что, ни про что, а просто из [зависти]Cause к [таланту]Stimulus…
   - |
-       И в Москве я обнаружил хорошие спортивные способности в легкой атлетике. Но [заниматься в спортивных секциях не стал]Action из [отвращения]Cause к [соревнованиям]Situation всякого рода.
+       И в Москве я обнаружил хорошие спортивные способности в легкой атлетике. Но [заниматься в спортивных секциях не стал]Action из [отвращения]Cause к [соревнованиям]Stimulus всякого рода.
 morphology:
   - VP
   - NP
@@ -36,17 +36,17 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
   - Cause
-  - Participant
-  - Theme
-  - Situation
+  - Stimulus
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [obl [case из] NP-Gen] [obl [case к] NP-Dat]]'
   - '[root VP [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [obl [case из] милости] забрал [obl [case к] себе] [obj кота].]'
+comment: |
+    'Не путать с конструкцией 1070.'
 common_fillers:
   - милости
   - уважения
@@ -59,9 +59,10 @@ common_fillers:
   - нелюбви
   - отвращения
   - неприязни
+  - ревности
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+    См. о выражении внутренней причины (причиной является свойство, присущее самому субъекту действия) в монографии Всеволодова, М. В., Ященко Т. А. Причинно-следственные отношения в современном русском языке. 2-е издание. 2008. М. Издательство ЛКИ. С. 6.
 semantic_types:
   - type: Attitude
     subtypes:

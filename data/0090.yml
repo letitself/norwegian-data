@@ -34,12 +34,14 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [obl [case вследствие] NP-Gen] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case Вследствие] [det такого] поведения] [nsubj [det наш] договор] аннулируется.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - введения
   - сокращения
@@ -49,7 +51,7 @@ common_fillers:
   - трения
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

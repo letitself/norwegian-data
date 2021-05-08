@@ -39,7 +39,7 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] силу [nmod того'
@@ -50,10 +50,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 816 Cl в силу NP-Gen (В силу своего размера страна нуждается в большой армии).'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

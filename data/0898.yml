@@ -3,7 +3,7 @@ record: 898
 name: 'VP впредь до NP-Gen'
 UD_name: 'VP впредь до NP-Gen'
 illustration: 'Ему запретили служить впредь до разрешения.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [advmod впредь [obl [case до] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] запретили [xcomp служить] [advmod впредь [obl [case до] разрешения]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

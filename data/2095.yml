@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [obl [amod ровным] счетом] ни-PronInt]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [advmod не] принесло [iobj нам] [obj [det [obl [amod ровным] счетом] никакой] пользы].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

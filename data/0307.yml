@@ -6,7 +6,7 @@ illustration: 'Он слишком слаб, чтобы лететь на сам
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что кто-либо или что-либо обладает каким-либо [свойством]Condition сверх меры, и это мешает ему [совершить какого-либо действие.]Action нужно в толковании сказать, что субьъекты действия второго глагила могут быть разными. Он слушком слаб, чтобы перевозить его на самолете Evaluation of capacity for an activity - 'X enough for doing something'
+       Конструкция обозначает, что кто-либо или что-либо обладает каким-либо [свойством]Condition сверх меры, и это мешает ему [совершить какого-либо действие.]Action нужно в толковании сказать, что субьъекты действия второго глагила могут быть разными. Он слушком слаб, чтобы перевозить его на самолете Evaluation of capacity for an activity - «X enough for doing something»
   - english: |
        This construction means that someone or something has too much of a certain [property]Condition to be able to [do something]Action, e.g. он слишком слаб, чтобы лететь на самолете ‘he is too weak to travel by plane’.
   - norwegian: |
@@ -40,13 +40,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod слишком] Adj'
   - '[advcl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod слишком] слаб, [advcl [mark чтобы] лететь [obl [case на] самолете]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

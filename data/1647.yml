@@ -32,12 +32,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Event
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod рано [conj [cc или] поздно]] VP]'
 dependency_structure_of_illustration:
   - '[root [advmod Рано [conj [cc или] поздно]] придётся [csubj [obl [case во] всем] сознаться].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - произойдет
   - закончится
@@ -47,7 +49,7 @@ common_fillers:
   - надоест
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

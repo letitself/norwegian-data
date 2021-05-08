@@ -1,27 +1,27 @@
 ---
 record: 223
-name: 'нет чтобы/бы VP-Inf, Cl'
-UD_name: 'нет чтобы/бы VP-Inf, Cl'
+name: 'нет чтобы VP-Inf, Cl'
+UD_name: 'нет чтобы VP-Inf, Cl'
 illustration: 'Нет чтобы подождать, он ушел без нас!'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий выражает свое недовольство тем, что участник не совершил какое-либо [действие]Action, а совершает или совершил [другое]Action. Выражение "нет чтобы/бы" соответствует союзу "вместо того, чтобы". Ударение стоит на слове "нет".
+       Конструкция обозначает, что говорящий выражает свое недовольство тем, что участник не совершил какое-либо [действие]Action, а [совершает или совершил другое]Situation. Выражение «нет чтобы» соответствует союзу «вместо того, чтобы». Ударение стоит на слове «нет».
   - english: |
        The construction indicates that the speaker expresses dissatisfaction with the fact that the interlocutor has not taken a given [action]Action or is undertaking or has undertaken a different [action]Action.
   - norwegian: |
-       Konstruksjonen betyr at taleren uttrykker sin misnøye med at en deltaker ikke har utført en eller annen [handling]Action, men derimot utfører eller har utført [en annen]Action. Uttrykket "нет чтобы/бы" tilsvarer konjunksjonen "вместо того, чтобы". Trykket ligger på ordet "нет".
+       Konstruksjonen betyr at taleren uttrykker sin misnøye med at en deltaker ikke har utført en eller annen [handling]Action, men derimot [utfører eller har utført en annen]Situation. Uttrykket "нет чтобы" tilsvarer konjunksjonen "вместо того, чтобы". Trykket ligger på ordet "нет".
 examples:
   - |
-       Нет чтобы [помочь]Action, [сидит сложа руки!]Action
+       Нет чтобы [помочь]Action, [сидит сложа руки!]Situation
   - |
-       Нет бы [прийти]Action вовремя, [опять опоздает!]Action
+       Нет бы [прийти]Action вовремя, [опять опоздает!]Situation
   - |
-       Нет чтобы нормально [поесть]Action суп, [он все бутербродами питается.]Action
+       Нет чтобы нормально [поесть]Action суп, [он все бутербродами питается.]Situation
   - |
-       ― А потом мои снова завели кошку и опять уехали. Нет бы [с собой забрать]Action ― мне [оставили]Action, а ни к чему ее не приучили.
+       ― А потом мои снова завели кошку и опять уехали. Нет бы [с собой забрать]Action ― [мне оставили, а ни к чему ее не приучили.]Situation
   - |
-       ― Знаешь куда он [перечислил все деньги]Action? В фонд помощи беспризорным собакам!!! Нет чтобы [отдать их мне]Action, своему троюродному брату, а он… каким-то шавкам…
+       ― Знаешь [куда он перечислил все деньги? В фонд помощи беспризорным собакам!!!]Situation Нет чтобы [отдать их мне]Action, своему троюродному брату, а он… каким-то шавкам…
 morphology:
   - VP
   - Inf
@@ -38,7 +38,8 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Particle
 semantic_roles:
-  - Action
+  - Agent
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -57,7 +58,7 @@ common_fillers:
   - помочь
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). См. также Величко А.В. Когда есть о чем поговорить, или Предложения фразеологизированных структур в русском языке. Учебное пособие для иностранных учащихся. 2016. Санкт-Петербург. Златоуст. С. 41.
 semantic_types:
   - type: Assessment
     subtypes:

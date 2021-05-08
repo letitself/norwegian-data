@@ -36,13 +36,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obj NP-Acc] [obl [case с] нуля]]'
   - '[root VP [obl [case с] нуля]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Катя] построила [obj бизнес] [obl [case с] нуля].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - начинать
   - делать
@@ -52,7 +54,7 @@ common_fillers:
   - учиться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

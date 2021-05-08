@@ -6,7 +6,7 @@ illustration: 'Гостей принять некому.'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция обозначает отсутствие [участника]Agent, который мог бы выполнить некоторое [действие]Action. Ударение в "некому" стоит на не-.
+       Конструкция обозначает отсутствие [участника]Agent, который мог бы выполнить некоторое [действие]Action. Ударение в «некому» стоит на не-.
 examples:
   - |
        И эти женщины-воспитатели с радостью отказались бы от второй ставки, просто [работать]Action некому.
@@ -32,15 +32,17 @@ part_of_speech_of_anchor:
   - Predicative
   - Negation Marker
 semantic_roles:
-  - Agent
   - Action
+  - Agent
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [csubj VP-Inf] [cop Cop] некому]'
 dependency_structure_of_illustration:
   - '[root [csubj [obj Гостей] принять] некому.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - помочь
   - работать
@@ -48,7 +50,7 @@ common_fillers:
   - подсказать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

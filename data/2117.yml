@@ -3,7 +3,7 @@ record: 2117
 name: '(NP-Dat) Cop нужный-Short/необходимый-Short NP-Nom'
 UD_name: '(NP-Dat) Cop нужный-Short/необходимый-Short NP-Nom'
 illustration: 'Мне нужна ваша поддержка.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] нужный-Short [nsubj NP-Nom]]'
   - '[root [iobj NP-Dat] [cop Cop] необходимый-Short [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] нужна [nsubj [det ваша] поддержка].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

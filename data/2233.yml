@@ -3,7 +3,7 @@ record: 2233
 name: 'какой бы NP ни VP, Cl'
 UD_name: 'какой бы NP ни VP, Cl'
 illustration: 'Какой бы умный ты ни был, не торопись во время экзамена.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [det какой] [aux бы] VP] [dep NP] [advmod ни] VP'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [det Какой] [aux бы] умный] [nsubj ты] [advmod ни] [cop был], [advmod не] торопись [obl [case во] время [nmod экзамена]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

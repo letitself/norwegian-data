@@ -3,7 +3,7 @@ record: 850
 name: 'везти NP-Dat (в NP-Loc/с NP-Ins)'
 UD_name: 'везти NP-Dat (в NP-Loc/с NP-Ins)'
 illustration: 'Везёт Мише сегодня: и в кино позвали, и премию дали.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Unexpected but not negative, about situations
@@ -25,13 +25,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root везти [iobj NP-Dat] [obl [case в] NP-Loc]]'
   - '[root везти [iobj NP-Dat] [obl [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root Везёт [iobj Мише] [advmod сегодня]: [parataxis [cc и] [obl [case в] кино] позвали, [conj [cc и] [obj премию] дали]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

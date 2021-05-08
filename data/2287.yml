@@ -20,7 +20,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [cc но] [advcl [mark если] серьёзно], [mark то] Cl]'
@@ -37,11 +37,13 @@ dependency_structure:
   - '[root [mark если] откровенно], Cl]'
 dependency_structure_of_illustration:
   - '[root [cc Но], [advcl [mark если] серьёзно], [mark то] [nsubj я] [amod [advmod очень] семейный] человек.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

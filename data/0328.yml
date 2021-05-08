@@ -6,7 +6,7 @@ illustration: 'Сегодня идет то ли дождь, то ли снег.
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция употребляется при перечислении [фактов]Theme или [явлений]Theme и передает неопределенность, неясность того, какой из них является действительным, а какой — мнимым. Конструкция синонимична с "или...или".
+       Конструкция употребляется при перечислении [фактов]Theme или [явлений]Theme и передает неопределенность, неясность того, какой из них является действительным, а какой — мнимым. Конструкция синонимична с «или...или».
   - english: |
        This construction is used when it is unclear which of [the two statements]Theme introduced by то ли is true or most correct. The construction is synonymous to или... или ‘or... or’.
   - norwegian: |
@@ -34,18 +34,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[dep [cc то [fixed ли]] XP'
   - '[conj [cc то [fixed ли]] XP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Сегодня] идет [nsubj [cc то [fixed ли]] дождь, [conj [cc то [fixed ли]] снег]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    Israeli, A. 2007. Russian conjunctions: two types of uncertainty. In: Journal of Uncertain Systems 4. 267-276.
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

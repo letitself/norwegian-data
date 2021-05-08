@@ -3,7 +3,7 @@ record: 2156
 name: 'не VP-Pfv.Pst бы (NP-Nom)!'
 UD_name: 'не VP-Perf.Past бы (NP-Nom)!'
 illustration: 'Не опоздал бы он!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [advmod не] VP-Pfv.Pst [aux бы] [nsubj NP-Nom]!]'
   - '[root [advmod не] VP-Pfv.Pst [aux бы]!]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] опоздал [aux бы] [nsubj он]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Apprehension
     subtypes:

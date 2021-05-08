@@ -6,7 +6,7 @@ illustration: 'Его прочили в директора.'
 cefr_level: C2
 definitions:
   - russian: |
-       Конструкция обозначает, что, согласно ожиданиям, [некоторый субъект]Experiencer в будущем получит [какое-либо место или положение]Location . Глагол часто используется в форме третьего лица множественного числа "прочат" (настоящее время) или "прочили" (прошедшее время), что делает конструкцию неопределенно-личным предложением.
+       Конструкция обозначает, что, согласно ожиданиям, [некоторый субъект]Experiencer в будущем получит [какое-либо место или положение]Location . Глагол часто используется в форме третьего лица множественного числа «прочат» (настоящее время) или «прочили» (прошедшее время), что делает конструкцию неопределенно-личным предложением.
   - english: |
        N/A
   - norwegian: |
@@ -40,18 +40,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root [obj NP-Acc] прочить-3.Pl [obl [case в] NP-Acc]]'
   - '[root [obj NP-Acc] прочить-3.Pl [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] прочили [obl [case в] директора].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

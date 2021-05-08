@@ -32,9 +32,9 @@ part_of_speech_of_anchor:
   - Conjunction
   - Particle
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP-Ipfv [obj одно] [conj [cc и] то [advmod же]]]'
@@ -56,7 +56,7 @@ common_fillers:
   - в
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

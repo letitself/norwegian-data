@@ -3,7 +3,7 @@ record: 1770
 name: 'ещё бы PronPers-Dat не Verb-Inf, Cl!'
 UD_name: 'ещё бы PronPers-Dat не V-Inf, Cl!'
 illustration: 'Ещё бы им не любить работу, когда они выросли в деревне!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -32,11 +32,13 @@ dependency_structure:
   - '[parataxis Cl]!]'
 dependency_structure_of_illustration:
   - '[root [advmod Ещё] [aux бы] [iobj им] [advmod не] любить [obj работу], [advcl [mark когда] [nsubj они] выросли [obl [case в] деревне]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

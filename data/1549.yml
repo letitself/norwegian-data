@@ -6,7 +6,7 @@ illustration: 'Участок площадью сто гектаров'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает [площадь]Quantity [объекта]Theme, измеренную в [стандартных единицах измерения площади, таких как квадратные метры, квадратные километры, гектары, акры и др.]Measure Если используется числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
+       Конструкция обозначает [площадь]Quantity [объекта]Theme, измеренную в [стандартных единицах измерения площади, таких как квадратные метры, квадратные километры, гектары, акры и др.]Measure Если используется числительное «один» или «одна», то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
   - norwegian: |
        Konstruksjonen betegner [et objekts]Theme [flateinnhold]Quantity, målt i [standardiserte målenheter for areal, f.eks. kvadratmeter, kvadratkilometer, hektar, acre m.fl.]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
@@ -36,16 +36,18 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Theme
-  - Quantity
   - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod площадью [nmod [case в] [nummod NumCrd-Acc] NP]]]'
   - '[dep NP [nmod площадью [nmod [nummod NumCrd-Nom] NP]]]'
 dependency_structure_of_illustration:
   - '[root Участок [nmod площадью [nmod [nummod:gov сто] гектаров]]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - квадратные метры
   - квадратные километры
@@ -53,7 +55,7 @@ common_fillers:
   - акры
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

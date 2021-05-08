@@ -6,11 +6,9 @@ illustration: 'Жить ему было незачем.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает ситуацию, в которой у [участника]Experiencer нет необходимости или причины выполнять некоторое [действие]Action. Конструкция может также выражать запрет на совершение действия (пример 5). Ударение в "незачем" стоит на не-.
+       Конструкция обозначает ситуацию, в которой у [участника]Experiencer нет необходимости или причины выполнять некоторое [действие]Action. Конструкция может также выражать запрет на совершение действия (пример 5). Ударение в «незачем» стоит на не-.
   - english: |
        This construction denotes a situation when there is no necessity or reason for carrying out a certain [action]Action.
-  - norwegian: |
-       Конструкция может также выражать запрет на совершение действия. Детям незачем лезть во взрослые дела.
 examples:
   - |
        [Волноваться]Action было незачем, на всякий случай я легла поспать.
@@ -41,13 +39,15 @@ semantic_roles:
   - Experiencer
   - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [csubj VP-Inf] [cop Cop] незачем]'
   - '[root [csubj VP-Inf] [cop Cop] незачем]'
 dependency_structure_of_illustration:
   - '[root [csubj Жить] [iobj ему] [cop было] незачем.]'
+comment: |
+    'См. похожие конструкции 20, 22, 24, 25.'
 common_fillers:
   - волноваться
   - переживать
@@ -55,7 +55,7 @@ common_fillers:
   - идти
 references:
   - |
-    См. Апресян Ю. Д., Иомдин Л. Л. 1989. Конструкции типа НЕГДЕ СПАТЬ: синтаксис, семантика, лексикография. // Семиотика и информатика, вып. 29., 1989, 34-92; Падучева Е. В. 2017. Отрицательные местоимения-предикативы // Русская корпусная грамматика, http://rusgram.ru/Отрицательные_местоимения-предикативы; Avgustinova, Tania. Forthcoming. Russian infinitival existential constructions from HPSG perspective. To appear in the Proceedings of the 4th European conference on Formal Description of Slavic Languages (FDSL-4). 18 pp.
+    1) Апресян Ю. Д., Иомдин Л. Л. Конструкции типа НЕГДЕ СПАТЬ: синтаксис, семантика, лексикография // Семиотика и информатика. 1989. В. 29. С. 34–92. 2) Падучева Е. В. Отрицательные местоимения-предикативы // Материалы к корпусной грамматике русского языка. 3) Avgustinova, Tania. Forthcoming. Russian infinitival existential constructions from HPSG perspective. To appear in the Proceedings of the 4th European conference on Formal Description of Slavic Languages (FDSL-4).
 semantic_types:
   - type: Non-existence
     subtypes:

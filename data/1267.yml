@@ -6,7 +6,7 @@ illustration: 'Нам с Машей это не нравится.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated выполняют совместное [действие]Action, вместе испытывают некоторое [состояние]State или вместе и в одной и той же роли участвуют в некоторой ситуации. Слот PronPers-Pl обозначает всех участников действия ("мы с коллегой" значит "я и коллега", "они с мужем" значит "жена и муж", "нас с Мезиным" значит "меня и Мезина").
+       Конструкция обозначает, что некоторый [участник]Participant вместе с другим [участником или группой участников]Assosiated выполняют совместное [действие]Action, вместе испытывают некоторое [состояние]State или вместе и в одной и той же роли участвуют в некоторой ситуации. Слот PronPers-Pl обозначает всех участников действия («мы с коллегой» значит 'я и коллега', «они с мужем» значит 'жена и муж', «нас с Мезиным» значит 'меня и Мезина').
   - norwegian: |
        Konstruksjonen betyr at en gitt [deltaker]Participant og en annen [deltaker eller gruppe deltakere]Assosiated sammen utfører en [handling]Action eller opplever en gitt [tilstand]State, eller at de sammen og i samme rolle deltar i en gitt situasjon. Sloten PronPers-Pl betegner alle deltakerne i handlingen ("мы с коллегой" betyr "я и коллега", "они с мужем" betyr "жена и муж", "нас с Мезиным" betyr "меня и Мезина").
 examples:
@@ -34,17 +34,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Participant
-  - Assosiated
+  - Patient
   - Action
+  - Assosiated
+  - Experiencer
+  - Agent
   - State
+  - Associated
+  - Addressee
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep PronPers-Pl [nmod [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [iobj Нам [nmod [case с] Машей]] [nsubj это] [advmod не] нравится.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - мы
   - нам
@@ -60,7 +67,7 @@ common_fillers:
   - коллегами
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
 family:

@@ -6,18 +6,22 @@ illustration: 'Ни за какие деньги не продам дом!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что участник ситуации не согласен выполнять какое-то [действие]Action даже в обмен на очевидные [ценности]Theme и привилегии.
+       Конструкция обозначает, что участник ситуации не согласен выполнять некоторое [действие]Action даже в обмен на большие [ценности]Theme или [привилегии]Theme, то есть ни при каких условиях (примеры 1-4). Конструкция также может обозначать, что некоторое [действие]Action невозможно совершить, даже при всем желании участника (пример 5).
   - english: |
        This construction means that there is [something]Theme the subject will not do, e.g. продать дом ‘sell (their) house’, [whatever they may get for it]Theme, e.g. деньги ‘money’.
   - norwegian: |
        Konstruksjonen uttrykker at det er [noe]Theme subjektet ikke vil gjøre, f.eks. продать дом ‘selge huset (sitt)’, uansett [hva han måtte få for det]Theme, f.eks. деньги ‘penger’.
 examples:
   - |
-       Ни за какие [сокровища]Theme не [пойду]Action! я с ним на свидание!
-  - |
-       Ни за какие [блага]Theme Виталий не [согласился]Action бы работать в компании брата.
+       Ни за какие [сокровища]Theme в мире не [пойду]Action я с ним на свидание!
   - |
        Собака ни за какие [лакомства]Theme не [лезла]Action в воду.
+  - |
+       Ни за какие [блага]Theme Виталий не [согласился бы]Action работать в компании брата.
+  - |
+       Баев препирался с теткой-цербером, которая ни за какие [коврижки]Theme не [соглашалась]Action пускать нас хотя бы на одну ночь.
+  - |
+       Адреналин и драйв, которые даёт добыча янтаря ―  приключение, которое нигде и ни за какие [деньги]Theme не [купишь.]Action
 morphology:
   - NP
   - Acc
@@ -35,20 +39,35 @@ part_of_speech_of_anchor:
   - Noun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [advmod ни] [case за] [det какие] NP-Acc.Pl] [advmod не] VP]'
   - '[root [obl [advmod ни] [case за] [det какие] NP-Acc.Pl [nmod [case в] мире]] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case за] [det какие] деньги] [advmod не] продам [obj дом]!]'
+comment: |
+    'См. близкие конструкции 228 и 1935.'
 common_fillers:
-  - ~
+  - деньги
+  - сокровища
+  - блага
+  - лакомства
+  - коврижки
+  - шиши
+  - согласиться
+  - пойти
+  - продать
+  - обменять
+  - купить
+  - получить
+  - достать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Degree of intensity

@@ -34,16 +34,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Possessor
   - Action
+  - Possessor
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] распоряжение [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Информация] попала [obl [case в] распоряжение [nmod злоумышленников]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - поступить
   - переслать
@@ -58,7 +60,7 @@ common_fillers:
   - власть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Temporary characteristics

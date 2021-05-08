@@ -3,7 +3,7 @@ record: 1739
 name: 'XP извне'
 UD_name: 'XP извне'
 illustration: 'Как организм человека будет реагировать на влияние извне?'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [advmod извне]]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] [nsubj организм [nmod человека]] [aux будет] реагировать [obl [case на] влияние] [advmod извне]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

@@ -35,16 +35,18 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Action
-  - Theme
   - Agent
+  - Theme
   - Associated
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] скинуться [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мужики] скинулись [obl [case на] пиво].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - мы
   - соседи
@@ -56,10 +58,12 @@ common_fillers:
   - дорогу
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     "Collective action"

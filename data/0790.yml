@@ -35,20 +35,23 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
+  - State
   - Event
   - Participant
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] память [nmod [case о] NP-Loc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] посадил [obj дерево] [obl [case в] память [nmod [case о] брате]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - жертва
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

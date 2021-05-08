@@ -31,18 +31,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case по] словам [nmod NP-Gen]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case По] словам [nmod учителя]], [csubj провести [obj урок] [advmod дистанционно]] [advmod не] [advmod так] просто.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of information
 family:

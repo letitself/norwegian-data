@@ -37,20 +37,23 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
-  - ~
+  - Action
+  - Participant
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [cc и] [advcl [mark раз] [nsubj NP-Nom] [advmod не] возражать], Cl]'
   - '[root [advcl [mark раз] [nsubj NP-Nom] [advmod не] возражать], Cl]'
 dependency_structure_of_illustration:
   - '[root [cc И] [advcl [mark раз] [nsubj Костя] [advmod не] возражает], устроим [obj вечеринку] [advmod [obl [case у] него] дома].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
   - type: Condition

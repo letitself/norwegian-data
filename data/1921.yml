@@ -3,7 +3,7 @@ record: 1921
 name: 'NP ни в коем случае не XP'
 UD_name: 'NP ни в коем случае не XP'
 illustration: 'Игра ни в коем случае не стала скучной.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        ни в коем случае не переживаю, не переживайте семантически отличается от предыдущей конструкции: нет warning. Evaluation by negation of a positive / negative quality - what it is NOT - none, zero level 8
@@ -26,12 +26,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [dep NP] [obl [advmod ни] [case в] [det коем] случае] [advmod не] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Игра] [obl [advmod ни] [case в] [det коем] случае] [advmod не] стала [xcomp скучной].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -33,16 +33,18 @@ part_of_speech_of_anchor:
   - Participle
   - Negation Marker
 semantic_roles:
-  - Theme
   - Action
+  - Theme
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [iobj [amod невооруженным] глазом]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Сходство [nmod отца [conj [cc и] сына]]] видно [iobj [amod невооруженным] глазом].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - видеть
   - заметить
@@ -51,7 +53,7 @@ common_fillers:
   - заметно
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Instrument

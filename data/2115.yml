@@ -34,16 +34,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
+  - Participant
   - Counteragent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case от] лица [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Депутат] выступил [obl [case от] лица [nmod [det всей] партии]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - говорить
   - выступать
@@ -57,7 +60,7 @@ common_fillers:
   - жители
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-Standard Subject
     subtypes:

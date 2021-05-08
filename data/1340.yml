@@ -3,8 +3,10 @@ record: 1340
 name: 'VP/NP навеки'
 UD_name: 'VP/NP навеки'
 illustration: 'Мы с Пашей – друзья навеки.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       примеры подобраны Наташа
 examples:
 morphology:
   - VP
@@ -20,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [advmod навеки]]'
   - '[dep NP [advmod навеки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы [nmod [case с] Пашей]] – друзья [advmod навеки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

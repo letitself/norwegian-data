@@ -19,18 +19,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[conj [mark разве [fixed что]] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Сегодня] [advmod не] поеду, [conj [mark разве [fixed что]] завтра].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

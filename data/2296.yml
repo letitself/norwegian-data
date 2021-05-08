@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod не] может [xcomp быть], [csubj [mark чтобы] Cl]]'
   - '[root [advmod не] может [xcomp [cop быть] такого], [csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] может [xcomp быть], [csubj [mark чтобы] [nsubj вы] [advmod ещё] [advmod не] посетили [obj [det эту] выставку]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

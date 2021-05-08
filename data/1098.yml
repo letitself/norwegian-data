@@ -3,7 +3,7 @@ record: 1098
 name: 'NP-Nom стоить десяти NP-Gen'
 UD_name: 'NP-Nom стоить десяти NP-Gen'
 illustration: 'Один час общения с увлечённым и знающим человеком стоит десяти прочитанных книг.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Subgroup 2: activity - Being worth doing X: important and positive. Verb pattern - lexically radiated constructionsRationalistic evaluation of importance and value of an object (оценка важности, ценности), role, power, impact
@@ -17,20 +17,21 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Verb
   - Numeral
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] стоит [obj [nummod десяти] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [nummod:gov Один] час [nmod общения [nmod [case с] [acl увлечённым [conj [cc и] знающим]] человеком]]] стоит [obj [nummod десяти] [amod прочитанных] книг].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

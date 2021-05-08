@@ -6,7 +6,7 @@ illustration: 'Он уже давно взял у меня эту книгу, и
 cefr_level: C2
 definitions:
   - russian: |
-       Конструкция обозначает, что важный участник ситуации неожиданно для говорящего исчез (уехал, ушел, перестал звонить, примеры 1, 2), получил травму (примеры 3, 4) или умер (пример 5). Конструкция передает удивление и недовольство говорящего по этому поводу. Описано [событие]Event, которое предшествует исчезновению и часто является его причиной. Слова "и привет" при этом значат 'До свидания!, 'Прощай!'.
+       Конструкция обозначает, что важный участник ситуации неожиданно для говорящего исчез (уехал, ушел, перестал звонить, примеры 1, 2), получил травму (примеры 3, 4) или умер (пример 5). Конструкция передает удивление и недовольство говорящего по этому поводу. Описано [событие]Event, которое предшествует исчезновению и часто является его причиной. Слова «и привет» при этом значат 'До свидания!, 'Прощай!'.
   - norwegian: |
        Konstruksjonen betyr at en viktig deltaker i situasjonen, uventet for taleren er forsvunnet (har reist bort, gått sin vei, sluttet å ringe, eksempel 1 og 2), er skadet (eksempel 3 og 4) eller er død (eksempel 5). Konstruksjonen gjengir talerens overraskelse og misnøye i den anledning. Det beskrives en [hendelse]Event som gikk forut for forsvinningen og ofte er dens årsak. Ordene "и привет" betyr her 'På gjensyn!, Farvel!'.
 examples:
@@ -35,18 +35,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Event
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[conj [cc и] привет]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod уже] давно] взял [obl [case у] меня] [obj [det эту] книгу], [conj [cc и] привет]!] [root Уехал [obl [case в] отпуск].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Non-existence

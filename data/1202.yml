@@ -32,22 +32,24 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Action
-  - Comparee
-  - Element
   - Set
   - Standard
+  - Comparee
+  - Element
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep доска [nmod [case наподобие] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[obj Доска [nmod [case наподобие] шахматной]]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

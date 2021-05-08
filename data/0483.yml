@@ -27,18 +27,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [nsubj ничего [det другого]] [advmod не] остаётся [xcomp делать], [advcl [mark кроме [fixed как]] VP-Inf]]'
   - '[root [iobj NP-Dat] [nsubj ничего] [advmod не] остаётся, [advcl [mark как] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [nsubj ничего] [advmod не] остаётся, [advcl [mark как] уехать [obl [case из] страны]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

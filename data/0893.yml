@@ -3,7 +3,7 @@ record: 893
 name: 'во́т PronPers-Nom какой-Nom!'
 UD_name: 'во́т PronPers-Nom какой-Nom!'
 illustration: 'Во́т ты какой!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
   - |
@@ -29,6 +29,8 @@ dependency_structure:
   - '[root [advmod вот] [nsubj PronPers-Nom] какой-Nom!]'
 dependency_structure_of_illustration:
   - '[root [advmod Во́т] [nsubj ты] какой!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - он
   - она

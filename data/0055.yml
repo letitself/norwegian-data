@@ -6,9 +6,7 @@ illustration: 'Баржа весом в шесть тонн.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция используется при измерении большой тяжести / веса [объекта]Theme в стандартных [единицах]Quantity меры тяжести / веса, прежде всего килограммах, пудах, тоннах. Комментарий: Если использовано числительное "один" или "одна", то [единица измерения]Measure [объекта]Theme после предлога "в" стоит в винительном падеже, в остальных случаях после предлога "в" в родительном падеже. Если нет предлога "в", то числительное стоит в именительном падеже.
-  - english: |
-       Примеры должны показывать большее разнообразие, с разными падежами, без предлога, с числ 1
+       Конструкция используется при измерении большой тяжести / веса [объекта]Theme в стандартных [единицах]Quantity меры тяжести / веса, прежде всего килограммах, пудах, тоннах. Если использовано числительное «один» или «одна», то [единица измерения]Measure [объекта]Theme после предлога «в» стоит в винительном падеже, в остальных случаях после предлога «в» в родительном падеже. Если нет предлога «в», то числительное стоит в именительном падеже.
   - norwegian: |
        Konstruksjonen anvendes i forbindelse med at [et objekt]Theme med stor tyngde/vekt måles i standardiserte [målenheter]Quantity for tyngde/vekt, først og fremst i kilo, pud og tonn. Hvis tallordet er 'один', står [objektets]Theme [målenhet]Measure i akkusativ kasus.
 examples:
@@ -19,9 +17,9 @@ examples:
   - |
        [Один домашний торт]Theme весом в [два]Quantity [килограмма]Measure обходился нам не очень дорого.
   - |
-       В [ракете]Theme массой в [800]Quantity [кг]Measure боевая часть составляет 280 кг!
+       Сконструированный Джоулем электромагнит поднимал [груз]Theme весом в [одну тысячу триста]Quantity [килограммов.]Measure
   - |
-       В опытах использовали [74 морские свинки]Theme массой [200-250]Quantity [грамм]Measure.
+       Вот уже почти два десятилетия исследователи экспериментируют с небольшими космическими аппаратами. Важной вехой на этом пути стало появление [спутника]Theme  CubeSat с длиной стороны 10 сантиметров и массой [один]Quantity [килограмм.]Measure
 morphology:
   - NP
   - NumCrd
@@ -40,7 +38,7 @@ semantic_roles:
   - Measure
   - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod весом [nmod [case в] [nummod NumCrd-Acc] NP]]]'
@@ -55,7 +53,7 @@ common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

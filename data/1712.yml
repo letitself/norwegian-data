@@ -6,7 +6,7 @@ illustration: 'Работать за компьютером'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция обозначает [действие]Action, которое участник выполняет, сидя перед экраном комьютера и при этом используя компьютер. Используется предлог "за", потому что участник находится позади экрана с точки зрения наблюдателя, то есть он заслонен от наблюдателя экраном.
+       Конструкция обозначает [действие]Action, которое участник выполняет, сидя перед экраном комьютера и при этом используя компьютер. Используется предлог «за», потому что участник находится позади экрана с точки зрения наблюдателя, то есть он заслонен от наблюдателя экраном.
   - norwegian: |
        Konstruksjonen betegner [en handling]Action som en deltaker utfører sittende foran dataskjermen og med datamaskinen i bruk. Preposisjonen "за" brukes fordi deltakeren, fra observatørens synsvinkel, befinner seg bakom skjermen og altså er skjult for observatøren av skjermen.
 examples:
@@ -34,8 +34,9 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
+  - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] компьютером]]'
@@ -57,7 +58,7 @@ common_fillers:
   - поработать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

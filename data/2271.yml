@@ -6,7 +6,7 @@ illustration: 'Людмиле Петровне под пятьдесят.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает приблизительный возраст [человека]Participant, который по оценке говорящего немного меньше, чем выражено [числительным]Quantity. Используются большие круглые числа от 30 до 100 и больше, которые знаменуют важные границы между периодами жизни человека (примеры 1, 2, 3). Слово "лет" обычно опущено, но может стоять после числительного или перед ним. Конструкция без слова "лет" также используется для обозначения очень высокой или очень низкой [температуры]Theme, которая близка, но немного меньше круглого числа, названного [числительным]Quantity (примеры 4, 5).
+       Конструкция обозначает приблизительный возраст [человека]Participant, который по оценке говорящего немного меньше, чем выражено [числительным]Quantity. Используются большие круглые числа от 30 до 100 и больше, которые знаменуют важные границы между периодами жизни человека (примеры 1, 2, 3). Слово «лет» обычно опущено, но может стоять после числительного или перед ним. Конструкция без слова «лет» также используется для обозначения очень высокой или очень низкой [температуры]Theme, которая близка, но немного меньше круглого числа, названного [числительным]Quantity (примеры 4, 5).
   - norwegian: |
        Konstruksjonen uttrykker [en persons]Participant omtrentlige alder, som etter talerens vurdering er litt lavere enn det som [tallordet]Quantity uttrykker. Det brukes store, runde tall fra 30 til 100 og større, som markerer viktige grenser mellom perioder i et menneskes liv (eksempel 1, 2 og 3). Ordet "лет" utelates vanligvis, men kan stå etter eller før tallordet. Konstruksjonen uten ordet "лет" brukes også for å betegne en svært høy eller lav [temperatur]Theme som ligger nær, men litt under, det runde tallet som [tallordet]Quantity uttrykker (eksempel 4 og 5).
 examples:
@@ -34,9 +34,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case под] Num-Acc]]'

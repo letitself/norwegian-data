@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod будто [fixed бы]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Маша] [advmod будто [fixed бы]] ездила [obl [case в] [amod другую] страну].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

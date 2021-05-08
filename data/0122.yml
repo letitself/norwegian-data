@@ -1,25 +1,28 @@
 ---
 record: 122
-name: 'Cl, ещё (и) Cl!'
-UD_name: 'Cl, ещё (и) Cl!'
+name: 'Cl/XP, (так/да) ещё и Cl/XP!'
+UD_name: 'Cl/XP, (так/да) ещё и Cl/XP!'
 illustration: 'Он не поздравил меня с днём рождения, ещё и хочет, чтобы я его любила'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий добавляет к ранее сказанному [новую негативную информацию]Theme об участнике ситуации или осуждает участника за его действия. Конструкция часто употребляется со следующими глаголами: называться, считаться, зваться.
-  - english: |
-       Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом) nitially ещё (и) Cl! Изменили иллюстрацию: было "еще и учительница называется". Конструкция обозначает, что говорящий добавляет к ранее сказанному [новую негативную информацию]Theme об участнике ситуации или осуждает участника за его действия. Конструкция часто употребляется со следующими глаголами: называться, считаться, зваться.
+       Конструкция обозначает, что говорящий добавляет к ранее сказанному [новую негативную информацию]Theme об участнике или ситуации. Эта информация противоречит нормальному, ожидаемому порядку вещей и усугубляет отрицательную оценку ситуации, осуждение участника или его действий. Слот XP заполняется именной, глагольной и предложной группой.
 examples:
   - |
-       Обманывает, ещё и [честное слово дает.]Theme
+       Мало того, что вы [трус]Evaluation, [нахал]Evaluation, так ещё и [драчун.]Evaluation
   - |
-       Он не поздравил меня с днем рождения, ещё и [хочет, чтобы я его любила.]Theme
+       Кроме [навалившейся работы,]Situation меня ещё и [пересадили в комнату к начальству,]Situation чтоб общаться было удобнее. И теперь монитор мой доступен для обзора сразу аж трем начальникам.
   - |
-       А как стал популярным, ещё и [деньги за работу неплохие получает!]Theme
+       Самой Алле я тоже сочуствую, но всё равно не понимаю как она могла [не любить малыша]Action да ещё и [от любимого человека.]
   - |
-       Ты ведь трус, ещё и [капитан!]Theme
+       [У меня товарищ головой шлагбаум снёс]Situation, так ему ещё и [счёт выставили на 300 евро,]Situation материалисты проклятые.
+  - |
+       [Женя и Лиля тоже страдают бронхиальной астмой,]Situation а у Жени ещё и [энурез,]Situation и она тоже имеет инвалидность.
 morphology:
   - Cl
+  - VP
+  - NP
+  - PP
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
@@ -30,7 +33,10 @@ part_of_speech_of_anchor:
   - Adverb
   - Conjunction
 semantic_roles:
-  - ~
+  - Evaluation
+  - Theme
+  - Situation
+  - Action
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -39,8 +45,10 @@ dependency_structure:
   - '[root Cl, [conj [advmod ещё] Cl]!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod не] поздравил [obj меня] [obl [case с] днём [nmod рождения]], [conj [advmod ещё] [advmod и] хочет, [ccomp [mark чтобы] [nsubj я] [obj его] любила]]]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

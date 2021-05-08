@@ -30,7 +30,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [dep [det такой] NP'
@@ -38,11 +38,13 @@ dependency_structure:
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [iobj [det Такому] человеку, [acl [case как] он]], [advmod не] стыдно [csubj признаться [obl [case в] [det своей] неправоте]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Падучева Е. В. НКРЯ как ресурс при исследовании предметной соотнесенности имен //  В. А. Плунгян. (отв. ред.). Национальный корпус русского языка: 2006 - 2008. Новые результаты и перспективы. СПб.: Нестор-История, 2009, 374-382.
 semantic_types:
   - type: Comparison
     subtypes:

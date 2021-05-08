@@ -21,20 +21,23 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Content
+  - Source
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case по] преданию], Cl]'
   - '[root [parataxis [case по] легенде], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case По] легенде], [nsubj вода] [obl [case в] [det этом] озере] лечебная.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of information
 family:

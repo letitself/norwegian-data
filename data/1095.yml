@@ -3,7 +3,7 @@ record: 1095
 name: 'VP к чёрту'
 UD_name: 'VP к чёрту'
 illustration: 'От новой конструкции все системы и теории постоянно разлетаются к чёрту.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case к] чёрту]]'
 dependency_structure_of_illustration:
   - '[root [obl [case От] [amod новой] конструкции] [nsubj [det все] системы [conj [cc и] теории]] [advmod постоянно] разлетаются [obl [case к] чёрту].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

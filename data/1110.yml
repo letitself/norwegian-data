@@ -3,7 +3,7 @@ record: 1110
 name: 'как знать, Cl'
 UD_name: 'как знать, Cl'
 illustration: 'Как знать, может ещё встретимся.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [advmod как] знать]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [advmod Как] знать], [parataxis может] [advmod ещё] встретимся.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

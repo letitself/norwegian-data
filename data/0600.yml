@@ -35,9 +35,12 @@ part_of_speech_of_anchor:
   - Conjunction
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Evaluation
+  - Agent
+  - Speaker
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop], [parataxis конечно], NP-Nom, [ccomp [mark что] Cl]]'

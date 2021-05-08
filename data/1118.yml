@@ -33,21 +33,24 @@ part_of_speech_of_anchor:
   - Conjunction
   - Noun
 semantic_roles:
+  - Action
   - Event
   - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [parataxis [mark как] правило]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [mark Как] правило], [nsubj история] [obj людей] [iobj ничему] [advmod не] учит.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

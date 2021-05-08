@@ -38,7 +38,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [advmod не] стоит [csubj VP-Ipfv.Inf]]'
@@ -54,7 +54,7 @@ common_fillers:
   - тратить время
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

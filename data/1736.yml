@@ -3,7 +3,7 @@ record: 1736
 name: 'VP вверх/вниз по NP-Dat'
 UD_name: 'VP вверх/вниз по NP-Dat'
 illustration: 'Следует двигаться вниз по реке.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [advmod вверх [case по] NP-Dat]]]'
   - '[root VP [obl [advmod вниз [case по] NP-Dat]]]'
 dependency_structure_of_illustration:
   - '[root Следует [csubj двигаться] [obl [advmod вниз [case по] реке]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

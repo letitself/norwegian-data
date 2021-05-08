@@ -3,7 +3,7 @@ record: 1595
 name: 'изредка VP'
 UD_name: 'изредка VP'
 illustration: 'Он изредка заходил к нам.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое событие]Event происходит многократно, но реже, чем ожидается, иногда. Слот VP может заполняться глаголами обоих видов.
@@ -29,14 +29,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
+  - Action
   - Event
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod изредка] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod изредка] заходил [obl [case к] нам].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - слышаться
   - захаживать
@@ -44,7 +47,7 @@ common_fillers:
   - бывать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

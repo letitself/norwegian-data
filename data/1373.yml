@@ -3,7 +3,7 @@ record: 1373
 name: 'VP на людях'
 UD_name: 'VP на людях'
 illustration: 'Мама никогда не даёт мне советов на людях.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] людях]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мама] [advmod никогда] [advmod не] даёт [iobj мне] [obj советов] [obl [case на] людях].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

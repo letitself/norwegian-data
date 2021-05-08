@@ -3,7 +3,7 @@ record: 1100
 name: 'как бы то ни было, Cl'
 UD_name: 'как бы то ни было, Cl'
 illustration: 'Как бы то ни было, перед выпускниками не стоит задача самим зарабатывать на своё образование.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -14,8 +14,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Negation, Subject
-  - Predicate
+  - Negation
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Pronoun
   - Particle
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark как] [aux бы] [nsubj то] [advmod ни] было]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Как] [aux бы] [nsubj то] [advmod ни] было], [obl [case перед] выпускниками] [advmod не] стоит [nsubj задача [nmod [obl самим] зарабатывать [obl [case на] [det своё] образование]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

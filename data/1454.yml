@@ -3,9 +3,21 @@ record: 1454
 name: 'NP-Nom Cop ни бум-бум на/в NP-Loc/по-Adj-ски'
 UD_name: 'NP-Nom Cop ни бум-бум на/в NP-Loc/по-Adj-ски'
 illustration: 'Вася в математике ни бум-бум.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник ситуации]Participant очень плохо знает определенный [предмет учебной программы]Theme или [иностранный язык]Theme, слабо ориентируется в определенной [области.]Theme
 examples:
+  - |
+       И тут всё зависит только от мнения директора, а [он]Participant в [английском]Theme ни бум-бум.
+  - |
+       –  Да понимаете, я вот собрался детективчики начать писать, надо же как-то на жизнь зарабатывать, а платят за них хорошо, я узнавал. Только я в [этой сфере]Theme ни бум-бум,  – признался Фролов.
+  - |
+       Установщики уехали, а наши [«специалисты»]Participant [по-итальянски]Theme ни бум-бум.
+  - |
+       Все тут знают, что [я]]Participant [по-английски]Theme ни бум-бум, мог просто не понять, не расслышать, не вникнуть…
+  - |
+       Приятельница попросила показать Бишкек ее другу из Америки. [Он]]Participant ни бум-бум на [русском]Theme, а я немного шпрехаю на английском.
 morphology:
   - NP
   - Loc
@@ -24,9 +36,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Оnomatopoeia
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod ни] бум-бум [obl [case в] NP-Loc]]'
@@ -34,11 +47,19 @@ dependency_structure:
   - '[root [advmod ни] бум-бум [advmod по-Adj-ски]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [obl [case в] математике] [advmod ни] бум-бум.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - этом деле
+  - математике
+  - физике
+  - химии
+  - по-русски
+  - по-английски
+  - по-немецки
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:
@@ -50,4 +71,4 @@ semantic_types:
       - type: Unaffected generally
 family:
   - |
-    ""
+    "Domain as semantic role?"

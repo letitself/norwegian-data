@@ -3,7 +3,7 @@ record: 1358
 name: 'VP не переставая'
 UD_name: 'VP не переставая'
 illustration: 'Телефон звонит не переставая.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [advcl [advmod не] переставая]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Телефон] звонит [advcl [advmod не] переставая].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

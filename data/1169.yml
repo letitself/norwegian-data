@@ -35,9 +35,10 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Property
+  - Participant
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] знаком [nmod NP-Gen]]]'
@@ -53,7 +54,7 @@ common_fillers:
   - протест
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

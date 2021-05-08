@@ -3,7 +3,7 @@ record: 1741
 name: 'VP через NP-Acc'
 UD_name: 'VP через NP-Acc'
 illustration: 'Мы пошли не по дороге, а через парк.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case через] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] пошли [obl [advmod не] [case по] дороге, [conj [cc а] [case через] парк]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

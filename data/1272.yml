@@ -41,6 +41,8 @@ dependency_structure:
   - '[root [advmod не] VP-Ipfv.Inf!]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] шуметь!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - шуметь
   - спать
@@ -48,7 +50,7 @@ common_fillers:
   - разговаривать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

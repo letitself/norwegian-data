@@ -1,9 +1,9 @@
 ---
 record: 1579
-name: 'VP-Ipfv до Adj-Gen Noun-Gen'
-UD_name: 'VP-Imp до Adj-Gen N-Gen'
+name: 'VP-Ipfv до (Adj-Gen) N-Gen/VP-Ipfv до Adj-Gen'
+UD_name: 'VP-Imp до (Adj-Gen) N-Gen/VP-Imp до Adj-Gen'
 illustration: 'Катя отстаивала свою позицию до конца.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP-Ipfv [obl [case до] [amod Adj-Gen] Noun-Gen]]'
   - '[root VP-Ipfv [obl [case до] Noun-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Катя] отстаивала [obj [det свою] позицию] [obl [case до] конца].]'
+comment: |
+    'Не путать с конструкциями 1575, 1576, 1577, 1578, 1580, 444'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

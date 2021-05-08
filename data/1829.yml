@@ -3,7 +3,7 @@ record: 1829
 name: 'VP по NP-Dat'
 UD_name: 'VP по NP-Dat'
 illustration: 'Курочка по зёрнышку клюёт.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что ситуация состоит из повторяющихся небольших [квантов] [действия]Action.
@@ -21,19 +21,21 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case по] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Курочка] [obl [case по] зёрнышку] клюёт.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

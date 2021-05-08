@@ -33,21 +33,23 @@ part_of_speech_of_anchor:
   - Noun
   - Numeral
 semantic_roles:
-  - Speaker
   - Theme
+  - Speaker
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] [nummod двух] словах]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case в] [nummod двух] словах] рассказал [obl [case про] [det свою] книгу].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - рассказать
   - объяснить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

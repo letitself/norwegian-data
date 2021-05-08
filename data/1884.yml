@@ -33,14 +33,20 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Theme
+  - Action
+  - Assosiated
+  - State
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod наряду [obl [case с] NP-Ins]] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Наряду [obl [case с] [amod российскими] спортсменами]], [obl [case в] соревновании] участвовали [nsubj иностранцы].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - участвуют
   - работают
@@ -49,7 +55,7 @@ common_fillers:
   - считается
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
 family:

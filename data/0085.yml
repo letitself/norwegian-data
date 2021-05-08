@@ -34,7 +34,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod всё] VP-Ipfv]'
@@ -46,7 +46,7 @@ common_fillers:
   - кричать
 references:
   - |
-    См. Zhukova, V. Title. MA thesis.
+    Zhukova, Valentina. 2020. Intensifying constructions in Russian based on data from Russian Constructicon. Moscow: National Research University Higher School of Economics, MA Thesis.
 semantic_types:
   - type: Degree of intensity
     subtypes:

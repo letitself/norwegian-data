@@ -3,10 +3,10 @@ record: 1135
 name: 'NP-Nom Cop с NP-Ins на "ты"'
 UD_name: 'NP-Nom Cop с NP-Ins на "ты"'
 illustration: 'Она с компьютерами на "ты".'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       Add crossreference with быть с NP-Ins на "вы". если ставить местоимение Я то отношение, если про 3 лицо то Оценка. если ставить местоимение Я то отношение, если про 3 лицо то Оценка. Capacity, being capable to deal with smth, feeling comfortable with a certain activity, Rationalistic attitude: Preferences (how good/bad the speaker is at X, and feels comfortable doing X) - Overlap between Attitude and Assessment
+       Add crossreference with быть с NP-Ins на «вы». если ставить местоимение Я то отношение, если про 3 лицо то Оценка. если ставить местоимение Я то отношение, если про 3 лицо то Оценка. Capacity, being capable to deal with smth, feeling comfortable with a certain activity, Rationalistic attitude: Preferences (how good/bad the speaker is at X, and feels comfortable doing X) - Overlap between Attitude and Assessment
 examples:
 morphology:
   - NP
@@ -25,12 +25,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case с] NP-Ins] [case на] "ты"]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [obl [case с] компьютерами] [case на] "ты".]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

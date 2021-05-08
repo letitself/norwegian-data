@@ -3,7 +3,7 @@ record: 2212
 name: '(Adj) на Adj-Acc.Sg взгляд-Sg.Acc'
 UD_name: '(Adj) на Adj-Acc.Sing взгляд-Sing.Acc'
 illustration: 'Странный на первый взгляд'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod Adj [obl [case на] [amod Adj-Acc.Sg] взгляд-Acc.Sg]]'
   - '[obl [case на] [amod Adj-Acc.Sg] взгляд-Acc.Sg]'
 dependency_structure_of_illustration:
   - '[amod Странный [obl [case на] [amod первый] взгляд]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

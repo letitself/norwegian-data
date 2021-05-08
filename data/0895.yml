@@ -3,7 +3,7 @@ record: 895
 name: 'во́т что (я PronPers-2.Dat скажу): Cl'
 UD_name: 'во́т что (я PronPers-2.Dat скажу): Cl'
 illustration: 'Во́т что: тебе надо жениться.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -27,19 +27,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod вот] [obj что] [nsubj я] [iobj PronPers-2.Dat] скажу: [parataxis Cl]]'
   - '[root [advmod вот] что: [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Во́т] что: [parataxis [iobj тебе] надо [csubj жениться]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - тебе
   - вам
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

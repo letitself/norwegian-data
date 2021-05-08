@@ -31,22 +31,24 @@ part_of_speech_of_anchor:
   - Adjective
   - Conjunction
 semantic_roles:
-  - Activity
   - Agent
+  - Activity
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[dep [det один] NP [conj [cc и] NP]]'
   - '[root [det один] NP [conj [cc и] NP] [conj [cc и] NP]]'
 dependency_structure_of_illustration:
   - '[root [case У] меня [obl [case до] [amod самого] августа] [nsubj [det одна] работа [conj [cc и] работа]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - работа
   - учеба
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

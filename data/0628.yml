@@ -36,21 +36,23 @@ part_of_speech_of_anchor:
   - Pronoun
   - Predicative
 semantic_roles:
-  - Property
   - Action
+  - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [advmod [advmod как [fixed можно]] Adv-Cmp]!]'
 dependency_structure_of_illustration:
   - '[root Пиши [advmod [advmod как [fixed можно]] чаще]!]'
+comment: |
+    'См. близкую конструкцию 150.'
 common_fillers:
   - чаще
   - скорее
 references:
   - |
-    Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673.
+    См. также статью Иомдин, Л. Л. 2019. В копилку микросинтаксических неожиданностей: две русские антонимичные синтаксические фраземы с компаративами // Компьютерная лингвистика и интеллектуальные технологии: По материалам Международной конференции «Диалог 2019». (Москва, 29 мая — 1 июня 2019 г.). М.: Изд-во РГГУ, 2018. Вып. 18 (25). С. 1–14; См. также статью Рахилина Е. В. Кондуктор, нажми на тормоза... // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог» (2013). Т. 1. М.: Изд-во Российского государственного гуманитарного университета, 2013, С. 665–673.
 semantic_types:
   - type: Comparison
     subtypes:

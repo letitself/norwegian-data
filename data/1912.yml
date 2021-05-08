@@ -35,23 +35,26 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Theme
-  - Quantity
-  - Location
   - State
+  - Location
+  - Quantity
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP-Sg [nsubj [case по] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] [det каждого] входа] стоит [nsubj [case по] часовому].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - лежать
   - стоять
   - стоять
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

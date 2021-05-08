@@ -1,21 +1,29 @@
 ---
 record: 102
-name: '(Cl,) даром что Cl'
-UD_name: '(Cl,) даром что Cl'
+name: 'Cl, даром что XP/Cl'
+UD_name: 'Cl, даром что XP/Cl'
 illustration: 'Люди везде одинаковые, даром что говорят на разных языках.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция принадлежит к классу уступительных. Она подчеркивает, что [ситуация]Theme, названная в придаточной части, полностью противоречит [суждению, сформулированному в главной части]Situation. Это не мешает истинности главной части предложения.
+       Конструкция обозначает, что вопреки ожиданиям, некоторая [ситуация]Situation происходит несмотря на определенные [обстоятельства]Concession, которые обычно препятствуют протеканию такой ситуации. Уступительный союз «даром что» близок по значению союзам «хотя», «несмотря на». Слот XP заполняется глагольной, именной или предложной группой.
 examples:
   - |
-       [Она свой характер тоже имеет,]Situation даром что [птица.]Theme
+       Вообще день, даром что [понедельник]Concession, [выдался почти праздничным.]Situation
   - |
-       [Да здесь и моря-то нет]Situation, даром что [«порт пяти морей» называется.]Theme
+       Жена, даром что [стерва]Concession, [его жалела и пускала переночевать на диванчике на кухне.]Situation
   - |
-       [Жена его все-равно жалела]Situation, даром что [была стервой]Theme.
+       [В душе Константин был простым, нормальным человеком]Situation, даром что [работал шеф-редактором.]Concession
+  - |
+       В те годы страшных коммуналок обрести такое отдельное жилье, даром что [в подвале]Concession, [было чудом из чудес.]Situation
+  - |
+       [Чарнолуский понизил голос]Situation, даром что [в кабинете их было двое.]Concession
 morphology:
   - Cl
+  - XP
+  - NP
+  - VP
+  - PP
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -25,20 +33,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Concession
+  - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [advcl [advmod даром] [mark что] Cl]]'
   - '[root [advmod даром] [mark что] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Люди] [advmod везде] одинаковые, [advcl [advmod даром] [mark что] говорят [obl [case на] [amod разных] языках]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    Cм. подкласс 1 "Обманутое ожидание" (группа 6, стр. 29) в статье Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, № 5, 1999. С. 24-44.
 semantic_types:
   - type: Concession
     subtypes:

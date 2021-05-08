@@ -34,17 +34,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - Agent
   - Action
   - Manner
+  - Agent
   - Purpose
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] Verb [xcomp VP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] идёт [xcomp шатается].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - идти
   - ходить
@@ -56,7 +58,7 @@ common_fillers:
   - улыбаться
 references:
   - |
-    См. Стойнова Н., Шлуинский А. Сериальные глагольные конструкции в русском языке. Доклад на конференции "Русский язык: конструкционные и лексико-семантические подходы". 13-14 сентября 2013 г. Санкт-Петербург, ИЛИ РАН.
+    См. также Стойнова Н., Шлуинский А. Сериальные глагольные конструкции в русском языке. Доклад на конференции "Русский язык: конструкционные и лексико-семантические подходы". 13-14 сентября 2013 г. Санкт-Петербург, ИЛИ РАН.
 semantic_types:
   - type: Manner
 family:

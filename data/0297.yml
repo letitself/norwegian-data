@@ -6,7 +6,7 @@ illustration: 'Самый старый в мире дом'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что кто-то или что-то проявлет [качества, свойства]Evaluation в высшей степени, является истинным (прототипическим) представителем [в каком-либо месте]Location .
+       Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в наивысшей степени его проявления и этим отличается от всех объектов или участников, которые существуют в определенном [месте.]Location
 examples:
   - |
        В Москве открывается самый [большой]Evaluation в [Европе]Location торговый комплекс.
@@ -30,17 +30,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod [det самый] Adj [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[obj [amod [amod Самый] старый [obl [case в] мире]] дом]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

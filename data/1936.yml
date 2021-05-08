@@ -1,16 +1,29 @@
 ---
 record: 1936
-name: 'чертовски Adj/Adv'
-UD_name: 'чертовски Adj/Adv'
+name: 'чертовски XP'
+UD_name: 'чертовски XP'
 illustration: 'Он чертовски умён.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       это было чертовски вкусно. этот торт чертовски вкусный чертовски удачная, привлекательный. и краткие и полные прил слот заполняется оценочными прил и нареч
+       Конструкция подчеркивает, что некоторый [признак]Property или [состояние]State проявляется в очень высокой степени. Слот XP заполняется оценочными наречиями, краткими и полными прилагательными, предикативами или глаголами. Заполнители слота XP как правило обозначают положительные характеристики, но могут обозначать и отрицательные (пример 5).
 examples:
+  - |
+       Он был чертовски [красив]Property ― такой мужчина был бы подарком судьбы для любой женщины.
+  - |
+       Нет, все-таки Андрей был чертовски [талантливым]Property человеком!
+  - |
+       Мне чертовски [хотелось]State домой, подальше от всех этих проблем.
+  - |
+       Они выглядят чертовски [привлекательно]Property.
+  - |
+       Чертовски [жалко]State, что ваша оригинальная монография напечатана таким малым тиражом.
 morphology:
+  - XP
   - Adj
   - Adv
+  - VP
+  - Pred
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -20,17 +33,27 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - State
+  - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[amod [advmod чертовски] Adj]'
   - '[advmod [advmod чертовски] Adv]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod чертовски] умён.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - красив
+  - умен
+  - удачный
+  - скучный
+  - устал
+  - хотелось
+  - жалко
+  - трудно
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

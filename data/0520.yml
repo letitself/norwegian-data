@@ -5,6 +5,10 @@ UD_name: 'NP из Adj-Gen'
 illustration: 'Человек из любопытных'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant обладает определенным [признаком]Property и принадлежит к [числу объектов или участников, которые этот признак имеют]Set.
+  - english: |
+       NP-Nom Cop (NP-Nom) не из Adj-Gen.Pl
 examples:
 morphology:
   - NP
@@ -21,17 +25,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep NP [nmod [case из] Adj-Gen]]'
 dependency_structure_of_illustration:
   - '[dep Человек [nmod [case из] любопытных]]'
+comment: |
+    'Ср. близкую конструкцию 537.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

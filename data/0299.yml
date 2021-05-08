@@ -6,7 +6,7 @@ illustration: 'Август – самый жаркий из месяцев.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что кто-то или что-то проявлет [качества, свойства]Evaluation в высшей степени, является истинным (прототипическим) представителем [среди других похожих множеств]Set .
+       Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в наивысшей степени его проявления и этим отличается от всех остальных представителей [некоторого класса]Standard.
 examples:
   - |
        Иногда к нам в гости приходил еще и дядя Вася, самый [младший]Evaluation из [братьев.]Set
@@ -30,17 +30,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod [det самый] Adj [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Август]– [amod самый] жаркий [obl [case из] месяцев].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -9,8 +9,6 @@ definitions:
        Конструкция употребляется для усиления значимости сказанного [говорящим]Agent, подтверждение его слов.
   - english: |
        This construction is used to enhance and confirm the meaning of what the [speaker]Agent has said.
-  - norwegian: |
-       N/A
 examples:
   - |
        [Я]Agent прямо [удивился]Action такой его реакции на мои безобидные слова.
@@ -33,17 +31,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep [advmod прямо] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod прямо] удивилась [iobj [det такой] реакции].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

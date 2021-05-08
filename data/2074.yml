@@ -24,17 +24,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [cc и] [iobj PronPers-Dat] того [advmod же]!]'
 dependency_structure_of_illustration:
   - '[root [cc И] [iobj вам] того [advmod же]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Routine
     subtypes:

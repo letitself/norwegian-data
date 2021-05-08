@@ -38,7 +38,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Quantity
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NumCrd-Nom] делится [obl [case на] NumCrd-Acc] [obl [case с] остатком [nmod NumCrd-Nom]]]'
@@ -48,10 +48,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 2036 NumCrd-Nom (не) делится (нацело) на NumCrd-Acc (Семь не делится нацело на два).'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Calculation
     subtypes:

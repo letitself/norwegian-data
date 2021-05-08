@@ -3,7 +3,7 @@ record: 1700
 name: 'VP за городом'
 UD_name: 'VP за городом'
 illustration: 'Мы с друзьями провели выходные за городом.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] городом]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы [nmod [case с] друзьями]] провели [obj выходные] [obl [case за] городом].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

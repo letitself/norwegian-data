@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция служит для выражения значительного сходства кого-либо [с его близким или дальним родственником]Theme. Сходство может быть как в характере, так и во внешности. Конструкция может иметь негативную оценку при сравнении плохих черт характера (пример 5).
+  - english: |
+       The construction serves to express significant similarities someone shares [with a close or distant relative]Theme. The similarities may be in character or appearance. The construction can have a negative connotation when comparing poor character traits (example 5).
   - norwegian: |
        Konstruksjonen uttrykker at noen har vesentlige likhetstrekk med [en nær eller fjern slektning]Theme. Likhetstrekkene kan komme til uttrykk så vel i karakteren som i utseendet. Ved sammenlikning av dårlige karaktertrekk kan konstruksjonen ha en negativ valør (eksempel 5).
 examples:
@@ -39,19 +41,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] пойти [acl весь] [obl [case в] NP-Acc]]'
   - '[root [nsubj NP-Nom] [cop Cop] [acl весь] [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] пошел [det весь] [obl [case в] отца].]'
+comment: |
+    'См. похожие конструкции 7, 1180, 1181. Не путать с конструкцией 56.'
 common_fillers:
   - маму
   - отца
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [iobj NP-Ins.Pl] [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] скупала [iobj мешками] [obj картошку] [obl [case в] магазине].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

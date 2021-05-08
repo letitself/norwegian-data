@@ -6,7 +6,7 @@ illustration: 'Мы собрали посуду со стола, как поло
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что [некоторое действие]Action было выполнено с учетом всех актуальных правил или традиций. Словосочетание "как положено" может как следовать за наименованием действия, так и предшествовать ему.
+       Конструкция обозначает, что [некоторое действие]Action было выполнено с учетом всех актуальных правил или традиций. Словосочетание «как положено» может как следовать за наименованием действия, так и предшествовать ему.
   - english: |
        This construction indicates that [an action]Action was perfomed taking into account all current rules or customs. In a sentence the phrase "как положено" can come both before and after the action it refers to.
 examples:
@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl, [advcl [mark как] подобает]]'
@@ -42,11 +42,13 @@ dependency_structure:
   - '[root Cl, [advcl [mark как] принято]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] собрали [obj посуду] [obl [case со] стола], [advcl [mark как] положено].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Root modality

@@ -38,19 +38,21 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case по] причине [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ребёнок] [advmod не] пришел [obl [case в] школу] [obl [case по] причине [nmod [amod плохого] самочувствия]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - стресса
   - усталости
   - болезни
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

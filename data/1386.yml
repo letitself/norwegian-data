@@ -38,13 +38,15 @@ semantic_roles:
   - Participant
   - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] дом]]]'
   - '[dep NP [nmod [case на] дом]]]'
 dependency_structure_of_illustration:
   - '[root Можно [csubj вызвать [obj врача] [obl [case на] дом]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - вызвать
   - доставить
@@ -53,7 +55,7 @@ common_fillers:
   - выезд
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

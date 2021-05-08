@@ -33,23 +33,25 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
-  - Participant
-  - Theme
   - Action
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case во] [det все] глаза]]'
 dependency_structure_of_illustration:
   - '[root Смотри [obl [case во] [det все] глаза], [advcl [mark чтобы] [nsubj никто] [advmod не] прошёл]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - смотреть
   - глядеть
   - разглядывать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

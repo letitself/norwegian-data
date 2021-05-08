@@ -37,12 +37,14 @@ semantic_roles:
   - Action
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] [det всякого] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] попрощались [obl [case с] ним] [obl [case без] [det всякого] сожаления].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - сожаление
   - смущение
@@ -53,7 +55,7 @@ common_fillers:
   - повод
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Manner

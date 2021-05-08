@@ -34,15 +34,17 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
-  - State
   - Theme
+  - State
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Gen] [mark как] [advmod не] бывало]'
 dependency_structure_of_illustration:
   - '[root [nsubj Простуды] [mark как] [advmod не] бывало.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - сон
   - усталость
@@ -50,7 +52,7 @@ common_fillers:
   - обида
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

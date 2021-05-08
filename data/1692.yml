@@ -3,7 +3,7 @@ record: 1692
 name: 'вдруг/внезапно/неожиданно/нежданно-негаданно VP'
 UD_name: 'вдруг/внезапно/неожиданно/нежданно-негаданно VP'
 illustration: 'Он вдруг встал и побежал к двери.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -20,7 +20,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod вдруг] VP]'
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root [advmod нежданно-негаданно] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod вдруг] встал [conj [cc и] побежал] [obl [case к] двери].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
 family:

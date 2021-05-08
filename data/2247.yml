@@ -3,7 +3,7 @@ record: 2247
 name: 'VP/NP на всю/полную катушку'
 UD_name: 'VP/NP на всю/полную катушку'
 illustration: 'Развлекаемся на всю катушку!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,7 +23,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] [det всю] катушку]]'
@@ -32,11 +32,13 @@ dependency_structure:
   - '[dep NP [nmod [case на] [det полную] катушку]]'
 dependency_structure_of_illustration:
   - '[root Развлекаемся [obl [case на] [det всю] катушку]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

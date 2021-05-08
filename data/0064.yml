@@ -6,8 +6,22 @@ illustration: 'Вот и чудесно!'
 cefr_level: B1
 definitions:
   - russian: |
-       только в наст времени, не ставим Cop, краткое прил. vot i hudesno, chto... вот и Adj-Short! вот и хорошо, отлично, превосходно, плохо, но ограничения есть. нельзя сказать вот и грустно! . стр 194. В позиции аксиологического оператора используются почти ис­ ключительно общеоценочные предикаты хорошо и плохо, выклю­ ченные из парадигматических отношений со своими эмоциональны­ ми синонимами. Такие оценки как отлично, превосходно, пре­ красно и др. допускают только автономное (отлученное от факто­ образующего придаточного) употребление типа Вот и отлично; Пре­ восходно! Вот это замечательно!
+       Конструкция выражает [оценку]Evaluation говорящим некоторого решения или действий другого участника и таким образом подытоживает обсуждение этого вопроса. Обычно выражается положительная оценка, одобрение, но иногда встречается отрицательная оценка, осуждение (пример 4). Обычно конструкция используется в ситуации диалога и выражает реакцию говорящего на предшествующую реплику собеседника (примеры 1-4). Конструкция также встречается при передаче монологической речи говорящего, которая конструируется как диалог говорящего с самим собой (пример 5).
+  - english: |
+       This construction means that the speaker agrees with or approves of [a certain decision]Evaluation.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren er enig i, eller synes godt om [en viss avgjørelse]Evaluation.
 examples:
+  - |
+       Приезжайте-ка лучше завтра вечером ко мне домой. Ладно? Договорились? Ну, вот и [отлично!]Evalution
+  - |
+       «Садись, ― сказала Ася. ― Не обращай на них внимания». ― «Я и не обращаю», ― сказал Алексей. «Вот и [хорошо]Evaluation, вот и [хорошо!..»Evaluation ― сказала Ася.
+  - |
+       ― Сделаете? ― спрашиваю я. ― Сделаем, Василий Семенович. ― Ну вот и [славно]Evalution, коллеги. А теперь все, совещание окончено, давайте за работу.
+  - |
+       ― Читал Ленина? ― Да нет, мы уже не изучали… ― Вот и [плохо]Evaluation! Потому так и работаешь!
+  - |
+       Зима пришла на следующий день. Я в окно глянула, а во дворе уже навалило столько снега, как будто он хотел накрыть с головой все заборы, дома и даже телевышку. Вот и [хорошо]Evaluation, зальют каток, и каждое воскресенье я буду кататься на коньках.
 morphology:
   - Pred
 syntactic_type_of_construction:
@@ -19,7 +33,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Evalution
+  - Evaluation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -27,11 +42,21 @@ dependency_structure:
   - '[root [advmod вот] [advmod и] Pred!]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod и] чудесно!]'
+comment: |
+    'Конструкция используется только в нястоящем времени, поэтому слот связочного глагола Cop в имени конструкции отсутствует.'
 common_fillers:
-  - ~
+  - хорошо
+  - прекрасно
+  - превосходно
+  - чудесно
+  - замечательно
+  - отлично
+  - славно
+  - славненько
+  - правильно
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). См. также об общеоценочных предикатах в монографии Арутюнова Н.Д. 1988. Типы языковых значений. Оценка. Событие. Факт. Москва. Издательство "Наука". С. 194.
 semantic_types:
   - type: Assessment
     subtypes:

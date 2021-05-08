@@ -3,7 +3,7 @@ record: 995
 name: 'достаточно/нужно Cop (лишь) NP-Gen/VP-Inf, чтобы VP'
 UD_name: 'достаточно/нужно Cop (лишь) NP-Gen/VP-Inf, чтобы VP'
 illustration: 'Достаточно было одного ее взгляда, чтобы влюбиться.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -25,7 +25,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root достаточно [cop Cop] [advmod лишь] [nsubj NP-Gen], [advcl [mark чтобы] VP-Inf]]'
@@ -38,11 +38,13 @@ dependency_structure:
   - '[root нужно [cop Cop] [csubj VP-Inf], [advcl [mark чтобы] VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Достаточно [cop было] [nsubj [det одного] [det ее] взгляда], [advcl [mark чтобы] влюбиться].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
   - type: Consequence

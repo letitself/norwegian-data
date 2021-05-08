@@ -3,7 +3,7 @@ record: 1322
 name: 'А ещё NP-Nom!'
 UD_name: 'А ещё NP-Nom!'
 illustration: 'Такие глупости говорит. А еще кандидат наук!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом) только в настоящем
@@ -23,12 +23,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [cc а] [advmod еще] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root [obj [det Такие] глупости] говорит.] [root [cc А] [advmod еще] кандидат [nmod наук]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

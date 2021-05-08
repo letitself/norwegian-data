@@ -3,7 +3,7 @@ record: 1796
 name: 'очень даже XP'
 UD_name: 'очень даже XP'
 illustration: '– Вода не имеет цвета. – Очень даже имеет!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep [advmod очень [advmod даже]] XP]'
 dependency_structure_of_illustration:
   - '[root – [nsubj Вода] [advmod не] имеет [obj цвета].] [root – [advmod Очень] [advmod даже] имеет!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

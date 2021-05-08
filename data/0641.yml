@@ -24,12 +24,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obj что [advcl [advmod ни] попадя]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ваня] ел [obj что [advcl [advmod ни] попадя]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

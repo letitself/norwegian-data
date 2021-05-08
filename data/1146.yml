@@ -1,11 +1,23 @@
 ---
 record: 1146
-name: 'у NP-Gen Cop (такой) вид, (будто Cl)'
-UD_name: 'у NP-Gen Cop (такой) вид, (будто Cl)'
+name: 'у NP-Gen Cop (такой) вид, будто Cl'
+UD_name: 'у NP-Gen Cop (такой) вид, будто Cl'
 illustration: 'У тебя такой вид, будто тебе это не интересно.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий характеризует [некоторого участника]Participant путем сравнения его внешних качеств с теми, которые он мог бы приобрести в [некоторой гипотетической ситуации]Situation.
 examples:
+  - |
+       У Элли большой бородатый бойфренд, у [которого]Participant каждый день такой вид, будто [он только что спустился с гор, где годами жил вместе с индейцами]Situation.
+  - |
+       У [неё]Participant был такой вид, будто [она знает важную тайну]Situation.
+  - |
+       У [Егора]Participant такой вид, будто [он совершенно об этом не думает]Situation.
+  - |
+       У [вас]Participant сегодня такой вид, будто [вам нездоровится]Situation.
+  - |
+       У [него]Participant был такой вид, будто [он смотрит на самое вкусное в мире блюдо]Situation.
 morphology:
   - NP
   - Gen
@@ -23,9 +35,10 @@ part_of_speech_of_anchor:
   - Noun
   - Conjunction
 semantic_roles:
-  - ~
+  - Participant
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj [det такой] вид, [acl [mark будто] Cl]]]'
@@ -33,15 +46,17 @@ dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj вид, [acl [mark будто] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [case У] тебя [nsubj [det такой] вид, [acl [mark будто] [iobj тебе] [nsubj это] [advmod не] интересно]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:
-      - type: Imitation
+      - type: Similarity
 family:
   - |
     ""

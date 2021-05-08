@@ -1,25 +1,24 @@
 ---
 record: 211
-name: 'не Noun, а NP'
-UD_name: 'не N, а NP'
+name: 'не NP, а NP'
+UD_name: 'не NP, а NP'
 illustration: 'Не дом у них, а столярная мастерская.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция употребляется, когда говорящий не согласен с обозначением какого-либо [объекта]Theme и дает этому объекту другую [характеристику]Actant.
-  - english: |
-       Не собаку они завели, а настоящшего крокодила. Почему в первом случае именная группа обозначена как Noun, а во втором случае как NP? Скорее, NPв обоих случаях, судя по примеру номер один. То есть формула должна быть не NP, а NP. Конструкция употребляется, когда говорящий не согласен с обозначением какого-либо [объекта]Theme и дает этому объекту другую [характеристику]Actant.
-  - norwegian: |
-       N/A
+       Конструкция обозначает, что говорящий не согласен с [определением]Theme некоторого объекта или участника и дает ему другое, более точное и адекватное на его взгляд [наименование.]Evaluation
 examples:
   - |
-       Это не [лес]Theme, а [ухоженный парк.]Actant
+       Соседи не [собаку]Theme завели, а [настоящего крокодила.]Evaluation
   - |
-       Это не [простая книга]Theme, а [целая энциклопедия]Actant!
+       Девочка была очень худенькая. Не [девочка]Participant, а [цыплёнок.]Evaluation
   - |
-       Там не [озеро]Theme, а [водохранилище.]Actant
+       У вас прямо не [дом]Theme, а [дворец культуры и отдыха.]Evaluation
+  - |
+       Первый выпуск новой программы будет не [сюжет]Theme, а [бомба.]Evaluation
+  - |
+       Я для него теперь не [вредная мамаша]Evaluation, а [друг]Evaluation, [партнёр]Evaluation.
 morphology:
-  - Noun
   - NP
 syntactic_type_of_construction:
   - Connection Construction
@@ -32,21 +31,28 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Conjunction
 semantic_roles:
-  - ~
+  - Evaluation
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [advmod не] Noun'
   - '[conj [cc а] NP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] [nsubj дом] [case у] них, [conj [cc а] [amod столярная] мастерская].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
   - type: Salient property
     subtypes:
       - type: Characteristics through specification

@@ -6,7 +6,7 @@ illustration: 'Никто не воспринимает этот сайт как
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "точнее сказать", "вернее сказать", "точнее" или "вернее", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. С помощью этой конструкции говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Слот XP может заполняться именной, предложной или глагольной группой.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами «точнее сказать», «вернее сказать», «точнее» или «вернее», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. С помощью этой конструкции говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Слот XP может заполняться именной, предложной или глагольной группой.
   - norwegian: |
        Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'точнее сказать', 'вернее сказать', 'точнее' eller 'вернее', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Det er som om taleren ved hjelp av denne konstruksjonen korrigerer sin opprinnelige, noe upresise, formulering ved å foreslå en alternativ formulering. Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
@@ -37,10 +37,11 @@ part_of_speech_of_anchor:
   - Adverb
   - Verb
 semantic_roles:
+  - Content
   - Topic
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[dep XP, [nmod [parataxis [advmod точнее] сказать], XP]]'
@@ -49,11 +50,13 @@ dependency_structure:
   - '[root XP, [nmod [parataxis вернее], XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Никто] [advmod не] воспринимает [obj [det этот] сайт] [obl [case как] [amod хороший] ресурс], [parataxis [parataxis точнее], [obl [case о] нём] [advmod вообще] [advmod не] conj знают].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

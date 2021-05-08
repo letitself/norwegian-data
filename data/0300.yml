@@ -6,7 +6,7 @@ illustration: 'Самая бедная среди подруг'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что кто-то или что-то проявлет [качества, свойства]Evaluation в высшей степени, является истинным (прототипическим) представителем [какого-либо класса]Set .
+       Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в наивысшей степени его проявления и этим отличается от всех остальных представителей [некоторого класса]Standard.
 examples:
   - |
        Алексей Петрович – старик. [Самый]Degree [старший]Evaluation среди [нас]Set по возрасту. Мастер на все руки.
@@ -30,17 +30,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod [det самый] Adj [obl [case среди] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [amod Самая] бедная [obl [case среди] подруг]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

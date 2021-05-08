@@ -3,10 +3,10 @@ record: 1783
 name: 'NP-Gen NP-Dat Cop не занимать'
 UD_name: 'NP-Gen NP-Dat Cop не занимать'
 illustration: 'Хитрости ему не занимать.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Subgroup: Х is not lacking the property Y Evaluation of intellectual ability, mental ability - 'good at doing something'
+       Subgroup: Х is not lacking the property Y Evaluation of intellectual ability, mental ability - «good at doing something»
 examples:
 morphology:
   - NP
@@ -18,20 +18,22 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Negation, Verb
-  - Object
+  - Negation
+  - Verb and Object
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obj NP-Gen] [iobj NP-Dat] [cop Cop] [advmod не] занимать]'
 dependency_structure_of_illustration:
   - '[root [obj Хитрости] [iobj ему] [advmod не] занимать.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -41,7 +43,7 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
-      - type: Assessments specific to people
+      - type: Assessment specific to people
   - type: Polarity value
     subtypes:
       - type: Both Negative and Positive

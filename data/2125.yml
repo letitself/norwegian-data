@@ -3,7 +3,7 @@ record: 2125
 name: 'NP-Nom Cop вынужденный-Short VP-Inf'
 UD_name: 'NP-Nom Cop вынужденный-Short VP-Inf'
 illustration: 'Я был вынужден подчиниться.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Так, лексемы приходится / придется, вынужден, принужден употребляются исключительно для описания реализованных фактов: Думал-думал, и никак не выдумал этого письма. Пришлось на другой день идти самому объясняться (А.Чехов) - «пошел объясняться»;
@@ -26,17 +26,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] вынужденный-Short [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass Я] [cop был] вынужден [xcomp подчиниться].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

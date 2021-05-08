@@ -1,11 +1,23 @@
 ---
 record: 2050
-name: 'Cl так, как если бы Cl'
-UD_name: 'Cl так, как если бы Cl'
+name: 'Cl (так), как если бы Cl'
+UD_name: 'Cl (так), как если бы Cl'
 illustration: 'О тех временах он помнил так, как если бы это было вчера.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает сходство двух ситуаций: некоторая [реальная ситуация]Comparee уподобляется другой, [гипотетической ситуации]Standard. Сходство касается образа действия, описанного в реальной ситуации, на что указывает слово «так».
 examples:
+  - |
+       Теперь Кеплер вправе сказать, что [постиг Вселенную]Comparee так, как если бы [создал её собственными руками]Standard.
+  - |
+       [Ценность земельных участков за эти годы возросла]Comparee так, как если бы [под покровом песчаной почвы обнаружили нефть или золото]Standard.
+  - |
+       [Лекцию надо читать]Comparee так, как если бы [был уверен, что между слушателями сидит Сократ]Standard.
+  - |
+       [Она подняла ладонь и решительно ею помотала справа налево]Comparee, как если бы [навсегда прощалась со мной]Standard.
+  - |
+       [Это было похоже на кошмарный сон]Comparee, как если бы [за мной явилась колдунья из страшной сказки]Standard.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -19,20 +31,23 @@ part_of_speech_of_anchor:
   - Conjunction
   - Particle
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [advmod так'
   - '[advcl [mark как] [mark если] [aux б] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case О] [det тех] временах] [nsubj он] помнил [advmod так, [advcl [mark как] [mark если] [aux б] [nsubj это] [cop было] вчера]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

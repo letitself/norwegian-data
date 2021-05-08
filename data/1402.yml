@@ -3,7 +3,7 @@ record: 1402
 name: 'NP-Nom Cop (не) в кассу'
 UD_name: 'NP-Nom Cop (не) в кассу'
 illustration: 'Этот режиссёр здесь явно в кассу.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -26,13 +26,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case в] кассу]'
   - '[root [nsubj NP-Nom] [cop Cop] [case в] кассу]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] режиссёр] [advmod здесь] [advmod явно] [case в] кассу.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

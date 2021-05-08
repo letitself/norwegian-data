@@ -3,7 +3,7 @@ record: 1875
 name: 'наряду с этим, Cl'
 UD_name: 'наряду с этим, Cl'
 illustration: 'Наряду с этим, мы улучшаем качество продукции.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [advmod наряду [obl [case с] этим]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Наряду [obl [case с] этим]], [nsubj мы] улучшаем [obj качество [nmod продукции]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

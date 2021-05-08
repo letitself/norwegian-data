@@ -35,20 +35,22 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - Property
   - Theme
+  - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] переименовать [obj NP-Acc] [obl [case в] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Николай [amod II]] переименовал [obj Санкт-Петербург] [obl [case в] Петроград].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

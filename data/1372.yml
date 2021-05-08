@@ -3,7 +3,7 @@ record: 1372
 name: 'NP-Nom включать в себя NP-Acc'
 UD_name: 'NP-Nom включать в себя NP-Acc'
 illustration: 'Этот учебник включает в себя все необходимые для экзамена темы.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] включает [obl [case в] себя] [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Этот учебник] включает [obl [case в] себя] [obj [det все] [acl необходимые [nmod [case для] экзамена]] темы].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Inclusive
   - type: Salient property

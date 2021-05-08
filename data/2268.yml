@@ -38,14 +38,14 @@ part_of_speech_of_anchor:
   - Adverb
   - Negation Marker
 semantic_roles:
-  - Theme
-  - Participant
-  - Situation
   - Property
-  - Evaluation
+  - Theme
+  - Circumstance
   - Action
+  - Situation
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod совсем] не] XP]'
@@ -70,7 +70,7 @@ common_fillers:
   - говорить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

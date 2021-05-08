@@ -37,7 +37,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - Assertive
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root грех [cop Cop] [csubj [advmod не] VP-Pfv.Inf]!]'
@@ -51,7 +51,7 @@ common_fillers:
   - воспользоваться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

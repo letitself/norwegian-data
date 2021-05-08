@@ -36,13 +36,16 @@ semantic_roles:
   - Action
   - Agent
   - Associated
+  - Counteragent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [advmod вместе] [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] пошёл [obl [advmod вместе] [case с] ними].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - веселиться
   - играть
@@ -54,7 +57,7 @@ common_fillers:
   - семьей
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
 family:

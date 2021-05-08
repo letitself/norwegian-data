@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [кто-то или что-то]Theme проявлет качества, свойства в высшей степени, является истинным (прототипическим) представителем [какого-либо класса]Evaluation .
-  - english: |
-       N/A
-  - norwegian: |
-       N/A
 examples:
   - |
        Подумав хорошенько, я прихожу к убеждению, что [я]Agent самый что ни на есть [обыкновенный студент]Evaluation.
@@ -36,12 +32,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [det самый [fixed что] [fixed ни] [fixed на] [fixed есть]] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [amod [det самый [det что] [fixed ни] [fixed на] [fixed есть]] умный] человек!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -6,7 +6,7 @@ illustration: 'Что мне деньги, если я несчастен!'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что участник считает, что для [него]Experiencer [объект]Theme (или [свойство]Theme или [событие]Theme) не представляет ценности из-за того, что имеет место некоторая [ситуация]Situation, которую этот [объект]Theme не может изменить. Синонимом слова "что" здесь может быть слово "зачем".
+       Конструкция обозначает, что участник считает, что для [него]Experiencer [объект]Theme (или [свойство]Theme или [событие]Theme) не представляет ценности из-за того, что имеет место некоторая [ситуация]Situation, которую этот [объект]Theme не может изменить. Синонимом слова «что» здесь может быть слово «зачем».
   - english: |
        употребляется в прошедшем тоже, см из корпуса Но что мне были его жалкие оправдания? [ Дети электричества // «Столица», 1997.06.10] Но что мне были домашние задания, если после школы я шел не домой, а на свою ночную работу? [Феликс Кривин. Притчи о жизни (1981-1985)
   - norwegian: |
@@ -38,18 +38,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root что [iobj PronPers-Dat] [cop Cop] [nsubj NP-Nom]'
   - '[advcl [mark если] Cl]?]'
 dependency_structure_of_illustration:
   - '[root Что [iobj мне] [nsubj деньги], [advcl [mark если] [nsubj я] несчастен]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

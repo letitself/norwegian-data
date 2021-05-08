@@ -31,13 +31,16 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
+  - State
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] совершенстве]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] владел [xcomp китайским] [obl [case в] совершенстве].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - владеть
   - освоить

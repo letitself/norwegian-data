@@ -32,23 +32,25 @@ part_of_speech_of_anchor:
   - Preposition
   - Adjective
 semantic_roles:
-  - Situation
   - Action
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case к] лучшему]]'
   - '[root VP [obl [case к] худшему]]'
 dependency_structure_of_illustration:
   - '[root [obl [case После] войны] [nsubj жизнь] изменилась [obl [case к] лучшему].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - меняться
   - измениться
   - перемениться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

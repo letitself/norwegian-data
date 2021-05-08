@@ -6,22 +6,25 @@ illustration: 'Он еле ходит.'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция используется по отношению к некоторому [субъекту]Agent, который выполняет какое-то [действие]Action с трудом. Слово "еле" можно использовать в качестве синонима таких слов, как "мало", "недостаточно", "едва" и подобных.
+       Конструкция понижает степень интенсивности действия или признака. Если слот XP заполняется глаголом, то конструкция обозначает, что участник выполняет [некоторое действие]Action с трудом, что это действие получается у него плохо (примеры 1, 2). Если слот XP заполняется прилагательным или наречием, то речь идет о слабой выраженности [некоторого признака]Property (примеры 4, 5).
   - english: |
-       The construction is used in reference to a [subject]Agent that carries out an [action]Action with difficulty. The word "еле" can be used as a synonym for words like "мало", "недостаточно", "едва".
-  - norwegian: |
-       N/A
+       This construction means that a [participant]Agent carries out a certain [action]Action with difficulty, not well enough.
 examples:
   - |
-       Он еле [дождался]Action, пока я доковыряюсь ключом в замке и, не снимая сапожек, прямиком пошёл в свою спальню.
+       Компьютер еле [работает.]Action
   - |
-       Дед Андрей в больнице лежал, на станции. Но еле [передвигался]Action.
+       Он еле [дождался]Action, пока я открою дверь, и, не снимая ботинок, пошёл в свою комнату.
   - |
-       Компьютер еле [работает]Action...
+       ― Отопление прошлую зиму не работало в одной комнате, а сейчас еле [тёплые]Property батареи во всей квартире.
   - |
-       -
+       ― Вам холодно? ― еле [слышно]Property спросила она.
+  - |
+       Ранка от укуса была еле [заметной.]Property
 morphology:
   - XP
+  - VP
+  - Adv
+  - Adj
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -31,19 +34,31 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
+  - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod еле] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod еле] ходит.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - движется
+  - ходит
+  - открыл
+  - нашли
+  - откачали
+  - видный
+  - заметный
+  - слушно
+  - видно
+  - уловимо
 references:
   - |
-    
+    См. также статью Зельдович Г. М. Наречия едва и еле: возвращаясь к теме // Вопросы языкознания. 1999. № 4. С. 114–123.
 semantic_types:
   - type: Degree of intensity
     subtypes:

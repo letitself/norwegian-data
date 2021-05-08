@@ -3,7 +3,7 @@ record: 843
 name: '(да) NP-Acc послушать, (так) Cl'
 UD_name: '(да) NP-Acc послушать, (так) Cl'
 illustration: 'Да тебя послушать, так вообще никуда летать не стоит.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
   - |
@@ -24,7 +24,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [cc да] [obj NP-Acc] послушать, [conj [mark так] Cl]'
@@ -33,11 +33,13 @@ dependency_structure:
   - '[root [obj NP-Acc] послушать, [parataxis Cl]'
 dependency_structure_of_illustration:
   - '[root [cc Да] [obj тебя] послушать, [conj [mark так] [csubj [advmod вообще] [advmod никуда] летать] [advmod не] стоит].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

@@ -3,8 +3,10 @@ record: 1338
 name: 'VP/NP на веки вечные'
 UD_name: 'VP/NP на веки вечные'
 illustration: 'Нина предложила свою дружбу на веки вечные.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       примеры подобраны Наташа
 examples:
 morphology:
   - VP
@@ -22,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] веки [amod вечные]]]'
   - '[dep NP [nmod [case на] веки [amod вечные]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Нина] предложила [obj [det свою] дружбу] [obl [case на] веки [amod вечные]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

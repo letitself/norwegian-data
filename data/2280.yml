@@ -3,7 +3,7 @@ record: 2280
 name: 'Cl, нет?'
 UD_name: 'Cl, нет?'
 illustration: 'Вы уже закончили работу, нет?'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[parataxis нет]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вы] [advmod уже] закончили [obj работу], [parataxis нет]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

@@ -3,7 +3,7 @@ record: 1138
 name: 'на первый взгляд, Cl'
 UD_name: 'на первый взгляд, Cl'
 illustration: 'На первый взгляд, это не искусство.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case на] [amod первый] взгляд]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case На] [amod первый] взгляд], [nsubj это] [advmod не] искусство.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

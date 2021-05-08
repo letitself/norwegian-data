@@ -3,7 +3,7 @@ record: 994
 name: 'Cl, не то смотри(те) у меня!'
 UD_name: 'Cl, не то смотри(те) у меня!'
 illustration: 'Должен вернуться до десяти, не то смотри у меня!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root Cl, [conj [cc не [fixed то]] смотрите [obl [case у] меня]]!]'
 dependency_structure_of_illustration:
   - '[root Должен [xcomp вернуться [obl [case до] десяти]], [conj [cc не [fixed то]] смотри [obl [case у] меня]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

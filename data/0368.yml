@@ -31,18 +31,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advcl что [advmod ни] [nsubj NP-Nom]]'
   - '[mark то] NP-Nom]'
 dependency_structure_of_illustration:
   - '[root [mark Что] [advmod ни] [nsubj растение], [mark то] сорняк.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

@@ -3,9 +3,21 @@ record: 1497
 name: 'совершенный Noun'
 UD_name: 'совершенный N'
 illustration: 'Это совершенный кошмар!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция повышает до максимума степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что ситуация, предмет или участник в наивысшей степени соответствует некоторой [характеристике]Evaluation.
 examples:
+  - |
+       Эти походы по фабрикам ― совершенное [безумие]Theme!
+  - |
+       Есть у меня кое-какие мелкие замечания, но это ― совершенная [мелочь]Theme.
+  - |
+       Наперекор всякой логике и здравому смыслу я произнёс какую-то совершенную [нелепость]Theme: ― Здравствуйте! Извините, что помешал.
+  - |
+       Меня поразила совершенная [безжалостность]Theme этих людей.
+  - |
+       Дверца захлопнулась с оглушительным грохотом, и Пашка остался в совершенной [темноте]Theme.
 morphology:
   - Noun
 syntactic_type_of_construction:
@@ -17,19 +29,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adjective
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [amod совершенный] Noun]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [amod совершенный] кошмар!]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1493, 1494, 1495, 1496, 1498, 1499, 1500'
 common_fillers:
-  - ~
+  - восторг
+  - ужас
+  - мрак
+  - кошмар
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция особо подчеркивает и конкретизирует некоторое единственное [действие]Action, которое выполнил или не выполнил [участник ситуации]Participant. В некоторых контекстах с отрицанием (примеры 1, 2) может иметь следующее значение: ожидалось, что участник выполнит некоторое действие, однако этого не произошло. Слот XP может заполняться глагольной группой (VP), именной группой (NP) или предложной группой (PP).
+  - english: |
+       The construction emphasizes and specifies a single [action]Action that the [participant in the situation]Participant has performed or failed to perform. Certain contexts with negation (examples 1, 2) may have the following meaning: The participant was expected to perform some action, but this has not occurred. The XP slot can be filled by a verb phrase (VP), noun phrase (NP), or prepositional phrase (PP).
   - norwegian: |
        Konstruksjonen fremhever og konkretiserer en [enkelthandling]Action som [en deltaker i situasjonen]Participant har utført eller ikke har utført. I noen tilfeller med nektelse (eksempel 1 og 2) kan den ha følgende betydning: Det var forventet at deltakeren ville utøføre en gitt handling, men det skjedde ikke. Sloten XP kan fylles av en verbalfrase (VP), en nominalfrase (NP) eller en preposisjonsfrase (PP).
 examples:
@@ -42,9 +44,12 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Experiencer
+  - Theme
+  - Participant
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [obj что] [advmod не] VP], [mark так] [expl это] [advmod не] VP]'
@@ -53,11 +58,13 @@ dependency_structure:
   - '[root единственное [acl [obj что] VP], [csubj [mark так] [expl это] VP]]'
 dependency_structure_of_illustration:
   - '[root [advcl [obj Чего] [nsubj дочь] [advmod не] сделала], [mark так] [expl это] [advmod не] conj убралась.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

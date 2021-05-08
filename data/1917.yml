@@ -3,7 +3,7 @@ record: 1917
 name: 'когда ни VP-Imp, Cl'
 UD_name: 'когда ни VP-Imper, Cl'
 illustration: 'Когда ни позвони ему, он всё занят.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [advmod когда] [advmod ни] VP-Imp]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Когда] [advmod ни] позвони [iobj ему]], [nsubj:pass он] [advmod всё] занят.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Concession

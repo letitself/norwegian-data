@@ -3,7 +3,7 @@ record: 1305
 name: 'Cl, только бы Cl'
 UD_name: 'Cl, только бы Cl'
 illustration: 'А ему ничего не надо, только бы его оставили в покое, только бы не трогали.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -19,18 +19,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[advcl [mark только] [aux бы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [cc А] [iobj ему] [nsubj ничего] [advmod не] надо, [advcl [mark только] [aux бы] [obj его] оставили [obl [case в] покое], [conj [mark только] [aux бы] [advmod не] трогали]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

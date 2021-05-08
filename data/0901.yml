@@ -31,21 +31,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod всё] [advmod ещё] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod всё] [advmod ещё] спит?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - живет
   - остается
   - плачет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

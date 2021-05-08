@@ -3,7 +3,7 @@ record: 2269
 name: 'друг (Prep) друга VP'
 UD_name: 'друг (Prep) друга VP'
 illustration: 'Мы не можем жить друг без друга.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl друг [fixed Prep] [fixed друга]] VP]'
   - '[root [obl друг [fixed друга]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] можем [xcomp жить [obl друг [fixed без] [fixed друга]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

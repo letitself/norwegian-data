@@ -3,9 +3,21 @@ record: 1677
 name: 'NP-Nom смочь/суметь VP-Pfv.Inf'
 UD_name: 'NP-Nom смочь/суметь VP-Perf.Inf'
 illustration: 'Она смогла уйти с работы пораньше.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция указывает на успешное выполнение [некоторым участником]Agent [желаемого действия]Result. Выполнить действие было не легко и участник мог предпринимать несколько попыток.
 examples:
+  - |
+       К Олимпиаде [мы]Agent сумели [подготовить]Result претендентов на золото в парном катании.
+  - |
+       Коллеги так и остались в недоумении, каким образом [Иван]Agent сумел [прочитать надпись]Result, несмотря на то, что она находилась очень далеко от него.
+  - |
+       Надеюсь, начнется гражданская война, и [я]Agent смогу [мигрировать]Result в Европу.
+  - |
+       Я называю их четко, чтобы [все]Agent смогли [понять, о чем речь]Result.
+  - |
+       Если такая встреча состоится, [мы]Agent сумеем [достичь позитивного результата]Result.
 morphology:
   - NP
   - Nom
@@ -21,23 +33,30 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Result
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] смочь [xcomp VP-Pfv.Inf]]'
   - '[root [nsubj NP-Nom] суметь [xcomp VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] смогла [xcomp уйти] [obl [case с] работы] [advmod пораньше].]'
+comment: |
+    'См. синонимичную конструкцию 1676 у NP-Gen получилось/вышло VP-Pfv.Inf (У меня впервые получилось приехать вовремя.)'
 common_fillers:
-  - ~
+  - прийти
+  - сделать
+  - договориться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actuality
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

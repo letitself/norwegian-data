@@ -3,7 +3,7 @@ record: 738
 name: 'будто у NP-Gen других дел нет'
 UD_name: 'будто у NP-Gen других дел нет'
 illustration: 'Будто у Саши других дел нет!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -32,11 +32,13 @@ dependency_structure:
   - '[root [mark будто] [obl [case у] NP-Gen] [nsubj [amod других] дел] нет]'
 dependency_structure_of_illustration:
   - '[root [mark Будто] [obl [case у] Саши] [nsubj [amod других] дел] нет!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

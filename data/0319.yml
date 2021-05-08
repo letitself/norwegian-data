@@ -33,17 +33,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod так [fixed и]] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [advmod так [fixed и]] [advmod не] женился.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    ссылка на Плунгяна
+    Plungian, V. A. 1999. A typology of phasal meanings, Abraham, W., Kulikov, L. (eds.) Tense-aspect, transitivity, and causativity: Essays in honor of Vladimir Nedjalkov, John Benjamins, Amsterdam. 311-323.
 semantic_types:
   - type: Phase of action
     subtypes:

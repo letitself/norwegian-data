@@ -32,14 +32,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - State
+  - Possessor
+  - Instrument
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] рукой]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [advmod всегда] есть [nsubj [amod запасной] ключ] [obl [case под] рукой].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - оказался
   - оказалось
@@ -49,7 +54,7 @@ common_fillers:
   - быть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Spatial expression

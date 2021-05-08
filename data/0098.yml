@@ -37,7 +37,9 @@ part_of_speech_of_anchor:
   - Verb
   - Pronoun
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
+  - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -46,6 +48,8 @@ dependency_structure:
   - '[root даваться-Pst [iobj PronPers-Dat] [nsubj [det этот] NP-Nom]!]'
 dependency_structure_of_illustration:
   - '[root Дался [iobj тебе] [nsubj [det этот] неудачник]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

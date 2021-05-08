@@ -3,7 +3,7 @@ record: 2159
 name: 'NP-Nom Cop хороший-Short/плохой-Short тем, что Adj/Cl'
 UD_name: 'NP-Nom Cop хороший-Short/плохой-Short тем, что Adj/Cl'
 illustration: 'Чай хорош тем, что крепок.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        explication of general assessmemnt
@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] хороший-Short [obl тем, [acl [mark что] Cl]]]'
@@ -42,6 +42,8 @@ dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] плохой-Short [obl тем, [acl [mark что] Adj]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Чай] хорош [obl тем, [acl [mark что] крепок]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

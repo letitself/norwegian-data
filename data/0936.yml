@@ -3,7 +3,7 @@ record: 936
 name: 'да ещё (и) XP'
 UD_name: 'да ещё (и) XP'
 illustration: 'Платили ей мало, да ещё обещали уволить.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        на месте XP может быть VP, NP (да еще в полоску), AdjP (да еще какой) Возможно, стоит заменить тэг Attitude на Emphasis, так как только по конструкции, без контекста, нельзя определить положительное/отрицательное отношение
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[conj [cc да] [advmod ещё] XP]'
   - '[conj [cc да] [advmod ещё] [advmod и] XP]'
 dependency_structure_of_illustration:
   - '[root Платили [iobj ей] [advmod мало], [conj [cc да] [advmod ещё] обещали [xcomp уволить]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

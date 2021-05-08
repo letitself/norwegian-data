@@ -9,8 +9,6 @@ definitions:
        Конструкция выражает, что[ некоторый субъект]Experiencer, сумел [сделать что-нибудь трудное]Action или [получить что-либо труднодоступное]Action . Стилистически выражает иронию
   - english: |
        This construction expresses that [the subject]Experiencer has managed [to do something difficult]Action or [get something hard-to-find]Action. Stylistically it expresses irony.
-  - norwegian: |
-       N/A
 examples:
   - |
        [Он]Experiencer умудрился [выиграть]Action у него целую игру.
@@ -36,20 +34,24 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] умудриться [xcomp VP-Inf]]'
   - '[root [nsubj NP-Nom] ухитриться [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] умудрился [xcomp упасть].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

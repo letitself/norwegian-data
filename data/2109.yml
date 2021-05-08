@@ -37,13 +37,15 @@ semantic_roles:
   - Action
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obj NP-Acc] [obl [case с] ног] [obl [case на] голову]]'
   - '[root VP [obl [case с] ног] [obl [case на] голову]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ситуация] перевернулась [obl [case с] ног] [obl [case на] голову].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - перевернуть
   - перевернуться
@@ -55,7 +57,7 @@ common_fillers:
   - ситуация
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

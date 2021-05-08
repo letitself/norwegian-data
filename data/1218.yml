@@ -38,7 +38,7 @@ semantic_roles:
   - Action
   - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] нельзя [csubj VP-Inf]]'
@@ -60,7 +60,7 @@ common_fillers:
   - оставить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

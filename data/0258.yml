@@ -6,7 +6,7 @@ illustration: 'От него несёт алкоголем.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant сильно пахнет [чем-либо неприятным]Cause. Этот сильный неприятный запах распространяется в окружающем пространстве и вызывает дискомфорт говорящего. Конструкция несет негативную оценку. Предлог "из" обычно вводит место, которое является источником запаха, а предлог "от" вводит участника (реже объект), который обладает таким запахом.
+       Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant сильно пахнет [чем-либо неприятным]Cause. Этот сильный неприятный запах распространяется в окружающем пространстве и вызывает дискомфорт говорящего. Конструкция несет негативную оценку. Предлог «из» обычно вводит место, которое является источником запаха, а предлог «от» вводит участника (реже объект), который обладает таким запахом.
 examples:
   - |
        От [него]Participant несло [луком]Cause и [чесноком]Cause одновременно. Отвратительно!
@@ -32,17 +32,20 @@ part_of_speech_of_anchor:
   - Preposition
   - Verb
 semantic_roles:
+  - Cause
   - Theme
   - Participant
-  - Cause
+  - Paricipant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case от] NP-Gen] нести [iobj NP-Ins]]'
   - '[root [obl [case из] NP-Gen] нести [iobj NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [obl [case От] него] несёт [iobj алкоголем].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - табаком
   - сигаретами
@@ -56,7 +59,7 @@ common_fillers:
   - рыбой
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

@@ -3,7 +3,7 @@ record: 1761
 name: 'дело не в том, Cl или Cl'
 UD_name: 'дело не в том, Cl или Cl'
 illustration: 'Дело не в том, богатые мы или бедные. Дело не в том, во что я верю или не верю.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -26,18 +26,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj дело] [advmod не] [case в] том'
   - '[acl Cl [conj [cc или] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] [advmod не] [case в] том, [acl богатые [nsubj мы] [conj [cc или] бедные]].] [root [nsubj Дело] [advmod не] [case в] том, [acl [obl [case во] что] [nsubj я] верю [conj [cc или] [advmod не] верю]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

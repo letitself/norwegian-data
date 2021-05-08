@@ -3,7 +3,7 @@ record: 1367
 name: 'про-Verb (целый/весь) NP-Acc'
 UD_name: 'про-V (целый/весь) NP-Acc'
 illustration: 'Отец проработал на заводе пять лет.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root про-Verb [obl [amod целый] NP-Acc]]'
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root про-Verb [obl NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Отец] проработал [obl [case на] заводе] [obl [nummod:gov пять] лет].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

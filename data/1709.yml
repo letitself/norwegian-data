@@ -3,7 +3,7 @@ record: 1709
 name: 'VP под окном'
 UD_name: 'VP под окном'
 illustration: 'Под моим окном растут цветы.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] окном]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Под] [det моим] окном] растут [nsubj цветы].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

@@ -3,7 +3,7 @@ record: 1403
 name: 'VP в точку'
 UD_name: 'VP в точку'
 illustration: 'В точку сказал!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Бывает также попасть. Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case в] точку]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] точку] сказал!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

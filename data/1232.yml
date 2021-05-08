@@ -33,10 +33,10 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Situation
   - Standard
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case по] примеру [nmod NP-Gen]]]'
@@ -44,7 +44,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [obl [case По] примеру [nmod [amod старшей] сестры]] [nsubj он] стал [xcomp работать [obl [case в] музее]].]'
 comment: |
-    'См. синонимичную конструкцию 1233 VP по образцу NP-Gen (По примеру старшей сестры он стал работать в музее)'
+    'См. синонимичную конструкцию 1233 VP по образцу NP-Gen (Кофейня создана по образцу парижских уличных кафе)'
 common_fillers:
   - 'Глаголы созидания: создать'
   - сделать
@@ -53,7 +53,7 @@ common_fillers:
   - смоделировать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

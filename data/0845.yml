@@ -37,12 +37,13 @@ part_of_speech_of_anchor:
   - Adverb
   - Noun
 semantic_roles:
-  - Action
-  - Theme
-  - State
   - Evaluation
+  - Theme
+  - Action
+  - State
+  - Location
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] вверх [obl дном]]'
@@ -59,7 +60,7 @@ common_fillers:
   - поставить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

@@ -33,17 +33,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod то [fixed и] [fixed дело]] VP]'
 dependency_structure_of_illustration:
   - '[root [iobj Маме] [advmod то [fixed и] [fixed дело]] звонили.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также статью Иомдин Л. Л. 2018. Еще раз о микроконструкциях, cформированных служебными cловами: То и дело. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конфе- ренции «Диалог» (Москва, 30 мая — 2 июня 2018 г.). М.: Изд-во РГГУ, 2018. Вып. 17 (24). С. 267–283. 
 semantic_types:
   - type: Pluractionality
     subtypes:

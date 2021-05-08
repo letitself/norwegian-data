@@ -6,9 +6,9 @@ illustration: 'У меня паспорт всегда при себе.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [участник]Possessor имеет в зоне своего ближайшего доступа некоторый [предмет]Theme. Предмет находится среди личных вещей [участника]Possessor (обычно в кармане одежды или сумке), при перемещении участник берет его с собой и при необходимости может всегда использовать. Конструкция может также обозначать, что [участник]Possessor имеет в своем ближайшем окружении нужного для него человека, услугами, знаниями или лояльностью которого он может воспользоваться при необходимости (пример 5). При наличии отрицания именительный падеж именной группы NP-Nom меняется на родительный NP-Gen (примеры 3, 4).
+       Конструкция обозначает, что некоторый [участник]Possessor имеет в зоне своего ближайшего доступа некоторый [предмет]Theme. Предмет находится среди личных вещей [участника]Possessor (обычно в кармане одежды или сумке), при перемещении участник берет его с собой и при необходимости может всегда использовать. При наличии отрицания перед связкой именительный падеж именной группы NP-Nom меняется на родительный NP-Gen (примеры 3, 4).
   - norwegian: |
-       Konstruksjonen betyr at en gitt [deltaker]Possessor har en gitt [gjenstand]Theme nært og lett tilgjengelig. Gjenstanden befinner seg blant [deltakerens]Possessor personlige eiendeler (vanligvis i lommene på klærne eller i veska), og ved forflytninger tar deltakeren den med seg og kan bruke den når som helst, ved behov. Konstruksjonen kan også bety at [deltakeren]Possessor i sine nære omgivelser har en nyttig person, hvis tjenester, kunnskaper eller lojalitet deltakeren kan benytte seg av ved behov (eksempel 5). Ved nektelse erstattes nominativ kasus i nominalgruppen NP-Nom av genitiv kasus NP-Gen (eksempel 3 og 4).
+       Konstruksjonen betyr at en gitt [deltaker]Possessor har en gitt [gjenstand]Theme nært og lett tilgjengelig. Gjenstanden befinner seg blant [deltakerens]Possessor personlige eiendeler (vanligvis i lommene på klærne eller i veska), og ved forflytninger tar deltakeren den med seg og kan bruke den når som helst, ved behov. Ved nektelse erstattes nominativ kasus i nominalgruppen NP-Nom av genitiv kasus NP-Gen (eksempel 3 og 4).
 examples:
   - |
        У [мальчика]Possessor не было при себе ни [линейки]Theme, ни какой-либо другой шкалы для измерения.
@@ -19,7 +19,7 @@ examples:
   - |
        [Инструментов]Theme при себе не было ― только серебряная ложка.
   - |
-       [Правители]Possessor России всегда [держали]State при себе [советников]Participant и даже [иностранных философов]Participant.
+       У всех [задержанных]Possessor, при себе [находились]State [документы]Theme, удостоверяющие личность.
 morphology:
   - NP
   - Gen
@@ -37,25 +37,29 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - State
+  - Possessor
+  - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [cop Cop] [case при] себе [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [nsubj паспорт] [advmod всегда] [case при] себе.]'
+comment: |
+    'См. близкую конструкцию 109.'
 common_fillers:
   - оказаться
   - быть
-  - иметь
-  - держать
-  - оставлять
+  - иметься
+  - оставаться
   - документы
   - паспорт
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
 family:

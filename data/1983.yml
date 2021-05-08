@@ -3,7 +3,7 @@ record: 1983
 name: 'NP, включая NP-Acc'
 UD_name: 'NP, включая NP-Acc'
 illustration: 'Любые реформы, включая налоговую, должны быть постепенными.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP'
   - '[nmod [case включая] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Любые] реформы, [nmod [case включая] налоговую]], должны [xcomp [cop быть] постепенными].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Inclusive
   - type: Subset

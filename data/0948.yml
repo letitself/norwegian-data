@@ -36,6 +36,7 @@ part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
   - Action
+  - Participant
 intonation:
   - Interrogative
   - Exclamatory
@@ -45,6 +46,8 @@ dependency_structure:
   - '[root [cc да] [advmod чего] [cop Cop] VP-Inf!]'
 dependency_structure_of_illustration:
   - '[root [cc Да] [advmod чего] [obj его] спрашивать!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - вспоминать
   - говорить

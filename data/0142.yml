@@ -1,23 +1,23 @@
 ---
 record: 142
-name: 'как (NP-Dat) не Pred Cop VP-Inf!'
+name: 'как (NP-Dat) не стыдно/совестно Cop VP-Inf!'
 UD_name: 'как (NP-Dat) не Praedic Cop VP-Inf!'
 illustration: 'Как не стыдно ходить в грязной одежде!'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция с риторическим вопросом-восклицанием обозначает, что говорящий выражает негодование по поводу [действий]Action [какого-либо участника]Experiecner ситуации и таким образом пытается его пристыдить. [Наречие]Condition имеет ограничение на заполнение: стыдно, совестно.
+       Конструкция обозначает, что говорящий критикует [поведение]Action [участника]Experiencer ситуации с точки зрения моральных принципов и таким образом пытается его пристыдить. Слово "стыдно" употребляется гораздо чаще, тогда как "совестно" можно считать устаревшим.
 examples:
   - |
-       Как не [стыдно]Condition так с ней [обходиться]Action!
+       Милиционер стоит на посту и ругается матом, рядом с ним стоит мальчик. ― Как [вам]Experiencer не стыдно [ругаться при ребенке]Action! ― говорят прохожие.
   - |
-       Как [тебе]Experiencer не [совестно]Condition [такие ужасы говорить!]Condition
+       Как [вам]Experiencer не стыдно [говорить]Action мне такое?!
   - |
-       Отец, как не [стыдно]Condition [держать человека в дверях!]Action
+       ― Молодые люди, как [вам]Experiencer не стыдно [пьянствовать с ним]Action? Ладно ― он, он ни трезвый, ни пьяный не соображает, что можно, а чего нельзя учителю. Но вы-то должны понимать, что можно, а чего нельзя ученикам!
   - |
-       -
+       А как [тебе]Experiencer не стыдно было [ревновать меня к Миле]Action! Она же моя племянница, член семьи!
   - |
-       -
+       Отец, как не стыдно [держать человека в дверях!]Action
 morphology:
   - NP
   - Dat
@@ -35,7 +35,8 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Experiencer
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -44,11 +45,16 @@ dependency_structure:
   - '[root [advmod Как] [advmod не] Pred [cop Cop] [csubj VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] [advmod не] стыдно [csubj ходить [obl [case в] [amod грязной] одежде]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - говорить
+  - смеяться
+  - обижать
+  - подслушивать
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

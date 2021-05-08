@@ -3,7 +3,7 @@ record: 1876
 name: 'помимо того/(всего) этого/(всего) прочего, Cl'
 UD_name: 'помимо того/(всего) этого/(всего) прочего, Cl'
 illustration: 'Помимо этого, мы усилили охрану и наняли сторожа.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,7 +21,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [parataxis [case помимо] того], Cl]'
@@ -31,11 +31,13 @@ dependency_structure:
   - '[root [parataxis [case помимо] [det всего] прочего], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case Помимо] этого], [nsubj мы] усилили [obj охрану] [conj [cc и] наняли] [obj сторожа].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

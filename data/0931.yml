@@ -32,20 +32,23 @@ part_of_speech_of_anchor:
   - Noun
   - Adjective
 semantic_roles:
-  - ~
+  - Action
+  - Instrument
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [iobj [amod голыми] руками]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] [obl [amod голыми] руками] [advmod не] возьмёшь.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - взять
   - брать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Instrument

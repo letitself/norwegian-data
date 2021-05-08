@@ -41,7 +41,7 @@ semantic_roles:
   - Action
   - Situation
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case о] NP-Loc] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
@@ -60,7 +60,7 @@ common_fillers:
   - этом
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

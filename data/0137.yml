@@ -6,16 +6,20 @@ illustration: 'К счастью мамы, все пришли домой ран
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция выражает положительную или отрицательную реакцию [участника]Experiencer на [некоторую ситуацию]Situation.
+       Конструкция выражает резко положительное ("к счастью") или отрицательное ("к ужасу") эмоциональное отношение некоторого участника к [ситуации]Situation. Часто речь идет не о конкретном чувстве счастья или ужаса, которое испытывает [участник]Experiencer (пример 1, 5), а о том, соответствует ли эта ситуация интересам [участника]Beneficiary или [нет]Maleficiary, приносит ли ситуация участнику пользу или вред (примеры 2-4). Есть и переходные случаи, в которых оба значения совмещаются (пример 5).
   - english: |
-       This construction expresses [a participant's]Experiencer positive or negative reaction to [a situation]Situation.
+       This construction expresses [a participant's]Experiencer positive or negative reaction to a certain [situation]Situation.
 examples:
-  - |
-       К счастью [Иванова]Experiencer, [на его докладе присутствовали четыре студентки]Situation.
   - |
        [Маша взяла ножницы и отрезала себе косы]Situation, к ужасу [родителей]Experiencer.
   - |
-       К ужасу [пассажиров]Experiencer, [водитель Люба резко остановила свой автобус и не могла ехать еще 15 минут]Situation.
+       Фанни подготовилась к встрече, устроив что-то вроде семинара. И даже на отдельную бумажку выписала длинную цитату из любимой Маргарет Дюрас, которую, к ужасу [переводчицы]Maleficiary, [зачитала]Situation.
+  - |
+       Как рассказывает папин товарищ Виктор Селезнев, фельетон набрали, но, к счастью [отца]Beneficiary, [не опубликовали]Situation: нашлись в редакции порядочные люди.
+  - |
+       ― Ух, я бы ему показал… ― горячился Вовка. Толя снисходительно улыбнулся: ― К счастью [директора]Beneficiary, ты ему ничего сделать не можешь.
+  - |
+       Когда допущен заводской брак, вся партия лекарства изымается со всех складов и розничных точек. К счастью [фармкомпаний]Beneficiary, [такое случается достаточно редко.]Situation
 morphology:
   - NP
   - Gen
@@ -32,20 +36,28 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Experiencer
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case к] счастью [nmod NP-Gen]], Cl]'
   - '[root [parataxis [case к] ужасу [nmod NP-Gen]], Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case К] счастью [nmod мамы]], [nsubj все] пришли [advmod домой] [advmod рано].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - мамы
+  - жены
+  - родителей
+  - домочадцев
+  - начальника
+  - директора
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

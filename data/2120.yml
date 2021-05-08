@@ -3,7 +3,7 @@ record: 2120
 name: 'NP-Dat (ещё) Cop VP-Inf'
 UD_name: 'NP-Dat (ещё) Cop VP-Inf'
 illustration: 'Мне ещё с собакой гулять.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [advmod ещё] [cop Cop] VP-Inf]'
   - '[root [iobj NP-Dat] [cop Cop] VP-Inf]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod ещё] [obl [case с] собакой] гулять.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

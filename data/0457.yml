@@ -6,18 +6,22 @@ illustration: 'Старик был с виду спокоен.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий характеризует [внешние (наружние) качества]Theme [кого-либо]Theme или [чего-либо.]Theme
+       Конструкция обозначает, что говорящий характеризует [некоторый объект]Theme или [участника]Participant через указание на его [внешние качества]Evaluation. Оценка объекта по этим внешним качествам может оказаться ошибочной (примеры 3-5). Описание реальной ситуации может вводиться с помощью клаузы с противительным союзом («а», «но»).
   - english: |
        N/A
   - norwegian: |
        N/A
 examples:
   - |
-       Я сорвал с виду [гнилое]Evaluation [яблоко]Theme, но оказалось свежее.
+       За домом с виду [нестарая]Evaluation [женщина]Agent что-то высматривала на грядках.
   - |
-       За домом с виду [нестарая]Evaluation [женщина]Theme что-то высматривала на грядках.
+       С виду [он]Participant достаточно [замкнутый]Evaluation.
   - |
-       С виду [он]Theme достаточно [замкнутый.]Evaluation
+       Я сорвал с виду [гнилое]Evaluation [яблоко]Theme, но оно оказалось свежим.
+  - |
+       Ещё на дне коробки лежала [бледно-жёлтая мужская рубашка]Theme для Володи, с виду [обычная]Evaluation, но когда мы её развернули, оказалось, что во всю спину вышита на ней огромная цветная бабочка!
+  - |
+       Мы [мешки с цементом]Theme вчера таскали, вроде [небольшие]Evaluation с виду, а тяжелые такие, заразы.
 morphology:
   - Adj
   - NP
@@ -32,19 +36,24 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Evaluation
+  - Agent
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [amod [obl [case с] виду] Adj] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Старик] [cop был] [obl [case с] виду] спокоен.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - обычный
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -3,7 +3,7 @@ record: 956
 name: 'даром PronPers, что ли, VP?'
 UD_name: 'даром PronPers, что ли, VP?'
 illustration: 'Даром мы, что ли, это писали?'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        недовольство
@@ -32,11 +32,13 @@ dependency_structure:
   - 'VP?]'
 dependency_structure_of_illustration:
   - '[root [advmod Даром] [nsubj мы], [parataxis что] [advmod ли], [obj это] писали?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова 1974.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

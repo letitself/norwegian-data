@@ -3,7 +3,7 @@ record: 1719
 name: 'NP-Nom лежать в/на NP-Loc'
 UD_name: 'NP-Nom лежать в/на NP-Loc'
 illustration: 'Хлеб лежит на полке.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] лежать [obl [case в] NP-Loc]]'
   - '[root [nsubj NP-Nom] лежать [obl [case на] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Хлеб] лежит [obl [case на] полке].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

@@ -3,7 +3,7 @@ record: 870
 name: 'VP во власти NP-Gen'
 UD_name: 'VP во власти NP-Gen'
 illustration: 'Во власти чувств он наговорил лишнего.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case во] власти [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] власти [nmod чувств]] [nsubj он] наговорил [obj лишнего].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

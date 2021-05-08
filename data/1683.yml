@@ -3,7 +3,7 @@ record: 1683
 name: '(не) вполне/полностью XP'
 UD_name: '(не) вполне/полностью XP'
 illustration: 'Он не вполне понимает, как всё серьёзно.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Может заполняться NP, VP, Adj, Adv. Дык это, вроде, вполне классический вариант салата «с крабовыми палочками»? Коля вполне доволен своими действиями по жизни.
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod не] вполне] XP]'
@@ -31,6 +31,8 @@ dependency_structure:
   - '[root [advmod полностью] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod не] вполне] понимает, [ccomp [advmod как] [nsubj всё] серьёзно].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -48,6 +50,8 @@ semantic_types:
     subtypes:
       - type: Both Negative and Positive
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     "Some/Enough"

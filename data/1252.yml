@@ -3,7 +3,7 @@ record: 1252
 name: 'VP по NP-Dat'
 UD_name: 'VP по NP-Dat'
 illustration: 'Он женился по любви.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case по] NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] женился [obl [case по] любви].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

@@ -3,7 +3,7 @@ record: 1902
 name: 'не считая NP-Gen Cl'
 UD_name: 'не считая NP-Gen Cl'
 illustration: 'Трое в лодке, не считая собаки.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что при подсчете из [множества элементов]Set исключается некоторая [часть]Element. Она отличается от других элементов множества по некоторoму признаку и поэтому при подсчете не является релевантной с точки зрения говорящего.
@@ -32,9 +32,10 @@ part_of_speech_of_anchor:
   - Converb
   - Negation Marker
 semantic_roles:
-  - ~
+  - Element
+  - Set
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl исключая [obj NP-Acc]] Cl]'
@@ -43,12 +44,14 @@ dependency_structure:
   - '[root [advcl [advmod не] считая [obj NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Трое] [case в] лодке, [advcl [advmod не] считая [obj собаки]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - детей
   - приезжих
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Additive
   - type: Exceptive

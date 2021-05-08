@@ -3,8 +3,10 @@ record: 954
 name: 'дай бог, Cl'
 UD_name: 'дай бог, Cl'
 illustration: 'Дай бог, увидимся через год.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает надежду говорящего на то, что в будущем произойдет некоторое благоприятное [событие.]Event
 examples:
 morphology:
   - Cl
@@ -14,26 +16,27 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis дай [nsubj бог]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root Дай [nsubj бог], [conj увидимся] [obl [case через] год].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Volition
 family:

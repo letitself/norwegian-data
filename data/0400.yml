@@ -33,7 +33,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [parataxis [mark да] [advmod что] [advmod тут] говорить]]'
@@ -46,11 +46,13 @@ dependency_structure:
   - '[root Cl, [parataxis [obl [case о] чём] говорить]]'
 dependency_structure_of_illustration:
   - '[root Нелегко [iobj нам] [cop будет], [parataxis [advmod что] [advmod тут] говорить].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

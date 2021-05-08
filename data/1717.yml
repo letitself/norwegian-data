@@ -3,7 +3,7 @@ record: 1717
 name: 'откуда ни возьмись Cl'
 UD_name: 'откуда ни возьмись Cl'
 illustration: 'И тут, откуда ни возьмись, со всех сторон налетели воробьи.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,19 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [advmod откуда] [advmod ни] возьмись]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [cc И] [advmod тут], [advcl [advmod откуда] [advmod ни] возьмись], [obl [case со] [det всех] сторон] налетели [nsubj воробьи].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Spatial expression

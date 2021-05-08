@@ -3,9 +3,21 @@ record: 1943
 name: 'Как Cop PronPoss имя/фамилия/отчество?'
 UD_name: 'Как Cop PronPoss имя/фамилия/отчество?'
 illustration: 'Как ваше имя?'
-cefr_level: 
+cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция оформляет вопрос, цель которого ― узнать [имя, отчество или фамилию]Name [собеседника или другого человека.]Possessor
 examples:
+  - |
+       Я бы хотела поговорить с женой Бориса Леонидовича. Как [ее]Possessor [имя-отчество?]Name
+  - |
+       Вместе с ним на острове находится его партнер. ― Как [его]Possessor [имя?]Name
+  - |
+       Или тот же Петр Великий. Ну ладно, царь там, император всей Руси… А вот как была [его]Possessor [фамилия?]Name А? Не знаете? А памятников-то понаставили!
+  - |
+       ― Как [ваша]Possessor [фамилия?]Name ― Шубина.
+  - |
+       А как [его]Possessor  [фамилия]Name, этого двоюродного дедушки?
 morphology:
   - Cop
   - PronPoss
@@ -19,9 +31,10 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
-  - ~
+  - Possessor
+  - Name
 intonation:
-  - ~
+  - Interrogative
 usage_label: ~
 dependency_structure:
   - '[root как [cop Cop] [nsubj [det PronPoss] имя]?]'
@@ -29,11 +42,18 @@ dependency_structure:
   - '[root как [cop Cop] [nsubj [det PronPoss] отчество]?]'
 dependency_structure_of_illustration:
   - '[root Как [nsubj [det ваше] имя]?]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - его
+  - ее
+  - ваше
+  - твое
+  - ваша
+  - твоя
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

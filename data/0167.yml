@@ -34,18 +34,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark когда] [aux бы] [nsubj NP-Nom] [advmod ни] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Когда] [aux бы] [nsubj я] [advmod ни] зашёл], [nsubj вы] [advmod всегда] [case на] месте.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Pluractionality

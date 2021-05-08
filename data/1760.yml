@@ -3,7 +3,7 @@ record: 1760
 name: 'дело не в том, что Cl (а в том, что Cl/просто Cl)'
 UD_name: 'дело не в том, что Cl (а в том, что Cl/просто Cl)'
 illustration: 'Дело не в том, что меня не любили. Меня очень любили!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -27,7 +27,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj дело] [advmod не] [case в] том, [acl [mark что] Cl], [conj [cc а] [case в] том, [acl [mark что] Cl]]]'
@@ -35,11 +35,13 @@ dependency_structure:
   - '[root [nsubj дело] [advmod не] [case в] том, [acl [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] [advmod не] [case в] том, [acl [mark что] [obj меня] [advmod не] любили].] [root [obj Меня] [advmod очень] любили!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

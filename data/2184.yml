@@ -3,7 +3,7 @@ record: 2184
 name: 'NP-Dat (на)плевать на NP-Acc'
 UD_name: 'NP-Dat (на)плевать на NP-Acc'
 illustration: 'Васе наплевать на нашу дружбу.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] наплевать [obl [case на] NP-Acc]]'
   - '[iobj NP-Dat] плевать [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [iobj Васе] наплевать [obl [case на] [det нашу] дружбу].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

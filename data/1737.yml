@@ -3,7 +3,7 @@ record: 1737
 name: 'XP изнутри (NP-Gen)'
 UD_name: 'XP изнутри (NP-Gen)'
 illustration: 'Углекислый газ приходит изнутри организма.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [obl [case изнутри] NP-Gen]]'
   - '[root XP [advmod изнутри]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Углекислый] газ] приходит [obl [case изнутри] организма].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

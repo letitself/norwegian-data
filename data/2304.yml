@@ -22,13 +22,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root XP'
   - '[prataxis [nsubj сил] нет]!]'
 dependency_structure_of_illustration:
   - '[root Скучный [nsubj ты], [prataxis [nsubj сил] нет]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

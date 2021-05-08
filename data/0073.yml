@@ -35,9 +35,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl время [nmod [case от] времени]] Cl]'
@@ -49,7 +50,7 @@ common_fillers:
   - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

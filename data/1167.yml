@@ -34,11 +34,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
-  - Beneficiary
   - Action
+  - Beneficiary
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] защитой [nmod NP-Gen]]]'
@@ -56,7 +56,7 @@ common_fillers:
   - норма
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

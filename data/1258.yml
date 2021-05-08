@@ -35,23 +35,25 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Cause
   - Causer
+  - Cause
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case по] вине [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] вине [nmod подрядчика]] [nsubj:pass работы] [advmod не] [aux:pass были] выполнены [obl [case в] срок].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - обстоятельств
   - банка
   - водителя
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

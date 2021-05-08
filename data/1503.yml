@@ -3,7 +3,7 @@ record: 1503
 name: 'Только VP-Imp, Cl'
 UD_name: 'Только VP-Imper, Cl'
 illustration: 'Только скажи, я сразу приду на помощь.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,19 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
-  - Exclamatory
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod только] VP-Imp'
   - '[parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Только] скажи, [parataxis [nsubj я] [advmod сразу] приду [obl [case на] помощь]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Taxis

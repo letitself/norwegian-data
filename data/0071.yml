@@ -1,19 +1,23 @@
 ---
 record: 71
-name: 'вот NP-Nom VP-Fut, и VP-Fut'
-UD_name: 'вот NP-Nom VP-Fut, и VP-Fut'
+name: 'вот VP-Fut, и VP-Fut'
+UD_name: 'вот VP-Fut, и VP-Fut'
 illustration: 'Вот придет домой, и поговорим.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что в случае совершения какого-то определенного действия произойдет какое-то событие.
+       Конструкция обозначает, что после того, как некоторый [участник]Agent в скором времени совершит определенное [действие]Condition, ему или другому участнику можно будет осуществить и другое [действие.]Event Обычно оба слота заполняются глаголами совершенного вида.
 examples:
   - |
-       Вот [доделаю домашнее задание]Action и [приму две таблетки]Event анальгина.
+       ― Слушай, мы ничего твоего не брали. Скоро вот [сын]Agent [вернется]Condtion, и [разберемся…]Event
   - |
-       Вот [разменяю деньги]Action и [куплю]Event тебе все, что ты хочешь!
+       Вам нужно скорей поправиться и возвращаться домой. А для этого необходимо хорошо питаться. Вот [швы]Agent [заживут,]Condition и [выпишем вас.]Event
   - |
-       Вот [поест]Action быстренько и сразу [позвонит]Event тебе.
+       Вот Павел [поест]Condition быстренько и сразу [позвонит]Event тебе.
+  - |
+       ― А ты ещё до войны обещала рассказать: откуда взялась у нас фамилия Галушко? ― Расскажу-расскажу, ― смутилась мама, ― вот [вернёшься]Condition, и [расскажу.]Event А пока давай собираться.
+  - |
+       ― Вот [стемнеет]Condition, и [поедем.]Event
 morphology:
   - NP
   - Nom
@@ -31,20 +35,29 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Condtion
+  - Condition
+  - Agent
+  - Event
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod Вот] [nsubj NP-Nom] VP-Fut'
   - '[conj [cc и] VP-Fut]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] придет [advmod домой], [conj [cc и] поговорим].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - приедет
+  - придет
+  - вернется
+  - поедем
+  - поговорим
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Timeline

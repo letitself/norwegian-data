@@ -34,11 +34,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Quantity
   - Result
   - Element
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] учёта [nmod NP-Gen]]'
@@ -48,10 +48,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 1902 - не считая (синоним), 2030 - за вычетом, 2058 - если не считать'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Exceptive

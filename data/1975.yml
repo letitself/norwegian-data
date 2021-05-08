@@ -38,12 +38,14 @@ semantic_roles:
   - Action
   - Instrument
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case через] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] установили [obj администрирование] [obl [case через] Web-интерфейс].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - интерфейс
   - интернет
@@ -51,7 +53,7 @@ common_fillers:
   - провод
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
   - type: Manner

@@ -6,7 +6,7 @@ illustration: 'Я бежал без оглядки.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает, что, [участник]Participant [движется]Action в одном направлении так быстро и стремительно, что не успевает оглядываться назад. В прямом значении, как правило, употребляется с глаголами движения (примеры 1, 2, 3). В переносном значении конструкция обозначает, что [участник]Participant совершает [действие]Action без сожаления и без сомнения, как если бы он не оглядывался на чужое мнение. В переносном значении употребляется с глаголами "жить", "любить", "говорить" и др. (примеры 4, 5).
+       Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает, что, [участник]Participant [движется]Action в одном направлении так быстро и стремительно, что не успевает оглядываться назад. В прямом значении, как правило, употребляется с глаголами движения (примеры 1, 2, 3). В переносном значении конструкция обозначает, что [участник]Participant совершает [действие]Action без сожаления и без сомнения, как если бы он не оглядывался на чужое мнение. В переносном значении употребляется с глаголами «жить», «любить», «говорить» и др. (примеры 4, 5).
   - norwegian: |
        Konstruksjonen har direkte og overført betydning. I direkte betydning betyr konstruksjonen at [en deltaker]Participant [beveger seg]Action i én retning så fort og målrettet at vedkommende ikke rekker å se seg tilbake. I direkte betydning brukes den som regel med et bevegelsesverb (eksempel 1, 2 og 3). I overført betydning betyr konstruksjonen at [deltakeren]Participant utfører [en handling]Action uten anger eller tvil, liksom uten å se seg rundt på hva andre måtte mene. I overført betydning brukes den med verbene "жить", "любить", "говорить" m.fl. (eksempel 4 og 5).
 examples:
@@ -32,15 +32,17 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] оглядки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] бежал [obl [case без] оглядки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - бежать
   - идти
@@ -52,7 +54,7 @@ common_fillers:
   - любить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

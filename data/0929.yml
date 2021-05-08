@@ -3,10 +3,10 @@ record: 929
 name: 'у NP-Gen голова варить'
 UD_name: 'у NP-Gen голова варить'
 illustration: 'У Пети голова варит – с ним можно иметь дело.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something' Бывает также "котелок"
+       Evaluation of intellectual ability, mental ability - «good at doing something» Бывает также «котелок»
 examples:
 morphology:
   - NP
@@ -16,8 +16,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Preposition
   - Noun
@@ -25,12 +24,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj голова] варить]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] Пети] [nsubj голова] варит – [parataxis [obl [case с] ним] можно [csubj иметь [obj дело]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

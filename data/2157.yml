@@ -3,7 +3,7 @@ record: 2157
 name: 'только/лишь/хоть бы VP-Pfv.Pst'
 UD_name: 'только/лишь/хоть бы VP-Perf.Past'
 illustration: 'Tолько бы они оставили меня в покое.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -21,7 +21,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [advmod tолько] [aux бы] VP-Pfv.Pst]'
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root [advmod хоть] [aux бы] VP-Pfv.Pst]'
 dependency_structure_of_illustration:
   - '[root [advmod Tолько] [aux бы] [nsubj они] оставили [obj меня] [obl [case в] покое].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Volition
 family:

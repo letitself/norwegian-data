@@ -35,13 +35,16 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
   - Theme
+  - BackgroundSituation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] танцевала [obl [case под] музыку].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - музыку
   - звуки

@@ -33,8 +33,9 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
   - Participant
+  - Status
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod всего-навсего] NP]'

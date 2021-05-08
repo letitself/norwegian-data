@@ -30,7 +30,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod нисколько] [advmod не] VP]'
@@ -47,7 +47,7 @@ common_fillers:
   - жалеть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

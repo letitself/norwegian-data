@@ -3,7 +3,7 @@ record: 792
 name: 'в плане NP-Gen Cl'
 UD_name: 'в плане NP-Gen Cl'
 illustration: 'В плане спорта он у нас молодец, а вот учится неважно.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] плане [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] плане [nmod спорта]] [nsubj он] [obl [case у] нас] молодец, [conj [cc а] [advmod вот] учится [advmod неважно]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

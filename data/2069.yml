@@ -14,25 +14,26 @@ syntactic_function_of_anchor:
   - Object
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Noun
   - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Formal
 dependency_structure:
   - '[root [parataxis [obj милости] просить-1.Prs] XP]'
 dependency_structure_of_illustration:
   - '[root [obj Милости] прошу [obl [case за] стол]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Request
 family:

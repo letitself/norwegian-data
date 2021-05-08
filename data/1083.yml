@@ -3,7 +3,7 @@ record: 1083
 name: 'именем NP-Gen, Cl!'
 UD_name: 'именем NP-Gen, Cl!'
 illustration: 'Именем короля, откройте двери!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root [parataxis именем [nmod NP-Gen]]'
   - 'Cl!]'
 dependency_structure_of_illustration:
   - '[root [parataxis Именем [nmod короля]], откройте [obj двери]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of information
 family:

@@ -3,7 +3,7 @@ record: 1432
 name: 'NP/VP по теме NP-Gen'
 UD_name: 'NP/VP по теме NP-Gen'
 illustration: 'Научная конференция по теме "Творчество Пушкина"'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case по] теме [nmod NP-Gen]]]'
   - '[dep NP [nmod [case по] теме [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [amod Научная] конференция [nmod [case по] теме "[appos Творчество [nmod Пушкина]]"]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

@@ -33,15 +33,18 @@ part_of_speech_of_anchor:
   - Verb
   - Noun
 semantic_roles:
+  - Theme
   - Agent
   - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [nsubj NP-Nom] пользоваться [iobj услугами [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [obj детей] не [obl [case с] кем] [csubj оставить]], [nsubj мама] может [xcomp воспользоваться [iobj услугами [nmod няни]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - адвокатов
   - переводчика
@@ -49,7 +52,7 @@ common_fillers:
   - фирмы
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
 family:

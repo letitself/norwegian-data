@@ -29,18 +29,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod [advmod и] так] XP, [conj [cc а] Cl]]'
   - '[root [advmod [advmod и] так] XP, [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod [advmod и] так] плохо, [conj [cc а] [nsubj ты] [advmod ещё] лезешь [obl [case с] вопросами]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
 family:

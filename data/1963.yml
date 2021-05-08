@@ -3,10 +3,10 @@ record: 1963
 name: 'что/чего с NP-Ins Cop говорить/спорить, Cl'
 UD_name: 'что/чего с NP-Ins Cop говорить/спорить, Cl'
 illustration: 'Что с ним говорить, он всё равно сделает по-своему.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       сомнение говорящего в том, что общение с тем, о ком говорится, будет продуктивным и полезным, буквально "нет смысла говорить с Х" Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
+       сомнение говорящего в том, что общение с тем, о ком говорится, будет продуктивным и полезным, буквально «нет смысла говорить с Х» Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
 examples:
 morphology:
   - NP
@@ -26,7 +26,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root что [csubj [obl [case с] NP-Ins] [cop Cop] говорить], [parataxis Cl]]'
@@ -35,6 +35,8 @@ dependency_structure:
   - '[root чего [csubj [obl [case с] NP-Ins] [cop Cop] спорить], [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root Что [csubj [obl [case с] ним] говорить], [parataxis [nsubj он] [advmod всё [fixed равно]] сделает [advmod по-своему]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

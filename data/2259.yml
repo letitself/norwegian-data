@@ -3,7 +3,7 @@ record: 2259
 name: 'зачастую VP'
 UD_name: 'зачастую VP'
 illustration: 'Мелкие фирмы зачастую не могут оплатить работу всех сотрудников.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod зачастую] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Мелкие] фирмы] [advmod зачастую] [advmod не] могут [xcomp оплатить [obj работу [nmod [det всех] сотрудников]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

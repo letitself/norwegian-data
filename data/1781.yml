@@ -3,7 +3,7 @@ record: 1781
 name: 'Cl, нечего сказать!'
 UD_name: 'Cl, нечего сказать!'
 illustration: 'Хорошенький у нас дом, нечего сказать!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Negative because not fitting the expectations or the norm / the standard (сверение, соотношение объекта с ожидаемым прототипическим образцом) Очень мило, нечего сказать. Кажется, нужно поменять Cl на AdvP или AdjP. Хотя в корпусе много разных примеров, но, когда нечего сказать, идёт в конце предложения, чаще в начале бывает два типа фраз.
@@ -16,21 +16,23 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Negation, Verb
-  - Object
+  - Negation
+  - Verb and Object
 part_of_speech_of_anchor:
   - Verb
   - Predicative
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[parataxis нечего [csubj сказать]]!]'
 dependency_structure_of_illustration:
   - '[root Хорошенький [obl [case у] нас] [nsubj дом], [parataxis нечего [csubj сказать]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

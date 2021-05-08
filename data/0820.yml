@@ -3,7 +3,7 @@ record: 820
 name: 'в случае чего Cl'
 UD_name: 'в случае чего Cl'
 illustration: 'В случае чего – звоните!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case в] случае [nmod чего]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] случае [nmod чего]] – звоните!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
 family:

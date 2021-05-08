@@ -3,7 +3,7 @@ record: 2188
 name: 'Так точно, XP'
 UD_name: 'Так точно, XP'
 illustration: '– Ты женат? – Так точно, женат.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [advmod так] точно]'
   - 'XP]'
 dependency_structure_of_illustration:
   - '[root – [nsubj Ты] женат?] [root – [parataxis [advmod Так] точно], женат.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

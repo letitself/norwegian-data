@@ -6,7 +6,7 @@ illustration: 'От восьми отнять три будет пять.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами "будет", "получится" или "равняется". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 4, 5). Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа (примеры 1, 2, 3).
+       Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами «будет», «получится» или «равняется». Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова «равно» или «равняется» (примеры 4, 5). Со словами «будет» и «получится» или если они опущены, результат всегда выражен формой именительного падежа (примеры 1, 2, 3).
   - norwegian: |
        Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет', 'получится' eller 'равняется'. Ved bruk av ordene 'равно' eller 'равняется' står svaret i nominativ eller dativ (eksempel 4 og 5). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 1, 2 og 3).
 examples:
@@ -40,10 +40,10 @@ part_of_speech_of_anchor:
   - Verb
   - Adjective
 semantic_roles:
-  - Quantity
   - Result
+  - Quantity
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] равно [xcomp NumCrd-Nom]]'
@@ -58,7 +58,7 @@ common_fillers:
   - получится
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Calculation
     subtypes:

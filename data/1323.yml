@@ -3,10 +3,10 @@ record: 1323
 name: 'NP-Nom Cop горазд VP-Inf /на NP-Acc'
 UD_name: 'NP-Nom Cop горазд VP-Inf /на NP-Acc'
 illustration: 'Он на выдумки горазд.'
-cefr_level: 
+cefr_level: C2
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something' Бывает также: горазд выпить
+       Evaluation of intellectual ability, mental ability - «good at doing something» Бывает также: горазд выпить
 examples:
 morphology:
   - NP
@@ -29,13 +29,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] горазд [csubj VP-Inf]]'
   - '[root [nsubj NP-Nom] [cop Cop] горазд [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case на] выдумки] горазд.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

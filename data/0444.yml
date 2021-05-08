@@ -37,10 +37,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Adjective
 semantic_roles:
-  - Theme
   - Property
+  - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case до] смешного] Adj]'
@@ -55,7 +55,7 @@ common_fillers:
   - прост
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

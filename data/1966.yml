@@ -3,7 +3,7 @@ record: 1966
 name: '(а) NP-Nom Cop здесь какими судьбами?'
 UD_name: '(а) NP-Nom Cop здесь какими судьбами?'
 illustration: 'А Вася здесь какими судьбами?'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -26,22 +26,24 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod здесь] [det какими] судьбами?]'
   - '[root [cc а] [nsubj NP-Nom] [cop Cop] [advmod здесь] [det какими] судьбами?]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj Вася] [advmod здесь] [det какими] судьбами?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Mental attitude
+      - type: Mental Attitude
   - type: Polarity value
     subtypes:
       - type: Positive

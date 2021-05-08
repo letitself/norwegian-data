@@ -3,7 +3,7 @@ record: 1911
 name: 'Каждый (NP-Nom.Sg) VP этот NP-Acc'
 UD_name: 'Каждый (NP-Nom.Sing) VP этот NP-Acc'
 illustration: 'Каждый ученик выучил это стихотворение.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj [det каждый] NP-Nom.Sg] VP [obj [det этот] NP-Acc]]'
   - '[root [nsubj каждый] VP [obj [det этот] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Каждый] ученик] выучил [obj [det это] стихотворение].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

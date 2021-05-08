@@ -37,13 +37,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [amod [advmod совсем] другой] NP-Nom.Sg]'
   - '[root [nsubj NP-Nom] [cop Cop] [amod другой] NP-Nom.Sg]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [amod другое] дело.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - разговор
   - дело

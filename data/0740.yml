@@ -40,14 +40,14 @@ part_of_speech_of_anchor:
   - Conjunction
   - Particle
 semantic_roles:
+  - Action
   - Speaker
   - Agent
-  - Listener
-  - Participant
-  - Action
   - State
+  - Participant
+  - Listener
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] [det PronPoss] месте], Cl]'
@@ -56,6 +56,8 @@ dependency_structure:
   - '[root [advcl будь] [nsubj NP-Nom] [obl [case на] месте [nmod NP-Gen]], [mark то] Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl Будь] [nsubj я] [obl [case на] [det твоем] месте], [nsubj я] [aux бы] согласился [obl [case на] [det эту] должность].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ее
   - его
@@ -65,7 +67,7 @@ common_fillers:
   - я
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Source of opinion

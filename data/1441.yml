@@ -3,9 +3,21 @@ record: 1441
 name: 'Noun-Nom, PronPers-3.Nom и в Африке ~Noun-Nom'
 UD_name: 'N-Nom, PronPers-3.Nom и в Африке N-Nom'
 illustration: 'Сахар он и в Африке сахар.'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественность, неизменную природу одного и того же объекта или участника вне зависимости от внешних обстоятельств и различных ситуаций. Tождественность подчеркивается повторением того же существительного в слоте Noun-Nom. Как если бы мы сравнивали некоторый [объект]Comparee с [аналогичным объектом, существующим в Африке]Standard и не обнаруживали никаких сущностных различий даже при наличии некоторых внешних. Африка выбрана как очень отдаленное и экзотическое место.
 examples:
+  - |
+       ― [Телефон]Comparee, он и в Африке [телефон]Standard. Надо только уметь пользоваться.
+  - |
+       Утро, осень, воздух ― [молодость]Comparee, она и в Африке [молодость]Standard, тем более в русской провинции.
+  - |
+       Когда говоришь майонез ― возникает образ желтой упаковки, а если майонез оливковый, то на желтый фон напрашивается рисунок оливок, выполненный точь-в-точь как у конкурента ― [оливки]Comparee они и в Африке [оливки]Standard, по-другому не нарисуешь.
+  - |
+       ― Надо же, ― поразился Мазин, ― пилот шасси не видит и попал точка в точку. Нет, [мастерство]Comparee ― оно и в Африке [мастерство]Standard.
+  - |
+       [Мигрант]Comparee, он и в Африке ― [мигрант]Standard. В Японии там вообще 99% одни японцы. Будешь, как клоун по улицам ходить.
 morphology:
   - Noun
   - Nom
@@ -23,19 +35,24 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [dislocated Noun-Nom] [nsubj PronPers-3.Nom] [obl [advmod и] [case в] Африке] Noun-Nom]'
 dependency_structure_of_illustration:
   - '[root [dislocated Сахар] [nsubj он] [obl [advmod и] [case в] Африке] сахар.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - гений
+  - мастер
+  - сахар
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

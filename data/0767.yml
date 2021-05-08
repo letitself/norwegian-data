@@ -32,10 +32,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Speaker
   - Action
+  - Speaker
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case в] лоб]]'
@@ -50,7 +50,7 @@ common_fillers:
   - понимать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -38,11 +38,13 @@ dependency_structure:
   - '[root [obj того] [advmod и] гляди [parataxis VP-Pfv]]'
 dependency_structure_of_illustration:
   - '[root [obj Того] [advmod и] гляди [parataxis [nsubj он] [obj конфеты] съест].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также статью Аркадьев П. М. О семантике русских конструкций чего доброго и того и гляди // Научно-техническая информация. Серия 2. Информационные процессы и системы. 2007, № 4, С. 11–17.
 semantic_types:
   - type: Apprehension
     subtypes:

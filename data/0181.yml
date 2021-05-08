@@ -6,9 +6,11 @@ illustration: 'Мастак на выдумки'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция характеризует некоторого субъекта как искусного и опытного [в каком-либо деле]Theme.
+       Конструкция характеризует некоторого [участника]Agent как ловкого, искусного и опытного в [определенной деятельности.]Activity Способности участника оцениваются высоко и положительно, даже если сам род деятельности может оцениваться иначе.
   - english: |
-       This construction characterises a subject as skillful and experienced [in something]Theme
+       This construction characterises a participant as skillful and experienced in a certain [activity]Activity.
+  - norwegian: |
+       Конструкция характеризует некоторого субъекта как искусного и опытного [в каком-либо деле]Theme.
 examples:
   - |
        Приедет, расскажет ей кучу сказок, он мастак на [такие дела.]Theme
@@ -31,18 +33,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root мастак [nmod [case на] NP-Acc]]'
   - '[root мастер [nmod [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root Мастак [nmod [case на] выдумки]]'
+comment: |
+    'См. близкую конструкцию 131.'
 common_fillers:
   - ~
 references:
   - |
-    
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

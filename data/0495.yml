@@ -25,13 +25,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Gen.Pl] [cop Cop] выше [obl крыши]]'
   - '[root [nsubj NP-Gen.Pl] [cop Cop] выше [obl головы]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Проблем] выше [obl крыши].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -46,6 +48,8 @@ semantic_types:
     subtypes:
       - type: Booster
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Polarity value
     subtypes:
       - type: Negative

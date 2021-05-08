@@ -29,11 +29,13 @@ dependency_structure:
   - '[root [nsubj PronPers-Nom] [iobj PronPers-Dat] дать [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [iobj тебе] дам [xcomp [advmod так] [obj себя] вести]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

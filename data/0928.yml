@@ -3,10 +3,10 @@ record: 928
 name: 'у NP-Gen голова быть на плечах'
 UD_name: 'у NP-Gen голова быть на плечах'
 illustration: 'Даже Ваня сказал, что я молодец, и что у меня голова на плечах есть.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something' бытийный глагол, ест нет, есть не связка, смысловой глагол может быть в прош времени Бывает и в вопросительной форме. бытийный глагол, ест нет, есть не связка, смысловой глагол может быть в прош времени
+       Evaluation of intellectual ability, mental ability - «good at doing something» бытийный глагол, ест нет, есть не связка, смысловой глагол может быть в прош времени Бывает и в вопросительной форме. бытийный глагол, ест нет, есть не связка, смысловой глагол может быть в прош времени
 examples:
 morphology:
   - NP
@@ -16,8 +16,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate, Prepositional Phrase
+  - Subject and Predicate
+  - Prepositional Phrase
 part_of_speech_of_anchor:
   - Noun
   - Verb
@@ -25,12 +25,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj голова] быть [obl [case на] плечах]]'
 dependency_structure_of_illustration:
   - '[root [advmod Даже] [nsubj Ваня] сказал, [ccomp [mark что] [nsubj я] молодец, [conj [cc и] [mark что] [obl [case у] меня] [nsubj голова] [obl [case на] плечах] есть]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

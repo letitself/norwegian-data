@@ -3,7 +3,7 @@ record: 1200
 name: 'XP так же, как (и) XP'
 UD_name: 'XP так же, как (и) XP'
 illustration: 'Он ведёт себя так же, как и раньше.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep XP [advmod так [advmod же], [advcl [mark как [fixed и]] XP]]]'
   - '[dep XP [advmod так [advmod же], [advcl [mark как] XP]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] ведёт [obj себя] [advmod так [advmod же], [advcl [mark как [fixed и]] раньше]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

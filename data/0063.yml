@@ -1,23 +1,17 @@
 ---
 record: 63
-name: 'вот бы Cl'
-UD_name: 'вот бы Cl'
+name: 'вот бы Cl!'
+UD_name: 'вот бы Cl!'
 illustration: 'Вот бы мама испекла вкусный пирог!'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает пожелание говорящего о том, чтобы в будущем произошло некоторое [событие]Event или реализовалась некоторая [ситуация.]Situation Пожелание может относиться и к реально возможным событиям, и к неосуществимым.
-  - english: |
-       ? вот бы Cl/VP-Inf/NP-Acc!
-  - norwegian: |
-       Девушка производила впечатление очень скромной, правильной и благовоспитанной. Бабушка не раз говорила мне: ― Вот бы тебе такую жену! ― Увы, это невозможно, ― возражал я. ― Она же суперзвезда. А я кто?
 examples:
   - |
        Вот бы [еще и качество общественного транспорта повысилось.]Situation
   - |
        Я засыпаю и думаю, вот бы [приснилось]Action, как мы все вместе приехали в деревню.
-  - |
-       Архипов бойко рассказывал что-то у доски. Так у него это здорово получалось! Вот бы [и мне так научиться!]Action
   - |
        Вот бы [и моему младшему брату так же повезло, как мне.]Situation
   - |
@@ -33,7 +27,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Event
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -41,11 +37,13 @@ dependency_structure:
   - '[root [advmod вот] [aux бы] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [aux бы] [nsubj мама] испекла [obj [amod вкусный] пирог]!]'
+comment: |
+    'См. близкую конструкцию 879.'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

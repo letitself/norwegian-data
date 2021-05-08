@@ -39,8 +39,9 @@ part_of_speech_of_anchor:
   - Verb
   - Conjunction
 semantic_roles:
-  - Participant
   - Action
+  - Participant
+  - Situation
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -49,6 +50,8 @@ dependency_structure:
   - '[root [nsubj [det какой] NP-Nom] захочет, [ccomp [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Какая] женщина] захочет [xcomp сидеть [advmod дома] [obl [det весь] день]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - женщина
   - мужчина

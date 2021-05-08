@@ -7,8 +7,6 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция используется для того, чтобы выделить [участника]Participant или [объект]Theme среди [подобных]Set ему и оценить как наилучший пример обладания теми качествами, которые свойственны такому типу объектов или участников.
-  - english: |
-       сравнение, но не использовала нашу формулировку
 examples:
   - |
        Кевин из Города грехов – всем [злодеям]Set [злодей.]Participant
@@ -37,15 +35,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
+  - Event
   - Theme
   - Participant
+  - Set
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [iobj [det всем] Noun-Dat.Pl]'
 dependency_structure_of_illustration:
   - '[root [iobj [det Всем] борщам] борщ.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

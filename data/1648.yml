@@ -30,9 +30,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
+  - Action
   - Event
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod однажды] VP-Fut]'
@@ -49,7 +50,7 @@ common_fillers:
   - найдет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

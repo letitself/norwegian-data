@@ -32,14 +32,17 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Element
+  - Set
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] ряду [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] числили [obj его] [obl [case в] ряду [nmod [det своих] [amod национальных] героев]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - называли
   - имя
@@ -55,7 +58,7 @@ common_fillers:
   - стоять особняком
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Inclusive
   - type: Salient property

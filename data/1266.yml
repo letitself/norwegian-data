@@ -3,7 +3,7 @@ record: 1266
 name: 'VP при необходимости/случае/первой возможности/желании'
 UD_name: 'VP при необходимости/случае/первой возможности/желании'
 illustration: 'Звони при необходимости.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,7 +21,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [nmod [case при] необходимости]]'
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root VP [nmod [case при] желании]]'
 dependency_structure_of_illustration:
   - '[root Звони [nmod [case при] необходимости].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
 family:

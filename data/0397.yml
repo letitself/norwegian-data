@@ -41,11 +41,13 @@ dependency_structure:
   - '[root [case с] NP-Ins!]'
 dependency_structure_of_illustration:
   - '[root [case С] [amod Новым] годом!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Routine
     subtypes:

@@ -3,7 +3,7 @@ record: 1427
 name: '(А) что (у NP-Gen) Cop по NP-Dat?'
 UD_name: '(А) что (у NP-Gen) Cop по NP-Dat?'
 illustration: 'Что дома по еде?'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -25,7 +25,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root [cc а] [nsubj что] [obl [case у] NP-Gen] [cop Cop] [obl [case по] NP-Dat]?]'
@@ -34,11 +34,13 @@ dependency_structure:
   - '[root [nsubj что] [cop Cop] [obl [case по] NP-Dat]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Что] дома [obl [case по] еде]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

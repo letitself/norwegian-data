@@ -1,23 +1,27 @@
 ---
 record: 169
-name: 'NP-Nom краснеть за NP-Acc'
-UD_name: 'NP-Nom краснеть за NP-Acc'
+name: 'NP-Nom краснеть за NP-Acc (перед NP-Ins)'
+UD_name: 'NP-Nom краснеть за NP-Acc (перед NP-Ins)'
 illustration: 'Мама краснела за оценки сына.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий или участник стыдится [действий]Partcipant другого участника ситуации, которые получили негативную оценку окружающих.
+       Конструкция обозначает, что [говорящий или другой участник]Experiencer стыдится [свойств, умений или поведения]Stimulus некоторого участника ситуации, которые получили негативную оценку [окружающих]Participant. Чувство стыда может быть вызвано и собственными недостатками или действиями говорящего. Глагол "краснеть" используется в связи с тем, что лицо человека, который испытывает стыд, часто приобретает красный цвет. В этой конструкции используется только глагол несовершенного вида "краснеть", а соответствующий глагол совершенного вида "покраснеть" не используется.
   - english: |
        This construction expresses that someone feels embarrassed or ashamed at [someone, something or an action]Reason in such a way that they could turn red.
   - norwegian: |
        Konstruksjonen betyr at noen er flau eller skjemmes over [noen, noe eller noe som har skjedd]Reason på en slik måte at de kunne rødme.
 examples:
   - |
-       [Ника]Agent краснеет за [свою трусость]Reason.
+       Хотелось бы, чтобы они выглядели нормально. Пусть наденут чистые рубашки. Знаю я твоих сыновей. Не пришлось бы краснеть за [этих ребят]Stimulus.
   - |
-       Читал и краснел за [свой ужасный английский]Reason.
+       [Я]Experiencer читал и краснел за [свой ужасный английский]Stimulus.
   - |
-       Не пришлось бы краснеть за [этих ребят]Reason.
+       Я должен показать, что знаю правила этикета, чтобы ему не пришлось краснеть за [меня]Stimulus перед [уважаемыми людьми]Participant.
+  - |
+       [Я] Experiencer не хочу краснеть за [вас]Stimulus перед [всем миром]Participant.
+  - |
+       Она думала: «Не бойся: тебе не придется краснеть за [меня]Stimulus. Вот увидишь: я буду достойной и тебя и этого прекрасного мира».
 morphology:
   - NP
   - Nom
@@ -33,19 +37,28 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - ~
+  - Experiencer
+  - Stimilus
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] краснеть [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мама] краснела [obl [case за] оценки [nmod сына]].]'
+comment: |
+    'См. близкую конструкцию 486.'
 common_fillers:
-  - ~
+  - меня
+  - него
+  - поведение
+  - всеми
+  - миром
+  - окружающими
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:
@@ -53,6 +66,7 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+  - type: Cause
   - type: Polarity value
     subtypes:
       - type: Negative

@@ -6,7 +6,7 @@ illustration: 'Он не совсем оправился от смерти ро�
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, в какой степени [ситуация]Situation или [действие]Action реализованы. Если отрицательная частица "не" присутствует, то конструкция указывает на приближение ситуации или действия к выраженной в глаголе и неполноту действия. Если отрицательная частица "не" отсутствует, то конструкция выражает, что действие или ситуация совершены полностью, доведены до конца.
+       Конструкция обозначает, в какой степени [ситуация]Situation или [действие]Action реализованы. Если отрицательная частица «не» присутствует, то конструкция указывает на приближение ситуации или действия к выраженной в глаголе и неполноту действия. Если отрицательная частица «не» отсутствует, то конструкция выражает, что действие или ситуация совершены полностью, доведены до конца.
   - norwegian: |
        Konstruksjonen angir i hvilken grad [en situasjon]Situation eller [en handling]Action er realisert. Sammen med nektelsespartikkelen 'ikke' viser konstruksjonen til at situasjonen eller handlingen nærmer seg den handlingen verbet uttrykker og at den ikke er fullført. Uten nektelsespartikkelen 'ikke' uttrykker konstruksjonen at handlingen eller situasjonen er helt fullført, ført til ende.
 examples:
@@ -33,28 +33,32 @@ part_of_speech_of_anchor:
   - Adverb
   - Negation Marker
 semantic_roles:
-  - Situation
   - Action
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod не] совсем] VP-Pst]'
   - '[root [advmod совсем] VP-Pst]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod не] совсем] оправился [obl [case от] смерти [nmod родителей]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - оправиться
   - понять
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Approximator
       - type: Maximizer
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

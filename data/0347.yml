@@ -31,18 +31,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root ходить [nsubj NP-Nom [nmod [case о] NP-Loc]]]'
   - '[root ходить [nsubj NP-Nom [nmod [case про] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root Ходят [nsubj слухи [nmod [case об] отъезде [nmod Петровых]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

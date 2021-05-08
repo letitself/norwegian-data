@@ -34,17 +34,20 @@ part_of_speech_of_anchor:
   - Preposition
   - Verb
 semantic_roles:
-  - Possessor
-  - Theme
   - Property
+  - Theme
+  - Possessor
+  - Posessor
   - Participant
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [case У] Паши [cop есть] [nsubj кот].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - подруга
   - знакомая
@@ -58,7 +61,7 @@ common_fillers:
   - идеи
 references:
   - |
-    
+    См. также статью Селиверстова О.Н. Семантический анализ предикативных притяжательных конструкций с глаголом быть // Вопросы языкознания. 1973. № 5. С. 95-105.
 semantic_types:
   - type: Possession
 family:

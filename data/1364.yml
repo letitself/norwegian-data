@@ -3,7 +3,7 @@ record: 1364
 name: 'VP в бытность (PronPers) NP-Ins VP'
 UD_name: 'VP в бытность (PronPers) NP-Ins VP'
 illustration: 'В бытность его мэром Москвы произошло много перемен.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [obl [case в] бытность [det PronPers] [nmod NP-Ins]]]'
   - '[root VP [obl [case в] бытность [nmod NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] бытность [det его] [nmod мэром [nmod Москвы]]] произошло [nsubj [nummod:gov много] перемен].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

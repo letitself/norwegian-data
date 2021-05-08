@@ -3,7 +3,7 @@ record: 1557
 name: 'VP/NP на расстоянии/высоте/глубине NumCrd-Gen NP-Gen (от NP-Gen)'
 UD_name: 'VP/NP на расстоянии/высоте/глубине NumCrd-Gen NP-Gen (от NP-Gen)'
 illustration: 'Встаньте на расстоянии двух метров друг от друга.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,7 +23,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] расстоянии [nmod [nummod NumCrd-Gen] NP-Gen [nmod [case от] NP-Gen]]]]'
@@ -40,11 +40,13 @@ dependency_structure:
   - '[dep NP [nmod [case на] глубине [nmod [nummod NumCrd-Gen] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Встаньте [obl [case на] расстоянии [nmod [nummod двух] метров] [obl друг [fixed от] [fixed друга]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

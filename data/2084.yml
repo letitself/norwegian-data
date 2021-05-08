@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nmod [case без] NumCrd-Gen] NumCrd-Nom]]'
   - '[root [nmod [case без] [nummod NumCrd-Gen] минут] NumCrd-Nom]]'
 dependency_structure_of_illustration:
   - '[root Приходи [obl [case к] [nmod [case без] пятнадцати] десять].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

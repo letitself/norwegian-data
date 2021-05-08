@@ -3,7 +3,7 @@ record: 683
 name: 'Cl, а как чешет!'
 UD_name: 'Cl, а как чешет!'
 illustration: 'Такой маленький, а как чешет!'
-cefr_level: 
+cefr_level: C2
 definitions:
   - russian: |
        Unexpected but not negative, about situations. о скорости, counterexpectation
@@ -32,6 +32,8 @@ dependency_structure:
   - '[conj [cc а] [advmod как] чешет]!]'
 dependency_structure_of_illustration:
   - '[root [det Такой] маленький, [conj [cc а] [advmod как] чешет]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

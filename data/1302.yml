@@ -33,25 +33,27 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - Agent
   - Action
-  - Situation
+  - Agent
   - Purpose
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case ради] того'
   - '[acl [mark чтобы] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] сюжету] [iobj им] предстоит [csubj объединить [obj усилия]] [obl [case ради] того, [acl [mark чтобы] совершить [obj ограбление]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - всё
   - выжить
   - быть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

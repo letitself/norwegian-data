@@ -6,18 +6,22 @@ illustration: 'Ни за что не поеду в театр!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для отказа от некоторого [действия в будущем]Action. [Участник]Participant не собирается выполнять действие ни при каких условиях.
+       Конструкция обозначает, что участник ситуации не согласен выполнять некоторое [действие]Action ни при каких условиях (примеры 1-3). Конструкция также может обозначать, что некоторое [действие]Action невозможно совершить, даже при всем желании участника (примеры 4, 5).
   - english: |
        This construction means that [the subject]Participant will not agree to, or not be able to, [carry out a certain action]Action. The action referred to will either take place in the future, or is a hypothetical situation expressed by means бы ‘would’, e.g. И я бы ни за что не сказал, что через несколько часов она это сделает ‘And I never would have said, that a few hours later she was going to do that’.
   - norwegian: |
        Konstruksjonen betyr at [subjektet]Participant ikke vil gå med på, eller ikke vil være i stand til [å utføre en viss handling]Action. Den aktuelle handlingen vil enten finne sted i fremtiden, eller den viser til en hypotetisk situasjon uttrykt vha. бы ‘ville ha’, f.eks. И я бы ни за что не сказал, что через несколько часов она это сделает ‘Og jeg ville aldri ha sagt at hun kom til å gjøre noe sånt noen timer senere’.
 examples:
   - |
-       И [я]Participant бы ни за что не [сказал]Action, что через несколько часов она это сделает.
+       Я ни за что не [поверю]Action, что у вас с вашими подростками нет проблем!
   - |
-       ― Кто же вы? ― Ни за что не [угадаете]Action. ― О, помилуйте!
+       Да она и потом ни за что не [хотела переезжать.]Action
   - |
-       ― Я бы осенью сидел у печки, и [они]Participant бы ни за что не [облетели]Action.
+       Сестра замечала в зеркале сединки, но ни за что не [стала бы краситься.]Action
+  - |
+       ― Кто же вы? ― Ни за что не [угадаете]Action.
+  - |
+       Он сказал: Передай Войновичу, что он эту квартиру ни за что не [получит.]Action
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -31,19 +35,26 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [advmod ни] [case за] что] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case за] что] [advmod не] поеду [obl [case в] театр]!]'
+comment: |
+    'См. близкие конструкции 227 и 1935.'
 common_fillers:
-  - ~
+  - поверить
+  - рассказать
+  - переехать
+  - пойти
+  - приехать
+  - угадать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Degree of intensity

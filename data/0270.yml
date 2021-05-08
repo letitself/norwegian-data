@@ -35,18 +35,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[advmod по-Adv]'
   - '[amod по-Adj]'
 dependency_structure_of_illustration:
   - '[root [obl [case К] сыну] надо [csubj относиться] [advmod помягче].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Boguslavsky, I., Iomdin, L. (2009), Semantics of Attenuated Comparatives in Russian, Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), pp. 65–77.
+    Boguslavsky, I., Iomdin, L. 2009. Semantics of Attenuated Comparatives in Russian. In: Proceedings of the 4th International Conference on Meaning-Text Theory. Observatoire de linguistique Sens-Texte (OLST), 65–77.
 semantic_types:
   - type: Comparison
     subtypes:

@@ -3,7 +3,7 @@ record: 1583
 name: 'с NP-Ins VP-Pfv'
 UD_name: 'с NP-Ins VP-Perf'
 illustration: 'С годами это украшение поблёкло.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case с] NP-Ins] VP-Pfv]'
 dependency_structure_of_illustration:
   - '[root [obl [case С] годами] [nsubj [det это] украшение] поблёкло.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

@@ -30,18 +30,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [parataxis скажи [parataxis нет]]]'
   - '[root Cl, [parataxis скажешь [parataxis нет]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] красавица, [parataxis скажи [parataxis нет]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

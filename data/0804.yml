@@ -22,19 +22,22 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Event
+  - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] пылу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] пылу [nmod борьбы]] [nsubj он] получил [obj травму].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Taxis

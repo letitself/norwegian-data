@@ -15,25 +15,28 @@ syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
   - Prepositional Phrase
-  - Nominal Pattern; Reduplication
+  - Nominal Pattern
+  - Reduplication
 part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [case в] конце [case концов]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case В] конце [case концов]], спроси [obl [case у] [det его] мамы]!]'
+comment: |
+    'Не путать с конструкцией 763.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

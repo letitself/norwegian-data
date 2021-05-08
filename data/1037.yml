@@ -34,11 +34,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
   - Maleficiary
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case за] спиной [nmod [case у] NP-Gen]]]'
@@ -53,7 +53,7 @@ common_fillers:
   - говорить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

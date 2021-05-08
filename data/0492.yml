@@ -35,10 +35,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Predicative
 semantic_roles:
-  - Action
   - Experiencer
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] [case в] лом [csubj VP-Inf]]'

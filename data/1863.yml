@@ -6,7 +6,7 @@ illustration: 'Корень четвертой степени из шестна�
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция формулирует математическую операцию извлечения корня [определенной степени]Quantity из [некоторого числа]Quantity и определяет [результат вычисления]Result. Результат выражен формой дательного падежа в случае, если используется слово "равен" (примеры 1, 2, 3). Со словом "это" или если оно опущено, результат всегда выражен формой именительного падежа (примеры 4, 5).
+       Конструкция формулирует математическую операцию извлечения корня [определенной степени]Quantity из [некоторого числа]Quantity и определяет [результат вычисления]Result. Результат выражен формой дательного падежа в случае, если используется слово «равен» (примеры 1, 2, 3). Со словом «это» или если оно опущено, результат всегда выражен формой именительного падежа (примеры 4, 5).
   - norwegian: |
        Konstruksjonen formulerer regneoperasjonen å trekke ut roten [av en viss potens]Quantity av [et tall]Quantity og angir [svaret]Result. Ved bruk av ordet 'равeн' (eksempel 1, 2 og 3), står svaret i dativ. Sammen med ordet 'это', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 4 og 5).
 examples:
@@ -40,10 +40,10 @@ part_of_speech_of_anchor:
   - Particle
   - Adjective
 semantic_roles:
-  - Quantity
   - Result
+  - Quantity
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj корень [nmod [amod NumOrd-Gen] степени [nmod [case из] NumCrd-Gen]]] – равен [xcomp NumCrd-Dat]]'
@@ -51,11 +51,13 @@ dependency_structure:
   - '[root [nsubj корень [nmod [amod NumOrd-Gen] степени [nmod [case из] NumCrd-Gen]]] – [expl это] NumCrd-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Корень [nmod [amod четвертой] степени [nmod [case из] шестнадцати]]] равен [xcomp двум].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Calculation
     subtypes:

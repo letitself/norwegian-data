@@ -34,16 +34,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
   - Beneficiary
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] ведома [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Без] ведома [nmod жены]] [nsubj он] отнес [obj деньги] [obl [case в] казино].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - делать
   - автора
@@ -54,7 +56,7 @@ common_fillers:
   - жены
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

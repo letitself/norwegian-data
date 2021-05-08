@@ -3,7 +3,7 @@ record: 2161
 name: 'NP-Nom Cop хороший-Short собой'
 UD_name: 'NP-Nom Cop хороший-Short собой'
 illustration: 'Миша был удивительно хорош собой.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,12 +23,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] хороший-Short [obl собой]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Миша] [cop был] [advmod удивительно] хорош [iobj собой].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

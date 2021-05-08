@@ -3,7 +3,7 @@ record: 1446
 name: 'Noun-Nom такой ~Noun-Nom'
 UD_name: 'N-Nom такой N-Nom'
 illustration: 'Леди такая леди.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj Noun-Nom] [det такой] Noun-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Леди] [det такая] леди.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

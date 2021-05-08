@@ -35,16 +35,18 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Participant
-  - Activity
   - Standard
+  - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] ногу [nmod [case с] NP-Ins]]]'
   - '[root VP [obl [case в] ногу]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Солдаты] идут [obl [case в] ногу].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - идти
   - шагать
@@ -53,7 +55,7 @@ common_fillers:
   - модой
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

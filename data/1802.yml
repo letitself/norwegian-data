@@ -6,7 +6,7 @@ illustration: 'Я против школьной формы!'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция выражает отношение [участника]Participant к некоторой [ситуации]Situation, [действиям]Action, [элементу общественного порядка]Theme или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное ("против") либо положительное, но достаточно умеренное или пассивное ("не против").
+       Конструкция выражает отношение [участника]Participant к некоторой [ситуации]Situation, [действиям]Action, [элементу общественного порядка]Theme или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное («против») либо положительное, но достаточно умеренное или пассивное («не против»).
   - norwegian: |
        Konstruksjonen uttrykker [deltakerens]Participant holdning til en gitt [situasjon]Situation, visse [handlinger]Action, [et element i samfunnsordenen]Theme eller til en annen [deltaker]Participant. Deltakerens holdning består i å støtte disse, eller ikke. Holdningen er enten utpreget negativ ("против") eller positiv, men på en ganske moderat eller passiv måte ("не против").
 examples:
@@ -35,12 +35,12 @@ part_of_speech_of_anchor:
   - Preposition
   - Negation Marker
 semantic_roles:
-  - Participant
-  - Situation
   - Action
   - Theme
+  - Participant
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case против] NP-Gen]'

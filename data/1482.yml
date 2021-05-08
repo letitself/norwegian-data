@@ -3,7 +3,7 @@ record: 1482
 name: 'такой Adj!'
 UD_name: 'такой Adj!'
 illustration: 'Он такой красивый!'
-cefr_level: 
+cefr_level: A1
 definitions:
   - russian: |
        принес такую иnтересную книгу
@@ -21,12 +21,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [det такой] Adj!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [det такой] красивый!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

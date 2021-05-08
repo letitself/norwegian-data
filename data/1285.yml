@@ -38,12 +38,14 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case по] случаю [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case По] случаю [nmod юбилея [nmod жены]]] [nsubj он] [obl сам] помоет [obj тарелки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - праздник
   - день рождения
@@ -51,7 +53,7 @@ common_fillers:
   - годовщина
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

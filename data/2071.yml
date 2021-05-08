@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Formal
 dependency_structure:
   - '[root потрудиться-Imp [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Потрудись [xcomp ответить [obl [case на] [det мой] вопрос]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

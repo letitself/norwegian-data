@@ -36,15 +36,18 @@ part_of_speech_of_anchor:
   - Predicative
 semantic_roles:
   - Experiencer
+  - Patient
   - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] нельзя [cop Cop] [advmod не] [csubj VP-Inf]]'
   - '[root нельзя [cop Cop] [advmod не] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Нельзя [cop было] [advmod не] [csubj согласиться] [obl [case с] ним] [advmod тогда].]'
+comment: |
+    'Не путать с конструкцией 1218. См. похожую конструкцию 198.'
 common_fillers:
   - мне
   - гордиться

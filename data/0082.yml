@@ -42,7 +42,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Property
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod всё] Adj-Cmp [conj [cc и] Adj-Cmp]]'
@@ -56,7 +56,7 @@ common_fillers:
   - летел
 references:
   - |
-    См. Zhukova, V. Title. MA thesis.
+    Zhukova, Valentina. 2020. Intensifying constructions in Russian based on data from Russian Constructicon. Moscow: National Research University Higher School of Economics, MA Thesis.
 semantic_types:
   - type: Comparison
     subtypes:

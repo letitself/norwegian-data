@@ -3,7 +3,7 @@ record: 1315
 name: 'VP во избежание NP-Gen'
 UD_name: 'VP во избежание NP-Gen'
 illustration: 'Во избежание конфликта стороны пришли к мирному урегулированию вопроса.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case во] избежание [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] избежание [nmod конфликта]] [nsubj стороны] пришли [obl [case к] [amod мирному] урегулированию [nmod вопроса]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

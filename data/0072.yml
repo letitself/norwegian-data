@@ -1,7 +1,7 @@
 ---
 record: 72
-name: 'вот-вот VP-Fut NP-Nom'
-UD_name: 'вот-вот VP-Fut NP-Nom'
+name: 'NP-Nom вот-вот VP-Pfv.Fut'
+UD_name: 'NP-Nom вот-вот VP-Pfv.Fut'
 illustration: 'Вот-вот прилетит самолет.'
 cefr_level: A2
 definitions:
@@ -9,8 +9,6 @@ definitions:
        Конструкция обозначает, что некоторое [событие]Event произойдет в самом ближайшем будущем, очень скоро после моментa речи, в течение нескольких минут.
   - english: |
        This construction expresses the inevitability [of an action]Action. [The participant]Participant is one step away from completing the action or the situation as a whole is one step away from being completed.
-  - norwegian: |
-       NP-Nom вот-вот VP-Pfv.Fut
 examples:
   - |
        Ольги не было дома. Тётка встретила меня приветливо и стала уговаривать выпить чайку и подождать ― "да [она]Agent вот-вот [вернётся.]Event"
@@ -27,6 +25,7 @@ morphology:
   - Fut
   - NP
   - Nom
+  - Pfv
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -36,11 +35,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - Event
   - Agent
+  - Event
   - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod вот-вот] VP-Fut [nsubj NP-Nom]]'
@@ -57,7 +56,7 @@ common_fillers:
   - упадет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

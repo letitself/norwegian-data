@@ -6,7 +6,7 @@ illustration: 'Он хочет купить машину года через д�
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что между точкой отсчета и последующим [событием]Event проходит некоторое [количество]Quantity [времени]Time, которое говорящий указывает приблизительно, неточно. Значение неточности передается инверсионным порядком слов (NP через NumCrd-Acc) вместо прямого порядка слов (через NumCrd-Acc NP). Точкой отсчета времени может быть момент речи (примеры 1, 2) или другое событие (примеры 3, 4). Конструкция также употребляется при указании на приблизительное [расстояние]Distance (пример 5). Числительное NumCrd "один" в этой конструкции не употребляется.
+       Конструкция обозначает, что между точкой отсчета и последующим [событием]Event проходит некоторое [количество]Quantity [времени]Time, которое говорящий указывает приблизительно, неточно. Значение неточности передается инверсионным порядком слов (NP через NumCrd-Acc) вместо прямого порядка слов (через NumCrd-Acc NP). Точкой отсчета времени может быть момент речи (примеры 1, 2) или другое событие (примеры 3, 4). Конструкция также употребляется при указании на приблизительное [расстояние]Distance (пример 5). Числительное NumCrd «один» в этой конструкции не употребляется.
   - norwegian: |
        Konstruksjonen betyr at det mellom startpunktet og påfølgende [hendelse]Event går en gitt [mengde]Quantity [tid]Time som taleren angir på en omtrentlig, upresis måte. Omtrentligheten fremgår av at ordene står i omvendt rekkefølge (NP через NumCrd-Acc) i stedet for i vanlig rekkefølge (через NumCrd-Acc NP). Startpunktet for tidsregningen kan være taleøyeblikket (eksempel 1 og 2) eller en annen hendelse (eksempel 3 og 4). Konstruksjonen brukes også til å angi omtrentlig [avstand]Distance (eksempel 5). Tallordet NumCrd "один" brukes ikke i denne konstruksjonen.
 examples:
@@ -36,15 +36,19 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Event
-  - Quantity
   - Time
+  - Action
+  - Quantity
+  - Distance
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl NP-Gen [case через] [nummod:gov NumCrd-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] хочет [xcomp купить [obj машину]] [obl года [case через] [nummod:gov два]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - года
   - лет
@@ -66,7 +70,7 @@ common_fillers:
   - шага
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

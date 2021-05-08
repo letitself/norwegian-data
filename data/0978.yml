@@ -32,16 +32,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Action
   - Theme
   - Participant
-  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case до] неузнаваемости]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Город] изменился [obl [case до] неузнаваемости].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - измениться
   - исказиться
@@ -49,12 +51,14 @@ common_fillers:
   - преобразиться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Booster
   - type: Result
+    subtypes:
+      - type: Achieved Result
   - type: Temporary characteristics
     subtypes:
       - type: Transformation

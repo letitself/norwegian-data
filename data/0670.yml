@@ -23,13 +23,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [advmod ничего]]'
   - '[root VP [advmod ничего] [advmod так]]'
 dependency_structure_of_illustration:
   - '[root Кормили [obl [case в] [det нашей] столовой] [advmod ничего].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

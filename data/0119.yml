@@ -1,27 +1,27 @@
 ---
 record: 119
-name: 'едва ли XP/Cl'
-UD_name: 'едва ли XP/Cl'
+name: 'едва ли VP/Cl'
+UD_name: 'едва ли VP/Cl'
 illustration: 'Едва ли Паша заплатит.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция используется тогда, когда вероятность выполнения [некоторого действия]Action очень мала или говорящий не уверен, что участник или объект может выполнить это действие.
+       Конструкция обозначает, что по мнению говорящего вероятность осуществления [некоторой ситуации]Situation или [действия]Action очень мала.
   - english: |
        This construction is used when the likelihood of performing [an action]Action is very small, or the speaker is unsure whether the participant or object could carry out this action.
-  - norwegian: |
-       N/A
 examples:
   - |
-       Однако читателей [мой ответ]Theme едва ли [удовлетворит]Action.
+       Полицейские едва ли [поверят моим рассказам.]Action
   - |
-       [Такие приборы]Theme едва ли [переступят границы лабораторий в ближайшие годы.]Action
+       Я едва ли [заслуживаю такую похвалу.]Action
   - |
-       [Он]Theme едва ли [знал о Ван Гоге]Action, однако где-то это имя встретил и оценил.
+       Все эти достижения едва ли [были бы возможны без энергичного руководства.]Situation
   - |
-       -
+       В этих условиях приходится обращаться к опыту зарубежных исследователей. Здесь едва ли [могут пригодиться модели американских учёных с их опытом свободного рынка.]Situation
+  - |
+       Однако читателей мой ответ едва ли [удовлетворит.]Action Я ведь так и не ответила на главный вопрос.
 morphology:
-  - XP
+  - VP
   - Cl
 syntactic_type_of_construction:
   - Clause and Modifier Construction
@@ -33,20 +33,26 @@ part_of_speech_of_anchor:
   - Adverb
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod едва [fixed ли]] XP]'
   - '[root [advmod едва [fixed ли]] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Едва [fixed ли]] [nsubj Паша] заплатит.]'
+comment: |
+    'См. близкую по смыслу конструкцию 78. Не путать с конструкциями 118 и 120.'
 common_fillers:
-  - ~
+  - сможет
+  - получится
+  - поверит
+  - имеет смысл
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

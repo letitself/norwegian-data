@@ -3,7 +3,7 @@ record: 2258
 name: 'VP/Adj сверх меры'
 UD_name: 'VP/Adj сверх меры'
 illustration: 'Он одарён сверх меры.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        из списка Ани Клезович. Initial formula: VP|AP|AdvP_сверх_меры. Конструкция является квантификатором и обозначает большое количество чего-либо. Я не могу найти на сайте. на картине всегд сверх меру рсточительного висконти никто не узнавал
@@ -24,13 +24,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case сверх] меры]]'
   - '[amod ADJ [obl [case сверх] меры]]'
 dependency_structure_of_illustration:
   - '[root [nsubj:pass Он] одарён [obl [case сверх] меры].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -45,6 +47,8 @@ semantic_types:
     subtypes:
       - type: Booster
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Polarity value
     subtypes:
       - type: Both Negative and Positive

@@ -6,7 +6,7 @@ illustration: 'Я не против, чтобы ты на ней женился.
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция выражает отношение [участника]Participant к некоторой [ситуации]Situation или к совершению [некоторого действия]Action. Отношение участника заключается в том, поддерживает ли он ситуацию или действие или нет. Отношение либо резко отрицательное ("против") либо положительное, но достаточно умеренное или пассивное ("не против").
+       Конструкция выражает отношение [участника]Participant к некоторой [ситуации]Situation или к совершению [некоторого действия]Action. Отношение участника заключается в том, поддерживает ли он ситуацию или действие или нет. Отношение либо резко отрицательное («против») либо положительное, но достаточно умеренное или пассивное («не против»).
   - norwegian: |
        Konstruksjonen uttrykker [en deltakers]Participant holdning til en gitt [situasjon]Situation eller til det å utføre [en gitt handling]Action. Deltakerens holdning kan være å støtte situasjonen eller handlingen, eller ikke. Holdningen er enten utpreget negativ ('против'), eller den kan være positiv, men på en ganske moderat eller passiv måte ('не против').
 examples:
@@ -40,10 +40,10 @@ part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
   - Action
-  - Situation
   - Participant
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod не] против, [ccomp [mark чтобы] Cl]]'
@@ -55,7 +55,7 @@ dependency_structure_of_illustration:
 comment: |
     'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1802 и 455.'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

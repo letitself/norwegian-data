@@ -40,13 +40,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] жизни] [advmod не] VP]'
   - '[root [obl [case в] жизни] [advmod не] VP [obj ничего [amod подобного]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [obl [case в] жизни] [advmod никуда] [advmod не] опаздывал.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - видеть
   - слышать
@@ -54,7 +56,7 @@ common_fillers:
   - опаздывать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -3,7 +3,7 @@ record: 1000
 name: 'PronPers Verb-Fut.2.Sg!'
 UD_name: 'PronPers V-Fut.2.Sing!'
 illustration: '– Ты должен его уговорить. – Его уговоришь!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root [dep PronPers] Verb-Fut.2.Sg!]'
 dependency_structure_of_illustration:
   - '[root – [nsubj Ты] должен [xcomp [obj его] уговорить].] [root – [obj Его] уговоришь!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

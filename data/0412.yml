@@ -32,13 +32,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root Cl'
   - '[advmod очень [advmod даже]] XP]'
 dependency_structure_of_illustration:
   - '[root [obj [det Твой] выбор] [nsubj я] [advmod очень [advmod даже]] одобряю.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

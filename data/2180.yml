@@ -3,7 +3,7 @@ record: 2180
 name: 'NP-Dat Cop крышка/конец/кранты/кирдык/капут/каюк'
 UD_name: 'NP-Dat Cop крышка/конец/кранты/кирдык/капут/каюк'
 illustration: 'Ну всё, вам крышка!'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -21,7 +21,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] крышка!]'
@@ -32,13 +32,17 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] каюк!]'
 dependency_structure_of_illustration:
   - '[root [discourse Ну] всё, [parataxis [iobj вам] крышка]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
+    subtypes:
+      - type: Achieved Result
   - type: Threat
 family:
   - |

@@ -34,24 +34,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - Action
   - Theme
-  - Participant
-  - Situation
+  - Action
   - Associated
+  - Situation
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[conj [dep NP] [cc же] VP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя [conj [cc и] Таня]] ушли, [conj [nsubj Маша] [cc же] осталась [xcomp [obj нас] поддержать]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

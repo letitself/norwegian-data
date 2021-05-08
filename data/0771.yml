@@ -34,11 +34,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
   - Maleficiary
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] награду [nmod [case за] NP-Acc]]]'
@@ -47,6 +47,8 @@ dependency_structure:
   - '[dep NP [nmod [case в] награду]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] награду [nmod [case за] [amod отличную] работу]] [nsubj он] получил [obj премию].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - потомкам
   - потомству
@@ -55,7 +57,7 @@ common_fillers:
   - прочим
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Addressee
     subtypes:
@@ -63,6 +65,8 @@ semantic_types:
   - type: Cause
   - type: Purpose
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

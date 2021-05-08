@@ -29,18 +29,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[advmod [advmod не] иначе [obl [case как] XP]]'
   - '[root [advmod [advmod не] иначе [fixed как]] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Дома] [obj кошку] называли [advmod не] [advmod иначе] [obl [case как] Охотница].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Exclusive
 family:

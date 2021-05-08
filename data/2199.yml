@@ -3,7 +3,7 @@ record: 2199
 name: 'как/когда ни VP-Fut, Cl'
 UD_name: 'как/когда ни VP-Fut, Cl'
 illustration: 'Как ни приду, она всегда за компьютером.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [advmod как] [advmod ни] VP-Fut], Cl]'
   - '[root [advcl [advmod когда] [advmod ни] VP-Fut], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Как] [advmod ни] приду], [nsubj она] [advmod всегда] [case за] компьютером.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Pluractionality

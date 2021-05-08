@@ -3,7 +3,7 @@ record: 1412
 name: 'VP в порядке/виде исключения'
 UD_name: 'VP в порядке/виде исключения'
 illustration: 'В порядке исключения я разрешил ему сдать документы пораньше.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] порядке [nmod исключения]]]'
   - '[root VP [obl [case в] виде [nmod исключения]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] порядке [nmod исключения]] [nsubj я] разрешил [iobj ему] [xcomp сдать [obj документы] [advmod пораньше]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Temporary characteristics

@@ -39,9 +39,11 @@ part_of_speech_of_anchor:
   - Adverb
   - Negation Marker
 semantic_roles:
-  - Action
   - Theme
+  - Action
   - Participant
+  - Situation
+  - Speaker
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -72,7 +74,7 @@ common_fillers:
   - повторялось
 references:
   - |
-    Rakhilina, E.V. (2013), Conductor, press the brakes… [Konduktor, nažmi na tormoza...], Computational Linguistics and Intellectual Technologies. Papers from the Annual International Conference “Dialogue” [Komp’juternaja lingvistika i intellektual’nye texnologii: po materialam meždunarodnoj konferencii «Dialog»], Issue 12 (19), Russian State University for the Humanities, Moscow, pp. 665-673.
+    См. также статью Рахилина Е. В. Кондуктор, нажми на тормоза... // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог» (2013). Т. 1. М.: Изд-во Российского государственного гуманитарного университета, 2013, С. 665–673.
 semantic_types:
   - type: Causation
     subtypes:

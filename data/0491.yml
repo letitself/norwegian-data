@@ -6,7 +6,7 @@ illustration: 'Девочкам радость не в радость.'
 cefr_level: C2
 definitions:
   - russian: |
-       В конструкции отрицаются характерные признаки [объекта]Object или [общего состояния]State[человека]Experiencer (как позитивного, так и негативного). В конструкциях, где описывается [состояние человека]State, используется предлог ["в"]в. bad definition.
+       В конструкции отрицаются характерные признаки [объекта]Object или [общего состояния]State[человека]Experiencer (как позитивного, так и негативного). В конструкциях, где описывается [состояние человека]State, используется предлог [«в»]в. bad definition.
   - english: |
        NP-Dat Noun-Nom Cop не (в) ~Noun (без NP-Gen) - не утрочнять падеж, так как может быть номинатив или аккузатив в зависимости от отсутствия или наличия предлога.
 examples:
@@ -39,7 +39,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] [nsubj Noun-Nom] [cop Cop] [advmod не] [case в] Noun-Acc [obl [case без] NP-Gen]]'
@@ -48,11 +48,13 @@ dependency_structure:
   - '[root [iobj NP-Dat] [nsubj Noun-Nom] [cop Cop] [advmod не] Noun-Nom]'
 dependency_structure_of_illustration:
   - '[root [iobj Девочкам] [nsubj радость] [advmod не] [case в] радость.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

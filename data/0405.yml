@@ -6,14 +6,18 @@ illustration: 'Она пела в честь его дня рождения.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что какое-либо, обычно торжественное, [событие]Situation происходит/произошло в знак уважения/почтения к [кому-либо или чему-либо.]Goal
+       Конструкция обозначает, что некоторое [действие]Action или [ситуация]Situation имеет особо важное значение, смысл, поскольку осуществляется с целью [выразить уважение, почтение, внимание]Cause к некоторому важному [участнику]Participant или знаменательному [событию.]Event
 examples:
   - |
-       [Праздник]Situation в честь [Великой Победы.]Goal
+       [Этот монумент был воздвигнут]Situation в честь [выдающегося философа.]Participant
   - |
-       [Этот монумент был воздвигнут]Situation в честь [выдающегося философа.]Goal
+       После венчания, в честь [такого радостного события]Event, он [подарил своей молодой жене серьги матери.]Action
   - |
-       После венчания, в честь [такого радостного события]Goal, [подарил своей молодой жене серьги матери.]Situation
+       [Это принято называть планковским пределом]Situation в честь [немецкого физика Макса Планка]Participant.
+  - |
+       Несколько лет спустя она выступила на [празднике]Situation в честь [тысячелетия нашего города.]Event
+  - |
+       Олег вспомнил, как однажды он был на [торжественном ужине]Situation, устроенном в честь [приезда английского принца Чарльза.]Event
 morphology:
   - Cl
   - NP
@@ -28,19 +32,33 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Event
+  - Action
+  - Situation
+  - Cause
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case в] честь [nmod [det его] NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] пела [obl [case в] честь [nmod [det его] дня [nmod рождения]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - математика
+  - художника
+  - королевы
+  - годовщины
+  - приезда
+  - прибытия
+  - события
+  - победы
+  - юбилея
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

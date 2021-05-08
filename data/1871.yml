@@ -3,7 +3,7 @@ record: 1871
 name: '(Cl,) вместе с тем, Cl'
 UD_name: '(Cl,) вместе с тем, Cl'
 illustration: 'Она хороший человек, но вместе с тем я чувствую, что на нее нельзя положиться.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl, [parataxis вместе [obl [case с] тем]], Cl]]'
   - '[root [parataxis вместе [obl [case с] тем]], Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [amod хороший] человек, [conj [cc но] [advmod вместе [obl [case с] тем]] [nsubj я] чувствую, [ccomp [mark что] [obl [case на] нее] нельзя [csubj положиться]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

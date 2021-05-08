@@ -3,8 +3,10 @@ record: 953
 name: 'дай бог PronPers-Dat NP-Gen!'
 UD_name: 'дай бог PronPers-Dat NP-Gen!'
 illustration: 'Дай бог тебе здоровья!'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает пожелания говорящего в адрес собеседника или другого участника.
 examples:
 morphology:
   - PronPers
@@ -16,8 +18,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
@@ -30,11 +31,13 @@ dependency_structure:
   - '[root дай [nsubj бог] [iobj PronPers-Dat] [obj NP-Gen]!]'
 dependency_structure_of_illustration:
   - '[root Дай [nsubj бог] [iobj тебе] [obj здоровья]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Routine
     subtypes:

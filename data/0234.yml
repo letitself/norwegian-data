@@ -6,14 +6,18 @@ illustration: 'Он никак стал врачом?'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция выражает неуверенное предположение о чём-либо или вопрос-подтверждение какого-либо [события]Action.
+       Конструкция выражает неуверенное предположение говорящего о некотором [событии]Event или [состоянии]State. Слот VP заполняется глаголами обоих видов.
 examples:
   - |
-       Никак [наши едут.]Action
+       ― Звонят в дверь. Никак [кто-то пришёл?]Event
   - |
-       Никак [кто-то пришёл?]Action
+       Лифтёрша ахнула, увидев его: "Михал Яковлевич! Вы никак [заболели?]Event
   - |
-       Он никак [заболел.]Action
+       – Батюшки! – ахнул Александр. – Да ты никак [влюбилась?!]Event Настя не выдержала и расхохоталась, настолько чудовищным показалось ей такое предположение.
+  - |
+       ― Ты куда? ― Так… бумагу одну подписать нужно … по делу… ― И шведы у «Астории» ― тоже «по делу»? ― Да ты никак [ревнуешь?!]State ― рассмеялась Лариса. ― Дурачок ты мой! Никто, запомни, никто, кроме тебя, мне не нужен!
+  - |
+       Но что это, что за влага на моей руке, ― да ты никак [плачешь?!]Action
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -25,19 +29,27 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Action
+  - State
+  - Event
 intonation:
-  - ~
+  - Interrogative
 usage_label: Obsolete
 dependency_structure:
   - '[root [advmod никак] VP?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod никак] стал [xcomp врачом]?]'
+comment: |
+    'Не путать с конструкцией 233.'
 common_fillers:
-  - ~
+  - пришел
+  - заболел
+  - влюбился
+  - плачешь
+  - спишь
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

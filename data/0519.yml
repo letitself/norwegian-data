@@ -5,6 +5,8 @@ UD_name: 'VP по NP-Acc'
 illustration: 'Родители пошли по грибы.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает цель некоторого движения.
 examples:
 morphology:
   - VP
@@ -21,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case по] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Родители] пошли [obl [case по] грибы].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

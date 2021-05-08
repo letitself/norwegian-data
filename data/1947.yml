@@ -37,15 +37,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - State
   - Possessor
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [case у] NP-Gen [obl [case в] собственности] [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [case У] неё [obl [case в] собственности] [nsubj [amod однокомнатная] квартира].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - остался
   - оказаться
@@ -61,7 +64,7 @@ common_fillers:
   - земли
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
 family:

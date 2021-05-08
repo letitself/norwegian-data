@@ -28,17 +28,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj Noun-Nom] [cop есть] Noun-Nom]'
 dependency_structure_of_illustration:
   - '[root [nsubj Факт] [cop есть] факт.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Санников В. З. Конструкции с тождественными словоформами (КТС) // Санников В. З. Русский синтаксис в семантико-прагматическом пространстве. Москва: Языки славянских культур, 2008. С. 361-387.
 semantic_types:
   - type: Comparison
     subtypes:

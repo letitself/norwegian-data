@@ -3,7 +3,7 @@ record: 827
 name: 'в течение NP-Gen Cl'
 UD_name: 'в течение NP-Gen Cl'
 illustration: 'В течение семестра он не сходил ни на одну лекцию.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] течение [nmod NP-Gen]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] течение [nmod семестра]] [nsubj он] [advmod не] сходил [obl [advmod ни] [case на] [nummod одну] лекцию].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

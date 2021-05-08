@@ -34,17 +34,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Activity
-  - Agent
   - Beneficiary
+  - Agent
+  - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] дому]]'
   - '[dep NP [nmod [case на] дому]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Врач] принимал [obl [case на] дому].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - лечение
   - работать
@@ -52,7 +54,7 @@ common_fillers:
   - принимать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

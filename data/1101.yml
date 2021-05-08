@@ -3,7 +3,7 @@ record: 1101
 name: 'как бы NP-Nom хотеть-Pst VP-Inf'
 UD_name: 'как бы NP-Nom хотеть-Past VP-Inf'
 illustration: 'Как бы он хотел не слышать этого.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -26,17 +26,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod как] [aux бы] [nsubj NP-Nom] хотеть-Pst [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] [aux бы] [nsubj он] хотел [xcomp [advmod не] слышать [obj этого]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Volition
 family:

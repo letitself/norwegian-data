@@ -32,23 +32,25 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
   - Measure
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case без] перерыва]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] работали [obl [case без] перерыва].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - работать
   - говорить
   - болтать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Phase of action

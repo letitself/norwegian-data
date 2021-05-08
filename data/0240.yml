@@ -18,6 +18,8 @@ examples:
        ― Так что же, вся эта организация ― шутка? ― продолжал Мышкин. ― Ничего себе [шуточки]Stimulus…― пробормотал я.
   - |
        Димка выпрямился и посмотрел на чемоданы. ― Ничего себе [багаж]Stimulus, ― даже присвистнул он. ― Вы что, на целый год приехали?
+  - |
+       Марина представляла, как смотрятся его кривые ножки в темных сатиновых трусах до колена ― и ей становилось дурно, вот штангист был ничего себе.
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -40,6 +42,8 @@ dependency_structure:
   - '[root ничего [iobj себе] [nsubj [det такой] NP]]'
 dependency_structure_of_illustration:
   - '[root Ничего [iobj себе] [nsubj машина].] [root [nsubj Она] [advmod слишком] большая!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

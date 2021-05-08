@@ -32,11 +32,13 @@ dependency_structure:
   - '[root VP-Imp, [conj [cc а [fixed то]] VP-Pfv.Fut]]'
 dependency_structure_of_illustration:
   - '[root Поспеши, [conj [cc а [fixed не] [fixed то]] опоздаешь [obl [case на] экзамен]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Apprehension
     subtypes:

@@ -32,22 +32,24 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
   - Action
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] одиночку]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] работал [obl [case в] одиночку].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ходить
   - работать
   - спать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -3,7 +3,7 @@ record: 1869
 name: 'в дополнение (к сказанному), Cl'
 UD_name: 'в дополнение (к сказанному), Cl'
 illustration: 'В дополнение приведу ответы ещё на один вопрос.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] дополнение] Cl]'
   - '[root [obl [case в] дополнение [nmod [case к] сказанному]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] дополнение] приведу [obj ответы [nmod [advmod ещё] [case на] [nummod один] вопрос]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

@@ -3,7 +3,7 @@ record: 1217
 name: '(NP-Dat) Cop необходимо VP-Inf'
 UD_name: '(NP-Dat) Cop необходимо VP-Inf'
 illustration: 'Тебе необходимо прочитать эту книгу.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] необходимо [csubj VP-Inf]]'
   - '[root [cop Cop] необходимо [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Тебе] необходимо [csubj прочитать [obj [det эту] книгу]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

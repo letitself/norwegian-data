@@ -3,7 +3,7 @@ record: 1013
 name: 'если VP-Pst, то и VP'
 UD_name: 'если VP-Past, то и VP'
 illustration: 'Если у них получилось, то и мы можем.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark если] [obl [case у] них] VP-Pst]'
   - '[mark то] [advmod и] VP]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [obl [case у] них] получилось], [mark то] [nsubj [advmod и] мы] можем.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
 family:

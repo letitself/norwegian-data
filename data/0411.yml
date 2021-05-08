@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий хотел бы, чтобы что-то произошло, но ему приходится согласиться, примириться с какой-либо [ситуацией.]Situation
-  - english: |
-       N/A
-  - norwegian: |
-       N/A
 examples:
   - |
        [От вас я хотел, чтобы вы тоже были принципиальным,]Situation но нет, так нет.
@@ -37,7 +33,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [parataxis [advcl нет] [mark так] нет]]'
@@ -45,11 +41,13 @@ dependency_structure:
   - '[root Cl, [conj [discourse ну] [advcl нет] [mark так] нет]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod не] поедешь?] [root [advcl Нет] [mark так] нет.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
   - type: Reaction to the previous discourse

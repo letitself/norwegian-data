@@ -3,7 +3,7 @@ record: 1772
 name: 'ещё бы – столько не Verb-Inf!'
 UD_name: 'ещё бы – столько не V-Inf!'
 illustration: 'Как ты себя чувствуешь? – Плохо. – Ещё бы – столько не спать!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -30,11 +30,13 @@ dependency_structure:
   - '[root [advmod ещё [fixed бы]] – [advmod столько] [advmod не] Verb-Inf!]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] [nsubj ты] [obj себя] чувствуешь?] [root –Плохо.] [root – [advmod Ещё [fixed бы]] – [advmod столько] [advmod не] спать!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

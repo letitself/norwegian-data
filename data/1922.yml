@@ -41,8 +41,9 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
   - Situation
+  - Activity
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [advmod ни] [case о] [det какой-Loc] NP-Loc] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может]'
@@ -69,7 +70,7 @@ common_fillers:
   - преобразования
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

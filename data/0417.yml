@@ -32,18 +32,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [conj [mark так] нет [advmod же], [parataxis Cl]]!]'
   - '[root Cl, [conj [mark так] нет, [parataxis Cl]]!]'
 dependency_structure_of_illustration:
   - '[root [obj Всё] съел, [conj [mark так] нет [advmod же], [parataxis [iobj ему] мало]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

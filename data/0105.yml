@@ -36,6 +36,7 @@ part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
   - Action
+  - Experiencer
   - Participant
 intonation:
   - Exclamatory
@@ -44,6 +45,8 @@ dependency_structure:
   - '[root [csubj делать] [iobj PronPers-Dat] [cop Cop] нечего!]'
 dependency_structure_of_illustration:
   - '[root [csubj Делать] [iobj тебе] нечего!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - мне
   - ему
@@ -54,7 +57,7 @@ common_fillers:
   - людям
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

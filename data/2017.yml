@@ -3,7 +3,7 @@ record: 2017
 name: 'Много NP-Nom понимать в NP-Loc'
 UD_name: 'Много NP-Nom понимать в NP-Loc'
 illustration: 'Много ты понимаешь в жизни!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        сомнение говорящего в том, что NP разбирается в каком-то конкретном вопросе
@@ -26,12 +26,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod много] [nsubj NP-Nom] понимать [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [advmod Много] [nsubj ты] понимаешь [obl [case в] жизни]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

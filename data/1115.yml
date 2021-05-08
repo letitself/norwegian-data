@@ -3,7 +3,7 @@ record: 1115
 name: 'как нарочно VP'
 UD_name: 'как нарочно VP'
 illustration: 'Он как нарочно забыл предупредить о своем отсутствии.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        ill-fitting the situation, bad luck. Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod [case как] нарочно] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [case как] нарочно] забыл [xcomp предупредить [obl [case о] [det своем] отсутствии]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

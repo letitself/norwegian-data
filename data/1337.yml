@@ -3,7 +3,7 @@ record: 1337
 name: 'NP-Nom представлять из себя NP-Acc'
 UD_name: 'NP-Nom представлять из себя NP-Acc'
 illustration: 'Ты из себя вообще ничего не представляешь!'
-cefr_level: 
+cefr_level: C2
 definitions:
   - russian: |
        Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
@@ -25,12 +25,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] представлять [obl [case из] себя] [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [obl [case из] себя] [advmod вообще] [obj ничего] [advmod не] представляешь!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -37,7 +37,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root поVP-Ipfv.Pst [conj [cc и] хватит]]'
@@ -65,7 +65,7 @@ common_fillers:
   - поплакать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

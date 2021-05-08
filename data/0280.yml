@@ -1,19 +1,23 @@
 ---
 record: 280
-name: 'NP-Nom принять-Pst NP-Acc за NP-Acc'
-UD_name: 'NP-Nom принять-Past NP-Acc за NP-Acc'
+name: 'NP-Nom принять NP-Acc за NP-Acc'
+UD_name: 'NP-Nom принять NP-Acc за NP-Acc'
 illustration: 'Он принял того мужчину за своего отца.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий или участник ситуации обознался/перепутал и отождествил один [объект]Theme с [другим]Prototype.
+       Конструкция обозначает, что [участник]Cognizer ошибочно считает [другого участника]Stimulus [тем, кем он на самом деле не является]Status. Конструкция также может обозначать, что участник ошибочно отождествляет [некоторый объект]Theme, [действие]Action или [состояние]State с [другим]Status. В конструкции может использоваться якорный глагол совершенного вида "принять" и якорный глагол несовершенного вида "принимать".
 examples:
   - |
-       Тут же лицо его осветилось улыбкой, и Маша подумала, что ошиблась, приняв [его]Theme за [англичанина.]Prototype
+       Думаю, [он]Cognizer принял [нас]Stimulus [за туристов из столицы]Status и захочет выпросить денег.
   - |
-       Подали что-то такое белое, я принял [это]Theme за [манную кашу.]Prototype
+       Правда, [она]Cognizer этого не знает, потому что принимает [меня]Stimulus за [Мухина]Status.
   - |
-       Олег принял [её]Theme за [прислугу]Prototype, но друг шепнул ему, что это жена поэта.
+       То ли [он]Cognizer не понял, как испугалась его девушка, то ли принял [ее ужас]State [за восторг]Status.
+  - |
+       Глеб протянул руку и отвёл волосы с лица Мариши. [Мариша]Cognizer приняла [этот жест]Action [за ласку]Status.
+  - |
+       Впрочем, [многие читатели]Cognizer всерьез приняли [книгу]Theme [за реальный учительский дневник]Status и полагали, что ее автора действительно зовут Марина Николаевна.
 morphology:
   - NP
   - Nom
@@ -30,19 +34,26 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - ~
+  - Theme
+  - Action
+  - State
+  - Stimulus
+  - Cognizer
+  - Status
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] принять-Pst [obj NP-Acc] [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] принял [obj [det того] мужчину] [obl [case за] [det своего] отца].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

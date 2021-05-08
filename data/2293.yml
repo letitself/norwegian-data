@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [nummod:gov много] чести [cop Cop] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nummod:gov Много] чести [csubj оправдываться [obl [case перед] ними]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

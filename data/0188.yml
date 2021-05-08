@@ -36,18 +36,20 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
-  - Listener
   - Action
   - State
+  - Participant
+  - Listener
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case на] [det PronPers-Loc] месте] Cl [aux бы]]'
   - '[root [obl [case на] месте [det NP-Gen]] Cl [aux бы]]'
 dependency_structure_of_illustration:
   - '[root [obl [case на] [det его] месте] [nsubj я] [aux бы] поступила [obl [case в] [amod другой] университет]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - твоем
   - вашем
@@ -56,7 +58,7 @@ common_fillers:
   - их
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

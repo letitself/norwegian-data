@@ -3,10 +3,10 @@ record: 813
 name: 'NP-Nom Cop (NP-Dat/для NP-Gen) в самый раз'
 UD_name: 'NP-Nom Cop (NP-Dat/для NP-Gen) в самый раз'
 illustration: 'Для куклы эта шапка в самый раз'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Бывает еще "VP в самый раз" (прибыли в самый раз) = вовремя
+       Бывает еще «VP в самый раз» (прибыли в самый раз) = вовремя
 examples:
 morphology:
   - NP
@@ -28,13 +28,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [iobj NP-Dat] [case в] [amod самый] раз]'
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case для] NP-Gen] [case в] [amod самый] раз]'
 dependency_structure_of_illustration:
   - '[root [obl [case Для] куклы] [nsubj [det эта] шапка] [case в] [amod самый] раз.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -3,7 +3,7 @@ record: 859
 name: 'видит бог, Cl'
 UD_name: 'видит бог, Cl'
 illustration: 'Видит бог, я не желал ей зла.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -14,26 +14,27 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis видит] [nsubj бог]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Видит] [nsubj бог], [nsubj я] [advmod не] желал [iobj ей] [obj зла].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

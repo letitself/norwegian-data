@@ -6,7 +6,7 @@ illustration: 'Ему идти в кино некогда.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает отсутствие у [участника]Experiencer времени, необходимого для осуществления некоторого [действия]Action. Ударение в "некогда" стоит на не-.
+       Конструкция обозначает отсутствие у [участника]Experiencer времени, необходимого для осуществления некоторого [действия]Action. Ударение в «некогда» стоит на не-.
 examples:
   - |
        Правда, работы много и всё так интересно, что некогда [скучать.]Action
@@ -37,20 +37,22 @@ semantic_roles:
   - Experiencer
   - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [csubj VP-Inf] [cop Cop] некогда]'
   - '[root [csubj VP-Inf] [cop Cop] некогда]'
 dependency_structure_of_illustration:
   - '[root [iobj Ему] [csubj идти [obl [case в] кино]] некогда.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - скучать
   - объяснять
   - присесть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

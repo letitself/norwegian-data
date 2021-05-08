@@ -3,7 +3,7 @@ record: 1445
 name: 'такой Noun-Nom - ~Noun-Nom'
 UD_name: 'такой N-Nom - N-Nom'
 illustration: 'Она такая девочка-девочка.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[dep [det такой] Noun-Nom-[conj Noun-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [det такая] девочка-[conj девочка].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

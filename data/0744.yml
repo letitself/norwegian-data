@@ -3,7 +3,7 @@ record: 744
 name: 'будь я проклят, если Cl!'
 UD_name: 'будь я проклят, если Cl!'
 illustration: 'Будь я проклят, если это не так!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -13,8 +13,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Verb
   - Pronoun
@@ -23,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [aux будь] [nsubj я] проклят'
   - '[advcl [mark если] Cl]!]'
 dependency_structure_of_illustration:
   - '[root [aux Будь] [nsubj я] проклят, [advcl [mark если] [nsubj это] [advmod не] так]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

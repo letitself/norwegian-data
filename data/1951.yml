@@ -34,14 +34,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - Possessor
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case с] собой] [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Паша] взял [obl [case с] собой] [obj диктофон].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - увозить
   - привозить
@@ -50,7 +55,7 @@ common_fillers:
   - носить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Possession

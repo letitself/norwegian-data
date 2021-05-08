@@ -3,7 +3,7 @@ record: 1312
 name: 'VP в целях NP-Gen'
 UD_name: 'VP в целях NP-Gen'
 illustration: 'Лучше сделать инъекцию в целях профилактики.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] целях [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Лучше [csubj сделать [obj инъекцию]] [obl [case в] целях [nmod профилактики]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

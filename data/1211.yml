@@ -3,9 +3,11 @@ record: 1211
 name: '(NP-Dat) Cop жаль/жалко NP-Gen/NP-Acc'
 UD_name: '(NP-Dat) Cop жаль/жалко NP-Gen/NP-Acc'
 illustration: 'Коле жалко Олю.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
+       жаль моего друга, чувство досады при утрате или возможности потерять (денег, времени), неодушевленное, жалко шапки
+  - english: |
        жаль моего друга, чувство досады при утрате или возможности потерять (денег, времени), неодушевленное, жалко шапки
 examples:
 morphology:
@@ -25,7 +27,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] жалко [obj NP-Acc]]'
@@ -34,11 +36,13 @@ dependency_structure:
   - '[root [iobj NP-Dat] [cop Cop] жаль [obj NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [iobj Коле] жалко [obj Олю].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

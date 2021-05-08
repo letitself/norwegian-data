@@ -6,14 +6,18 @@ illustration: 'Олень бежит быстрее лани.'
 cefr_level: A2
 definitions:
   - russian: |
-       Сравнительная конструкция, в которой [объект]Theme обладает [определенной характеристикой]Property в большей степени, чем [прототип]Prototype.
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [некоторое состояние]State (примеры 4, 5). У [первого объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [второго]Standard.
 examples:
   - |
-       [Уровень Дона]Theme [выше]Property [уровня Волги]Prototype на 40 метров.
+       Жили в доме и русские, [все]Comparee [старше]Parameter [Георгия Иванова]Standard.
   - |
-       [Волосы]Theme [ниже]Property [колен]Protype цвета кофе с молоком.
+       [Никита]Comparee был [крупнее]Parameter [отца]Standard.
   - |
-       [Кошка]Theme [умнее]Property [собаки.]Prototype
+       [Оплата]Comparee для них [важнее]Parameter [содержания самой работы]Standard.
+  - |
+       [Баранина]Comparee [готовится]State [не дольше]Parameter [говядины]Standard .
+  - |
+       [Лошадь]Comparee [стоит]State [дороже]Parameter [автомобиля]Standard .
 morphology:
   - Adv
   - Cmp
@@ -29,20 +33,25 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - ~
+  - Comparee
+  - Parameter
+  - Standard
+  - State
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[advmod Adv-Cmp [obl NP-Gen]]'
   - '[amod Adj-Cmp [obl NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Олень] бежит [advmod быстрее] [obl лани].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -35,15 +35,18 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
+  - Assosiated
   - Agent
   - Associated
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] компанию]]'
 dependency_structure_of_illustration:
   - '[root Пойдёшь [obl [case с] нами] [obl [case за] компанию]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - пойти
   - сходить
@@ -51,7 +54,7 @@ common_fillers:
   - выпить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
 family:

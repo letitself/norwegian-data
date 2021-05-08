@@ -32,21 +32,23 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case с] наскока]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] решил [obj задачу] [obl [case с] наскока].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - получаться
   - делать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -23,22 +23,23 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] VP [obj NP-Acc] [xcomp NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] поставил [obj [det своего] ученика] [xcomp подсобником].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:
       - type: Status
-  - type: Temporary characteristics
 family:
   - |
     ""

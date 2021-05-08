@@ -37,16 +37,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - State
   - Possessor
   - Theme
   - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case у] NP-Gen] [case на] руках]'
 dependency_structure_of_illustration:
   - '[root [nsubj Документы] [obl [case у] меня] [case на] руках.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - быть
   - есть
@@ -59,7 +62,7 @@ common_fillers:
   - ребенок
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Temporary characteristics

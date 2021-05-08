@@ -25,19 +25,24 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
+  - Participant
+  - Source
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] узнать [obl [case о] NP-Loc] [obl [case от] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Катя] узнала [obl [case об] [det этом] рецепте] [obl [case от] бабушки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of information
 family:

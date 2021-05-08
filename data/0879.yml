@@ -3,9 +3,11 @@ record: 879
 name: 'вот бы (NP-Dat) (никогда не/всегда) VP-Inf!'
 UD_name: 'вот бы (NP-Dat) (никогда не/всегда) VP-Inf!'
 illustration: 'Вот бы никогда не работать!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
+  - |
+       Архипов бойко рассказывал что-то у доски. Так у него это здорово получалось! Вот бы [и мне так научиться!]Action
 morphology:
   - NP
   - Dat
@@ -36,11 +38,13 @@ dependency_structure:
   - '[root [advmod вот] [aux бы] VP-Inf!]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [aux бы] [advmod никогда] [advmod не] работать!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Quantification
     subtypes:

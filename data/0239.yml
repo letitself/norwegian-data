@@ -28,17 +28,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obj ничего] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [obj ничего] [advmod не] ел.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

@@ -6,7 +6,7 @@ illustration: 'За неимением денег мы остались дома
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция выражает причину [ситуации]Situation или [действия]Action. Причиной является то, что некоторый [объект или компонент]Theme отсутствует. Отсутствие объекта или компонента провоцирует данную [ситуацию]Situation. В конструкции может факультативно выражаться [участник с ролью обладателя]Possessor при якорных словах "за неимением" и "за отсутствием".
+       Конструкция выражает причину [ситуации]Situation или [действия]Action. Причиной является то, что некоторый [объект или компонент]Theme отсутствует. Отсутствие объекта или компонента провоцирует данную [ситуацию]Situation. В конструкции может факультативно выражаться [участник с ролью обладателя]Possessor при якорных словах «за неимением» и «за отсутствием».
   - norwegian: |
        Konstruksjonen uttrykker årsaken som ligger til grunn for [en situasjon]Situation eller [en handling]Action. Årsken består i at [et objekt eller en komponent]Theme mangler. Det er mangelen på objektet eller komponenten som forårsaker [situasjonen]Situation. I konstruksjonen er det valgfritt å uttrykke [deltakeren som opptrer som eier]Possessor når ankerordene 'за неимением' og 'за отсутствием' er med.
 examples:
@@ -35,9 +35,12 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Possessor
+  - Theme
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [obl [case за] неимением [nmod [case у] NP-Gen] [nmod NP-Gen]] VP]'
@@ -55,7 +58,7 @@ common_fillers:
   - средства
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Cause

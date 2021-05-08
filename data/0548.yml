@@ -36,17 +36,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] пребывать [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [det все] [det это] время] пребывал [obl [case в] неведении].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

@@ -3,7 +3,7 @@ record: 1512
 name: 'VP-Pst и не ~VP-Pst'
 UD_name: 'VP-Past и не VP-Past'
 illustration: 'Я верил и не верил.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root VP-Pst [conj [cc и] [advmod не] VP-Pst]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] верил [conj [cc и] [advmod не] верил].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция описывает некоторый [материал или покрой]Set, свойственный [какому-либо предмету]Theme. Конструкция обычно используется при описании одежды.
-  - english: |
-       N/A
-  - norwegian: |
-       N/A
 examples:
   - |
        [Джинсы]Theme [клеш]Set снова в моде!
@@ -33,18 +29,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [appos Adj]'
   - '[dep NP [appos Noun]'
 dependency_structure_of_illustration:
   - '[root [case У] нее [cop была] [nsubj юбка [nmod мини] [conj [cc и] платье-[appos футляр]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

@@ -35,22 +35,24 @@ part_of_speech_of_anchor:
   - Pronoun
   - Preposition
 semantic_roles:
-  - Parameter
-  - Participant
   - Theme
+  - Participant
+  - Parameter
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl, [nmod [cc и] [obl все] [case с] NP-Ins]]'
   - '[nmod [cc и] [obl все] [case с] NP-Ins]'
 dependency_structure_of_illustration:
   - '[root Получили [obj платья], [nmod [cc и] [obl все] [case с] браком].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - разный
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Quantification
     subtypes:

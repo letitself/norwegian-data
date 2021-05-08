@@ -3,7 +3,7 @@ record: 1757
 name: 'да/ну я не Verb-Prs'
 UD_name: 'да/ну я не V-Pres'
 illustration: 'Вот собираюсь начать коллекционировать марки! – Ну, я не знаю, по-моему, это не самое увлекательное хобби.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis ну] [nsubj я] [advmod не] Verb-Prs]'
   - '[root [cc да] [nsubj я] [advmod не] Verb-Prs]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] собираюсь [xcomp начать [xcomp коллекционировать [obj марки]]]!] [root – [parataxis Ну], [nsubj я] [advmod не] знаю, [parataxis [parataxis по-моему], [nsubj это] [advmod не] [amod самое] [amod увлекательное] хобби].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

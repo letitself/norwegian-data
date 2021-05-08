@@ -41,13 +41,15 @@ semantic_roles:
   - Agent
   - Status
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case за] NP-Acc]'
   - '[root [nsubj NP-Nom] оставаться [case за] NP-Acc]'
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] [cop был] [case за] старшего.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - старший
   - главный
@@ -57,7 +59,7 @@ common_fillers:
   - командующий
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-Standard Subject
     subtypes:

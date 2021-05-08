@@ -24,20 +24,24 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [dep NP [nmod [case в] большинстве [det своем]]] VP]'
   - '[root [obl PP [nmod [case в] большинстве [det своем]]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дети [nmod [case в] большинстве [det своем]]] [cop были] готовы [obl [case к] школе].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Quantification
     subtypes:
       - type: Proportional

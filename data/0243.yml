@@ -6,7 +6,7 @@ illustration: 'Ничего оно не огромное.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий решительно отрицает [слова]ContentOfSpeech собеседника, категорически с ними не согласен. Обычно говорящий отрицает [характеристику]Evaluation или [действие]Action. Слово "ничего" в данном случае означает "совсем". Слот XP может заполняться глагольной группой, именной группой, предложной группой, прилагательным или наречием.
+       Конструкция обозначает, что говорящий решительно отрицает [слова]ContentOfSpeech собеседника, категорически с ними не согласен. Обычно говорящий отрицает [характеристику]Evaluation или [действие]Action. Слово «ничего» в данном случае означает 'совсем'. Слот XP может заполняться глагольной группой, именной группой, предложной группой, прилагательным или наречием.
   - norwegian: |
        Konstruksjonen betyr at taleren bestemt avviser samtalepartnerens [ord]ContentOfSpeech og er helt uenig i dem. Vanligvis avviser taleren en [karakteristikk]Evaluation eller [en handling]Action. Ordet "ничего" betyr i dette tilfellet "совсем". Sloten XP kan fylles av en verbalfrase, en nominalfrase, et preposisjonsledd, et adjektiv eller et adverb.
 examples:
@@ -39,19 +39,24 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - ContentOfSpeech
+  - Agent
+  - Evaluation
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod ничего] [nsubj NP-Nom] [advmod не] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Ничего] [nsubj оно] [advmod не] огромное.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

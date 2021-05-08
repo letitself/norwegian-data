@@ -3,7 +3,7 @@ record: 831
 name: 'NP/VP в угоду NP-Dat'
 UD_name: 'NP/VP в угоду NP-Dat'
 illustration: 'Он сказал это в угоду начальству.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] угоду] [iobj NP-Dat]]'
   - '[dep NP [nmod [case в] угоду] [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] сказал [obj это] [obl [case в] угоду] [iobj начальству].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Addressee
     subtypes:

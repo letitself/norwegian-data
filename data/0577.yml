@@ -35,11 +35,12 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - Participant
-  - Evaluation
   - Action
+  - Evaluation
+  - Participant
+  - Paticipant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] NP-Nom [nmod VP-Inf]]'

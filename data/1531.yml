@@ -3,7 +3,7 @@ record: 1531
 name: 'уйма NP-Gen'
 UD_name: 'уйма NP-Gen'
 illustration: 'На все расходы ушла уйма денег.'
-cefr_level: A2
+cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает большое количество [объектов]Theme. Объекты могут быть как исчисляемыми (уйма дел), так и неисчисляемыми (деньги, время).
@@ -34,23 +34,27 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep уйма [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] [det все] расходы] ушла [nsubj уйма [nmod денег]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - деньги
   - время
 references:
   - |
-    Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва.
+    См. также Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами. Дисс. канд. филол. наук. Москва.
 semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Booster
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Routine
     subtypes:
       - type: Swearing

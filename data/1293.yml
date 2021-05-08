@@ -37,18 +37,20 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] наказание [obl [case за] NP-Acc]]]'
   - '[root VP [obl [case в] наказание]]'
 dependency_structure_of_illustration:
   - '[root [obj Петю] оставили [advmod дома] [obl [case в] наказание [obl [case за] [amod плохое] поведение]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - грехи
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

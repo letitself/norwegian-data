@@ -3,7 +3,7 @@ record: 2249
 name: 'VP-Ipfv сколько влезет'
 UD_name: 'VP-Imp сколько влезет'
 illustration: 'Да пусть кричат сколько влезет.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,19 +22,23 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP-Ipfv [advcl [advmod сколько] влезет]]'
 dependency_structure_of_illustration:
   - '[root [cc Да] [advmod пусть] кричат [advcl [advmod сколько] влезет].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Quantification
     subtypes:
       - type: Existential

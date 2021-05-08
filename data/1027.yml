@@ -33,18 +33,20 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Theme
-  - State
   - Experiencer
-  - Agent
   - Action
+  - State
+  - Agent
   - Landmark
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [obl [case за] версту]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Зверь] чует [obj опасность] [obl [case за] версту].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - видеть
   - чуять
@@ -54,7 +56,7 @@ common_fillers:
   - нести
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

@@ -35,11 +35,11 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Event
   - Property
+  - Event
   - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case в] силу [nmod NP-Gen]]]'
@@ -48,10 +48,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 817 в силу того, что Cl (В силу того, что ваши рестораны доступны по цене, в них собирается много разных людей).'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

@@ -6,7 +6,7 @@ illustration: 'Мне лень готовить.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция выражает нежелание [участника]Experiencer выполнять некоторое [действие]Action. Это отношение к действию представляется как состояние участника, которое слабо поддается его контролю. Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии.  Используется исключительно в разговорной речи между равными по статусу участниками. Связочный глагол не согласуется по роду со словом "лень" и в прошедшем времени имеет форму среднего рода: "было".
+       Конструкция выражает нежелание [участника]Experiencer выполнять некоторое [действие]Action. Это отношение к действию представляется как состояние участника, которое слабо поддается его контролю. Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии.  Используется исключительно в разговорной речи между равными по статусу участниками. Связочный глагол не согласуется по роду со словом «лень» и в прошедшем времени имеет форму среднего рода: «было».
   - norwegian: |
        Konstruksjonen uttrykker [deltakerens]Experiencer motvilje mot å utføre en gitt [handling]Action. Denne holdningen til handlingen fremstår som en tilstand deltakeren selv bare i liten grad kan kontrollere.  Den negative holdningen til handlingen består i mangel på entusiasme og en tilstand av kjedsomhet og apati. Brukes utelukkende i dagligtale av deltakere med lik status. Bindeverbet kongruerer ikke i kjønn med ordet 'лень' og har i fortid intetkjønnsform: 'было'.
 examples:
@@ -35,10 +35,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Predicative
 semantic_roles:
-  - Action
   - Experiencer
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] лень [cop Cop] [csubj VP-Inf]]'

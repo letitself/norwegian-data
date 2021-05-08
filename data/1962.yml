@@ -3,7 +3,7 @@ record: 1962
 name: 'Cl, что с NP-Gen Cop взять?'
 UD_name: 'Cl, что с NP-Gen Cop взять?'
 illustration: 'Он даже не закончил школу, что с него взять?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        сомнение говорящего в компетентности человека, про которого говорится Subgroup 3: Unimportant: negative evaluation. Negative assessment because the object does not have enough value. Object is evaluated as unimportant. The value is diminished (+ возможно, поэтому предъявляем заниженные требования к объекту)
@@ -26,13 +26,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[parataxis [obj что] [obl [case с] NP-Gen] [cop Cop] взять]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod даже] [advmod не] закончил [obj школу], [parataxis [obj что] [obl [case с] него] взять]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

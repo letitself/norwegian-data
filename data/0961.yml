@@ -3,7 +3,7 @@ record: 961
 name: 'дело дойти/доходить до NP-Gen'
 UD_name: 'дело дойти/доходить до NP-Gen'
 illustration: 'Дело доходит до драки.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -16,8 +16,7 @@ syntactic_function_of_anchor:
   - Verb Predicate
   - Government
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
@@ -25,20 +24,24 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj дело] дойти [obl [case до] NP-Gen]]'
   - '[root [nsubj дело] доходить [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] доходит [obl [case до] драки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

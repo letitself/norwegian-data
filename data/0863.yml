@@ -3,7 +3,7 @@ record: 863
 name: 'NP вкупе с NP-Ins'
 UD_name: 'NP вкупе с NP-Ins'
 illustration: 'Сижу изучаю расписание электричек вкупе с картой Подмосковья.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[dep NP [nmod [advmod вкупе] [case с] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root Сижу [parataxis изучаю] [obj расписание [nmod электричек]] [advmod вкупе [obl [case с] картой [nmod Подмосковья]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Additive
 family:

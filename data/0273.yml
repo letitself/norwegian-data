@@ -6,14 +6,12 @@ illustration: 'Подумаешь, немного опоздал!'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий относится к какой-либо [ситуации]Theme с пренебрежением, иронией, насмешкой.
+       Конструкция обозначает, что говорящий относится к некоторой [ситуации]Situation или [обстоятельству]Circumstances с пренебрежением, иронией, насмешкой. Говорящий считает, что эта ситуация или обстоятельство не является чем-то важным, что ими можно пренебречь, проигнорировать, не принимать во внимание.
   - english: |
-       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern.
+       Attitude of indifference vs. care, unconcern
 examples:
   - |
        Подумаешь, [обидится!]Theme
-  - |
-       Подумаешь, [ воображала какая!]Theme
   - |
        Подумаешь, [тройка]Theme! Это необязательный предмет.
 morphology:
@@ -30,18 +28,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis подумаешь]'
   - 'Cl!]'
 dependency_structure_of_illustration:
   - '[root [parataxis Подумаешь], [advmod немного] опоздал!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

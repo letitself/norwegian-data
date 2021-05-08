@@ -32,16 +32,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Set
   - Element
+  - Set
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] счёт [nmod NP-Gen]]]'
   - '[dep NP [nmod [case в] счёт [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] купила [obj холодильник] [obl [case в] счёт [nmod [amod будущей] зарплаты]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - выкуп
   - долг
@@ -52,7 +54,7 @@ common_fillers:
   - купить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Inclusive
   - type: Subset

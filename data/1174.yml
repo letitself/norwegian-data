@@ -31,22 +31,24 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Comparee
   - Element
-  - Standard
+  - Comparee
   - Theme
+  - Standard
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case типа] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[obj Дом [nmod [case типа] хижины]]'
+comment: |
+    'См. близкую конструкцию 1204 NP/VP по типу NP-Gen (Головная боль по типу мигрени)'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

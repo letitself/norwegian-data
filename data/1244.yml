@@ -36,10 +36,10 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Predicative
 semantic_roles:
-  - Participant
   - Action
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [advmod не] нужно [csubj VP-Inf]]'
@@ -55,7 +55,7 @@ common_fillers:
   - надоедать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

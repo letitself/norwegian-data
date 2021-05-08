@@ -3,8 +3,10 @@ record: 2011
 name: 'как/лишь/едва только Cl, Cl'
 UD_name: 'как/лишь/едва только Cl, Cl'
 illustration: 'Как только услышу, сразу прибегу.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие]Action совершается сразу после другого кратковременного [действия]Event, которое служит его условием или причиной. Как если бы достаточно было произойти некоторому действию, чтобы за ним сразу произошло другое. Такая комбинация двух действий может иметь место один раз или многократно.
 examples:
 morphology:
   - Cl
@@ -20,8 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
-  - Exclamatory
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark как [fixed только]] Cl], Cl]'
@@ -29,11 +30,13 @@ dependency_structure:
   - '[root [advcl [mark едва [fixed только]] Cl], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Как [fixed только]] услышу], [advmod сразу] прибегу.]'
+comment: |
+    'См. похожую конструкцию 316.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Taxis

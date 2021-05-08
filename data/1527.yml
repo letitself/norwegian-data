@@ -6,7 +6,7 @@ illustration: 'Он страшный как чёрт!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает высокую степень проявления некоторого [свойства]Property у участника ситуации. Как правило, конструкция имеет негативный оттенок, и слот прилагательного Adj заполняется словами "злой", "голодный" и т. д. Иногда конструкция может выражать и положительную оценку (пример 4).
+       Конструкция обозначает высокую степень проявления некоторого [свойства]Property у участника ситуации. Как правило, конструкция имеет негативный оттенок, и слот прилагательного Adj заполняется словами «злой», «голодный» и т. д. Иногда конструкция может выражать и положительную оценку (пример 4).
 examples:
   - |
        Тимоша сидел на террасе с бутылкой пива, явно [злой]Property как черт.
@@ -32,12 +32,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod Adj [obl [case как] чёрт]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] страшный [obl [case как] чёрт]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - злой
   - страшный
@@ -45,7 +47,7 @@ common_fillers:
   - голодный
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

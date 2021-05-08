@@ -3,7 +3,7 @@ record: 1632
 name: 'VP в последний момент'
 UD_name: 'VP в последний момент'
 illustration: 'Ей сделали визу в последний момент.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] [amod последний] момент]]'
 dependency_structure_of_illustration:
   - '[root [iobj Ей] сделали [obj визу] [obl [case в] [amod последний] момент].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

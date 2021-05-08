@@ -36,13 +36,15 @@ semantic_roles:
   - Action
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] целости [conj [cc и] сохранности]]]'
   - '[root VP [obl [case в] целости]]'
 dependency_structure_of_illustration:
   - '[root [obj Посылку] доставили [obl [case в] целости [conj [cc и] сохранности]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - оставаться
   - остаться
@@ -52,7 +54,7 @@ common_fillers:
   - вернуть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

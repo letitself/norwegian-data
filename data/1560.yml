@@ -6,7 +6,7 @@ illustration: 'Магазин тут в трех шагах.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся на [небольшом расстоянии]Distance от [места или объекта-ориентира]Landmark. Реальное расстояние длиннее, но конструкция подчеркивает, что дистанция очень мала (как если бы это было несколько шагов), и ее можно легко и быстро преодолеть. Синонимами являются слова "близко", "рядом". Чаще всего используются числительные "двух", "трёх", "пяти", "нескольких". Как если бы числовой ориентир представлялся препятствием, которое преодолела некоторая количественная характеристика и оказалась ЗА ним.
+       Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation находятся на [небольшом расстоянии]Distance от [места или объекта-ориентира]Landmark. Реальное расстояние длиннее, но конструкция подчеркивает, что дистанция очень мала (как если бы это было несколько шагов), и ее можно легко и быстро преодолеть. Синонимами являются слова «близко», «рядом». Чаще всего используются числительные «двух», «трёх», «пяти», «нескольких». Как если бы числовой ориентир представлялся препятствием, которое преодолела некоторая количественная характеристика и оказалась ЗА ним.
   - norwegian: |
        Konstruksjonen betyr at [en deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation befinner seg i [kort avstand]Distance fra [et orienteringspunkt eller et orienteringsobjekt]Landmark. Den reelle avstanden er større, men konstruksjonen understreker at avstanden er svært liten (som om det var noen skritt) og at den kan tilbakelegges lett og raskt. Synonymer er ordene 'близко' og 'рядом'. Som oftest brukes tallordene 'двух', 'трёх', 'пяти' og 'нескольких'.
 examples:
@@ -34,18 +34,20 @@ part_of_speech_of_anchor:
   - Noun
   - Preposition
 semantic_roles:
-  - Participant
   - Theme
+  - Landmark
   - Situation
   - Distance
-  - Landmark
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl [case в] [nummod NumCrd-Loc] шагах]'
 dependency_structure_of_illustration:
   - '[root [nsubj Магазин] [advmod тут] [case в] [nummod трех] шагах.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - стоять
   - сидеть
@@ -60,7 +62,7 @@ common_fillers:
   - нескольких
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

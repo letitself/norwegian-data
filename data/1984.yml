@@ -3,7 +3,7 @@ record: 1984
 name: 'VP до (NumOrd/NumCrd) NP-Gen включительно'
 UD_name: 'VP до (NumOrd/NumCrd) NP-Gen включительно'
 illustration: 'Заявки на конференцию принимаются до 25 августа включительно.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -24,9 +24,9 @@ part_of_speech_of_anchor:
   - Adverb
   - Preposition
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case до] NumOrd [flat NP-Gen] [advmod включительно]]]'
@@ -34,11 +34,13 @@ dependency_structure:
   - '[root VP [obl [case до] NP-Gen [advmod включительно]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Заявки [nmod [case на] конференцию]] принимаются [obl [case до] 25 [flat августа] [advmod включительно]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Inclusive
   - type: Temporal expression

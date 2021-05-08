@@ -35,11 +35,13 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - Participant
   - Theme
+  - Participant
   - Concession
+  - Situation
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [advmod ладно] XP], [cc но] XP]'
@@ -59,7 +61,7 @@ common_fillers:
   - ты
 references:
   - |
-    см. Подкласс 7 "Условие, на котором говорящий готов пойти на уступку" (стр. 36) в Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, N. 5, 1999. с. 24-44. 
+    См. подкласс 7 "Условие, на котором говорящий готов пойти на уступку" (стр. 36) в Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, 1999, № 5. С. 24-44. 
 semantic_types:
   - type: Comparison
     subtypes:

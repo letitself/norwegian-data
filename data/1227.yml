@@ -3,7 +3,7 @@ record: 1227
 name: 'VP на равных с NP-Ins'
 UD_name: 'VP на равных с NP-Ins'
 illustration: 'Дети работали на равных со взрослыми.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] равных [nmod [case со] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дети] работали [obl [case на] равных [nmod [case со] взрослыми]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -38,7 +38,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [csubj Cl] [advmod не] равно [xcomp NumCrd-Nom]]'
@@ -49,11 +49,13 @@ dependency_structure:
   - '[root [csubj Cl] равняется [xcomp NumCrd-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Два [nmod [case плюс] один]] [advmod не] равно [xcomp пяти].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Calculation
     subtypes:

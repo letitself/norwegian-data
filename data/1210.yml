@@ -6,7 +6,7 @@ illustration: 'Мне спать охота.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция выражает желание ("охота") или нежелание ("неохота") [участника]Experiencer выполнять некоторое [действие]Action. Это отношение к действию представляется как состояние участника, которое слабо поддается его контролю. Положительное отношение ("охота") как правило подразумевает физические или естественные потребности человека (спать, есть, пить и пр.). Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии. Используется как правило в разговорной речи между равными по статусу участниками. Связочный глагол не согласуется по роду со словами "охота" и "неохота" и в прошедшем времени имеет форму среднего рода: "было".
+       Конструкция выражает желание («охота») или нежелание («неохота») [участника]Experiencer выполнять некоторое [действие]Action. Это отношение к действию представляется как состояние участника, которое слабо поддается его контролю. Положительное отношение («охота») как правило подразумевает физические или естественные потребности человека (спать, есть, пить и пр.). Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии. Используется как правило в разговорной речи между равными по статусу участниками. Связочный глагол не согласуется по роду со словами «охота» и «неохота» и в прошедшем времени имеет форму среднего рода: «было».
   - norwegian: |
        Konstruksjonen uttrykker hvorvidt [deltakeren]Experiencer har lyst ('охота') eller ikke har lyst ('неохота') til å utføre en gitt [handling]Action. Denne holdningen til handlingen fremstår som en tilstand deltakeren selv bare i liten grad kan kontrollere. Når holdningen er positiv ('охота'), gjelder det som regel et menneskes fysiske eller naturlige behov (sove, spise, drikke mm.), mens en negativ holdning til handlingen består i mangel på entusiasme og en tilstand av kjedsomhet og apati. Brukes utelukkende i dagligtale mellom deltakere med lik status. Bindeverbet kongruerer ikke i kjønn med ordene 'охота' og 'неохота' og har i fortid intetkjønnsform: 'было'.
 examples:
@@ -36,16 +36,18 @@ part_of_speech_of_anchor:
   - Predicative
   - Negation Marker
 semantic_roles:
-  - Action
   - Experiencer
+  - Action
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj NP-Dat] охота [cop Cop] [csubj VP-Inf]]'
   - '[root [iobj NP-Dat] неохота [cop Cop] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [csubj спать] охота.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - спать
   - есть

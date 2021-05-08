@@ -37,18 +37,20 @@ part_of_speech_of_anchor:
   - Noun
   - Preposition
 semantic_roles:
+  - Action
   - Theme
   - Distance
-  - Action
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] радиусе [nmod [nummod NumCrd-Gen] NP-Gen]]'
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case в] радиусе [nmod [nummod NumCrd-Gen] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] радиусе [nmod [nummod двух] километров [nmod [case от] дома]]] нет [nsubj связи].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - километр
   - метр
@@ -57,7 +59,7 @@ common_fillers:
   - нет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

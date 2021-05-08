@@ -3,7 +3,7 @@ record: 2178
 name: 'NP-Nom играть Adj роль'
 UD_name: 'NP-Nom играть Adj роль'
 illustration: 'Одежда играет важную роль на собеседовании.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Rationalistic evaluation of importance and value of an object (оценка важности, ценности), role, power, impact. Subgroup 1: object or subject is evaluated: important and positive
@@ -24,12 +24,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] играть [obj [amod Adj-Acc] роль]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Одежда] играет [obj [amod важную] роль] [obl [case на] собеседовании].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

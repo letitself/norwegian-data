@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] до-Verb-ся [obl [case до] NP-Gen]]'
   - '[root [nsubj NP-Nom] до-Verb-ся]'
 dependency_structure_of_illustration:
   - '[root [nsubj Евгения [flat:name Борисовна]] [obl [case без] [det всякой] причины] дохохоталась [obl [case до] боли [nmod [case в] животе]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

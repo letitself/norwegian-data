@@ -3,7 +3,7 @@ record: 1720
 name: 'NP-Nom стоять в/на NP-Loc'
 UD_name: 'NP-Nom стоять в/на NP-Loc'
 illustration: 'Бутылка стоит на столе.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] стоять [obl [case в] NP-Loc]]'
   - '[root [nsubj NP-Nom] стоять [obl [case на] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Бутылка] стоит [obl [case на] столе].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

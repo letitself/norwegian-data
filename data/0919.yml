@@ -2,10 +2,24 @@
 record: 919
 name: 'VP NP-Acc из NP-Gen'
 UD_name: 'VP NP-Acc из NP-Gen'
-illustration: 'Они вышвырнули кота из дома.'
-cefr_level: 
+illustration: 'Они выгнали кота из дома.'
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает некоторое действие, в процессе которого некоторый участник перемящает объект из одного места в другое или заставляет другого участника покинуть некоторе исходное место. Местом может быть конкретное пространство (дом), организация (школа), или абстрактное место (сердце, память, книжка).
+  - english: |
+       Source
+  - norwegian: |
+       каузация объекта
 examples:
+  - |
+       Сын постоянно играет в компьютерные игры. Уже подумываем [компьютер]Theme из [дома]Location [убрать.]Action
+  - |
+       У меня и в мыслях не было [выдернуть]Action [картинку]Theme из [книжки]Location или спрятать книжку и не отдать.
+  - |
+       Зачастую отец испытывает настоящую жгучую ревность к крошечному существу, которое якобы сумело вытеснить его из сердца жены.
+  - |
+       Передай матери, что я исключаю тебя из школы!
 morphology:
   - VP
   - NP
@@ -20,23 +34,32 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - ~
+  - Action
+  - Theme
+  - Location
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root VP [obj NP-Acc] [obl [case из] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] вышвырнули [obj кота] [obl [case из] дома].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:
       - type: Direct
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Source
 family:
   - |
     ""

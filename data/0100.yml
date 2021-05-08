@@ -35,7 +35,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Goal
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root далеко [obl [case до] дома]]'
@@ -50,7 +50,7 @@ common_fillers:
   - дом
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

@@ -3,7 +3,7 @@ record: 1450
 name: 'NP-Nom Cop нисколько не Adj-Cmp (NP-Gen/чем NP-Nom)'
 UD_name: 'NP-Nom Cop нисколько не Adj-Cmp (NP-Gen/чем NP-Nom)'
 illustration: 'Этот холодильник нисколько не хуже других.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod нисколько] [advmod не] Adj-Cmp [obl NP-Gen]]'
   - '[root [nsubj NP-Nom] [cop Cop] [advmod нисколько] [advmod не] Adj-Cmp [obl [case чем] NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] холодильник] [advmod нисколько] [advmod не] хуже [obl других].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

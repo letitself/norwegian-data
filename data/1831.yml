@@ -6,7 +6,7 @@ illustration: 'У меня в доме живет и теща, то есть м�
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами "то есть", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами «то есть», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
   - norwegian: |
        Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som står etter ordene 'то есть', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Sloten XP kan fylles av en nominalfrase, preposisjonsfrase eller en verbalfrase.
 examples:
@@ -35,21 +35,24 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
+  - Content
   - Topic
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root XP'
   - '[appos [mark то [fixed есть]] XP]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [obl [case в] доме] живет [cc и] [nsubj теща, [appos [mark то [fixed есть]] мать [nmod [det моей] жены]]], [conj [cc и] дети].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

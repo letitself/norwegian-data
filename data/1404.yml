@@ -36,16 +36,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Action
   - Possessor
   - Theme
   - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [case в] распоряжении [cop Cop] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] нас] [case в] распоряжении [nsubj [nummod:gov два] часа].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - находиться
   - иметься
@@ -53,7 +56,7 @@ common_fillers:
   - нет.
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Temporary characteristics

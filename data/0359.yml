@@ -27,15 +27,14 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj чёрт] знает [ccomp PronInt]!]'

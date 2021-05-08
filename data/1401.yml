@@ -3,7 +3,7 @@ record: 1401
 name: 'NP-Nom Cop мимо кассы'
 UD_name: 'NP-Nom Cop мимо кассы'
 illustration: 'Все эти рассуждения мимо кассы.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -24,12 +24,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case мимо] кассы]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Все] [det эти] рассуждения] [case мимо] кассы.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

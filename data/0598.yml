@@ -34,12 +34,12 @@ part_of_speech_of_anchor:
   - Adverb
   - Particle
 semantic_roles:
-  - Activity
+  - Result
   - Agent
   - Event
-  - Result
+  - Activity
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root VP-Pst-[conj VP-Pst] [conj [cc и] [advmod наконец-[advmod то]] VP-Pst]]'
@@ -54,7 +54,7 @@ common_fillers:
   - ехал
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

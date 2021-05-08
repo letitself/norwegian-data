@@ -3,7 +3,7 @@ record: 1974
 name: 'VP путём NP-Gen'
 UD_name: 'VP путём NP-Gen'
 illustration: 'Структуру можно расширить путём добавления новых элементов.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case путём] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obj Структуру] можно [csubj расширить [obl [case путём] добавления [nmod [amod новых] элементов]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
 family:

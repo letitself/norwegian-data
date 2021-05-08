@@ -3,7 +3,7 @@ record: 1093
 name: 'к тому же Cl'
 UD_name: 'к тому же Cl'
 illustration: 'К тому же каждый день шёл снег.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case к] тому [advmod же]] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case К] тому [advmod же]] [obl [det каждый] день] шёл [nsubj снег].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

@@ -37,13 +37,17 @@ semantic_roles:
   - Action
   - Agent
   - Associated
+  - Counteragent
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [obl [case в] сопровождении [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Директор] вошёл [obl [case в] сопровождении [nmod секретаря]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - идти
   - вернуться
@@ -55,7 +59,7 @@ common_fillers:
   - подруги
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
 family:

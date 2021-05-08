@@ -33,10 +33,10 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
-  - Speaker
   - Action
+  - Speaker
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case во] [det всё] горло]]'
@@ -52,7 +52,7 @@ common_fillers:
   - хохотать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

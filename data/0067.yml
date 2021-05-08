@@ -40,12 +40,14 @@ part_of_speech_of_anchor:
   - Adverb
   - Conjunction
 semantic_roles:
-  - Quantity
+  - Event
+  - Theme
   - Time
   - Action
   - Situation
+  - Quantity
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod вот] [advmod уже] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl].]'
@@ -53,6 +55,8 @@ dependency_structure:
   - '[root [obl [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP] [mark как] Cl.]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod уже] [nummod:gov три] месяца [acl [mark как] [nsubj она] уехала].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - лет
   - года
@@ -61,9 +65,11 @@ common_fillers:
   - минут
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Phase of action
     subtypes:
       - type: Continuative

@@ -35,18 +35,21 @@ semantic_roles:
   - Action
   - Comparee
   - Standard
+  - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[dep рубашка [nmod [case на] манер [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[obj Рубашка [nmod [case на] манер [nmod униформы]]]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

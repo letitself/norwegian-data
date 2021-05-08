@@ -3,7 +3,7 @@ record: 1328
 name: 'NP с запахом/вкусом NP-Gen'
 UD_name: 'NP с запахом/вкусом NP-Gen'
 illustration: 'Мороженое со вкусом клубники'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case с] запахом] [appos NP-Gen]]'
   - '[dep NP [nmod [case со] вкусом] [appos NP-Gen]]'
 dependency_structure_of_illustration:
   - '[obj Мороженое [nmod [case со] вкусом] [appos клубники]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

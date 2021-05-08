@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция используется для выражения [цели или намерения]Goal выполнения [некоторого действия.]Action Конструкция чаще всего используется в официальном общении. Запятая нужна только для отделения наименования [действия]Action от самой конструкции.
-  - english: |
-       N/A
-  - norwegian: |
-       N/A
 examples:
   - |
        [Российская компания передала итальянской стороне разработки нового самолёта]Action, с тем чтобы [потом организовать его совместное производство]Goal.
@@ -36,18 +32,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root Cl, [obl [case с] тем] [acl [mark чтобы] VP-Inf]]'
   - '[root Cl, [obl [case с] тем] [acl [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] встретимся, [obl [case с] тем] [acl [mark чтобы] закончить [obj [det эту] работу]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

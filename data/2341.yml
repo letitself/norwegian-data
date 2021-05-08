@@ -41,7 +41,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [advmod здесь] [advmod не] VP-Ipfv.3.Prs.Pl]'
@@ -59,7 +59,7 @@ common_fillers:
   - торгуются
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

@@ -3,7 +3,7 @@ record: 2118
 name: 'NP-Nom должный-Short/обязанный-Short Cop VP-Inf'
 UD_name: 'NP-Nom должный-Short/обязанный-Short Cop VP-Inf'
 illustration: 'Михаил должен перевести книгу к марту.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -27,18 +27,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] должный-Short [cop Cop] [xcomp VP-Inf]]'
   - '[root [nsubj NP-Nom] обязанный-Short [cop Cop] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Михаил] должен [xcomp перевести [obj книгу] [obl [case к] марту]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

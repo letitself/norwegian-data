@@ -34,12 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep врач [nmod [case с] [amod большой] буквы]]'
 dependency_structure_of_illustration:
   - '[nsubj Врач [nmod [case с] [amod большой] буквы]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod несмотря [obl [advmod ни] [case на] что]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] добьюсь [obj своего], [advmod несмотря [obl [advmod ни] [case на] что]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

@@ -3,7 +3,7 @@ record: 899
 name: 'впрочем, Cl'
 UD_name: 'впрочем, Cl'
 illustration: 'Впрочем, кино получилось затянутым.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis впрочем]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Впрочем], [nsubj кино] получилось [xcomp затянутым].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
   - type: Discourse structure

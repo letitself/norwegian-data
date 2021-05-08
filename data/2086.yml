@@ -20,7 +20,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep пол-NumOrd-Gen]'
@@ -33,11 +33,13 @@ dependency_structure:
   - '[dep половина [nmod NumOrd-Gen] [nmod ночи]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] вернулись [advmod домой] [obl пол-восьмого].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

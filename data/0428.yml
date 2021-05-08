@@ -33,13 +33,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [conj [cc а] так, [parataxis Cl]]]'
   - '[root Cl, [parataxis так, [parataxis Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [iobj мне] [advmod не] нравилась, [conj [cc а] так, [parataxis баловство [det одно]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

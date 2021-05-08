@@ -3,7 +3,7 @@ record: 1985
 name: 'VP среди прочего/прочих XP'
 UD_name: 'VP среди прочего/прочих XP'
 illustration: 'Этот статус среди прочего давал право носить оружие.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case среди] прочего] [dep XP]]'
   - '[root VP [obl [case среди] прочих] [dep XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] статус] [obl [case среди] прочего] давал [obj право [nmod носить [obj оружие]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

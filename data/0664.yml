@@ -36,18 +36,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP-Pfv [obl [case в] [nummod:gov два] счёта]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] могу [xcomp договориться] [obl [case в] [nummod:gov два] счёта].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - найти
   - научиться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

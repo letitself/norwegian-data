@@ -34,16 +34,18 @@ part_of_speech_of_anchor:
   - Verb
   - Noun
 semantic_roles:
-  - Situation
   - Action
   - Property
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] принять [obj [amod Adj] оборот]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дело] приняло [obj [amod неожиданный] оборот].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - неожиданный
   - серьёзный
@@ -53,7 +55,7 @@ common_fillers:
   - события
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

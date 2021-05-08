@@ -25,7 +25,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [dep XP] [obl [advmod ни] [case в] [det какие] ворота] [advmod не] лезть]'
@@ -33,11 +33,13 @@ dependency_structure:
   - '[root [dep XP] [advmod ни] [case в] [det какие] ворота]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Такое] поведение] [obl [advmod ни] [case в] [det какие] ворота] [advmod не] лезет!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Assessment
     subtypes:

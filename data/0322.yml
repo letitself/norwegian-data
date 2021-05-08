@@ -35,18 +35,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [det такой [advmod же]] XP'
   - '[obl [case как] [advmod и] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Сын] [det такой [advmod же]] высокий, [advmod [case как] и] [obl отец].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

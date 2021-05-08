@@ -3,7 +3,7 @@ record: 2126
 name: 'NP-Dat иметь смысл VP-Inf'
 UD_name: 'NP-Dat иметь смысл VP-Inf'
 illustration: 'Вам имеет смысл обратиться к специалистам.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] иметь [obj смысл] [csubj VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [iobj Вам] имеет [obj смысл] [csubj обратиться [obl [case к] специалистам]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

@@ -39,7 +39,7 @@ semantic_roles:
   - Action
   - Participant
 intonation:
-  - ~
+  - Exclamatory
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] [csubj:pass VP-Ipfv.Inf] [cop Cop] запрещено!]'
@@ -55,7 +55,7 @@ common_fillers:
   - купаться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

@@ -36,24 +36,26 @@ part_of_speech_of_anchor:
   - Pronoun
   - Preposition
 semantic_roles:
-  - Comparee
   - Evaluation
-  - Participant
-  - Standard
   - Theme
+  - Standard
+  - Comparee
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root кто-то [nmod [case вроде] NP-Gen]]'
   - '[root что-то [nmod [case вроде] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod не] хочу, [mark чтобы] [nsubj кто-то [nmod [case вроде] тебя]] [ccomp распространял] [obj ложь] [iobj [det моим] друзьям].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -6,18 +6,22 @@ illustration: 'Большинство звонков носило консуль
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что какой-либо предмет, событие или явление имеет/заключает в себе какое-то [отличительное свойство или особенность]Property.
+       Конструкции выражает общую характеристику [объекта]Theme, присваивая ему некоторое [качество]Property или отмечая его [особенности]Property.
   - english: |
        This construction means that something, e.g. большинство звонков ‘the majority of the calls’, is of a certain character, e.g. носило консультационный характер ‘had a consultative character’.
   - norwegian: |
        Konstruksjonen betyr at noe er av en viss karakter, f.eks. большинство звонков имело консультационный характер ‘de fleste telefonsamtalene hadde veiledningskarakter’.
 examples:
   - |
-       Конный спорт на Кавказе носит [национально-бытовой]Property характер.
+       Еще [несколько писем]Theme имели [деловой]Property характер, к ним были прикреплены файлы с текстами договоров, проектами, бизнес-планами и предложениями.
   - |
-       Многие наставления родителей носят [рекомендательный]Property характер, подразумевая возможность выбора.
+       Mинистр нефтяной промышленности заявил, что [снижение цен на нефть]Theme во второй половине года носит [временный]Property характер.
   - |
-       Очевидно, что это дело носит [политический]Property характер.
+       Рост продаж кондиционеров наблюдается уже сейчас, покупатели хотят подготовиться к жаркому лету, хотя прежде [спрос на эту технику]Theme имел [сезонный]Property характер.
+  - |
+       При управлении финансовыми потоками должны учитываться факторы, [многие из которых]Theme носят [случайный]Property характер.
+  - |
+       [Многие наставления]Theme родителей носят [рекомендательный]Property характер, подразумевая возможность выбора.
 morphology:
   - NP
   - Nom
@@ -33,20 +37,29 @@ part_of_speech_of_anchor:
   - Verb
   - Noun
 semantic_roles:
-  - ~
+  - Theme
+  - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [nsubj NP-Nom] носить [obj [amod Adj-Acc] характер-Acc]]'
   - '[root [nsubj NP-Nom] иметь [obj [amod Adj-Acc] характер-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Большинство [nmod звонков]] носило [obj [amod консультационный] характер].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - деловой
+  - временный
+  - случайный
+  - сезонный
+  - рекомендательный
+  - политический
+  - священный
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий подтверждает правдивость суждения собеседника о [некоторой ситуации]Situation или ее [обстоятельствах]Theme и акцентирует на этом особое внимание. Обычно конструкция используется в ситуации диалога и выражает реакцию говорящего на предшествующую реплику собеседника (примеры 1, 2, 3). Конструкция также встречается при передаче внутренней речи говорящего, которая конструируется как диалог говорящего с самим собой (примеры 4, 5). Часто произносится с укором или назиданием.
+  - english: |
+       The construction means that the speaker confirms the correctness of the conversation partner’s judgement about [a situation]Situation or its [circumstances]Theme and emphasizes this.  Usually, this construction is used in a dialogue and expresses the speaker’s reaction to the preceding remark of his/her conversation partner (examples 1, 2, 3). The construction can also occur when presenting the inner monologue of the speaker that is constructed as a conversation in which the speaker is talking to him- or herself (examples 4, 5). Often said in a reproachful or instructive tone.
   - norwegian: |
        Konstruksjonen betyr at taleren bekrefter riktigheten av samtalepartnerens utsagn om [en gitt situasjon]Situation eller [omstendighetene]Theme rundt den, og vektlegger dette. Vanligvis brukes konstruksjonen i en dialogsituasjon og uttrykker talerens reaksjon på samtalepartnerens foregående replikk (eksempel 1, 2 og 3). Konstruksjonen forekommer også ved gjengivelse av indre tale når den tar form av en dialog taleren fører med seg selv (eksempel 4 og 5). Fremføres ofte i en bebreidende eller belærende tone.
 examples:
@@ -34,21 +36,23 @@ part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
 semantic_roles:
-  - Situation
   - Theme
+  - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
   - '[root [advmod вот] [nsubj то-[advmod то]] [advmod и] оно, [acl:relcl [mark что] Cl/XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj То-то] [advmod и] оно, [mark что] [obl [case от] меня] [nsubj ничего] [advmod не] [acl:relcl зависит].]'
+comment: |
+    'См. близкие по значению конструкции 50 и 1813.'
 common_fillers:
   - NA
 references:
   - |
-    
+    См. также статью Добровольский Д. О., Левонтина И. Б. Тимиологический компонент в семантике русских дискурсивных слов // Труды Института русского языка им. В. В. Виноградова, 2014. № 2. С. 334–343.
 semantic_types:
   - type: Discourse structure
     subtypes:

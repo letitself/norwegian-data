@@ -3,7 +3,7 @@ record: 1153
 name: 'какой (же) NP-Nom Cop NP-Nom!'
 UD_name: 'какой (же) NP-Nom Cop NP-Nom!'
 illustration: 'Какой же он дурак!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -30,6 +30,8 @@ dependency_structure:
   - '[root [det какой] [nsubj NP-Nom] [cop Cop] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root [det Какой [advmod же]] [nsubj он] дурак!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

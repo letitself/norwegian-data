@@ -14,8 +14,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
@@ -24,7 +23,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [conj [cc а] [advmod там [advmod уж]] будь, [csubj [nsubj что] будет]]]'
@@ -32,11 +31,13 @@ dependency_structure:
   - '[root Cl, [conj [cc а] [advmod там] [advmod и] будь, [csubj [nsubj что] будет]]]'
 dependency_structure_of_illustration:
   - '[root Делай, [ccomp [xcomp что] должен], [conj [cc а] [advmod там [advmod уж]] будь, [csubj [nsubj что] будет]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

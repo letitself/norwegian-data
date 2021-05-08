@@ -38,11 +38,12 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - Speaker
-  - Addressee
-  - Activity
-  - Action
   - Theme
+  - Action
+  - Activity
+  - Participant
+  - Addressee
+  - Speaker
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -53,6 +54,8 @@ dependency_structure:
   - '[root дай [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root Дай [xcomp доделать]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - поспать
   - пожить
@@ -65,7 +68,7 @@ common_fillers:
   - вы
 references:
   - |
-    
+    См. также Подлесская В. И. Пермиссив и гортатив: данные русского дискурса в типологической перспективе // Грамматические категории: иерархии, связи, взаимодействие. Материалы международной научной конференции. 2003. С. 125–128.
 semantic_types:
   - type: Causation
     subtypes:

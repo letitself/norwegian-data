@@ -3,9 +3,21 @@ record: 1179
 name: 'NP-Nom притворяться, что Cl'
 UD_name: 'NP-Nom притворяться, что Cl'
 illustration: 'Он притворялся, что не понимает меня.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent ситуации имитирует некоторое [действие]Action, [состояние]State или поведение, которое должно свидетельствовать о наличии определенной [ситуации]Situation. Если речь идет об имитации действия или состояния, то наименование участника после союза «что» не повторяется (примеры 1, 2, 3). Если речь идет об имитации поведения, то слот Cl обычно описывает ситуацию, наличие которой участник имитирует (примеры 4, 5).
 examples:
+  - |
+       [Жена]Agent, конечно же, не спала, но притворялась, что [спит]Action.
+  - |
+       [Он]Agent долго притворялся, что [ничего и никого не знает]State.
+  - |
+       А насчёт Ромы договорились так: если он попытается проявить строгость — будем слушаться и притворяться, что [безумно боимся его]State.
+  - |
+       [Петров]Agent притворялся, что [его нет дома]Situation.
+  - |
+       [Воспитатель]Agent притворялась, что [ничего не случилось]Situation.
 morphology:
   - NP
   - Nom
@@ -20,20 +32,29 @@ part_of_speech_of_anchor:
   - Verb
   - Conjunction
 semantic_roles:
-  - ~
+  - Action
+  - State
+  - Agent
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] притворяться'
   - '[ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] притворялся, [ccomp [mark что] [advmod не] понимает] [obj меня].]'
+comment: |
+    'См. близкую конструкцию 103 NP-Nom делать вид, что Cl (Он делает вид, что слушает)'
 common_fillers:
-  - ~
+  - спать
+  - слушать
+  - не понимать
+  - не помнить
+  - не слышать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -33,14 +33,18 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
+  - Theme
   - Instrument
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [case за] счёт [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Только] [case за] счёт [nmod [amod государственной] поддержки]] могут [xcomp выжить] [nsubj [amod культурные] программы [nmod [case на] телевидении]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - средств
   - бюджета
@@ -52,7 +56,7 @@ common_fillers:
   - сокращения
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
   - type: Instrument

@@ -3,7 +3,7 @@ record: 1848
 name: 'куда бы ни VP-Pst, Cl'
 UD_name: 'куда бы ни VP-Past, Cl'
 illustration: 'Куда бы он ни пришел, ему везде рады.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [advmod куда] [aux бы] [advmod ни] VP-Pst]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Куда] [aux бы] [nsubj он] [advmod ни] пришел], [iobj ему] [advmod везде] рады.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Spatial expression

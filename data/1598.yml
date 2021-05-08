@@ -3,7 +3,7 @@ record: 1598
 name: 'NP-Nom по-Verb-ивать'
 UD_name: 'NP-Nom по-V-ивать'
 illustration: 'Иван мне позванивает.'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое событие]Event происходит многократно.
@@ -21,19 +21,21 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - Event
-intonation:
   - ~
+intonation:
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [iobj мне] по-Verb-ивать]'
 dependency_structure_of_illustration:
   - '[root [nsubj Иван] [iobj мне] позванивает.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

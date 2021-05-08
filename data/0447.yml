@@ -6,7 +6,7 @@ illustration: 'Я и впрямь ему верю.'
 cefr_level: C2
 definitions:
   - russian: |
-       Конструкция обозначает, что говорящий подтверждает достоверность какого-либо [факта]Evaluation или выражает уверенность в [произошедшем событии]Evaluation. Синонимичные конструкции со словами "в самом деле", "на самом деле", "действительно".
+       Конструкция обозначает, что говорящий подтверждает достоверность какого-либо [факта]Evaluation или выражает уверенность в [произошедшем событии]Evaluation. Синонимичные конструкции со словами «в самом деле», «на самом деле», «действительно».
 examples:
   - |
        [Он]Theme и впрямь [болен.]Evaluation
@@ -29,18 +29,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod [advmod и] впрямь] XP]'
   - '[root [advmod [advmod и] вправду] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod и] [advmod впрямь] [iobj ему] верю.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

@@ -34,16 +34,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
   - Counteragent
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case от] имени [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case От] имени [nmod министерства]] поздравляю [obj вас] [obl [case с] юбилеем]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - действовать
   - говорить
@@ -56,7 +58,7 @@ common_fillers:
   - руководство
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-Standard Subject
     subtypes:

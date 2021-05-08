@@ -3,7 +3,7 @@ record: 1437
 name: 'Noun-Nom Cop на ~Noun-Loc'
 UD_name: 'N-Nom Cop на N-Loc'
 illustration: 'Ошибка на ошибке.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Значение - много ошибок и говорящий оценивает это отрицательно, как небрежность и низкое качество. обман на обмане. часто с отрицательным значением Недовольство однообразием или большим количеством 1
@@ -28,17 +28,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Noun-Nom [cop Cop] [nmod [case на] Noun-Loc]]'
 dependency_structure_of_illustration:
   - '[root Ошибка [nmod [case на] ошибке].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:
@@ -50,6 +52,8 @@ semantic_types:
     subtypes:
       - type: Booster
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Polarity value
     subtypes:
       - type: Negative

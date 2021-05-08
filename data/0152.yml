@@ -6,19 +6,29 @@ illustration: 'Как это он не приедет?'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция является риторическим вопросом и обозначает, что говорящий удивляется или недоумевает по поводу какой-то [ситуации]Situation, которая произошла или может произойти и которую он считал невозможной.
+       Конструкция оформляет реакцию говорящего на слова собеседника и выражает его удивление и недоумение по поводу только что полученной им неожиданной информации. Говорящий обращает внимание на [важную для него часть сообщения]ContentOfSpeech часто подхватывает и повторяет конкретное слово, использованное собеседником, и ставит его под вопрос. Обычно говорящий также поясняет свое удивление, развивает дальше мысль собеседника или противоречит ей. Конструкция акцентирует внимание на конкретном элементе или характеристике ситуации (на [действии]Action, [участнике]Participant, [объекте]Theme, [признаке]Property, [обстоятельстве]Circumstance и др.). Слот XP заполняется глагольной, именной или предложной группой, наречием, прилагательным или числительным.
 examples:
   - |
-       Оставалось только удивляться, как это [он до сих пор ничего не сломал]Situation.
+       ― [Петь будешь ты!]ContentOfSpeech ― заявил Двинятин. ― Как это [я]Participant? Я не умею!
   - |
-       Как это [он раньше не заметил, что она прекрасна]Situation?
+       ― Знаешь, что… [давай рок-группу создадим]ContentOfSpeech! ― Как это ["рок-группу"]Theme? ― удивился я.
   - |
-       Как это [он врет]Situation? Не может быть!
+       ―  В нём уж точно нектара [нет]ContentOfSpeech, ― сказала Зоя. ― Как это [нет]Situation? Есть.
+  - |
+       Она мне: ― Но только [это не важно]ContentOfSpeech. Я говорю: ― как это [не важно]Evaluation? Он же твой сын.
+  - |
+       ―  Предлагаю перенести осмотр на [завтрашнее утро]ContentOfSpeech. ―  Как это на [завтра]Time? ― возмутилась Вера. ― Ты же сам говорил, что все предписания врача нужно выполнять точно. Если положено сегодня ― значит, сегодня.
 morphology:
   - XP
   - Cl
+  - VP
+  - NP
+  - PP
+  - Adv
+  - Adj
+  - NumCrd
 syntactic_type_of_construction:
-  - Clause
+  - Discourse "Echo" Construction
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:
@@ -26,7 +36,12 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
-  - ~
+  - ContentOfSpeech
+  - Action
+  - Participant
+  - Theme
+  - Property
+  - Circumstance
 intonation:
   - Interrogative
   - Exclamatory
@@ -36,11 +51,13 @@ dependency_structure:
   - '[root [advmod как] [expl это] XP?]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] [expl это] [nsubj он] [advmod не] приедет?]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Reaction to the previous discourse

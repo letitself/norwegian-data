@@ -3,7 +3,7 @@ record: 1251
 name: 'Cl на основании того, что Cl'
 UD_name: 'Cl на основании того, что Cl'
 illustration: 'Его уволили на основании того, что он не справлялся со своими обязанностями.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root Cl [obl [case на] основании [nmod того'
   - '[acl [mark что] Cl]]]]'
 dependency_structure_of_illustration:
   - '[root [obj Его] уволили [obl [case на] основании [nmod того, [acl [mark что] [nsubj он] [advmod не] справлялся [obl [case со] [det своими] обязанностями]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

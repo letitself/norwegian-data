@@ -3,7 +3,7 @@ record: 1795
 name: 'чуть ли не XP'
 UD_name: 'чуть ли не XP'
 illustration: 'Как можно закрыть фабрику, где работает чуть ли не десять тысяч человек?'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep [advmod [advmod чуть [advmod ли]] не] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Как] можно [csubj закрыть [obj фабрику, [acl:relcl [advmod где] работает [nsubj [nummod [advmod [advmod чуть [advmod ли]] не] [nummod:gov десять] тысяч] человек]]]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

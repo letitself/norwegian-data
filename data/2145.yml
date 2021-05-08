@@ -3,7 +3,7 @@ record: 2145
 name: 'хотя бы/хоть (бы) XP (если уж Cl)'
 UD_name: 'хотя бы/хоть (бы) XP (если уж Cl)'
 illustration: 'Приезжай хотя бы на недельку, если уж больше не получается.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,7 +21,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod хотя [fixed бы]] XP, [advcl [mark если] [advmod уж] Cl]]'
@@ -32,11 +32,13 @@ dependency_structure:
   - '[root [advmod хоть] XP]'
 dependency_structure_of_illustration:
   - '[root Приезжай [advmod хотя [fixed бы]] [obl [case на] недельку], [advcl [mark если] [advmod уж] [advmod больше] [advmod не] получается].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Concession

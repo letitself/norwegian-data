@@ -3,7 +3,7 @@ record: 1710
 name: 'VP под дверью'
 UD_name: 'VP под дверью'
 illustration: 'Кот уже давно ждёт под дверью.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] дверью]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Кот] [advmod [advmod уже] давно] ждёт [obl [case под] дверью].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

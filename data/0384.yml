@@ -34,18 +34,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod [advmod чуть [advmod ли] не]] XP]'
   - '[root [advmod [advmod чуть не]] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [obl [advmod [advmod чуть [advmod ли] не]] [case в] [amod прошлом] году] случилось.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

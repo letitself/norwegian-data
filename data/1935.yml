@@ -3,9 +3,21 @@ record: 1935
 name: 'ни при какой-Loc NP-Loc не VP-Fut'
 UD_name: 'ни при какой-Loc NP-Loc не VP-Fut'
 illustration: 'Ни при каких условиях не соглашусь на такое предложение.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации радикально не согласен или не должен выполнять некоторое [действие]Action вне зависимости от [внешних обстоятельств]Condition (примеры 1-3). Конструкция также может обозначать, что некоторое [действие]Action невозможно совершить, даже при всем желании участника (примеры 3-5).
 examples:
+  - |
+       Кирилл, никогда, никому, и ни при каких [условиях]Condition не [показывай]Action, что ты умнее окружающих себя.
+  - |
+       Я ведь и с издательством говорил, пытался убедить, только [печатать]Action тебя они ни при каких [обстоятельствах]Condition не [будут.]Action
+  - |
+       Ни при какой [погоде]Condition не [мог он быть посвящен в такой план]Action, и ни при какой [погоде]Condition не [согласился бы]Action в нем участвовать.
+  - |
+       Айкидо. Для поступления на курсы необходимо перечислить 40 руб. и выслать уведомление с указанием направления подготовки. Регистрационный сбор ни при каких [обстоятельствах]Condition не [возвращается!]Action
+  - |
+       А [интересы ее представителей не совпадут с нашими интересами]Situation ни при каком [раскладе.]Condition
 morphology:
   - Loc
   - NP
@@ -23,19 +35,31 @@ part_of_speech_of_anchor:
   - Pronoun
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Condition
+  - Situation
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [obl [advmod ни] [case при] [det какой-Loc] NP-Loc] [advmod не] VP-Fut]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case при] [det каких] условиях] [advmod не] соглашусь [obl [case на] [det такое] предложение].]'
+comment: |
+    'См. близкие конструкции 227, 228, 1934.'
 common_fillers:
-  - ~
+  - обстоятельствах
+  - условиях
+  - развитии событий
+  - погоде
+  - раскладе
+  - показывать
+  - согласиться
+  - будет
+  - мог
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Degree of intensity

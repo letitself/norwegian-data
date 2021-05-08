@@ -3,7 +3,7 @@ record: 1188
 name: 'не сильно Adj-Cmp/Adv-Cmp'
 UD_name: 'не сильно Adj-Cmp/Adv-Cmp'
 illustration: 'Вася не сильно умнее нас.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod не] [advmod сильно] Adj-Cmp]'
   - '[advmod [advmod не] [advmod сильно] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] [advmod не] [advmod сильно] умнее [obl нас].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

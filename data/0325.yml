@@ -24,21 +24,23 @@ part_of_speech_of_anchor:
   - Noun
   - Pronoun
 semantic_roles:
+  - Event
   - Situation
   - Activity
-  - Event
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [det тем] временем] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [det Тем] временем] [nsubj директор] покинул [obj здание].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Taxis
     subtypes:

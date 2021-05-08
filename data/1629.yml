@@ -3,7 +3,7 @@ record: 1629
 name: 'XP, после чего XP'
 UD_name: 'XP, после чего XP'
 illustration: 'Нужно довести до кипения, после чего добавить овощи.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[dep XP'
   - '[conj [obl [case после] чего] XP]]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj довести] [obl [case до] кипения], [conj [obl [case после] чего] добавить [obj овощи]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Taxis
     subtypes:

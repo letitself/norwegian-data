@@ -37,7 +37,7 @@ semantic_roles:
   - Circumstance
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] обстановке [nmod NP-Gen]]]'
@@ -50,7 +50,7 @@ common_fillers:
   - строжайшей секретности
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

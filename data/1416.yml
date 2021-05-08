@@ -3,7 +3,7 @@ record: 1416
 name: 'у NP-Gen всё Cop в ажуре'
 UD_name: 'у NP-Gen всё Cop в ажуре'
 illustration: 'У нас теперь всё в ажуре.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj всё] [cop Cop] [case в] ажуре]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] нас] [advmod теперь] [nsubj всё] [case в] ажуре.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

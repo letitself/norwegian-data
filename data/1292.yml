@@ -37,20 +37,22 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] награду [nmod [case за] NP-Acc]]]'
   - '[root VP [obl [case в] награду]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] награду [nmod [case за] смелость]] [iobj Феде] дали [obj медаль].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - труд
   - усердие
   - терпение
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

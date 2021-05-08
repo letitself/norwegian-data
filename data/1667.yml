@@ -3,7 +3,7 @@ record: 1667
 name: 'недавно VP'
 UD_name: 'недавно VP'
 illustration: 'Недавно ходил в кино.'
-cefr_level: 
+cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [событие]Event произошло в прошлом, незадолго до момента речи или другой точки во времени, в период ближайших дней или недель (примеры 1, 2). Точное время неизвестно или неважно. Конструкция также может обозначать, что некоторое [действие]Action было начато в прошлом, незадолго до момента речи или другой точки во времени, и продолжается до сих пор (примеры 3, 4, 5). При этом в зависимости от действия, период времени может длиться от нескольких дней до недель или месяцев (пример 5).
@@ -29,19 +29,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Action
+  - Event
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod недавно] VP]'
 dependency_structure_of_illustration:
   - '[root [advmod Недавно] ходил [obl [case в] кино].]'
+comment: |
+    'См. близкую конструкцию 26.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

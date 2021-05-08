@@ -1,10 +1,12 @@
 ---
 record: 2027
-name: 'PronPers-Nom у меня до-Verb-ся'
-UD_name: 'PronPers-Nom у меня до-V-ся'
+name: 'PronPers-Nom у меня до-Verb-ся!'
+UD_name: 'PronPers-Nom у меня до-V-ся!'
 illustration: 'Они у меня допрыгаются!'
-cefr_level: 
+cefr_level: C2
 definitions:
+  - russian: |
+       Глагол целиком в будущем времени
 examples:
 morphology:
   - PronPers
@@ -22,19 +24,23 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj PronPers-Nom] [obl [case у] меня] до-Verb-ся]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] [obl [case у] меня] допрыгаются!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
+    subtypes:
+      - type: Achieved Result
   - type: Threat
 family:
   - |

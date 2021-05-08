@@ -6,22 +6,22 @@ illustration: 'Как известно, он мастер стихи сочин�
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция указывает, что информация, содержащаяся в [клаузе]Cl , является хорошо знакомой всем, или описывает ситуацию, актуальную всегда. Конструкция является вводной и на письме выделяется запятыми.
+       Конструкция указывает на то, что некоторое [положение дел]Situation или [свойство объекта или участника]Property является общеизвестным, хорошо знакомым большому количеству людей. Конструкция является вводной и на письме выделяется запятыми.
   - english: |
-       This construction emphasizes that the information in [the clause]CL is well-known - to the listeners in particlar, or to all people in general. A closely related construction in English is ‘as is well-known’.
+       This construction emphasizes that specific information is well-known to all people in general. A closely related construction in English is ‘as is well-known’.
   - norwegian: |
-       Konstruksjonen understreker at informasjonen i [delsetningen]CL er velkjent, enten for de spesifikke lytterne, eller for folk generelt. En nærliggende konstruksjon i norsk er ‘som kjent’.
+       Konstruksjonen understreker at informasjonen er velkjent for folk generelt. En nærliggende konstruksjon i norsk er ‘som kjent’.
 examples:
   - |
-       Как известно, [в этом году будет отмечаться 300-летие Петербурга]Cl.
+       Как известно, [в этом году будет отмечаться 300-летие Петербурга]Situation.
   - |
-       [Государство]Cl, [как известно], [есть орудие классовых интересов]Cl.
+       Многие яды, как известно, [обладают целебными свойствами]Property.
   - |
-       [Многие яды]Cl, [как известно], [обладают целебными свойствами]Cl.
+       Композитор, как известно, [не успел дописать оперу]Situation.
   - |
-       -
+       Норвегия, как известно, ― [свободная и высокодемократичная страна]Property.
   - |
-       -
+       Стране сегодня, как известно, [нужны инженеры и врачи]Situation.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -35,20 +35,23 @@ part_of_speech_of_anchor:
   - Conjunction
   - Predicative
 semantic_roles:
-  - ~
+  - Situation
+  - Property
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [mark Как] [parataxis известно]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [mark Как] [parataxis известно], [nsubj он] мастер [xcomp [obj стихи] сочинять].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

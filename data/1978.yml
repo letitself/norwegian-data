@@ -35,13 +35,16 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
   - Instrument
+  - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root Считать [obl [case на] калькуляторе]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - печатать
   - работать
@@ -66,7 +69,7 @@ common_fillers:
   - скрипке
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
   - type: Manner

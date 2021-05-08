@@ -3,7 +3,7 @@ record: 1967
 name: 'что NP-Nom здесь забыть-Pst?'
 UD_name: 'что NP-Nom здесь забыть-Past?'
 illustration: 'А ты что здесь забыл?'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -15,8 +15,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Verb
   - Adverb
@@ -24,21 +23,23 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [obj NP-Acc] [advmod здесь] забыть-Pst?]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj ты] [obj что] [advmod здесь] забыл?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Mental attitude
+      - type: Mental Attitude
   - type: Polarity value
     subtypes:
       - type: Negative

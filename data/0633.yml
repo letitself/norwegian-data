@@ -21,7 +21,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] раз]]'
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root VP [obl [case на] раз-[conj два]-[conj три]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Настоящий] мастер] может [xcomp изготовить [obj обувь]] [obl [case на] раз].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
   - '[parataxis [cc только] [obj NP-Acc] [advmod и] видели]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] выбежал [obl [case из] кабинета], [parataxis [cc только] [obj его] [advmod и] видели]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Non-existence

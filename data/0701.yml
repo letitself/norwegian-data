@@ -3,7 +3,7 @@ record: 701
 name: 'Cl, а чего же (другого/ещё) PronPers-Nom ждать-Pst?'
 UD_name: 'Cl, а чего же (другого/ещё) PronPers-Nom ждать-Past?'
 illustration: 'Конечно, она ушла, а чего же ты ждала?'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -40,11 +40,13 @@ dependency_structure:
   - '[root Cl, [conj [cc а] [obj чего [advmod же]] [nsubj PronPers-Nom] ждать-Pst]?]'
 dependency_structure_of_illustration:
   - '[root [parataxis Конечно], [nsubj она] ушла, [conj [cc а] [obj чего [advmod же]] [nsubj ты] ждала]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Reaction to the previous discourse

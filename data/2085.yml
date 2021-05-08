@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [nummod NumCrd] минута [nmod третьего]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Фильм] начнется [obl [case в] [nummod:gov двадцать] минут [nmod третьего]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

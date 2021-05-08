@@ -36,21 +36,23 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - Participant
   - Theme
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [advmod всё] [case без] NP-Gen [conj [cc и] [case без] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - вода
   - хлеб
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Degree of intensity

@@ -6,7 +6,7 @@ illustration: 'У нас в наличии пять книг этого авто
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что в определенном [месте]Location есть некоторое количество [объектов]Theme одного типа, при этом подчеркивается доступность [объектов]Theme. В качестве [объектов]Theme могут выступать конкретные предметы, абстрактные сущности и люди. Слот Prep может заполняться предлогами "в" и "на". Обычно идет речь об объектах, предназначенных для продажи. При наличии отрицания NP-Nom заменяется на NP-Gen.
+       Конструкция обозначает, что в определенном [месте]Location есть некоторое количество [объектов]Theme одного типа, при этом подчеркивается доступность [объектов]Theme. В качестве [объектов]Theme могут выступать конкретные предметы, абстрактные сущности и люди. Слот Prep может заполняться предлогами «в» и «на». Обычно идет речь об объектах, предназначенных для продажи. При наличии отрицания NP-Nom заменяется на NP-Gen.
   - norwegian: |
        Konstruksjonen betyr at det på et bestemt [sted]Location finnes et gitt antall [objekter]Theme av én og samme type, samtidig som [objektenes]Theme tilgjengelighet understrekes. [Objektene]Theme kan være konkrete gjenstander, abstrakte fenomener eller personer. Sloten Prep kan fylles av preposisjonene "в" og "на". Vanligvis er det tale om salgsobjekter. Ved nektelse erstattes NP-Nom av NP-Gen.
 examples:
@@ -39,11 +39,11 @@ part_of_speech_of_anchor:
   - Verb
   - Noun
 semantic_roles:
-  - Location
   - Theme
   - Possessor
+  - Location
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case у] PronPers-Gen] [cop Cop] [case в] наличии [nsubj NP-Nom]]'
@@ -56,12 +56,14 @@ dependency_structure:
   - '[root [obl [case в] NP-Loc] [advmod не] иметься [obl [case в] наличии] [nsubj NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] нас] [case в] наличии [nsubj [nummod:gov пять] книг [nmod [det этого] автора]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - товар
   - товары
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Temporary characteristics

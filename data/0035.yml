@@ -34,14 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Obsolete
 dependency_structure:
   - '[obj [advcl [nsubj бог] весть] PronInt]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] принесли [obl [case в] пакете] [obj [advcl [nsubj бог] весть] что].]'
 comment: |
-    'См. близкую конструкцию 359 чёрт знает PronInt (Чёрт знает как решать эту задачу).'
+    'См. близкиe конструкцию 359 чёрт знает PronInt (Чёрт знает как решать эту задачу); 5 (а) Noun-Nom/кто (же) (PronPers-3.Acc) знает, Cl (Кто его знает, почему она так поступила).'
 common_fillers:
   - что
   - где

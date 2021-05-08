@@ -34,12 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [advmod туда-[conj сюда]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Собака] бегала [advmod туда-сюда].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - бегать
   - ходить
@@ -48,7 +50,7 @@ common_fillers:
   - метаться
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Spatial expression

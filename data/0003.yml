@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция используется для того, чтобы напомнить адресату о [каком-либо факте]Theme, который он должен принять во внимание. Этот факт известен всем участникам беседы.
+  - english: |
+       The construction is used to remind the addressee of [some fact]Theme, which they must take into consideration. This fact is known to all of the participants in the conversation.
   - norwegian: |
        Konstruksjonen anvendes for å minne adressaten på [et faktum]Theme som vedkommende må ta i betraktning. Faktumet er kjent for alle deltakerne i samtalen.
 examples:
@@ -43,11 +45,13 @@ dependency_structure:
   - '[root [cc а] как [advmod же] [nsubj NP-Nom]]'
 dependency_structure_of_illustration:
   - '[root [cc А] как [advmod же] [nsubj мама]?]'
+comment: |
+    'Не путать с конструкцией 682. См. другие конструкции, которые содержат "как же": 1107, 1108, 1109, 1814, 2015.'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Reaction to the previous discourse

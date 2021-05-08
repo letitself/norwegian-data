@@ -3,7 +3,7 @@ record: 852
 name: 'Cl, верно (ведь) (я говорю)?'
 UD_name: 'Cl, верно (ведь) (я говорю)?'
 illustration: 'Мы хорошие ребята, не злые по существу, верно ведь?'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -32,11 +32,13 @@ dependency_structure:
   - '[root Cl, [parataxis верно]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [amod хорошие] ребята, [conj [advmod не] злые [obl [case по] существу]], [parataxis верно [advmod ведь]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

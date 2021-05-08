@@ -34,16 +34,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Adjective
 semantic_roles:
-  - Quantity
-  - Measure
+  - Qunatity
   - Theme
+  - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [obl [case в] среднем] [nummod NumCrd] NP]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] среднем] [nsubj дорога [nmod [case до] работы]] занимает [obl [case у] меня] [obj [nummod:gov два] часа].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - год
   - лет
@@ -53,12 +56,14 @@ common_fillers:
   - уходит
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:
       - type: Approximate
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
 family:
   - |
     "The family of MEASURE constructions that express approximation"

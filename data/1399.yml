@@ -3,7 +3,7 @@ record: 1399
 name: 'NP (не) в тему'
 UD_name: 'NP (не) в тему'
 illustration: 'Твои замечания сейчас совсем не в тему.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        Rationalistic evaluation of appropriateness of an object (оценка уместности), well-fitting vs. ill-fitting the situation
@@ -26,13 +26,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep NP [nmod [advmod не] [case в] тему]]'
   - '[dep NP [nmod [case в] тему]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Твои] замечания] [advmod сейчас] [advmod совсем] [advmod не] [case в] тему.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

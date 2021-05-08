@@ -3,10 +3,10 @@ record: 932
 name: 'гореть-Imp (PronPers-Nom) в огне (за NP-Acc)!'
 UD_name: 'гореть-Imper (PronPers-Nom) в огне (за NP-Acc)!'
 illustration: 'Гори он в огне за такие слова!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
-       General negative attitude to the situation on the side of the speaker - in all Curse constructions. Бывает также "в аду" гори в аду
+       General negative attitude to the situation on the side of the speaker - in all Curse constructions. Бывает также «в аду» гори в аду
 examples:
 morphology:
   - Imp
@@ -37,11 +37,13 @@ dependency_structure:
   - '[root гореть-Imp [obl [case в] огне]!]'
 dependency_structure_of_illustration:
   - '[root Гори [nsubj он] [obl [case в] огне] [obl [case за] [det такие] слова]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

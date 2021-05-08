@@ -28,17 +28,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root Пришлось [csubj платить [obj штраф [nmod [case за] [amod неправильную] парковку]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

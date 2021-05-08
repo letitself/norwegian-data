@@ -3,7 +3,7 @@ record: 1045
 name: 'зачем PronPers так (VP)?'
 UD_name: 'зачем PronPers так (VP)?'
 illustration: 'Зачем он так? Хорошо же разговаривали.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -28,11 +28,13 @@ dependency_structure:
   - '[root [advmod зачем] [nsubj PronPers-Nom] [advmod так] VP?]'
 dependency_structure_of_illustration:
   - '[root [advmod Зачем] [nsubj он] так?] [root [advmod Хорошо] [advmod же] разговаривали.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

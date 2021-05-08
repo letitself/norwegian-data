@@ -3,7 +3,7 @@ record: 1132
 name: 'можно сказать, Cl'
 UD_name: 'можно сказать, Cl'
 illustration: 'Он вырос, можно сказать, на моих глазах.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis можно [csubj сказать]]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] вырос, [parataxis можно [csubj сказать]], [obl [case на] [det моих] глазах].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

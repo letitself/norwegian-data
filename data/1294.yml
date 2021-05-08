@@ -37,19 +37,24 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case за] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Пациенты] выбрасывают [obj [det свои] очки] [obl [case за] ненадобностью].]'
+comment: |
+    'No comment yet'
 common_fillers:
+  - уволить
+  - отчислить
+  - выгнать
   - ненадобность
   - негодность
   - недоказанность
 references:
   - |
-    
+    См. об этой конструкции в монографии Всеволодова, М. В., Ященко Т. А. 2008. Причинно-следственные отношения в современном русском языке. Изд. 2. М. Издательство ЛКИ. С. 76, 87, 138: "Агенс отказывается от контакта с объектом по причине качеств объекта, которые делают этот контакт ненужным или невозможным".
 semantic_types:
   - type: Cause
 family:

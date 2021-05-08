@@ -45,6 +45,8 @@ dependency_structure:
   - '[parataxis [nmod чем] [cop Cop] [advmod не] NP-Nom]?]'
 dependency_structure_of_illustration:
   - '[root Присмотрись [obl [case к] Мише].] [root [nmod Чем] [advmod не] жених?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

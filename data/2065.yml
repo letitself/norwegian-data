@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl'
   - '[parataxis пожалуйста]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] килограмм [nmod конфет], [parataxis пожалуйста].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Request
 family:

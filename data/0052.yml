@@ -32,15 +32,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Location
   - Theme
+  - Location
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root Боль [nmod [case в] животе]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - боль
   - слабость
@@ -50,7 +52,7 @@ common_fillers:
   - голова
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

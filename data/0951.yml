@@ -3,7 +3,7 @@ record: 951
 name: 'давай-ка VP-Inf!'
 UD_name: 'давай-ка VP-Inf!'
 illustration: 'Давай-ка быстро спать!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod давай-ка] VP-Inf!]'
 dependency_structure_of_illustration:
   - '[root [advmod Давай-ка] [advmod быстро] спать!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

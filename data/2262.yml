@@ -3,7 +3,7 @@ record: 2262
 name: 'ух ты, какой/как XP!'
 UD_name: 'ух ты, какой/как XP!'
 illustration: 'Ух ты, какую большую рыбу поймали!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis ух [fixed ты]], [det какой] XP!]'
   - '[root [parataxis ух [fixed ты]], [advmod как] XP!]'
 dependency_structure_of_illustration:
   - '[root [parataxis Ух [fixed ты]], [obj [amod [det какую] большую] рыбу] поймали!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:
@@ -43,7 +45,7 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Emotional Attitude
-      - type: Mental attitude
+      - type: Mental Attitude
   - type: Mirative
   - type: Polarity value
     subtypes:

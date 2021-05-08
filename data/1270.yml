@@ -39,10 +39,10 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
-  - Speaker
   - Action
-  - Listener
   - Participant
+  - Speaker
+  - Listener
 intonation:
   - Exclamatory
 usage_label: ~
@@ -62,7 +62,7 @@ common_fillers:
   - разрушать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

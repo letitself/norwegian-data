@@ -3,7 +3,7 @@ record: 871
 name: 'VP во все времена'
 UD_name: 'VP во все времена'
 illustration: 'Во все времена это способствовало развитию общества.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case во] [det все] времена]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] [det все] времена] [nsubj это] способствовало [iobj развитию [nmod общества]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Pluractionality
     subtypes:

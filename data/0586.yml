@@ -38,22 +38,24 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Action
-  - Theme
   - Addressee
+  - Theme
   - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [iobj NP-Dat.Pl] [obj [case по] NP-Dat]]'
   - '[root VP [iobj NP-Dat.Pl] [obj [case по] [nummod NumCrd-Acc] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] дал [iobj всем] [obj [case по] яблоку [conj [cc и] [case по] [nummod:gov две] конфеты]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

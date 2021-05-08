@@ -6,7 +6,7 @@ illustration: 'Если ты его не любишь, ты могла бы ег
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция выражает достаточную уверенность участника в достоверности [своего высказывания]Theme, несмотря на неуверенность говорящего в словах участника. В.Ю.Апресян 1999 Слова со значением уступки. Update definition. Concession: good-for-anything / will stop at nothing / At least "Понимая, что иметь желаемое трудно или невозможно, субъект (часто сам говорящий) хочет или готов иметь меньшее Р, обладание которым вероятно" В.Ю.Апресян 1999 Слова со значением уступки. Подкласс 6 "Уступка вопреки желанию" стр 34. подтип "Готовность на все"
+       Конструкция выражает достаточную уверенность участника в достоверности [своего высказывания]Theme, несмотря на неуверенность говорящего в словах участника. В.Ю.Апресян 1999 Слова со значением уступки. Update definition. Concession: good-for-anything / will stop at nothing / At least «Понимая, что иметь желаемое трудно или невозможно, субъект (часто сам говорящий) хочет или готов иметь меньшее Р, обладание которым вероятно» В.Ю.Апресян 1999 Слова со значением уступки. Подкласс 6 «Уступка вопреки желанию» стр 34. подтип «Готовность на все»
   - english: |
        This construction expresses that [something]Theme is definitely true although other things in the situation may not be. In English, the construction can often be translated as ‘at least‘, e.g. по крайней мере он не врал ‘at least he didn’t lie’.
   - norwegian: |
@@ -34,18 +34,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl Cl], [obl [case по] [amod крайней] мере] Cl]'
   - '[root [obl [case по] [amod крайней] мере] Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [nsubj ты] [obj его] [advmod не] любишь], [nsubj ты] могла [aux бы] [obj его] [obl [case по] [amod крайней] мере] [xcomp уважать].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

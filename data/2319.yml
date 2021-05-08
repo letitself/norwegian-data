@@ -22,18 +22,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root сказать-Imp [obl [case на] милость]'
   - '[ccomp Cl]?]'
 dependency_structure_of_illustration:
   - '[root Скажи [obl [case на] милость], [parataxis [ccomp почему] [nsubj я] должен [xcomp [iobj тебе] верить]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Attitude
     subtypes:

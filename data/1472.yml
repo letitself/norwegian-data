@@ -3,7 +3,7 @@ record: 1472
 name: 'в разы VP/Adj-Cmp/Adv-Cmp'
 UD_name: 'в разы VP/Adj-Cmp/Adv-Cmp'
 illustration: 'Эта задача была в разы сложнее.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,7 +23,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case в] разы] VP]'
@@ -31,11 +31,13 @@ dependency_structure:
   - '[advmod [obl [case в] разы] Adv-Cmp]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Эта] задача] [cop была] [obl [case в] разы] сложнее.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

@@ -3,7 +3,7 @@ record: 890
 name: 'во́т PronPers-Nom Cop где!'
 UD_name: 'во́т PronPers-Nom Cop где!'
 illustration: 'Во́т он где!'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root во́т [nsubj PronPers-Nom] [cop Cop] [advmod где]!]'
 dependency_structure_of_illustration:
   - '[root Во́т [nsubj он] [advmod где]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root извинить-Imp [obj PronPers-Acc], [ccomp [mark что] Cl]]'
@@ -31,11 +31,13 @@ dependency_structure:
   - '[root простить-Imp, [ccomp [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root Извините [obj меня], [ccomp [mark что] [nsubj я] опоздала].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Routine
     subtypes:

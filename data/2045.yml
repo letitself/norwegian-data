@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep каждый [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [obl [case О] каждом [nmod [case из] персонажей [nmod книги]]] написана [nsubj:pass статья].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Quantification
     subtypes:

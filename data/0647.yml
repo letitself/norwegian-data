@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [dep PronInt [advcl попало]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вася] шлет [obj письма] [iobj кому [advcl попало]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

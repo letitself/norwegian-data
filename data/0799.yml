@@ -3,7 +3,7 @@ record: 799
 name: 'VP в преддверии NP-Gen'
 UD_name: 'VP в преддверии NP-Gen'
 illustration: 'В преддверии праздника в магазинах выстроились очереди.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] преддверии [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] преддверии [nmod праздника]] [obl [case в] магазинах] выстроились [nsubj очереди].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

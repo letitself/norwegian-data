@@ -3,7 +3,7 @@ record: 2143
 name: 'И вот ещё что (Adv/VP): Cl'
 UD_name: 'И вот ещё что (Adv/VP): Cl'
 illustration: 'И вот ещё что: я к Маше не поеду.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -24,7 +24,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [cc и] [advmod вот] [advmod ещё] что: [parataxis Cl]]'
@@ -32,11 +32,13 @@ dependency_structure:
   - '[root [cc и] [advmod вот] [advmod ещё] [dep что] VP: [parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root [cc И] [advmod вот] [advmod ещё] что: [parataxis [nsubj я] [obl [case к] Маше] [advmod не] поеду].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

@@ -34,12 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep туча [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Тучи [nmod [amod злых] песчинок]] впиваются [obl [case в] кожу].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - песок
   - пыль
@@ -47,12 +49,14 @@ common_fillers:
   - брызги
 references:
   - |
-    Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. Poljarnyj Vestnik 23 (December):1–17. https://doi.org/10.7557/6.5548; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторами: диссертация ... кандидата филологических наук. Москва.
+    Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. In: Poljarnyj Vestnik 23. 1–17; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторам. Дисс. канд. филол. наук. Москва.
 semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Booster
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
   - type: Quantification
     subtypes:
       - type: Existential

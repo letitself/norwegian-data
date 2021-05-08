@@ -3,7 +3,7 @@ record: 1690
 name: 'ни разу не VP'
 UD_name: 'ни разу не VP'
 illustration: 'Я ни разу не надевала это платье.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [advmod ни] разу] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [obl [advmod ни] разу] [advmod не] надевала [obj [det это] платье].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Non-existence
     subtypes:

@@ -6,7 +6,7 @@ illustration: 'Что ты устроил! Почему вокруг грязь?
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция выражает негативную оценку действий [собеседника]Listener или другого [участника ситуации]Participant. Говорящий недоволен результатом этих действий, результат оказывается для него неожиданным. Как правило, речь идет о создании беспорядка, хаоса, сломанных или запачканных вещах (в физическом пространстве) или скандальном, агрессивном или слишком эмоциональном поведении (в социальном пространстве). Конструкция обычно используется в прошедшем времени. Вместо "что" может использоваться более разговорная форма "чего".
+       Конструкция выражает негативную оценку действий [собеседника]Listener или другого [участника ситуации]Participant. Говорящий недоволен результатом этих действий, результат оказывается для него неожиданным. Как правило, речь идет о создании беспорядка, хаоса, сломанных или запачканных вещах (в физическом пространстве) или скандальном, агрессивном или слишком эмоциональном поведении (в социальном пространстве). Конструкция обычно используется в прошедшем времени. Вместо «что» может использоваться более разговорная форма «чего».
   - norwegian: |
        Konstruksjonen uttrykker en negativ vurdering av handlinger, utført av [samtalepartneren]Listener eller en annen [deltaker i situasjonen]Participant. Taleren er misfornøyd med disse handlingenes resultat, som var uventet for taleren. Som regel dreier det seg om å skape uorden, kaos, ødelagte eller tilsølede ting (i det fysiske rommet) eller skandaløs, aggressiv eller overmåte emosjonell opptreden (i det sosiale rommet). Konstruksjonen brukes vanligvis i fortid. I stedet for "что" er det mulig å bruke formen "чего", som ligger nærmere dagligtalen.
 examples:
@@ -29,14 +29,13 @@ syntactic_function_of_anchor:
   - Object
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Pronoun
   - Verb
 semantic_roles:
-  - Listener
   - Participant
+  - Listener
 intonation:
   - Interrogative
   - Exclamatory
@@ -45,6 +44,8 @@ dependency_structure:
   - '[root [obj что] [nsubj NP-Nom] устроить!]'
 dependency_structure_of_illustration:
   - '[root [obj Что] [nsubj ты] устроил!] [root [advmod Почему] [advmod вокруг] грязь?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ты
   - вы
@@ -53,7 +54,7 @@ common_fillers:
   - они
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Assessment
     subtypes:

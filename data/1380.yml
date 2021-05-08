@@ -3,7 +3,7 @@ record: 1380
 name: 'NP/VP с тыла'
 UD_name: 'NP/VP с тыла'
 illustration: 'Решили напасть с тыла.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case с] тыла]]]'
   - '[dep NP [nmod [case с] тыла]]]'
 dependency_structure_of_illustration:
   - '[root Решили [xcomp напасть [obl [case с] тыла]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

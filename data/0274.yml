@@ -37,10 +37,10 @@ part_of_speech_of_anchor:
   - Verb
 semantic_roles:
   - Action
-  - Speaker
   - Addressee
+  - Speaker
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root пошли [xcomp VP-Pfv.Fut]]'
@@ -49,6 +49,8 @@ dependency_structure:
   - '[root пойдём [xcomp VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root Пошли [xcomp посмотрим [obj фильм]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - поедим
   - спать
@@ -58,7 +60,7 @@ common_fillers:
   - погуляем
 references:
   - |
-    
+    См. также статью Горлова А. А. Гортативные конструкции в русском языке // Acta Linguistica Petropolitana. Труды Института лингвистических исследований. 2016. Т. XII. №1. С. 379–392.
 semantic_types:
   - type: Causation
     subtypes:

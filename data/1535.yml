@@ -3,7 +3,7 @@ record: 1535
 name: 'VP часам к NumCrd-Dat'
 UD_name: 'VP часам к NumCrd-Dat'
 illustration: 'Приходите часам к семи.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl часам [case к] [nummod NumCrd-Dat]]]'
 dependency_structure_of_illustration:
   - '[root Приходите [obl часам [case к] [nummod семи]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

@@ -37,13 +37,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod уже] [advmod не] [case за] горами]'
   - '[root [nsubj NP-Nom] [advmod не] [case за] горами]'
 dependency_structure_of_illustration:
   - '[root [nsubj Зарплата] [advmod уже] [advmod не] [case за] горами.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - зима
   - лето
@@ -54,7 +56,7 @@ common_fillers:
   - победа
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Timeline
     subtypes:

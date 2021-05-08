@@ -3,7 +3,7 @@ record: 2173
 name: 'NP-Nom на-Verb с три короба'
 UD_name: 'NP-Nom на-V с три короба'
 illustration: 'Организаторы шоу наобещали мне с три короба.'
-cefr_level: 
+cefr_level: C2
 definitions:
 examples:
 morphology:
@@ -24,17 +24,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] на-Verb [obj [case с] [nummod:gov три] короба]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Организаторы [nmod шоу]] наобещали [iobj мне] [obj [case с] [nummod:gov три] короба].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Зализняк А. А., Шмелев А.Д. 2000. Введение в русскую аспектологию. Москва. Издательство «Языки русской культуры». С. 114.
 semantic_types:
   - type: Actionality
     subtypes:

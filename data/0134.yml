@@ -33,10 +33,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Situation
   - Cause
+  - Causer
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case из-за] NP-Gen]]'
@@ -59,7 +60,7 @@ common_fillers:
   - привлекать
 references:
   - |
-    Vsevolodova M.V., Jaščenko T.A. Pričinno-sledstvennye otnošenija v sovremennom russkom jazyke. 2nd edition. Moskva: Izdatel’stvo LKI. 84, 90.
+    Всеволодова, М. В., Ященко Т. А. Причинно-следственные отношения в современном русском языке. 2-е издание. 2008. М. Издательство ЛКИ. С. 84, 90.
 semantic_types:
   - type: Cause
 family:

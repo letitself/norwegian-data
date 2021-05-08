@@ -3,7 +3,7 @@ record: 847
 name: 'вдвойне/втройне XP'
 UD_name: 'вдвойне/втройне XP'
 illustration: 'Потом она вдруг почувствовала себя вдвойне счастливой.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -19,18 +19,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod вдвойне] XP]'
   - '[root [advmod втройне] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Потом] [nsubj она] [advmod вдруг] почувствовала [obj себя] [advmod вдвойне] [xcomp счастливой].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

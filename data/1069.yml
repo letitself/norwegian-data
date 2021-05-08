@@ -34,13 +34,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - Assertive
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root иди [advmod лучше] [xcomp VP]]'
 dependency_structure_of_illustration:
   - '[root Иди [advmod лучше] [xcomp отдохни].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - работать
   - спать
@@ -49,7 +50,7 @@ common_fillers:
   - поиграть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

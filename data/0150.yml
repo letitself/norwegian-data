@@ -6,9 +6,9 @@ illustration: 'Порошок как нельзя лучше отстирал ж
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется тогда, когда [некоторое действие]Action выполняется лучшим образом, особенно с учетом [определяющего параметра]Property .
+       Конструкция обозначает, что некоторое [действие]Action было выполнено участником наилучшим или, реже, наихудшим возможным образом. Конструкция как правило используется ретроспективно, для оценки событий и ситуаций, которые уже произошли.
   - english: |
-       This construction is used when an [action]Action is performed in the best way, especially taking into account the [defining aspect]Property.
+       This construction means that an [action]Action is performed in the best possible way.
 examples:
   - |
        Он все видел, все знал ― и [к обоим относился]Action как нельзя [радушнее]Property, не подавая ни малейшего вида, что угадывает между ними любовь под оболочкой пленительной дружбы.
@@ -31,17 +31,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod как [fixed нельзя]] Adv-Cmp] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Порошок] [advmod [advmod как [fixed нельзя]] лучше] отстирал [obj [amod жирные] пятна].]'
+comment: |
+    'См. близкую конструкцию 628. Не путать с конструкцикй 1218.'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также статью Иомдин, Л. Л. 2019. В копилку микросинтаксических неожиданностей: две русские антонимичные синтаксические фраземы с компаративами // Компьютерная лингвистика и интеллектуальные технологии: По материалам Международной конференции «Диалог 2019». (Москва, 29 мая — 1 июня 2019 г.). М.: Изд-во РГГУ, 2018. Вып. 18 (25). С. 1–14.
 semantic_types:
   - type: Comparison
     subtypes:

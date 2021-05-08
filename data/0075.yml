@@ -6,7 +6,7 @@ illustration: 'Время сомнений прошло.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает завершение целого этапа глобального развития культуры, общества или природы. Некоторая [ситуация]Sitaution закончилась, ушла в прошлое или перестала быть актуальной. Слова, которые заполняют слот NP-Gen, обычно называют [абстрактные понятия]Theme ("сомнения", "теория"), [группы людей]Set ("дилетанты") или [имена]Name знаковых деятелей (писателей, композиторов, правителей), которые играли ключевую роль на этом этапе. Как если бы каждый этап развития или участник имели "свое", предназначенное специально для них время и владели этим временем, как объектом.
+       Конструкция обозначает завершение целого этапа глобального развития культуры, общества или природы. Некоторая [ситуация]Sitaution закончилась, ушла в прошлое или перестала быть актуальной. Слова, которые заполняют слот NP-Gen, обычно называют [абстрактные понятия]Theme («сомнения», «теория»), [группы людей]Set («дилетанты») или [имена]Name знаковых деятелей (писателей, композиторов, правителей), которые играли ключевую роль на этом этапе. Как если бы каждый этап развития или участник имели «свое», предназначенное специально для них время и владели этим временем, как объектом.
   - english: |
        This construction means that [something]Theme has passed in time, no longer continues, or no longer is relevant.
   - norwegian: |
@@ -31,18 +31,18 @@ syntactic_function_of_anchor:
   - Subject
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
 semantic_roles:
   - Theme
-  - Situation
-  - Participant
   - Action
+  - Name
+  - Set
+  - Sitaution
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj время [nmod NP-Gen]] прошло]'
@@ -60,7 +60,7 @@ common_fillers:
   - аллегорий
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

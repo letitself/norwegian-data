@@ -37,12 +37,14 @@ semantic_roles:
   - Cause
   - Situation
 intonation:
-  - Assertive
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] люблю [obj Петра] [obl [case за] скромность].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ругать
   - наказать
@@ -50,7 +52,7 @@ common_fillers:
   - наградить
 references:
   - |
-    
+    См. о выражении внешней причины (причиной является свойство, присущее не самому субъекту действия, а другому участнику ситуации) в монографии Всеволодова, М. В., Ященко Т. А. 2008. Причинно-следственные отношения в современном русском языке. Изд. 2. М. Издательство ЛКИ. С. 6, 68-69.
 semantic_types:
   - type: Cause
 family:

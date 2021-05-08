@@ -3,7 +3,7 @@ record: 1457
 name: 'еле-еле VP'
 UD_name: 'еле-еле VP'
 illustration: 'Он еле-еле дотянулся до телефона.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod еле-еле] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod еле-еле] дотянулся [obl [case до] телефона].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

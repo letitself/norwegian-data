@@ -3,7 +3,7 @@ record: 1318
 name: 'VP в надежде VP-Inf/на NP-Acc'
 UD_name: 'VP в надежде VP-Inf/на NP-Acc'
 illustration: 'Человек живёт в надежде когда-нибудь продлить жизнь другому человеку.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] надежде [nmod VP-Inf]]]'
   - '[root VP [obl [case в] надежде [nmod [case на] NP-Acc]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Человек] живёт [obl [case в] надежде [nmod [advmod когда-нибудь] продлить [obj жизнь] [iobj [amod другому] человеку]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

@@ -3,7 +3,7 @@ record: 2153
 name: 'не дай Бог/Боже, чтобы Cl'
 UD_name: 'не дай Бог/Боже, чтобы Cl'
 illustration: 'Не дай Бог, чтобы пришлось переезжать!'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -13,8 +13,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate, Negation
+  - Subject and Predicate
+  - Negation
 part_of_speech_of_anchor:
   - Negation Marker
   - Verb
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod не] дай [nsubj Бог], [csubj [mark чтобы] Cl]]'
   - '[root [advmod не] дай [nsubj Боже], [csubj [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] дай [nsubj Бог], [csubj [mark чтобы] пришлось [csubj переезжать]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Apprehension
     subtypes:

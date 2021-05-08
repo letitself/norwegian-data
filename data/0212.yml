@@ -32,14 +32,16 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Pronoun
 semantic_roles:
-  - Participant
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod не] NP [det какой-нибудь]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] бомжи [det какие-нибудь]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - бомж
   - проходимец

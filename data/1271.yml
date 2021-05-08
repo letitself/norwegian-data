@@ -36,6 +36,7 @@ part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
   - Action
+  - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -53,7 +54,7 @@ common_fillers:
   - тронуть
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

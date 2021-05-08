@@ -33,17 +33,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [nsubj NP-Nom] нести [obj NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] понес [obj [amod большие] убытки] [obl [case на] работе].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

@@ -3,9 +3,21 @@ record: 1195
 name: 'Adj-Cmp/Adv-Cmp многих'
 UD_name: 'Adj-Cmp/Adv-Cmp многих'
 illustration: 'Она казалась моложе многих.'
-cefr_level: 
+cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [производимое ими действие]Action (примеры 4, 5). У [одного объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [большого количества других ("многих"), с которыми он образует гомогенное множество]Standard.
 examples:
+  - |
+       [А. П. Зуева]Comparee была [откровеннее и простодушнее]Parameter многих.
+  - |
+       Ювелир – [профессия]Comparee денежная, [лучше]Parameter многих.
+  - |
+       Армия ― тоже своеобразное [высшее образование]Comparee, причем [труднее]Parameter многих.
+  - |
+       Впрочем, [она-то]Comparee о них [узнала]Action [раньше]Parameter многих: ясное дело ― от меня.
+  - |
+       Паша не мальчик. [Он]Comparee все [понимает]State [лучше]Parameter многих.
 morphology:
   - Adj
   - Cmp
@@ -19,20 +31,26 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
-  - ~
+  - Action
+  - Comparee
+  - Parameter
+  - Standard
+  - State
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root Adj-Cmp [obl многих]]'
   - '[advmod Adv-Cmp [obl многих]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] казалась [xcomp моложе] [obl многих].]'
+comment: |
+    'См. близкую конструкцию 1194 Adj-Cmp/Adv-Cmp прочих (Эта школа сильнее прочих)'
 common_fillers:
-  - ~
+  - лучше
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

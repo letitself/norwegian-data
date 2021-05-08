@@ -35,17 +35,20 @@ part_of_speech_of_anchor:
   - Preposition
   - Not Applicable
 semantic_roles:
-  - Quantity
   - Quantifier
   - Theme
+  - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case по] [nummod NumCrd] NP [nmod NP-Nom]]]'
   - '[dep NP [nmod [nummod NumCrd] NP [nmod NP-Nom]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Сколько] стоит?] [root [nummod:gov Три] рубля [nmod штучка], [conj [nummod:gov двадцать] рублей [nmod пучок]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - рубль
   - копейка; штука
@@ -55,7 +58,7 @@ common_fillers:
   - бутылка
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

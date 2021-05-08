@@ -3,7 +3,7 @@ record: 1406
 name: 'VP (у всех) на виду'
 UD_name: 'VP (у всех) на виду'
 illustration: 'Он пересчитал деньги у всех на виду.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case у] всех] [obl [case на] виду]]'
   - '[root VP [obl [case на] виду]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] пересчитал [obj деньги] [obl [case у] всех] [obl [case на] виду].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

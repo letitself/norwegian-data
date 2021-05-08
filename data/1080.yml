@@ -6,7 +6,7 @@ illustration: 'Гости из-за рубежа'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что [объекты]Theme или [участники]Participant имеют иностранное происхождение (примеры 1, 2). Также может обозначать, что исходной точкой их [перемещения]Action является другое государство (примеры 3, 4, 5). "Рубеж" в данном случае обозначает государственную границу. Слот XP может заполняться именной или глагольной группой.
+       Конструкция обозначает, что [объекты]Theme или [участники]Participant имеют иностранное происхождение (примеры 1, 2). Также может обозначать, что исходной точкой их [перемещения]Action является другое государство (примеры 3, 4, 5). «Рубеж» в данном случае обозначает государственную границу. Слот XP может заполняться именной или глагольной группой.
   - norwegian: |
        Konstruksjonen betyr at [objektene]Theme eller [deltakerne]Participant er av utenlandsk opprinnelse (eksempel 1 og 2). Den kan også bety at utgangspunktet for deres [forflytning]Action er en annen stat (eksempel 3, 4 og 5). "Рубеж" betyr i dette tilfellet statsgrense. Sloten XP kan fylles av en nominalfrase eller en verbalfrase.
 examples:
@@ -33,11 +33,11 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Action
   - Theme
   - Participant
-  - Set
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[dep XP [case из-за] рубежа]]'
@@ -52,7 +52,7 @@ common_fillers:
   - соотечественники
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

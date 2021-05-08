@@ -6,7 +6,7 @@ illustration: 'Десять в пятой степени – сто тысяч.'
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция формулирует математическую операцию возведения [числа]Quantity в степень и называет [результат]Result. Слот VP заполняется глагольными формами "равняется", "будет" или "получится". Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова "равно" или "равняется" (примеры 1, 2, 3). Со словами "будет" и "получится" или если они опущены, результат всегда выражен формой именительного падежа (примеры 4, 5).
+       Конструкция формулирует математическую операцию возведения [числа]Quantity в степень и называет [результат]Result. Слот VP заполняется глагольными формами «равняется», «будет» или «получится». Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова «равно» или «равняется» (примеры 1, 2, 3). Со словами «будет» и «получится» или если они опущены, результат всегда выражен формой именительного падежа (примеры 4, 5).
   - norwegian: |
        Konstruksjonen formulerer regneoperasjonen å opphøye [et tall]Quantity i en potens og angir [svaret]Result. Sloten VP fylles av verbformene 'равняется', 'будет' eller 'получится'. Ved bruk av ordene 'равно' eller 'равняется' kan svaret stå i nominativ eller dativ (eksempel 1, 2 og 3). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 4 og 5).
 examples:
@@ -38,10 +38,10 @@ part_of_speech_of_anchor:
   - Noun
   - Adjective
 semantic_roles:
-  - Quantity
   - Result
+  - Quantity
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NumCrd-Nom [nmod [case в] [amod NumOrd-Loc] степени]] – равно [xcomp NumCrd-Nom]]'
@@ -52,13 +52,15 @@ dependency_structure:
   - '[root [nsubj NumCrd-Nom [nmod [case в] NumOrd-Loc]] VP [xcomp NumCrd]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Десять [nmod [case в] [amod пятой] степени]] – [nummod:gov сто] тысяч.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - равняется
   - будет
   - получится
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Calculation
     subtypes:

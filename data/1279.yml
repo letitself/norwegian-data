@@ -6,7 +6,7 @@ illustration: 'Так как прошли ливни, началось наво�
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action, [ситуации]Situation или [мнения участника]Evaluation. Союз "так как" может располагаться как в начале, так и в середине предложения.
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action, [ситуации]Situation или [мнения участника]Evaluation. Союз «так как» может располагаться как в начале, так и в середине предложения.
   - norwegian: |
        Konstruksjonen betyr at én [handling eller situasjon]Cause er årsak til en annen [handling]Action, [situasjon]Situation eller [mening deltakeren har]Evaluation. Bindeleddet 'так как' kan stå så vel i begynnelsen som i midten av setningen.
 examples:
@@ -36,18 +36,20 @@ semantic_roles:
   - Evaluation
   - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [advcl [mark так [fixed как]] Cl]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Так [fixed как]] прошли] [nsubj ливни], началось [nsubj наводнение].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

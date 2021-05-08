@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] соответствии [nmod [case с] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] становится [xcomp [amod новым] президентом [nmod компании]] [obl [case в] соответствии [nmod [case с] [amod новыми] документами]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
   - type: Source of information

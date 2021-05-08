@@ -3,7 +3,7 @@ record: 867
 name: 'VP (отныне и) во веки веков'
 UD_name: 'VP (отныне и) во веки веков'
 illustration: 'Пусть там отныне и во веки веков все происходит так, как если бы нас не было.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root VP [advmod отныне [conj [cc и] [case во] веки [nmod веков]]]]'
   - '[root VP [obl [case во] веки [nmod веков]]]'
 dependency_structure_of_illustration:
   - '[root [advmod Пусть] [advmod там] [advmod отныне [conj [cc и] [case во] веки [nmod веков]]] [nsubj все] происходит [advmod так, [advcl [mark как] [mark если] [aux бы] [nsubj нас] [advmod не] было]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

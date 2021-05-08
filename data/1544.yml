@@ -3,7 +3,7 @@ record: 1544
 name: 'VP за (Аdj) копейки'
 UD_name: 'VP за (Аdj) копейки'
 illustration: 'Я купил машину за сущие копейки.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case за] [amod Аdj] копейки]]'
   - '[root VP [obl [case за] копейки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] купил [obj машину] [obl [case за] [amod сущие] копейки].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

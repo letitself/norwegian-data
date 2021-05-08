@@ -37,16 +37,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Situation
   - Experiencer
   - Assosiated
+  - Associated
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [obl [case с] NP-Ins] [cop Cop] NP-Nom]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] неё] [obl [case с] редактором] любовь.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - любовь
   - дружба
@@ -67,12 +70,10 @@ common_fillers:
   - был
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Possession
-    subtypes:
-      - type: Possession
 family:
   - |
     "Collective participant"

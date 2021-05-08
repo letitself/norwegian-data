@@ -35,16 +35,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
+  - Action
   - Location
+  - Participant
   - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [obj [nmod [case без] году] неделя] VP]'
 dependency_structure_of_illustration:
   - '[root Пробыл [nsubj я] [obl [case в] стране] [obj [nmod [case без] году] неделя], [conj [cc но] делаю [obj вид, [acl [mark что] [advmod не] чужой]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - здесь
   - у
@@ -53,7 +56,7 @@ common_fillers:
   - живет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

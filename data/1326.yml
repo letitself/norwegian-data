@@ -3,7 +3,7 @@ record: 1326
 name: 'NP в виде NP-Gen'
 UD_name: 'NP в виде NP-Gen'
 illustration: 'Вышивка в виде цветов способна украсить любой костюм.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] виде [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вышивка [nmod [case в] виде [nmod цветов]]] способна [xcomp украсить [obj [det любой] костюм]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

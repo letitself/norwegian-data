@@ -33,21 +33,23 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - Situation
   - Cause
+  - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case из-за] того'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] обиделся [obl [case из-за] того, [acl [mark что] [nsubj ты] [obj ничего] [iobj мне] [obl [case об] этом] [advmod не] сказала]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

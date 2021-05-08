@@ -3,10 +3,10 @@ record: 2169
 name: 'NP-Nom разбираться в NP-Loc'
 UD_name: 'NP-Nom разбираться в NP-Loc'
 illustration: 'Он хорошо разбирается в машинах.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       Evaluation of intellectual ability, mental ability - 'good at doing something'
+       Evaluation of intellectual ability, mental ability - «good at doing something»
 examples:
 morphology:
   - NP
@@ -25,12 +25,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] разбираться [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod хорошо] разбирается [obl [case в] машинах].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

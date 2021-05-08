@@ -37,12 +37,14 @@ semantic_roles:
   - Action
   - Limit
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] нарушение [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] [obl [case в] нарушение [nmod [det всех] правил]] дали [obj согласие [nmod [case на] строительство]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - правил
   - требований
@@ -53,7 +55,7 @@ common_fillers:
   - устава
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

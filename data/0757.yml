@@ -32,23 +32,26 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Action
   - Comparee
   - Standard
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] духе [nmod NP-Gen]]]'
   - '[root VP [obl [case в] духе [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[dep Рассказ [nmod [case в] духе [nmod Чехова]]]'
+comment: |
+    'См. близкую конструкцию 1214 NP/VP в стиле NP-Gen (Истории в стиле Андерсена)'
 common_fillers:
   - время
   - эпоха
   - традиция
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

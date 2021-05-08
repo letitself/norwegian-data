@@ -37,19 +37,22 @@ part_of_speech_of_anchor:
   - Noun
   - Conjunction
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [obl [case без] NP-Gen] [case как] [case без] рук]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [obl [case без] часов] [case как] [case без] рук.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - часы
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Comparison

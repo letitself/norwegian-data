@@ -3,7 +3,7 @@ record: 1899
 name: 'Cl помимо NP-Gen'
 UD_name: 'Cl помимо NP-Gen'
 illustration: 'Помимо продуктов на ужин мы купили бутылку вина.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case помимо] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case Помимо] продуктов] [obl [case на] ужин] [nsubj мы] купили [obj бутылку [nmod вина]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Additive
 family:

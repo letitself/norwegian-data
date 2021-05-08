@@ -3,7 +3,7 @@ record: 896
 name: 'VP вплоть до NP-Gen'
 UD_name: 'VP вплоть до NP-Gen'
 illustration: 'Мы просидели за столом вплоть до позднего вечера.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [advmod вплоть] [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] просидели [obl [case за] столом] [obl [advmod вплоть] [case до] [amod позднего] вечера].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

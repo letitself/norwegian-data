@@ -3,7 +3,7 @@ record: 925
 name: 'Verb-Imp, что хотеть-Prs.2, (но) Cl'
 UD_name: 'V-Imper, что хотеть-Pres.2, (но) Cl'
 illustration: 'Говори, что хочешь – я своё решение не изменю!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -26,18 +26,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Verb-Imp, [ccomp [obj что] хотеть-Prs.2], [parataxis Cl]]'
   - '[root Verb-Imp, [ccomp [obj что] хотеть-Prs.2], [conj [но] Cl]]'
 dependency_structure_of_illustration:
   - '[root Говори, [ccomp [obj что] хочешь] – [parataxis [nsubj я] [obj [det своё] решение] [advmod не] изменю]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

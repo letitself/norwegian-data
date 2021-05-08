@@ -3,7 +3,7 @@ record: 2196
 name: 'XP – это мысль!'
 UD_name: 'XP – это мысль!'
 illustration: 'Прогулка на свежем воздухе – это мысль!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        А что? Подружиться с библиотекаршей – это мысль. ТОЛЬКО В НАСТОЯЩЕМ, проверила на была мысль в корпусе нет
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [dep XP] – [expl это] мысль!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Прогулка [nmod [case на] [amod свежем] воздухе]] – [expl это] мысль!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

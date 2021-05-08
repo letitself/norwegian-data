@@ -3,7 +3,7 @@ record: 825
 name: 'в сущности, XP/Cl'
 UD_name: 'в сущности, XP/Cl'
 illustration: 'Это, в сущности, единственный аргумент в их пользу.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [parataxis [case в] сущности], Cl]'
   - '[root [parataxis [case в] сущности], XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это], [parataxis [case в] сущности], [amod единственный] аргумент [nmod [case в] [det их] пользу].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

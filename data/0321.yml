@@ -38,11 +38,13 @@ dependency_structure:
   - '[root [advmod так] [nsubj NP-Nom] [advmod и] VP!]'
 dependency_structure_of_illustration:
   - '[root [advmod Так] [nsubj я] [iobj тебе] [advmod и] поверила!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Завязкина И. Н. Семантические, грамматические и функциональные особенности слова "так" в современном русском языке. Дисс. ... кандидата фиологических наук. Ставрополь, 2003. См. стр. 147.
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

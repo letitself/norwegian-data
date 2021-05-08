@@ -3,7 +3,7 @@ record: 1020
 name: 'естественным образом VP'
 UD_name: 'естественным образом VP'
 illustration: 'Протестующие естественным образом потребовали и других перемен.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        как ожидалось, естественно. ?Они исчезнут естественным образом, если спрос на их услуги упадёт. , которая естественным образом потребовала и других перемен. Размышляя об Ольге, я, естественным образом, вспомнил о Леле,
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root [obl [amod естественным] образом] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Протестующие] [obl [amod естественным] образом] потребовали [obj [advmod и] [amod других] перемен].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

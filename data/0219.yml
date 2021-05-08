@@ -6,7 +6,7 @@ illustration: 'Родители несут ответственность за �
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что кто-либо является ответственным за [кого-либо или что-либо]Theme или готов отвечать за [совершенные действия]Theme, [поступки]Theme и их [последствия.]Theme ЗАПИСИ они ответственны. Это скорее характеристика, чем действие субъекта, и в этом специфика этой конструкции.
+       Конструкция обозначает характеристику значимой роли человека в некоторой области или ситуации.
   - english: |
        This construction means that someone is responsible for, or prepared to take responsibility for, [someone or something]Theme.
   - norwegian: |
@@ -35,17 +35,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] нести [obj ответственность] [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Родители] несут [obj ответственность] [obl [case за] детей].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

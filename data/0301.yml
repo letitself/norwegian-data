@@ -6,7 +6,7 @@ illustration: 'Этот концерт был своего рода дебюто
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция описывает [некоторый объект или событие]Theme с помощью указания на его приблизительное сходство с [другим явлением]Theme .
+       Конструкция характеризует [некоторый объект, участника или событие]Theme через указание на его приблизительное сходство с [другим явлением]Evaluation. Отмеченное сходство подается как субъективная оценка говорящего. Говорящий предлагает наиболее подходящую с его точки зрения [номинацию]Evaluation для этого участника или объекта
   - english: |
        This construction is used to describe [something]Theme by comparing it to [something else]Theme. In English the construction can often be translated as ‘like’, e.g. этот концерт был своего рода дебютом для организаторов ‘this concert was like a debut for the organizers’.
   - norwegian: |
@@ -18,6 +18,10 @@ examples:
        [Поход в кино]Theme сегодня стал своего рода [праздником]Evaluation, на который отправляются, как правило, в компании, с семьей, друзьями.
   - |
        Теперь я понимаю, что [любовь]Theme ― это своего рода [бизнес]Evaluation, у каждого свой риск.
+  - |
+       [Многие трудности]Theme образуют своего рода [порочный круг]Evaluation, когда одна проблема порождает множество других.
+  - |
+       И так получилось, что два культурных человека превратили [более чем лёгкий жанр]Theme в своего рода [образец искусства]Evaluation.
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -30,23 +34,26 @@ part_of_speech_of_anchor:
   - Pronoun
   - Noun
 semantic_roles:
-  - ~
+  - Evaluation
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [nmod [det своего] рода] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] концерт] [cop был] [nmod [det своего] рода] дебютом [obl [case для] организаторов].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:
-      - type: Imitation
+      - type: Similarity
   - type: Salient property
     subtypes:
       - type: Belonging to a class

@@ -32,10 +32,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case из] угла] [obl [case в] угол]]'
@@ -51,7 +51,7 @@ common_fillers:
   - бродить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

@@ -3,7 +3,7 @@ record: 1147
 name: 'у NP-Gen Cop Adj вид'
 UD_name: 'у NP-Gen Cop Adj вид'
 illustration: 'У Пети очень довольный вид.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -23,22 +23,23 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [case у] NP-Gen [cop Cop] [nsubj [amod Adj] вид]]'
 dependency_structure_of_illustration:
   - '[root [case У] Пети [nsubj [advmod очень] [amod довольный] вид].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:
       - type: Sensory property
-  - type: Temporary characteristics
 family:
   - |
     ""

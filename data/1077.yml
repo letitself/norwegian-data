@@ -33,15 +33,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Participant
+  - Theme
   - Set
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[dep NP [nmod [case из] среды [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[nsubj [amod Постоянные] читатели [nmod [case из] среды [nmod ученых]]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - выходцы
   - люди
@@ -51,7 +54,7 @@ common_fillers:
   - предприниматели
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

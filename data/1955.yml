@@ -6,7 +6,7 @@ illustration: 'Мы втроём с Петей и Катей пошли на р�
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [участник]Participant вместе с другим [участником или группой участников]Associated выполняют совместное [действие]Action, вместе испытывают некоторое [состояние]State или вместе и в одной и той же роли участвуют в некоторой ситуации. В конструкции названо точное [количество]Quantity участников ситуации. Слот PronPers-Pl обозначает всех участников ("мы вдвоем с отцом" значит "я и отец").
+       Конструкция обозначает, что некоторый [участник]Participant вместе с другим [участником или группой участников]Associated выполняют совместное [действие]Action, вместе испытывают некоторое [состояние]State или вместе и в одной и той же роли участвуют в некоторой ситуации. В конструкции названо точное [количество]Quantity участников ситуации. Слот PronPers-Pl обозначает всех участников («мы вдвоем с отцом» значит 'я и отец').
   - norwegian: |
        Konstruksjonen betyr at en gitt [deltaker]Participant og en annen [deltaker eller gruppe deltakere]Assosiated sammen utfører en [handling]Action, opplever en gitt [tilstand]State eller at de sammen og i samme rolle deltar i en gitt situasjon. Det eksakte [antallet]Quantity deltakere i situasjonen er angitt i konstruksjonen. Sloten PronPers-Pl betegner alle deltakerne ("мы вдвоем с отцом" betyr "я и отец").
 examples:
@@ -36,13 +36,16 @@ part_of_speech_of_anchor:
   - Adverb
   - Preposition
 semantic_roles:
+  - Patient
   - Action
+  - Experiencer
   - State
-  - Participant
+  - Agent
   - Associated
   - Quantity
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj PronPers-Pl] [advmod вдвоём [obl [case с] NP-Ins]]]'
@@ -61,7 +64,7 @@ common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
 family:

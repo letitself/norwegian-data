@@ -32,17 +32,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Situation
-  - Participant
   - Agent
+  - Participant
+  - Situation
   - Activity
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case у] NP-Gen] [obl [case под] носом]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Афиша] [obl [det всё] [det это] время] [cop была] [obl [case у] меня] [case под] носом, [conj [cc а] [nsubj я] заметил [obj её] [advmod [advmod только] сейчас]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - твориться
   - случиться
@@ -50,7 +52,7 @@ common_fillers:
   - происходить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

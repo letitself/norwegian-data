@@ -35,9 +35,10 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
   - Cause
+  - State
   - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [obl [case благодаря] тому'
@@ -47,10 +48,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие конструкции 1280 Cl, благодаря чему Cl (Грудное молоко имеет особую структуру, благодаря чему оно хорошо усваивается) и 1290 VP благодаря NP-Dat (Благодаря труду человек выделился из природы)'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

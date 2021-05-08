@@ -3,7 +3,7 @@ record: 1306
 name: 'Да VP-Prs/VP-Fut NP-Nom!'
 UD_name: 'Да VP-Pres/VP-Fut NP-Nom!'
 illustration: 'Да будет свет!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Formal
 dependency_structure:
   - '[root [cc да] VP-Prs [nsubj NP-Nom]!]'
   - '[root [cc да] VP-Fut [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
   - '[root [cc Да] будет [nsubj свет]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Routine
     subtypes:

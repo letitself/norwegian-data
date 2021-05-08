@@ -36,15 +36,18 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
+  - Action
   - Possessor
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl [case в] руках [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [det Все] решения] [cop были] [case в] руках [nmod капитана].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - находиться
   - оставаться
@@ -55,7 +58,7 @@ common_fillers:
   - игрушка
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Temporary characteristics

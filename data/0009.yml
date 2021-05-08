@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что какое-либо [действие]Action продолжается долгое время и по-прежнему не заканчивается, несмотря на желание говорящего прекратить или остановить его.
+  - english: |
+       The construction means that some [action]Action has been continuing for a long time and still does not end, despite the speaker’s desire to discontinue or stop it.
   - norwegian: |
        Konstruksjonen betyr at [en handling]Action har pågått lenge og enda ikke tar slutt, til tross for talerens ønske om å avslutte eller stanse den.
 examples:
@@ -36,20 +38,22 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod никак] [advmod не] VP-Ipfv]'
   - '[root [advmod всё] [advmod никак] [advmod не] VP-Ipfv]'
 dependency_structure_of_illustration:
   - '[root [nsubj Задача] [advmod всё] [advmod никак] [advmod не] решалась.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - мог
   - могла
   - могли
 references:
   - |
-    
+    См. также статью Чуйкова О. Ю. Некоторые особенности выражения значений, соответствующих подготовительной стадии ситуации, в русском языке //Вестник СПбГУ. Серия 9. 2015. Вып. 3. С. 179–189.
 semantic_types:
   - type: Degree of intensity
     subtypes:

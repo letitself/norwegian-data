@@ -6,7 +6,7 @@ illustration: 'Чтобы он опоздал?! Он всегда выходит
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция, которая выражает высшую степень удивления говорящего о [некотором участнике]Participant . Говорящий считает, что участник никогда не выполняет [ожидаемого действия]Action . Участником может быть сам говорящий. В некоторых случаях вместо "чтобы" используется более разговорный вариант "чтоб".
+       Конструкция, которая выражает высшую степень удивления говорящего о [некотором участнике]Participant . Говорящий считает, что участник никогда не выполняет [ожидаемого действия]Action . Участником может быть сам говорящий. В некоторых случаях вместо «чтобы» используется более разговорный вариант «чтоб».
   - english: |
        This construction is used to express surprise and means that it would be extremely atypical of [themselves or someone else]Participant to do [something]Action. A closely related construction in English is ‘as if X does/would do Y’, e.g. Чтобы он опоздал! Он всегда выходит вовремя ‘As if he comes/would come late! He always leaves on time.’ Sometimes, the colloquial чтоб is used instead of чтобы.
   - norwegian: |
@@ -41,11 +41,13 @@ dependency_structure:
   - '[root [mark чтоб] [nsubj PronPers-Nom] Verb-Pst!]'
 dependency_structure_of_illustration:
   - '[root [mark Чтобы] [nsubj он] опоздал?!] [root [nsubj Он] [advmod всегда] выходит [advmod вовремя].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Mirative
   - type: Reaction to the previous discourse

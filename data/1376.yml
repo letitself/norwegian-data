@@ -34,10 +34,10 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Agent
   - Action
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case под] руководством [nmod NP-Gen]]]'
@@ -57,7 +57,7 @@ common_fillers:
   - отец
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

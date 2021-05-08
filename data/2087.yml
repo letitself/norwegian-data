@@ -20,7 +20,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nummod NumCrd] час [nmod утра]]'
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root [nummod NumCrd] час [nmod ночи]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] прилетаем [obl [case в] [nummod:gov два] часа [nmod ночи]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

@@ -30,17 +30,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Журнал] [obl [case за] ноябрь] [advmod скоро] выйдет [obl [case из] печати].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

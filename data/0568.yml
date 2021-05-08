@@ -9,8 +9,6 @@ definitions:
        Конструкция выражает неуверенность, сомнение, недоверие говорящего к высказыванию другого участника. Говорящий недоволен или не ожидал таких [действий]Action другого [участника]Agent . Говорящий на основании только что открывшейся информации проверяет информациюю у другого участника.
   - english: |
        This construction expresses the speaker's uncertainty, doubt, distrust to what another participant tells them. The speaker is displeased with or did not expect the other [participant]Agent to perform such actions. On the basis of the information given the speaker verifies this with another participant.
-  - norwegian: |
-       N/A
 examples:
   - |
        [Он]Agent что, тебе [не поверил?]Action
@@ -46,11 +44,13 @@ dependency_structure:
   - '[root [dep NP] что, [dislocated [cop Cop] Pred]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] что, [dislocated выпивает]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

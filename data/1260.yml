@@ -6,7 +6,7 @@ illustration: 'Мы не можем разместить в кабинете 50 
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторая, обычно нежелательная, [ситуация]Situation происходит по причине другой [ситуации или действия]Cause.
+       Конструкция обозначает, что некоторая, обычно нежелательная, [ситуация]Situation происходит вследствие другой [ситуации или действия]Cause.
   - norwegian: |
        Konstruksjonen betyr at en gitt, vanligvis uønsket, [situasjon]Situation pågår som følge av en annen [situasjon eller handling]Cause.
 examples:
@@ -34,21 +34,24 @@ part_of_speech_of_anchor:
   - Pronoun
   - Conjunction
 semantic_roles:
-  - Situation
   - Cause
+  - Sitiation
+  - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root Cl [obl [case по] причине [nmod того'
   - '[acl [mark что] Cl]]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] можем [xcomp разместить [obl [case в] кабинете] [obj [nummod:gov 50] человек] [obl [case по] причине [nmod того, [acl [mark что] [nsubj:pass он] рассчитан [obl [advmod всего] [case на] 30]]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

@@ -3,7 +3,7 @@ record: 741
 name: 'хоть XP, Cl'
 UD_name: 'хоть XP, Cl'
 illustration: 'Будь у меня хоть миллион дел, я бы всё равно нашёл время позвонить тебе.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,18 +20,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [advmod хоть] XP]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl Будь] [obl [case у] меня] [nsubj [advmod хоть] [nummod:gov миллион] дел], [nsubj я] [aux бы] [advmod всё [fixed равно]] нашёл [obj время] [xcomp позвонить [iobj тебе]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

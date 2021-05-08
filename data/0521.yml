@@ -34,15 +34,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Container
   - Content
+  - Container
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case из-под] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root Коробка [nmod [case из-под] торта]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - бутылка
   - коробка

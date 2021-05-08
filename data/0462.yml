@@ -6,18 +6,20 @@ illustration: 'У него голова тыквой.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что [определенная часть тела]Object имеет или повторяет [какую-либо форму]ThemeNP.
+       Конструкция обозначает, что [определенная часть тела участника]Comparee имеет или повторяет форму [некоторого предмета]Standard.
   - english: |
-       This construction denotes that [a certain body part]Object has or resembles the shape of [some object]Theme.
-  - norwegian: |
-       N/A
+       This construction denotes that [a certain body part]Comparee has or resembles the shape of [some object]Standard.
 examples:
   - |
-       У настоящих слонов [ноги]Object [столбами]Theme, [уши]Object [лопухами.]Theme
+       У настоящих слонов [ноги]Comparee [столбами]Standard, [уши]Comparee [лопухами]Standard.
   - |
-       В Кате, хоть ей было под сорок, действительно было что-то от цыпленка: [длинный нос]Object [клювиком.]Theme
+       В Кате, хоть ей было под сорок, действительно было что-то от цыпленка: [длинный нос]Comparee [клювиком]Standard.
   - |
-       Низкий, без единой морщинки лоб, жёлтые кустики бровей, [ротик]Object [бантиком]Theme ― всё это придавало его физиономии важное качество внешности вора: незаметность.
+       Низкий, без единой морщинки лоб, жёлтые кустики бровей, [ротик]Comparee [бантиком]Standard ― всё это придавало его физиономии важное качество внешности вора: незаметность.
+  - |
+       У нее был маникюр, седенькие тоненькие [косички]Comparee [кулечком]Standard на макушке и [брови]Comparee [полумесяцем]Standard.
+  - |
+       Одна тихоня, другая оторва, один на двоих [смешной нос]Comparee [картошкой]Standard.
 morphology:
   - NP
   - Ins
@@ -30,19 +32,22 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[dep NP [nmod NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [case У] него [nsubj голова [nmod тыквой]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

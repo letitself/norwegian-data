@@ -3,7 +3,7 @@ record: 1845
 name: 'PronPers-Dat бы (лучше) VP-Inf'
 UD_name: 'PronPers-Dat бы (лучше) VP-Inf'
 illustration: 'Тебе бы лучше немного поспать.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -23,18 +23,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [iobj PronPers-Dat] [aux бы] лучше [csubj VP-Inf]]'
   - '[root [iobj PronPers-Dat] [aux бы] VP-Inf]'
 dependency_structure_of_illustration:
   - '[root [iobj Тебе] [aux бы] лучше [csubj [advmod немного] поспать].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

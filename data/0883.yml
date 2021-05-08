@@ -3,7 +3,7 @@ record: 883
 name: 'вот и Pred, что Cl'
 UD_name: 'вот и Praedic, что Cl'
 illustration: 'Вот и хорошо, что он не узнал тебя.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Есть ограничение на Adv: только положительная оценка. только в наст времени, не ставим Cop,  наречие или краткое прил. тяготеет к вводным уже, наличие связки проблематично
@@ -23,13 +23,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod вот] [advmod и] Pred'
   - '[csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod и] хорошо, [csubj [mark что] [nsubj он] [advmod не] узнал [obj тебя]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

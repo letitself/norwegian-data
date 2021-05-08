@@ -3,7 +3,7 @@ record: 894
 name: 'во́т что Cl'
 UD_name: 'во́т что Cl'
 illustration: 'Во́т что меня волнует.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advmod вот] [dep что] Cl]'
 dependency_structure_of_illustration:
   - '[root [advmod Во́т] [nsubj что] [obj меня] волнует.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

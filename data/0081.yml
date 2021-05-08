@@ -6,16 +6,20 @@ illustration: 'Всё те же лица.'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы подчеркнуть полную идентичность [объекта]Theme с тем, который уже известен из предыдущего контекста.
+       Конструкция выражает сравнение и подчеркивает полную тождественность [объекта]Theme или [участника]Participant с тем, который уже известен из предыдущего контекста.
   - english: |
-       The construction is used to emphasize the complete identity of an [object]Theme which is already known from previous context. A form of the verb "быть" is used in the past or future tense.
+       The construction is used to emphasize the complete identity of an [object]Theme which is already known from previous context.
 examples:
   - |
-       Заявки на конкурс подали всё те же [участники]Theme.
+       За победу в следующем чемпионате мира будет сражаться всё тот же [Михаэль Шумахер]Participant, который уже участвовал в прошлом году.
   - |
-       За победу в следующем чемпионате мира будет сражаться всё тот же [Михаэль Шумахер]Theme, который уже участвовал в прошлом году.
+       Я не специалист в этой области, но могу сказать, что это современная, совершенно новая и свежая интерпретация циркового искусства, хотя [персонажи]Participant вроде бы все те же — акробаты, гимнасты, клоуны…
   - |
-       Весь мир изменился, всё другое, только [эта прекрасная женщина]Theme была всё та же.
+       Я ещё размышлял, стоит ли сейчас этим заниматься, а телефон уже зазвонил, и, сняв трубку, я услышал всё тот же [голос.]Theme
+  - |
+       Весь мир изменился, всё другое, только этот [дом]Theme всё тот же.
+  - |
+       И правда, женщина за время дебатов появлялась в этом кабинете уже несколько раз. Это была всё та же [секретарша.]Participant
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -28,19 +32,23 @@ part_of_speech_of_anchor:
   - Pronoun
   - Particle
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod всё] [det те [advmod же]] NP]'
 dependency_structure_of_illustration:
   - '[root [advmod Всё] [det те [advmod же]] лица.]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - лица
+  - участники
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

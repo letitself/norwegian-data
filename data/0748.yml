@@ -39,15 +39,19 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Experiencer
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case у] NP-Gen] [nsubj NP-Nom] [advmod не] [case как] [case у] людей]'
   - '[root [nsubj NP-Nom] [advmod не] [case как] [case у] людей]'
 dependency_structure_of_illustration:
   - '[root [obl [case У] вас] [nsubj всё] [advmod не] [case как] [case у] людей.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

@@ -3,7 +3,7 @@ record: 2215
 name: 'обречённый на NP-Acc'
 UD_name: 'обречённый на NP-Acc'
 illustration: 'Обречённый на провал'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[amod обречённый [obl [case на] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[amod Обречённый [obl [case на] провал]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

@@ -29,18 +29,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[dep [cc не [fixed то]] XP'
   - '[conj [cc не [fixed то]] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] пошел [obl [cc не [fixed то]] [case к] себе] [obl [case на] дачу, [conj [cc не [fixed то]] [case на] станцию]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    See also Israeli, Alina. 2007. Russian conjunctions: two types of uncertainty. In: Journal of Uncertain Systems 4. P. 267-276.
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

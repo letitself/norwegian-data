@@ -36,11 +36,13 @@ dependency_structure:
   - '[root станет [nsubj NP-Nom] [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root Станет [nsubj он] [xcomp [obj посуду] мыть]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Сай С.С., Короткова Н. Глагол стать в русском языке: семантика, синтаксис, грамматикализация. Доклад на III Конференции по типологии и грамматике для молодых исследователей, ИЛИ РАН, Санкт-Петербург, 2-4 ноября 2006 г. 
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

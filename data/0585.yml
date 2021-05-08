@@ -33,17 +33,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
-  - Agent
   - Action
   - Addressee
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case перед] NP-Ins]]]'
   - '[dep NP [nmod [case перед] NP-Ins]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] умел [xcomp говорить [obl [case перед] [amod большой] публикой]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - выступать
   - отвечать
@@ -55,7 +57,7 @@ common_fillers:
   - публика
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Addressee
     subtypes:

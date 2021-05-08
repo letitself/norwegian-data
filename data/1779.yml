@@ -3,7 +3,7 @@ record: 1779
 name: 'VP в NP-Loc'
 UD_name: 'VP в NP-Loc'
 illustration: 'Девушка была в страшном волнении.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Девушка] [cop была] [case в] [amod страшном] волнении.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

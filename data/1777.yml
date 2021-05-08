@@ -3,7 +3,7 @@ record: 1777
 name: 'ни слова не VP'
 UD_name: 'ни слова не VP'
 illustration: 'Виталий уехал, не сказав жене ни слова.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obj [advmod ни] слова] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Виталий] уехал, [advcl [advmod не] сказав [iobj жене] [obj [advmod ни] слова]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

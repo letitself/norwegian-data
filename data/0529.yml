@@ -5,6 +5,8 @@ UD_name: 'NP-Nom на-V NP-Gen.Plur'
 illustration: 'Он навёз домой много вещей.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает накопительный характер [действия]Action, в процессе которого некоторый [объект]Container наполняется [веществом]Contained.
 examples:
 morphology:
   - NP
@@ -23,17 +25,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] на-Verb [obj NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] навёз [advmod домой] [obj [nummod:gov много] вещей].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Зализняк А. А., Шмелев А.Д. 2000. Введение в русскую аспектологию. Москва. Издательство «Языки русской культуры». С. 114.
 semantic_types:
   - type: Actionality
     subtypes:

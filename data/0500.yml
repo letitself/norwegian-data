@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] так [obl себе]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Картина] так [obl себе].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

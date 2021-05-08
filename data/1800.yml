@@ -29,19 +29,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[advmod Adv-овато]'
   - '[advmod Adv-евато]'
 dependency_structure_of_illustration:
   - '[root [obl [case После] переезда] [obl [case в] доме] [aux:pass было] пустовато.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - пустовато
   - глуповато
 references:
   - |
-    About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation.
+    About morphological markers of attenuativity see Makarova, Anastasia. 2014. Makarova, Anastasia. 2014. Rethinking diminutives: a case study of Russian verbs. Doctoral Dissertation. UiT: The Arctic University of Norway.
 semantic_types:
   - type: Degree of intensity
     subtypes:

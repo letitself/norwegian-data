@@ -6,16 +6,20 @@ illustration: 'Открытка за пять рублей'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция используется в ситуации, когда участник собирается приобрести товар, [индивидуальная стоимость]Quantity которого равна [заявленной]Quantity. Может также быть копеек, кров, евро и другие валюты.
+       Конструкция обозначает, что при [покупке]Action некоторый [товар или услуга]Theme имеет цену, которая выражена [количеством]Quantity [денежных единиц.]Measure Кроме рублей, в конструкции используются названия других денежных единиц и валют: копейка, крона, евро, доллар, и др. Если использовано числительное «один», «одна» или «одно», то [денежная единица]Measure стоит в винительном падеже, в остальных случаях в родительном падеже.
   - english: |
        This construction is used when a [participant]Participant purchases goods, the [price]Quantity of which equals the [given amount]Quantity.
 examples:
   - |
-       Родная мама купила у меня экземпляр журнала за [20]Quantity рублей, а редактор Василий Панченко за [30]Quantity.
+       Шестнадцатилетняя дочь однажды заявляет маме: «Себе ты [купила]Action [босоножки]Theme за [две тысячи]Quantity, а мне всего за [пятьсот]Quantity [рублей!»]Measure
   - |
-       Они оказываются милыми людьми и за [пятьдесят]Quantity рублей готовы сторожить мою машину часа три.
+       Они оказываются милыми людьми и за [два]Quantity [франка]Measure готовы [сторожить мою машину]Action часа три.
   - |
-       За [сто]Quantity рублей сейчас можно купить разве что жвачку
+       Главный издатель учебников Pearson [продал]Action за [один миллиард]Quantity [долларов]Measure [часть издательства Penguin Random House]Theme своему партнеру по бизнесу.
+  - |
+       Я подарил ей хорошую [сумку]Theme за [шестьдесят]Quantity [долларов.]Measure
+  - |
+       Другие продавцы так рекламируют товар: «Арахис: один стакан 20 рублей, для экономных ― [семь стаканов]Theme за [100]Quantity [рублей».]Measure
 morphology:
   - NP
   - VP
@@ -31,20 +35,27 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
+  - Theme
+  - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] [nummod NumCrd-Acc] рублей]]'
   - '[dep NP [nmod [case за] [nummod NumCrd-Acc] рублей]]'
 dependency_structure_of_illustration:
   - '[obj Открытка [nmod [case за] [nummod:gov пять] рублей]]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - купить
+  - приобрести
+  - продать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

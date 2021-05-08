@@ -3,7 +3,7 @@ record: 705
 name: 'а что NP-Dat дать этот NP-Nom?'
 UD_name: 'а что NP-Dat дать этот NP-Nom?'
 illustration: 'А что ему даст эта победа?'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        Недоумение говорящего по поводу причины действия или ситуации и возможное недовольство
@@ -17,8 +17,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Verb Predicate
 syntactic_structure_of_anchor:
-  - Verb
-  - Object
+  - Verb and Object
 part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
@@ -33,11 +32,13 @@ dependency_structure:
   - '[root [cc а] [obj что] [iobj NP-Dat] дать [nsubj [det этот] NP-Nom]?]'
 dependency_structure_of_illustration:
   - '[root [cc А] [obj что] [iobj ему] даст [nsubj [det эта] победа]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

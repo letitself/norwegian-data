@@ -3,7 +3,7 @@ record: 1543
 name: 'VP минимум/максимум NumCrd NP-Gen'
 UD_name: 'VP минимум/максимум NumCrd NP-Gen'
 illustration: 'Это займёт минимум два часа.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -22,23 +22,27 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [nummod [advmod минимум] NumCrd] NP]]'
   - '[root VP [obl [nummod [advmod максимум] NumCrd] NP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] займёт [obl [nummod:gov [advmod минимум] два] часа].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:
       - type: Approximate
   - type: Measure
+    subtypes:
+      - type: Unrestricted domain
 family:
   - |
     ""

@@ -3,7 +3,7 @@ record: 1504
 name: 'если бы в своё время NP-Nom VP-Pst, (то) (не) VP-Pst бы'
 UD_name: 'если бы в своё время NP-Nom VP-Past, (то) (не) VP-Past бы'
 illustration: 'Если бы в своё время она вышла замуж, то сейчас не была бы одна.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -29,7 +29,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark если] [aux бы] [obl [case в] [det своё] время] [nsubj NP-Nom] VP-Pst], [mark то] [advmod не] VP-Pst [aux бы]]'
@@ -38,11 +38,13 @@ dependency_structure:
   - '[root [advcl [mark если] [aux бы] [obl [case в] [det своё] время] [nsubj NP-Nom] VP-Pst], VP-Pst [aux бы]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Если] [aux бы] [obl [case в] [det своё] время] [nsubj она] вышла [advmod замуж]], [mark то] [advmod сейчас] [advmod не] [cop была] [aux бы] одна.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Purpose

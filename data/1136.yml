@@ -39,13 +39,15 @@ semantic_roles:
   - Participant
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case на] [det PronPoss-Loc] стороне]'
   - '[root [nsubj NP-Nom] [cop Cop] [case на] стороне [nmod NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] [det этом] споре] [nsubj я] [case на] [det вашей] стороне.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - его
   - ее

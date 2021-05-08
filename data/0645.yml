@@ -36,15 +36,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - Set
   - Action
+  - Set
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] готовили [obj обед] [obl [det всей] семьей].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - отделом
   - семьей
@@ -55,7 +57,7 @@ common_fillers:
   - классом
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Manner

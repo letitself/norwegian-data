@@ -3,7 +3,7 @@ record: 1421
 name: 'VP в себя'
 UD_name: 'VP в себя'
 illustration: 'Он в конце концов замолчал, совсем ушел в себя.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] себя]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case в] конце [nmod концов]] замолчал, [conj [advmod совсем] ушел [obl [case в] себя]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

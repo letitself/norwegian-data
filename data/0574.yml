@@ -34,12 +34,12 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Negation Marker
 semantic_roles:
-  - Participant
-  - Theme
-  - Status
   - Experiencer
+  - Theme
+  - Participant
+  - Status
 intonation:
-  - Exclamatory
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] [advmod не] NP-Nom]'
@@ -59,7 +59,7 @@ common_fillers:
   - игрушка
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

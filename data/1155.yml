@@ -3,7 +3,7 @@ record: 1155
 name: 'VP-Imp к чёрту/к чертям/ко всем чертям'
 UD_name: 'VP-Imper к чёрту/к чертям/ко всем чертям'
 illustration: 'Убирайся отсюда ко всем чертям!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
        General negative attitude to the situation on the side of the speaker - in all Curse constructions
@@ -35,11 +35,13 @@ dependency_structure:
   - '[root VP-Imp [obl [case ко] [det всем] чертям]!]'
 dependency_structure_of_illustration:
   - '[root Убирайся [advmod отсюда] [obl [case ко] [det всем] чертям]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

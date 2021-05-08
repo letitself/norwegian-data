@@ -3,7 +3,7 @@ record: 2236
 name: 'VP на всякий случай'
 UD_name: 'VP на всякий случай'
 illustration: 'Возьми зонт на всякий случай.'
-cefr_level: 
+cefr_level: A1
 definitions:
 examples:
 morphology:
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case на] [det всякий] случай]]'
 dependency_structure_of_illustration:
   - '[root Возьми [obj зонт] [obl [case на] [det всякий] случай].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
 family:

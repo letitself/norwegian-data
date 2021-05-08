@@ -35,10 +35,10 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Verb
 semantic_roles:
-  - Situation
   - Element
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [advcl [mark если] [advmod не] считать [obj NP-Gen]]'
@@ -48,10 +48,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. синонимичные конструкции 1902, 2030, 2031.'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
 family:

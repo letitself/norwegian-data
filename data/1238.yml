@@ -3,7 +3,7 @@ record: 1238
 name: 'быть-Imp (так) добрый-Short/любезный-Short VP-Inf'
 UD_name: 'быть-Imper (так) добрый-Short/любезный-Short VP-Inf'
 illustration: 'Будь добр отойти в сторону.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -25,7 +25,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [cop быть-Imp] добрый-Short [xcomp VP-Inf]]'
@@ -34,11 +34,13 @@ dependency_structure:
   - '[root [cop быть-Imp] [advmod так] любезный-Short [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [cop Будь] добр [xcomp отойти [obl [case в] сторону]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

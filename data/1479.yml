@@ -3,7 +3,7 @@ record: 1479
 name: 'жестоко VP'
 UD_name: 'жестоко VP'
 illustration: 'Я жестоко ошибся.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [advmod жестоко] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod жестоко] ошибся.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

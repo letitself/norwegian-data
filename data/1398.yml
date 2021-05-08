@@ -3,7 +3,7 @@ record: 1398
 name: 'NP-Nom Cop в шоколаде'
 UD_name: 'NP-Nom Cop в шоколаде'
 illustration: 'Они сами будут в шоколаде, одна я со своей доброй душой в дурах.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] [case в] шоколаде]'
 dependency_structure_of_illustration:
   - '[root [nsubj Они] [obl сами] [cop будут] [case в] шоколаде, [conj [nsubj [det одна] я [nmod [case со] [det своей] [amod доброй] душой]] [case в] дурах].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

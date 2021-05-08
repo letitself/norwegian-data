@@ -6,7 +6,7 @@ illustration: 'Он король футбола, король королей!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для того, чтобы показать, что [некоторый объект]Theme является лучшим представителем [своего класса]Property и по значимости превосходит других представителей. Конструкция используется для того, чтобы дать качественную оценку некоторому объекту, известному из контекста, причем название объекта обязательно повторяется. в косвенном падеже может быть, я приехал в столицу столиц. судьба недаром забросила меня в Столицу Столиц. Nominal pattern with reduplication - with the meaning 'best example'
+       Конструкция используется для того, чтобы показать, что [некоторый объект]Theme является лучшим представителем [своего класса]Property и по значимости превосходит других представителей. Конструкция используется для того, чтобы дать качественную оценку некоторому объекту, известному из контекста, причем название объекта обязательно повторяется. в косвенном падеже может быть, я приехал в столицу столиц. судьба недаром забросила меня в Столицу Столиц. Nominal pattern with reduplication - with the meaning «best example»
   - english: |
        This construction means that [a given object]Theme is an excellent, or the best, representative of its [class]Property. The object and class always have the same name, e.g. король ‘king’. A similar construction is found in such English expressions as “king of kings”, “miracle of miracles”, etc.
   - norwegian: |
@@ -36,12 +36,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root Noun [nmod Noun-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] король [nmod футбола], [conj король [nmod королей]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

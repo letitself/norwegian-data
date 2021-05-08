@@ -3,10 +3,10 @@ record: 1529
 name: 'один чёрт Cl'
 UD_name: 'один чёрт Cl'
 illustration: 'Один чёрт я ничего не понимаю!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
-       General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11. Значение некомпозициональное, значит "все равно", проверить по корпусу! значение "не важно" или "всё равно". черт мб заменён на фиг/хрен. как СОВСЕМ, наречие
+       General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11. Значение некомпозициональное, значит «все равно», проверить по корпусу! значение «не важно» или «всё равно». черт мб заменён на фиг/хрен. как СОВСЕМ, наречие
 examples:
 morphology:
   - Cl
@@ -22,12 +22,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [nummod один] чёрт] Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [nummodОдин] чёрт] [nsubj я] [obj ничего] [advmod не] понимаю!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

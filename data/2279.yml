@@ -3,7 +3,7 @@ record: 2279
 name: 'Cl, так (ведь)?'
 UD_name: 'Cl, так (ведь)?'
 illustration: 'До магазина недалеко, так ведь?'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [parataxis так [advmod ведь]]?]'
   - '[root Cl, [parataxis так]?]'
 dependency_structure_of_illustration:
   - '[root [obl [case До] магазина] недалеко, [parataxis так [advmod ведь]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Source of opinion
     subtypes:

@@ -3,9 +3,21 @@ record: 762
 name: 'в конечном счете VP'
 UD_name: 'в конечном счете VP'
 illustration: 'В конечном счете наши победили.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что продолжительные действия или ситуация закончились с некоторым [итогом]Result. Конструкция также может вводить [ситуацию, которая является финальной]Result в ряду других действий или ситуаций, произошедших до нее. Слот VP заполняют преимущественно глаголы совершенного вида.
 examples:
+  - |
+       Сколько бы вы ни выигрывали, вы всё равно [проиграете]Result в конечном счёте.
+  - |
+       Травмы в конечном счёте [оказались]Result не столь тяжёлыми, сколь сложными.
+  - |
+       От точности расчётов и прочности конструкции [зависит]Result в конечном счёте вся надёжность будущего жилья.
+  - |
+       В конечном счёте [остановились на космоплане ― орбитальном самолёте]Result.
+  - |
+       В конечном счете [от всего полка осталось семь человек]Result.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -20,21 +32,25 @@ part_of_speech_of_anchor:
   - Adjective
   - Noun
 semantic_roles:
-  - ~
+  - Result
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [obl [case в] [amod конечном] счете] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] [amod конечном] счете] [nsubj наши] победили.]'
+comment: |
+    'См. близкие конструкции 763, 1681, 1682'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

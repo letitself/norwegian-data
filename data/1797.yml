@@ -31,19 +31,21 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root под-Verb]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] подзабыла, [ccomp [obl [case о] чём] [nsubj мы] говорили [advmod вчера]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - подзабыть
   - подсохнуть
   - поднадоесть
 references:
   - |
-    About morphological markers of attenuativity cf. Makarova, Anastasia. 2014. Doctoral dissertation.
+    About morphological markers of attenuativity see Makarova, Anastasia. 2014. Makarova, Anastasia. 2014. Rethinking diminutives: a case study of Russian verbs. Doctoral Dissertation. UiT: The Arctic University of Norway; См. также Зализняк А. А., Шмелев А.Д. 2000. Введение в русскую аспектологию. Москва. Издательство «Языки русской культуры». С. 120.
 semantic_types:
   - type: Actionality
     subtypes:

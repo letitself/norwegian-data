@@ -3,7 +3,7 @@ record: 2181
 name: 'NP-Dat лучше Cop знать, Sconj Cl'
 UD_name: 'NP-Dat лучше Cop знать, SCONJ Cl'
 illustration: 'Маше лучше знать, почему её сегодня не было в школе.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] лучше [cop Cop] [csubj знать'
   - '[ccomp [dep PronInt] Cl]]]'
 dependency_structure_of_illustration:
   - '[root [iobj Маше] лучше [csubj знать, [ccomp [advmod почему] [nsubj её] [advmod сегодня] [advmod не] было [obl [case в] школе]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:

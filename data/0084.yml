@@ -2,22 +2,22 @@
 record: 84
 name: '(VP) все NumCrd NP-Gen'
 UD_name: '(VP) все NumCrd NP-Gen'
-illustration: 'Он купил детям все десять книг, которые они просили.'
+illustration: 'Он купил детям не пять книг, а все десять.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что [объекты]Theme или [участники]Participant определенного типа представлены точно в указанном [количестве]Quantity, в полном составе и согласно ожиданиям говорящего.
-  - english: |
-       This construction means that no less than the whole [amount]Number of [something]Theme is relevant in the given situation, e.g. все десять книг ‘all ten books’. The construction is synonymous with целых ‘whole’, e.g. целых десять книг ‘all ten books’.
-  - norwegian: |
-       Konstruksjonen betyr at ikke mindre enn det fulle [antallet]Number av [noe]Theme er relevant i en gitt situasjon, e.g. все десять книг ‘alle de ti bøkene’.
+       Конструкция специально подчеркивает точное [количество]Quantity [объектов]Theme, [участников]Participant или [единиц измерения]Measure. Подразумевается, что это число особенно важно для сообщения говорящего, поскольку оно больше, чем можно было ожидать.
 examples:
   - |
        До станции все [тридцать]Quantity [километров]Measure будет.
   - |
-       Заплатил бы не сто рублей, а все [двести]Quantity [рублей]Measure.
+       За такие ботинки я заплатил бы не сто [рублей]Measure, а все [двести]Quantity.
   - |
        На вид ей все [сорок]Quantity [лет]Measure.
+  - |
+       Зачем тратить время на размазанную на четыре, а то и на все [восемь]Quantity [серий]Measure «кашу», когда можно посмотреть нормальный двухчасовой фильм?
+  - |
+       Если в 1999 году совокупный капитал этой группы компаний вырос на 11 процентов, то в 2000-м ― уже на 16, а в 2001-м ― на все [19]Quantity [процентов.]Measure
 morphology:
   - VP
   - NumCrd
@@ -32,21 +32,37 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Pronoun
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [dep [det все] [nummod:gov NumCrd] NP-Gen]]'
   - '[dep [det все] [nummod:gov NumCrd] NP-Gen]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] купил [iobj детям] [obj [det все] [nummod:gov десять] книг], [obj которые] [nsubj они] [acl:relcl просили].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - лет
+  - года
+  - процента
+  - процентов
+  - километров
+  - рублей
 references:
   - |
-    
+    No references
 semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
   - type: Quantification
     subtypes:
       - type: Universal

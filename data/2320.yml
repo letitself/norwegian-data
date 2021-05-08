@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod вот] [nsubj PronPers-2.Nom] видеть-Prs.2, [conj [cc а] [nsubj PronPers-2.Nom] говорить-Prs.2: [parataxis XP]]]'
   - '[root [cc а] [nsubj PronPers-2.Nom] говорить-Prs.2: [parataxis XP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] видишь, [conj [cc а] [nsubj ты] говоришь: [parataxis пустяки]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

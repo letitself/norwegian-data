@@ -32,7 +32,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Obsolete
 dependency_structure:
   - '[root [dep ничто [det иное, [obl [case кроме] NP-Gen]]], Cl]'
@@ -41,11 +41,13 @@ dependency_structure:
   - '[root [dep никто] [amod иной], Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ничто [det иное, [obl [case кроме] экзаменов]]], [obj меня] [advmod не] интересует.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Exclusive
 family:

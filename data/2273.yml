@@ -3,7 +3,7 @@ record: 2273
 name: 'в-NumOrd-ых, Cl'
 UD_name: 'в-NumOrd-ых, Cl'
 illustration: 'Во-первых, я бы хотел поблагодарить своего тренера.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis в-NumOrd-ых]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis Во-первых], [nsubj я] [aux бы] хотел [xcomp поблагодарить [obj [det своего] тренера]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

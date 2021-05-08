@@ -3,7 +3,7 @@ record: 1706
 name: 'VP к ногам'
 UD_name: 'VP к ногам'
 illustration: 'Он бросился к ногам короля и стал молить о пощаде.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case к] ногам]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] бросился [obl [case к] ногам [nmod короля]] [conj [cc и] стал] [xcomp молить [obl [case о] пощаде]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

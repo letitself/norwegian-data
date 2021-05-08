@@ -3,7 +3,7 @@ record: 1746
 name: 'VP за город'
 UD_name: 'VP за город'
 illustration: 'Хочется поехать за город на выходные.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case за] город]]'
 dependency_structure_of_illustration:
   - '[root Хочется [xcomp поехать [obl [case за] город] [obl [case на] выходные]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

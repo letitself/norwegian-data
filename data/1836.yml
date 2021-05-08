@@ -6,7 +6,7 @@ illustration: 'Гости говорили о многих приятных ве
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция вводит в текст пояснение некоторого [общего понятия]Content с помощью перечисления ряда [конкретных частных примеров]Theme. Слово "то́" обязательно выделяется ударением (не путать с кАк-то). Синонимами "как то́" являются слова "а именно", "например". Слот XP чаще всего заполняется именной группой (примеры 1, 2), но может также заполняться предложной или глагольной группой (пример 5).
+       Конструкция вводит в текст пояснение некоторого [общего понятия]Content с помощью перечисления ряда [конкретных частных примеров]Theme. Слово «то́» обязательно выделяется ударением (не путать с кАк-то). Синонимами «как то́» являются слова «а именно», «например». Слот XP чаще всего заполняется именной группой (примеры 1, 2), но может также заполняться предложной или глагольной группой (пример 5).
   - norwegian: |
        Konstruksjonen gjør et [generelt begrep]Content i teksten klarere ved å ramse opp en rekke [konkrete, spesifikke eksempler]Theme. Ordet 'то́' må absolutt være trykkbetont (for å unngå forveksling med кАк-то). Synonymer til 'как то́' er ordene 'а именно' og 'например'. Sloten XP fylles oftest av en nominalfrase (eksempel 1 og 2), men kan også fylles av en preposisjonsfrase eller en verbalfrase (eksempel 5).
 examples:
@@ -36,10 +36,11 @@ part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
 semantic_roles:
+  - Content
   - Topic
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl'
@@ -49,14 +50,14 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкие по значению конструкции 1833 XP, а именно XP и 1841 например, Cl.'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:
-      - type: Exеmplification
+      - type: Exemplification
 family:
   - |
     "Illustration with an example"

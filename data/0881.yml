@@ -3,7 +3,7 @@ record: 881
 name: 'вот было бы здорово, если бы Cl'
 UD_name: 'вот было бы здорово, если бы Cl'
 illustration: 'Вот было бы здорово, если бы он позвонил!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -31,11 +31,13 @@ dependency_structure:
   - '[csubj [mark если] [aux бы] Cl]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [cop было] [aux бы] здорово, [csubj [mark если] [aux бы] [nsubj он] позвонил]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Causation
     subtypes:

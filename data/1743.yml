@@ -3,7 +3,7 @@ record: 1743
 name: 'XP снаружи'
 UD_name: 'XP снаружи'
 illustration: 'Мы укрепили стену снаружи.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -19,17 +19,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [advmod снаружи]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] укрепили [obj стену] [advmod снаружи].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

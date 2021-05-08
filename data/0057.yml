@@ -35,9 +35,10 @@ part_of_speech_of_anchor:
   - Verb
   - Conjunction
 semantic_roles:
-  - ~
+  - Action
+  - Agent
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] взять [conj [cc и] VP]]'
@@ -50,10 +51,12 @@ common_fillers:
   - уехал
 references:
   - |
-    Stojnova, N. M. (2007), The construction vzjat’ i sdelat’ ‘take and do’ in Russian [Konstrukcija vzjat’ i sdelat’ v russkom jazyke], Dudčuk, F. I., Ivlieva, N. V., Podobrjaev, A. V. (eds.), Structures and interpretations: Studies in theoretical and applied linguistics by young researchers [Struktury i interpretacii: raboty molodyx issledovatelej po teoretičeskoj i prikladnoj lingvistike], Moscow State University, Moscow, pp. 158–189.
+    Стойнова Н. М. Конструкция взять и сделать в русском языке // Дудчик Ф. И., Ивлиева Н. В., Подобряев А. В. (ред.). Структуры и интерпретации: работы молодых исследовательей по теопретической и прикладной лингвистике. Москва: МГУ. 2007. С. 158–189.
 semantic_types:
   - type: Mirative
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     ""

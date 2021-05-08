@@ -3,7 +3,7 @@ record: 1144
 name: 'NP с (Adj) видом (на NP-Acc)'
 UD_name: 'NP с (Adj) видом (на NP-Acc)'
 illustration: 'Номер с видом на море'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case с] [amod Adj] видом [nmod [case на] NP-Acc]]]'
@@ -31,11 +31,13 @@ dependency_structure:
   - '[dep NP [nmod [case с] видом]]'
 dependency_structure_of_illustration:
   - '[obl Номер [nmod [case с] видом [nmod [case на] море]]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

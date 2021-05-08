@@ -42,11 +42,13 @@ dependency_structure:
   - '[root [advmod не] вздумай [xcomp VP-Inf]!]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] вздумай [xcomp обманывать [obj родителей]]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Prohibition
     subtypes:

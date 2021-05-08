@@ -3,7 +3,7 @@ record: 844
 name: 'PronPoss счастье, что Cl'
 UD_name: 'PronPoss счастье, что Cl'
 illustration: 'Его счастье, что рейс задержали, иначе бы не попал на самолет.'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        только в наст времени, не ставим Cop, тяготеет к вводным уже, наличие связки проблематично. В БУДУЩЕМ Я просил по номерам установить владельца. Сейчас пойду позвоню, и твое будет счастье, если машина чистая. – Чистая, – сказала Прасковья. Ой, рожу я, и твое будет счастье, если это будет не в Минске, иначе я стану мотолькой). Твое будет счастье, если никаких следов не будет, а вода на тебя не подействует. Тогда посидишь здесь денек-​другой и отправишься в свой Трейбен!
@@ -23,13 +23,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [det PronPoss] счастье'
   - '[csubj [mark что] Cl]'
 dependency_structure_of_illustration:
   - '[root [det Его] счастье, [csubj [mark что] [obj рейс] задержали], [conj [cc иначе] [aux бы] [advmod не] попал] [obl [case на] самолет].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

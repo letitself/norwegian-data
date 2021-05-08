@@ -3,7 +3,7 @@ record: 2221
 name: 'черт возьми/побери, Cl'
 UD_name: 'черт возьми/побери, Cl'
 illustration: 'Какая, чёрт возьми, связь между этими вещами?'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        General negative attitude to the situation on the side of the speaker - in all Swearing constructions 11
@@ -16,21 +16,22 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Noun
   - Verb
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Exclamatory
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [nsubj чёрт] возьми], Cl]'
   - '[root [parataxis [nsubj чёрт] побери], Cl]'
 dependency_structure_of_illustration:
   - '[root [det Какая], [parataxis [nsubj чёрт] возьми], связь [nmod [case между] [det этими] вещами]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

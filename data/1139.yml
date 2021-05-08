@@ -6,7 +6,9 @@ illustration: 'О таких вещах нужно договариваться 
 cefr_level: C2
 definitions:
   - russian: |
-       Конструкция обозначает, что [некоторая договоренность]Action между участниками должна быть достигнута перед тем, как приступить к действию, заранее. Эта договоренность может быть выражена глаголами решать, договариваться, обсуждать, проговаривать и т. д
+       Конструкция обозначает, что [некоторая договоренность]Action между участниками должна быть достигнута перед тем, как приступить к действию, заранее. Эта договоренность может быть выражена глаголами решать, договариваться, обсуждать, проговаривать и т. д.
+  - english: |
+       примеры подобраны Катя Волошина
 examples:
 morphology:
   - VP
@@ -20,19 +22,21 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case на] берегу]]'
 dependency_structure_of_illustration:
   - '[root [obl [case О] [det таких] вещах] нужно [csubj договариваться] [obl [case на] берегу, [conj [mark то [fixed есть]] заранее]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Condition
   - type: Taxis

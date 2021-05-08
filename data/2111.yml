@@ -38,20 +38,22 @@ part_of_speech_of_anchor:
   - Predicative
   - Conjunction
 semantic_roles:
-  - ~
+  - Action
 intonation:
-  - ~
+  - Interrogative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] [advmod не] [cop Cop] против'
   - '[advcl [mark если] VP-Fut]?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod не] против, [advcl [mark если] [nsubj я] зайду] [obl [case в] магазин]?]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

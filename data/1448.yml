@@ -3,7 +3,7 @@ record: 1448
 name: 'Adj-рас~Adj Noun'
 UD_name: 'Adj-расAdj N'
 illustration: 'Он был прекрасный-распрекрасный.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [amod Adj-рас~Adj] Noun]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [cop был] прекрасный-распрекрасный.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

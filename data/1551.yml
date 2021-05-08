@@ -35,20 +35,22 @@ part_of_speech_of_anchor:
   - Verb
 semantic_roles:
   - Theme
-  - Quantity
   - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] достигать [obj [nummod NumCrd-Gen] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Крокодилы] достигают [obj [nummod трех] метров [nmod [case в] длину]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - метр
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

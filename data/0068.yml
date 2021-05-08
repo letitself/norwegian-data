@@ -6,18 +6,20 @@ illustration: 'Вот это подарок!'
 cefr_level: A1
 definitions:
   - russian: |
-       Это оценочная конструкция, которая используется для выражения удивления говорящего, который впервые увидел [некоторый объект]Theme или стал свидетелем [некоторого произошедшего события]Theme, которые его поразили. Оценка может быть как положительной, так и отрицательной.
+       Конструкция выражает удивление говорящего [объектом]Theme, [участником]Participant или [событием]Event, которые его поразили. Оценка может быть положительной или отрицательной.
   - english: |
-       This evaluative construction is used to express the surprise of the speaker, who has seen a [certain object]Theme for the first time or witnessed an [event]Theme that surprised him/her. The evaluation can be both positive and negative.
-  - norwegian: |
-       N/A
+       This evaluative construction is used to express the surprise of the speaker, who has seen a [certain object]Theme for the first time or witnessed an [event]Theme that surprised him/her. The evaluation can be either positive or negative.
 examples:
   - |
-       Вот это [жизнь]Theme! Вот это [судьба]Theme!
+       Думал, обойдётся; не обошлось. Развелась, уехала и двух сыновей с собой увезла. Даже от алиментов отказалась. Вот это [характер!]Theme
   - |
-       Вот это [подвиг]Theme!
+       Школу ненавидела, а когда поступила в универ, то поняла ― вот это [жизнь!]Theme Отвечаешь сама за себя, не выучила ― твои проблемы! Так что студенчество ― прекрасное время!
   - |
-       Даже от алиментов отказалась. Вот это [характер]Theme!
+       Я вспоминаю, как несколько лет назад эти ребята построили в Доме пионеров яхту, управляемую по радио. Вот это было [чудо!]Event Какой восторг горел тогда в их глазах!
+  - |
+       Посмотрим на субботний матч ЦСКА со Спартаком! Вот это будет [борьба!]Theme
+  - |
+       Да и зачем придумывать что-то новое, когда в разных языках и так уже есть много общих слов: театр, телефон, машина, крокодил, лампа, этаж… И вот в 1878 году был готов первый проект "lingwe uniwersalia" ― языка универсального. Заменгоф тогда учился в восьмом классе. О своём изобретении он рассказал товарищам-гимназистам. ― Ух ты! ― обрадовались они. ― Вот это [язык!]Theme А главное, простой ― учить почти ничего не надо!..
 morphology:
   - Cop
   - NP
@@ -31,7 +33,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Event
+  - Theme
+  - Participant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -39,8 +43,15 @@ dependency_structure:
   - '[root [advmod вот] [nsubj это] [cop Cop] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [nsubj это] подарок!]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - жизнь
+  - характер
+  - открытие
+  - чудо
+  - мысль
+  - трагедия
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

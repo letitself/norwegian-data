@@ -6,7 +6,7 @@ illustration: 'Иными словами, на каждого мужчину "о
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за фиксированной частью "иными словами" или "другими словами", разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
+       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за фиксированной частью «иными словами» или «другими словами», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
   - norwegian: |
        Konstruksjonen tilfører teksten en [klargjøring av en gitt formulering]Theme. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'иными словами' eller 'другими словами', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt.  Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
@@ -39,7 +39,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Theme
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root [parataxis [amod иными] словами], XP]'
@@ -49,10 +49,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожую конструкцию 1086 иначе говоря, XP/Cl (Смешное потому и смешно, что оно правдиво. Иначе говоря, не всё правдивое смешно, но всё смешное правдиво).'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

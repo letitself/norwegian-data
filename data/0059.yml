@@ -38,18 +38,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ContentOfSpeech
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case во] [det всяком] случае], Cl]'
   - '[root [parataxis [case во] [det всяком] случае], XP]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case Во] [det всяком] случае], [nsubj эксперты] [advmod не] исключают [obj [det такого] исхода [nmod событий]].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    См. также Апресян В. Ю. Уступительность в языке и слова со значением уступки // ВЯ. 1999. № 5. С. 24-44.
+    См. также Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания. 1999. № 5. С. 24–44.
 semantic_types:
   - type: Concession
 family:

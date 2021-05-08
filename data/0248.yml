@@ -34,17 +34,19 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
+  - Property
   - Theme
   - Participant
-  - Property
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] носит [obj NP-Acc [nmod NP-Gen]]]'
   - '[root [nsubj NP-Nom] носит [obj [amod Adj.Poss-Acc] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] носит [obj фамилию [nmod мужа]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - фамилия
   - имя
@@ -52,12 +54,11 @@ common_fillers:
   - звание
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:
       - type: Naming
-  - type: Temporary characteristics
 family:
   - |
     "Указание на имя или название субъекта или объекта (включая фамилию, отчество, псевдоним, кличку, прозвище и т.д.)"

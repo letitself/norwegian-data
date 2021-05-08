@@ -29,10 +29,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - Situation
   - Concession
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl, [advcl [advmod вот] [mark только] Cl]]'
@@ -42,10 +42,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. близкую конструкцию 1042 Cl, зато Cl (Мы опоздали на самолет, зато теперь есть дополнительный день отдыха.)'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    см. Подкласс 4 "Компенсация" и "оговорка" (стр 31) в Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, N. 5, 1999. с. 24-44.
+    См. подкласс 4 "Компенсация" и "оговорка" (стр 31) в статье Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, 1999, №. 5. С. 24-44.
 semantic_types:
   - type: Comparison
     subtypes:

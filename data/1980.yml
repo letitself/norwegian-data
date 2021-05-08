@@ -31,10 +31,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - Agent
+  - Instrument
   - Theme
+  - Agent
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] добираться [iobj NP-Ins]]'
@@ -58,7 +59,7 @@ common_fillers:
   - экономом
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Instrument
   - type: Manner

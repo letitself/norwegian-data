@@ -24,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [mark пусть] [advmod даже] так], [cc но] Cl]'
   - '[root [advcl [mark пусть] так], [cc но] Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Пусть] [advmod даже] так], [cc но] [advmod неужели] [iobj тебе] [obj её] [advmod не] жалко?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
     subtypes:

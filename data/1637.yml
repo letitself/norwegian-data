@@ -3,7 +3,7 @@ record: 1637
 name: 'во время NP-Gen VP'
 UD_name: 'во время NP-Gen VP'
 illustration: 'Во время войны многие голодали.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [obl [case во] время [nmod NP-Gen]] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [case Во] время [nmod войны]] [nsubj многие] голодали.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

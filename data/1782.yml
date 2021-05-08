@@ -3,10 +3,10 @@ record: 1782
 name: 'NP-Gen у NP-Gen не отнимешь/Cop не отнять'
 UD_name: 'NP-Gen у NP-Gen не отнимешь/Cop не отнять'
 illustration: 'Ну, правда, красивый я. Этого у меня не отнимешь.'
-cefr_level: 
+cefr_level: B2
 definitions:
   - russian: |
-       Subgroup: Х is not lacking the property Y Evaluation of intellectual ability, mental ability - 'good at doing something'
+       Subgroup: Х is not lacking the property Y Evaluation of intellectual ability, mental ability - «good at doing something»
 examples:
 morphology:
   - NP
@@ -18,8 +18,8 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Negation, Verb
-  - Object
+  - Negation
+  - Verb and Object
 part_of_speech_of_anchor:
   - Preposition
   - Negation Marker
@@ -27,13 +27,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obj NP-Gen] [obl [case у] меня] [advmod не] отнимешь]'
   - '[root [obj NP-Gen] [obl [case у] меня] [cop Cop] [advmod не] отнять]'
 dependency_structure_of_illustration:
   - '[root [discourse Ну], [parataxis правда], [amod красивый] я.] [root [obj Этого] [obl [case у] меня] [advmod не] отнимешь.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
@@ -43,7 +45,7 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
-      - type: Assessments specific to people
+      - type: Assessment specific to people
   - type: Polarity value
     subtypes:
       - type: Both Negative and Positive

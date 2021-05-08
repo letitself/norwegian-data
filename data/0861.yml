@@ -3,7 +3,7 @@ record: 861
 name: 'Cl, но NP-Nom виду не подавать, (что Cl)'
 UD_name: 'Cl, но NP-Nom виду не подавать, (что Cl)'
 illustration: 'Он обиделся, но виду не подаёт.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl, [conj [cc но] [nsubj NP-Nom] [obj виду] [advmod не] подавать, [ccomp [mark что] Cl]]]'
   - '[root Cl, [conj [cc но] [nsubj NP-Nom] [obj виду] [advmod не] подавать]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] обиделся, [conj [cc но] [obj виду] [advmod не] подаёт].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporary characteristics
     subtypes:

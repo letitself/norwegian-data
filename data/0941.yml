@@ -3,7 +3,7 @@ record: 941
 name: 'да не Adj/Adv XP'
 UD_name: 'да не Adj/Adv XP'
 illustration: 'Да не грязные эти чашки!'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -29,11 +29,13 @@ dependency_structure:
   - '[root [cc да] [advmod не] [advmod Adv] XP]'
 dependency_structure_of_illustration:
   - '[root [cc Да] [advmod не] грязные [nsubj [det эти] чашки]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

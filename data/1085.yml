@@ -3,7 +3,7 @@ record: 1085
 name: 'NP-Nom иметь (Adj) значение'
 UD_name: 'NP-Nom иметь (Adj) значение'
 illustration: 'А какое это имеет значение, ждали эту юную леди или не ждали?'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
        Rationalistic evaluation of importance and value of an object (оценка важности, ценности), role, power, impact. Subgroup 1: object or subject is evaluated: important and positive
@@ -24,13 +24,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] иметь [obj [amod Adj-Acc] значение]]'
   - '[root [nsubj NP-Nom] иметь [obj значение]]'
 dependency_structure_of_illustration:
   - '[root [cc А] [det какое] [nsubj это] имеет [obj значение], [acl ждали [obj [det эту] [amod юную] леди] [conj [cc или] [advmod не] ждали]]?]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

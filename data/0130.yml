@@ -6,18 +6,22 @@ illustration: 'Я зашел поговорить.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что участник ситуации ненадолго, прервав основной путь, посетил кого-либо или что-либо с какой-то определенной [целью]Goal. Говорящий представляет цель [посещения]Goal как незначимую по сравнению с конечной целью своего пути. за-Verb заехать, забежать, зайти только три глагола здесь возможны заскочить
+       Конструкция обозначает, что некоторый [участник ситуации]Agent ненадолго [посетил]Action определенное место или другого участника с определенной [целью]Purpose, отклонившись для этого от своей основной траектории движения. Цель посещения названа в слоте VP-Pfv.Inf и представлена как менее значимая по сравнению с конечной целью пути. Набор глаголов в слоте за-Verb сильно ограничен. Значение отклонения от основной траектории наблюдается только у нескольких глаголов с приставкой за-, образованных от некоторых глаголов направленного движения: зайти, забежать, заехать, заскочить.
   - english: |
-       This construction means that someone visits someone or somewhere because of a particular [errand]goal, e.g. поговорить ‘have a little talk’. The construction is used specifically about short visits and can often be translated as ‘drop by to [do something]Goal. Note that the particular [errand]Goal involved is expressed with a perfective verb.
+       This construction means that someone visits someone or somewhere because of a particular [errand]goal, e.g. поговорить ‘have a little talk’. The construction is used specifically about short visits and can often be translated as ‘drop by to [do something]Goal. Note that the particular [errand]Goal involved is expressed with a perfective verb. зайти 'ZA-go', забежать 'ZA-run', заехать 'ZA-drive', заскочить 'ZA-jump'.
   - norwegian: |
        Konstruksjonen betyr at noen besøker en person eller et sted for å få gjort et spesfikt [ærend]Goal, f.eks. поговорить ‘slå av en prat’. Besøket er relativt kortvarig, og зайти kan dermed ofte oversettes som ‘stikke innom’. Merk at det relevante [ærendet]Goal uttrykkes vha. et perfektivt verb.
 examples:
   - |
-       Маруся зашла [проведать]Goal бабу Машу.
+       И только через много, много лет я его встретил в ресторане "Амра", куда [я]Agent [зашёл]Action [выпить кофе.]Purpose
   - |
-       Если Карина зайдет [посидеть]Goal с матерью, то, возможно, у меня будет время сходить за продуктами.
+       После обеда я отправился к своему дружку командиру вертолетчиков Николаю Ледяхову. В магазин [заехал]Action [конфет девчонкам купить.]Purpose Ледяхов был женат и имел двух девчонок-хохотушек пяти и шести лет. Дом у него был большой.
   - |
-       Он вчера заходил [передать]Goal тебе томик Достоевского.
+       Теперь надо [заскочить]Action на базар [купить мед, фрукты, лимоны,]Purpose [заехать]Action домой, взять бульон и отвезти все матери в больницу.
+  - |
+       Третьего июня [Нина]Agent [забежала]Action [попрощаться]Purpose, попрощалась и ушла.
+  - |
+       13 мая мне позвонила Софа и сказала, чтобы я после студии пришла. [Я]Agent [забежала]Action домой [привести себя в порядок.]Purpose Когда я пришла к Ольге Леонардовне, все уже ужинали.
 morphology:
   - NP
   - Nom
@@ -35,19 +39,32 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Not Applicable
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Purpose
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] за-Verb [xcomp VP-Pfv.Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] зашел [xcomp поговорить].]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - ~
+  - зайти
+  - забежать
+  - заехать
+  - заскочить
+  - выпить кофе
+  - пообедать
+  - попрощаться
+  - купить
+  - поболтать
+  - проведать
 references:
   - |
-    
+    Sokolova, Svetlana and Anna Endresen. 2017. “The Return of the Prefix ZA-, or What Determines the Prototype.” In: Anastasia Makarova, Stephen M. Dickey and Dagmar S. Divjak (eds.) Each Venture a New Beginning: Studies in Honor of Laura A. Janda. Bloomington, IN: Slavica Publishers. 241-258. ISBN 978-0-89357-478-9.
 semantic_types:
   - type: Purpose
 family:

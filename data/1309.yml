@@ -3,8 +3,10 @@ record: 1309
 name: 'VP в расчёте на то, что VP'
 UD_name: 'VP в расчёте на то, что VP'
 illustration: 'Подобные автомобили приобретаются исключительно для коллекции, в расчёте на то, что стоимость объекта со временем только возрастёт.'
-cefr_level: 
+cefr_level: C1
 definitions:
+  - russian: |
+       скорее всего вторую глаг группу надо заменить на клаузу
 examples:
 morphology:
   - VP
@@ -22,18 +24,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] расчёте [nmod [case на] то'
   - '[acl [mark что] VP]]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Подобные] автомобили] приобретаются [obl [advmod исключительно] [case для] коллекции], [obl [case в] расчёте [nmod [case на] то, [acl [mark что] [nsubj стоимость [nmod объекта]] [obl [case со] временем] [advmod только] возрастёт]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Purpose
 family:

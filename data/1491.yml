@@ -3,9 +3,21 @@ record: 1491
 name: 'чистый Noun'
 UD_name: 'чистый N'
 illustration: 'Не вру, чистая правда!'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция повышает до максимума степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что ситуация, предмет или участник в наивысшей степени соответствует некоторой [характеристике]Evaluation.
 examples:
+  - |
+       Чистое [зло]Theme никогда не будет править миром.
+  - |
+       Всё это выглядело как чистое [безумие]Theme.
+  - |
+       Противники эволюционной теории по сей день приводят в пример глаз ― несообразность его законам эволюции. Разве может ― по чистой [случайности]Theme ― кожица превратиться в сложнейший орган чувств?
+  - |
+       Почти со стопроцентной уверенностью можно утверждать, что намёки на президентское прикрытие ― чистый [блеф]Theme.
+  - |
+       В третьей серии опытов использовался чистый [свинец]Theme, а в четвёртой серии ― чистый [кадмий]Theme.
 morphology:
   - Noun
 syntactic_type_of_construction:
@@ -17,19 +29,23 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adjective
 semantic_roles:
-  - ~
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [amod чистый] Noun]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] вру, [parataxis [amod чистая] правда]!]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1493, 1494, 1495, 1496, 1497, 1498, 1499, 1500'
 common_fillers:
-  - ~
+  - правда
+  - случайность
+  - блеф
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of intensity
     subtypes:

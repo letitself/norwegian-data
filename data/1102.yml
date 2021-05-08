@@ -3,10 +3,10 @@ record: 1102
 name: 'как видеть-Prs.2, Cl'
 UD_name: 'как видеть-Pres.2, Cl'
 illustration: 'Как видите, от учёбы ещё никто не пострадал.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - russian: |
-       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами "иначе говоря", разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил.
+       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что последует за словами «иначе говоря», разъяснит, уточнит или упростит информацию, которую говорящий только что сообщил.
 examples:
 morphology:
   - Prs
@@ -25,18 +25,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [mark как] видеть-Prs.2]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [mark Как] видите], [obl [case от] учёбы] [advmod ещё] [nsubj никто] [advmod не] пострадал.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

@@ -6,7 +6,7 @@ illustration: '– Ты меня не любишь? – спросил он её
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает [действие]Action, которое выполняется близко, почти вплотную к объекту или участнику (примеры 1, 2). В переносном значении, употребляется с глаголами речи в значении 'говорить прямо, сразу по сути, без  предисловий' (пример 3). Также "в упор" может усиливать отрицание при глаголе и означать 'совсем' (примеры 4, 5).
+       Конструкция имеет прямое и переносное значение. В прямом значении, конструкция обозначает [действие]Action, которое выполняется близко, почти вплотную к объекту или участнику (примеры 1, 2). В переносном значении, употребляется с глаголами речи в значении 'говорить прямо, сразу по сути, без  предисловий' (пример 3). Также «в упор» может усиливать отрицание при глаголе и означать 'совсем' (примеры 4, 5).
   - norwegian: |
        Konstruksjonen har direkte og overført betydning. I direkte betydning betegner konstruksjonen [en handling]Action som utføres nært, nesten inntil objektet eller deltakeren (eksempel 1 og 2). I overført betydning brukes den med taleverb i betydningen 'snakke rett ut, gå rett på sak, uten omsvøp' (eksempel 3). "В упор" kan også forsterke nektelsen av verbet og bety 'совсем' (eksempel 4 og 5).
 examples:
@@ -33,8 +33,10 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
+  - Theme
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [obl [case в] упор]]'
@@ -50,7 +52,7 @@ common_fillers:
   - не помнить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

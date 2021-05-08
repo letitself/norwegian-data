@@ -33,14 +33,17 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Possessor
+  - Theme
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] отойти [iobj NP-Dat]]'
 dependency_structure_of_illustration:
   - '[root [nsubj [amod Новые] территории] отошли [iobj [amod соседнему] государству].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - государство
   - земля
@@ -53,10 +56,12 @@ common_fillers:
   - клиенту
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Possession
   - type: Result
+    subtypes:
+      - type: Achieved Result
 family:
   - |
     "Possession Object gets Possessed"

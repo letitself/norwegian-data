@@ -3,9 +3,21 @@ record: 1192
 name: 'тот же (самый) NP, (что и XP)'
 UD_name: 'тот же (самый) NP, (что и XP)'
 illustration: 'Это был тот же самый врач.'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественность нескольких [объектов]Theme, [участников]Participant или [ситуаций]Situation. Конструкция обозначает, что объект или участник является тем же, с которым говорящий взаимодействовал ранее или что некоторая ситуация практически повторяет ту, что уже ранее происходила с говорящим.
 examples:
+  - |
+       На ней было то же самое [платье]Theme.
+  - |
+       И снова ей ответил тот же самый [голос]Theme.
+  - |
+       Когда мы приехали, на плите стояла та же самая [кастрюля]Theme с супом.
+  - |
+       Та же самая [история]Situation произошла и со мной.
+  - |
+       Опять я видел тот же самый [сон]Comparee, что и [в поезде]Standard.
 morphology:
   - NP
   - XP
@@ -22,9 +34,11 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep [det тот [advmod же] [amod самый]] NP [nmod [mark что [fixed и]] XP]]'
@@ -33,11 +47,15 @@ dependency_structure:
   - '[dep [det тот [advmod же]] NP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Это] [cop был] [det тот [advmod же] [amod самый]] врач.]'
+comment: |
+    'См. похожую конструкцию 1178.'
 common_fillers:
-  - ~
+  - история
+  - человек
+  - голос
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comparison
     subtypes:

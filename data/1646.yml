@@ -25,16 +25,17 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Matrix Predicate
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Verb
   - Noun
   - Conjunction
 semantic_roles:
+  - Action
   - Event
+  - Situation
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root настанет [nsubj время], [advcl [mark когда] Cl]]'
@@ -47,13 +48,15 @@ dependency_structure:
   - '[root придёт [nsubj час], [advcl [mark когда] Cl]]'
 dependency_structure_of_illustration:
   - '[root Настанет [nsubj день], [advcl [mark когда] [nsubj [det все] мы] [cop будем] счастливы].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - придет
   - настанет
   - станет
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Temporal expression
     subtypes:

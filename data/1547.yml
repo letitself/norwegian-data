@@ -6,7 +6,7 @@ illustration: 'Велодорожка длиной шесть километро
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает [линейные размеры]Quantity [объекта]Theme, измеренные в [стандартных единицах измерения длины, таких как метры, километры, мили, футы]Measure. Если использовано числительное "один" или "одна", то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
+       Конструкция обозначает [линейные размеры]Quantity [объекта]Theme, измеренные в [стандартных единицах измерения длины, таких как метры, километры, мили, футы]Measure. Если использовано числительное «один» или «одна», то [единица измеренения]Measure [объекта]Theme стоит в аккузативе.
   - norwegian: |
        Konstruksjonen betegner [et objekts]Theme [lengdemål]Quantity, målt i [standardiserte målenheter for lengde, f.eks. meter, kilometer, mil eller fot]Measure. Hvis tallordet er 'один' eller 'одна', står [målenheten]Measure for [objektet]Theme i akkusativ.
 examples:
@@ -36,10 +36,10 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Theme
-  - Quantity
   - Measure
+  - Quantity
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod длиной [nmod [case в] [nummod NumCrd-Acc] NP]]]'
@@ -63,7 +63,7 @@ common_fillers:
   - фут
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Measure
     subtypes:

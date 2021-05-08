@@ -37,18 +37,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
 intonation:
-  - ~
+  - Interrogative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advmod не] страшно, [advcl [mark если] Cl]?]'
   - '[root [advmod не] ничего, [advcl [mark если] Cl]?]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] страшно, [advcl [mark если] [nsubj я] закурю]?]'
+comment: |
+    'No comment yet'
 common_fillers:
-  - NA
+  - Not applicable
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Root modality
     subtypes:

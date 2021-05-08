@@ -35,19 +35,21 @@ part_of_speech_of_anchor:
   - Adjective
   - Negation Marker
 semantic_roles:
-  - Participant
-  - Action
   - Theme
-  - Addressee
+  - Action
   - Source
+  - Addressee
+  - Participant
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case с] [amod пустыми] руками]]'
   - '[root VP [obl [advmod не] [case с] [amod пустыми] руками]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod не] могу [xcomp приехать [obl [case к] бабушке] [obl [case с] [amod пустыми] руками, [conj [case без] подарка]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - прийти
   - вернуться
@@ -55,7 +57,7 @@ common_fillers:
   - уйти
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Caritive
   - type: Manner

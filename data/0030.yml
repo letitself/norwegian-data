@@ -10,7 +10,7 @@ definitions:
   - english: |
        This construction expresses a positive [evaluation]Evaluation of a participant given by the speaker on the basis of the participant's actions.
   - norwegian: |
-       Konstruksjonen brukes for å gi [evaluering]Evaluation av noen for noe vedkommende har gjort. Я нагибаюсь и, пошарив руками по полу, нахожу свиток. Надо бы встать, включить свет… Но вдруг замечаю, что буквы слегка фосфорицируют. Ай да молодец! Всё предусмотрела. А то, конечно.
+       Konstruksjonen brukes for å gi [evaluering]Evaluation av noen for noe vedkommende har gjort.
 examples:
   - |
        ― Ай да [молодцы]Evaluation! ― хвалили ребята немецкую работу и немецкую заботу.
@@ -36,6 +36,7 @@ part_of_speech_of_anchor:
   - Particle
 semantic_roles:
   - Evaluation
+  - Participant
   - Name
 intonation:
   - Exclamatory
@@ -44,6 +45,8 @@ dependency_structure:
   - '[root [discourse ай [fixed да]] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root – [discourse Ай] [fixed да] герой!– [parataxis крикнул] [nsubj директор] [obl [case в] восторге].]'
+comment: |
+    'См. другие конструкции с междометиями: 31, 136, 2163, 2164.'
 common_fillers:
   - молодец
   - молодчина
@@ -51,7 +54,7 @@ common_fillers:
   - хитрец
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова Н. Ю. Очерки по синтаксису русской разговорной речи. — М. : АН СССР, 1960. 
 semantic_types:
   - type: Assessment
     subtypes:

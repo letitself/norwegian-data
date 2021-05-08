@@ -38,10 +38,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Predicative
 semantic_roles:
-  - Participant
   - Action
+  - Participant
 intonation:
-  - ~
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root грех [cop Cop] [csubj VP-Inf]]'

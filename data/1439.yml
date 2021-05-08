@@ -3,7 +3,7 @@ record: 1439
 name: 'XP значит ~XP'
 UD_name: 'XP значит XP'
 illustration: 'Диета – значит диета!'
-cefr_level: 
+cefr_level: B1
 definitions:
   - russian: |
        Acceptance of the situation, usually negative situation, external factor that is out of the speaker's control. Reconciliation примирение работать значит работать Correct initial formula: Если NP сказал XP - значит, XР. Delete Если NP сказал Primery: Elenka00, хотела вам ответить, но Karuna опередила! Согласна на 200%! Диета ― значит диета, а остальное ― от лукавого. Но не через запятую как в: Пища давно превратилась в источник калорий, а не наслаждений. Пельмени, значит, пельмени.
@@ -21,17 +21,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj XP] значит [nsubj XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Диета] –значит [nsubj диета]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

@@ -37,7 +37,7 @@ semantic_roles:
   - Causer
   - Situation
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl волей [nmod NP-Gen]] Cl]'
@@ -54,7 +54,7 @@ common_fillers:
   - провидение
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Cause
 family:

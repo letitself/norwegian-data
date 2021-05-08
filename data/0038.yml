@@ -34,16 +34,18 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
+  - Action
   - Participant
   - Activity
-  - Action
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] бросить [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] бросил [xcomp курить].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - курить
   - пить
@@ -56,7 +58,7 @@ common_fillers:
   - петь
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

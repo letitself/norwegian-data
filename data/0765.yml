@@ -22,18 +22,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [case в] [amod крайнем] случае]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case В] [amod крайнем] случае], [nsubj он] позвонит.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Concession
   - type: Options

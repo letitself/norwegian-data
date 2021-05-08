@@ -3,7 +3,7 @@ record: 1506
 name: 'Cl, по мере того как Cl'
 UD_name: 'Cl, по мере того как Cl'
 illustration: 'Она фактически управляла всеми делами и по мере того, как дед всё больше старел, забирала власть в свои руки.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -22,7 +22,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root Cl'
@@ -30,11 +30,13 @@ dependency_structure:
   - '[acl [mark как] Cl]'
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [advmod фактически] управляла [obj [det всеми] делами] [conj [cc и] [obl [case по] мере [nmod того, [acl [mark как] [nsubj дед] [advmod [advmod всё] больше] старел]]], забирала [obj власть] [obl [case в] [det свои] руки]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Actionality
     subtypes:

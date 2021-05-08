@@ -37,7 +37,7 @@ semantic_roles:
   - State
   - Activity
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root VP [iobj себе] [xcomp VP]]'
@@ -58,7 +58,7 @@ common_fillers:
   - думать
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Phase of action
     subtypes:

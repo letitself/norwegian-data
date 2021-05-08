@@ -3,7 +3,7 @@ record: 680
 name: '(а) (PronPers-Nom) встать-Imp на место NP-Gen'
 UD_name: '(а) (PronPers-Nom) встать-Imper на место NP-Gen'
 illustration: 'А ты встань на место директора, тоже ничего не сделаешь.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -35,11 +35,13 @@ dependency_structure:
   - '[root встать-Imp [obl [case на] место [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj ты] встань [obl [case на] место [nmod директора]], [conj [advmod тоже] [obj ничего] [advmod не] сделаешь].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Reaction to the previous discourse
     subtypes:

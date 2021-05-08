@@ -3,7 +3,7 @@ record: 1903
 name: 'кроме NP-Gen, Cl'
 UD_name: 'кроме NP-Gen, Cl'
 illustration: 'Кроме нас, в квартире было человек десять.'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -21,18 +21,20 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [obl [case кроме] NP-Gen]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [obl [case Кроме] нас], [obl [case в] квартире] было [nsubj человек [nummod:gov десять]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Additive
 family:

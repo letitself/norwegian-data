@@ -3,7 +3,7 @@ record: 2234
 name: 'катиться-Imp/идти-Imp PronPers-2 со свой NP-Ins!'
 UD_name: 'катиться-Imper/идти-Imper PronPers-2 со свой NP-Ins!'
 illustration: 'Катись ты со своими предложениями!'
-cefr_level: 
+cefr_level: C1
 definitions:
   - russian: |
        General negative attitude to the situation on the side of the speaker - in all Curse constructions
@@ -35,11 +35,13 @@ dependency_structure:
   - '[root идти-Imp [nsubj PronPers.2-Nom] [obl [case со] [det свой-Ins]  NP-Ins]!]'
 dependency_structure_of_illustration:
   - '[root Катись [nsubj ты] [obl [case со] [det своими] предложениями]!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology). Конструкция из книги Шведовой.
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
 semantic_types:
   - type: Attitude
     subtypes:

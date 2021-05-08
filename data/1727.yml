@@ -35,15 +35,17 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Situation
   - Set
+  - Situation
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root VP [obl [case в] кругу [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root Провести [obj вечер] [obl [case в] кругу [nmod семьи]]]'
+comment: |
+    'No comment yet'
 common_fillers:
   - семья
   - родные
@@ -51,7 +53,7 @@ common_fillers:
   - друзья
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Comitative
   - type: Manner

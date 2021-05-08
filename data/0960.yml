@@ -3,7 +3,7 @@ record: 960
 name: 'дела (у NP-Gen) Cop плохи'
 UD_name: 'дела (у NP-Gen) Cop плохи'
 illustration: 'Дела у него плохи.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -15,8 +15,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Praedicаtive Expression
 syntactic_structure_of_anchor:
-  - Subject
-  - Predicate
+  - Subject and Predicate
 part_of_speech_of_anchor:
   - Noun
   - Preposition
@@ -24,13 +23,15 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: ~
 dependency_structure:
   - '[root [nsubj дела] [obl [case у] NP-Gen] [cop Cop] плохи]'
   - '[root [nsubj дела] [cop Cop] плохи]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дела] [obl [case у] него] плохи.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

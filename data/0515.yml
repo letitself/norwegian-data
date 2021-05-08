@@ -6,7 +6,7 @@ illustration: 'Он знает толк в настольных играх.'
 cefr_level: B2
 definitions:
   - russian: |
-       similar to он мастер готовить, добавить "разбираться в NP-Loc" Evaluation of intellectual ability, mental ability - 'good at doing something'
+       similar to он мастер готовить, добавить «разбираться в NP-Loc» Evaluation of intellectual ability, mental ability - «good at doing something»
 examples:
 morphology:
   - NP
@@ -25,12 +25,14 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] знать [obj толк] [obl [case в] NP-Loc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] знает [obj толк] [obl [case в] [amod настольных] играх].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

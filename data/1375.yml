@@ -36,19 +36,21 @@ semantic_roles:
   - Agent
   - Patient
 intonation:
-  - ~
+  - Not applicable
 usage_label: Formal
 dependency_structure:
   - '[root VP [obl [case в] порядке [nmod исключения]]]'
   - '[root VP [obl [case в] виде [nmod исключения]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case В] порядке [nmod исключения]] [nsubj я] разрешил [xcomp [iobj ему] сдать [obj документы] [advmod пораньше]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - разрешить
   - позволить
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Manner
 family:

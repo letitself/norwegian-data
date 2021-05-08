@@ -3,7 +3,7 @@ record: 1330
 name: 'NP из числа NP-Gen'
 UD_name: 'NP из числа NP-Gen'
 illustration: 'На конкурс приехали ученики из числа лучших в своей школе.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -22,17 +22,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case из] числа [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] конкурс] приехали [nsubj ученики [nmod [case из] числа [nmod лучших [obl [case в] [det своей] школе]]]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Salient property
     subtypes:

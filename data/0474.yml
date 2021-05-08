@@ -23,17 +23,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root [iobj NP-Dat] дать [obj [nummod NumCrd-Acc] лет]]'
 dependency_structure_of_illustration:
   - '[root [iobj Паше] дают [obj [nummod:gov двадцать] лет] [obl [case на] вид].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Degree of accuracy
     subtypes:

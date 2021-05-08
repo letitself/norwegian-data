@@ -3,7 +3,7 @@ record: 1745
 name: 'XP сплошь и рядом'
 UD_name: 'XP сплошь и рядом'
 illustration: 'На телевидении такие известные люди встречаются сплошь и рядом.'
-cefr_level: 
+cefr_level: B1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: ~
 dependency_structure:
   - '[root XP [advmod сплошь [conj [cc и] рядом]]]'
 dependency_structure_of_illustration:
   - '[root [obl [case На] телевидении] [nsubj [det такие] [amod известные] люди] встречаются [advmod сплошь [conj [cc и] рядом]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Spatial expression
     subtypes:

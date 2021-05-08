@@ -1,26 +1,26 @@
 ---
 record: 70
-name: 'вот PronPers-Dat и NP-Nom!'
-UD_name: 'вот PronPers-Dat и NP-Nom!'
+name: 'вот тебе/вам и NP-Nom!'
+UD_name: 'вот тебе/вам и NP-Nom!'
 illustration: 'Вот тебе и встреча!'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция используется для выражения удивления говорящего. [Событие или объект]Evaluation оказались не такими, как он ожидал.
+       Конструкция выражает удивление говорящего [объектом]Theme, [участником]Participant или [событием]Event, которые оказались не такими, как он ожидал. Подчеркивается несоответствие ожидаемого и реального. Конструкция обычно несет отрицательную оценку, выражает разочарование (примеры 1-3). Конструкция может также указывать на то, что изначальная отрицательная оценка не соответствует действительности (примеры 4-5).
   - english: |
        This construction is used to express the speaker’s surprise. [The event or object]Evaluation was not what the speaker had expected.
-  - norwegian: |
-       N/A
 examples:
   - |
-       Бывает, температура падает до минус пятнадцати градусов. Вот тебе и [Юг]Evaluation !
+       Бывает, температура падает до минус пятнадцати градусов. Вот тебе и [юг!]Theme
   - |
-       Местная девушка Маша говорила по-французски совершенно свободно, хотя отучилась только 7 классов школы. Вот тебе и [деревня]Evaluation.
+       ― Что-то сильно запаздывают, ― сказал он и присел за столик. ― Вот вам и [немецкая аккуратность,]Theme ― сказал я. ― Немецкая аккуратность сильно преувеличена, ― ответил он.
   - |
-       Громадные ямы с водой. Вот вам и [пляж]Evaluation.
+       Вот вам и [XXI век]Theme ― всё уже было в древности, и даже чрезвычайно изощрённое.
+  - |
+       На следующий день ближе к вечеру в нашем кабинете раздался телефонный звонок. ― Сима, это тебя. Приятный мужской баритон. ― Леночка игриво покачала головой, дескать, вот вам и [тихоня.]Particiupant А самой на работу мужчины звонят.
+  - |
+       Местная девушка Маша говорила по-французски совершенно свободно, хотя отучилась только 7 классов школы. Вот вам и [деревня]Theme.
 morphology:
-  - PronPers
-  - Dat
   - NP
   - Nom
 syntactic_type_of_construction:
@@ -32,7 +32,10 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Event
+  - Theme
+  - Participant
+  - Particiupant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -40,6 +43,8 @@ dependency_structure:
   - '[root [advmod Вот] [iobj PronPers-Dat] [advmod и] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [iobj тебе] [advmod и] встреча!]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:

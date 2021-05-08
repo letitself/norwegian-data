@@ -3,7 +3,7 @@ record: 1892
 name: 'XP до кучи'
 UD_name: 'XP до кучи'
 illustration: 'Директор был глупый и ленивый до кучи.'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -20,17 +20,19 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - ~
+  - Not applicable
 usage_label: Colloquial
 dependency_structure:
   - '[root XP [obl [case до] кучи]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Директор] [cop был] глупый [conj [cc и] ленивый [obl [case до] кучи]].]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    No references
 semantic_types:
   - type: Discourse structure
     subtypes:

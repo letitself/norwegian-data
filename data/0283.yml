@@ -34,7 +34,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Assertive
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [advcl [advmod пусть] [advmod даже] [advmod и] Cl], Cl]'
@@ -47,11 +47,13 @@ dependency_structure:
   - '[root [advcl [advmod пускай] Cl], Cl]'
 dependency_structure_of_illustration:
   - '[root [advcl [advmod Пускай] [nsubj вода] холодная], [advmod всё [fixed равно]] [aux буду] плавать.]'
+comment: |
+    'No comment yet'
 common_fillers:
   - ~
 references:
   - |
-    
+    См. также Добрушина Н. Статус конструкций с частицами пусть и пускай в русском языке // Russian Linguistics. 2019. № 43. С. 1–17.
 semantic_types:
   - type: Concession
     subtypes:
