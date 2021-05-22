@@ -41,7 +41,9 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
   - type: Polarity value
     subtypes:
       - type: Negative

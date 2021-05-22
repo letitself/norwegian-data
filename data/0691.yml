@@ -39,6 +39,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
   - type: Discourse structure
     subtypes:
       - type: Discourse additive

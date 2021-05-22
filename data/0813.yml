@@ -45,7 +45,9 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Appearance
   - type: Degree of accuracy
     subtypes:
       - type: Exact

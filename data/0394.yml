@@ -49,9 +49,13 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Appropriateness
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
       - type: Mental attitude
   - type: Polarity value
     subtypes:

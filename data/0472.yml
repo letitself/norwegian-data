@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция используется для того чтобы показать безразличие [участника]Participant к [некоторым событиям]Situation. [Участник]Participant не занимает конкретную позицию, поэтому любой выход из [ситуации]Situation ему кажется приемлемым. Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. Indifference
   - english: |
-       The construction means that a [participant]Participant is indifferent to the outcome of a [situation]Situation. In English the construction can often be translated as " [someone]Particpant doesn’t care".
+       The construction means that a [participant]Participant is indifferent to the outcome of a [situation]Situation. In English the construction can often be translated as " [someone]Participant doesn’t care".
   - norwegian: |
        Konstruksjonen forteller at en [deltager]Participant er likgyldig til utfallet av en [situasjon]Situation. På norsk kan konstruksjonen ofte oversettes med “ [noen]Participant bryr seg ikke”.
 examples:
@@ -52,6 +52,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Concern
   - type: Polarity value
     subtypes:
       - type: Negative

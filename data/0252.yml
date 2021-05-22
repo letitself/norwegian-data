@@ -19,7 +19,7 @@ examples:
   - |
        По некоторым данным, [автоматизированная скоринговая система и персонал]Theme обошлись [банку]Experiencer в [миллионы]Quantity [долларов]Measure.
   - |
-       [Это новшество]Theme может обойтись [городу]Experincer в [несколько сотен тысяч]Quantity [долларов]Measure.
+       [Это новшество]Theme может обойтись [городу]Experiencer в [несколько сотен тысяч]Quantity [долларов]Measure.
   - |
        Врач говорит пациенту: ― [Операция]Theme обойдется [вам]Experiencer в [50 тысяч]Quantity.
 morphology:
@@ -40,7 +40,6 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Theme
-  - Experincer
   - Experiencer
   - Measure
   - Quantity

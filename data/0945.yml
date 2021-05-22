@@ -44,6 +44,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Mental attitude
+        subtypes:
+          - type: Perplexity
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty

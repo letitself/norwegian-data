@@ -58,7 +58,9 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
   - type: Polarity value
     subtypes:
       - type: Positive

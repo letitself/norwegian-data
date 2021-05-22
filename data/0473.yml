@@ -21,7 +21,7 @@ examples:
   - |
        [Этому проекту]Theme явно было далеко до [звания “лучшей в мире компании”.]Standard
   - |
-       Это тоже весьма динамичный автомобиль, но по разгону [ему]Theme далеко до [RS 6]Strandard: и тяжелее лимузин, и моторы у него послабее, а стоит почти столько же.
+       Это тоже весьма динамичный автомобиль, но по разгону [ему]Theme далеко до [RS 6]Standard: и тяжелее лимузин, и моторы у него послабее, а стоит почти столько же.
 morphology:
   - NP
   - Dat
@@ -37,7 +37,6 @@ part_of_speech_of_anchor:
   - Predicative
   - Preposition
 semantic_roles:
-  - Strandard
   - Theme
   - Participant
   - Standard
@@ -59,6 +58,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
   - type: Comparison
     subtypes:
       - type: Contrast

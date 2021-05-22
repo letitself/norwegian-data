@@ -39,6 +39,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Reconciliation
   - type: Concession
   - type: Polarity value
     subtypes:

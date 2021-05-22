@@ -43,6 +43,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Curses
   - type: Polarity value
     subtypes:
       - type: Negative

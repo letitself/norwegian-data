@@ -62,6 +62,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Mental attitude
+        subtypes:
+          - type: Perplexity
   - type: Cause
   - type: Polarity value
     subtypes:

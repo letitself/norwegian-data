@@ -40,6 +40,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Concern
   - type: Degree of intensity
     subtypes:
       - type: Diminisher

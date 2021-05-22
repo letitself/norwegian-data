@@ -43,6 +43,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Concern
   - type: Causation
     subtypes:
       - type: Direct

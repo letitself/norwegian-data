@@ -41,6 +41,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
   - type: Phase of action
     subtypes:
       - type: Continuative

@@ -54,7 +54,11 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Confirmation requests
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Confirmation requests
   - type: Comparison
     subtypes:
       - type: Equality

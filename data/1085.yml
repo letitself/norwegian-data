@@ -42,7 +42,11 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
-      - type: Assessments specific to people
+        subtypes:
+          - type: Importance/Worth
+      - type: Assessment specific to people
+        subtypes:
+          - type: Importance/Power
   - type: Polarity value
     subtypes:
       - type: Positive

@@ -53,6 +53,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Assessment of a proposition
   - type: Polarity value
     subtypes:
       - type: Both Negative and Positive

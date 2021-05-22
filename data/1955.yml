@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Participant вместе с другим [участником или группой участников]Associated выполняют совместное [действие]Action, вместе испытывают некоторое [состояние]State или вместе и в одной и той же роли участвуют в некоторой ситуации. В конструкции названо точное [количество]Quantity участников ситуации. Слот PronPers-Pl обозначает всех участников («мы вдвоем с отцом» значит 'я и отец').
   - norwegian: |
-       Konstruksjonen betyr at en gitt [deltaker]Participant og en annen [deltaker eller gruppe deltakere]Assosiated sammen utfører en [handling]Action, opplever en gitt [tilstand]State eller at de sammen og i samme rolle deltar i en gitt situasjon. Det eksakte [antallet]Quantity deltakere i situasjonen er angitt i konstruksjonen. Sloten PronPers-Pl betegner alle deltakerne ("мы вдвоем с отцом" betyr "я и отец").
+       Konstruksjonen betyr at en gitt [deltaker]Participant og en annen [deltaker eller gruppe deltakere]Associated sammen utfører en [handling]Action, opplever en gitt [tilstand]State eller at de sammen og i samme rolle deltar i en gitt situasjon. Det eksakte [antallet]Quantity deltakere i situasjonen er angitt i konstruksjonen. Sloten PronPers-Pl betegner alle deltakerne ("мы вдвоем с отцом" betyr "я и отец").
 examples:
   - |
        Потом вдвоём с [отцом]Associated [мы]Agent [отправлялись]Action в горную экскурсию, а мама обыкновенно оставалась дома.

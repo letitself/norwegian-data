@@ -5,9 +5,25 @@ UD_name: 'очень XP'
 illustration: 'Она очень рада это слышать.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция повышает степень интенсивности [признака]Property или [состояния]State. Слот XP может заполняться прилагательным, наречием, предикативом или глагольной группой.
 examples:
+  - |
+       В конечном счете фильм очень [добрый]Property! А добро в кино нам как никогда нужно.
+  - |
+       Тема, которая здесь обсуждается, очень [актуальна]Property.
+  - |
+       В университете очень [интересно]Property течет жизнь, постоянно новые знакомства…
+  - |
+       Училась и работала в одно и то же время! Было очень [интересно]Property, но трудно!
+  - |
+       Фильм очень [хотела]State посмотреть, до того момента, как узнала, что Санаев специально для фильма книгу переписывал.
 morphology:
   - XP
+  - Adj
+  - Adv
+  - Pred
+  - VP
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -17,7 +33,8 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Property
+  - State
 intonation:
   - Not applicable
 usage_label: ~
@@ -28,7 +45,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

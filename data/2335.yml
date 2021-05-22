@@ -46,6 +46,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
   - type: Polarity value
     subtypes:
       - type: Negative

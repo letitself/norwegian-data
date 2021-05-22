@@ -7,8 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent ситуации неожиданно начинает выполнять некоторое интенсивное [действие]Action.
-  - norwegian: |
-       Ср. близкую конструкцию 148.
 examples:
 morphology:
   - NP
@@ -34,7 +32,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj [det Вся] [amod волчья] стая] [advmod как] набросится [obl [case на] меня]!]'
 comment: |
-    'No comment yet'
+    'Ср. близкую конструкцию 148.'
 common_fillers:
   - ~
 references:

@@ -41,6 +41,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Deviations from the norm
   - type: Degree of intensity
     subtypes:
       - type: Booster

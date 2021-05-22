@@ -13,7 +13,7 @@ examples:
   - |
        У [Черкасова]Possessor была [дача]Theme, [машина]Theme, [квартира]Theme и [слава]Property.
   - |
-       Разве плохо, что у [людей]Posessor есть [выбор]Theme, где и как им жить?
+       Разве плохо, что у [людей]Possessor есть [выбор]Theme, где и как им жить?
   - |
        Многие из них хотели бы создать свой бизнес ― у [ребят]Possessor есть [идеи]Theme, [энергия]Theme, [навыки]Theme.
   - |
@@ -37,7 +37,6 @@ semantic_roles:
   - Property
   - Theme
   - Possessor
-  - Posessor
   - Participant
 intonation:
   - Not applicable

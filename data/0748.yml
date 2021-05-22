@@ -61,6 +61,11 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Deviation from the norm
   - type: Polarity value
     subtypes:
       - type: Negative

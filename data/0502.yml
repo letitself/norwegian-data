@@ -44,9 +44,13 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: None
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Reconciliation
   - type: Polarity value
     subtypes:
       - type: Both Negative and Positive

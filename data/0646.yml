@@ -52,6 +52,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
   - type: Causation
     subtypes:
       - type: Indirect

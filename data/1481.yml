@@ -36,6 +36,11 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: A lot
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Expressions of surprisal
   - type: Degree of intensity
     subtypes:
       - type: Booster

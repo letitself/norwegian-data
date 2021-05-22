@@ -44,6 +44,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Appropriateness
   - type: Polarity value
     subtypes:
       - type: Negative

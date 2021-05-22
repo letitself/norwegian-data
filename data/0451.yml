@@ -1,21 +1,24 @@
 ---
 record: 451
-name: 'NP как будто VP'
-UD_name: 'NP как будто VP'
+name: 'как будто VP'
+UD_name: 'как будто VP'
 illustration: 'Они как будто уезжают сегодня.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция употребляется при выражении говорящим неуверенности или предположения по поводу какого-либо [события]Action или [действия]Action со стороны [участника ситуации.]Agent
+       Конструкция выражает неуверенность говорящего в сообщаемой им [информации.]Evaluation Сообщение говорящего звучит как предположение. Слова "как будто" можно заменить на вводный оборот "кажется".
 examples:
   - |
-       [Дождя]Agent как будто [не намечается.]Action
+       Дождя как будто [не намечается.]Evaluation
   - |
-       [Он]Agent как будто [говорил]Action, что придёт.
+       Он как будто [говорил]Evaluation, что придёт.
   - |
-       [Он]Agent как будто [приехал]Action уже.
+       Он как будто [приехал]Evaluation уже.
+  - |
+       К середине 20-х годов с этим методом как будто [было покончено]Evaluation.
+  - |
+       Я как будто [только сейчас всё осознала]Evaluation.
 morphology:
-  - NP
   - VP
 syntactic_type_of_construction:
   - Head and Modifier Construction
@@ -26,7 +29,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - Not applicable
 usage_label: ~
@@ -37,7 +40,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

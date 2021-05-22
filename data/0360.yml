@@ -50,6 +50,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Swearing
   - type: Concession
   - type: Polarity value
     subtypes:

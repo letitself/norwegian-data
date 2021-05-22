@@ -41,7 +41,11 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Swearing
       - type: Mental attitude
+        subtypes:
+          - type: Skepticism
   - type: Degree of intensity
     subtypes:
       - type: Booster

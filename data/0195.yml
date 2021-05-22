@@ -52,7 +52,11 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
-      - type: Assessments specific to people
+        subtypes:
+          - type: Assessment of a proposition
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
   - type: Polarity value
     subtypes:
       - type: Positive

@@ -46,6 +46,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: None
   - type: Comparison
     subtypes:
       - type: Contrast

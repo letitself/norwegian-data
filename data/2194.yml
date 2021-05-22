@@ -41,7 +41,11 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
-      - type: Mental Attitude
+        subtypes:
+          - type: Discontent
+      - type: Mental attitude
+        subtypes:
+          - type: Perplexity
   - type: Polarity value
     subtypes:
       - type: Negative

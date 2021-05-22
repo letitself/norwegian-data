@@ -44,11 +44,26 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Appropriateness
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Confirmation requests
+      - type: General assessment
+        subtypes:
+          - type: Confirmation requests
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+      - type: Mental attitude
+        subtypes:
+          - type: Perplexity
   - type: Non-Standard Subject
     subtypes:
       - type: Non-standard subject marking

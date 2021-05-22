@@ -63,6 +63,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
   - type: Cause
   - type: Polarity value
     subtypes:

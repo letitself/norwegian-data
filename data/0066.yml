@@ -64,6 +64,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: Expressions of surprisal
   - type: Mirative
   - type: Polarity value
     subtypes:

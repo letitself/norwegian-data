@@ -6,18 +6,16 @@ illustration: 'Нашли развлечение!'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция выражает недовольство говорящего участниками, которые неправильно (с точки зрения говорящего) себя ведут, так как они выдают [желаемое]Theme за действительное в неправильном жизненном контексте.
+       Конструкция выражает недовольство говорящего участником (или участниками), которые неправильно (с точки зрения говорящего) себя ведут, выдавая [желаемое]Theme за действительное в не подходящей для этого ситуации.
   - english: |
-       Disapproval of behavior - осуждение поведения
+       The construction expresses the speaker's dissatisfaction with the interlocutor(s), who behave incorrectly (from the speaker's perspective) given the present situation.
 examples:
   - |
-       ― Вы, значит, ему деньги послали? ― Нашли [дуру]Theme! Ни копейки.
+       ― Вы, значит, ему деньги послали? ― Нашли [дуру]Participant! Ни копейки.
   - |
-       Проводил я Соню, вернулся домой, и мама говорит: ― Нашёл [красотку]Theme! Одна косметика.
+       Проводил я Соню, вернулся домой, и мама говорит: ― Нашёл [красотку]Participant! Одна косметика.
   - |
        Хватит смеяться в библиотеке. Нашли [место]Theme!
-  - |
-       -
 morphology:
   - Pst
   - NP
@@ -49,10 +47,14 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
   - type: Polarity value
     subtypes:
       - type: Negative

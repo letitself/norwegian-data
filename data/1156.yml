@@ -39,9 +39,13 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to knowledge
+        subtypes:
+          - type: Unknown
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Swearing
   - type: Polarity value
     subtypes:
       - type: Negative

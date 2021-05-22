@@ -17,7 +17,7 @@ examples:
   - |
        Уже через секунду он сообразил, что ему ответил [Виталий Кирган]Participant, адвокат, без пяти минут [жених Надежды Игоревны]Evaluation.
   - |
-       И слышать не желаю, [мы]Participant же без пяти минут [родственники]Evaluaton!
+       И слышать не желаю, [мы]Participant же без пяти минут [родственники]Evaluation!
   - |
        ― [Вы]Participant без пяти минут ― [обладатель «Оскара»]Evaluation. ― Вы мне льстите.
 morphology:
@@ -33,7 +33,6 @@ part_of_speech_of_anchor:
   - Numeral
   - Noun
 semantic_roles:
-  - Evaluaton
   - Evaluation
   - Participant
 intonation:

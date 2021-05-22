@@ -6,8 +6,18 @@ illustration: 'Для стоянки место не очень.'
 cefr_level: B1
 definitions:
   - russian: |
-       60 hits: NP-Nom ne ochen. with punktum У нас и так обстановка не очень. 7 лет потрачено на улучшение (не считая 6 до замужества). Сейчас вопрос стоит так ― чтобы сохранить мне спокойствие. Всё как обычно ― они взяли с собой пятилитровую канистру вина, сыр, фрукты и сели играть в преф. Для стоянки место, правда, не очень. Узкая полоска берега. Сотрудники у них работают отлично, но вот ставки и условия ― не очень. [коллективный. Форум: Что делать или где взять кредит с плохой кредитной историей? (2011)] [Мне кажется, белый глянец не очень. ] А почему не очень? Он в смысле не практичный? Мне кажется для маленьких помещений очень даже подойдет именно белый цвет. ; У местных были тархеты, карточки, они продукты по карточкам получали, вообще жили не очень. ; У нас тогда смежники были не очень. < Московская книжная ярмарка: дети читают, православные ― не очень . индюшки ему понравились, а орехи не очень.
+       Конструкция обозначает умеренно негативную оценку некоторого [объекта]Theme или [участника]Participant говорящим. В данном случае "не очень" значит 'не очень хороший', 'не очень подходящий', 'не очень удачный'.
 examples:
+  - |
+       Туристов пока на Иссык-Куле мало ― [погода]Theme была не очень. Но сейчас вроде все наладилось, и вода прогрелась до 20 градусов, что для горного озера не так уж и мало.
+  - |
+       [Мои ботинки]Theme не очень годились для осени и вообще были «не очень». Мы пошли в магазин. Я выбрал себе высокие ботинки с черно-красной подкладкой, которые потом носил много лет.
+  - |
+       ― Мне кажется, [белый цвет]Theme здесь будет не очень. ― А почему не очень? Он в смысле не практичный? Мне кажется для маленьких помещений очень даже подойдет именно белый цвет.
+  - |
+       В начале концерта [звук]Theme был не очень. Несмотря на то что часть аппаратуры группа привезла с собой, первые песни ушли на «подстройку».
+  - |
+       И все же [настроение]Theme обитателей дома на Озерной было не очень.
 morphology:
   - NP
   - Nom
@@ -22,7 +32,9 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Adverb
 semantic_roles:
-  - ~
+  - Theme
+  - Participant
+  - Situation
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -33,7 +45,10 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - погода
+  - настроение
+  - положение
+  - цвет
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
@@ -41,6 +56,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
   - type: Polarity value
     subtypes:
       - type: Negative

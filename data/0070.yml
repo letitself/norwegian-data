@@ -17,7 +17,7 @@ examples:
   - |
        Вот вам и [XXI век]Theme ― всё уже было в древности, и даже чрезвычайно изощрённое.
   - |
-       На следующий день ближе к вечеру в нашем кабинете раздался телефонный звонок. ― Сима, это тебя. Приятный мужской баритон. ― Леночка игриво покачала головой, дескать, вот вам и [тихоня.]Particiupant А самой на работу мужчины звонят.
+       На следующий день ближе к вечеру в нашем кабинете раздался телефонный звонок. ― Сима, это тебя. Приятный мужской баритон. ― Леночка игриво покачала головой, дескать, вот вам и [тихоня.]Participant А самой на работу мужчины звонят.
   - |
        Местная девушка Маша говорила по-французски совершенно свободно, хотя отучилась только 7 классов школы. Вот вам и [деревня]Theme.
 morphology:
@@ -35,7 +35,6 @@ semantic_roles:
   - Event
   - Theme
   - Participant
-  - Particiupant
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -54,6 +53,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: Expressions of surprisal
   - type: Mirative
   - type: Polarity value
     subtypes:

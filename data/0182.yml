@@ -1,23 +1,34 @@
 ---
 record: 182
-name: 'может (быть), Cl'
-UD_name: 'может (быть), Cl'
+name: 'может (быть), XP/Cl'
+UD_name: 'может (быть), XP/Cl'
 illustration: 'Может быть, он уехал в Африку.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция выражает неуверенность говорящего в своих [выводах]Conclusion. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Конструкция является вводной и на письме выделяется запятыми. Если конструкция используется в начале вопросительного предложения, то она выполняет функцию деликатного [призыва к действию.]Suggestion
+       Конструкция выражает неуверенность говорящего в некотором [утверждении]Evaluation. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Если конструкция используется в начале вопросительного предложения, то она выполняет функцию деликатного [призыва к действию]Action (примеры 4, 5). Конструкция является вводной и на письме выделяется запятыми. Слот XP может заполняться именной группой, предложной группой, глагольной группой, числительным, прилагательным, наречием или предикативом.
   - english: |
        This construction expresses a speaker's uncertainty about his or her [conclusions]Conclusion. The speaker does not have sufficient grounds to confirm a given action or situation with certainty. If the construction is used at the beginning of a question, it functions as an [invitation to act.]Suggestion
 examples:
   - |
-       На картинке была нарисована женщина. Может быть, [фея или волшебница.]Conclusion
+       На картинке была нарисована женщина. Может быть, [фея или волшебница.]Evaluation
   - |
-       Мы совершаем одни и те же ошибки, снова и снова. Если бы мы всё время помнили о них, может быть, [мы бы совершали их немного реже.]Conclusion
+       Мы совершаем одни и те же ошибки, снова и снова. Если бы мы всё время помнили о них, может быть, [мы бы совершали их немного реже.]Evaluation
   - |
-       Может быть, [вам бы хотелось стереть из мировой культуры какое-нибудь произведение]Suggestion?
+       Бледный худенький паренек, лет, может быть, [семнадцати]Evaluation.
+  - |
+       Что все-таки случилось? Может быть, [ты объяснишь]Action?
+  - |
+       Может быть, [вам бы хотелось стереть из мировой культуры какое-нибудь произведение]Action?
 morphology:
   - Cl
+  - NP
+  - PP
+  - VP
+  - Num
+  - Adj
+  - Adv
+  - Pred
 syntactic_type_of_construction:
   - Clause
   - XP with parentheticals
@@ -28,9 +39,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Action
+  - Evaluation
 intonation:
   - Declarative
+  - Interrogative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis может [xcomp быть]], Cl]'
@@ -38,13 +51,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis Может [xcomp быть]], [nsubj он] уехал [obl [case в] Африку].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 749 быть может, Cl (Быть может, он просто устал)'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     Hansen, B. 2009. Сonstructional aspects of the rise of epistemic sentence adverbs in Russian. In: Wiener Slawistischer Almanach, Sonderband 74. P. 75-86.
 semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: Low degree of certainty

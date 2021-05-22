@@ -44,6 +44,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Remorse
   - type: Polarity value
     subtypes:
       - type: Negative

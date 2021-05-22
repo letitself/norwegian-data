@@ -13,11 +13,11 @@ definitions:
        Konstruksjonen uttrykker at taleren er enig i, eller synes godt om [en viss avgjørelse]Evaluation.
 examples:
   - |
-       Приезжайте-ка лучше завтра вечером ко мне домой. Ладно? Договорились? Ну, вот и [отлично!]Evalution
+       Приезжайте-ка лучше завтра вечером ко мне домой. Ладно? Договорились? Ну, вот и [отлично!]Evaluation
   - |
        «Садись, ― сказала Ася. ― Не обращай на них внимания». ― «Я и не обращаю», ― сказал Алексей. «Вот и [хорошо]Evaluation, вот и [хорошо!..»Evaluation ― сказала Ася.
   - |
-       ― Сделаете? ― спрашиваю я. ― Сделаем, Василий Семенович. ― Ну вот и [славно]Evalution, коллеги. А теперь все, совещание окончено, давайте за работу.
+       ― Сделаете? ― спрашиваю я. ― Сделаем, Василий Семенович. ― Ну вот и [славно]Evaluation, коллеги. А теперь все, совещание окончено, давайте за работу.
   - |
        ― Читал Ленина? ― Да нет, мы уже не изучали… ― Вот и [плохо]Evaluation! Потому так и работаешь!
   - |
@@ -33,7 +33,6 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - Evalution
   - Evaluation
 intonation:
   - Exclamatory
@@ -61,6 +60,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Assessment of a proposition
   - type: Discourse structure
     subtypes:
       - type: Summary

@@ -39,6 +39,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Deviations from the norm
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty

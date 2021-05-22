@@ -39,6 +39,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Emotional attitude
+        subtypes:
+          - type: Uncontrolled emotions
   - type: Degree of intensity
     subtypes:
       - type: Booster

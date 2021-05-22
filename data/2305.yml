@@ -39,6 +39,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: Beyond the limit
   - type: Degree of intensity
     subtypes:
       - type: Maximizer

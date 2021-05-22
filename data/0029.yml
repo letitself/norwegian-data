@@ -60,6 +60,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Indifference to norms/expectations
   - type: Polarity value
     subtypes:
       - type: Negative

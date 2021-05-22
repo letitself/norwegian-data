@@ -44,6 +44,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: None
   - type: Non-existence
     subtypes:
       - type: Absence

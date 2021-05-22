@@ -51,6 +51,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Mental attitude
+        subtypes:
+          - type: Skepticism
   - type: Polarity value
     subtypes:
       - type: Negative

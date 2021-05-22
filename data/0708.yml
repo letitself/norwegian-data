@@ -53,7 +53,11 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
       - type: Mental attitude
+        subtypes:
+          - type: Mirativity
   - type: Mirative
   - type: Polarity value
     subtypes:

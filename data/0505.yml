@@ -1,14 +1,24 @@
 ---
 record: 505
-name: 'NP-Nom будто бы VP'
-UD_name: 'NP-Nom будто бы VP'
+name: 'будто бы VP'
+UD_name: 'будто бы VP'
 illustration: 'Маша будто бы ездила в другую страну.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в сообщаемой им [информации.]Evaluation Сообщение говорящего звучит как предположение. Слова "будто бы" можно заменить на вводный оборот "кажется".
 examples:
+  - |
+       Он будто бы их [люто ненавидит]Evaluation.
+  - |
+       Она будто бы [даже не удивилась]Evaluation.
+  - |
+       Четверо полицейских будто бы [были обвинены в незаконном аресте и дознании]Evaluation.
+  - |
+       Она финансирует всяческие экологические программы и будто бы [отстроила]Evaluation в Гималаях благотворительный госпиталь.
+  - |
+       А он всё не мог решиться: идти или нет? ― Ну, хватит стоять, ― сказала мама, ― решай. А он всё стоял. Потом будто бы [решил]Evaluation, сказал: не пойду.
 morphology:
-  - NP
-  - Nom
   - VP
 syntactic_type_of_construction:
   - Clause
@@ -19,7 +29,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - ~
+  - Evaluation
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -30,7 +40,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

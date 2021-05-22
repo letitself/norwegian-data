@@ -46,9 +46,13 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Matching the norm
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Reconciliation
   - type: Polarity value
     subtypes:
       - type: Positive

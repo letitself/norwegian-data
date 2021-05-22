@@ -6,7 +6,7 @@ illustration: 'У неё с редактором любовь.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает [эмоциональные отношения]Situation, в которые вовлечен некоторый [участник]Experiencer вместе с другим [участником]Assosiated.
+       Конструкция обозначает [эмоциональные отношения]Situation, в которые вовлечен некоторый [участник]Experiencer вместе с другим [участником]Associated.
   - norwegian: |
        Konstruksjonen betegner [et emosjonelt forhold]Situation som en gitt [deltaker]Experiencer er involvert i sammen med en annen [deltaker]Associated.
 examples:
@@ -38,7 +38,6 @@ part_of_speech_of_anchor:
   - Preposition
 semantic_roles:
   - Experiencer
-  - Assosiated
   - Associated
   - Situation
 intonation:

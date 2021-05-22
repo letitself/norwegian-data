@@ -57,6 +57,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
+        subtypes:
+          - type: Assessment of an activity
   - type: Polarity value
     subtypes:
       - type: Negative

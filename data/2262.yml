@@ -40,12 +40,22 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: General assessment
-      - type: Assessments specific to people
+        subtypes:
+          - type: Constructions with interjections
+      - type: Assessment specific to people
+        subtypes:
+          - type: Constructions with interjections
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: Constructions with interjections
   - type: Attitude
     subtypes:
-      - type: Emotional Attitude
-      - type: Mental Attitude
+      - type: Emotional attitude
+        subtypes:
+          - type: Constructions with interjections
+      - type: Mental attitude
+        subtypes:
+          - type: Mirativity
   - type: Mirative
   - type: Polarity value
     subtypes:

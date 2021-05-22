@@ -11,7 +11,7 @@ definitions:
        Konstruksjonen betyr at en gitt, vanligvis uønsket, [situasjon]Situation pågår som følge av en annen [situasjon eller handling]Cause.
 examples:
   - |
-       Так и у людей, [иные не могут добиться успеха]Sitiation по причине того, что [сил нет]Cause, а винят в этом обстоятельства.
+       Так и у людей, [иные не могут добиться успеха]Situation по причине того, что [сил нет]Cause, а винят в этом обстоятельства.
   - |
        [Лекция Басова не состоялась]Situation по причине того, что [лектор не смог найти нужный корпус университета]Cause.
   - |
@@ -35,7 +35,6 @@ part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
   - Cause
-  - Sitiation
   - Situation
 intonation:
   - Declarative

@@ -13,7 +13,7 @@ examples:
   - |
        – Ты вымыла его моим шампунем! – догадалась Кристя. – Завтра все девчонки придут в класс с новым цветом волос, одна я, как дура… ― [Сейчас сбегаю в супермаркет за краской]Action, ― пообещала я, ― без проблем!
   - |
-       Недавно студенты актерского института спросили меня, нет ли работы на Новый год. Я говорю: «[Есть]Sitiation, без проблем».
+       Недавно студенты актерского института спросили меня, нет ли работы на Новый год. Я говорю: «[Есть]Situation, без проблем».
   - |
        ― [Можешь взять отгул]Action, Алекс, без проблем.
   - |
@@ -34,7 +34,7 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Sitiation
+  - Situation
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -54,6 +54,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Willingness
   - type: Polarity value
     subtypes:
       - type: Positive

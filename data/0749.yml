@@ -1,13 +1,32 @@
 ---
 record: 749
-name: 'быть может, Cl'
-UD_name: 'быть может, Cl'
+name: 'быть может, XP/Cl'
+UD_name: 'быть может, XP/Cl'
 illustration: 'Быть может, он просто устал.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в некотором [утверждении]Evaluation. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Если конструкция используется в начале вопросительного предложения, то она выполняет функцию деликатного [призыва к действию]Action (примеры 4, 5). Конструкция является вводной и на письме выделяется запятыми. Слот XP может заполняться именной группой, предложной группой, глагольной группой, числительным, прилагательным, наречием или предикативом.
 examples:
+  - |
+       Итак, скоро ты, быть может, [увидишь рай]Evaluation.
+  - |
+       Некогда вздыхал Наполеон меланхолически и, быть может, [не совсем притворно]Evaluation: "Боже мой!"
+  - |
+       [Множество, великое множество людей идёт к нам, быть может, тысячи]Evaluation.
+  - |
+       Быть может, [стоит перенять их опыт]Action, особенно если учесть, что в мире от укусов змей погибает ежегодно около 100 тысяч человек?
+  - |
+       Тогда вы, быть может, [покажете мне моё место]Action?..
 morphology:
   - Cl
+  - NP
+  - PP
+  - VP
+  - Num
+  - Adj
+  - Adv
+  - Pred
 syntactic_type_of_construction:
   - Clause
   - XP with parentheticals
@@ -18,9 +37,11 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Verb
 semantic_roles:
-  - ~
+  - Action
+  - Evaluation
 intonation:
   - Declarative
+  - Interrogative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [xcomp быть] может]'
@@ -28,13 +49,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [xcomp Быть] может], [nsubj он] [advmod просто] устал.]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 182 может (быть), XP/Cl (Может быть, он уехал в Африку)'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
 semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: Low degree of certainty

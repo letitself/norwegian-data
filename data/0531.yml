@@ -41,7 +41,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Emotional Attitude
+      - type: Emotional attitude
+        subtypes:
+          - type: Specific emotions
   - type: Polarity value
     subtypes:
       - type: Negative

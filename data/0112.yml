@@ -67,6 +67,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: A lot
   - type: Degree of intensity
     subtypes:
       - type: Booster

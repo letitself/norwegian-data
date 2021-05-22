@@ -6,8 +6,18 @@ illustration: 'Мы с Пашей – друзья навеки.'
 cefr_level: C1
 definitions:
   - russian: |
-       примеры подобраны Наташа
+       Конструкция обозначает, что результат некоторого [действия]Event, [состояние]State или [свойство]Property будут иметь место в отношении некоторого участника или объекта неопределенно долгое время в будущем или всегда.
 examples:
+  - |
+       Нина и Брюсов знали, что [расстаются навеки]Event.
+  - |
+       Он навеки [разругался]Event со своим лучшим другом, когда тот назвал флаг красной тряпкой.
+  - |
+       Я получил прививку Достоевского, и это навеки [предопределило]Event характер моих интересов и моих жизненных оценок.
+  - |
+       Расставаясь, они обещали быть [друзьями]Property навеки.
+  - |
+       Если вы племянник Саввы ― вы [мой друг]Property навеки.
 morphology:
   - VP
   - NP
@@ -20,7 +30,9 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Adverb
 semantic_roles:
-  - ~
+  - Event
+  - State
+  - Property
 intonation:
   - Not applicable
 usage_label: ~
@@ -30,9 +42,19 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Мы [nmod [case с] Пашей]] – друзья [advmod навеки].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 1338, 1339.'
 common_fillers:
-  - ~
+  - забыть
+  - сохраниться
+  - остаться
+  - скрыть
+  - рассориться
+  - обречены
+  - утрачен
+  - потерять
+  - друзья
+  - враги
+  - братья
 references:
   - |
     No references

@@ -42,6 +42,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
   - type: Degree of intensity
     subtypes:
       - type: Booster

@@ -54,11 +54,17 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Usefulness
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
   - type: Polarity value
     subtypes:
       - type: Negative

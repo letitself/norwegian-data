@@ -5,10 +5,25 @@ UD_name: 'Cl, (а) XP – (вот) это да!'
 illustration: 'Забудь о грузовиках! Это такая чепуха, а вот лесной контракт – это да!'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает противопоставление двух ситуаций или их элементов (участников, объектов, действий). Говорящий заявляет, что [один элемент ситуации]Comparee лучше, чем [другой элемент ситуации]Standard, или является более подходящим для ситуации. Слот XP может быть выражен именной группой, глагольной группой или предложной группой.
 examples:
+  - |
+       [И мы на нее, на луну, еще насмотримся]Standard. А [солнце]Comparee ― вот это да. Чем его заменишь?
+  - |
+       [Золото ведь сейчас почти не применяется в технике]Standard. А вот [стронций, германий]Comparee ― вот это да!..
+  - |
+       Помню, как я подумала про себя: "[Чего там важного в этой Кармен?]Standard Вот [посмотреть Австрию]Comparee  ― это да! "
+  - |
+       Брось ты, Артем, забудь об этих грузовиках! [Это такая чепуха]Standard, а вот [лесной контракт]Comparee ― это да! Это серьезно! Смотри, сколько я всего провернул за границей для его исполнения!
+  - |
+       [Речной пароход ― это ерунда: плывешь между берегами, как по комнате ходишь, неинтересно]Standard, а вот [на море]Comparee ― это да, там нужно идти по компасу, определяться по солнцу!
 morphology:
   - Cl
   - XP
+  - NP
+  - VP
+  - PP
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
@@ -22,7 +37,8 @@ part_of_speech_of_anchor:
   - Particle
   - Predicative
 semantic_roles:
-  - ~
+  - Standard
+  - Comparee
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -36,7 +52,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

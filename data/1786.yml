@@ -19,7 +19,7 @@ examples:
   - |
        Почти все были за него: [он]Participant резко [выступал]Action в пику [правительству]Theme, и этого казалось достаточно.
   - |
-       ― [Я]Participant здесь скорее [говорю]Acction в пику [расхожему представлению]Theme, что либерализм ― это обязательно говорильня, критика и недовольство.
+       ― [Я]Participant здесь скорее [говорю]Action в пику [расхожему представлению]Theme, что либерализм ― это обязательно говорильня, критика и недовольство.
 morphology:
   - VP
   - NP
@@ -37,7 +37,6 @@ semantic_roles:
   - Theme
   - Action
   - Maleficiary
-  - Acction
   - Participant
 intonation:
   - Not applicable

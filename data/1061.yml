@@ -44,6 +44,8 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Mental attitude
+        subtypes:
+          - type: Confidence
   - type: Discourse structure
     subtypes:
       - type: Emphasis

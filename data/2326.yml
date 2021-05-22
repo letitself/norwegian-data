@@ -40,9 +40,13 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Deviations from the norm
   - type: Attitude
     subtypes:
-      - type: Mental Attitude
+      - type: Mental attitude
+        subtypes:
+          - type: Skepticism
   - type: Polarity value
     subtypes:
       - type: Negative

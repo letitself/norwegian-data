@@ -49,7 +49,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Mental Attitude
+      - type: Mental attitude
+        subtypes:
+          - type: Confidence
   - type: Polarity value
     subtypes:
       - type: Negative

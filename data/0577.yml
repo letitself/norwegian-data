@@ -13,9 +13,9 @@ examples:
   - |
        Ну а [ученые-психологи]Participant ― вообще [мастера]Evaluation [выдумывать мудреные теории для объяснения самых простых и очевидных явлений]Action.
   - |
-       [Она]Paticipant была [мастерица]Evaluation [пересказывать прочитанные книги]Action, да так умно и толково!
+       [Она]Participant была [мастерица]Evaluation [пересказывать прочитанные книги]Action, да так умно и толково!
   - |
-       [Я]Paticipant вообще не [любительница]Evaluation [готовить]Action, но теперь умею разделывать и жарить рыбу.
+       [Я]Participant вообще не [любительница]Evaluation [готовить]Action, но теперь умею разделывать и жарить рыбу.
   - |
        Еще [я]Participant большой [любитель]Evaluation [ходить в магазины]Action, но против использования полиэтиленовых пакетов.
   - |
@@ -38,7 +38,6 @@ semantic_roles:
   - Action
   - Evaluation
   - Participant
-  - Paticipant
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -62,7 +61,9 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
   - type: Polarity value
     subtypes:
       - type: Positive

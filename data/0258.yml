@@ -15,7 +15,7 @@ examples:
   - |
        От [папы]Theme сильно несло [табаком]Cause и [водкой.]Cause
   - |
-       Еще на одном месте, у левого окна, сидит мрачный мужик, от [которого]Paricipant несет [перегаром]Cause и [дешевыми сигаретами]Cause, а оставшиеся два кресла занимаем мы ― госпожа Хильда и я.
+       Еще на одном месте, у левого окна, сидит мрачный мужик, от [которого]Participant несет [перегаром]Cause и [дешевыми сигаретами]Cause, а оставшиеся два кресла занимаем мы ― госпожа Хильда и я.
   - |
        От [сумки]Theme несло [тухлятиной.]Cause
 morphology:
@@ -35,7 +35,6 @@ semantic_roles:
   - Cause
   - Theme
   - Participant
-  - Paricipant
 intonation:
   - Not applicable
 usage_label: Colloquial
@@ -63,10 +62,14 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Assessments specific to people
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
   - type: Attitude
     subtypes:
       - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
   - type: Polarity value
     subtypes:
       - type: Negative

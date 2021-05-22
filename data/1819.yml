@@ -60,7 +60,11 @@ semantic_types:
   - type: Attitude
     subtypes:
       - type: Acceptance
+        subtypes:
+          - type: Willingness
       - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
   - type: Polarity value
     subtypes:
       - type: Negative

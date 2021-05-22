@@ -52,6 +52,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to quantification
+        subtypes:
+          - type: Little
   - type: Degree of intensity
     subtypes:
       - type: Diminisher

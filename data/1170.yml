@@ -38,6 +38,8 @@ semantic_types:
   - type: Assessment
     subtypes:
       - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Standard exemplar
   - type: Comparison
     subtypes:
       - type: Equality
