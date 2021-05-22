@@ -17,5 +17,5 @@ The individual YAML files are combined into one data on the
 ["generated"](https://github.com/constructicon/russian-data/tree/generated)
 branch.
 
-This is done automatically upon each push or pull request towards the `master`
+This is done automatically upon each push or pull request towards the `main`
 branch.
