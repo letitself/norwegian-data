@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция используется для того, чтобы подчеркнуть принадлежность [элемента]Element к некоторому [множеству]Set. Как если бы все элементы множества поставили в одну линию (ряд), включая этот элемент.
+  - norwegian: |
+       Konstruksjonen brukes for å understreke [et elements]Element tilhørighet til en gitt [mengde]Set. Det er som om alle elementene i mengden er plassert langs en linje (på rad), inkludert dette elementet.
 examples:
   - |
        [Губанов]Element стоит в ряду [таких русских поэтов]Set, как Кольцов, Некрасов, Клюев, Есенин, Павел Васильев, Клычков.

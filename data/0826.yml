@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что участник отдает или получает сумму денег, которая входит в состав большей суммы. Первое частотное употребление: [покупка]Element совершена на [деньги, которые участник должен был получить в будущем]Set (примеры 1, 2). Второе частотное употребление: участник отдает [часть]Element [денег, которые раньше взял в долг.]Set (примеры 3, 4). Конструкцию можно использовать во временном значении: участник использует не деньги, а [время]Element, которое входит состав [более длинного периода]Set (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at deltakeren gir eller får en pengesum som inngår i en større sum. Den mest frekvente bruken: Det ble utført [et kjøp]Element for [penger som deltakeren skulle få senere]Set (eksempel 1 og 2). Den nest mest frekvente bruken: Deltakeren gir tilbake [en del]Element av [pengene deltakeren har lånt.]Set (eksempel 3 og 4). Konstruksjonen kan også brukes med tidsbetydning: Deltakeren bruker ikke penger, men [tid]Element som inngår i [en lengre tidsperiode]Set (eksempel 5).
 examples:
   - |
        А у меня есть документы, где люди лично расписались, что [деньги]Element они взяли в счёт [зарплаты]Set. Показать? Если я в чём и нарушил закон, то только в том, что, не будучи банком, из своего кармана наперед отдал деньги тем, кто обещал работать.

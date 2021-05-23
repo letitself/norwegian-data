@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent выполнил определенное [действие]Action, результат которого актуален для настоящей ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent har utført en bestemt [handling]Action med et resultat som er aktuelt i den nåværende situasjonen.
 examples:
   - |
        На этот случай у [меня]Agent [был заготовлен]Action простой выход ― без лишних слов дать ему по уху.

@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает, что участнику приходится примириться с некоторой неприятной [ситуацией]Situation и совершить некоторое действие, так как иначе поступить нельзя или нет другого выхода. Как если бы ничего нельзя было сделать, чтобы изменить сложившуюся ситуацию («делать нечего») или не было места, куда можно было бы спрятаться от сложившихся обстоятельств («некуда деваться»).
   - english: |
        Acceptance of the situation, usually negative situation, external factor that is out of the speaker's control. Reconciliation.
+  - norwegian: |
+       Konstruksjonen betyr at deltakeren er nødt til å avfinne seg med en ubehagelig [situasjon]Situation og utføre en gitt handling, ettersom det er umulig å opptre annerledes eller det ikke finnes noen annen utvei. Det er som om det ikke er mulig å gjøre noe for å endre den inntrufne situasjonen ("делать нечего") eller det ikke finnes noe sted å søke tilflukt for de inntrufne omstendighetene ("некуда деваться").
 examples:
   - |
        Да делать нечего, [придётся искать ночлег в этом Михелеве]Situation, о котором ещё недавно и не думал, и не слыхал.
@@ -23,8 +25,7 @@ examples:
 morphology:
   - Cl
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

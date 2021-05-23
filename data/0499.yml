@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает сходство [одного объекта]Comparee с [другим]Standard по [некоторому признаку]Parameter. Объектами могут быть предметы, участники ситуации или целые ситуации. Признак, по которому происходит сравнение, может быть назван (примеры 1-2) или понятен из контекста. Сравнение может происходить с реальными (пример 3), гипотетическими (пример 4) или вообще не существующими в реальности [объектами]Standard (пример 5). Слот XP может заполняться именной или предложной группой или целой клаузой.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever likheten mellom [et objekt]Comparee og [et annet]Standard med tanke på [et gitt kjennetegn]Parameter. Objektene kan være gjenstander, deltakere i situasjonen eller hele situasjoner. Kjennetegnet som sammenlignes, kan være nevnt (eksempel 1 og 2) eller fremgå av konteksten. Sammenligningen kan anstilles med reelle objekter (eksempel 3), hypotetiske objekter (eksempel 4) eller helt ikke-eksisterende [objekter]Standard (eksempel 5). Sloten XP kan fylles av en nominalfrase, et preposisjonsledd eller en hel leddsetning.
 examples:
   - |
        [Она]Comparee не хочет быть [пестренькой]Parameter, как [попугайчик]Standard.

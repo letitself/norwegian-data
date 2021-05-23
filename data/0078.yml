@@ -10,7 +10,7 @@ definitions:
   - english: |
        This construction expresses doubt that a given [event]Event or [action]Action will take place. In English the construction can often be translated as “it is unlikely that…“ or “probably not“.
   - norwegian: |
-       Ved hjelp av denne konstruksjonen uttrykker taleren tvil mht. at en gitt [begivenhet]Event vil finne sted, eller at en gitt [deltager]Agent vil utføre en viss [handling]Action. I norsk kan konstruksjonen ofte oversettes med “neppe”.
+       Konstruksjonen betyr at taleren tviler på om en gitt [hendelse]Event eller [handling]Action vil inntreffe. Konstruksjonen brukes også i utsagn om allerede inntrufne hendelser eller i vurderingen av en pågående situasjon. I alle tilfellene vurderes situasjonen å være lite sannsynlig. Ordene "вряд ли" eller "навряд ли" står vanligvis rett foran den situasjonskomponenten, hvis realisme trekkes i tvil (enten det er en handling, et tidspunkt, en deltaker, et kjennetegn eller noe annet). Avhengig av dette fylles sloten XP av en verbalfrase (eksempel 2), et preposisjonsledd (eksempel 3), en nominalfrase (eksempel 4), et adjektiv eller et adverb (eksempel 5).
 examples:
   - |
        Вряд ли [он повторит этот результат снова на олимпиаде.]Situation
@@ -31,8 +31,7 @@ morphology:
   - Adj
   - Adv
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

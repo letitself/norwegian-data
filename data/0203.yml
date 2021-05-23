@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает противопоставление двух формулировок. По мнению говорящего, [формулировка]Evaluation во второй части предложения (после «сколько») более точно соответствует ситуации, чем [формулировка]Evaluation в первой части предложения (после «не столько»). Говорящий словно поправляет сам себя в процессе речи. Слот XP может быть выражен прилагательным (пример 1), глагольной группой (пример 2), именной группой (пример 3), предложной группой (пример 4), наречием (пример 5).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever sammenstillingen av to formuleringer. Etter talerens mening samsvarer [formuleringen]Evaluation i setningens andre del (etter "сколько") mer presist til situasjonen enn [formuleringen]Evaluation i setningens første del (etter "не столько"). Taleren retter liksom på seg selv i taleprosessen. Sloten XP kan være uttrykt av et adjektiv (eksempel 1), en verbalfrase (eksempel 2), en nominalfrase (eksempel 3), et preposisjonsledd (eksempel 4) eller et adverb (eksempel 5).
 examples:
   - |
        Потом, после этой не столь [физической]Evaluation, сколь [мыслительной]Evaluation процедуры я долго отдыхал в кресле.
@@ -33,7 +35,7 @@ syntactic_structure_of_anchor:
   - Negation
   - Multiword Conjunction
 part_of_speech_of_anchor:
-  - Negation marker
+  - Negation Marker
   - Pronoun
 semantic_roles:
   - Evaluation

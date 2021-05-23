@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Agent по какой-то причине не может выполнить действие самостоятельно и прибегает к профессиональной помощи другого [участника]Participant, обычно более квалифицированного в данной области. Участником может быть представитель определенной профессии (примеры 1, 2), учреждение (примеры 3, 4 ) или интернет (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent av en eller annen grunn ikke kan utføre en handling selv og tyr til profesjonell bistand fra en annen [deltaker]Participant, vanligvis bedre kvalifisert på det aktuelle feltet. Deltakeren kan være en yrkesutøver (eksempel 1 og 2), en institusjon (eksempel 3 og 4) eller internettet (eksempel 5).
 examples:
   - |
        Обратившись в суд, [граждане]Agent могут пользоваться услугами [адвокатов.]Participant

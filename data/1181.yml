@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает сильное [внешнее]Parameter сходство [человека]Comparee с [членом его семьи или известной личностью или персонажем с узнаваемой внешностью]Standard. Как если бы они действительно имели одно и то же лицо. Если в слоте NP-Nom существительное или местоимение стоит в единственном числе, то оно называет того участника, которого сравнивают (Вася с папой = Вася и папа). Если в слоте NP-Nom стоит местоимение во множественном числе, то оно называет тех двоих участников, которые сравниваются друг с другом (мы с папой = я и папа).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever den sterke [utseendemessige]Parameter likheten mellom [en person]Comparee og [et familiemedlem, en kjent person eller en figur med et gjenkjennelig ytre]Standard. Det er som om de virkelig har ett og samme ansikt.
 examples:
   - |
        ― [Я]Comparee с [мамой]Standard ― одно лицо.
