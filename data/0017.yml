@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что, по мнению говорящего, [событие]Action должно было наступить значительно раньше настоящего момента или [участник ситуации]Participant должен был выполнить какое-либо [действие]Action значительно раньше настоящего момента.
+  - english: |
+       This construction means that, in the speaker’s opinion, the [event]Action should have occurred much earlier than the present moment, or the [participant in the situation]Participant should have performed some action much earlier than the present moment.
   - norwegian: |
        Konstruksjonen uttrykker at [en hendelse]Action, etter talerens mening, burde ha inntruffet vesentlig tidligere enn i dette øyeblikk, eller at [en deltaker i situasjonen]Participant burde ha utført en gitt [handling]Action vesentlig tidligere enn i dette øyeblikk.
 examples:
@@ -30,7 +32,7 @@ syntactic_type_of_construction:
   - Copula Construction
   - Matrix and Infinitival Complement Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция выражает удивление говорящего [объектом]Theme, [участником]Participant или [событием]Event, которые его поразили. Оценка может быть положительной или отрицательной.
   - english: |
-       This evaluative construction is used to express the surprise of the speaker, who has seen a [certain object]Theme for the first time or witnessed an [event]Theme that surprised him/her. The evaluation can be either positive or negative.
+       This construction expresses the surprise of the speaker caused by an unexpected [object]Theme, [participant]Participant, or [event]Event. The evaluation can be either positive or negative.
 examples:
   - |
        Думал, обойдётся; не обошлось. Развелась, уехала и двух сыновей с собой увезла. Даже от алиментов отказалась. Вот это [характер!]Theme
@@ -27,7 +27,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

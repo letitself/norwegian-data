@@ -5,19 +5,7 @@ UD_name: 'нельзя ли Cop VP-Inf?'
 illustration: 'Нельзя ли сделать музыку потише?'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция выражает просьбу, пожеланиe говорящего, чтобы  обращенное к сили разрешения на [что-либо.]Action нельзя ли равно можно
-  - english: |
-       This construction asks someone to [do X]XXX, e.g. сделать музыку тише ‘turn down the music’. A closely related construction in English is ‘it wouldn’t be possible to do X, would it?’.
-  - norwegian: |
-       Kontruksjonen ber noen om å [gjøre X]XXX, f.eks. сделать музыку тише ‘dempe musikken’. En nærliggende konstruksjon i norsk er ‘det ville vel ikke være mulig å X?’.
 examples:
-  - |
-       Нельзя ли [найти для меня работу в университете?]Action
-  - |
-       Нельзя ли [подвинуться?]Action
-  - |
-       Нельзя ли [выяснить, где он сейчас находится?]Action
 morphology:
   - Cop
   - VP
@@ -25,7 +13,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
   - Discourse Particle
 syntactic_structure_of_anchor:
   - Negation

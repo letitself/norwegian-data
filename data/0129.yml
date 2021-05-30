@@ -7,8 +7,6 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что при [покупке]Action некоторый [товар или услуга]Theme имеет цену, которая выражена [количеством]Quantity [денежных единиц.]Measure Кроме рублей, в конструкции используются названия других денежных единиц и валют: копейка, крона, евро, доллар, и др. Если использовано числительное «один», «одна» или «одно», то [денежная единица]Measure стоит в винительном падеже, в остальных случаях в родительном падеже.
-  - english: |
-       This construction is used when a [participant]Participant purchases goods, the [price]Quantity of which equals the [given amount]Quantity.
 examples:
   - |
        Шестнадцатилетняя дочь однажды заявляет маме: «Себе ты [купила]Action [босоножки]Theme за [две тысячи]Quantity, а мне всего за [пятьсот]Quantity [рублей!»]Measure

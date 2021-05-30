@@ -5,19 +5,7 @@ UD_name: 'NP от NP-Gen'
 illustration: 'Ключ от двери'
 cefr_level: A2
 definitions:
-  - russian: |
-       Конструкция используется для того, чтобы показать связь между двумя объектами. [Некоторый объект]Theme является частью [другого (более крупного) ]Actant или предназначается специально для него.
-  - english: |
-       This construction is used to show the relationship between two objects. [The first object]Theme is part of [another, much larger object]Actant or is intended specifically for it.
-  - norwegian: |
-       N/A
 examples:
-  - |
-       Я ж говорю, что у этих людей вместо головы [коробка]Theme от [шляпы]Actant!
-  - |
-       У Эдварда был свой [ключ]Theme от [спальни]Actant.
-  - |
-       У меня подергивался правый глаз и потерялся [шнурок]Theme от [левого ботинка]Actant.
 morphology:
   - NP
   - Gen

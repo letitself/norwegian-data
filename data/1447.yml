@@ -34,9 +34,6 @@ references:
   - |
     No references
 semantic_types:
-  - type: Comparison
-    subtypes:
-      - type: Inequality
   - type: Degree of intensity
     subtypes:
       - type: Booster

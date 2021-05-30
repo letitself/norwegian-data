@@ -5,13 +5,7 @@ UD_name: 'NP-Nom Cop хороший-Short/плохой-Short тем, что Adj/
 illustration: 'Чай хорош тем, что крепок.'
 cefr_level: B2
 definitions:
-  - russian: |
-       explication of general assessmemnt
 examples:
-  - |
-       Пьеса хороша уж тем, что короткая.
-  - |
-       Осень хороша тем, что много фруктов
 morphology:
   - NP
   - Nom
@@ -22,7 +16,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
   - Subordinator
 syntactic_structure_of_anchor:
   - Not Applicable

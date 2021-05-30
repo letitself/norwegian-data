@@ -7,10 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в максимальной степени его проявления и этим отличается от всех остальных представителей [некоторого класса]Standard.
-  - english: |
-       This construction means that something exhibits [a certain property]Property to a more extreme degree than other representatives of its [class]Set, e.g.наименьший из зол ‘the least of evils’.
-  - norwegian: |
-       Konstruksjonen betyr at noe innehar [en viss egenskap]Property i en langt større grad enn andre representanter for denne [klassen]Set, e.g. наименьший из зол ‘det minste onde’.
 examples:
   - |
        Марина влюбилась и чувствовала себя [наисчастливейшей]Property из [женщин]Set.
@@ -18,8 +14,6 @@ examples:
        В воздухе пронесся [наилегчайший]Property из [всех чистых звуков]Set, высокий и пронзительный.
   - |
        Толстой [наиталантливейший]Property из [всех писателей]Set, кого она когда-либо читала.
-  - |
-       -
 morphology:
   - Adj
   - NP

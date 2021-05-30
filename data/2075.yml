@@ -3,7 +3,7 @@ record: 2075
 name: 'Спасибо NP-Dat (за NP-Acc/за то, что Cl)!'
 UD_name: 'Спасибо NP-Dat (за NP-Acc/за то, что Cl)!'
 illustration: 'Спасибо тебе за помощь!'
-cefr_level: 
+cefr_level: A2
 definitions:
 examples:
 morphology:
@@ -14,7 +14,7 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
   - Government
 syntactic_structure_of_anchor:
   - Argument Structure

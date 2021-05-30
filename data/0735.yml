@@ -38,6 +38,8 @@ references:
     No references
 semantic_types:
   - type: Concession
+    subtypes:
+      - type: Other
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement

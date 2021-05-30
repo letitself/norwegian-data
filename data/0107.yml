@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник]Participant, [фактор или другой элемент ситуации]Theme по мнению говорящего не является важным, не играет роли (примеры 1, 2) или не служит причиной некоторой ситуации (примеры 3-5). Нередко говорящий указывает, что же является важным или что послужило причиной. Эта информация следует после союза «а».
-  - english: |
-       This construction expresses that a certain situation is caused by something else than [X]Theme, e.g. опоздания ‘delays’ or наши аппетиты ‘our appetite’.
-  - norwegian: |
-       Konstruksjonen uttrykker at en gitt situasjon er utløst av noe annet enn [X], f.eks. опоздания ‘forsinkelser’ or наши аппетиты ‘matlysten vår’.
 examples:
   - |
        ― Есть женщины покрасивее и помоложе меня. На это дирижёр возразил, что дело не в [красоте]Theme и не в [возрасте]Theme, а в [натуре.]Theme Есть люди, облик которых просто необходимо запечатлеть на полотне.
@@ -29,7 +25,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

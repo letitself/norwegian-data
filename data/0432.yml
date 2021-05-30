@@ -5,21 +5,7 @@ UD_name: 'N N-Gen.Plur'
 illustration: 'Он король футбола, король королей!'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция используется для того, чтобы показать, что [некоторый объект]Theme является лучшим представителем [своего класса]Property и по значимости превосходит других представителей. Конструкция используется для того, чтобы дать качественную оценку некоторому объекту, известному из контекста, причем название объекта обязательно повторяется. в косвенном падеже может быть, я приехал в столицу столиц. судьба недаром забросила меня в Столицу Столиц. Nominal pattern with reduplication - with the meaning «best example»
-  - english: |
-       This construction means that [a given object]Theme is an excellent, or the best, representative of its [class]Property. The object and class always have the same name, e.g. король ‘king’. A similar construction is found in such English expressions as “king of kings”, “miracle of miracles”, etc.
-  - norwegian: |
-       Konstruksjonen uttrykker at [et gitt object]Theme er et svært godt, eller det beste eksempelet på [klassen det tilhører]Property. Objektet og klassen har alltid samme navn, f.eks. король ‘konge’. I norsk bruker vi nærliggende konstruksjoner i uttrykk som “kongenes konge”, “festen over alle fester”, osv.
 examples:
-  - |
-       Это король футбола. Это [король]Theme [королей]Property!
-  - |
-       У меня был лучший день рождения! [Праздник]Theme [праздников]Property и торжество из торжеств!
-  - |
-       Художник взял свой складной стул, свои кисти и написал первый набросок моего портрета с натуры. Вышло [чудо]Theme [чудес]Property.
-  - |
-       -
 morphology:
   - Noun
   - Gen

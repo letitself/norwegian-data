@@ -5,19 +5,7 @@ UD_name: 'VP на основе NP-Gen'
 illustration: 'Они действовали на основе инструкции.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция обозначает, что [что-то]Theme является опорным и центральным источником, исходным пунктом для чего-либо.
-  - english: |
-       This construction specifies [the basis]Theme on which some action is, can be, or has been performed, e.g. на основе инструкции ‘based on an instruction’.
-  - norwegian: |
-       Konstruksjonen viser til [grunnlaget]Theme for en viss handling, e.g. на основе инструкции ‘på grunnlag av instruksjonen’.
 examples:
-  - |
-       Нужен он мне лишь для того, чтобы на основе [математических методов]Theme эту задачу решить быстрее!
-  - |
-       Так писатели вообще пишут на основе [личного опыта.]Theme
-  - |
-       Надеемся, что на основе [таких оценок]Theme Совет Безопасности сможет принять дополнительные меры к усилению эффективности санкций.
 morphology:
   - VP
   - NP

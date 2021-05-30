@@ -3,7 +3,7 @@ record: 2328
 name: 'Уж простить-Imp/извинить-Imp, но Cl'
 UD_name: 'Уж простить-Imper/извинить-Imper, но Cl'
 illustration: 'Уж простите, но всё будет по договору.'
-cefr_level: 
+cefr_level: B2
 definitions:
 examples:
 morphology:
@@ -37,6 +37,8 @@ references:
     No references
 semantic_types:
   - type: Concession
+    subtypes:
+      - type: Other
   - type: Routine
     subtypes:
       - type: Politeness marker

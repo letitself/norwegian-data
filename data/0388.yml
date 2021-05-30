@@ -5,17 +5,7 @@ UD_name: 'этот NP-Nom Cop не про NP-Acc'
 illustration: 'Эти лакомства – не про нас.'
 cefr_level: B2
 definitions:
-  - russian: |
-       Конструкция обозначает, что [что-то]Theme не подходит или нерелевантно для [говорящего]Beneficiary.
-  - english: |
-       Capacity, being capable to deal with smth, feeling comfortable with a certain activity, Rationalistic attitude: Preferences (how good/bad the speaker is at X, and feels comfortable doing X) - Overlap between Attitude and Assessment
 examples:
-  - |
-       Вся эта [грязь]Theme – не про [Москву]Beneficiary.
-  - |
-       [Пить, курить и не учиться,]Theme это [все]Theme – не про [Петю]Beneficiary.
-  - |
-       Эта [неорганизованность]Theme и [неаккуратность]Theme – не про [меня]Beneficiary.
 morphology:
   - NP
   - Nom
@@ -24,7 +14,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

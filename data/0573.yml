@@ -10,12 +10,6 @@ definitions:
   - english: |
        This construction is used to show that [a certain fashion (or set of things)]Theme suits [a participant]Experiencer, looks good on [the participant]Experiencer.
 examples:
-  - |
-       [Одежда]Theme, которая прежде была [ей]Experiencer к лицу, стала немодной.
-  - |
-       Ведь она так красива! Даже [некоторая бледность]Theme будет [ей]Experiencer к лицу.
-  - |
-       ― Я не люблю, когда женщины курят, но [вам]Experiencer [курение]Theme к лицу, ― отметил Марк.
 morphology:
   - NP
   - Nom
@@ -24,7 +18,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Prepositional Phrase
 part_of_speech_of_anchor:

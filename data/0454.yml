@@ -5,17 +5,7 @@ UD_name: 'NP лет NumCrd-Gen'
 illustration: 'Вошел старик лет семидесяти.'
 cefr_level: A2
 definitions:
-  - russian: |
-       Конструкция используется для выражения неточности, приблизительности в отношении [возраста]Theme некоторого [участника ситуации]Participant . Маркером этого значения является инверсивный порядок слов количественного числительного и существительного, которое называет возраст (в обычном случае числительное предшествует существительному, а в этой конструкции оно следует за существительным).
-  - english: |
-       This construction is used to express uncertainty or an approximate estimate of the [age]Theme of a [participant]Participant. The inversed word order of the numeral and noun indicates this uncertainty and approximation, which conveys the age (normally the numeral precedes the noun, but in this construction the numeral follows the noun).
 examples:
-  - |
-       Впереди походкой от бедра шла [девушка]Participant лет [двадцати]Theme.
-  - |
-       Я увидела [человека]Participant лет [пятидесяти]Theme, с набрякшими веками, большеглазого, с нежным румянцем на лице.
-  - |
-       Старуха остановилась возле гардероба, против неё стоит высокий [парень]Participant лет [сорока]Theme с мордой и небольшой лысиной.
 morphology:
   - NP
   - NumCrd

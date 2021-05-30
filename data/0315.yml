@@ -5,15 +5,7 @@ UD_name: 'станет NP-Nom VP-Inf!'
 illustration: 'Станет он посуду мыть!'
 cefr_level: B2
 definitions:
-  - russian: |
-       Конструкция используется для выражения неуверенности говорящего в том, что участник выполнит какое-либо [действие]Action .
 examples:
-  - |
-       Станет [она]Agent [работать]Action! Её родители разбаловали.
-  - |
-       Cтанет [он]Agent [отцу помогать]Action!
-  - |
-       Станут [они]Agent [меня слушать]Action! Кто я им?
 morphology:
   - NP
   - Nom

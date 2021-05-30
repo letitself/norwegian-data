@@ -7,10 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция указывает на то, что некоторое [положение дел]Situation или [свойство объекта или участника]Property является общеизвестным, хорошо знакомым большому количеству людей. Конструкция является вводной и на письме выделяется запятыми.
-  - english: |
-       This construction emphasizes that specific information is well-known to all people in general. A closely related construction in English is ‘as is well-known’.
-  - norwegian: |
-       Konstruksjonen understreker at informasjonen er velkjent for folk generelt. En nærliggende konstruksjon i norsk er ‘som kjent’.
 examples:
   - |
        Как известно, [в этом году будет отмечаться 300-летие Петербурга]Situation.
@@ -58,4 +54,4 @@ semantic_types:
   - type: Source of information
 family:
   - |
-    ""
+    "This construction emphasizes that specific information is well-known to all people in general. A closely related construction in English is ‘as is well-known’. Konstruksjonen understreker at informasjonen er velkjent for folk generelt. En nærliggende konstruksjon i norsk er ‘som kjent’."

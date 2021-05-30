@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает отсутствие места, куда [участнику]Experiencer можно было бы [отправиться]Action или [поместить]Action некоторый предмет. Ударение в «некуда» стоит на не-.
   - english: |
-       This construction means that the subject has nowhere to [go]Action or [put]Action something.
+       This construction means that the [participant]Experiencer has nowhere to [go]Action, or no place to [put]Action some object. The stress in “некуда” is on “не-”.
   - norwegian: |
        Konstruksjonen betegner fraværet av et sted [deltakeren]Experiencer kunne [dra]Action til eller [plassere]Action en gitt gjenstand på. Trykket i "некуда" ligger på не-.
 examples:
@@ -31,7 +31,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

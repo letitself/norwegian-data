@@ -69,6 +69,8 @@ semantic_types:
     subtypes:
       - type: Contrast
   - type: Concession
+    subtypes:
+      - type: Other
 family:
   - |
     "Biclausal constructions of Contrast"

@@ -5,17 +5,7 @@ UD_name: 'PronInt только NP-Nom VP!'
 illustration: 'Как только она это выносит!'
 cefr_level: B2
 definitions:
-  - russian: |
-       Конструкция употребляется в риторических вопросах и восклицаниях и обозначает возмущение, негодование, удивление совершенным [действием]Action [участника]Agent.
 examples:
-  - |
-       [На что]Actant только [я]Agent [не иду]Action ради него!
-  - |
-       [Откуда]Actant [они]Agent только все [узнали!]Action
-  - |
-       [Кто]Actant только мог все это [натворить!]Action
-  - |
-       [Зачем]Actant только [я]Agent ему [сказал]Action это!
 morphology:
   - PronInt
   - NP

@@ -5,19 +5,7 @@ UD_name: 'такой же XP как и NP'
 illustration: 'Сын такой же высокий, как и отец.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция обозначает, что какой-то [объект]Theme подобен другому [объекту]Standard, имеет какие-либо его свойства.
-  - english: |
-       This construction expresses that [X]Theme is similar to [Y]Standard, sometimes with regard to an explicitly mentioned property, e.g. height: сын такой же высокий, как и отец ‘the boy is just as tall his faither’.
-  - norwegian: |
-       This construction expresses that [X]Theme is similar to [Y]Standard, sometimes with regard to an explicitly mentioned property, e.g. height: сын такой же высокий, как и отец ‘the boy is just as tall his faither’.
 examples:
-  - |
-       Маше купили такое же [платье]Theme, как и [у Тани]Standard.
-  - |
-       Медведь выполнял такие же [трюки]Theme, как и [люди-канатоходцы.]Standard
-  - |
-       Наступали сумерки, такие же [жгучие]Theme, как и [полдень]Standard.
 morphology:
   - XP
   - NP

@@ -5,19 +5,7 @@ UD_name: 'NP-Nom отличаться NP-Ins'
 illustration: 'Он отличается большой выносливостью.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция показывает, что у [некоторого участника]Participant есть [характерные признаки]Property, которые делают его непохожим на других.
-  - english: |
-       This construction means that [someone]Participant possesses [certain attibutes]Property that make them stand out from others.
-  - norwegian: |
-       Konstruksjonen uttrykker at [noen]Participant har [visse egenskaper]Property som gjør at han eller hun skiller seg ut fra andre.
 examples:
-  - |
-       [Вавилов]Participant отличался [большой простотой]Property, он не любил генеральничать
-  - |
-       С детских лет [Александр Легков]Participant отличался [большой выносливостью]Property.
-  - |
-       [Она]Participant никогда не отличалась [красотой]Property, но у нее была та живость лица, та открытая улыбка, та женственность и миловидность, которые заменяли ей красоту.
 morphology:
   - NP
   - Nom

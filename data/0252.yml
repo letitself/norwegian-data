@@ -7,10 +7,6 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает итоговую стоимость [товара]Theme, которую оплатил или оплатит [покупатель]Experiencer. Называется [количество]Quantity [единиц]Measure определенной валюты (рубли, доллары, евро и др.). Если использовано числительное «один» или «одна», то [единица измеренения]Measure стоит в винительном падеже (в один рубль), в остальных случаях после предлога «в» в родительном падеже (в два рубля).
-  - english: |
-       This construction expresses the [total cost]Number of [something]Theme.
-  - norwegian: |
-       Konstruksjonen uttrykker [totalkostnaden]Number for [noe]Theme.
 examples:
   - |
        По предварительным расчетам, [музей]Theme обойдётся [владельцу]Experiencer в [20 млн]Quantity [долларов]Measure.

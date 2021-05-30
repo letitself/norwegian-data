@@ -7,10 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция указывает на [количество]Quantity [объектов, участников или единиц измерения]Theme при [распределении]Action. Конструкция также может иметь дополнительный актант: [емкость/сосуд]Container, в котором находится объект. Если использовано числительное «один», «одна» или «одно», то и числительное, и [объект]Theme стоят в дательном падеже (например, по одному стихотворению). В остальных случаях числительное стоит в винительном падеже, а [объект]Theme в родительном падеже (например, по два стихотворения).
-  - english: |
-       This construction describes how [something]Theme is distributed with regard to [amount]Theme among participants or over time. Amounts can be specified as the number of [containers]Container, e.g. по несколько банок пива ‘a few cans of beer’.
-  - norwegian: |
-       Konstruksjonen forteller hvordan [noe]Theme er distribuert i [antall]Number mellom deltagere eller over tid. Mengder kan oppgis utfra antall [beholdere]Container, f.eks. по несколько банок ‘noen ølbokser’.
 examples:
   - |
        Мама [дала]Action детям по [две]Quantity [конфеты]Theme.
@@ -18,10 +14,6 @@ examples:
        При проведении эксперимента [генерировалось]Action по [сто]Quantity [заданий]Theme для каждого класса задач.
   - |
        Бесцеремонно полезли по ящикам, [откупорили]Action и [выпили]Action по [несколько]Quantity [банок]Container [пива]Contained.
-  - |
-       по два килограмма
-  - |
-       по три человека
 morphology:
   - VP
   - NumCrd
@@ -63,4 +55,4 @@ semantic_types:
       - type: Unrestricted domain
 family:
   - |
-    ""
+    "по два килограмма"

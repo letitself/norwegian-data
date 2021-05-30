@@ -5,8 +5,6 @@ UD_name: '(а) какой/каков PronPers-Nom Cop собой?'
 illustration: 'А как его зовут? А какой он собой?'
 cefr_level: B1
 definitions:
-  - russian: |
-       Запрос на оценку. Ожидается оценочный ответ. Не про одежду, а про красивый некрасивый / красавец собой! Есть презумпция, что выглядит хорошо.
 examples:
 morphology:
   - PronPers
@@ -15,7 +13,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

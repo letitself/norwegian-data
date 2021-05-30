@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция выражает удивление говорящего неожиданным [объектом]Theme, [участником]Participant или [событием]Event. Удивление возникает в результате разочарования (реальность хуже, чем ожидалось) или восхищения (реальность лучше, чем ожидалось). Является ли оценка положительной или отрицательной, обычно становится понятно только из контекста. Oбычно такое пояснение дается в отдельной клаузе Cl.
+  - english: |
+       This construction expresses the surprise of the speaker caused by an unexpected [object]Theme, [participant]Participant, or [event]Event. The surprise is caused by disappointment (with something that is worse than expected) or delight (with something that is better than expected). Whether the evaluation is positive or negative is usually given by the context. This context is usually expressed in a separate clause Cl.
 examples:
   - |
        Вот так [аквариум!]Theme [Оригинальное сооружение находится в рыбном ресторане столицы Филиппин Маниле. Чтобы привлечь посетителей, хозяин ресторанчика соорудил огромный аквариум, в котором плавают три девушки и юноша. Пока посетители ужинают, пловцы изображают морских обитателей.]Situation
@@ -26,7 +28,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

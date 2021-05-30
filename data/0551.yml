@@ -5,21 +5,7 @@ UD_name: 'NP-Nom приходиться NP-Dat NP-Ins'
 illustration: 'Этот мальчик приходится мне сыном.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция используется для ввода [нового участника]Participant и установления его связи с [уже известным]Experiencer .
-  - english: |
-       This construction is used to introduce [a new participant]Participant and establish its connection to the participant who is [already known]Experiencer.
-  - norwegian: |
-       N/A
 examples:
-  - |
-       [Принцесса]Participant по матери приходилась [английской королеве Виктории]Experiencer [внучкой]Associated.
-  - |
-       Иван женат на [дочери начальника]Participant, [которая]Participant [мне]Experiencer приходится [теткой]Associated.
-  - |
-       [Валерия]NP-Nom приходилась [мне]NP-Dat [родственницей]NP-Abs.
-  - |
-       -
 morphology:
   - NP
   - Nom

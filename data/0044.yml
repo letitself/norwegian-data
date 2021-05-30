@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция имеет прямое и переносное употребление. В прямом употреблении, конструкция обозначает, что некоторый физический [контейнер]Container заполнен [содержимым]Contained (примеры 1, 2). В переносном употреблении, контейнером становится человек, а содержимым являются чувства, эмоции, мысли и другие абстрактные понятия (примеры 3, 4), которые наполняют его до краев. Например, выражение «полон энтузиазма» означает, что у человека много энтузиазма. При еще большей степени абстракции, контейнером может быть поведение человека (например, взгляд, движения, пример 5).
+  - english: |
+       This construction has both a literal and a metaphorical use. In its literal use the construction means that a given physical [container]Container is filled with [contents]Contained (examples 1, 2). In its metaphorical use the container becomes a person, and the contents are feelings, emotions, thoughts and other abstract notions (examples 3, 4), that fill the person to the brim. For example, the expression "полон энтузиазма" means that the person has a lot of enthusiasm. At an even higher degree of abstraction the container can be human behaviour (for example a glance, movement, example 5).
   - norwegian: |
        Konstruksjonen har direkte og overført betydning. I direkte betydning betyr konstruksjonen at en gitt fysisk [beholder]Container er fylt med [innhold]Contained (eksempel 1 og 2). I overført betydning er det et menneske som blir beholderen, og innholdet er følelser, emosjoner, tanker og andre abstrakte begreper (eksempel 3 og 4) som fyller mennesket til randen. For eksempel betyr uttrykket "полон энтузиасма" at personen har mye entusiasme. På et enda høyere abstraksjonsnivå kan beholderen være et menneskes opptreden (for eksempel et blikk eller en bevegelse, eksempel 5).
 examples:
@@ -30,7 +32,7 @@ syntactic_type_of_construction:
   - Copula Construction
   - Predicate Argument Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:

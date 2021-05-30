@@ -5,19 +5,7 @@ UD_name: 'NP цвета NP-Gen'
 illustration: 'Девушка с глазами цвета неба'
 cefr_level: A2
 definitions:
-  - russian: |
-       Конструкция обозначает, что существует сочетание признаков, дающее представление о [внешнем виде поверхности объекта.]Theme
-  - english: |
-       This construction indicates that there are features that characterize the [appearance of the surface]Theme.
-  - norwegian: |
-       N/A
 examples:
-  - |
-       В войне Англии с ними была впервые применена [форма]Theme цвета [хаки.]Actant
-  - |
-       [Кухня]Theme оказалась цвета [подсолнуха.]Actant
-  - |
-       [Деревянная ручка]Theme приобрела цвет [янтаря.]Theme
 morphology:
   - NP
   - Gen

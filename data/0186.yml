@@ -5,19 +5,7 @@ UD_name: 'на что NP-Dat Cop NP-Nom?'
 illustration: 'На что мне эти книги?'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция выражает риторический вопрос. [Участник]Participant считает, что для него [определенный объект]Theme не представляет ценности, и поэтому [он]Participant может легко обходиться без [него.]Theme
-  - english: |
-       This construction involves a rhetorical question. It is used when [X]Participant is, or potetially could be, offered [something that is usually considered to be good]Theme, e.g. книги ‘books’, деньги ‘money’, розы ‘roses’ or счастье ‘happiness’.
-  - norwegian: |
-       Konstruksjonen innebærer et retorisk spørsmål. Den kan brukes i situasjoner hvor [X]Participant blir, eller potensielt kunne blitt tilbudt [noe som vanligvis regnes for å være noe bra]Theme, f.eks. книги ‘bøker’, деньги ‘penger’, розы ‘roser’ eller счастье ‘lykke’. En nærliggende konstruksjon i norsk er ‘Hva skal jeg med X?’.
 examples:
-  - |
-       На что [художнику]Participant [деньги]Theme? ― как сказал поэт. Заплатите лучше мне!
-  - |
-       Почему меня не спросили ― хочу я эти розы или нет? На что [мне]Participant [розы]Theme? Мне хорошо живется и без них.
-  - |
-       Да ведь если каждая счастливая минута таит сама в себе горькое разочарование, то на что [тебе]Participant [счастье]Participant?
 morphology:
   - NP
   - Dat
@@ -26,7 +14,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Prepositional Phrase
 part_of_speech_of_anchor:

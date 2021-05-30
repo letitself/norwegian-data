@@ -5,13 +5,7 @@ UD_name: 'только бы/лишь/хоть (NP-Dat) Cop VP-Perf.Inf'
 illustration: 'Мне только бы увидеть ее.'
 cefr_level: B2
 definitions:
-  - russian: |
-       Конструкция обозначает сильное желание [участника]Participant выполнить [действие]Action.
-  - english: |
-       только бы/лишь бы/хоть бы (NP-Dat) Cop VP-Pfv.Inf
 examples:
-  - |
-       [Мне]Participant  [только]только  [бы]бы  [показать]Action  ]NP-Dat_только_бы_VP-Inf кому-нибудь мои стихотворения, и я уверен, что это произведёт впечатление.
 morphology:
   - NP
   - Dat
@@ -53,4 +47,4 @@ semantic_types:
   - type: Volition
 family:
   - |
-    ""
+    "только бы/лишь бы/хоть бы (NP-Dat) Cop VP-Pfv.Inf"

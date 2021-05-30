@@ -7,8 +7,6 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция выражает общую одобрительную оценку некоторого [участника ситуации]Participant или [объекта]Theme. Обычно имеется в виду внешность или профессиональные качества. Конструкция не предполагает выделения каких-либо отличительных особенностей участника или объекта.
-  - english: |
-       This construction expresses an overall positive evaluation of a [participant]Participant or an [object]Theme. It does not point out any specific features.
 examples:
   - |
        Иванова села рядом, на соседний стул, склонила голову набок, пристально рассматривая Мишин профиль. ― Да, [ты]Participant [парень]Theme ― ничего! Недаром девушки любят.
@@ -28,7 +26,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

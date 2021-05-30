@@ -5,19 +5,7 @@ UD_name: 'что PronPers-Dat NP-Nom'
 illustration: 'Что мне дождь!'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция используется для того, чтобы показать безразличие [кого-либо]Participant к [чему-либо]Theme. Конструкция может встречаться как с вопросительной интонацией (риторический вопрос), так и с восклицательной интонацией.  Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern. only in Present tense
-  - english: |
-       This construction expresses that [the participant]Participant is indifferent to [something]Theme, e.g. дождь ‘rain’. In oral speech, the construction can be pronounced as a rhetorical question or an exclamation.
-  - norwegian: |
-       Konstruksjonen uttrykker at [deltageren]Participant er likegyldig til [noe]Theme, e.g. дождь ‘rain’. I muntlig tale kan konstruksjonen uttales som et retorisk spørsmål eller et utrop.
 examples:
-  - |
-       ― Вы ведь историю преподавали? ― А что [мне]Participant [история]Theme?
-  - |
-       Как жалко, что человек даже не может выбрать себе угол на земле! Что [тебе]Participant [Москва]Theme? Ты же не любишь ее!
-  - |
-       — Что [мне]Participant [слава]Theme?! — тихо отвечал Пушкин и опустил голову еще ниже.
 morphology:
   - PronPers
   - Dat

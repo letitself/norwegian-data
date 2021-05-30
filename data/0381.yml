@@ -5,19 +5,7 @@ UD_name: 'чтоб(ы) PronPers-Nom V-Past!'
 illustration: 'Чтобы он опоздал?! Он всегда выходит вовремя.'
 cefr_level: C1
 definitions:
-  - russian: |
-       Конструкция, которая выражает высшую степень удивления говорящего о [некотором участнике]Participant . Говорящий считает, что участник никогда не выполняет [ожидаемого действия]Action . Участником может быть сам говорящий. В некоторых случаях вместо «чтобы» используется более разговорный вариант «чтоб».
-  - english: |
-       This construction is used to express surprise and means that it would be extremely atypical of [themselves or someone else]Participant to do [something]Action. A closely related construction in English is ‘as if X does/would do Y’, e.g. Чтобы он опоздал! Он всегда выходит вовремя ‘As if he comes/would come late! He always leaves on time.’ Sometimes, the colloquial чтоб is used instead of чтобы.
-  - norwegian: |
-       Konstruksjonen brukes for å uttrykke overraskelse og betyr at det ville være ekstremt atypisk for [de selv eller noen andre]Participant å gjøre [noe]Action. En nærliggende konstruksjon i norsk er ‘som om X ville gjøre/ville gjort Y’, f.eks. Чтобы он опоздал! Он всегда выходит вовремя ‘Som om han kommer/ville kommet for sent! Han går alltid avgårde i tide.’ Av og til brukes det uformelle чтоб istedenfor чтобы.
 examples:
-  - |
-       ― У тебя есть сигареты? спросила Мария. ― Чтобы [я]Participant [курила]Action! ― рассмеялась ей в лицо полька.
-  - |
-       ― А где мои тапки? ― Чтоб [я]Participant [знал]Action!
-  - |
-       Чтобы [он]Participant [хоть раз купил еды]Action! Вечно холодильник пустой.
 morphology:
   - PronPers
   - Nom

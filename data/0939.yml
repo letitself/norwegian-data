@@ -37,6 +37,8 @@ references:
     No references
 semantic_types:
   - type: Concession
+    subtypes:
+      - type: Other
 family:
   - |
     ""

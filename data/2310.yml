@@ -3,7 +3,7 @@ record: 2310
 name: '(Ну) и ладно, (что) Cl'
 UD_name: '(Ну) и ладно, (что) Cl'
 illustration: 'Ну и ладно, что так вышло!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
@@ -44,6 +44,8 @@ semantic_types:
         subtypes:
           - type: Reconciliation
   - type: Concession
+    subtypes:
+      - type: Other
   - type: Polarity value
     subtypes:
       - type: Positive

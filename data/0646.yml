@@ -5,8 +5,6 @@ UD_name: 'VP NP-Nom наконец/ в конце концов (или нет)?'
 illustration: 'Починит он наконец компьютер?'
 cefr_level: C1
 definitions:
-  - russian: |
-       Добавить через слэш в конце концов в записи конструкции в конструктиконе
 examples:
 morphology:
   - VP
@@ -17,7 +15,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Modifier
   - Coordinator
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Prepositional Phrase
   - Negation

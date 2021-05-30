@@ -5,15 +5,7 @@ UD_name: 'и так XP, (а) Cl'
 illustration: 'Мне и так плохо, а ты ещё лезешь с вопросами.'
 cefr_level: B2
 definitions:
-  - russian: |
-       Конструкция выражает усиленное подчеркивание [некоторого действия]Action, которое долго не прекращается, в связи с чем участник ситуации испытывает негативные эмоции.
 examples:
-  - |
-       Он и так [нам]Beneficiary уже [надоел]State, а тут [снова явился с утра со своими вопросами.]Action
-  - |
-       [Папа]Beneficiary и так уже [расстроен]State, [перестань его трогать.]Action
-  - |
-       [Я]Beneficiary и так [не высыпаюсь]State, а [ты тут концерты устраиваешь.]Action
 morphology:
   - XP
   - Cl
@@ -45,6 +37,8 @@ references:
     No references
 semantic_types:
   - type: Concession
+    subtypes:
+      - type: Other
 family:
   - |
     ""

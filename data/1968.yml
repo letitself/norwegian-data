@@ -5,8 +5,6 @@ UD_name: 'что NP-Dat Cop (от NP-Gen/здесь) нужно/надо?'
 illustration: 'Что тебе от меня надо?'
 cefr_level: A2
 definitions:
-  - russian: |
-       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern
 examples:
 morphology:
   - NP
@@ -18,7 +16,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Object
   - Modifier
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Subject and Predicate
 part_of_speech_of_anchor:

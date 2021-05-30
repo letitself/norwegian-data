@@ -7,10 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает сравнение и обозначает, что [объект или участник ситуации]Comparee характеризуется некоторым [признаком]Parameter в максимальной степени его проявления и этим отличается от всех остальных представителей [некоторого класса]Standard.
-  - english: |
-       This construction means that [X]Theme has a given [property]Property to a higher/lower degree than all the other members of its [particular class]Set, e.g. август наиболее жаркий месяц из всех летних ‘August is the warmest of all the summer months’.
-  - norwegian: |
-       Konstruksjonen betyr at [X]Theme innehar en gitt [egenskap]Property i høyere/lavere grad enn alle de andre medlemmene av [den relevante klassen]Set, e.g. август наиболее жаркий месяц из всех летних ‘August er den varmeste av alle sommermånedene’.
 examples:
   - |
        Он наиболее [внимательный]Property и [старательный]Property [ученик]Theme из [всех одноклассников.]Set
@@ -18,8 +14,6 @@ examples:
        Но наиболее [умные]Property из [наших коллег]Set уехали в Европу.
   - |
        [Лимоны]Theme наименее [сладкие]Property из [всех видов цитрусов.]Set
-  - |
-       -
 morphology:
   - Adj
   - NP

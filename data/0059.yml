@@ -53,6 +53,8 @@ references:
     См. также Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания. 1999. № 5. С. 24–44.
 semantic_types:
   - type: Concession
+    subtypes:
+      - type: Other
 family:
   - |
     ""

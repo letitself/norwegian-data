@@ -9,11 +9,11 @@ definitions:
        Конструкция обозначает, что говорящий ненавязчиво предлагает совершить некоторое желательное для него [действие.]Action
 examples:
   - |
-       [Невредно]Estimation бы [вздремнуть]Action часика два.
+       [Невредно]Evaluation бы [вздремнуть]Action часика два.
   - |
-       [Недурно]Estimation бы и [поспать]Action хоть немного.
+       [Недурно]Evaluation бы и [поспать]Action хоть немного.
   - |
-       [Нехудо]Estimation бы ему эту книгу [прочесть]Action.
+       [Нехудо]Evaluation бы ему эту книгу [прочесть]Action.
 morphology:
   - Pred
   - Cop
@@ -30,7 +30,7 @@ part_of_speech_of_anchor:
   - Particle
 semantic_roles:
   - Action
-  - Estimation
+  - Evaluation
 intonation:
   - Declarative
 usage_label: Colloquial

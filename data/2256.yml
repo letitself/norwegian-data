@@ -1,20 +1,19 @@
 ---
 record: 2256
-name: 'NP-Gen видимо(-)невидимо'
+name: 'NP-Gen Cop видимо(-)невидимо'
 UD_name: 'NP-Gen видимо(-)невидимо'
 illustration: 'Народу собралось видимо–невидимо.'
 cefr_level: C1
 definitions:
-  - russian: |
-       Cop Gen2-?
 examples:
 morphology:
   - NP
   - Gen
+  - Cop
 syntactic_type_of_construction:
-  - Clause
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Reduplication
   - Negation

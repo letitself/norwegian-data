@@ -5,17 +5,7 @@ UD_name: 'N-Nom N-Ins, а/но Cl'
 illustration: 'Дружба дружбой, но я влюбился в нее.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция завершает обсуждение одной темы и переводит внимание на другую тему разговора. Конструкция обозначает, что [существование какой-либо ситуации]Theme не должно повлиять на событие, происходящие параллельно. См. 1960.
-  - english: |
-       This construction signifies that [the existence of a situation]Theme should not affect the event occurring parallel to it. In the construction the object is duplicated.
 examples:
-  - |
-       [Уроки]Theme-[уроками]Actant, а [цель у нас совсем другая.]Event
-  - |
-       [Дела]Theme-[делами]Actant, а [обед стынет.]Event
-  - |
-       [Шутки]Theme [шутками]Actant, но [Германия, кажется, проиграет.]Event
 morphology:
   - Noun
   - Nom
@@ -41,7 +31,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Дружба [nmod дружбой], [conj [cc но] [nsubj я] влюбился [obl [case в] нее]].]'
 comment: |
-    'см. конструкцию спросить спрошу, но он может не знать'
+    'См. конструкцию спросить спрошу, но он может не знать.'
 common_fillers:
   - ~
 references:

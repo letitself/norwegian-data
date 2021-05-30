@@ -1,20 +1,19 @@
 ---
 record: 2254
-name: 'NP-Gen хоть отбавляй'
+name: 'NP-Gen Cop хоть отбавляй'
 UD_name: 'NP-Gen хоть отбавляй'
 illustration: 'У нас проблем хоть отбавляй.'
 cefr_level: B2
 definitions:
-  - russian: |
-       Cop Gen2-?
 examples:
 morphology:
   - NP
   - Gen
+  - Cop
 syntactic_type_of_construction:
-  - Clause
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

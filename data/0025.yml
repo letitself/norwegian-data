@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает отсутствие у [участника]Experiencer объекта, необходимого для осуществления некоторого [действия]Action. Ударение в «нечего» стоит на не-.
   - english: |
-       This construction means that the object of the [activity]Action is missing.
+       This construction means that the [participant]Experiencer lacks something necessary for the fulfillment of some [action]Action. The stress in “нечего” is on “не-”.
   - norwegian: |
        Konstruksjonen betegner fraværet av et objekt [deltakeren]Experiencer må ha for å kunne utføre en gitt [handling]Action. Trykket i "нечего" ligger på не-.
 examples:
@@ -31,7 +31,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

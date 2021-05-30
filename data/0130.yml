@@ -7,10 +7,6 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник ситуации]Agent ненадолго [посетил]Action определенное место или другого участника с определенной [целью]Purpose, отклонившись для этого от своей основной траектории движения. Цель посещения названа в слоте VP-Pfv.Inf и представлена как менее значимая по сравнению с конечной целью пути. Набор глаголов в слоте за-Verb сильно ограничен. Значение отклонения от основной траектории наблюдается только у нескольких глаголов с приставкой за-, образованных от некоторых глаголов направленного движения: зайти, забежать, заехать, заскочить.
-  - english: |
-       This construction means that someone visits someone or somewhere because of a particular [errand]goal, e.g. поговорить ‘have a little talk’. The construction is used specifically about short visits and can often be translated as ‘drop by to [do something]Goal. Note that the particular [errand]Goal involved is expressed with a perfective verb. зайти 'ZA-go', забежать 'ZA-run', заехать 'ZA-drive', заскочить 'ZA-jump'.
-  - norwegian: |
-       Konstruksjonen betyr at noen besøker en person eller et sted for å få gjort et spesfikt [ærend]Goal, f.eks. поговорить ‘slå av en prat’. Besøket er relativt kortvarig, og зайти kan dermed ofte oversettes som ‘stikke innom’. Merk at det relevante [ærendet]Goal uttrykkes vha. et perfektivt verb.
 examples:
   - |
        И только через много, много лет я его встретил в ресторане "Амра", куда [я]Agent [зашёл]Action [выпить кофе.]Purpose
@@ -69,4 +65,4 @@ semantic_types:
   - type: Purpose
 family:
   - |
-    ""
+    "This construction means that someone visits someone or somewhere because of a particular [errand]goal, e.g. поговорить ‘have a little talk’. The construction is used specifically about short visits and can often be translated as ‘drop by to [do something]Goal. зайти 'ZA-go', забежать 'ZA-run', заехать 'ZA-drive', заскочить 'ZA-jump'. Konstruksjonen betyr at noen besøker en person eller et sted for å få gjort et spesfikt [ærend]Goal, f.eks. поговорить ‘slå av en prat’. Besøket er relativt kortvarig, og зайти kan dermed ofte oversettes som ‘stikke innom’. Merk at det relevante [ærendet]Goal uttrykkes vha. et perfektivt verb."

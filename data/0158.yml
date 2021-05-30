@@ -5,15 +5,7 @@ UD_name: 'какое NP-Dat дело Cop до NP-Gen'
 illustration: 'В конце концов, какое ей дело до его отношений с Ритой!'
 cefr_level: B2
 definitions:
-  - russian: |
-       Конструкция содержит риторический вопрос и употребляется, когда говорящий считает, что другой [участник]Experiencer не должен вмешиваться в определенную [ситуацию или проблему]Theme.
 examples:
-  - |
-       Какое [ему]Experiencer дело до [моей сестры]Theme? У него своя жизнь, у нас своя.
-  - |
-       Глупые люди. Какое [им]Experiencer дело до [их мыслей!]Theme
-  - |
-       Глупая, нахальная девчонка. Какое [ей]Experiencer дело до [научных исследований!]Theme
 morphology:
   - NP
   - Dat
@@ -22,7 +14,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:

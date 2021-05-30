@@ -5,19 +5,7 @@ UD_name: 'NP в NP-Acc'
 illustration: 'У него была тетрадь в клетку.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Конструкция обозначает, что [некоторый объект]Theme внешне обладает каким-либо [свойством или признаком]PropertyNP.
-  - english: |
-       This construction denotes that [an object]Theme possesses some external [state or characteristic]Property. Most often used in reference to patterns like polka-dots and stripes.
-  - norwegian: |
-       Можно добавить в описание конструкции, что речь идет о расцветке предмета.
 examples:
-  - |
-       [Тетради]Theme в [клетку]Property по-прежнему являются незаменимым атрибутом учебного процесса.
-  - |
-       [Черное платье]Theme в [горошек]Property прекрасно подойдет для свидания.
-  - |
-       Известные дизайнеры активно используют [обои]Theme в [полоску]Property в отделке помещений.
 morphology:
   - NP
   - Acc

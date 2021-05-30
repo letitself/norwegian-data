@@ -5,17 +5,7 @@ UD_name: 'кому какое дело Cop до NP-Gen'
 illustration: 'Кому какое дело до твоей проблемы.'
 cefr_level: C1
 definitions:
-  - russian: |
-       Конструкция содержит риторический вопрос и употребляется, когда говорящий считает, что [ситуация или проблема]Theme имеет такой характер, что никто не имеет к ней отношения или не должен вмешиваться в неё.
-  - english: |
-       Attitude of indifference vs. care (Отношение безразличия или участия) / subtag concern vs. unconcern
 examples:
-  - |
-       Да и кому какое дело до [семейных тайн.]Theme
-  - |
-       Впрочем, какое кому дело до [моих убеждений?]Theme
-  - |
-       И вообще, какое кому дело до [любви]Theme двух взрослых людей.
 morphology:
   - Cop
   - NP
@@ -23,7 +13,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Nominal Pattern
 part_of_speech_of_anchor:

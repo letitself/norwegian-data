@@ -40,6 +40,8 @@ references:
 semantic_types:
   - type: Condition
   - type: Concession
+    subtypes:
+      - type: Other
 family:
   - |
     ""

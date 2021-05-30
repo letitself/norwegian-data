@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция подчеркивает избыточность некоторого [объекта]Theme, которым располагает [участник]Participant. Количество объекта намного больше, чем необходимо. Упоминание самого [участника]Participant опционально. Конструкция используется в неформальном общении.
+  - english: |
+       This construction emphasizes the overabundance of some [object]Theme in a [participant’s]Participant possession. The quantity of the object is much larger than is necessary. Mention of the [participant]Participant is optional. This construction is used in informal communication.
   - norwegian: |
        Konstruksjonen understreker en overflod av [et objekt]Theme som [deltakeren]Participant besitter. Mengden av objektet er mye større enn nødvendig. Å nevne [deltakeren]Participant er valgfritt. Konstruksjonen brukes i uformell kommunikasjon.
 examples:
@@ -28,7 +30,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

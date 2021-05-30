@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает, что для совершения некоторого [действия]Action наступил удачный, подходящий момент и этим нужно воспользоваться. Когда используется «не», конструкция обозначает, что момент речи не является удачным для совершения этого действия, а слот заполняется только глаголами несовершенного вида.
   - english: |
-       The construction means that the right moment has come to perform some [action]Action, and that one must take advantage of this. When “не” is used, the construction means that at the time of the utterance, the moment is not conducive to the successful performance of the action, and the slot is filled only with imperfective verbs.
+       This construction means that the right moment has come to perform some [action]Action, and that one must take advantage of this. When “не” is used, the construction means that at the time of the utterance, the moment is not conducive to the successful performance of the action, and the slot is filled only with imperfective verbs.
   - norwegian: |
        Konstruksjonen betyr at det rette, passende øyeblikket for å utføre en gitt [handling]Action er kommet og må benyttes. Ved bruk av "не" betyr konstruksjonen at taletidspunktet ikke er det rette for å utføre handlingen, og sloten fylles kun av verb i imperfektivt aspekt.
 examples:
@@ -29,7 +29,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:

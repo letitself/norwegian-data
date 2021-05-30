@@ -5,13 +5,7 @@ UD_name: 'N-Nom Cop на N-Loc'
 illustration: 'Ошибка на ошибке.'
 cefr_level: B1
 definitions:
-  - russian: |
-       Значение - много ошибок и говорящий оценивает это отрицательно, как небрежность и низкое качество. обман на обмане. часто с отрицательным значением Недовольство однообразием или большим количеством 1
 examples:
-  - |
-       мама дорогая, ну как не стыдно так вот издавать ― ошибка на ошибке, и фактические, и другие.
-  - |
-       Ошибка была на ошибке и ошибкой погоняла... но мы справились. Ошибка была на ошибке, и сотрудники банка были в шоке оттого, что на одних и тех же документах на бланках Сименса,
 morphology:
   - Noun
   - Nom
@@ -20,7 +14,7 @@ morphology:
 syntactic_type_of_construction:
   - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Reduplication
 part_of_speech_of_anchor:

@@ -5,8 +5,6 @@ UD_name: '(NP-Dat) и без NP-Gen Cop тошно'
 illustration: 'Ему и без увольнения тошно.'
 cefr_level: C1
 definitions:
-  - russian: |
-       недовольство
 examples:
 morphology:
   - NP
@@ -18,7 +16,7 @@ syntactic_type_of_construction:
 syntactic_function_of_anchor:
   - Discourse Particle
   - Modifier
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

@@ -7,8 +7,6 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция понижает степень интенсивности действия или признака. Если слот XP заполняется глаголом, то конструкция обозначает, что участник выполняет [некоторое действие]Action с трудом, что это действие получается у него плохо (примеры 1, 2). Если слот XP заполняется прилагательным или наречием, то речь идет о слабой выраженности [некоторого признака]Property (примеры 4, 5).
-  - english: |
-       This construction means that a [participant]Agent carries out a certain [action]Action with difficulty, not well enough.
 examples:
   - |
        Компьютер еле [работает.]Action
@@ -67,4 +65,4 @@ semantic_types:
           - type: Low degree
 family:
   - |
-    ""
+    "This construction means that a [participant]Agent carries out a certain [action]Action with difficulty, not well enough."

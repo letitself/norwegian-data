@@ -7,15 +7,7 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action было выполнено участником наилучшим или, реже, наихудшим возможным образом. Конструкция как правило используется ретроспективно, для оценки событий и ситуаций, которые уже произошли.
-  - english: |
-       This construction means that an [action]Action is performed in the best possible way.
 examples:
-  - |
-       Он все видел, все знал ― и [к обоим относился]Action как нельзя [радушнее]Property, не подавая ни малейшего вида, что угадывает между ними любовь под оболочкой пленительной дружбы.
-  - |
-       Живешь смирно, никого не трогаешь, и вдруг [тебя обзывают]Action как нельзя [хуже]Property.
-  - |
-       Хозяйство, порученное ему на корабле, [шло]Action как нельзя [успешнее]Property ― не для него, но для всей команды.
 morphology:
   - Adv
   - Cmp
@@ -53,4 +45,4 @@ semantic_types:
       - type: Maximizer
 family:
   - |
-    ""
+    "This construction means that an [action]Action is performed in the best possible way."

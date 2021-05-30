@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция обозначает, что говорящий считает [действие]Action [участника]Participant ситуации неправильным, предосудительным, стыдным, нехорошим. Слот VP-Inf обычно заполняется глаголом несовершенного вида (примеры 1-4), но встречаются и глаголы совершенного вида (пример 5).
   - english: |
-       This construction signifies that the speaker evaluates a certain [action]Action of the [participant]Participant as reprehensible, shameful, bad or in other ways wrong. The slot VP-Inf is usually filled with an imperfective verb (examples 1-4), but perfective verbs can also appear there (example 5).
+       This construction signifies that the speaker evaluates a certain [action]Action of the [participant]Participant in the situation as reprehensible, shameful, bad or in some other way other wrong. The VP-Inf slot is usually filled with an imperfective verb (examples 1-4), but perfective verbs may also be used (example 5).
   - norwegian: |
        Konstruksjonen betyr at taleren mener [en deltakers]Participant [handling]Action er uriktig, forkastelig, skammelig eller dårlig. Sloten VP-Inf fylles vanligvis av et verb i imperfektivt aspekt (eksempel 1-4), men verb i perfektivt aspekt forekommer også (eksempel 5).
 examples:
@@ -32,7 +32,7 @@ syntactic_type_of_construction:
   - Copula Construction
   - Matrix and Infinitival Complement Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:

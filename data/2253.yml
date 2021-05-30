@@ -1,20 +1,19 @@
 ---
 record: 2253
-name: 'NP-Gen (хоть) пруд пруди'
+name: 'NP-Gen Cop (хоть) пруд пруди'
 UD_name: 'NP-Gen (хоть) пруд пруди'
 illustration: 'Свободного времени пруд пруди.'
 cefr_level: C1
 definitions:
-  - russian: |
-       Cop Gen2-?
 examples:
 morphology:
   - NP
   - Gen
+  - Cop
 syntactic_type_of_construction:
-  - Clause
+  - Copula Construction
 syntactic_function_of_anchor:
-  - Praedicаtive Expression
+  - Praedicative Expression
 syntactic_structure_of_anchor:
   - Reduplication
 part_of_speech_of_anchor:
