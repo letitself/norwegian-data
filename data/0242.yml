@@ -41,6 +41,8 @@ usage_label: Colloquial
 dependency_structure:
   - '[root [nsubj NP-Nom] [cop Cop] ничего [det такой-Nom]]'
   - '[root [nsubj NP-Nom] [cop Cop] ничего]'
+  - '[root [nsubj NP-Nom] [cop Cop] NP-Nom [amod ничего [det такой-Nom]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] NP-Nom [amod ничего]]'
 dependency_structure_of_illustration:
   - '[root Профессор [nsubj он] [cop был] [nmod ничего].]'
 comment: |

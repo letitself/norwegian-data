@@ -46,6 +46,8 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
+  - '[root Cl, [conj [mark разве [fixed что]] XP]]'
+  - '[root Cl, [conj [mark разве [fixed только]] XP]]'
   - '[root Cl, [conj [mark разве [fixed что]] Cl]]'
   - '[root Cl, [conj [mark разве [fixed только]] Cl]]'
 dependency_structure_of_illustration:

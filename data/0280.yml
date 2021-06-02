@@ -44,7 +44,7 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] принять-Pst [obj NP-Acc] [obl [case за] NP-Acc]]'
+  - '[root [nsubj NP-Nom] принять [obj NP-Acc] [obl [case за] NP-Acc]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] принял [obj [det того] мужчину] [obl [case за] [det своего] отца].]'
 comment: |

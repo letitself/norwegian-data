@@ -45,6 +45,8 @@ usage_label: ~
 dependency_structure:
   - '[root [parataxis может [xcomp быть]], Cl]'
   - '[root [parataxis может], Cl]'
+  - '[dep [parataxis может [xcomp быть]], XP]'
+  - '[dep [parataxis может], XP]'
 dependency_structure_of_illustration:
   - '[root [parataxis Может [xcomp быть]], [nsubj он] уехал [obl [case в] Африку].]'
 comment: |

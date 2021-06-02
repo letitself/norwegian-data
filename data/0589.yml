@@ -5,9 +5,24 @@ UD_name: 'XP/Cl точно так же, как (и) XP/Cl'
 illustration: 'Мама готовит пирог точно так же, как и бабушка.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает идентичность [состояния одного участника или его манеры выполнять действие]Comparee [состоянию другого участника или его манере выполнять действие]Standard. Конструкция может также обозначать идентичность состояния или манеры выполнения действия одним и тем же участником в разные моменты времени (примеры 4, 5). Второй слот XP может заполняться именной или предложной группой, прилагательным или наречием.
 examples:
+  - |
+       Точно так же, как и [мать]Standard, [Настя просыпалась на рассвете]Comparee, когда все еще спали.
+  - |
+       [Я отношусь к Марине]Comparee точно так же, как [ты]Standard.
+  - |
+       Сами же [домики-прицепы на колесах выглядят на открытке]Comparee точно так же, как и [сегодня]Standard.
+  - |
+       После этого [потомство перестает отличаться от родителей генетически]Comparee, точно так же, как и [при клональном размножении]Standard.
+  - |
+       [Понять его нормальному человеку нельзя]Comparee ― точно так же, как [нельзя понять змею или скорпиона]Standard.
 morphology:
-  - XP
+  - NP
+  - PP
+  - Adj
+  - Adv
   - Cl
 syntactic_type_of_construction:
   - Matrix and Sentential Complement Construction
@@ -21,7 +36,8 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - Declarative
 usage_label: ~
@@ -39,7 +55,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

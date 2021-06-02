@@ -5,9 +5,21 @@ UD_name: 'такой же XP как и NP'
 illustration: 'Сын такой же высокий, как и отец.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает идентичность [одного объекта]Comparee [другому]Standard по некоторому [признаку]Parameter (примеры 1-3). Конструкция также может обозначать, что [один участник]Comparee взаимодействует с тем же [объектом]Theme, что и [другой участник]Standard (примеры 4, 5). Слот XP может заполняться именной группой или прилагательным.
 examples:
+  - |
+       Наступали [сумерки]Comparee, такие же [жгучие]Parameter, как и [полдень]Standard.
+  - |
+       [Cедая голова]Comparee её была такой же [белоснежной]Parameter, как и [платье]Standard.
+  - |
+       Оказывается, [Меншиков]Comparee был такого же [роста]Parameter, как и [Петр Алексеевич]Standard ― два метра и четыре сантиметра.
+  - |
+       [Медведь]Comparee выполнял такие же [трюки]Theme, как и [люди-канатоходцы.]Standard
+  - |
+       [Рядовым]Comparee начали шить точно такую же [форму]Theme, как и [офицерам]Standard, бойцы и командиры стали есть в одних столовых.
 morphology:
-  - XP
+  - Adj
   - NP
 syntactic_type_of_construction:
   - Head and Modifier Construction
@@ -21,7 +33,10 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Parameter
+  - Standard
+  - Theme
 intonation:
   - Not applicable
 usage_label: ~
@@ -33,7 +48,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

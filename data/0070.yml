@@ -37,7 +37,8 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod Вот] [iobj PronPers-Dat] [advmod и] NP-Nom!]'
+  - '[root [advmod Вот] [iobj тебе] [advmod и] NP-Nom!]'
+  - '[root [advmod Вот] [iobj вам] [advmod и] NP-Nom!]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [iobj тебе] [advmod и] встреча!]'
 comment: |

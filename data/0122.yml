@@ -42,7 +42,17 @@ intonation:
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [conj [advmod ещё] [advmod и] Cl]!]'
-  - '[root Cl, [conj [advmod ещё] Cl]!]'
+  - '[root Cl, [conj [advmod ещё] [advmod и] XP]!]'
+  - '[root Cl, [conj [cc так] [advmod ещё] [advmod и] Cl]!]'
+  - '[root Cl, [conj [cc так] [advmod ещё] [advmod и] XP]!]'
+  - '[root Cl, [conj [cc да] [advmod ещё] [advmod и] Cl]!]'
+  - '[root Cl, [conj [cc да] [advmod ещё] [advmod и] XP]!]'
+  - '[root XP, [conj [advmod ещё] [advmod и] Cl]!]'
+  - '[root XP, [conj [advmod ещё] [advmod и] XP]!]'
+  - '[root XP, [conj [cc так] [advmod ещё] [advmod и] Cl]!]'
+  - '[root XP, [conj [cc так] [advmod ещё] [advmod и] XP]!]'
+  - '[root XP, [conj [cc да] [advmod ещё] [advmod и] Cl]!]'
+  - '[root XP, [conj [cc да] [advmod ещё] [advmod и] XP]!]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod не] поздравил [obj меня] [obl [case с] днём [nmod рождения]], [conj [advmod ещё] [advmod и] хочет, [ccomp [mark чтобы] [nsubj я] [obj его] любила]]]'
 comment: |

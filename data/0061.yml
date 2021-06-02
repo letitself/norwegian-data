@@ -45,7 +45,7 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - '[root [nsubj NP-Nom] возьми [conj [cc и] VP-Imp]]'
+  - '[root [nsubj NP-Nom] возьми [conj [cc и] VP-Pfv.Imp.Sg]]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj он] возьми [conj [cc и] купи [obj [amod новую] машину]]!]'
 comment: |

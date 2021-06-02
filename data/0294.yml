@@ -46,8 +46,6 @@ dependency_structure:
   - '[root [obl [case с] PronPers-Gen] хватит]'
   - '[root [obl [case с] PronPers-Gen] хватило [obj NP-Gen]]'
   - '[root [obl [case с] PronPers-Gen] хватило]'
-  - '[root [obl [case с] PronPers-Gen] [cop Cop] довольно [obj NP-Gen]]'
-  - '[root [obl [case с] PronPers-Gen] [cop Cop] довольно]'
 dependency_structure_of_illustration:
   - '[root [obl [case С] меня] хватит!]'
 comment: |

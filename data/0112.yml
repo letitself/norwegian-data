@@ -45,8 +45,8 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl [case до] чего [advmod же]] XP]'
-  - '[root [obl [case до] чего] XP]'
+  - '[root [obl [case до] чего [advmod же]] XP!]'
+  - '[root [obl [case до] чего] XP!]'
 dependency_structure_of_illustration:
   - '[root [obl [case До] чего] [nsubj ты] злой!]'
 comment: |

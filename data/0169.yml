@@ -41,6 +41,7 @@ intonation:
 usage_label: ~
 dependency_structure:
   - '[root [nsubj NP-Nom] краснеть [obl [case за] NP-Acc]]'
+  - '[root [nsubj NP-Nom] краснеть [obl [case за] NP-Acc] [obl [case перед] NP-Ins]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Мама] краснела [obl [case за] оценки [nmod сына]].]'
 comment: |

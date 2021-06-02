@@ -50,9 +50,18 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [advmod вот] [advmod уже] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl].]'
-  - '[root [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl].]'
-  - '[root [obl [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP] [mark как] Cl.]'
+  - '[root [advmod вот] [advmod уже] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [obl [advmod вот] [advmod уже] [nummod NumCrd-Acc] NP] [mark как] XP]'
+  - '[root [advmod уже] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [advmod уже] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [obl [advmod уже] [nummod NumCrd-Acc] NP] [mark как] XP]'
+  - '[root [advmod вот] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [advmod вот] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [obl [advmod вот] [nummod NumCrd-Acc] NP] [mark как] XP]'
+  - '[root [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [obl [nummod NumCrd-Acc] NP] [mark как] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod уже] [nummod:gov три] месяца [acl [mark как] [nsubj она] уехала].]'
 comment: |

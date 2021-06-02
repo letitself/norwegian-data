@@ -42,8 +42,8 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root нет [csubj [mark чтобы] VP-Inf], [parataxis Cl]]'
-  - '[root нет [csubj [mark бы] VP-Inf], [parataxis Cl]]'
+  - '[root [parataxis нет [csubj [mark чтобы] VP-Inf]'
+  - 'Cl]'
 dependency_structure_of_illustration:
   - '[root Нет [csubj [mark чтобы] подождать], [parataxis [nsubj он] ушел [obl [case без] нас]]!]'
 comment: |

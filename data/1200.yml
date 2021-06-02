@@ -1,13 +1,28 @@
 ---
 record: 1200
-name: 'XP так же, как (и) XP'
-UD_name: 'XP так же, как (и) XP'
+name: 'XP/Cl так же, как (и) XP/Cl'
+UD_name: 'XP/Cl так же, как (и) XP/Cl'
 illustration: 'Он ведёт себя так же, как и раньше.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает идентичность [состояния одного участника или его манеры выполнять действие]Comparee [состоянию другого участника или его манере выполнять действие]Standard. Конструкция может также обозначать идентичность состояния или манеры выполнения действия одним и тем же участником в разные моменты времени (примеры 4, 5). Второй слот XP может заполняться именной или предложной группой, прилагательным или наречием.
 examples:
+  - |
+       [За музейные ценности папа боролся]Comparee так же, как [мама за окружающую среду]Standard.
+  - |
+       И [я представлял себе эту ситуацию]Comparee так же, как [все]Standard.
+  - |
+       [Я воспитываю своего сына]Comparee так же, как [меня воспитывали родители]Standard.
+  - |
+       В гостях [я общаюсь с ребенком]Comparee так же, как и [дома]Standard.
+  - |
+       [Их квартира выглядела]Comparee так же, как и [десять лет назад]Standard.
 morphology:
-  - XP
+  - NP
+  - PP
+  - Adj
+  - Adv
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -19,7 +34,8 @@ part_of_speech_of_anchor:
   - Particle
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - Not applicable
 usage_label: ~
@@ -31,7 +47,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

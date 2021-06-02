@@ -42,7 +42,7 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [advmod Вот] [nsubj NP-Nom] VP-Fut'
+  - '[root [advmod Вот] VP-Fut'
   - '[conj [cc и] VP-Fut]]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот] придет [advmod домой], [conj [cc и] поговорим].]'

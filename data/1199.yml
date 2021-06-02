@@ -1,13 +1,26 @@
 ---
 record: 1199
-name: 'столь/настолько же XP (как/сколь/насколько и XP)'
-UD_name: 'столь/настолько же XP (как/сколь/насколько и XP)'
+name: 'столь/настолько же Adj/Adv, сколь/насколько (и) Adj/Adv'
+UD_name: 'столь/настолько же Adj/Adv, сколь/насколько (и) Adj/Adv'
 illustration: 'Этот дом был столь же неудобный, сколь и дорогой.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник или объект характеризуется [одним признаком]Comparee в равной степени с [другим признаком]Standard. Нередко речь идет о несовместимых признаках.
 examples:
+  - |
+       Дебют был столь же [удачен]Comparee, сколь и [труден]Standard ― чтобы увеличить финансирование фильма, режиссеру пришлось заложить свой дом.
+  - |
+       «Лемурия», а именно так чаще всего называют гипотетический затонувший материк в Индийском океане, ― слово, которое звучит столь же [загадочно]Comparee, сколь [интригующе]Standard.
+  - |
+       Постоянно на танцы ходила одна очевидно настоящая балерина, настолько же [настоящая]Comparee, насколько и [древняя]Standard, прямо елизаветинских времен.
+  - |
+       Но мне в сентябре иногда бывает настолько же [плохо]Comparee, насколько [хорошо]Standard.
+  - |
+       Перелом уже сросся ― возможно, сросся не так, как хотелось бы многим. Но чтобы срастить его заново, придётся заново же ломать кость, то есть осуществить операцию столь же [болезненную]Comparee, сколь и [бесполезную]Standard.
 morphology:
-  - XP
+  - Adj
+  - Adv
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -19,7 +32,8 @@ part_of_speech_of_anchor:
   - Conjunction
   - Pronoun
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - Not applicable
 usage_label: Formal
@@ -35,7 +49,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

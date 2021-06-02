@@ -38,7 +38,7 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[dep [advmod не] Noun'
+  - '[dep [advmod не] NP'
   - '[conj [cc а] NP]]'
 dependency_structure_of_illustration:
   - '[root [advmod Не] [nsubj дом] [case у] них, [conj [cc а] [amod столярная] мастерская].]'

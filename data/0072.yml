@@ -40,7 +40,7 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [advmod вот-вот] VP-Fut [nsubj NP-Nom]]'
+  - '[root [nsubj NP-Nom] [advmod вот-вот] VP-Pfv.Fut]'
 dependency_structure_of_illustration:
   - '[root [advmod Вот-вот] прилетит [nsubj самолет].]'
 comment: |

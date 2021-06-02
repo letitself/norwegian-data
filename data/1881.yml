@@ -1,13 +1,27 @@
 ---
 record: 1881
-name: 'Cl в такой/той же мере, как Cl'
-UD_name: 'Cl в такой/той же мере, как Cl'
+name: 'XP/Cl в такой/той же мере, как (и) XP/Cl'
+UD_name: 'XP/Cl в такой/той же мере, как (и) XP/Cl'
 illustration: 'Спорт в такой же мере определяет культуру нации, как и духовная культура.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект, участник или ситуация]Comparee обладает некоторой характеристикой так же, как и [другой объект, участник или ситуация]Standard (примеры 1-3). Конструкция также может обозначать, что [некоторое свойство]Comparee присуще объекту или участнику в той же степени, что и [другое свойство]Standard (примеры 4, 5). Второй слот XP может заполняться именной группой или прилагательным.
 examples:
+  - |
+       [Успехи Департамента Темных сил]Comparee в той же мере, как и [его неудачи]Standard, зависели от работы возглавляемой им Службы тайных операций
+  - |
+       [Пороки]Comparee были свойственны гениальным людям в такой же мере, как и [добродетели]Standard…
+  - |
+       [Мысли о смерти заботят меня]Comparee в той же мере, как [режиссера ― кульминация его произведения]Standard.
+  - |
+       Ты был [поэт]Comparee в той же мере, как и [мыслитель]Standard.
+  - |
+       Он был [красив]Comparee в такой же мере, как и [глуп]Standard.
 morphology:
   - Cl
+  - NP
+  - Adj
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -21,7 +35,8 @@ part_of_speech_of_anchor:
   - Noun
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - Declarative
 usage_label: Formal
@@ -33,7 +48,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

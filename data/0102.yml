@@ -40,7 +40,7 @@ intonation:
 usage_label: Colloquial
 dependency_structure:
   - '[root Cl, [advcl [advmod даром] [mark что] Cl]]'
-  - '[root [advmod даром] [mark что] Cl]'
+  - '[root Cl, [advcl [advmod даром] [mark что] XP]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Люди] [advmod везде] одинаковые, [advcl [advmod даром] [mark что] говорят [obl [case на] [amod разных] языках]].]'
 comment: |

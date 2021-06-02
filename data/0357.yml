@@ -5,7 +5,19 @@ UD_name: 'чем Adj-Cmp, тем Adj-Cmp/чем Adv-Cmp, тем Adv-Cmp'
 illustration: 'Чем больше, тем лучше.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает пропорциональную зависимость между двумя событиями. Постепенное [увеличение или уменьшение фактора]Property в первом событии, которое вводится словом "чем", приводит к [соответствующему изменению]Property во втором событии, которое вводится словом "тем".
 examples:
+  - |
+       Мы просто хотели записаться и выйти на путь, и чем [быстрее]Property, тем [лучше]Property!
+  - |
+       Считалось, что чем [больше]Property, тем [богаче]Property будет урожай в этом году.
+  - |
+       Причём чем [дальше]Property, тем [ожесточённей]Property становятся споры.
+  - |
+       У всех стариков, наверное, так. Чем [старше]Property, тем [меньше]Property спят.
+  - |
+       Приближаясь к вершине вулкана, начинаешь чувствовать дыхание земли. Чем [выше]Property, тем [теплее]Property становится под ногами.
 morphology:
   - Adj
   - Cmp
@@ -19,7 +31,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Conjunction
 semantic_roles:
-  - ~
+  - Property
 intonation:
   - Not applicable
 usage_label: ~
@@ -31,7 +43,9 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - дальше
+  - больше
+  - скорее; лучше
 references:
   - |
     No references

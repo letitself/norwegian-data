@@ -41,8 +41,12 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [advmod Как [fixed будто]] Cl]'
-  - '[root [advmod Как [fixed будто]] XP]'
+  - '[root CL [advcl [advmod как [fixed будто]] CL]]'
+  - '[root CL [obl [advmod как [fixed будто]] XP]]'
+  - '[root [dep XP] [advmod как [fixed будто]] Cl]'
+  - '[dep XP [dep [advmod как [fixed будто]] XP]]'
+  - '[root [advmod как [fixed будто]] Cl]'
+  - '[dep [advmod как [fixed будто]] XP]'
 dependency_structure_of_illustration:
   - '[root [advmod Как [fixed будто]] появилась [nsubj молния].]'
 comment: |

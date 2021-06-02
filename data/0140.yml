@@ -44,7 +44,8 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[root [obl [mark как] всегда] XP]'
+  - '[dep [obl [mark как] всегда] XP]'
+  - '[root [obl [mark как] всегда] CL]'
 dependency_structure_of_illustration:
   - '[root [nsubj Вы] прекрасны, [obl [mark как] всегда].]'
 comment: |

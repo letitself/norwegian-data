@@ -1,14 +1,27 @@
 ---
 record: 1213
-name: 'NP-Nom VP точь-в-точь, как (и) NP-Nom'
-UD_name: 'NP-Nom VP точь-в-точь, как (и) NP-Nom'
+name: 'XP/Cl точь-в-точь, как (и) XP/Cl'
+UD_name: 'XP/Cl точь-в-точь, как (и) XP/Cl'
 illustration: 'Она улыбается точь-в-точь как мама.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает полную идентичность [одного объекта или действия]Comparee [другому]Standard. Второй слот XP может заполняться именной или предложной группой, прилагательным или наречием.
 examples:
+  - |
+       Наверное, гостиница «Дружба» была слишком дорогой, во всяком случае, [она выглядела]Comparee точь-в-точь как [очень дорогая гостиница]Standard.
+  - |
+       [Он]Participant вырезал две половинки колчана со стрелами и [раскрасил фломастером индейскими узорами]Comparee, точь-в-точь как [в книжке]Standard.
+  - |
+       Главной героиней игры станет [виртуальная Бритни Спирс]Comparee ― точь-в-точь как [живая]Standard.
+  - |
+       Я когда маленьким был, [часами стоял и на мать смотрел]Comparee. Точь-в-точь как [сейчас]Standard.
+  - |
+       Тогда носить меховую шубу полагалось [при полном отсутствии головного убора, с нарядными туфельками на шпильке ― несмотря на лютый мороз. И обязательно глубоко запахнув полы и спустив воротник низко за спину]Comparee. Точь-в-точь, как [это делали героини западных фильмов]Standard.
 morphology:
   - NP
-  - Nom
+  - PP. Adj
+  - Adv
   - VP
 syntactic_type_of_construction:
   - Head and Modifier Construction
@@ -20,7 +33,8 @@ part_of_speech_of_anchor:
   - Adverb
   - Conjunction
 semantic_roles:
-  - ~
+  - Comparee
+  - Standard
 intonation:
   - Not applicable
 usage_label: ~
@@ -32,7 +46,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references
