@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. У [первого объекта или участника]Comparee [данный признак]Parameter проявляется в большей ("более") или меньшей ("менее") степени, чем у [второго]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. [Kjennetegnet]Parameter gjør seg gjeldende i større ("более") eller mindre ("менее") grad hos [det første objektet eller deltakeren]Comparee enn hos [det andre]Standard.
 examples:
   - |
        Надо сделать [подарок]Comparee более [существенный]Parameter, чем [коробка конфет]Standard.

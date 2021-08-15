@@ -7,6 +7,10 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает идентичность [одного объекта]Comparee [другому]Standard по некоторому [признаку]Parameter (примеры 1-3). Конструкция также может обозначать, что [один участник]Comparee взаимодействует с тем же [объектом]Theme, что и [другой участник]Standard (примеры 4, 5). Слот XP может заполняться именной группой или прилагательным.
+  - english: |
+       This construction expresses a comparison and emphasizes the likeness between [one object]Comparee and [another object]Standard on some [attribute]Parameter (examples 1-3). It can also mean that [one participant]Comparee interacts with the same [object]Theme as the [other participant]Standard (examples 4, 5). The XP slot can be filled with a noun phrase or an adjective.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at [et objekt]Comparee er identisk med [et annet]Standard når det gjelder et gitt [kjennetegn]Parameter (eksempel 1-3). Konstruksjonen kan også bety at [en deltaker]Comparee samhandler med det samme [objektet]Theme som en [annen deltaker]Standard (eksempel 4 og 5). Sloten XP kan fylles av en nominalfrase eller et adjektiv.
 examples:
   - |
        Наступали [сумерки]Comparee, такие же [жгучие]Parameter, как и [полдень]Standard.

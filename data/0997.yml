@@ -7,6 +7,10 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [объект]Theme или [участник]Participant является единственным в своем роде, так что тождественного ему объекта или участника не существует. Поэтому [поиск]Action такого объекта или участника не даст результата. Ограничение на глагол в слоте VP: не найти, не сыскать, не найдешь, не сыщешь, не будет, не представится, не знаю.
+  - english: |
+       This construction means that some [object]Theme or [participant]Participant is one of a kind, such that there exists no equivalent to the object or participant. Therefore, a [search]Action for this object or participant will not yield any result. Verbs in the VP slot are restricted to: не найти ‘can’t find (INF)’, не сыскать ‘can’t search’ (INF), не найдешь ‘can’t find’ (2PL), не сыщешь ‘can’t search’ (2PL), не будет ‘will not be’ (3SG), не представится ‘will not present itself', не знаю ‘don’t know’ (1SG).
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [оbjekt]Theme eller en gitt [deltaker]Participant er den eneste i sitt slag, slik at det ikke finnes noe objekt eller noen deltaker som er identisk. [Å lete]Action etter et slikt objekt eller en slik deltaker vil derfor ikke føre frem. Utvalget av verb som kan fylle sloten VP, er begrenset til: не найти, не найдешь, не сыщешь, не будет, не представится og не знаю.
 examples:
   - |
        Такая [красавица]Participant была! Другой такой не [сыщешь…]Action

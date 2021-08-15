@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник ситуации]Participant или [объект]Theme может быть воспринят в качестве [элемента множества, которому он не принадлежит]Status. Как правило, этому способствует внешний вид объекта или участника или его поведение.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i situasjonen]Participant eller [et objekt]Theme kan bli oppfattet som et [element i en mengde den ikke tilhører]Status. Som regel er det objektets eller deltakerens utseende eller atferd som medvirker til dette.
 examples:
   - |
        Я обернулся к ним и подумал, что они выглядят как Васины дети. [Они]Participant могли бы сойти за [его детей]Status.

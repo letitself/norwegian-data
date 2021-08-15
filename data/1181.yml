@@ -7,8 +7,10 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает сильное [внешнее]Parameter сходство [человека]Comparee с [членом его семьи или известной личностью или персонажем с узнаваемой внешностью]Standard. Как если бы они действительно имели одно и то же лицо. Если в слоте NP-Nom существительное или местоимение стоит в единственном числе, то оно называет того участника, которого сравнивают (Вася с папой = Вася и папа). Если в слоте NP-Nom стоит местоимение во множественном числе, то оно называет тех двоих участников, которые сравниваются друг с другом (мы с папой = я и папа).
+  - english: |
+       This construction expresses a comparison and emphasizes a strong [physical]Parameter resemblance between a [person]Comparee and [a member of their family, a famous person, or a person of recognizable appearance]Standard. As if they really had the same face. If the NP-Nom slot contains a singular noun or pronoun, it denotes the participant who is being compared (Вася с папой ‘Vasya with dad’ = Вася и папа ‘Vasya and dad’). If the NP-Nom slot contains a plural pronoun, it denotes the two participants who are being compared to one another (мы с папой - lit. ‘we with dad’ = я и папа ‘me and dad’).
   - norwegian: |
-       Konstruksjonen uttrykker sammenligning og fremhever den sterke [utseendemessige]Parameter likheten mellom [en person]Comparee og [et familiemedlem, en kjent person eller en figur med et gjenkjennelig ytre]Standard. Det er som om de virkelig har ett og samme ansikt.
+       Konstruksjonen uttrykker sammenligning og fremhever den sterke [utseendemessige]Parameter likheten mellom [en person]Comparee og [et familiemedlem, en kjent person eller en figur med et gjenkjennelig ytre]Standard. Det er som om de virkelig har ett og samme ansikt. Hvis substantivet eller pronomenet i sloten NP-Nom står i entall, betegner det den deltakeren som blir sammenlignet (Вася с папой = Вася и папа). Hvis det står et pronomen i flertall i sloten NP-Nom, betegner det de to deltakerne som sammenlignes med hverandre (мы с папой = я и папа).
 examples:
   - |
        ― [Я]Comparee с [мамой]Standard ― одно лицо.

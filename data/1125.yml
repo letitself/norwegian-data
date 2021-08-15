@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [производимое ими действие]Action (примеры 4, 5). У [первого объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [второго]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1-3) eller [handlingen de utfører]Action (eksempel 4 og 5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [det første objekt eller deltakeren]Action enn hos [det andre]Standard.
 examples:
   - |
        [Традиции Тургенева, русского романа в «Платонове»]Comparee [сильнее]Parameter, нежели [традиции модных французских пьес]Standard.

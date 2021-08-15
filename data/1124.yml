@@ -29,10 +29,10 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - '[root [advmod как] [nsubj это] Pred [cop Cop] [obl [case с] [det PronPoss] стороны], [sconj [mark что] Cl]]'
-  - '[root [advmod как] [nsubj это] Pred [cop Cop], [sconj [mark что] Cl]]'
+  - '[root [advmod как] [nsubj это] Pred [cop Cop] [obl [case с] [det PronPoss] стороны], [csubj [mark что] Cl]]'
+  - '[root [advmod как] [nsubj это] Pred [cop Cop], [csubj [mark что] Cl]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Как] [nsubj это] мило [obl [case с] [det вашей] стороны], [sconj [mark что] [nsubj вы] приехали].]'
+  - '[root [advmod Как] [nsubj это] мило [obl [case с] [det вашей] стороны], [csubj [mark что] [nsubj вы] приехали].]'
 comment: |
     'No comment yet'
 common_fillers:

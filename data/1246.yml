@@ -8,7 +8,7 @@ definitions:
   - russian: |
        Конструкция используется, когда говорящий побуждает собеседника больше не выполнять [некоторое действие]Action, которое происходит в данный момент. Часто глагол обозначает целую последовательность действий, а не единичное действие (пример 2). Говорящий оценивает это действие отрицательно, так как оно отрицательно по своей природе или неуместно в конкретной ситуации (пример 1). Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником.
   - english: |
-       The construction is used when the speaker prompts the interlocutor to finish doing [some action] Action. An action is interpreted not as a single and continuous one, which must be stopped in the middle (cf .: *prekrati otkryvatʹ glaza 'stop opening your eyes'), but as a sequence of such actions that must be stopped. The speaker evaluates this action negatively; (s)he is also confident that this point of view is known to the addressee. The design is a categorical order of the speaker and implies the immediate fulfillment of this order by the interlocutor.
+       This construction is used when the speaker prompts the interlocutor to stop carrying out an ongoing [action] Action.The verb often implies a whole series of actions, and not one single action (example 2). The speaker evaluates this action negatively, since it is negative in nature or is inappropriate in that particular situation (example 1). The construction is an absolute requirement for the speaker, and it is implied that the interlocutor fulfills this requirement immediately.
   - norwegian: |
        Konstruksjonen anvendes når taleren anmoder samtalepartneren om ikke lenger å utføre en pågående [handling]Action. Ofte betegner verbet en hel serie handlinger, og ikke en enkelthandling (eksempel 2). Taleren har et negativt syn på handlingen fordi den er negativ i seg selv eller upassende i den konkrete situasjonen (eksempel 1). Konstruksjonen er et absolutt krav, fremsatt av taleren, og det er underforstått at samtalepartneren må innfri det umiddelbart.
 examples:
@@ -58,9 +58,6 @@ references:
   - |
     См. также статью Рахилина Е. В. Кондуктор, нажми на тормоза... // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог» (2013). Т. 1. М.: Изд-во Российского государственного гуманитарного университета. 2013. С. 665–673.
 semantic_types:
-  - type: Causation
-    subtypes:
-      - type: Direct
   - type: Prohibition
     subtypes:
       - type: Continuative prohibitive

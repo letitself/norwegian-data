@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent (обычно сам говорящий) недоволен [ситуацией]Situation или действиями другого человека и не хочет выполнять некоторое [действие]Action, которое от него ожидают. Однако он вынужден выполнять это действие, осознавая свою ответственность, обязательства или внешние обстоятельства. Конструкция противопоставляет две ситуации, описывает действия двух разных участников.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent (vanligvis taleren selv) er misfornøyd med [en situasjon]Situation eller en annen persons handlinger og ikke vil utføre en gitt [handling]Action som forventes av vedkommende. Imidlertid er taleren nødt til å utføre denne handlingen i kraft av bevisstheten om sitt ansvar, sine forpliktelser eller ytre omstendigheter. Konstruksjonen stiller to situasjoner opp som motsetninger og beskriver to forskjellige deltakeres handlinger.
 examples:
   - |
        [Заварили вы кашку]Situation, а [расхлебывать]Action [мне]Agent.

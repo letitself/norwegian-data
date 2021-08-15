@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участник]Agent ситуации имитирует некоторое [действие]Action, [состояние]State или поведение, которое должно свидетельствовать о наличии определенной [ситуации]Situation. Если речь идет об имитации действия или состояния, то наименование участника после союза «что» не повторяется (примеры 1, 2, 3). Если речь идет об имитации поведения, то слот Cl обычно описывает ситуацию, наличие которой участник имитирует (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent i situasjonen imiterer en gitt [handling]Action, [tilstand]State eller atferd som skal vitne om at en bestemt [situasjon]Situation er til stede. Når en handling eller tilstand imiteres, gjentas ikke deltakerens navn etter konjunksjonen "что" (eksempel 1, 2 og 3). Når en atferd imiteres, beskriver sloten Cl vanligvis en situasjon som deltakeren imiterer at er til stede (eksempel 4 og 5).
 examples:
   - |
        [Жена]Agent, конечно же, не спала, но притворялась, что [спит]Action.

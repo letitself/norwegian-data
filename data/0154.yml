@@ -7,6 +7,10 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что два действия или состояния сопоставляются друг с другом. Как правило, [второе действие]Result происходит в соответствии с [первым действием]Action или [состоянием]State или является его непосредственным результатом.
+  - english: |
+       This construction means that two actions or states are compared to each other. The [second action]Result usually happens in accordance with the [first action]Action or [state]State, or occurs as its immediate result.
+  - norwegian: |
+       Konstruksjonen betyr at to handlinger eller tilstander sammenstilles. Som regel foregår [den andre handlingen]Result i samsvar med [den første handlingen]Action eller [tilstanden]State eller er en direkte følge av den.
 examples:
   - |
        Как [решу]Action, так и [будет]Result.

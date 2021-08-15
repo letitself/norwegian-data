@@ -8,7 +8,9 @@ definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает полную тождественность [объекта]Theme или [участника]Participant с тем, который уже известен из предыдущего контекста.
   - english: |
-       This construction encodes comparison and emphasizes the complete identity of an [object]Theme or a [participant]Participant with the one known from the previous context.
+       This construction encodes comparison and emphasizes a complete match in identity between an [object]Theme or a [participant]Participant and the one known from the previous context.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at [et objekt]Theme eller [en deltaker]Participant er fullstendig identisk med noe som allerede er kjent fra den foregående konteksten.
 examples:
   - |
        За победу в следующем чемпионате мира будет сражаться всё тот же [Михаэль Шумахер]Participant, который уже участвовал в прошлом году.

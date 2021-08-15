@@ -9,6 +9,8 @@ definitions:
        Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme был очень близок к выполнению некоторого [действия]Action, но в итоге не выполнил его. Обычно речь идет о негативных действиях, причиняющих урон участнику или вред его здоровью. Чаще слот VP-Pst заполняется глаголами совершенного вида.
   - english: |
        This construction denotes that a [participant]Participant or an [object]Theme was very close to fulfilling a certain [action]Action, but in the end did not carry it out. Usually this is a negative action that causes damage to the participant or harm to their health. The slot VP-Pst is more often filled by the perfective verbs.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Participant eller [objektet]Theme var svært nær ved å utføre [en gitt handling]Action, men endte med å ikke utføre den. Vanligvis er det tale om negative handlinger som påfører deltakeren tap eller helseskade. Som oftest fylles sloten VP-Pst av verb i perfektivt aspekt.
 examples:
   - |
        Самолету пришлось снизить высоту, из-за чего он едва не [упал]Action в воду.

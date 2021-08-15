@@ -66,6 +66,9 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
 family:
   - |
     "Disapproval, Ethics/Behavior, Perplexity, Confirmation requests, Appropriateness"

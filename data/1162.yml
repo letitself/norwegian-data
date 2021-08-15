@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает сравнение и подчеркивает различие между [действиями]Action или [состояниями]State по некоторому признаку. У [одного действия или состояния]Comparee [данный признак]Parameter проявляется в большей степени, чем у [других подобных ему действий или состояний]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom [handlinger]Action eller [tilstander]State med tanke på et gitt kjennetegn. [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [den ene handlingen eller tilstanden]Action enn hos [andre liknende handlinger eller tilstander]Standard.
 examples:
   - |
        [Что]Comparee вас [потрясло]Action [сильнее]Parameter всего, когда вы учились в школе?

@@ -49,6 +49,9 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement

@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что после того, как некоторый [участник]Agent в скором времени совершит определенное [действие]Condition, ему или другому участнику можно будет осуществить и другое [действие.]Event Обычно оба слота заполняются глаголами совершенного вида.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent eller en annen deltaker, etter at førstnevnte snart vil ha utført en bestemt [handling]Condition, vil kunne utføre også en annen [handling]Event. Vanligvis fylles begge slotene av verb i perfektivt aspekt.
 examples:
   - |
        ― Слушай, мы ничего твоего не брали. Скоро вот [сын]Agent [вернется]Condition, и [разберемся…]Event
