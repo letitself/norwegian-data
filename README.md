@@ -1,10 +1,14 @@
 ## Data for https://github.com/constructicon/russian
 
 
-### Auto-generation of YAML files
+### Generation of YAML files
 
-YAML files are auto-generated from `database.csv` using:
+First the Google spreadsheet is saved as Excel sheet.
+Then the Excel sheet is opened and saved in CSV format.
+
+Then, YAML files are auto-generated from `database.csv` using:
 ```
+$ rm -f data/*yml  # this is to make sure that deleted records get removed also in this repository
 $ python convert-db.py database.csv
 ```
 
