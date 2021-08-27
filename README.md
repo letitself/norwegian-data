@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/license-%20CC--BY-blue.svg)](LICENSE)
+
+
 ## Data for https://github.com/constructicon/russian
 
 
