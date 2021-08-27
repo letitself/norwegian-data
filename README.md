@@ -1,5 +1,3 @@
-
-
 ## Data for https://github.com/constructicon/russian
 
 
@@ -18,4 +16,4 @@ The individual YAML files are combined into one data on the
 branch.
 
 This is done automatically upon each push or pull request towards the `main`
-branch.
+branch using [this workflow](.github/workflows/combine.yml).
