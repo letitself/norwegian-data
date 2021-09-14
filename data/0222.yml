@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий выражает свое недовольство тем, что некоторый [участник]Agent не совершает или не совершил какое-либо [действие]Action, которое по мнению говорящего является правильным, целесообразным и необходимым в сложившейся ситуации. Вместо этого [участник совершил ошибочное действие]Situation. Говорящий сожалеет об этом неверном поступке участника и об упущенной возможности исправить ситуацию. Сам [участник]Agent называется в конструкции редко, так как он всегда понятен из контекста. Им может быть и сам говорящий. Выражение «нет бы» можно заменить словами «лучше было бы, следовало бы». Слот VP-Inf обычно заполняется глаголами совершенного вида. Ударение стоит на слове «нет».
+  - norwegian: |
+       Konstruksjonen betyr at taleren uttrykker sin misnøye med at en gitt [deltaker]Agent ikke utfører eller ikke har utført en eller annen [handling]Action som etter talerens mening er riktig, hensiktsmessig og nødvendig i den aktuelle situasjonen. I stedet [har deltakeren utført en feilaktig handling]Situation. Taleren beklager denne uriktige handlingen fra deltakerens side og den forspilte anledningen til å rette opp situasjonen. [Deltakeren]Agent selv nevnes sjelden i konstruksjonen, ettersom konteksten alltid tilsier hvem vedkommende er. Det kan også være taleren selv. Uttrykket "нет бы" kan erstatte ordene "лучше было бы, следовало бы". Sloten VP-Inf fylles vanligvis av et verb i perfektivt aspekt. Trykket ligger på ordet "нет".
 examples:
   - |
        ― [И незачем так кричать]Situation, ― обиженно сказал Леонид, ― нет бы [подойти к папке, поцеловать.]Action

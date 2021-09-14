@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторый [участник ситуации]Participant имеет временный [статус]Status, который определяется через принадлежность этого участника к некоторой группе людей.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker i situasjonen]Participant har en midlertidig [status]Status som defineres av deltakerens tilhørighet til en gitt gruppe mennesker.
 examples:
   - |
        Он был лихим и рисковым и привык ходить в [героях.]Status
@@ -29,7 +31,8 @@ part_of_speech_of_anchor:
   - Verb
   - Preposition
 semantic_roles:
-  - ~
+  - Participant
+  - Status
 intonation:
   - Not applicable
 usage_label: Colloquial

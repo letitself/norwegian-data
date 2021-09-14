@@ -1,15 +1,15 @@
 ---
 record: 619
-name: 'VP – и будь здоров'
+name: 'Cl – и будь здоров'
 UD_name: 'VP – и будь здоров'
 illustration: 'Миша забрал книгу – и будь здоров.'
 cefr_level: B2
 definitions:
 examples:
 morphology:
-  - VP
+  - Cl
 syntactic_type_of_construction:
-  - Clause
+  - Biclausal Construction
 syntactic_function_of_anchor:
   - Coordinator
   - Praedicative Expression
@@ -46,6 +46,7 @@ semantic_types:
       - type: Dissatisfaction
         subtypes:
           - type: Disapproval
+  - type: Mirative
   - type: Non-existence
     subtypes:
       - type: Disappear

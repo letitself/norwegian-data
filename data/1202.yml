@@ -42,9 +42,9 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[dep доска [nmod [case наподобие] NP-Gen]]'
+  - '[dep NP [nmod [case наподобие] NP-Gen]]'
 dependency_structure_of_illustration:
-  - '[obj Доска [nmod [case наподобие] шахматной]]'
+  - '[obj песня [nmod [case наподобие] гимна]]'
 comment: |
     'No comment yet'
 common_fillers:

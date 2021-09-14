@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция акцентирует внимание на конкретном элементе или характеристике ситуации (на [действии]Action, [участнике]Participant, [объекте]Theme, [признаке]Property, [обстоятельстве]Circumstance и др.), специально выделяя его из множества альтернатив. Как правило, этот элемент или характеристика уже были названы в предшествующем контексте. Слот XP заполняется глагольной, именной или предложной группой, наречием или прилагательным.
+  - english: |
+       This construction focuses the attention to a specific element or feature of the situation (to an [action]Action, a [participant]Participant, an [object]Theme, a [feature]Property, [circumstance]Circumstance etc.), specially highlighting it from a variety of alternatives. As a rule, this element or feature has already been mentioned in a previous context. The XP slot is filled by a verb phrase, a noun phrase or prepositional phrase, an adverb or an adjective.
   - norwegian: |
        Konstruksjonen vektlegger et konkret element eller noe karakteristisk ved situasjonen ([en handling]Action, [en deltaker]Participant, [et objekt]Theme, [et kjennetegn]Property, [en omstendighet]Circumstance m.fl.) ved spesielt å utheve dette blant en mengde alternativer. Som regel har elementet eller det karakteristiske allerede vært nevnt i den foregående konteksten. Sloten XP fylles av en verbalfrase, en nominalfrase eller et preposisjonsledd, et adverb eller et adjektiv.
 examples:

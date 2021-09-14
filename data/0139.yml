@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action регулярно повторяется в условиях определенной [ситуации]Condition.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action gjentas regelmessig, betinget av at en bestemt [situasjon]Condition er til stede.
 examples:
   - |
        Я каждый раз, [когда бываю в Лондоне]Condition, обязательно [иду к Букингемскому дворцу]Action.

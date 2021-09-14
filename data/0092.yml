@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий сообщает о некотором [времени]Time, [месте]Location или [количестве]Quantity приблизительно, примерно. Слот XP заполняется предложной группой (примеры 2, 3), наречием (пример 1, 4) или группой числительного (пример 5).
+  - english: |
+       This construction indicates that the speaker states an approximate and estimated [time]Time, [location]Location or [amount]. The XP slot is filled by a prepositional phrase (examples 2 and 3), an adverb (examples 1 and 4) or numerals (example 5).
   - norwegian: |
        Konstruksjonen betyr at taleren oppgir [et tidspunkt]Time, [et sted]Location eller [en mengde]Quantity omtrentlig og anslagsvis. Sloten XP fylles av et preposisjonsledd (eksempel 2 og 3), et adverb (eksempel 1 og 4) eller en tallordsfrase (eksempel 5).
 examples:

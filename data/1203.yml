@@ -42,7 +42,7 @@ intonation:
   - Not applicable
 usage_label: Obsolete
 dependency_structure:
-  - '[dep рубашка [nmod [case на] манер [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case на] манер [nmod NP-Gen]]]'
 dependency_structure_of_illustration:
   - '[obj Рубашка [nmod [case на] манер [nmod униформы]]]'
 comment: |

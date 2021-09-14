@@ -54,6 +54,7 @@ references:
   - |
     No references
 semantic_types:
+  - type: Mirative
   - type: Non-existence
     subtypes:
       - type: Disappear

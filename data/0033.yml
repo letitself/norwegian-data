@@ -6,22 +6,22 @@ illustration: 'Без пяти минут врач'
 cefr_level: A2
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [участник]Participant в ближайшем будущем сменит свой статус на [новый, как правило, более высокий статус]Evaluation. Обычно речь идет о получении профессии (пример 1), продвижении по карьерной лестнице (примеры 2, 5) или повышении статуса в личных или родственных отношениях (примеры 3, 4). Выражение «без пяти минут» синонимично слову «почти». Как если бы на часах оставалось всего пять минут до наступления нового статуса.
+       Конструкция обозначает, что некоторый [участник]Participant в ближайшем будущем сменит свой статус на [новый, как правило, более высокий статус]Status. Обычно речь идет о получении профессии (пример 1), продвижении по карьерной лестнице (пример 2) или повышении статуса в личных или родственных отношениях (примеры 3, 4). Выражение «без пяти минут» синонимично слову «почти». Как если бы на часах оставалось всего пять минут до наступления нового статуса.
   - english: |
-       This construction means that some [participant]Participant will, in the near future, experience a change in status to a [new and usually higher status]Evaluation. Usually the expression refers to obtaining a profession (example 1), career advancement (examples 2, 5), or an elevation in the status of personal or family relationships (examples 3, 4). The phrase “без пяти минут” is synonymous with “почти”, as if there were only five minutes left on the clock before the onset of a new status.
+       This construction means that some [participant]Participant will, in the near future, experience a change in status to a [new and usually higher status]Evaluation. Usually the expression refers to obtaining a profession (example 1), career advancement (example 2), or an elevation in the status of personal or family relationships (examples 3, 4). The phrase “без пяти минут” is synonymous with “почти”, as if there were only five minutes left on the clock before the onset of a new status.
   - norwegian: |
-       Konstruksjonen betyr at [en deltaker]Participant i nærmeste fremtid vil få endret sin status til [en ny og som regel høyere status]Evaluation. Som regel dreier det seg om å få en yrkestittel (eksempel 1), klatre på karrierestigen (eksempel 2 og 5) eller å oppnå en høyere status i privatliv eller familieforhold (eksempel 3 og 4). Uttrykket 'без пяти' er synonymt med ordet 'почти', som om klokka viser at den nye statusen vil inntre om bare fem minutter.
+       Konstruksjonen betyr at [en deltaker]Participant i nærmeste fremtid vil få endret sin status til [en ny og som regel høyere status]Evaluation. Som regel dreier det seg om å få en yrkestittel (eksempel 1), klatre på karrierestigen (eksempel 2) eller å oppnå en høyere status i privatliv eller familieforhold (eksempel 3 og 4). Uttrykket 'без пяти' er synonymt med ordet 'почти', som om klokka viser at den nye statusen vil inntre om bare fem minutter.
 examples:
   - |
-       [Митя]Participant ― студент последнего курса мединститута, без  пяти минут [врач]Evaluation.
+       [Митя]Participant ― студент последнего курса мединститута, без пяти минут [врач]Status.
   - |
-       В США или Европе собрать пару десятков без пяти минут [нобелевских лауреатов]Evaluation сложно даже за очень большие деньги.
+       ― [Вы]Participant без пяти минут [обладатель «Оскара»]Status. ― Вы мне льстите.
   - |
-       Уже через секунду он сообразил, что ему ответил [Виталий Кирган]Participant, адвокат, без пяти минут [жених Надежды Игоревны]Evaluation.
+       Уже через секунду он понял, что это был [Виталий]Participant, адвокат, без пяти минут [жених Надежды Игоревны]Status.
   - |
-       И слышать не желаю, [мы]Participant же без пяти минут [родственники]Evaluation!
+       Михаил Назаров пришел на праздник вместе со своей девушкой Таней. ― [Мы]Participant без пяти минут [семья]Status, ― сказал он бармену и потребовал себе пива со скидкой.
   - |
-       ― [Вы]Participant без пяти минут ― [обладатель «Оскара»]Evaluation. ― Вы мне льстите.
+       Новые правила заставляют без пяти минут [владельцев]Status сокращать время реконструкции зданий.
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -35,8 +35,8 @@ part_of_speech_of_anchor:
   - Numeral
   - Noun
 semantic_roles:
-  - Evaluation
   - Participant
+  - Status
 intonation:
   - Not applicable
 usage_label: Colloquial
@@ -48,8 +48,20 @@ comment: |
     'См. похожую конструкцию 32.'
 common_fillers:
   - врач
-  - доктор наук
+  - инженер
+  - адвокат
+  - профессор
   - кандидат наук
+  - студент
+  - выпускник
+  - первоклассник
+  - жена
+  - отец
+  - папа
+  - жених
+  - родственники
+  - семья
+  - миллионер
 references:
   - |
     No references

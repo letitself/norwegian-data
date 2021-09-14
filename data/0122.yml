@@ -2,11 +2,13 @@
 record: 122
 name: 'Cl/XP, (так/да) ещё и Cl/XP!'
 UD_name: 'Cl/XP, (так/да) ещё и Cl/XP!'
-illustration: 'Он не поздравил меня с днём рождения, ещё и хочет, чтобы я его любила'
+illustration: 'Он не поздравил меня с днём рождения, ещё и хочет, чтобы я его любила.'
 cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий добавляет к ранее сказанному [новую негативную информацию]Theme об участнике или ситуации. Эта информация противоречит нормальному, ожидаемому порядку вещей и усугубляет отрицательную оценку ситуации, осуждение участника или его действий. Слот XP заполняется именной, глагольной и предложной группой.
+  - english: |
+       This construction indicates that the speaker is adding [new negative information]Theme about the participant or situation to something that was mentioned earlier. This information contradicts the normal, expected order of things and aggravates the negative evaluation of the situation, condemnation of the participant or their actions. The XP slot is filled by a noun phrase, verb phrase or prepositional phrase.
   - norwegian: |
        Konstruksjonen betyr at taleren tilføyer [ny negativ informasjon]Theme om en deltaker eller situasjon til det som er sagt tidligere. Denne informasjonen strider mot den vanlige, forventede tingenes tilstand og skjerper den negative vurderingen av situasjonen, fordømmelsen av deltakeren eller dennes handlinger. Sloten XP fylles av en nominalfrase, en verbalfrase eller et preposisjonsledd.
 examples:
