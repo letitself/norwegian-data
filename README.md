@@ -25,6 +25,17 @@ branch.
 This is done automatically upon each push or pull request towards the `main`
 branch using [this workflow](.github/workflows/combine.yml):
 
-```console
-$ python combine.py data > data-combined.yml
+```bash
+$ python combine-data.py data > data-combined.yml
+```
+
+
+### Splitting the combined data file
+
+You can also do the opposite of the above and split the combined data file
+like this (this will write the data files to the folder `data`, you can change
+the name/location):
+
+```bash
+$ python split-data.py data-combined.yml data
 ```
