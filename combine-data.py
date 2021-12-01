@@ -8,7 +8,7 @@ assert os.path.isdir(folder), f"folder {folder} does not exist"
 pattern = os.path.join(folder, "*.yml")
 
 print("---")
-for yaml_file in glob.glob(pattern):
+for yaml_file in sorted(glob.glob(pattern)):
     with open(yaml_file, "r") as f:
         for i, line in enumerate(f.read().splitlines()):
             if i == 1:
