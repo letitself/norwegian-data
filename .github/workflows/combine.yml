@@ -26,8 +26,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Combine data files
       run: |
-        python combine.py > data-combined.yml
-        python combine-debug.py > data-combined-debug.yml
+        python combine.py data > data-combined.yml
     - name: Commit and push to target branch
       run: |-
         git config --global user.email "workflow-bot@example.com"

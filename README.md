@@ -23,4 +23,8 @@ The individual YAML files are combined into one data on the
 branch.
 
 This is done automatically upon each push or pull request towards the `main`
-branch using [this workflow](.github/workflows/combine.yml).
+branch using [this workflow](.github/workflows/combine.yml):
+
+```console
+$ python combine.py data > data-combined.yml
+```
