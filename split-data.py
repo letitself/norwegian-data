@@ -1,3 +1,10 @@
+"""
+Usage: $ python split-data.py data-combined.yml data
+
+This will write the data files to the folder `data`, you can change the
+name/location.
+"""
+
 import sys
 import os
 from collections import defaultdict

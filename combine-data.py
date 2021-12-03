@@ -1,3 +1,7 @@
+"""
+Usage: $ python combine-data.py data > data-combined.yml
+"""
+
 import glob
 import sys
 import os
