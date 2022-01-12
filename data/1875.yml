@@ -5,7 +5,23 @@ UD_name: 'наряду с этим, Cl'
 illustration: 'Наряду с этим, мы улучшаем качество продукции.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Как правило, речь идет о добавочном действии или ситуации, которое выполняется параллельно и одновременно с другим действием или ситуацией, названными в предшествующем контексте.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. This construction usually indicates an additional action or a situation that takes place simultaneously with another action or a situation that were mentioned previously.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere. Som regel er det tale om en ekstra handling eller situasjon som pågår parallelt og samtidig med en annen handling eller situasjon, nevnt i foregående kontekst.
 examples:
+  - |
+       На территории университета появится новый учебный корпус, а также современное общежитие. Наряду с этим [планируется реконструкция спортивного зала и озеленение всей территории университета.]ContentOfSpeech
+  - |
+       Дорогие отели и курорты работают по системе "всё включено". Наряду с этим [в Греции есть масса отелей экономкласса, которые предлагают своим клиентам только завтрак.]ContentOfSpeech
+  - |
+       В 2019 году цены на нефть и курс рубля продемонстрировали положительную динамику. [Наряду с этим инфляция в марте поднялась до 5 процентов в год.]ContentOfSpeech
+  - |
+       Срок эксплуатации спутника увеличен до 10 лет. Наряду с этим [снижена масса летательного аппарата.]ContentOfSpeech
+  - |
+       В программу соревнований входят торжественные церемонии открытия и закрытия турнира, награждение победителей и заключительный ужин. Наряду с этим [участникам регаты будет доступна программа экскурсий по Кипру.]ContentOfSpeech
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -30,7 +46,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

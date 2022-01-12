@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция вводит в текст пояснение некоторого [общего понятия]Content с помощью перечисления ряда [конкретных частных примеров]Theme. Слово «то́» обязательно выделяется ударением (не путать с кАк-то). Синонимами «как то́» являются слова «а именно», «например». Слот XP чаще всего заполняется именной группой (примеры 1, 2), но может также заполняться предложной или глагольной группой (пример 5).
+  - english: |
+       This construction introduces an explanation of [a general concept]Theme by presenting a series of [common concrete examples]Theme. Stress is obligatory on the word "тó" (not to be confused with "кáк-то"). The following are synonymous with "как-тó": "а именно" and "например". The most common filler for the XP slot is a noun phrase (see examples 1 and 2), but a prepositional phrase or verb phrase (example 5) are also possible.
   - norwegian: |
        Konstruksjonen gjør et [generelt begrep]Content i teksten klarere ved å ramse opp en rekke [konkrete, spesifikke eksempler]Theme. Ordet 'то́' må absolutt være trykkbetont (for å unngå forveksling med кАк-то). Synonymer til 'как то́' er ordene 'а именно' og 'например'. Sloten XP fylles oftest av en nominalfrase (eksempel 1 og 2), men kan også fylles av en preposisjonsfrase eller en verbalfrase (eksempel 5).
 examples:
@@ -53,7 +55,7 @@ common_fillers:
   - Not applicable
 references:
   - |
-    No references
+    См. также О.И. Юнькова, А. С. Гурьев. К вопросу о категории пояснения в русской грамматике. // Русский язык в научном освещении, 1 (35). 2018. С. 46-73.
 semantic_types:
   - type: Discourse structure
     subtypes:

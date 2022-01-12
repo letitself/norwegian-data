@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action совершается сразу после другого [действия]Event. Как правило, первое действие происходит очень быстро, но за это короткое время успевает произойти второе действие, неожиданно для говорящего. Слот NP-Acc обычно заполняется названиями отрезков времени, часто в диминутиве (например, "на секундочку, на минуточку, на минутку, на часок").
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action finner sted rett etter en annen [handling]Event. Som regel skjer den første handlingen svært raskt, men på denne korte tiden rekker den andre handlingen å inntreffe, uventet for taleren. Sloten NP-Acc fylles vanligvis av navn på tidsrom, ofte i diminutiv (for eksempel "на секундочку, на минуточку, на минутку, на часок").
 examples:
   - |
        И он стал подробно рассказывать, какие замечательные у него дети. Я терпеливо слушал, но, как только он на [минуту]Measure [сделал паузу]Event, я [спросил]Action: ― «Ну, как?.. Книжечку мою прочитали?»

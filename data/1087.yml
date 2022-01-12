@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за фиксированной частью «иными словами» или «другими словами», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
+  - english: |
+       This construction introduces [an explanation of a certain phrase]Theme. The speaker tries to make their message more comprehensible by providing an additional statement of their meaning using other words. The part that follows after the fixed part of the construction, "иными словами", explains, defines, or simplifies the information that the speaker has already communicated. The XP slot can be filled by a noun phrase, a prepositional phrase, or a verb phrase.
   - norwegian: |
        Konstruksjonen tilfører teksten en [klargjøring av en gitt formulering]Theme. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'иными словами' eller 'другими словами', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt.  Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
 examples:
@@ -51,11 +53,11 @@ common_fillers:
   - Not applicable
 references:
   - |
-    No references
+    См. также О.И. Юнькова, А. С. Гурьев. К вопросу о категории пояснения в русской грамматике. // Русский язык в научном освещении, 1 (35). 2018. С. 46-73.
 semantic_types:
   - type: Discourse structure
     subtypes:
       - type: Clarification
 family:
   - |
-    ""
+    "Clarification via rephrasing"

@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что результат некоторого [действия]Event, [состояние]State или [свойство]Property будут иметь место в отношении некоторого участника или объекта неопределенно долгое время в будущем или всегда.
+  - norwegian: |
+       Konstruksjonen betyr at dét som en gitt [handling]Event resulterer i, eller en [tilstand]State eller [egenskap]Property, vil bli gjeldende for en gitt deltaker eller et objekt på ubestemt tid eller for alltid.
 examples:
   - |
        Нина и Брюсов знали, что [расстаются навеки]Event.

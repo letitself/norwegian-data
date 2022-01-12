@@ -5,7 +5,21 @@ UD_name: 'ко всему прочему, Cl'
 illustration: 'Ко всему прочему, он курит и пьёт.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Говорящий знает все сведения о ситуации, но называет только самые важные из них.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The speaker has the complete picture of a situation, but names only the most crucial aspect of it.
 examples:
+  - |
+       Он милый, интересный парень. [И красавец]ContentOfSpeech ко всему прочему.
+  - |
+       По всему телу я ощущал сильный холод, ко всему прочему [хотелось спать, а еще ― в туалет]ContentOfSpeech.
+  - |
+       Современники удивлялись широте его интересов: Шухов, ко всему прочему, [прекрасно разбирался в искусстве, любил театр, владел десятью иностранными языками, увлекался фотографией]ContentOfSpeech.
+  - |
+       Она воровка и лгунья, а ко всему прочему еще и [трусиха]ContentOfSpeech.
+  - |
+       С бизнесом были проблемы. Ко всему прочему [начались мои ужасные проигрыши в казино]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -30,7 +44,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

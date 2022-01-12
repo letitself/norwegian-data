@@ -1,11 +1,27 @@
 ---
 record: 1869
-name: 'в дополнение (к сказанному), Cl'
-UD_name: 'в дополнение (к сказанному), Cl'
-illustration: 'В дополнение приведу ответы ещё на один вопрос.'
+name: 'в дополнение к сказанному VP/Cl'
+UD_name: 'в дополнение к сказанному VP/Cl'
+illustration: 'В дополнение к сказанному приведу ответы ещё на один вопрос.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere.
 examples:
+  - |
+       В дополнение к сказанному [хочется поблагодарить всех присутствующих.]ContentOfSpeech
+  - |
+       В дополнение к сказанному [хотелось бы добавить очень важное соображение.]ContentOfSpeech
+  - |
+       В дополнение к сказанному, [доклад подчеркивает важность того, чтобы эти меры были интегрированы в национальные планы.]ContentOfSpeech
+  - |
+       В дополнение к сказанному ― [огромное, просто самое большое спасибо создателям фильма!]ContentOfSpeech
+  - |
+       В дополнение к сказанному, [все машины, установленные здесь, могут быть легко переоборудованы для использования в нижнем отсеке.]ContentOfSpeech
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -32,7 +48,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

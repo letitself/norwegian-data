@@ -1,11 +1,27 @@
 ---
 record: 1867
-name: 'плюс/вдобавок/в дополнение (ко всему/к тому/к этому), Cl'
+name: 'плюс/вдобавок (ко всему/к тому/к этому), Cl'
 UD_name: 'плюс/вдобавок/в дополнение (ко всему/к тому/к этому), Cl'
 illustration: 'Плюс ко всему, погода резко испортилась.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere.
 examples:
+  - |
+       Транспортировка картин — дело непростое: одни картины необходимо транспортировать только в горизонтальном положении, другие ― в вертикальном. И вдобавок ко всему [нужна определенная температура и влажность]ContentOfSpeech.
+  - |
+       В кассе нам объявили, что сегодня билетов в Ленинград нет и не будет. Меня это не расстроило, я мог уехать и завтра и через пару дней. Плюс к тому, [в Вильнюсе, где у меня было много друзей, я чувствовал себя как дома]ContentOfSpeech.
+  - |
+       Мне не хочется отказываться от свободного графика работы. Плюс, [надо дописывать диссертацию]ContentOfSpeech.
+  - |
+       Я потрясен его эрудицией. Вдобавок, [он геолог и автор отличных стихов]ContentOfSpeech.
+  - |
+       В Америке выпускают номерные знаки для машин к какому-нибудь важному событию ― например, к олимпиаде. Плюс к тому, там можно сделать номера собственного дизайна.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -43,7 +59,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

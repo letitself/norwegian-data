@@ -1,7 +1,7 @@
 ---
 record: 55
-name: 'NP весом/массой (в) NumCrd-Acc NP'
-UD_name: 'NP весом/массой (в) NumCrd-Acc NP'
+name: 'NP весом/массой (в) NumCrd NP'
+UD_name: 'NP весом/массой (в) NumCrd NP'
 illustration: 'Баржа весом в шесть тонн.'
 cefr_level: B2
 definitions:
@@ -13,7 +13,7 @@ definitions:
        Konstruksjonen anvendes i forbindelse med at [et objekt]Theme med stor tyngde/vekt måles i standardiserte [målenheter]Quantity for tyngde/vekt, først og fremst i kilo, pud og tonn. Hvis tallordet er 'один', står [objektets]Theme [målenhet]Measure i akkusativ kasus.
 examples:
   - |
-       Пусть мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure, но не больше.
+       Мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure.
   - |
        Материалы собрали в [770 контейнеров]Theme общим весом в [десять]Quantity [тонн]Measure.
   - |

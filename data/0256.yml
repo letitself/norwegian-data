@@ -8,7 +8,9 @@ definitions:
   - russian: |
        Конструкция используется для интенсификации [оценочной характеристики]Evaluation объекта, участника или ситуации в целом. Слот NP-Nom заполняется оценочными существительными, которые несут отрицательную или положительную оценку.
   - english: |
-       This construction is used to intensify an [evaluative characteristic]Evaluation of an object, a participant or a situation on the whole. The evaluative nouns that fill the slot NP-Nom can carry either negative or positive polarity value.
+       This construction is used to intensify an [evaluative characteristic]Evaluation of an object, a participant or a situation on the whole. The slot NP-Nom is filled by evaluative nouns, and they can carry either a negative or positive value.
+  - norwegian: |
+       Konstruksjonen brukes for å forsterke en [vurdering]Evaluation av et objekt, en deltaker eller en hel situasjon. Sloten NP-Nom fylles av et vurderende substantiv med negativ eller positiv valør.
 examples:
   - |
        ― Андрей Алексеевич! Господи… [кошмар]Evaluation какой… ― Что такое? - спрашиваю.

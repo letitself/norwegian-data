@@ -1,0 +1,61 @@
+---
+record: 2352
+name: '(за примерами) далеко ходить не надо: Cl'
+UD_name: '(за примерами) далеко ходить не надо: Cl'
+illustration: 'В логотипе детских товаров часто нарисовано животное. За примерами далеко ходить не надо, тот же Nestle использует кролика Квики.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция вводит пояснение некоторого общего утверждения с помощью конкретного частного примера. В качестве примера как правило развернуто описывается целая [ситуация.]Situation
+  - english: |
+       This construction introduces an explanation of a general assertion by presenting a common concrete example. The example usually describes an entire [situation]Situation in detail.
+  - norwegian: |
+       Konstruksjonen gjør en generell påstand klarere ved å innføre et konkret, spesifikt eksempel. Eksempelet beskriver som regel en hel [situasjon]Situation.
+examples:
+  - |
+       Kомпозиторы именно к концу жизни особое внимание уделяют альту. Далеко ходить не надо, [та же Соната Шостаковича ― последнее произведение,]Situation [концерт Белы Бартока ― последнее произведение.]Situation
+  - |
+       В истории было немало примеров, когда какая-нибудь нация очень бурно росла, потом наступал некий порог и рост прекращался. За примерами далеко ходить не надо. [Франко-канадцы ― нация-рекордсмен. За двести лет она выросла с восьмидесяти тысяч до восьми миллионов. Пятнадцать детей в семьях считалось нормой. А в начале семидесятых произошел перелом, и сейчас норма ― один-два ребенка в семье.]Situation
+  - |
+       Литературная жизнь кипит, пишутся романы, но «широкая общественность» их почти не знает. Лишь пару раз в году несколько имен вдруг появляются, чтобы после вручения премии исчезнуть. За примерами далеко ходить не надо: [даже книги последнего букеровского лауреата Олега Павлова после присуждения престижной премии продаются вяло.]Situation
+  - |
+       Некоторые группы выделены на основании признаков, которых у многих их представителей попросту нет. За примерами далеко ходить не надо: [мы сами принадлежим к типу хордовых, то есть животных, обладающих хордой. Но на самом деле никакой хорды у нас нет: она возникает на ранних стадиях эмбрионального развития, а затем рассасывается, замещаясь позвонками.]Situation
+  - |
+       Наличие в текстах троичных и семеричных структур выдает их фольклорное происхождение. Все летописи содержат рассказы о том, как основатель государства впервые появляется в сопровождении двух братьев. За примерами далеко ходить не надо ― [Рюрик с братьями Синеусом и Трувором из «Повести временных лет».]Situation Затем братья умирают, не оставив потомства, а главный герой продолжает свой трудный исторический путь. Ясно, что здесь мы имеем дело с троичностью мышления, и соответствующие рассказы ― результат фантазии летописцев.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Adverb
+  - Verb
+  - Predicative
+semantic_roles:
+  - Situation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Exemplification
+family:
+  - |
+    "Illustration with an example"

@@ -7,6 +7,10 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый участник ситуации]Participant имеет определенную репутацию, известен окружающим своим [статусом]Status или [качеством]Property.
+  - english: |
+       This construction indicates that a [participant in the situation]Participant has a certain reputation, or is known by those around them for their [status]Status or [qualities]Property.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker i situasjonen]Participant har et bestemt omdømme eller er kjent i miljøet for å ha en viss [status]Status eller [egenskap]Property.
 examples:
   - |
        Ян Вермеер был счастлив в законном браке: eго [жена]Participant слыла [красавицей]Property, выступала моделью для многих картин мужа.

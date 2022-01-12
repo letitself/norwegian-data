@@ -5,7 +5,21 @@ UD_name: '(Adj) на Adj-Acc.Sing взгляд-Sing.Acc'
 illustration: 'Странный на первый взгляд'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает первоначальную, часто поверхностную и субъективную [оценку]Evaluation объекта или участника, которая не вполне соответствует действительности и впоследствии может измениться. Эта оценка гипотетически приписывается некоторому абстрактному наблюдателю, который обозначается через [характеристику]Manner взгляда (например, на непрофессиональный, чужой, женский, русский взгляд и т.д.). Конструкция обычно используется в контексте описания [впечатления]Evaluation от объекта или ситуации и указывает, [в каких обстоятельствах]Manner у участника создалось это впечатление. Слот Adj-Acc.Sg обычно заполняется словом "первый" (примеры 1,2) или прилагательными со значением легкости, несерьезности (примеры 3, 4). Также конструкция может использоваться, чтобы подчеркнуть предвзятость оценки или особенности восприятия участника (пример 5).
+  - norwegian: |
+       Konstruksjonen betegner en første, ofte overflatisk og subjektiv [vurdering]Evaluation av et objekt eller en deltaker, en vurdering som ikke samsvarer helt med virkeligheten og i det følgende kan bli endret. Vurderingen tilskrives hypotetisk en abstrakt observatør som fremtrer i kraft av et [kjennetegn]Theme ved vedkommendes synsvinkel (for eksempel en uprofesjonell, fremmed, kvinnelig, russisk osv. synsvinkel). Konstruksjonen brukes vanligvis i en kontekst som beskriver [et inntrykk]Evaluation av et objekt eller en situasjon og angir [under hvilke omstendigheter]Manner deltakeren har dannet seg dette inntrykket. Sloten Adj-Acc.Sg fylles vanligvis av ordet "первый" (eksempel 1 og 2) eller et adjektiv med en betydning av letthet og useriøsitet (eksempel 3 og 4). Konstruksjonen kan også brukes for å fremheve det forutinntatte ved en vurdering eller særtrekk ved deltakerens oppfattelse (eksempel 5).
 examples:
+  - |
+       В том, что на [поверхностный]Manner взгляд казалось [вялостью]Evaluation, крылась энергия.
+  - |
+       Любая, самая [мелкая]Evaluation на [непрофессиональный]Manner взгляд, ошибка ставит крест на амбициозных планах.
+  - |
+       Ей думалось обо всей ее [счастливой и яркой]Evaluation на [посторонний]Manner взгляд, а на самом деле, довольно покалеченной жизни.
+  - |
+       В то же время в Сеуле почти не видно буддистских и прочих [экзотических]Evaluation, на русский взгляд, храмов.
+  - |
+       Он дает довольно [негодяйские]Evaluation (на [женский]Manner взгляд) советы всякому, кто решил познакомиться с девушкой в городском парке.
 morphology:
   - Adj
   - Acc
@@ -20,7 +34,8 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Evaluation
+  - Parameter
 intonation:
   - Not applicable
 usage_label: ~
@@ -32,7 +47,18 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - первый
+  - беглый
+  - поверхностный
+  - непрофессиональный
+  - посторонний
+  - неискушенный
+  - скорый
+  - чужой
+  - невзыскательный
+  - женский
+  - мужской
+  - русский
 references:
   - |
     No references
@@ -42,4 +68,4 @@ semantic_types:
       - type: Property assignment
 family:
   - |
-    ""
+    "Я не уверена, что это Manner, посоветоваться с Валей"

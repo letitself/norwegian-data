@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторому [объекту]Theme или [участнику]Experiencer присвоено определенное [имя]Name. Если присутствует элемент «в честь NP-Gen», то конструкции обозначает, что данное [имя]Name с именем [другого человека]Participant, обычно родственника или знаменитости и дано в знак уважения к этому человеку.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme eller [en deltaker]Experiencer er gitt et bestemt [navn]Name. Hvis elementet «в честь NP-Gen» er med, betyr konstruksjonen at det aktuelle [navnet]Name er forbundet med navnet til [en annen person]Participant, vanligvis en slektning eller en berømthet, og at navnet er gitt som et uttrykk for ærbødighet overfor den personen.
 examples:
   - |
        [Сына]Experiencer назвали [Виктором]Name в честь [отца]Participant, который в этом же бою погиб.

@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция вводит [тему]Topic, по которой говорящий высказывает своё [мнение]Evaluation или приводит [фактическую информацию]ContentOfSpeech. Эта тема уже упоминалась ранее.
+  - english: |
+       This construction introduces a [topic]Topic, and in this connection the speaker expresses their [opinion]Evaluation or provides [factual information]ContentOfSpeech. The topic has been addressed previously.
   - norwegian: |
        Konstruksjonen introduserer et [tema]Topic som taleren uttrykker sin [mening]Evaluation om eller kommer med [faktisk informasjon]ContentOfSpeech om. Temaet har vært omtalt tidligere.
 examples:
@@ -59,4 +61,4 @@ semantic_types:
       - type: Topic
 family:
   - |
-    ""
+    "Introducing a topic for discussion"

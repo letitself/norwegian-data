@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция вводит пояснение некоторого общего утверждения с помощью конкретного частного примера. В качестве примера как правило описывается целая [ситуация]Situation или называется ее [элемент]Theme. Часто фиксированная часть конструкции «например» вклинивается внутрь предложения, которое описывает пример (пример 2).
+  - english: |
+       This construction introduces an explanation of a general assertion by presenting a common concrete example. The example usually describes an entire [situation]Situation or names [one of its elements]Theme. The fixed portion of the construction "например" is often inserted into the sentence that describes the example (see example 2).
   - norwegian: |
        Konstruksjonen gjør en generell påstand klarere ved å innføre et konkret, spesifikt eksempel. Eksempelet beskriver som regel en hel [situasjon]Situation eller nevner et [element]Theme av en situasjon. Den faste delen av konstruksjonen, 'например', tar ofte plass inne i setningen som beskriver eksempelet (eksempel 2).
 examples:
@@ -45,7 +47,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis Например], [obl [case в] Финляндии] запретили [xcomp курить [advmod везде] [obl [case в] [amod общественных] местах]].]'
 comment: |
-    'В поле комментария: По структуре конструкция близка конструкциям VP назло, VP на благо, где "на" вводит цель действия. В случае конструкции "например, Cl/XP", это означет, что клауза или ее элемент приводится с целью иллюстрации, в качестве примера.'
+    'По структуре конструкция близка конструкциям VP назло, VP на благо, где "на" вводит цель действия. В случае конструкции "например, Cl/XP", это означет, что клауза или ее элемент приводится с целью иллюстрации, в качестве примера.'
 common_fillers:
   - ~
 references:

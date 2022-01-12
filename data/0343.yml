@@ -1,7 +1,7 @@
 ---
 record: 343
-name: 'умирать-Prs.1.Sg, Cl'
-UD_name: 'умирать-Pres.1.Sing, Cl'
+name: 'умираю, Cl'
+UD_name: 'умираю, Cl'
 illustration: 'Умираю, скучно!'
 cefr_level: B2
 definitions:
@@ -9,7 +9,6 @@ examples:
 morphology:
   - Prs
   - 1
-  - Sg
   - Cl
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
@@ -25,7 +24,7 @@ intonation:
   - Exclamatory
 usage_label: Colloquial
 dependency_structure:
-  - '[root умирать-Prs.1.Sg'
+  - '[root умираю'
   - '[parataxis Cl]!]'
 dependency_structure_of_illustration:
   - '[root Умираю, [parataxis скучно]!]'

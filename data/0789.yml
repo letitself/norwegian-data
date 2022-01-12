@@ -6,9 +6,11 @@ illustration: 'Недавно ввели новые штрафы в отноше
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee (примеры 1, 2, 3). Конструкция может также указывать на [участника или объект]Topic, о котором высказывается [определенное суждение]Evaluation (в этом употреблении слова «в отношении» синонимичны словам «относительно», «насчет») (примеры 4, 5).
+       Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee (примеры 1, 2, 3). Конструкция может также указывать на [участника или объект]Parameter, о котором высказывается [определенное суждение]Evaluation (в этом употреблении слова «в отношении» синонимичны словам «относительно», «насчет») (примеры 4, 5).
+  - english: |
+       This construction indicates that an [action]Action is directed toward a [participant]Addressee or [group of participants]Addressee (see examples 1, 2, and 3). The construction can also indicate a [participant or object]Parameter, for which an [assessment]Evaluation is expressed (in this usage the words “в отношении” have the same meaning as “относительно” and “насчет” (examples 4 and 5)).
   - norwegian: |
-       Konstruksjonen betyr at en gitt [handling]Action er rettet mot [en deltaker]Addressee eller [en gruppe deltakere]Addressee (eksempel 1, 2 og 3). Konstruksjonen kan også vise til [den deltakeren eller det objektet]Topic som [et gitt utsagn]Evaluation dreier seg om. (Brukt på denne måten er ordene 'в отношении' synonyme med ordene 'относительно' og ''насчёт') (eksempel 4 og 5).
+       Konstruksjonen betyr at en gitt [handling]Action er rettet mot [en deltaker]Addressee eller [en gruppe deltakere]Addressee (eksempel 1, 2 og 3). Konstruksjonen kan også vise til [den deltakeren eller det objektet]Parameter som [et gitt utsagn]Evaluation dreier seg om. (Brukt på denne måten er ordene 'в отношении' synonyme med ordene 'относительно' og 'насчёт') (eksempel 4 og 5).
 examples:
   - |
        В отношении [родителей]Addressee запрещается [проявлять даже малейшую грубость или недовольство]Action.
@@ -17,9 +19,9 @@ examples:
   - |
        Собственно, после истории с Крымом и начались [санкции]Action в отношении [России]Addressee.
   - |
-       [Ошибся]Evaluation Крымов и в отношении своего [собеседника Боголеева]Participant.
+       [Ошибся]Evaluation Крымов и в отношении своего [собеседника Боголеева]Parameter.
   - |
-       Наличие жилья является одной из основных причин возвращения иногородних студентов на родину, несмотря на [отсутствие перспектив]Evaluation в отношении [работы и заработной платы]Theme.
+       Наличие жилья является одной из основных причин возвращения иногородних студентов на родину, несмотря на [отсутствие перспектив]Evaluation в отношении [работы и заработной платы]Parameter.
 morphology:
   - VP
   - NP
@@ -62,6 +64,9 @@ semantic_types:
   - type: Addressee
     subtypes:
       - type: Core Addressee
+  - type: Salient property
+    subtypes:
+      - type: Domain
 family:
   - |
-    "Указание на адресата некоторого сообщения (собственно адресат) или действия (~ бенефициант: "в угоду NP-Dat"; малефициант: "назло NP-Dat") - Получатель информации в ситуации речи. Включает бенефицианта и малефицианта."
+    "Reference to relevant area"

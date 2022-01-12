@@ -1,0 +1,61 @@
+---
+record: 2351
+name: 'для примера, Cl/XP'
+UD_name: 'для примера (возьмем/рассмотрим NP-Acc): Cl'
+illustration: 'Для примера, треть студентов медицинской академии вышла из профильных школ.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция вводит пояснение некоторого общего утверждения с помощью конкретного частного примера. В качестве примера как правило описывается целая [ситуация]Situation или называется ее [элемент]Theme.
+  - english: |
+       This construction introduces an explanation of a general assertion by presenting a common concrete example. The example usually describes an entire [situation]Situation or names [one of its elements]Theme.
+  - norwegian: |
+       Konstruksjonen gjør en generell påstand klarere ved å innføre et konkret, spesifikt eksempel. Eksempelet beskriver som regel en hel [situasjon]Situation eller nevner et [element]Theme av en situasjon.
+examples:
+  - |
+       «Мегамаг» никогда не располагается в центре города, в том числе потому, что там невозможно устроить парковку. Для примера, [в «Мегамаге» в Ростове парковка будет на 2500 мест.]Situation
+  - |
+       Я считаю, что за такие деньги лучше взять подержанную машину, чем новый автомобиль. Для примера, [отец два месяца назад купил Chevrolet Evanda2.0 2005 года в отличном состоянии за 10 тысяч долларов.]Situation
+  - |
+       Без ритуалов жизнь моя начинает казаться мне пустой. Для примера, [когда Тамара от меня ушла и стало некому покупать мне мою газету в киоске у метро, тогда у меня случилось нечто вроде депрессии.]Situation
+  - |
+       Теперь несколько слов о таком же диалоге с Мандельштамом. Для примера ― [отрывок из стихотворения «Еда».]Theme
+  - |
+       А вот твердый сыр (для примера ― [Российский]Theme), при жирности 29.5 г (на 100 г) его калорийность 363 ккал!
+morphology:
+  - NP
+  - Acc
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Theme
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Exemplification
+family:
+  - |
+    "Illustration with an example"

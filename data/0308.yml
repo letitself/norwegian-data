@@ -34,6 +34,9 @@ references:
   - |
     No references
 semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
 family:
   - |
     ""

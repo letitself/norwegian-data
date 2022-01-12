@@ -6,7 +6,9 @@ illustration: 'Это всё хорошо, но самое главное – б
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция завершает обсуждение одной темы и переводит внимание на другую тему разговора. Конструкция обозначает, что [существование какой-либо ситуации]Theme не должно повлиять на событие, происходящие параллельно.
+       Конструкция завершает обсуждение одной темы и переводит внимание на другую тему разговора. Конструкция обозначает, что [существование какой-либо ситуации]Theme не должно повлиять на событие, происходящее параллельно.
+  - norwegian: |
+       Konstruksjonen runder av diskusjonen av ett tema og flytter oppmerksomheten over på et annet samtaleemne. Konstruksjonen betyr at [tilstedeværelsen av en eller annen situasjon]Theme ikke må påvirke en hendelse som foregår parallelt.
 examples:
 morphology:
   - Cop
@@ -33,7 +35,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Это [det всё]] хорошо, [conj [cc но] [nsubj [amod самое] главное] – безопасность].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 437 Noun-Nom ~Noun-Ins, а/но Cl'
 common_fillers:
   - ~
 references:

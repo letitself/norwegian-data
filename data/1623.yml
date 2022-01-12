@@ -7,6 +7,8 @@ cefr_level: C2
 definitions:
   - russian: |
        Конструкция обозначает, что одно [действие]Action совершается сразу после другого [действия]Action. Как если бы достаточно было произойти некоторому действию, чтобы за ним сразу произошло другое. Такая комбинация двух действий может иметь место один раз (примеры 1-4) или многократно (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at én [handling]Action utføres rett etter en annen [handling]Action. Det er som om den ene handlingen er alt som skal til for at den andre straks skal inntreffe. En slik kombinasjon av to handlinger kan finne sted én gang (eksempel 1-4) eller flere ganger (eksempel 5).
 examples:
   - |
        На следующее утро, едва только [рассвело]Action, я, попрощавшись с Петером, [поехал в национальный парк]Action.

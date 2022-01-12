@@ -7,6 +7,10 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что участник ситуации совершает некоторое [действие]Action с определенной [целью]Purpose. Цель выражена инфинитивом глагола в слоте VP-Inf. Слот VP часто заполняется глаголами движения (идти, пойти, прийти, подойти и др.), глаголами изменения состояния или местоположения (садиться – сесть, ложиться – лечь и др.).
+  - english: |
+       This construction indicates that the participant in the situation is carrying out an [action]Action with a certain [purpose]Purpose. The purpose is expressed by the verb's infinitive form in the VP-Inf slot. The slot VP is often filled by verbs of motion ("идти" 'walk, go', "пойти" 'go', "прийти" 'arrive/come', "подойти" 'approach' etc.), or verbs that denote a change in state or location ("садиться – сесть" 'sit', "ложиться – лечь" 'lie (down)' etc.).
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker i situasjonen utfører en gitt [handling]Action med et bestemt [mål]Purpose for øye. Målet uttrykkes av verbets infinitivsform i sloten VP-Inf. Sloten VP fylles ofte av bevegelsesverb (идти, пойти, прийти, подойти m.fl.) eller verb som betegner endret tilstand eller beliggenhet (садиться - сесть, ложиться - лечь m.fl.).
 examples:
   - |
        Я [подошёл]Action [посмотреть]Purpose, что он пишет.

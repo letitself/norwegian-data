@@ -5,7 +5,13 @@ UD_name: 'Cl, а NP-Nom как думать-Pres?'
 illustration: 'Мне кажется, ему не идёт этот костюм, а ты как думаешь?'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция используется, чтобы узнать, совпадает ли мнение [собеседника]Addressee с [оценкой]Evaluation говорящего.
+  - norwegian: |
+       Konstruksjonen brukes for å bringe på det rene om [samtalepartnerens]Addressee mening sammenfaller med talerens [vurdering.]Evaluation
 examples:
+  - |
+       Думаю, что [можно это сделать]Theme, а [вы]Addressee как думаете?
 morphology:
   - Cl
   - NP

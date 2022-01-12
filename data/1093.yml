@@ -1,13 +1,33 @@
 ---
 record: 1093
-name: 'к тому же Cl'
-UD_name: 'к тому же Cl'
+name: 'к тому же XP/Cl'
+UD_name: 'к тому же XP/Cl'
 illustration: 'К тому же каждый день шёл снег.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Слот ХР обычно заполняется именной, предложной или глагольной группой.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The XP slot usually fills with a noun phrase, a prepositional phrase or verb phrase.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere. Sloten XP fylles vanligvis av en nominalfrase, et preposisjonsledd eller en verbalfrase.
 examples:
+  - |
+       Шоссе было очень скользким, машины еле ехали. К тому же [дорогу замело и сыпал снег]ContentOfSpeech.
+  - |
+       Тем, кто курит, мы рекомендуем почаще ходить в русскую баню. Баня к тому же [снимает стрессы и тренирует сосуды]ContentOfSpeech.
+  - |
+       Я очень люблю соревноваться в прохладную погоду, к тому же [при оптимальном попутном ветре]ContentOfSpeech.
+  - |
+       Экскурсии у нас проводят квалифицированные сотрудники, являющиеся к тому же [хорошими педагогами]ContentOfSpeech.
+  - |
+       Лучше использовать акриловые герметики: они достаточно эластичны и к тому же [хорошо окрашиваются]ContentOfSpeech.
 morphology:
   - Cl
+  - XP
+  - VP
+  - NP
+  - PP
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -30,7 +50,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

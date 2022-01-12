@@ -40,7 +40,6 @@ semantic_roles:
   - Evaluation
 intonation:
   - Declarative
-  - Interrogative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis может [xcomp быть]], Cl]'

@@ -5,7 +5,21 @@ UD_name: 'если PronPers-1 правильно понять/понимать, 
 illustration: 'Если я правильно понимаю, он уже не придет.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция выражает мнение [говорящего]Speaker по некоторому [вопросу]Theme и обычно вводит [оценочное высказывание]Evaluation. Конструкция обычно снижает категоричность высказывания и имеет значение 'я считаю, что Cl, но, возможно, это не так'. Конструкция может стоять как в начале предложения, так и вклиниваться в середину высказывания.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens mening i en gitt sak og innleder vanligvis [et vurderende utsagn]Evaluation. Vanligvis gjør konstruksjonen utsagnet mindre kategorisk og har betydningen 'jeg mener at CI, men det er mulig at det ikke er slik'. Konstruksjonen kan stå så vel i begynnelsen av setningen som innskutt i midten av utsagnet.
 examples:
+  - |
+       И если [я]Speaker правильно понимаю, [вы мало общались все это время.]Evaluation
+  - |
+       Если [я]Speaker правильно понял, [в мире не было подобных случаев.]Evaluation
+  - |
+       Если [я]Speaker правильно понимаю, [в волейболе нужно перекидывать мяч туда-сюда.]Theme
+  - |
+       [Это термин из психологии]Theme, если [я]Speaker правильно понимаю.
+  - |
+       [Так вы ещё студентка]Theme, если [я]Speaker правильно понял?
 morphology:
   - PronPers
   - 1

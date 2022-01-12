@@ -2,11 +2,13 @@
 record: 1938
 name: 'NP по NP-Dat NP-Nom'
 UD_name: 'NP по NP-Dat NP-Nom'
-illustration: 'Собака по кличке Баунти.'
+illustration: 'Собака по кличке Баунти'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый участник ситуации]Participant имеет конкретное [имя]Name, [кличку]Name или [звание]Status.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker i situasjonen]Participant har et konkret [navn]Name, [kallenavn]Name eller [en tittel]Status.
 examples:
   - |
        Позднее она вышла замуж за коллегу, за [аптекаря]Participant по [фамилии]Theme [Славуцкий.]Name

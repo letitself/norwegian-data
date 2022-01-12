@@ -7,6 +7,10 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция выражает неуверенность говорящего в некотором [утверждении]Evaluation. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Если конструкция используется в начале вопросительного предложения, то она выполняет функцию деликатного [призыва к действию]Action (примеры 4, 5). Конструкция является вводной и на письме выделяется запятыми. Слот XP может заполняться именной группой, предложной группой, глагольной группой, числительным, прилагательным, наречием или предикативом.
+  - english: |
+       This construction expresses the speaker's uncertainty about a [statement]Evaluation. The speaker does not have enough reason to accurately talk about an action or situation. If the construction is used at the beginning of an interrogative sentence, then has the function of a mild [call to action]Action (examples 4,5). The construction is parenthetical and in written form is separated by commas. The slot XP can be filled by a noun phrase, a prepositional phrase, a verb phrase, a numeral, an adjective, an adverb or a predicative.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren er usikker på en gitt [påstand]Evaluation. Taleren har ikke tilstrekkelig grunnlag for å si noe sikkert om en eller annen handling eller situasjon. Hvis konstruksjonen brukes i begynnelsen av en spørresetning, fungerer den som en mild [oppfordring til å handle]Action (eksempel 4 og 5). Konstruksjonen er innledende og utskilles i skrift med komma. Sloten XP kan fylles av en nominalfrase, et preposisjonsledd, en verbalfrase, et tallord, et adjektiv, et adverb eller et predikativ.
 examples:
   - |
        Итак, скоро ты, быть может, [увидишь рай]Evaluation.
@@ -40,7 +44,6 @@ semantic_roles:
   - Evaluation
 intonation:
   - Declarative
-  - Interrogative
 usage_label: ~
 dependency_structure:
   - '[root [parataxis [xcomp быть] может]'

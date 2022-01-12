@@ -11,9 +11,9 @@ definitions:
        Konstruksjonen betyr at en gitt [deltaker]Agent [forflytter seg fra et sted til et annet]Action og at en annen [deltaker]Associated, en ledsager, forflytter seg sammen med deltakeren. Konstruksjonen kan også betegne en kategori [deltakere]Participant, hvis deltakelse i handlingen avhenger av tilstedeværelsen av en ledsager som tar ansvar for dem (eksempel 4 og 5).
 examples:
   - |
-       Вскоре [она]Agent [вернулась]Action в сопровождении [официанта]Counteragent, который нес на тарелочках колбасу и сыр.
+       Вскоре [она]Agent [вернулась]Action в сопровождении [официанта]Associated, который нес на тарелочках колбасу и сыр.
   - |
-       [Ульяна]Agent тем временем [осматривала]Action яхту в сопровождении [инженера-механика]Counteragent.
+       [Ульяна]Agent тем временем [осматривала]Action яхту в сопровождении [инженера-механика]Associated.
   - |
        Мы сидели за столиком, когда в зал [вошла]Action сногсшибательная [дама]Agent в сопровождении очень интеллигентного [мужчины]Associated.
   - |
@@ -37,7 +37,6 @@ semantic_roles:
   - Action
   - Agent
   - Associated
-  - Counteragent
   - Participant
 intonation:
   - Not applicable

@@ -1,12 +1,14 @@
 ---
 record: 1842
-name: 'Взять/возьми(те) хотя бы/хоть NP-Acc, Cl'
-UD_name: 'Взять/возьми(те) хотя бы/хоть NP-Acc, Cl'
+name: 'Взять/возьми(те)/возьмём хотя бы/хоть NP-Acc, Cl'
+UD_name: 'Взять/возьми(те)/возьмём хотя бы/хоть NP-Acc, Cl'
 illustration: 'Все работали хорошо. Взять хотя бы Ивана, он внимательно проработал все детали.'
 cefr_level: C1
 definitions:
   - russian: |
        Конструкция вводит пояснение некоторого общего утверждения с помощью конкретного частного примера. В качестве примера сначала называется [элемент ситуации]Theme, а потом раскрывается [мысль, почему он служит хорошим примером]Situation. Как если бы говорящий давал собеседнику в руки, но не предмет, а элемент ситуации.
+  - english: |
+       This construction introduces an explanation of a general assertion by presenting a common concrete example. The example usually begins by naming [and element of a situation]Theme, and then revealing [the reason why it is a good example]Situation. It is as if the speaker is handing somethibng to the interlocutor that is not a concrete object, but instead an element of the situation.
   - norwegian: |
        Konstruksjonen gjør en generell påstand klarere ved å innføre et konkret, spesifikt eksempel. Som eksempel nevnes først et [element av en situasjon]Theme, og deretter åpenbares [tanken om hvorfor dette er et godt eksempel]Situation. Det er som om taleren gir samtalepartneren noe i hendene, bare at det ikke er en gjenstand, men et element av en situasjon.
 examples:
@@ -19,7 +21,7 @@ examples:
   - |
        Ведь, если вы думаете, что есть у нас млекопитающих единственный путь: родиться, стать подростком, быстренько перескочить через юность, пробежать через молодость ― и дальше только дряхлеть ― вы сильно ошибаетесь! Возьмите, хотя бы [китов]Theme! [Киты живут около двухсот лет, и всё это время крепчают здоровьем и к старости рожают всё больше детей]Situation.
   - |
-       Когда такой тип сознания воплощается в отдельной личности, человек начинает воспринимать свое детство как некий потерянный рай. Возьмите хотя бы [Набокова]Theme. [Эта его бесконечная рефлексия по поводу первых лет жизни]Situation ― классический пример того, о чем я говорю.
+       Когда такой тип сознания воплощается в отдельной личности, человек начинает воспринимать свое детство как некий потерянный рай. Возьмём хотя бы [Набокова]Theme. [Эта его бесконечная рефлексия по поводу первых лет жизни]Situation ― классический пример того, о чем я говорю.
 morphology:
   - NP
   - Acc

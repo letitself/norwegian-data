@@ -5,7 +5,23 @@ UD_name: 'NP касательно NP-Gen'
 illustration: 'Может подскажете кое-что касательно налогов?'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает [тему]Parameter [словесного сообщения.]Theme Слот NP заполняют существительные, которые называют тип словесного сообщения (вопрос, аргумент, замечание, комментарий, дискуссия и др.), а слот NP-Gen заполняется существительными, указывающими тему сообщения. Темой может быть как область или сфера деятельности, так и конкретный объект или участник.
+  - english: |
+       This construction indicates the [topic]Parameter of a [verbal communication.]Theme The NP slot can be filled by nouns that name types of verbal communication (question, argument, criticism, comment, discussion, etc.), and the NP-Gen slot can be filled by nouns indicating the topic of the communication. The topic can be the domain or sphere of action, a concrete object, or a participant.
+  - norwegian: |
+       Konstruksjonen markerer [temaet]Parameter for en [verbal meddelelse.]Theme Sloten NP fylles av et substantiv som betegner en type verbal meddelelse (et spørsmål, et argument, en bemerkning, en kommentar, en diskusjon m.fl.), og sloten NP-Gen fylles av et substantiv som angir meddelelsens tema. Temaet kan være så vel et område eller virkefelt som et konkret objekt eller en konkret deltaker.
 examples:
+  - |
+       Мне хотелось бы услышать ваше [мнение]Theme касательно [этого случая.]Parameter
+  - |
+       Позвольте внести [уточнение]Theme касательно [Японии.]Parameter По специальности являюсь переводчиком японского языка. Буду рада, если мой комментарий окажется для вас полезным.
+  - |
+       В ближайшие полгода правительство должно принять [меры]Theme касательно [сельского хозяйства.]Parameter
+  - |
+       У меня есть несколько [замечаний]Theme касательно [вашей курсовой.]Parameter
+  - |
+       Мне хотелось бы задать несколько [вопросов]Theme касательно [ваших знакомых.]Parameter
 morphology:
   - NP
   - Gen
@@ -29,7 +45,15 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - вопрос
+  - аргумент
+  - замечание
+  - комментарий
+  - дискуссия
+  - споры
+  - мнения
+  - сведения
+  - предсказания
 references:
   - |
     No references
@@ -37,6 +61,9 @@ semantic_types:
   - type: Discourse structure
     subtypes:
       - type: Topic
+  - type: Salient property
+    subtypes:
+      - type: Domain
 family:
   - |
-    ""
+    "Reference to relevant area"

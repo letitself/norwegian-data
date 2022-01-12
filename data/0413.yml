@@ -6,7 +6,11 @@ illustration: 'Это был полный провал!'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция повышает до максимума степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что некоторая [ситуация]Situation [оценивается]Evaluation крайне отрицательно (примеры 1-4) или, реже, положительно (пример 5). Как если бы подобранная говорящим оценка в полной мере отражала ситуацию. Слот Noun заполняют абстрактные существительные (глупость, вздор, чепуха, бред и т.п.)
+       Конструкция повышает до максимума степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что некоторая [ситуация]Situation [оценивается]Evaluation крайне отрицательно (примеры 1-4) или, реже, положительно (пример 5). Как если бы подобранная говорящим оценка в полной мере отражала ситуацию. Слот Noun заполняют абстрактные существительные (глупость, вздор, чепуха, бред и т.п.).
+  - english: |
+       This constructicon maximises the degree of intensity of a feature characterising an object or situation, and emphasises that a [situation]Situation is [evaluated]Evaluation extremely negatively (examples 1-4), or, less often, positively (example 5). It is as if the evaluation chosen by the speaker fully reflected the situation. The slot Noun is filled by abstract nouns ("глупость" 'stupidity', "вздор" 'nonsense', "чепуха" 'rubbish', "бред" 'delirium' etc.).
+  - norwegian: |
+       Konstruksjonen gir maksimal intensitet til et kjennetegn som karakterisrer et objekt eller en situasjon og fremhever at en gitt [situasjon]Situation [vurderes]Evaluation ytterst negativt (eksempel 1-4) eller, sjeldnere, positivt (eksempel 5). Det er som om den vurderingen taleren har valgt, gjenspeiler situasjonen i fullt monn. Sloten Noun fylles av abstrakte substantiver (глупость, вздор, чепуха, бред osv.).
 examples:
   - |
        [Сложившаяся ситуация в нашей школе с обязательным наличием формы]Situation — полный [абсурд]Evaluation.

@@ -5,7 +5,21 @@ UD_name: '(и) кстати (говоря), Cl'
 illustration: 'И кстати, он пришёл без подарка.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Говорящий специально акцентирует внимание на этой новой информации, как правило используя ее как аргумент или подтверждение своей мысли.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. The speaker intentionally points up this piece of information and normally uses it as an argument or a confiormation of their statement.
 examples:
+  - |
+       Повесть стала событием, о ней много писали, и, кстати говоря, [одну из первых рецензий написал Пиотровский]ContentOfSpeech.
+  - |
+       Я провел с Наиной несколько занятий по теннису, и, кстати говоря, [первые уроки она усвоила неплохо]ContentOfSpeech.
+  - |
+       Одна семья хиппи, например, держит ресторан. Кстати говоря, [это единственный ресторан в Лос-Анджелесе, куда по вечерам стоит очередь]ContentOfSpeech.
+  - |
+       Я не поеду с тобой. И кстати, [в ресторан я тоже не пойду]ContentOfSpeech.
+  - |
+       Если цены на нефть упадут, придётся менять бюджет или мириться с его дефицитом. Кстати, [такой период в стране уже был]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -32,9 +46,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [cc И] [parataxis кстати], [nsubj он] пришёл [obl [case без] подарка].]'
 comment: |
-    'No comment yet'
+    'Конструкция близка по значению конструкции 1092 к слову (сказать), Cl.'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references
