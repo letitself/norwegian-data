@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/license-%20CC--BY-blue.svg)](LICENSE)
+[![](<https://img.shields.io/badge/Dataverse DOI-10.18710/3AM2QM-orange>)](https://dataverse.no/dataset.xhtml?persistentId=doi:10.18710/3AM2QM)
 
 
 ## Data for https://github.com/constructicon/russian
