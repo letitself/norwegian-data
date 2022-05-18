@@ -30,7 +30,8 @@ def print_as_yaml_list(string_spreadsheet, split_sequence):
         if ":" in line or "[" in line or "]" in line:
             s += f"  - '{line}'\n"
         else:
-            s += f"  - {line}\n"
+            if line.strip() != "":
+                s += f"  - {line}\n"
     return s
 
 
@@ -106,7 +107,7 @@ def write_record(row, record):
 
         f.write("references:\n")
         f.write("  - |\n")
-        f.write("    " + row["References"] + "\n")
+        f.write("    " + row["References"].strip() + "\n")
         f.write("semantic_types:\n")
         for tag in tags:
             if row[tag] != "":

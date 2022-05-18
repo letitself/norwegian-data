@@ -42,7 +42,6 @@ usage_label: ~
 dependency_structure:
   - '[root [parataxis [mark насколько] [nsubj PronPers-1] знать], Cl]'
   - '[root [parataxis [mark насколько] [iobj PronPers-1.Dat] [cop Cop] известно], Cl]'
-  - 
 dependency_structure_of_illustration:
   - '[root [parataxis [mark Насколько] [nsubj я] знаю], [nsubj Вася] [advmod отлично] играет [obl [case в] футбол].]'
 comment: |

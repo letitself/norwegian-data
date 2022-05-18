@@ -25,7 +25,6 @@ usage_label: ~
 dependency_structure:
   - '[root [advmod [advmod не] вполне] XP]'
   - '[root [advmod вполне] XP]'
-  - 
   - '[root [advmod полностью] XP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod не] вполне] понимает, [ccomp [advmod как] [nsubj всё] серьёзно].]'
