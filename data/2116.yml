@@ -1,16 +1,25 @@
 ---
 record: 2116
-name: 'NP/VP со стороны NP-Gen'
-UD_name: 'NP/VP со стороны NP-Gen'
+name: 'NP со стороны NP-Gen'
+UD_name: 'NP со стороны NP-Gen'
 illustration: 'Имеются в виду замечания со стороны лингвистов.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что источником описываемого [действия]Action или [ситуации]Situation является некоторое [лицо или организация]Agent.
+       Конструкция обозначает, что источником описываемого [действия]Action или [ситуации]Situation является определенный [человек или организация.]Source
 examples:
+  - |
+       У него есть [поддержка]Situation со стороны [родителей.]Source
+  - |
+       Футболисты были несколько удивлены такой [заботой]Action со стороны [милиции.]Source
+  - |
+       Вы готовы к [жёсткой критике]Action со стороны [других специалистов?]Source
+  - |
+       Наблюдается рост [интереса к европейскому рынку]Situation со стороны [латвийских банков.]Source
+  - |
+       Это моё желание встретило со стороны [дирекции Рижского театра]Source [полное понимание.]Action
 morphology:
   - NP
-  - VP
   - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction
@@ -34,7 +43,11 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - поддержка
+  - критика
+  - нарекания
+  - начальство
+  - коллеги
 references:
   - |
     No references

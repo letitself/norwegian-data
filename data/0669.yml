@@ -5,9 +5,24 @@ UD_name: 'XP ни-ни!'
 illustration: 'Пить ни-ни!'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий категорически запрещает собеседнику выполнять некоторое [действие]Action. Иногда само действие не называется, но конкретизируется [способ его выполнения]Manner, [направление в пространстве]Direction или [тот, на кого оно направлено]Addressee. Конструкция может обозначать, что говорящий запрещает [собеседнику]Addressee говорить о [чём-либо]Topic (пример 3). Конструкция также может обозначать, что участник ситуации ни при каких обстоятельствах не совершает некоторое [действие]Action (примеры 4-5). Как правило, конструкция используется только в устной форме. Слот XP может быть заполнен именной, предложной или глагольной группой.
 examples:
+  - |
+       В эту сторону ― пожалуйста, а [в обратную]Direction ― ни-ни!
+  - |
+       Раз заболел, говорит, то надо лечиться, а [в школу]Direction ― ни-ни.
+  - |
+       Да смотри ― [никому]Addressee ни-ни! Опасное дело.
+  - |
+       ― Она вам ничего не говорила? ― Нет, конечно. В этом она точно как я. [О личном]Topic ― ни-ни.
+  - |
+       А девушка та не просто в монахини ушла, но и подобрала монастырь себе подальше, чтоб уж никто [к ней]Addressee ни-ни.
 morphology:
   - XP
+  - NP
+  - PP
+  - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -19,7 +34,11 @@ part_of_speech_of_anchor:
   - Negation Marker
   - Predicative
 semantic_roles:
-  - ~
+  - Action
+  - Addressee
+  - Direction
+  - Manner
+  - Topic
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -28,9 +47,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [csubj Пить] ни-ни!]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 231 (ни слова NP-Dat о NP-Loc! — Ни слова маме о нашей поездке!)'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

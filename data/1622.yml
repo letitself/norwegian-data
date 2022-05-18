@@ -8,6 +8,16 @@ definitions:
   - russian: |
        Конструкция обозначает, что одно [действие]Action совершается до другого [действия]Action.
 examples:
+  - |
+       Прежде чем других [учить]Action, [сделай]Action сам хоть что-нибудь.
+  - |
+       Прежде чем [начать]Action реставрацию, необходимо тщательно [продумать]Action весь процесс и составить план работы.
+  - |
+       Прежде чем [идти]Action в гости, дед всегда [обедал]Action.
+  - |
+       Я боялся, что она [выбежит]Action на улицу, прежде чем я [успею]Action её догнать.
+  - |
+       Вы мне свои документы сначала [покажите]Action, прежде чем [требовать]Action мои.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -30,7 +40,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod долго] сомневался, [advmod прежде [advcl [mark чем] написать [iobj ей]]].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1620.'
 common_fillers:
   - ~
 references:

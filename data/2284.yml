@@ -5,7 +5,19 @@ UD_name: '(а) (PronPers-Dat) почём Cop знать, (SCONJ) Cl?'
 illustration: 'Почём мне было знать, когда ты вернёшься.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [говорящий]Speaker или [другой участник]Cognizer не знает или сомневается в [некотором утверждении]ContentOfSpeech. Конструкция может звучать грубо по отношению к малознакомым людям.
 examples:
+  - |
+       А почем [мне]Speaker знать, [где они]ContentOfSpeech? Должно быть, ушли с вами.
+  - |
+       Почем [ему]Cognizer знать, [что палачи с ним хотят делать]ContentOfSpeech.
+  - |
+       Может, [его сразу после этого повесили]ContentOfSpeech, почем [мне]Speaker знать.
+  - |
+       Почем знать, [кому что удастся из этих мальчишек и девчонок, из кого что получится]ContentOfSpeech.
+  - |
+       Почем [нам]Cognizer знать, [что делается в этой скорбной голове]ContentOfSpeech.
 morphology:
   - PronPers
   - Dat
@@ -57,9 +69,11 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Почём [iobj мне] [cop было] [csubj знать, [ccomp [mark когда] [nsubj ты] вернёшься]].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 2344.'
 common_fillers:
-  - ~
+  - мне
+  - нам
+  - ему
 references:
   - |
     No references

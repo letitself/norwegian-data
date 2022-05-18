@@ -3,13 +3,13 @@ record: 2348
 name: 'какой/какое там XP!'
 UD_name: 'какой/какое там XP!'
 illustration: '– Думала, что на пенсии ты успокоишься... – Какое там “успокоишься"!'
-cefr_level: 
+cefr_level: C1
 definitions:
 examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Discourse "Echo" Construction
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:
@@ -31,6 +31,9 @@ references:
   - |
     No references
 semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
 family:
   - |
     ""

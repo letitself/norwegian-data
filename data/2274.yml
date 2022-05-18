@@ -5,7 +5,19 @@ UD_name: 'NP-Nom мочь VP-Inf'
 illustration: 'Вася может подобрать любую мелодию на слух.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Agent обладает возможностью совершить [некоторое действие]Action. Эта возможность может быть обусловлена как внутренними свойствами участника, его способностями (примеры 1-2), так и внешними обстоятельствами (пример 3). Кроме того, конструкция может обозначать, что [участнику]Agent разрешается выполнить [некоторое действие]Action (пример 4), или выражать предположение говорящего о [некоторой ситуации]Situation.
 examples:
+  - |
+       [Актер]Agent может [сыграть любую роль]Action.
+  - |
+       [Компьютер]Theme может [выполнить любую математическую операцию]Action.
+  - |
+       Об авторе [мы]Agent можем [узнать]Action только по его текстам.
+  - |
+       В творческом конкурсе могут [принять участие]Action [все желающие]Agent.
+  - |
+       Вечером может [пойти дождь]Situation.
 morphology:
   - NP
   - Nom
@@ -31,14 +43,24 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - все желающие; сделать
+  - узнать
+  - написать
+  - выбрать
+  - выполнить
+  - посмотреть
+  - решать
 references:
   - |
     No references
 semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
   - type: Root modality
     subtypes:
       - type: Possibility
+      - type: Permission
 family:
   - |
     ""

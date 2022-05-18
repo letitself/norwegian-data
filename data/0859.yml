@@ -5,7 +5,19 @@ UD_name: 'видит бог, Cl'
 illustration: 'Видит бог, я не желал ей зла.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает высокую степень уверенности говорящего в [сообщаемом]ContentOfSpeech. Ситуация оценивается как вероятная или очень вероятная. Как если бы говорящий обращался к богу, призывая его в свидетели того, что сообщаемая информация достоверна.
 examples:
+  - |
+       Видит Бог, [я рада, что ты вернулся]ContentOfSpeech.
+  - |
+       Видит Бог, [я сражался изо всех сил]ContentOfSpeech.
+  - |
+       [Тогда, в 1994-м, я не хотел сюда возвращаться]ContentOfSpeech, видит Бог.
+  - |
+       Мы уважаем ваше уединение, но видит бог, [все слишком изменилось, чтобы оставаться в неведении]ContentOfSpeech.
+  - |
+       Видит Бог, [она много помогала людям, но делала это скрытно, как и подобает настоящим благотворителям]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -28,9 +40,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis Видит] [nsubj бог], [nsubj я] [advmod не] желал [iobj ей] [obj зла].]'
 comment: |
-    'No comment yet'
+    'См. похожую конструкцию со словом "бог": 1001 ей-богу, Cl (Ей-богу, я знал её наизусть).'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

@@ -1,17 +1,27 @@
 ---
 record: 1640
-name: 'NP-Ins.Pl PtcpAct/PtcpPass NP'
-UD_name: 'NP-Ins.Plur PtcpAct/PtcpPass NP'
+name: 'часами/годами/веками PtcpAct/PtcpPass NP'
+UD_name: 'часами/годами/веками PtcpAct/PtcpPass NP'
 illustration: 'Нужно сохранить веками сложившийся облик города.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Participant осуществляет определенное [действие]Action или [некоторый объект]Theme подвергается определенному [воздействию]Action в течение продолжительного времени. Это время может обозначаться словами "часами", "неделями", "месяцами", "веками", "тысячелетиями" и др.
 examples:
+  - |
+       Вас укладывают на плоские, веками [обкатанные]Action [камни]Theme разной формы.
+  - |
+       Профессионалы уговаривают фермеров изменить годами [отработанные]Action [навыки]Theme.
+  - |
+       Веками [жившие при капитализме]Action [люди]Participant очень чётко осознают свои интересы.
+  - |
+       А что говорят [поклонницы]Participant, часами [ожидающие]Action у служебного выхода?
+  - |
+       Кхмеры перебили всех горных [коз]Theme, тысячелетиями [служивших]Action им пищей.
 morphology:
-  - NP
-  - Ins
-  - Pl
   - PtcpAct
   - PtcpPass
+  - NP
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -31,9 +41,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Нужно [csubj сохранить [obj [acl [obl веками] сложившийся] облик [nmod города]]].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1081.'
 common_fillers:
-  - ~
+  - продолжающиеся
 references:
   - |
     No references

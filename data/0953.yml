@@ -5,7 +5,19 @@ UD_name: 'дай бог PronPers-Dat NP-Gen!'
 illustration: 'Дай бог тебе здоровья!'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий желает [участнику]Beneficiary (обычно собеседнику) наступления некоторой благоприятной [ситуации]Theme в жизни. Как если бы говорящий обращался к Богу и просил его осуществить эту ситуацию.
 examples:
+  - |
+       А умрет Евтушенко, дай бог [ему]Beneficiary еще [100 лет]Theme, назовут передачу строчкой из Вознесенского?
+  - |
+       Славная девочка, дай Бог [ей]Beneficiary [счастья]Theme.
+  - |
+       Правильно, Петр, дай Бог [вам]Beneficiary [силы]Theme! Очень правильно.
+  - |
+       Дай Бог [здоровья]Theme [всему вашему коллективу]Beneficiary. И пусть будет побольше таких людей, которые откликаются и помогают людям.
+  - |
+       Дай Бог [здоровья и счастья]Theme [всем Николаям]Beneficiary!
 morphology:
   - PronPers
   - Dat
@@ -30,9 +42,10 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Дай [nsubj бог] [iobj тебе] [obj здоровья]!]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 954.'
 common_fillers:
-  - ~
+  - здоровья
+  - счастья
 references:
   - |
     No references

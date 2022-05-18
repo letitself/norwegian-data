@@ -5,7 +5,19 @@ UD_name: 'если бы Cl!'
 illustration: 'Если бы у них были деньги!'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает пожелание говорящего о том, чтобы реализовалась [некоторая ситуация]Situation. Пожелание, как правило, относится к неосуществимым событиям.
 examples:
+  - |
+       Если бы [я мог воспроизвести её интонации]Situation!
+  - |
+       Если бы [мы перед этой трудностью стояли вдвоём]Situation!
+  - |
+       Вот если бы [у них был один общий язык]Situation!..
+  - |
+       Если бы [ты знал, какие это люди]Situation!
+  - |
+       Если бы [всё было так просто]Situation!
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -27,9 +39,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [mark Если] [aux бы] [obl [case у] них] были [nsubj деньги]!]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 63, 879, 881.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

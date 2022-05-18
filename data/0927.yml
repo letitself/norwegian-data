@@ -1,17 +1,29 @@
 ---
 record: 927
-name: 'VP NP от ~NP-Gen'
-UD_name: 'VP NP от NP-Gen'
+name: 'NP от ~NP-Gen Cl'
+UD_name: 'NP от NP-Gen Cl'
 illustration: 'Они совершенствуются год от года.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation постепенно изменяется к худшему или к лучшему на протяжении [одинаковых последовательных промежутков времени]Measure. Слот NP обозначает более поздний этап развития ситуации, а слот NP-Gen — более ранний.
 examples:
+  - |
+       [День]Measure ото [дня]Measure [хорошеет]Situation.
+  - |
+       Ситуация в области [день]Measure ото [дня]Measure [все хуже]Situation.
+  - |
+       Графиня [час]Measure от [часу]Measure всё более к нему [привязывалась]Situation.
+  - |
+       Все они говорили о [растущем]Situation [год]Measure от [года]Measure потоке выпускников, покидающих родной университет.
+  - |
+       Дмитрий Николаевич [раз]Measure от [разу]Measure [становился мрачнее]Situation.
 morphology:
-  - VP
   - NP
   - Gen
+  - Cl
 syntactic_type_of_construction:
-  - Head and Modifier Construction
+  - Clause and Modifier Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:
@@ -28,12 +40,17 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Они] совершенствуются [obl год [nmod [case от] года]].]'
 comment: |
-    'No comment yet'
+    'Конструкция "время от времени" не несет смысла градуального развития действия и обозначает просто 'иногда'.'
 common_fillers:
-  - ~
+  - день
+  - час
+  - год
+  - дня
+  - часу
+  - году
 references:
   - |
-    No references
+    Богуславская, О. 2019. Конструкции свременными словами. Scando-Slavica 65:1, 62-76.
 semantic_types:
   - type: Phase of action
     subtypes:

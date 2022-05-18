@@ -1,13 +1,26 @@
 ---
 record: 1071
-name: 'VP из NP-Gen в ~NP-Acc'
-UD_name: 'VP из NP-Gen в NP-Acc'
+name: 'VP-Ipfv из NP-Gen в ~NP-Acc'
+UD_name: 'VP-Imp из NP-Gen в NP-Acc'
 illustration: 'Из года в год мы возвращались в это место.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action неизменно повторяется на протяжении [нескольких одинаковых последовательных промежутков времени]Measure. Слот NP-Acc обозначает более поздний этап развития действия, а слот NP-Gen — более ранний.
 examples:
+  - |
+       Из [года]Measure в [год]Measure место для лагеря [выбиралось]Action на самом берегу.
+  - |
+       Он здесь изо [дня]Measure в [день]Measure [обедает]Action.
+  - |
+       Изо [дня]Measure в [день]Measure вы [приобретаете одни и те же продукты]Action, так попробуйте что-то поменять.
+  - |
+       Из [века]Measure в [век]Measure эту книгу [передавали]Action как семейную реликвию от отца к сыну.
+  - |
+       Из [раза]Measure в [раз]Measure я [не перестаю восхищаться]Action игрой актёров.
 morphology:
   - VP
+  - Ipfv
   - NP
   - Gen
   - Acc
@@ -29,12 +42,14 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [obl [case Из] года [nmod [case в] год]] [nsubj мы] возвращались [obl [case в] [det это] место].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 962, 1073.'
 common_fillers:
-  - ~
+  - год
+  - век
+  - день
 references:
   - |
-    No references
+    См. также Богуславская, О. 2019. Конструкции свременными словами. Scando-Slavica 65:1, 62-76.
 semantic_types:
   - type: Phase of action
     subtypes:

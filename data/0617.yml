@@ -1,42 +1,56 @@
 ---
 record: 617
-name: 'Cl, разве что Cl'
-UD_name: 'Cl, разве что Cl'
-illustration: 'Сегодня не поеду, разве что завтра.'
-cefr_level: B2
+name: 'VP наверняка'
+UD_name: 'VP наверняка'
+illustration: 'Он знал наверняка, что в доме кто-то есть.'
+cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник совершает [действие]Action безошибочно, с точным расчетом на результат. Если слот VP заполняется глаголами "знать" или "сказать", то конструкция обозначает, что говорящий полностью уверен в сообщаемой информации (примеры 4-5).
 examples:
+  - |
+       ― Хорошо, Генри, только береги патроны, [бей]Action наверняка.
+  - |
+       Я приготовил зверю ловушку, которая, по моим расчётам, должна была [сработать]Action наверняка.
+  - |
+       Теперь есть способ наверняка [избавиться от депрессии]Action.
+  - |
+       Мы не [знаем]Action наверняка историю происхождения матери Владимира.
+  - |
+       Одно можно [сказать]Action наверняка: успехами в плавании они не блещут, что неудивительно при их телосложении.
 morphology:
-  - Cl
+  - VP
 syntactic_type_of_construction:
-  - Connection Construction
+  - Head and Modifier Construction
 syntactic_function_of_anchor:
-  - Subordinator
+  - Modifier
 syntactic_structure_of_anchor:
-  - Multiword Conjunction
+  - Not Applicable
 part_of_speech_of_anchor:
-  - Conjunction
+  - Adverb
 semantic_roles:
   - ~
 intonation:
   - Declarative
-usage_label: Colloquial
+usage_label: Obsolete
 dependency_structure:
-  - '[root Cl'
-  - '[conj [mark разве [fixed что]] Cl]]'
+  - '[root VP [advmod наверняка]]'
 dependency_structure_of_illustration:
-  - '[root [advmod Сегодня] [advmod не] поеду, [conj [mark разве [fixed что]] завтра].]'
-comment: |
-    'No comment yet'
-common_fillers:
   - ~
+comment: |
+    'Не путать с конструкцией 2140.'
+common_fillers:
+  - бить
+  - знать
+  - сказать
 references:
   - |
     No references
 semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
-      - type: Low degree of certainty
+      - type: High degree of certainty
+  - type: Manner
 family:
   - |
     ""

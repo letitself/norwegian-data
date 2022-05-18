@@ -1,14 +1,26 @@
 ---
 record: 1822
-name: 'хотеть-Pst бы NP-Nom, чтобы Cl'
-UD_name: 'хотеть-Past бы NP-Nom, чтобы Cl'
+name: 'хотеть-Pst бы PronPers-Nom, чтобы Cl'
+UD_name: 'хотеть-Past бы PronPers-Nom, чтобы Cl'
 illustration: 'Хотела бы она, чтобы ты обратил на нее внимание.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Experiencer имеет большое желание, чтобы осуществилась [некоторая ситуация]Situation. Его желание является неосуществимым по объективным причинам. Иногда говорящий выражает желание, чтобы сопоставимые ситуации происходили и с ним, и с собеседником (примеры 4-5).
 examples:
+  - |
+       Хотела бы [я]Experiencer, чтобы [они видели, как тепло принимал нас итальянец]Situation.
+  - |
+       Хотел бы [я]Experiencer, чтобы [так было]Situation, но нет.
+  - |
+       Хотел бы [я]Experiencer, чтобы [это не было срочно]Situation!
+  - |
+       ― Хотел бы [я]Experiencer, чтобы [мне так верили, как вы вашему Никите]Situation.
+  - |
+       Хотела бы [я]Experiencer, чтобы [ваши недостатки были так же явно видны, как нестандартный размер моего тела]Situation.
 morphology:
   - Pst
-  - NP
+  - PronPers
   - Nom
   - Cl
 syntactic_type_of_construction:
@@ -27,14 +39,14 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - '[root хотеть-Pst [aux бы] [nsubj NP-Nom]'
+  - '[root хотеть-Pst [aux бы] [nsubj PronPers-Nom]'
   - '[ccomp [mark чтобы] [Cl]]'
 dependency_structure_of_illustration:
   - '[root Хотела [aux бы] [nsubj она], [ccomp [mark чтобы] [nsubj ты] обратил [obl [case на] нее] [obj внимание]].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 700, 1821. Внутри слота Cl этой конструкции часто встречается конструкция 1200.'
 common_fillers:
-  - ~
+  - я
 references:
   - |
     No references

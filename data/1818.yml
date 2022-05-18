@@ -5,9 +5,24 @@ UD_name: '(Только) чур (не) XP!'
 illustration: 'Кто пойдет в магазин? Только чур не я!'
 cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция используется, когда говорящий побуждает собеседника выполнить или не выполнять [некоторое действие]Action. Конструкция также может обозначать побуждение выполнить или не выполнять [действие]Action определенному [участнику ситуации]Agent (пример 1) или определенным [образом]Manner (примеры 4, 5). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне. Слот XP может быть заполнен именной, глагольной или предложной группой.
 examples:
+  - |
+       ― Надо Свету спросить. ― Чур не [я]Agent.
+  - |
+       Хочу спросить кое о чем, только чур не [обижаться]Action.
+  - |
+       Я хочу предложить еще один тост. Только, чур, не [смеяться]Action!
+  - |
+       ― Тогда пойдемте, ― произнесла Светлана. ― Только, чур, [без вопросов]Manner, хорошо?
+  - |
+       Когда-нибудь я сыграю вам, Надежда Викторовна. Но, чур, [только один раз]Manner!
 morphology:
   - XP
+  - NP
+  - PP
+  - VP
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -18,7 +33,9 @@ part_of_speech_of_anchor:
   - Particle
   - Negation Marker
 semantic_roles:
-  - ~
+  - Action
+  - Agent
+  - Manner
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -32,7 +49,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - я
 references:
   - |
     No references

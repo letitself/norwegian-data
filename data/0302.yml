@@ -1,11 +1,23 @@
 ---
 record: 302
-name: 'сдаётся PronPers-Dat, Cl'
-UD_name: 'сдаётся PronPers-Dat, Cl'
+name: 'сдаётся мне, Cl'
+UD_name: 'сдаётся мне, Cl'
 illustration: 'Сдаётся мне, что сегодня будет дождь.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему. Конструкция часто используется с иронией и скепсисом (примеры 1, 4).
 examples:
+  - |
+       Сдается мне, [этот наш разговор не последний]ContentOfSpeech.
+  - |
+       Вперед, ребята, сдается мне, [мы близки к цели]ContentOfSpeech.
+  - |
+       Андрей ― человек хоть и не без странностей, но, сдается мне, [на этот раз он прав]ContentOfSpeech.
+  - |
+       Можете написать об этом, хотя, сдается мне, [цензура не пропустит]ContentOfSpeech.
+  - |
+       Однако сдаётся мне, [без вашей конкретной помощи нам эту задачу не решить]ContentOfSpeech.
 morphology:
   - PronPers
   - Dat
@@ -22,16 +34,16 @@ semantic_roles:
   - ~
 intonation:
   - Declarative
-usage_label: ~
+usage_label: Colloquial
 dependency_structure:
-  - '[root сдаётся [iobj PronPers-Dat]'
+  - '[root сдаётся [iobj мне]'
   - '[parataxis Cl]]'
 dependency_structure_of_illustration:
   - '[root Сдаётся [iobj мне], [csubj [mark что] сегодня [cop будет] [nsubj дождь]].]'
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

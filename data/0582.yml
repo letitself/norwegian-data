@@ -5,7 +5,19 @@ UD_name: 'VP за NP-Ins'
 illustration: 'Он молчал за обедом.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action происходит во время [определённой ситуации]BackgroundSituation.
 examples:
+  - |
+       Как-то он [сказал]Action за [обедом]BackgroundSituation, что должен спешить в Москву.
+  - |
+       Время за [работой]BackgroundSituation [идёт очень быстро]Action!
+  - |
+       По вечерам моя семья [частенько собирается]Action за [просмотром фильмов]BackgroundSituation.
+  - |
+       Я [честно провела несколько часов]Action за [переводом текста]BackgroundSituation.
+  - |
+       В тюрьме я [много пел]Action ― за [шахматами]BackgroundSituation, разгуливая по камере и просто лёжа на койке.
 morphology:
   - VP
   - NP
@@ -28,9 +40,14 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] молчал [obl [case за] обедом].]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 446.'
 common_fillers:
-  - ~
+  - сказал
+  - читала
+  - работой
+  - обедом
+  - завтраком
+  - ужином
 references:
   - |
     No references

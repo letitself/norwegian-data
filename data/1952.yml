@@ -5,7 +5,19 @@ UD_name: 'VP при NP-Loc'
 illustration: 'Не ругайся при детях!'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается в присутствии [некоторого участника или группы участников]Associated.
 examples:
+  - |
+       Может быть, он не хочет [разговаривать]Action при [матери?]Participant
+  - |
+       Родители с грустью [обсуждали]Action при [сыне Эдике]Participant, что им не удалось накопить денег на Рождество.
+  - |
+       Мне было неудобно [раздеваться]Action при [девушке.]Participant
+  - |
+       Я сильно злился, когда кто-то [рассказывал]Action при [Полине]Participant похабный анекдот.
+  - |
+       Не в моих правилах было [плакать]Action при [чужих.]Participant
 morphology:
   - VP
   - NP
@@ -30,7 +42,15 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - ругаться
+  - разговаривать
+  - плакать
+  - раздеваться
+  - ребенке
+  - детях
+  - свидетелях
+  - людях
+  - чужих
 references:
   - |
     No references

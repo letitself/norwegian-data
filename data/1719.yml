@@ -5,7 +5,19 @@ UD_name: 'NP-Nom лежать в/на NP-Loc'
 illustration: 'Хлеб лежит на полке.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [предмет]Theme находится в горизонтальном положении на поверхности или внутри определенного [объекта]Landmark.
 examples:
+  - |
+       Я помню, [нитки]Theme лежали на [столике.]Landmark
+  - |
+       ― [Носки]Theme лежат в [шкафу]Landmark на [верхней полке.]Landmark
+  - |
+       На [кресле]Landmark лежали его [брюки.]Theme
+  - |
+       [Акварельные краски]Theme лежат в [белой коробке.]Landmark
+  - |
+       Весь этот день [дядя]Participant лежал в [комнате]Landmark и курил.
 morphology:
   - NP
   - Nom
@@ -33,7 +45,10 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - полке
+  - столе
+  - ковре
+  - траве
 references:
   - |
     No references

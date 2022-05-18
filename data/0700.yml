@@ -1,11 +1,23 @@
 ---
 record: 700
-name: 'а хотел бы PronPers знать/посмотреть/послушать, Sconj Cl'
+name: 'а хотел бы PronPers-Nom знать/посмотреть/послушать, Sconj Cl'
 UD_name: 'а хотел бы PronPers знать/посмотреть/послушать, SCONJ Cl'
 illustration: 'А хотел бы я знать, почему дети ещё не в постели!'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает желание [участника]Experiencer понять (примеры 1-3) или стать свидетелем (примеры 4-5) [некоторой ситуации]Situation. Как правило, говорящий скептически относится к ситуации (примеры 4-5) или выражает явное недовольство ею (пример 3).
 examples:
+  - |
+       ― Хотел бы [я]Experiencer знать, [что это была за розовая вспышка]Situation?
+  - |
+       ― Хотел бы [он]Experiencer знать, как [работал этот фокус]Situation.
+  - |
+       ― Черт побери! Хотел бы [я]Experiencer знать, что [происходит]Situation!
+  - |
+       Просто из любопытства хотел бы [я]Experiencer посмотреть, чем и как [ему помог этот институт]Situation.
+  - |
+       Хотел бы [я]Experiencer послушать, как [он Саше звонить будет]Situation.
 morphology:
   - PronPers
   - Sconj
@@ -33,9 +45,11 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [cc А] хотел [aux бы] [nsubj я] [xcomp знать, [ccomp [advmod почему] [nsubj дети] [advmod ещё] [advmod не] [case в] постели]]!]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 1821, 1822.'
 common_fillers:
-  - ~
+  - я
+  - что
+  - как
 references:
   - |
     No references

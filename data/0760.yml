@@ -6,20 +6,20 @@ illustration: 'В знак признания он подарил цветы.'
 cefr_level: B1
 definitions:
   - russian: |
-       Конструкция обозначает, что участник совершает [действие]Action, которое может служить доказательством, внешним проявлением (то есть знáком) его [позиции или отношения к чему-либо]Motivation.
+       Конструкция обозначает, что участник совершает [действие]Action, которое может служить доказательством, внешним проявлением (то есть знáком) его [позиции или отношения к чему-либо]Cause.
   - norwegian: |
-       Konstruksjonen betyr at deltakeren utfører [en handling]Action som kan tjene som bevis eller ytre manifestasjon av (dvs. tegn på) vedkommendes [standpunkt eller holdning til noe]Motivation.
+       Konstruksjonen betyr at deltakeren utfører [en handling]Action som kan tjene som bevis eller ytre manifestasjon av (dvs. tegn på) vedkommendes [standpunkt eller holdning til noe]Cause.
 examples:
   - |
-       [Все за столом дружно зашумели]Action в знак [согласия]Motivation .
+       [Все за столом дружно зашумели]Action в знак [согласия]Cause.
   - |
-       А как быть с малышом, который в знак [протеста]Motivation [забрался на дерево]Action и только по счастливой случайности не свалился?
+       А как быть с малышом, который в знак [протеста]Cause [забрался на дерево]Action и только по счастливой случайности не свалился?
   - |
-       [Шараев склонил голову]Action в знак [благодарности]Motivation и извлёк из портфеля лист бумаги.
+       [Шараев склонил голову]Action в знак [благодарности]Cause и извлёк из портфеля лист бумаги.
   - |
-       В знак [дружбы между Россией и Голландией]Motivation [правительству Нидерландов будет передан в дар памятник Петру I работы скульптора Леонида Баранова]Action.
+       В знак [дружбы между Россией и Голландией]Cause [правительству Нидерландов будет передан в дар памятник Петру I работы скульптора Леонида Баранова]Action.
   - |
-       [Директор в знак [солидарности со словами брата]Motivation стремительно возвращается к своему рабочему столу]Action.
+       [Директор в знак [солидарности со словами брата]Cause стремительно возвращается к своему рабочему столу]Action.
 morphology:
   - VP
   - NP
@@ -35,7 +35,7 @@ part_of_speech_of_anchor:
   - Noun
 semantic_roles:
   - Action
-  - Motivation
+  - Cause
 intonation:
   - Declarative
 usage_label: ~

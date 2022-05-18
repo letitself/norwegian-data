@@ -6,7 +6,7 @@ illustration: 'Средний счет в этом ресторане, без у
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция обозначает, что при подсчёте [количества]Quantity или принятии [решения]Result исключается некоторая [часть или фактор]Element. [Часть]Element, которую говорящий исключает, отличается от других [частей]Element по какому-либо признаку, а [фактор]Element важен, но препятствует принятию [решения]Result.
+       Конструкция обозначает, что при подсчёте [количества]Quantity (примеры 1-3) или принятии [решения]Result (примеры 4, 5) исключается некоторая [часть или фактор]Element. [Часть]Element, которую говорящий исключает, отличается от других [частей]Element по какому-либо признаку, а [фактор]Element важен, но препятствует принятию [решения]Result.
   - norwegian: |
        Konstruksjonen betyr at [en del eller en faktor]Element utelates når [en mengde]Quantity telles opp eller [en beslutning]Result skal tas. [Den delen]Element taleren utelater, har et kjennetegn som skiller den fra de øvrige [delene]Element, og [faktoren]Element er viktig, men til hinder for at [beslutningen]Result kan tas.
 examples:
@@ -15,9 +15,9 @@ examples:
   - |
        В каждой команде по [15 игроков]Quantity без учёта [запасных]Element.
   - |
-       Этот перевод [сделан]Result без учёта [контекста]Element.
-  - |
        Стоимость поездки [500 евро]Quantity без учёта [перелёта]Element.
+  - |
+       Этот перевод [сделан]Result без учёта [контекста]Element.
   - |
        Меню [было составлено]Result без учёта [индивидуальных предпочтений каждого гостя]Element.
 morphology:

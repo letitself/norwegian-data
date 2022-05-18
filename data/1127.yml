@@ -5,7 +5,19 @@ UD_name: 'право, Cl'
 illustration: 'Но мне, право, лучше уйти.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает высокую степень уверенности говорящего в [сообщаемом]ContentOfSpeech. Как правило, говорящий заверяет собеседника в правдивости своих слов. Слово "право" имеет значение 'правда, честное слово'. Оно может находиться в начале, середине или конце предложения.
 examples:
+  - |
+       [Всё-таки Вы забавный]ContentOfSpeech, право!
+  - |
+       Право, [я этого не заслуживаю]ContentOfSpeech.
+  - |
+       Право, [трудно любить ближнего своего]ContentOfSpeech.
+  - |
+       Мне, право же, [некогда]ContentOfSpeech. ― Генерал Гиндин стал вставать.
+  - |
+       ― А испытывали они затруднения при выборе специальности? ― Право, [не знаю]ContentOfSpeech. Кажется, не испытывали.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -27,9 +39,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [cc Но] [iobj мне], [parataxis право], лучше [csubj уйти].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 2301.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

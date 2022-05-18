@@ -1,12 +1,25 @@
 ---
 record: 924
-name: 'глядишь, VP-Fut/VP-Pst бы'
-UD_name: 'глядишь, VP-Fut/VP-Past бы'
+name: '(Cl,) глядишь, VP-Fut/VP-Pst бы'
+UD_name: '(Cl,) глядишь, VP-Fut/VP-Past бы'
 illustration: 'Глядишь, ещё друг другу и понадобимся.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторая ситуация]Situation при [определенном условии]Condition может произойти в будущем (примеры 1-2) или могла бы произойти в прошлом, но не произошла (примеры 3-5). Конструкция передает неуверенность говорящего.
 examples:
+  - |
+       [Найду мужчину хорошего]Condition и, глядишь, [замуж выйду]Situation.
+  - |
+       А потом, глядишь, через год ― [переедем в Москву]Situation.
+  - |
+       [Ей бы к психологу сходить]Condition, глядишь, и [жива осталась бы]Situation.
+  - |
+       [Не пойди он в университет]Condition, глядишь, [не встретил бы жену Настю, не было бы чудесной дочки]Situation…
+  - |
+       [Держал бы рот на замке]Condition ― и, глядишь, [цел бы остался]Situation.
 morphology:
+  - Cl
   - VP
   - Fut
   - Pst
@@ -32,7 +45,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

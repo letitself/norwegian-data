@@ -5,7 +5,19 @@ UD_name: 'Не PronPers-Dat судить Cl'
 illustration: 'Не тебе судить, что я за человек.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что, по мнению говорящего, [участник ситуации]Cognizer (в том числе сам говорящий) не имеет морального права или возможности давать [объективную оценку]Evaluation ситуации.
 examples:
+  - |
+       Не [мне]Cognizer судить, [кто прав, кто виноват]Evaluation.
+  - |
+       Не [мне]Cognizer судить, [кто и как должен себя вести]Evaluation, я не претендую на звание святого.
+  - |
+       Не [мне]Cognizer судить, [какой творческой вершины достиг наш театр]Evaluation.
+  - |
+       [Насколько поэзия Звягинцева воздушна]Evaluation, не [нам]Cognizer судить.
+  - |
+       [Может, я и ошибся, а может, и нет]Evaluation ― не знаю, не [мне]Cognizer судить.
 morphology:
   - PronPers
   - Dat
@@ -20,7 +32,8 @@ part_of_speech_of_anchor:
   - Verb
   - Negation Marker
 semantic_roles:
-  - ~
+  - Cognizer
+  - Evaluation
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -32,7 +45,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

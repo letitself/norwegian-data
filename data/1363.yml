@@ -1,11 +1,23 @@
 ---
 record: 1363
-name: 'VP в бытность PronPoss в/на NP-Loc VP'
+name: 'VP в бытность PronPoss в/на NP-Loc'
 UD_name: 'VP в бытность PronPoss в/на NP-Loc VP'
-illustration: 'В бытность мою на Сахалине при Александровской тюрьме числилось более двух тысяч заключенных.'
+illustration: 'Это произошло еще в бытность мою на Кавказе.'
 cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [ситуация]Situation происходила в [определённом месте]Location, когда там в течение продолжительного времени находился [некоторый участник]Possessor.
 examples:
+  - |
+       Митрополит Нестор рассказывал, что одно время, в бытность [его]Possessor на [Камчатке]Location, [у него был храм]Situation.
+  - |
+       В бытность [мою]Possessor на [Сахалине]Location [при Александровской тюрьме числилось более двух тысяч заключенных]Situation.
+  - |
+       [Он пришел в братство Петровского монастыря]Situation в бытность [его]Possessor в [храме на Большой Дмитровке]Location.
+  - |
+       Сергей Платов заявил, что в бытность [его]Possessor на [скачках]Location, [он познакомился с какой-то женщиной]Situation.
+  - |
+       Я отлично помню момент, когда в бытность [мою]Possessor в [правительстве]Location [ко мне приходили журналисты]Situation.
 morphology:
   - VP
   - PronPoss
@@ -31,12 +43,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [obl [case В] бытность [det мою] [obl [case на] Сахалине]] [obl [case при] [amod Александровской] тюрьме] числилось [nsubj [nummod [advmod более] [nummod двух] тысяч] заключенных].]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 1364.'
 common_fillers:
-  - ~
+  - свою
+  - мою
+  - его
+  - в Москве
+  - на Кавказе
 references:
   - |
-    No references
+    См. также Крапивина К. А., Храковский В. С. «Таксисная конструкция с грамматикализованной лексической единицей в... бытность». 
 semantic_types:
   - type: Phase of action
     subtypes:

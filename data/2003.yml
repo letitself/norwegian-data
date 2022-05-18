@@ -1,11 +1,23 @@
 ---
 record: 2003
-name: 'по-моему/по-твоему/по-нашему/по-вашему, Cl'
-UD_name: 'по-моему/по-твоему/по-нашему/по-вашему, Cl'
-illustration: 'По-моему, мы проехали нужный поворот.'
+name: 'по-моему, Cl'
+UD_name: 'по-моему, Cl'
+illustration: 'По-моему, мы проехали нашу остановку.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation или [информацию]ContentOfSpeech, в которой говорящий не до конца уверен. Конструкция имеет значение 'я считаю, что Cl'.
 examples:
+  - |
+       Я не понимаю людей, которые не любят Новый год, по-моему, [это самый волшебный праздник.]Evaluation
+  - |
+       [Это нормально]Evaluation, по-моему, ― показываться периодически врачу.
+  - |
+       По-моему, [ситуация меняется в лучшую сторону.]Evaluation
+  - |
+       По-моему, [подарок ему понравился.]ContentOfSpeech
+  - |
+       По-моему, [вы бываете на всех важных театральных премьерах.]ContentOfSpeech
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -29,13 +41,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis По-моему], [nsubj мы] проехали [obj [amod нужный] поворот].]'
 comment: |
-    'No comment yet'
+    'См. похожие конструкции 11 и 1137.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
 semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
 family:
   - |
     ""

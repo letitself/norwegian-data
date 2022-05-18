@@ -5,7 +5,19 @@ UD_name: 'по сообщению/утверждению NP-Gen, Cl'
 illustration: 'По сообщению Би-би-си, ситуация стабилизировалась.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [сообщаемая информация]ContentOfSpeech имеет официальный характер и передается с опорой на [официальный источник]Source (организацию, средства массовой информации и проч.).
 examples:
+  - |
+       По сообщению [Всемирного фонда дикой природы]Source, [поголовье морских коньков стремительно сокращается.]ContentOfSpeech
+  - |
+       По сообщению [главы компании SpaceX Элона Маска]Source, [на разработку ракеты «Фалькон» было затрачено 390 миллионов долларов.]ContentOfSpeech
+  - |
+       По сообщению [РИА "Новости"]Source, пятая книга истории Гарри Поттера выйдет в свет не осенью этого года, как обещала автор Дж. Ролинг, а в 2003 году.
+  - |
+       Остановить толпу, устремившуюся в узкий подземный переход, по утверждению [самих участников праздника]Source, [было невозможно.]ContentOfSpeech
+  - |
+       По утверждению [астрономов]Source, [космическая катастрофа приведет к появлению множества новых небесных тел.]ContentOfSpeech
 morphology:
   - NP
   - Gen
@@ -20,7 +32,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Content
+  - ContentOfSpeech
   - Source
 intonation:
   - Declarative
@@ -31,9 +43,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [case По] сообщению [nmod Би-би-си]], [nsubj ситуация] стабилизировалась.]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1994.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

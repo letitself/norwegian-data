@@ -1,13 +1,29 @@
 ---
 record: 1706
-name: 'VP к ногам'
-UD_name: 'VP к ногам'
+name: 'VP к ногам NP-Gen/к PronPoss-Dat ногам'
+UD_name: 'VP под ноги (NP-Gen)/к PronPoss-Dat ногам'
 illustration: 'Он бросился к ногам короля и стал молить о пощаде.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action направлено вниз, в точку рядом с ногами [другого участника]Possessor. Это действие часто сопровождает ситуацию, когда участник просит о чем-то другого участника или выражает свою преданность. Конструкция часто используется при описании взаимодействия с королем или другой важной персоной, обладающей высоким статусом и властью.
 examples:
+  - |
+       Я готов был [броситься]Action к ногам [этой женщины.]Possessor
+  - |
+       Мальчики-пажи преклонили колени и [положили меч]Action к ногам [королевы.]Possessor
+  - |
+       Прискакал в столицу рыцарь, весь обрызганный кровью, и [упал]Action к ногам [короля.]Possessor
+  - |
+       Если рыцаря оскорбляли, он [кидал]Action к ногам [обидчика]Possessor перчатку.
+  - |
+       И снова Эсфирь обратилась к царю: [упав]Action к [его]Possessor ногам, она со слезами умоляла царя не допустить беды.
 morphology:
   - VP
+  - NP
+  - Gen
+  - PronPoss
+  - Dat
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -27,9 +43,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] бросился [obl [case к] ногам [nmod короля]] [conj [cc и] стал] [xcomp молить [obl [case о] пощаде]].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 1704, 676.'
 common_fillers:
-  - ~
+  - упасть
+  - броситься
+  - кинуться
+  - положить
 references:
   - |
     No references

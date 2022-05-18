@@ -5,7 +5,19 @@ UD_name: 'без сомнения, Cl'
 illustration: 'Без сомнения, он лучший среди сотрудников.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий оценивает некоторое [утверждение]ContentOfSpeech как бесспорное, не подлежащее сомнению. Говорящий полностью в нем уверен. Слова "без сомнения" могут находиться в начале, середине или конце предложения.
 examples:
+  - |
+       Следующая серия, без сомнения, [моя любимая]ContentOfSpeech.
+  - |
+       И, без сомнения, [у нас есть победитель]ContentOfSpeech.
+  - |
+       Ладно, ваш ответ принят. Экзамен вы, без сомнения, [сдали]ContentOfSpeech.
+  - |
+       [Ты должна занять моё место]ContentOfSpeech, без сомнения.
+  - |
+       Клиника, без сомнения, [теперь будет закрыта окончательно]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -28,9 +40,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [case Без] сомнения], [nsubj он] лучший [obl [case среди] сотрудников].]'
 comment: |
-    'No comment yet'
+    'См. похожие конструкции 1129 Можно не сомневаться, (что) Cl (Можно не сомневаться, что он разбогател) и 2056 вне всякого сомнения, Cl (Вне всякого сомнения, он невиновен).'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

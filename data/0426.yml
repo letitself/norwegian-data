@@ -1,11 +1,23 @@
 ---
 record: 426
-name: 'Cl, как подобает/положено/надо/принято'
+name: 'VP, как положено/подобает (NP-Dat)/принято'
 UD_name: 'Cl, как подобает/положено/надо/принято'
 illustration: 'Мы собрали посуду со стола, как положено.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action выполняется по всем правилам. У говорящего есть представление об [определенном стандарте]Standard, в соответствии с которым, по его мнению, должно выполняться это действие. В роли стандарта, как правило, выступает эталонный представитель некоторой социальной группы (пример 2) или принятая в обществе модель поведения (примеры 3-5).
 examples:
+  - |
+       Почему ты [не обращаешься с нами]Action, как подобает?
+  - |
+       Она [отвечала медленно]Action, как подобает [настоящей леди]Standard.
+  - |
+       Вечером они встречаются дома и, как положено в хорошей семье, [обсуждают вместе свои дела]Action.
+  - |
+       Максим [ел не вилкой]Action, как положено, а столовой ложкой, чтобы больше влезало.
+  - |
+       О мертвом, как принято, [говорят или хорошо, или ничего]Action.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -31,14 +43,28 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Мы] собрали [obj посуду] [obl [case со] стола], [advcl [mark как] положено].]'
 comment: |
-    'No comment yet'
+    'См. похожую конструкцию 629 VP как надо (Отец готовил яичницу как надо).'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
 semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Matching the norm
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Matching the norm
+  - type: Comparison
+    subtypes:
+      - type: Similarity
   - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
   - type: Root modality
     subtypes:
       - type: Necessity
@@ -46,4 +72,4 @@ semantic_types:
           - type: External
 family:
   - |
-    ""
+    "Matching the norm"

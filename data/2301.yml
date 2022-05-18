@@ -5,7 +5,19 @@ UD_name: 'Cl, честное слово'
 illustration: 'Я не хотела вас обидеть, честное слово!'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает высокую степень уверенности говорящего в [сообщаемом]ContentOfSpeech. Как правило, говорящий заверяет собеседника в правдивости своих слов и в своей честности. Словосочетание "честное слово" может находиться в начале, середине или конце предложения.
 examples:
+  - |
+       Ещё я в этом году был на Тенерифе. Честное слово, [на Алтае лучше]ContentOfSpeech.
+  - |
+       Иногда она бывала со мной как-то по-особому ласкова, а иногда смотрела так, что мне, честное слово, [дурно становилось]ContentOfSpeech.
+  - |
+       C тобой у нас особые отношения. Романтические. [Ты моя муза]ContentOfSpeech, честное слово.
+  - |
+       Честное слово, [я не виноват]ContentOfSpeech!
+  - |
+       [Ветер такой, что сквозь кирпичную стену продувает]ContentOfSpeech, честное слово.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -28,9 +40,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod не] хотела [xcomp [obj вас] обидеть], [parataxis [amod честное] слово]!]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1127.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

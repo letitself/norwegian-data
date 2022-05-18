@@ -6,7 +6,7 @@ illustration: 'Вы, должно быть, этого не знали.'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция выражает предположение говорящего о некоторой [ситуации]Situation,  которое он делает с достаточно большой степенью уверенности.
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с достаточно большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему.
   - english: |
        This construction expresses the speaker's assumption about a [situation]Situation, an assumption the speaker presents with a high degree of confidence.
   - norwegian: |
@@ -45,7 +45,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Вы], [parataxis должно [xcomp быть]], [obj этого] [advmod не] знали.]'
 comment: |
-    'См. близкую конструкцию по значению конструкцию 110.'
+    'No comment yet'
 common_fillers:
   - Not applicable
 references:

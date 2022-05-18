@@ -6,14 +6,14 @@ illustration: 'Я не могу приехать к бабушке с пусты
 cefr_level: C1
 definitions:
   - russian: |
-       Конструкция выражает, что у [участника]Participant в ситуации [похода в гости]Action нет [подарка]Theme, который он должен передать [другому участнику]Addressee или получить от [него]Source в соответствии с правилами этикета. Также конструкция часто описывает ситуацию, когда [участник]Participant [возвращается]Action после некоторой деятельности без [объекта]Theme, который он пытался получить в процессе этой деятельности. Как если бы руки участника были сосудом, в котором ничего нет (пустой сосуд).
+       Конструкция выражает, что у [участника]Participant в ситуации [похода в гости]Action нет [подарка]Theme, который он должен передать [другому участнику]Recipient или получить от [него]Source в соответствии с правилами этикета. Также конструкция часто описывает ситуацию, когда [участник]Participant [возвращается]Action после некоторой деятельности без [объекта]Theme, который он пытался получить в процессе этой деятельности. Как если бы руки участника были сосудом, в котором ничего нет (пустой сосуд).
   - norwegian: |
-       Konstruksjonen uttrykker at [en deltaker]Participant i en situasjon som innebærer [å gå på besøk]Action, ikke har den [gaven]Theme som reglene for skikk og bruk tilsier at vedkommende skal gi til [en annen deltaker]Addressee eller få av [den andre deltakeren]Source. Dessuten beskriver konkstruksjonen ofte en situasjon, der [en deltaker]Participant [vender tilbake]Action etter en aktivitet uten [et objekt]Theme vedkommende har forsøkt å få som ledd i denne aktiviteten. Det er som om deltakerens hender er et kar som det ikke er noe oppi (et tomt kar).
+       Konstruksjonen uttrykker at [en deltaker]Participant i en situasjon som innebærer [å gå på besøk]Action, ikke har den [gaven]Theme som reglene for skikk og bruk tilsier at vedkommende skal gi til [en annen deltaker]Recipient eller få av [den andre deltakeren]Source. Dessuten beskriver konkstruksjonen ofte en situasjon, der [en deltaker]Participant [vender tilbake]Action etter en aktivitet uten [et objekt]Theme vedkommende har forsøkt å få som ledd i denne aktiviteten. Det er som om deltakerens hender er et kar som det ikke er noe oppi (et tomt kar).
 examples:
   - |
-       Всем [гостям]Addressee [она]Source дарила [цветы из своего сада]Theme – никто не [уезжал]Action с пустыми руками.
+       Всем [гостям]Recipient [она]Source дарила [цветы из своего сада]Theme – никто не [уезжал]Action с пустыми руками.
   - |
-       Как это возможно – четыре года не видеть [дочь]Addressee и [приехать]Action с пустыми руками!
+       Как это возможно – четыре года не видеть [дочь]Recipient и [приехать]Action с пустыми руками!
   - |
        [Егору]Participant было очень обидно [возвращаться с охоты домой]Action с пустыми руками.
   - |
@@ -38,7 +38,7 @@ semantic_roles:
   - Theme
   - Action
   - Source
-  - Addressee
+  - Recipient
   - Participant
 intonation:
   - Not applicable

@@ -2,10 +2,18 @@
 record: 1100
 name: 'как бы то ни было, Cl'
 UD_name: 'как бы то ни было, Cl'
-illustration: 'Как бы то ни было, перед выпускниками не стоит задача самим зарабатывать на своё образование.'
+illustration: 'На новой клавиатуре клавиши расположены странно. Как бы то ни было, к этому быстро привыкаешь.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция вводит [итоговое утверждение]Theme, которое по мнению говорящего верно вне зависимости от противоречивых и сложных обстоятельств ситуации. Слова "как бы то ни было" означают 'в любом случае, несмотря ни на что', то есть при любой интерпретации обстоятельств или при любом повороте событий.
+  - norwegian: |
+       Konstruksjonen introduserer [et sluttutsagn]Theme som etter talerens mening er sant, uavhengig av de motstridende og kompliserte omstendighetene i situasjonen. Ordene "как бы то ни было" betyr 'в любом случае, несмотря ни на что', dvs. selv med en hvilken som helst fortolkning av omstendighetene eller et hvilket som helst videre hendelsesforløp.
 examples:
+  - |
+       Было множество препятствий: финансирование, маленький ребенок, негативные отзывы... Как бы то ни было, [но мой концерт состоялся.]Situation
+  - |
+       У меня была уже семья, маленький ребёнок ― всё это требовало внимания. Как бы то ни было, [я начала учиться в консерватории]Situation.
 morphology:
   - Cl
 syntactic_type_of_construction:

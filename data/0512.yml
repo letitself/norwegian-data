@@ -41,6 +41,9 @@ semantic_types:
   - type: Degree of intensity
     subtypes:
       - type: Maximizer
+  - type: Result
+    subtypes:
+      - type: Result
 family:
   - |
     ""

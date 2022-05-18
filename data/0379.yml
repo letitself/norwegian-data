@@ -5,7 +5,19 @@ UD_name: 'чтоб PronPers-Nom VP-Perf.Past!'
 illustration: 'Чтоб он пропал!'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает крайнюю степень раздражения говорящего некоторым событием. Говорящий выражает [негативные пожелания]Result в адрес [собеседника или другого участника]Maleficiary, который стал причиной этого события. Слова говорящего звучат крайне резко, грубо и имеют оттенок угрозы.
 examples:
+  - |
+       ― Чтоб [ты]Maleficiary [подавился своей черникой]Result, на чёрта она была нужна, ― приговаривает она и грозит в сторону сына.
+  - |
+       Чтоб [тебя]Maleficiary [сожрал стафилококк золотистый!]Result
+  - |
+       ― Чтоб [он]Maleficiary [провалился, твой футбол!]Result
+  - |
+       ― Чтоб [ты]Maleficiary [подавился своим кофе]Result, палач.
+  - |
+       Женщина вдруг задрала голову и заорала: ― Чтоб [вы]Maleficiary [лопнули]Result, спускайтесь сейчас же!
 morphology:
   - PronPers
   - Nom
@@ -32,7 +44,11 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - ты
+  - вы
+  - он
+  - она
+  - они
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

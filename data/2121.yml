@@ -5,7 +5,19 @@ UD_name: '(NP-Dat) нужно Cop, чтобы Cl'
 illustration: 'Нужно, чтобы на столе была чистая скатерть.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Participant считает [некоторую ситуацию]Situation необходимой. Когда участник не назван, конструкция интерпретируется как мнение говорящего о том, как правильно поступать (примеры 3-5).
 examples:
+  - |
+       [Нам]Participant нужно, чтобы [нас выслушали]Situation.
+  - |
+       [Маме]Participant нужно было, чтобы [я окончил институт]Situation.
+  - |
+       Нужно, чтобы [педагоги были заинтересованы в работе]Situation.
+  - |
+       Нужно, чтобы [кто-то был в доме]Situation.
+  - |
+       Нужно, чтобы [люди стремились на Север]Situation, а не уезжали оттуда.
 morphology:
   - NP
   - Dat
@@ -31,9 +43,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Нужно, [csubj [mark чтобы] [case на] столе [cop была] [nsubj [amod чистая] скатерть]].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 2116 (NP-Dat) Cop надо/нужно VP-Inf (Мне нужно бежать, извините).'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
@@ -42,7 +54,7 @@ semantic_types:
     subtypes:
       - type: Necessity
         subtypes:
-          - type: External
+          - type: Internal
 family:
   - |
     ""

@@ -5,7 +5,19 @@ UD_name: 'у NP-Gen у NP-Gen Cl'
 illustration: 'У нее у дочки уже родился сын.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что у некоторого [участника]Possessor есть [родственник, друг или знакомый]Experiencer, в жизни которого произошло определенное [событие]Event или имеет место определенная [ситуация.]Situation Этот участник, часто сам говорящий, обычно назван местоимением (например, у меня, у нее, у них и т.д.).
 examples:
+  - |
+       У [него]Possessor у [мамы]Experiencer [недавно украли сумку.]Event
+  - |
+       У [меня]Possessor у [сына]Participant [в садике карантин.]Situation
+  - |
+       У [него]Possessor у [отца]Experiencer [проблемы со здоровьем.]Situation
+  - |
+       У [него]Possessor у [друга]Experiencer [свой бизнес.]Situation
+  - |
+       У [нас]Possessor у [ребенка]Experiencer [температура тридцать девять.]Situation
 morphology:
   - NP
   - Gen
@@ -30,7 +42,11 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - меня
+  - нас
+  - него
+  - нее
+  - тебя
 references:
   - |
     См. также статью Леонтьева А. Л. У Х-а у У-а: Конструкции с рекурсивной группой у + GEN в русском языке // Acta Linguistica, 2007 (1, 1). C. 3-13.

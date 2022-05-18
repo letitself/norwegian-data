@@ -1,13 +1,26 @@
 ---
 record: 1635
-name: 'VP за (NumCrd) NP-Acc'
-UD_name: 'VP за (NumCrd) NP-Acc'
+name: 'VP-Pfv за NumCrd-Acc NP'
+UD_name: 'VP-Perf за NumCrd-Acc NP'
 illustration: 'Он помылся за пять минут.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что выполнение [некоторого действия]Action заняло определённое [количество]Quantity [времени]Measure. Если использовано числительное «один», «одна» или «одно», то и числительное, и [единица времени]Measure стоят в винительном падеже (например, за одну неделю). В остальных случаях числительное стоит в винительном падеже, а [единица времени]Measure в родительном падеже (например, за две недели, за двадцать лет).
 examples:
+  - |
+       За [два]Quantity [дня]Measure учителя [провели 152 урока]Action.
+  - |
+       Расстояние в сорок километров поезд [преодолел]Action за [один]Quantity [час]Measure [семнадцать]Quantity [минут]Measure.
+  - |
+       Один рабочий может [вырыть яму]Action за [два]Quantity [часа]Measure, другой [выроет такую же яму]Action за [шесть]Quantity [часов]Measure.
+  - |
+       За [сутки]Measure молодой бамбук [может вырасти на 86,4 см]Action. На сколько он [вырастет]Action за [секунду]Measure?
+  - |
+       А за [год]Measure стоимость компании на российском рынке [возросла в 2,5 раза]Action.
 morphology:
   - VP
+  - Pfv
   - NumCrd
   - NP
   - Acc
@@ -30,13 +43,24 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] помылся [obl [case за] [nummod:gov пять] минут].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1636. Не путать с конструкцией 446.'
 common_fillers:
-  - ~
+  - выросла
+  - выросло
+  - возросла
+  - один
+  - два
+  - пять
+  - день
+  - час
+  - минут
 references:
   - |
     No references
 semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Time
   - type: Temporal expression
     subtypes:
       - type: Time period

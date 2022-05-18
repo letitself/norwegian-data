@@ -5,7 +5,19 @@ UD_name: 'по преданию/легенде, Cl'
 illustration: 'По легенде, вода в этом озере лечебная.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что источником [некоторой информации]ContentOfSpeech является народное предание, миф, легенда, то есть устный фольклорный рассказ, который передается из поколения в поколение.
 examples:
+  - |
+       По преданию, [апостол Андрей останавливался на острове Валаам.]ContentOfSpeech
+  - |
+       Нина прыгала по ступеням древнего амфитеатра и фотографировалась на фоне камня, возле которого, по преданию, [вышла из пены Афродита.]ContentOfSpeech
+  - |
+       По легенде, [огромный черный орел отнес тело Луиджи в его родной город и положил у входа в кафедральный собор.]ContentOfSpeech
+  - |
+       Теперь на этом месте стоит город Старая Ладога, где, по легенде, [похоронен варяжский князь Олег.]ContentOfSpeech
+  - |
+       [Из ясеня было изготовлено, по легенде, копье бога света ― Одина]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -18,7 +30,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Content
+  - ContentOfSpeech
   - Source
 intonation:
   - Declarative
@@ -29,9 +41,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [case По] легенде], [nsubj вода] [obl [case в] [det этом] озере] лечебная.]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1992.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

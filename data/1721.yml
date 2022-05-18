@@ -5,7 +5,19 @@ UD_name: 'NP-Nom висеть в/на NP-Loc'
 illustration: 'Платье висит в шкафу.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [предмет]Theme находится на поверхности или внутри определенного [объекта]Landmark и прикреплен к нему посредством функциональной опоры (вешалка, крючок, гвоздь).
 examples:
+  - |
+       [Ключ]Theme висел на [гвоздике]Landmark при входе.
+  - |
+       Там по-прежнему висит на [стене]Landmark [ковёр.]Theme
+  - |
+       На [вешалке]Landmark в прихожей висело [женское пальто.]Theme
+  - |
+       Утром, когда я проснулся, первое, что я увидел, ― новая [рубашка]Theme висела на [спинке]Landmark моей кровати.
+  - |
+       [Дверь]Theme не висела на [петлях]Landmark, а приставлялась, но от холода спасала.
 morphology:
   - NP
   - Nom
@@ -33,7 +45,9 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - дверь
+  - картина
+  - стена
 references:
   - |
     No references

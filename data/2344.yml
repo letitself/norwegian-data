@@ -1,14 +1,25 @@
 ---
 record: 2344
-name: 'почём знать, VP-Fut?'
-UD_name: 'почём знать, VP-Fut?'
+name: 'почём знать, Cl'
+UD_name: 'почём знать, Cl'
 illustration: 'Почём знать, может быть, и нам с тобой улыбнётся счастье.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в некотором [утверждении]ContentOfSpeech. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Ситуация оценивается как маловероятная.
 examples:
+  - |
+       Почем знать ― [может быть, все и обойдется]ContentOfSpeech.
+  - |
+       Почем знать, [может уволят, может не уволят]ContentOfSpeech.
+  - |
+       Маша давно из нашего города уехала, на Урал, но, [может, она и там меня лихом поминает]ContentOfSpeech, почем знать.
+  - |
+       Но почем знать ― [а вдруг он действительно увековечит любимый город в своих стихах]ContentOfSpeech!
+  - |
+       Почем знать, [может быть, твой жизненный путь пересекла настоящая, самоотверженная, истинная любовь]ContentOfSpeech.
 morphology:
-  - VP
-  - Fut
+  - Cl
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
 syntactic_function_of_anchor:
@@ -21,7 +32,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - ~
 intonation:
-  - Interrogative
+  - Declarative
 usage_label: Colloquial
 dependency_structure:
   - '[root [parataxis [advmod почём] знать]'
@@ -29,9 +40,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [advmod Почём] знать], [parataxis может [xcomp быть]], [iobj [advmod и] нам [nmod [case с] тобой]] улыбнётся [nsubj счастье].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 2284.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

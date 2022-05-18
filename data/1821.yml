@@ -1,14 +1,26 @@
 ---
 record: 1821
-name: 'хотеть-Pst бы NP-Nom VP-Inf'
-UD_name: 'хотеть-Past бы NP-Nom VP-Inf'
+name: 'хотеть-Pst бы PronPers-Nom VP-Inf'
+UD_name: 'хотеть-Past бы PronPers-Nom VP-Inf'
 illustration: 'Хотела бы я уйти с этой работы.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Experiencer (как правило, говорящий) имеет большое желание выполнить [некоторое действие]Action. Как правило, его желание является неосуществимым по объективным причинам, но иногда отсылает к действию, которое может осуществиться в будущем (пример 4-5).
 examples:
+  - |
+       Хотел бы [я]Experiencer [иметь такого сына]Action.
+  - |
+       Хотел бы [я]Experiencer [оказаться в Монако сегодня, посмотреть и поучаствовать в этом фестивале]Action!
+  - |
+       Хотел бы [я]Experiencer [быть на их месте]Action.
+  - |
+       Хотела бы [я]Experiencer [пообщаться с этой Нелли]Action.
+  - |
+       Не хотел бы [он]Experiencer [остаться с этим типом в тёмном узком месте, один на один]Action…
 morphology:
   - Pst
-  - NP
+  - PronPers
   - Nom
   - VP
   - Inf
@@ -29,13 +41,16 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - '[root хотеть-Pst [aux бы] [nsubj NP-Nom] [xcomp VP-Inf]]'
+  - '[root хотеть-Pst [aux бы] [nsubj PronPers-Nom] [xcomp VP-Inf]]'
 dependency_structure_of_illustration:
   - '[root Хотела [aux бы] [nsubj я] [xcomp уйти [obl [case с] [det этой] работы]].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 700, 1822.'
 common_fillers:
-  - ~
+  - я
+  - быть
+  - иметь
+  - забыть
 references:
   - |
     No references

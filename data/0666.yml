@@ -5,7 +5,19 @@ UD_name: 'небось, Cl'
 illustration: 'Устаешь после работы, небось?'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему.  Слово "небось" может находиться в начале, середине или конце предложения.
 examples:
+  - |
+       [Сидят сейчас, небось, денежки мои делят]ContentOfSpeech.
+  - |
+       [Все вкусные конфеты уже, небось, разобрали]ContentOfSpeech.
+  - |
+       [Вы, небось, постоянно с таким сталкиваетесь]ContentOfSpeech.
+  - |
+       Небось [опять после работы будешь им что-нибудь чинить]ContentOfSpeech?
+  - |
+       [Твоя девушка, небось, от тебя без ума]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -29,7 +41,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

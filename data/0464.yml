@@ -5,7 +5,19 @@ UD_name: 'VP NP-Acc за NP-Ins'
 illustration: 'Он курит сигарету за сигаретой.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает [действие]Action, которое распределяется на порции. Порции действия обозначаются через [объекты]Theme, которые последовательно сменяют друг друга. Конструкция подчёркивает длительность и интенсивность действия.
 examples:
+  - |
+       Шура будет ходить из угла в угол и вздыхать, а я [читать]Action [книгу]Theme за [книгой]Theme, до головной боли.
+  - |
+       Очень жарко, хочется [пить]Action [стакан]Theme за [стаканом]Theme.
+  - |
+       Варенья у нас много, бабушка [шлет]Action из деревни [банку]Theme за [банкой]Theme.
+  - |
+       [Шаг]Theme за [шагом]Theme можно [добиться успеха]Action.
+  - |
+       Красивым почерком он [писал]Action [строку]Theme за [строкой]Theme.
 morphology:
   - VP
   - NP
@@ -29,9 +41,13 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] курит [obj сигарету [nmod [case за] сигаретой]].]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 962.'
 common_fillers:
-  - ~
+  - стакан
+  - рюмка
+  - шаг
+  - строка
+  - книга
 references:
   - |
     No references
@@ -39,6 +55,9 @@ semantic_types:
   - type: Actionality
     subtypes:
       - type: Distributive
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
   - type: Phase of action
     subtypes:
       - type: Continuative

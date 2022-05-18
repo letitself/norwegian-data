@@ -1,11 +1,23 @@
 ---
 record: 2081
-name: 'к (PronPoss/Adj) сожалению, Cl'
-UD_name: 'к (PronPoss/Adj) сожалению, Cl'
+name: 'к (PronPoss) (Adj) сожалению, Cl'
+UD_name: 'к (PronPoss) (Adj) сожалению, Cl'
 illustration: 'К сожалению, мы не можем вам помочь.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает сожаление [говорящего]Speaker по поводу некоторой неблагоприятной [ситуации.]Cause Для большей экспрессивности, конструкция часто указывает [степень]Parameter сожаления. Конструкция часто используется в ситуации извинения (пример 4).
 examples:
+  - |
+       К [крайнему]Parameter [моему]Speaker сожалению, [существует целых два закона, на основании которых это совершенно невозможно.]Cause
+  - |
+       К сожалению, [эти опыты были последними]Cause, так как мой запас энергии закончился, а глаза устали.
+  - |
+       Не торопясь, доктор встал, поправил очки и покачал головой, как бы говоря: «К сожалению, [здесь медицина бессильна».]Cause
+  - |
+       ― К сожалению, [я не тот, кого вы ищете.]Cause
+  - |
+       К [большому]Parameter сожалению, [нам пришлось срубить некоторые старые деревья]Cause, тем не менее основной массив леса удалось сохранить.
 morphology:
   - PronPoss
   - Adj
@@ -33,7 +45,11 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - моему
+  - большому
+  - крайнему
+  - глубочайшему
+  - глубокому
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
@@ -46,6 +62,9 @@ semantic_types:
   - type: Polarity value
     subtypes:
       - type: Negative
+  - type: Routine
+    subtypes:
+      - type: Apology
 family:
   - |
     "Remorse"

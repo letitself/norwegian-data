@@ -5,7 +5,19 @@ UD_name: 'NP-Acc (за NP-Acc) убить Cop мало!'
 illustration: 'За такое поведение его убить мало.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает негативную реакцию говорящего на [действия]Cause [собеседника или другого участника]Maleficiary. Слова говорящего звучат крайне резко, грубо и имеют оттенок угрозы. При этом иногда конструкция может употребляться с иронией, в юмористическом дружелюбном ключе (пример 5).
 examples:
+  - |
+       Он говорил, что [их]Maleficiary убить мало, потому что они строят не дом, а нагромождение ульев.
+  - |
+       ― Опозорил ты меня. Да за [такое]Cause [тебя]Maleficiary убить мало! ― погрозил Ефим, вылезая из-за стола.
+  - |
+       Как я мог выскочить тогда ночью из машины из-за такого пустяка? И бросить Вас одну! Убить [меня]Maleficiary мало! Одно хорошо, что это больше никогда не повторится!
+  - |
+       Скажу честно, Тони Скотт никогда не являлся моим любимым режиссером. 'Настоящая любовь' мне никогда особо не нравилась, а за ['Домино']Cause [Тони Скотта]Maleficiary убить было мало. И после этого провала я не думал, что он снимет что-то настолько захватывающее и что-то настолько интересное, как 'Дежа вю'.
+  - |
+       ― Любимов, [тебя]Maleficiary убить мало! ― высказалась Ирина.
 morphology:
   - NP
   - Acc
@@ -33,7 +45,11 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - тебя
+  - его
+  - меня
+  - такое
+  - это
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

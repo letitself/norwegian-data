@@ -1,13 +1,24 @@
 ---
 record: 2132
-name: 'ясное дело Cop, Cl'
-UD_name: 'ясное дело Cop, Cl'
+name: 'ясное дело, Cl'
+UD_name: 'ясное дело, Cl'
 illustration: 'А он, ясное дело, не приедет.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий оценивает некоторое [утверждение]ContentOfSpeech как понятное и очевидное, не подлежащее сомнению. Конструкция также выражает согласие при ответе на вопрос собеседника (пример 5). Слова "ясное дело" имеют значение 'конечно, безусловно'. Они могут находиться в начале, середине или конце предложения. Конструкция может звучать грубо по отношению к малознакомым людям.
 examples:
+  - |
+       Вместе с мамиными планами сорвались и планы Кирилла. Ясное дело, [Кирилл не обрадовался]ContentOfSpeech.
+  - |
+       Ясное дело, [очный приём намного лучше заочного]ContentOfSpeech.
+  - |
+       Ясное дело, [у богатых свои привычки]ContentOfSpeech.
+  - |
+       [Квартиру-то я на себя оформлю]ContentOfSpeech… ясное дело.
+  - |
+       ― Меня возьмешь? ― Ясное дело, [вместе пойдем]ContentOfSpeech.
 morphology:
-  - Cop
   - Cl
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
@@ -24,14 +35,14 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [parataxis [amod ясное] дело [cop Cop]]'
+  - '[root [parataxis [amod ясное] дело]'
   - 'Cl]'
 dependency_structure_of_illustration:
   - '[root [cc А] [nsubj он], [parataxis [amod ясное] дело], [advmod не] приедет.]'
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

@@ -6,20 +6,20 @@ illustration: 'Без ведома жены он отнес деньги в ка
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция обозначает, что [участник ситуации]Participant совершает некоторое [действие]Action, о котором [другой участник]Beneficiary не знает. Совершаемое [действие]Action касается [второго участника]Beneficiary, но он, скорее всего, не одобрил бы это [действие]Action, если бы знал о нём. Часто этот участник находится выше в иерархии (семейной, рабочей или социальной), чем первый.
+       Конструкция обозначает, что [участник ситуации]Participant совершает некоторое [действие]Action, о котором [другой участник]Cognizer не знает. Совершаемое [действие]Action касается [второго участника]Cognizer, но он, скорее всего, не одобрил бы это [действие]Action, если бы знал о нём. Часто этот участник находится выше в иерархии (семейной, рабочей или социальной), чем первый.
   - norwegian: |
-       Konstruksjonen betyr at [en deltaker i situasjonen]Participant utfører en gitt [handling]Action, som [en annen deltaker]Beneficiary ikke vet om. [Handlingen]Action som blir utført, angår [den andre deltakeren]Beneficiary, som etter alt å dømme ikke ville ha bifalt [handlingen]Action, dersom vedkommende hadde visst om den. Ofte har denne deltakeren høyere status (i familien, yrkeslivet eller samfunnet) enn førstnevnte.
+       Konstruksjonen betyr at [en deltaker i situasjonen]Participant utfører en gitt [handling]Action, som [en annen deltaker]Cognizer ikke vet om. [Handlingen]Action som blir utført, angår [den andre deltakeren]Cognizer, som etter alt å dømme ikke ville ha bifalt [handlingen]Action, dersom vedkommende hadde visst om den. Ofte har denne deltakeren høyere status (i familien, yrkeslivet eller samfunnet) enn førstnevnte.
 examples:
   - |
-       [Он]Participant [опубликовал книгу]Action без ведома [автора]Beneficiary.
+       [Он]Participant [опубликовал книгу]Action без ведома [автора]Cognizer.
   - |
-       [Никто]Participant не мог это [сделать]Action без ведома [президента]Beneficiary
+       [Никто]Participant не мог это [сделать]Action без ведома [президента]Cognizer
   - |
-       [Он]Participant не мог [уйти с работы]Action без ведома [начальника]Beneficiary.
+       [Он]Participant не мог [уйти с работы]Action без ведома [начальника]Cognizer.
   - |
-       [Я]Participant не могу [принимать это лекарство]Action без ведома [врача]Beneficiary.
+       [Я]Participant не могу [принимать это лекарство]Action без ведома [врача]Cognizer.
   - |
-       Это была интересная деталь: чужую вещь [дикари]Participant [дарили]Action без ведома [хозяина]Beneficiary.
+       Это была интересная деталь: чужую вещь [дикари]Participant [дарили]Action без ведома [хозяина]Cognizer.
 morphology:
   - VP
   - NP

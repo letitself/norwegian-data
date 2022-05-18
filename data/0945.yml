@@ -1,54 +1,61 @@
 ---
 record: 945
-name: '(Да) NP-Nom, никак, VP'
-UD_name: '(Да) NP-Nom, никак, VP'
-illustration: 'Да ты, никак, меня обманываешь?'
-cefr_level: C1
+name: 'Да здравствует NP-Nom!'
+UD_name: 'Да здравствует NP-Nom!'
+illustration: 'Да здравствует дружба!'
+cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает одобрение говорящим некоторой [уже наступившей ситуации]Situation и пожелание о ее дальнейшем развитии (примеры 1-2). Конструкция также может обозначать прославление некоторого [предмета]Theme, в том числе абстрактного, например, некоторой области научного знания (примеры 3-4), или [участника], обычно обладающего властью (пример 5).
 examples:
+  - |
+       Да здравствует [эволюция]Situation!
+  - |
+       Да здравствует [1 мая, день солидарности трудящихся всего мира]Situation!
+  - |
+       Да здравствует [фонарик]Theme, да здравствует [электричество]Theme, кто бы его ни придумал.
+  - |
+       Да здравствует [химия]Theme! В середине XIX в. из нефти получают керосин, и начинают своё шествие керосиновые лампы.
+  - |
+       Мария знала: где бы император ни появлялся, его встречают ликующие толпы с возгласами: "Да здравствует [Наполеон Великий]Participant!"
 morphology:
   - NP
   - Nom
-  - VP
 syntactic_type_of_construction:
-  - Clause or XP with parentheticals
+  - Clause
 syntactic_function_of_anchor:
-  - Parenthetical
+  - Discourse Particle
+  - Verb predicate
 syntactic_structure_of_anchor:
-  - Negation
+  - Not Applicable
 part_of_speech_of_anchor:
   - Particle
-  - Pronoun
-  - Negation Marker
+  - Verb
 semantic_roles:
   - ~
 intonation:
-  - Declarative
-usage_label: Obsolete
+  - Exclamatory
+usage_label: Formal
 dependency_structure:
-  - '[root [cc да] [nsubj NP-Nom], [parataxis никак], VP]'
-  - '[root [nsubj NP-Nom], [parataxis никак], VP]'
+  - '[root [cc да] здравствует [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
-  - '[root [cc Да] [nsubj ты], [parataxis никак], [obj меня] обманываешь?]'
+  - '[root [cc Да] здравствует [nsubj свет]!]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 1306.'
 common_fillers:
-  - ~
+  - революция
+  - король
 references:
   - |
-    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+    No references
 semantic_types:
-  - type: Attitude
-    subtypes:
-      - type: Mental attitude
-        subtypes:
-          - type: Perplexity
-  - type: Epistemic modality (Degree of certainty)
-    subtypes:
-      - type: High degree of certainty
   - type: Polarity value
     subtypes:
-      - type: Negative
+      - type: Positive
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+  - type: Volition
 family:
   - |
-    "Perplexity"
+    ""

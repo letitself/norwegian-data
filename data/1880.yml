@@ -5,7 +5,23 @@ UD_name: 'хочу/хотел бы (также) добавить, что Cl'
 illustration: 'Хочу также добавить, что ни один пассажир не пострадал.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere.
 examples:
+  - |
+       Хочу добавить, что [педагогика - это ещё и искусство.]ContentOfSpeech
+  - |
+       Хочу также добавить, что [мой первый друг и советчик во всем, – это моя мама.]ContentOfSpeech
+  - |
+       Тем не менее, хотел бы добавить, что, [по моему мнению, отель больше нацелен на путешественников из Восточной Европы.]ContentOfSpeech
+  - |
+       Хотел бы также добавить, что [это далеко не всегда так.]ContentOfSpeech Многие считают работу переводчика важной, серьезной и очень тяжелой.
+  - |
+       От себя хочу добавить, [что лучшее мороженое ела в Тель-Авиве.]ContentOfSpeech
 morphology:
   - Cl
 syntactic_type_of_construction:

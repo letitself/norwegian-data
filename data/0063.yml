@@ -6,7 +6,7 @@ illustration: 'Вот бы мама испекла вкусный пирог!'
 cefr_level: B2
 definitions:
   - russian: |
-       Конструкция выражает пожелание говорящего о том, чтобы в будущем произошло некоторое [событие]Event или реализовалась некоторая [ситуация.]Situation Пожелание может относиться и к реально возможным событиям, и к неосуществимым.
+       Конструкция выражает пожелание говорящего о том, чтобы в будущем произошло некоторое [действие]Action или реализовалась некоторая [ситуация.]Situation Пожелание может относиться и к реально возможным событиям, и к неосуществимым.
   - english: |
        This construction expresses the speaker’s wish that an [event]Event should take place in the future or that a [situation]Situation should be achieved. The wish can refer to real possibilities or to impossible events.
   - norwegian: |
@@ -16,6 +16,8 @@ examples:
        Вот бы [еще и качество общественного транспорта повысилось.]Situation
   - |
        Я засыпаю и думаю, вот бы [приснилось]Action, как мы все вместе приехали в деревню.
+  - |
+       Ей хотелось разом перечеркнуть несколько лет своей жизни, все напрочь забыть ― и ни капельки не жалко! Вот бы [такую таблетку изобрели…]Action
   - |
        Вот бы [и моему младшему брату так же повезло, как мне.]Situation
   - |
@@ -42,7 +44,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [advmod Вот] [aux бы] [nsubj мама] испекла [obj [amod вкусный] пирог]!]'
 comment: |
-    'См. близкую конструкцию 879.'
+    'См. близкие конструкции 879, 881, 1003.'
 common_fillers:
   - Not applicable
 references:

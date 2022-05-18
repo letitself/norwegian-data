@@ -5,7 +5,19 @@ UD_name: 'по слухам, Cl'
 illustration: 'По слухам, здесь обитают дикие звери.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий передает [расхожую информацию]ContentOfSpeech, которую он слышал от других людей и в достоверности которой он не уверен. Таким образом говорящий снимает с себя ответственность за достоверность приводимой информации.
 examples:
+  - |
+       Вообще мне Бубнову немножко жалко: по слухам, [жизнь у нее непростая.]ContentOfSpeech
+  - |
+       Этим своим талантом он гордился и, по слухам, [активно пользовался]ContentOfSpeech ― я говорю «по слухам», потому что никто, даже старший брат, не мог сказать точно, чем сейчас он занимается.
+  - |
+       Макс же вовсе пропал ― по слухам, [он переехал в Швецию.]ContentOfSpeech
+  - |
+       Кидман с мужем, по слухам, [заплатили агентству около 150 тысяч долларов.]ContentOfSpeech
+  - |
+       По слухам, [призер чемпионата получил за участие большую сумму денег.]ContentOfSpeech
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -18,7 +30,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Content
+  - ContentOfSpeech
   - Source
 intonation:
   - Declarative
@@ -29,13 +41,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [parataxis [case По] слухам], [advmod здесь] обитают [nsubj [amod дикие] звери].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 346, 347, 1992.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
 semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
   - type: Source of information
 family:
   - |

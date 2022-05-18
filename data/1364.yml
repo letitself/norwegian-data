@@ -1,11 +1,23 @@
 ---
 record: 1364
-name: 'VP в бытность (PronPers) NP-Ins VP'
-UD_name: 'VP в бытность (PronPers) NP-Ins VP'
+name: 'VP в бытность (PronPers) NP-Ins'
+UD_name: 'VP в бытность (PronPers) NP-Ins'
 illustration: 'В бытность его мэром Москвы произошло много перемен.'
 cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [ситуация]Situation происходила в то период времени, когда [некоторый участник]Possessor обладал [определённым статусом]Status.
 examples:
+  - |
+       В бытность [мою]Possessor [министром иностранных дел]Status [мы договорились с американцами по поводу технического сотрудничества]Situation.
+  - |
+       Граф Воронцов, в бытность [его]Possessor [владельцем села]Status, [построил каменные торговые ряды]Situation.
+  - |
+       Лучше бы [он бегал за мной]Situation в бытность [его]Possessor [моим мужем]Status.
+  - |
+       Из своей жизни Патриарх рассказывал и следующий эпизод, [имевший место]Situation в бытность [его]Possessor [епископом]Status.
+  - |
+       На семейном бюджете безработный статус Лены практически не сказывается ― в бытность [её]Possessor [офис-менеджером]Status [зарплаты хватало фактически только на минимальные расходы]Situation.
 morphology:
   - VP
   - PronPers
@@ -31,12 +43,15 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [obl [case В] бытность [det его] [nmod мэром [nmod Москвы]]] произошло [nsubj [nummod:gov много] перемен].]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 1363.'
 common_fillers:
-  - ~
+  - его
+  - министром
+  - премьером
+  - начальником
 references:
   - |
-    No references
+    См. также Крапивина К. А., Храковский В. С. «Таксисная конструкция с грамматикализованной лексической единицей в... бытность». 
 semantic_types:
   - type: Phase of action
     subtypes:

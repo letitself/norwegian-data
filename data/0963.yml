@@ -1,13 +1,26 @@
 ---
 record: 963
-name: 'VP день и ночь'
-UD_name: 'VP день и ночь'
+name: 'VP-Ipfv день и ночь'
+UD_name: 'VP-Imp день и ночь'
 illustration: 'День и ночь мы готовились к экзамену.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Activity непрерывно продолжается на протяжении долгого времени. Как если бы участник совершал действие в том числе и ночью, не прерываясь на сон.
 examples:
+  - |
+       Бабушка плохо спит из-за того, что под окнами день и ночь [ходят поезда]Activity.
+  - |
+       Они [работали]Activity день и ночь, чтобы наконец вырваться из нищеты.
+  - |
+       Она писала, что день и ночь [будет молиться за меня]Activity.
+  - |
+       В больнице день и ночь [открыты]Activity окна.
+  - |
+       Тонкими ветвями я б к нему прижалась и с его листами день и ночь [шепталась]Activity.
 morphology:
   - VP
+  - Ipfv
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -29,7 +42,8 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - работал
+  - трудился
 references:
   - |
     No references

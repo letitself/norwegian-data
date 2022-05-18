@@ -5,7 +5,19 @@ UD_name: 'наверное, Cl'
 illustration: 'Наверное, он сегодня уже не придёт.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Слово "наверное" может находиться в начале, середине или конце предложения.
 examples:
+  - |
+       Он не отвечал. Наверное, [просто был занят]ContentOfSpeech.
+  - |
+       Как вам удалось сдать экзамен с первого раза? Ну вы, наверное, [очень сильная студентка]ContentOfSpeech!
+  - |
+       Мне наверное [стоит поискать квартиру подешевле]ContentOfSpeech. После оплаты этой едва хватает денег на еду.
+  - |
+       И наверное, [свадьбу придется отложить]ContentOfSpeech.
+  - |
+       Я, наверное, [пью слишком много кофе]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -29,7 +41,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

@@ -6,8 +6,18 @@ illustration: 'Он оказался за решёткой.'
 cefr_level: B2
 definitions:
   - russian: |
-       примеры подобраны Катя Волошина
+       Конструкция обозначает, что участник [находится]Action или соверршает некоторое [действие]Action в тюрьме.
 examples:
+  - |
+       Аполлинера допросили, [продержали]Action несколько дней за решеткой.
+  - |
+       Им предстоит [провести]Action шесть лет за решеткой.
+  - |
+       Не боишься [оказаться]Action снова за решеткой?
+  - |
+       Он в молодости сидел в тюрьме и многое [пережил]Action за решёткой.
+  - |
+       После свидания Наде хотелось видеться только с такими же обречёнными, как и она, и говорить только о тех, кто [сидит]Action за решёткой.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -20,7 +30,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Not applicable
 usage_label: Colloquial
@@ -31,7 +41,11 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - оказаться
+  - провести
+  - сидеть
+  - держать
+  - сгнить
 references:
   - |
     No references

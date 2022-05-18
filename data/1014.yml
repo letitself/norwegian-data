@@ -1,7 +1,7 @@
 ---
 record: 1014
-name: 'Если NP-Nom сказал XP – значит, Cl/~XP'
-UD_name: 'Если NP-Nom сказал XP – значит, Cl/XP'
+name: 'Если NP-Nom сказать-Pst XP – значит, Cl/~XP'
+UD_name: 'Если NP-Nom сказать-Past XP – значит, Cl/XP'
 illustration: 'Если Петя сказал красивая, – значит, красивая.'
 cefr_level: B1
 definitions:
@@ -23,6 +23,7 @@ examples:
 morphology:
   - NP
   - Nom
+  - Pst
   - XP
   - Cl
 syntactic_type_of_construction:

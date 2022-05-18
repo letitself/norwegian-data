@@ -5,7 +5,19 @@ UD_name: 'на первый взгляд, Cl'
 illustration: 'На первый взгляд, это не искусство.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает первоначальную, часто поверхностную и субъективную [оценку]Evaluation объекта или участника, которая не вполне соответствует действительности и впоследствии может измениться. Часто говорящий следом приводит более адекватную оценку, которая опровергает названную (примеры 4-5).
 examples:
+  - |
+       Но для этого мы должны сделать то, что на первый взгляд [может показаться совершенно невозможным]Evaluation.
+  - |
+       Вознесенский явно сочувствовал Володе. На первый взгляд, ― [без всякого повода]Evaluation.
+  - |
+       На первый взгляд [выбор тем для фильмов может показаться случайным и бессистемным]Evaluation.
+  - |
+       В детский обед входит газированная вода, картошка и, конечно же, курица. На первый взгляд, [немного]Evaluation, но для ребёнка вполне достаточно.
+  - |
+       На первый взгляд, [в идее фильма нет ничего особенного: любовный роман между начальницей и подчиненным]Evaluation. Однако в нем присутствует какое-то обаяние, из-за чего его хочется пересматривать снова и снова.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -31,14 +43,17 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
 semantic_types:
-  - type: Epistemic modality (Degree of certainty)
+  - type: Comparison
     subtypes:
-      - type: Low degree of certainty
+      - type: Contrast
+  - type: Discourse structure
+    subtypes:
+      - type: Equivocate
 family:
   - |
     ""

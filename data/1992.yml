@@ -5,7 +5,19 @@ UD_name: 'говорят, что Cl'
 illustration: 'Говорят, что там видели даже инопланетян.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий передает [расхожую информацию]ContentOfSpeech, которую он слышал от других людей и в достоверности которой он не уверен. Таким образом говорящий снимает с себя ответственность за достоверность приводимой информации.
 examples:
+  - |
+       ― Говорят, что [мы ― закрытая организация.]ContentOfSpeech Это неверно.
+  - |
+       ― Говорят, что [человек только один раз в своей жизни может по-настоящему любить.]ContentOfSpeech
+  - |
+       ― Говорят, что [полезно для здоровья ходить босиком.]ContentOfSpeech
+  - |
+       ― Говорят, что [ты научил играть в покер свою жену?]ContentOfSpeech
+  - |
+       Друзья снова встретились. ― Говорят, что [ты наконец женился?]ContentOfSpeech ― Я уже развелся!
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -18,7 +30,7 @@ part_of_speech_of_anchor:
   - Verb
   - Conjunction
 semantic_roles:
-  - Content
+  - ContentOfSpeech
   - Source
 intonation:
   - Declarative
@@ -29,9 +41,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Говорят, [ccomp [mark что] [advmod там] видели [obj [advmod даже] инопланетян]].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 346, 347, 1996.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

@@ -1,11 +1,23 @@
 ---
 record: 1132
-name: 'можно сказать, Cl'
-UD_name: 'можно сказать, Cl'
+name: 'можно сказать, XP/Cl'
+UD_name: 'можно сказать, XP/Cl'
 illustration: 'Он вырос, можно сказать, на моих глазах.'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция вводит [некоторую формулировку]ContentOfSpeech, которая представляется говорящему допустимой, адекватной при описании некоторой ситуации. Конструкция снижает категоричность высказывания. Конструкция обычно находится в середине или конце предложения.
 examples:
+  - |
+       [Она рисковала жизнью]ContentOfSpeech, можно сказать.
+  - |
+       Наш стадион для России, можно сказать, [уникальный]ContentOfSpeech: он построен по английскому стандарту ― без беговых дорожек.
+  - |
+       И в России, и во Франции до 20-х годов кинематографа, можно сказать, [не было]ContentOfSpeech ― движущиеся картинки на экране, не более.
+  - |
+       Моя первая любовь случилась довольно рано, можно сказать, [ещё на школьной скамье]ContentOfSpeech.
+  - |
+       Удивительно, но у морских коньков потомство вынашивает самец. Он, можно сказать, [становится беременным]ContentOfSpeech.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -30,14 +42,14 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references
 semantic_types:
-  - type: Epistemic modality (Degree of certainty)
+  - type: Degree of accuracy
     subtypes:
-      - type: High degree of certainty
+      - type: Approximate
 family:
   - |
     ""

@@ -1,14 +1,25 @@
 ---
 record: 1306
-name: 'Да VP-Prs/VP-Fut NP-Nom!'
-UD_name: 'Да VP-Pres/VP-Fut NP-Nom!'
+name: 'Да VP-Fut NP-Nom!'
+UD_name: 'Да VP-Fut NP-Nom!'
 illustration: 'Да будет свет!'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает пожелание говорящего по поводу наступления некоторой благоприятной ситуации в будущем. Эта ситуация, как правило, связана с [определенным состоянием]State [объекта или участника]Participant (примеры 1-2) или с [действием]Action [участника]Agent, обычно направленным на говорящего (примеры 3-5). Конструкция имеет книжный характер, нередко употребляется в библейских контекстах или содержит упоминание Бога (пример 5).
 examples:
+  - |
+       Да [продлятся]State [ваши годы]Participant до ста лет и больше!
+  - |
+       По щелчку выключателя фильм мгновенно переходит из чёрно-белого в цветной. «Да [будет]State [цвет]Participant!» ― сказал бог кино.
+  - |
+       Да [поможет]Action нам [география]Participant!
+  - |
+       И видели бы вы, каким белым, каким, да [простят меня]Action [физики]Agent, абсолютно белым было это молоко!
+  - |
+       Да [избавит нас]Action [Господь]Agent от болезни!
 morphology:
   - VP
-  - Prs
   - Fut
   - NP
   - Nom
@@ -26,14 +37,16 @@ intonation:
   - Exclamatory
 usage_label: Formal
 dependency_structure:
-  - '[root [cc да] VP-Prs [nsubj NP-Nom]!]'
   - '[root [cc да] VP-Fut [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
   - '[root [cc Да] будет [nsubj свет]!]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкцией 945.'
 common_fillers:
-  - ~
+  - будет
+  - простит
+  - простят
+  - свет
 references:
   - |
     No references

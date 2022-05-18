@@ -5,7 +5,19 @@ UD_name: 'по выражению/по замечанию NP-Gen, Cl'
 illustration: 'Встреча, по выражению Игоря Сергеевича, была превосходная.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий ссылается на другого [участника]Source как на источник [сообщения]ContentOfSpeech. Участником может быть человек или средства массовой информации. Сообщение как правило приводится дословно, в виде цитаты.
 examples:
+  - |
+       Тут в последнее время разгорелась, по выражению [газеты «Нью-Йорк таймс»]Source, [настоящая «война планет».]ContentOfSpeech
+  - |
+       По выражению [моей мамы]Source, [я такой курносый, что через дырочки моего носа можно увидеть, о чём я думаю.]ContentOfSpeech
+  - |
+       По выражению [Скулачева]Source, [в природе действует «самурайский закон биологии»: «Лучше умереть, чем ошибиться».]ContentOfSpeech
+  - |
+       По замечанию Миллера, [Блюментрост «был человеком обаятельным».]ContentOfSpeech
+  - |
+       По замечанию Василия Осиповича Ключевского, [«Пётр I был гостем у себя дома».]ContentOfSpeech
 morphology:
   - NP
   - Gen
@@ -20,7 +32,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - Content
+  - ContentOfSpeech
   - Source
 intonation:
   - Declarative
@@ -31,9 +43,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Встреча], [parataxis [case по] выражению [nmod Игоря [flat:name Сергеевича]]], [cop была] превосходная.]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1993.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

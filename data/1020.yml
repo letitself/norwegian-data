@@ -5,7 +5,19 @@ UD_name: 'естественным образом VP'
 illustration: 'Протестующие естественным образом потребовали и других перемен.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значения. В прямом значении, конструкция обозначает, что [некоторое действие]Action происходит в соответствии с законами природы, естественных наук (биологии, физики и др., примеры 1-2). В переносном значении, законы природы переносятся на социальную жизнь: говорящий оценивает некоторое действие как закономерное и ожидаемое, поскольку оно развивается по предсказуемым социальным законам, не отклоняясь от нормы (примеры 3-5).
 examples:
+  - |
+       Под воздействием зимних холодов вода этого озера естественным образом [превращается в лед]Action.
+  - |
+       Грибок и плесень не выносят сухости. Я советую высушить книгу под прессом и под утюгом, чтобы [убить грибок]Action естественным образом.
+  - |
+       С давних пор естественным образом некоторые фонетические особенности речи [переходили из одного говора в другой]Action.
+  - |
+       Он считал, что систематическое развитие науки естественным образом [приведёт к переворотам]Action.
+  - |
+       Будучи гражданином США, он естественным образом [исследует эту проблему с точки зрения ценностей либеральной демократии]Action.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -29,7 +41,7 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).

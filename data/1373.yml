@@ -5,7 +5,19 @@ UD_name: 'VP на людях'
 illustration: 'Мама никогда не даёт мне советов на людях.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается в присутствии других людей (обычно незнакомых), в общественном месте.
 examples:
+  - |
+       На людях они [говорили между собой по-французски.]Action
+  - |
+       Англичане поддерживают протокольное правило, по которому королева [появляется]Action на людях только в перчатках.
+  - |
+       Как сейчас помню ― я играла тогда сонатину Клементи. Я тогда очень стеснялась [играть]Action на людях, меня охватывал при этом какой-то страх.
+  - |
+       Есть люди, которые и на людях, и у себя дома, и наедине с самим собой ― всегда [ведут себя]Action одинаково, всегда одинаково спокойны.
+  - |
+       Бабка никогда не [выказывает своих истинных чувств]Action на людях.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -18,7 +30,7 @@ part_of_speech_of_anchor:
   - Preposition
   - Noun
 semantic_roles:
-  - ~
+  - Action
 intonation:
   - Not applicable
 usage_label: Colloquial
@@ -27,9 +39,13 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Мама] [advmod никогда] [advmod не] даёт [iobj мне] [obj советов] [obl [case на] людях].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1952.'
 common_fillers:
-  - ~
+  - встречаться
+  - держаться
+  - стесняться
+  - показывать
+  - критиковать
 references:
   - |
     No references

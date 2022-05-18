@@ -1,15 +1,26 @@
 ---
 record: 2321
-name: 'Кто бы говорил о NP-Loc, (но только не NP-Nom)'
-UD_name: 'Кто бы говорил о NP-Loc, (но только не NP-Nom)'
+name: 'Кто бы говорил о NP-Loc!'
+UD_name: 'Кто бы говорил о NP-Loc!'
 illustration: 'Кто бы говорил о правильном питании!'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации говорит о [некоторой теме]Topic, претендуя на объективность или авторитетность. Говорящий считает, что участник ситуации не должен делать этого, потому что его слова противоречат его действиям или качествам. Как правило, конструкция выражает насмешку или раздражение.
 examples:
+  - |
+       Уж кто бы говорил о [репутации]Topic.
+  - |
+       Интеллигент Илья довольно быстро напился и понес чушь: что хочет удочерить Нинку, чтобы воспитать ее и спасти от ужаса разврата и пьянства. Кто бы говорил о [пьянстве]Topic!
+  - |
+       Кто бы говорил о [здоровье]Topic! Старая сушеная змея!
+  - |
+       Кто бы говорил о [чести]Topic?
+  - |
+       Кто бы говорил о [профессионализме и компетентности в управлении страной]Topic!
 morphology:
   - NP
   - Loc
-  - Nom
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
@@ -25,9 +36,8 @@ part_of_speech_of_anchor:
   - Particle
   - Verb
   - Preposition
-  - Negation Marker
 semantic_roles:
-  - ~
+  - Topic
 intonation:
   - Exclamatory
 usage_label: Colloquial
@@ -37,9 +47,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Кто] [aux бы] говорил [obl [case о] [amod правильном] питании]!]'
 comment: |
-    'No comment yet'
+    'Частотными заполнителями являются существительные, обозначающие абстрактные понятия или качества (репутация, совесть, профессионализм, честь и др.).'
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

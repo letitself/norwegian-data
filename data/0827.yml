@@ -1,15 +1,27 @@
 ---
 record: 827
-name: 'в течение NP-Gen Cl'
-UD_name: 'в течение NP-Gen Cl'
+name: 'VP в течение NP-Gen'
+UD_name: 'VP в течение NP-Gen'
 illustration: 'В течение семестра он не сходил ни на одну лекцию.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action длилось [определённое количество времени]Measure. Это количество может быть измерено при помощи стандартных единиц времени (примеры 1-2) или [некоторой продолжительной ситуации]Situation (примеры 3-5).
 examples:
+  - |
+       После этого поставь крем на маленький огонь и [повари]Action в течение [3 минут]Measure.
+  - |
+       В течение [сезона]Measure растения 3-4 раза [подкармливают жидким «зеленым» удобрением на основе травы с добавлением минеральных удобрений]Action.
+  - |
+       В течение [зимних каникул]Situation дети обычно [посещали]Action несколько мероприятий.
+  - |
+       Картина всякий раз [вызывает слезы]Action, и не один раз в течение [фильма]Situation.
+  - |
+       В течение всего [разговора]Situation Иван [никаких антисоветских высказываний не допускал]Action.
 morphology:
+  - VP
   - NP
   - Gen
-  - Cl
 syntactic_type_of_construction:
   - Clause and Modifier Construction
 syntactic_function_of_anchor:
@@ -28,13 +40,19 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [obl [case В] течение [nmod семестра]] [nsubj он] [advmod не] сходил [obl [advmod ни] [case на] [nummod одну] лекцию].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 911, 1359, 1365.'
 common_fillers:
-  - ~
+  - дня
+  - месяца
+  - года
+  - сезона
 references:
   - |
     No references
 semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
   - type: Temporal expression
     subtypes:
       - type: Time period
