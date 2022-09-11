@@ -115,13 +115,23 @@ def write_record(row, record):
                 if row[tag] != "Unspecified":
                     f.write(f"    subtypes:\n")
                     for chunk in row[tag].split(", "):
-                        if ":" in chunk:
-                            first, second = chunk.split(":")
-                            f.write(f"      - type: {first.strip()}\n")
-                            f.write(f"        subtypes:\n")
-                            f.write(f"          - type: {second.strip()}\n")
-                        else:
-                            f.write(f"      - type: {chunk.strip()}\n")
+                        match chunk.count(":"):
+                            case 2:
+                                first, second, third = chunk.split(":")
+                                f.write(f"      - type: {first.strip()}\n")
+                                f.write(f"        subtypes:\n")
+                                f.write(f"          - type: {second.strip()}\n")
+                                f.write(f"            subtypes:\n")
+                                f.write(f"              - type: {third.strip()}\n")
+                            case 1:
+                                first, second = chunk.split(":")
+                                f.write(f"      - type: {first.strip()}\n")
+                                f.write(f"        subtypes:\n")
+                                f.write(f"          - type: {second.strip()}\n")
+                            case 0:
+                                f.write(f"      - type: {chunk.strip()}\n")
+                            case other:
+                                sys.exit("Error: extend code to deal with 3 colons")
         f.write("family:\n")
         f.write("  - |\n")
         f.write('    "' + row["Family"] + '"\n')
