@@ -1,6 +1,6 @@
 ---
 record: 1614
-name: 'в тот NP-Acc, как/когда VP'
+name: 'Cl в тот NP-Acc, как/когда Cl'
 UD_name: 'в тот NP-Acc, как/когда VP'
 illustration: 'Все ахнули в тот момент, когда она заговорила.'
 cefr_level: B1
@@ -11,7 +11,7 @@ examples:
 morphology:
   - NP
   - Acc
-  - VP
+  - Cl
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:

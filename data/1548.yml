@@ -1,7 +1,7 @@
 ---
 record: 1548
-name: 'NP радиусом/диаметром (в) NumCrd-Acc NP'
-UD_name: 'NP радиусом/диаметром (в) NumCrd-Acc NP'
+name: 'NP радиусом/диаметром (в) NumCrd NP'
+UD_name: 'NP радиусом/диаметром (в) NumCrd NP'
 illustration: 'Взрыв радиусом в десятки метров'
 cefr_level: B2
 definitions:
@@ -23,7 +23,6 @@ examples:
 morphology:
   - NP
   - NumCrd
-  - Acc
   - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction

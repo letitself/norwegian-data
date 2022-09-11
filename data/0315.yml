@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что, по мнению говорящего, [некоторый участник или сам говорящий]Agent не будет выполнять [определенное действие]Action. Говорящий полностью в этом уверен. Как правило, это действие оценивается как недостойное участника или противоречащее его интересам.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker eller taleren selv]Agent, etter talerens mening, ikke vil komme til å utføre [en bestemt handling]Action. Som regel vurderes handlingen å være under deltakerens verdighet eller i strid med deltakerens interesser.
 examples:
   - |
        Стану [я]Agent [размениваться на такие мелочи, как репортаж]Action!
@@ -53,6 +55,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Convincing the addressee
   - type: Reaction to the previous discourse
     subtypes:
       - type: Disagreement

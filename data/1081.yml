@@ -1,15 +1,26 @@
 ---
 record: 1081
-name: '(целый-Ins.Pl) NP-Ins.Pl VP'
-UD_name: '(целый-Ins.Plur) NP-Ins.Plur VP'
+name: '(целый-Ins.Pl) часами/годами/веками VP'
+UD_name: '(целый-Ins.Plur) часами/годами/веками VP'
 illustration: 'Он часами смотрел на звёзды.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое продолжительное действие]Action выполняется регулярно на протяжении [одинаковых последовательных промежутков времени]Measure. Это время может обозначаться словами "часами", "неделями", "месяцами", "веками" и др.
 examples:
+  - |
+       Мы с Петровым [разговаривали]Action целыми [ночами]Measure и не могли наговориться.
+  - |
+       Ветры из Сибири приносят такие глубокие снега, что дети из горных деревень [неделями]Measure [не могут ходить в школу]Action.
+  - |
+       В столовых и кафе студенты часто [сидят]Action [часами]Measure, болтая или занимаясь.
+  - |
+       Целыми [днями и ночами]Measure [лил]Action дождь.
+  - |
+       Жители местной деревни [веками]Measure [добывали морских коньков]Action.
 morphology:
   - Ins
   - Pl
-  - NP
   - VP
 syntactic_type_of_construction:
   - Head and Modifier Construction
@@ -19,6 +30,7 @@ syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:
   - Adjective
+  - Noun
 semantic_roles:
   - ~
 intonation:
@@ -30,9 +42,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl часами] смотрел [obl [case на] звёзды].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 962, 963, 1640.'
 common_fillers:
-  - ~
+  - сидел
+  - лежали
+  - могли
+  - говорил
 references:
   - |
     No references

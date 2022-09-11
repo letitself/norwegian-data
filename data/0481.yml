@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый участник]Participant обладает возможностью совершить [некоторое действие]Action. Эта возможность, как правило, обусловлена внешними по отношению к участнику обстоятельствами, то есть для выполнения действия существуют подходящие условия. Участник, выполняющий действие, часто не называется.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Participant har muligheten til å utføre [en gitt handling]Action. Denne muligheten er som regel betinget av omstendigheter utenfor deltakeren selv. Forholdene ligger altså til rette for at handlingen kan utføres.  Deltakeren som utfører handlingen, blir ofte ikke nevnt.
 examples:
   - |
        Маленькую бутылку можно [взять с собой в дорогу или на прогулку]Action.
@@ -53,6 +55,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Possibility
+        subtypes:
+          - type: Possibility per se
 family:
   - |
     ""

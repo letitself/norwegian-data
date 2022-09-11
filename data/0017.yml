@@ -67,6 +67,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: The right time
   - type: Temporal expression
     subtypes:
       - type: Proper time

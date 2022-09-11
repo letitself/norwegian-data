@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое действие]Action неизменно повторяется на протяжении [нескольких одинаковых последовательных промежутков времени]Measure. Слот NP-Acc обозначает более поздний этап развития действия, а слот NP-Gen — более ранний.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action gjentar seg uendret i [flere like, påfølgende tidsintervaller]Measure. Sloten NP-Acc betegner en senere etappe i handlingens utvikling, mens sloten NP-Gen betegner en tidligere.
 examples:
   - |
        Из [года]Measure в [год]Measure место для лагеря [выбиралось]Action на самом берегу.

@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации. Говорящий предполагает, что наступило наиболее подходящее время для выполнения этого действия.
+  - norwegian: |
+       Konstruksjonen betyr at taleren oppfordrer en annen [deltaker eller seg selv]Causee til å utføre en gitt [handling]Action som taleren mener er på sin plass og påkrevd i en bestemt situasjon. Taleren antar at det mest gunstige tidspunktet for å utføre handlingen, er kommet.
 examples:
   - |
        Я смотрел-смотрел… А потом сказал: «А не пора ли [нам всем]Causee [уйти]Action?» И всех увел.
@@ -64,6 +66,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: The right time
 family:
   - |
     ""

@@ -5,7 +5,19 @@ UD_name: 'весь NP-Acc VP'
 illustration: 'Ребёнок всю дорогу спал.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action длится [определённое количество времени]Measure от начала до конца этого временного промежутка. Это количество может быть измерено при помощи стандартных единиц времени (примеры 1-2) или [некоторой продолжительной ситуации]Situation (примеры 3-5).
 examples:
+  - |
+       Девочка весь [день]Measure [плачет]Action.
+  - |
+       Всю [ночь]Measure хозяйка гостиницы [бегала по берегу, пытаясь поймать лягушек]Action.
+  - |
+       Я всю [жизнь]Measure [защищал Родину]Action.
+  - |
+       Дети не могут весь [урок]Measure [сидеть и делать одно и тоже]Action.
+  - |
+       Всю [дорогу]Measure Ирина [смотрела в окно]Action.
 morphology:
   - NP
   - Acc
@@ -28,9 +40,13 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Ребёнок] [obl [det всю] дорогу] спал.]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 1350, 1352, 1365.'
 common_fillers:
-  - ~
+  - ночь
+  - день
+  - жизнь
+  - дорога
+  - урок
 references:
   - |
     No references

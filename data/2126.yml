@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что, по мнению говорящего, [участнику]Participant необходимо совершить [некоторое действие]Action. Это действие является разумным и полезным в данной ситуации и будет иметь положительные последствия для участника. Конструкция является рекомендацией или советом, говорящий не настаивает на выполнении действия. Участник в конструкции часто не называется.
+  - norwegian: |
+       Konstruksjonen betyr at det etter talerens mening er nødvendig at [en gitt deltaker]Participant utfører [en gitt handling]Action. Handlingen er fornuftig og nyttig i den aktuelle situasjonen og vil få positive følger for deltakeren. Konstruksjonen er en anbefaling eller et råd, og taleren insisterer ikke på at handlingen må bli utført. Deltakeren i konstruksjonen er ofte ikke nevnt.
 examples:
   - |
        Имеет смысл [провести дальнейшее исследование]Action.
@@ -57,6 +59,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation as recommendation
 family:
   - |
     ""

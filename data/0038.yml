@@ -1,7 +1,7 @@
 ---
 record: 38
-name: 'NP-Nom бросить VP-Inf'
-UD_name: 'NP-Nom бросить VP-Inf'
+name: 'NP-Nom бросить VP-Ipfv.Inf'
+UD_name: 'NP-Nom бросить VP-Imp.Inf'
 illustration: 'Я бросил курить.'
 cefr_level: B1
 definitions:
@@ -26,6 +26,7 @@ morphology:
   - NP
   - Nom
   - VP
+  - Ipfv
   - Inf
 syntactic_type_of_construction:
   - Matrix and Infinitival Complement Construction

@@ -2,7 +2,7 @@
 record: 2086
 name: 'пол-NumOrd-Gen/половина NumOrd-Gen (утра/вечера/ночи)'
 UD_name: 'пол-NumOrd-Gen/половина NumOrd-Gen (утра/вечера/ночи)'
-illustration: 'Мы вернулись домой пол-восьмого.'
+illustration: 'Мы вернулись домой полвосьмого.'
 cefr_level: B1
 definitions:
 examples:
@@ -32,7 +32,7 @@ dependency_structure:
   - '[dep половина [nmod NumOrd-Gen] [nmod вечера]]'
   - '[dep половина [nmod NumOrd-Gen] [nmod ночи]]'
 dependency_structure_of_illustration:
-  - '[root [nsubj Мы] вернулись [advmod домой] [obl пол-восьмого].]'
+  - '[root [nsubj Мы] вернулись [advmod домой] [obl полвосьмого].]'
 comment: |
     'No comment yet'
 common_fillers:

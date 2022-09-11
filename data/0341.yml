@@ -58,6 +58,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Convincing the addressee
   - type: Reaction to the previous discourse
     subtypes:
       - type: Accentuation

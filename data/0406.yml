@@ -2,10 +2,22 @@
 record: 406
 name: 'Cl до тех пор, пока (не) Cl'
 UD_name: 'Cl до тех пор, пока (не) Cl'
-illustration: 'Жди до тех пор, пока я вернусь.'
+illustration: 'Жди до тех пор, пока я не вернусь.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation протекает до момента, в который произойдёт [определённое действие]Action (примеры 1-3 с отрицанием "не"). Конструкция также может обозначать, что некоторая ситуация протекает параллельно с другой, фоновой, [ситуацией]BackgroundSituation и закончится одновременно с ней (примеры 4-5 без отрицания "не").
 examples:
+  - |
+       Родители часто требуют, чтобы [ребёнок не вставал из-за стола]Situation до тех пор, пока [не приготовит все уроки]Action.
+  - |
+       [Тесто месить]Situation до тех пор, пока оно [не станет блестящим]Action.
+  - |
+       [Проблемы будут актуальными]Situation до тех пор, пока [не будут найдены решения]Action.
+  - |
+       [Драму снимают]Situation до тех пор, пока [ее готовы смотреть зрители]BackgroundSituation.
+  - |
+       До тех пор, пока океан [населен множеством живых существ]BackgroundSituation, [он остается прозрачным]Situation.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -31,9 +43,9 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Жди [obl [case до] [det тех] пор, [acl [mark пока] [nsubj я] вернусь]].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 407. Не путать с конструкцией 1344.'
 common_fillers:
-  - ~
+  - NA
 references:
   - |
     No references

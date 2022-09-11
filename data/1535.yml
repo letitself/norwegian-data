@@ -43,6 +43,7 @@ semantic_types:
   - type: Temporal expression
     subtypes:
       - type: Temporal boundary
+      - type: Clock
 family:
   - |
     ""

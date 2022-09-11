@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий побуждает собеседника выполнить [некоторое действие]Action. Как правило, это действие является обязанностью собеседника, и от него ожидается выполнение именно этого действия, а не какого-либо другого. Обычно оно противопоставляется запланированным действиям или обязанностям говорящего. Говорящий снимает с себя ответственность за выполнение названного действия. Конструкция может звучать грубо по отношению к незнакомым людям.
+  - norwegian: |
+       Konstruksjonen betyr at taleren oppfordrer samtalepartneren til å utføre [en gitt handling]Action. Som regel er handlingen en forpliktelse samtalepartneren har, og det forventes at samtalepartneren utfører akkurat denne handlingen og ikke en annen. Vanligvis settes den opp mot talerens planlagte handlinger eller forpliktelser. Taleren fraskriver seg ansvaret for å utføre nevnte handling. Konstruksjonen kan klinge grovt overfor personer en kjenner dårlig.
 examples:
   - |
        Моё дело – ответить, ваше дело – [принимать решение]Action.
@@ -52,6 +54,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation in contrast
   - type: Temporary characteristics
     subtypes:
       - type: Circumstances

@@ -7,6 +7,8 @@ cefr_level: A1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторый участник]Agent обладает способностью к выполнению [определенного действия]Action.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Agent har evnen til å utføre [en bestemt handling]Action.
 examples:
   - |
        [Ребенок]Agent умеет [читать]Activity.
@@ -55,6 +57,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Possibility
+        subtypes:
+          - type: Ability
 family:
   - |
     ""

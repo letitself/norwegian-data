@@ -1,13 +1,13 @@
 ---
 record: 1629
-name: 'XP, после чего XP'
-UD_name: 'XP, после чего XP'
+name: 'Cl, после чего Cl'
+UD_name: 'Cl, после чего Cl'
 illustration: 'Нужно довести до кипения, после чего добавить овощи.'
 cefr_level: B2
 definitions:
 examples:
 morphology:
-  - XP
+  - Cl
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -23,8 +23,8 @@ intonation:
   - Not applicable
 usage_label: Formal
 dependency_structure:
-  - '[dep XP'
-  - '[conj [obl [case после] чего] XP]]'
+  - '[dep Cl'
+  - '[conj [obl [case после] чего] Cl]]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj довести] [obl [case до] кипения], [conj [obl [case после] чего] добавить [obj овощи]].]'
 comment: |

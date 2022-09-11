@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторому участнику]Participant требуется выполнить [некоторое действие]Action, это входит в его обязанности. Как правило, эти обязанности закреплены юридически (например, прописаны в договоре).
+  - norwegian: |
+       Konstruksjonen betyr at det kreves at [en deltaker]Participant utfører [en gitt handling]Action og at dette inngår i deltakerens forpliktelser. Som regel er forpliktelsene juridisk forankret (for eksempel nedfelt i en avtale).
 examples:
   - |
        [Муж]Participant обязуется [содержать супругу]Action.
@@ -57,6 +59,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation per se
 family:
   - |
     ""

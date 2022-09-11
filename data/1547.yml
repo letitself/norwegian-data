@@ -1,7 +1,7 @@
 ---
 record: 1547
-name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP'
-UD_name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP'
+name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd NP'
+UD_name: 'NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd NP'
 illustration: 'Велодорожка длиной шесть километров.'
 cefr_level: B2
 definitions:
@@ -23,7 +23,6 @@ examples:
 morphology:
   - NP
   - NumCrd
-  - Acc
   - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction

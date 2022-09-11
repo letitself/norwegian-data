@@ -40,6 +40,9 @@ semantic_types:
   - type: Taxis
     subtypes:
       - type: Subsequent action
+  - type: Threat
+    subtypes:
+      - type: Threat
 family:
   - |
     ""

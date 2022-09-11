@@ -66,6 +66,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Pledge
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement

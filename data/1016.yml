@@ -65,6 +65,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Permission
+        subtypes:
+          - type: Giving permission
 family:
   - |
     "Support"

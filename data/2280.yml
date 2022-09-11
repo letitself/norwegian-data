@@ -5,6 +5,10 @@ UD_name: 'Cl, нет?'
 illustration: 'Вы уже закончили работу, нет?'
 cefr_level: A1
 definitions:
+  - russian: |
+       Конструкция выражает вопрос говорящего к собеседнику. Говорящий приводит [некоторую информацию]ContentOfSpeech и спрашивает, соответствует ли она действительности. В отличие от конструкции 2282 Cl, да?, конструкция Cl, нет? обычно задает вопрос не об оценке, а о факте, о событии.
+  - norwegian: |
+       Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren kommer med [en informasjon]ContentOfSpeech og spør om den stemmer med virkeligheten. Til forskjell fra konstruksjon 2282 CL, да? stiller konstruksjonen Cl, нет? vanligvis ikke et spørsmål om en vurdering, men om et faktum, en hendelse.
 examples:
 morphology:
   - Cl

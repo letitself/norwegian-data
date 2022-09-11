@@ -1,13 +1,26 @@
 ---
 record: 1341
-name: 'вовек не VP'
-UD_name: 'вовек не VP'
+name: 'вовек не VP-Pfv'
+UD_name: 'вовек не VP-Perf'
 illustration: 'Вовек их слава не умрёт.'
 cefr_level: C2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action не будет выполняться (примеры 1, 2) или его результат никогда не будет достигнут (примеры 3, 4). В редких случаях конструкция может относиться к прошлому (пример 5).
 examples:
+  - |
+       Да я себе этого вовек не [прощу]Action!
+  - |
+       Но я вовек не [забуду]Action, как она танцевала на нашей с тобой свадьбе.
+  - |
+       Тебе таких денег вовек не [заработать]Action!
+  - |
+       Он вовек не [придумал бы лучшего имени]Action.
+  - |
+       Клянусь, вовек не [видел такой нежности]Action.
 morphology:
   - VP
+  - Pfv
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -27,9 +40,13 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [advmod Вовек] [nsubj [det их] слава] [advmod не] умрёт.]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1343.'
 common_fillers:
-  - ~
+  - забуду
+  - прощу
+  - покину
+  - победить
+  - отмыться
 references:
   - |
     No references

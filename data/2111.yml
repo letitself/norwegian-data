@@ -58,6 +58,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Permission
+        subtypes:
+          - type: Asking for permission
 family:
   - |
     "A family of constructions asking for permission to carry out an action."

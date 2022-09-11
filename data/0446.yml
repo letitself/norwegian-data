@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает [некоторый объект]Theme из однородного класса объектов, которые создаются или предоставляются с определённой частотой. Объект сохраняет актуальность на протяжении [некоторого периода времени]Measure, после которого актуальным становится другой объект из того же класса.
+  - norwegian: |
+       Konstruksjonen betegner [et objekt]Theme fra en ensartet kategori objekter som dannes eller stilles til rådighet med jevne mellomrom. Objektet bevarer sin aktualitet i [en gitt tidsperiode]Measure, hvorpå et annet objekt av samme klasse blir aktuelt.
 examples:
   - |
        [Стипендию]Theme за [сентябрь]Measure должны выдать в следующем месяце.

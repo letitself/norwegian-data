@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action можно выполнять без каких-либо ограничений. Как если бы деятельность участника можно было поместить в контейнер и заполнить его до краев, насколько в него умещается. Конструкция может звучать грубо по отношению к малознакомым людям.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action kan utføres uten noen slags begrensninger. Det er som om det deltakeren gjør, kan puttes i en beholder og fylle den til randen, så lenge det er plass. Konstruksjonen kan klinge grovt overfor personer en kjenner dårlig.
 examples:
   - |
        Я плачу один раз в месяц фиксированную сумму и могу [разговаривать]Action сколько влезет.
@@ -61,6 +63,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Permission
+        subtypes:
+          - type: Giving blanket permission
 family:
   - |
     ""

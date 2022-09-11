@@ -1,13 +1,26 @@
 ---
 record: 1356
-name: 'VP от зари до зари'
-UD_name: 'VP от зари до зари'
+name: 'VP-Ipfv от зари до зари'
+UD_name: 'VP-Imp от зари до зари'
 illustration: 'Она будет работать от зари до зари.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Activity выполняется на протяжении целого дня и, как правило, регулярно повторяется. Как если бы участник начинал заниматься этой деятельностью на рассвете и заканчивал на закате.
 examples:
+  - |
+       Вся семья [работала]Activity от зари до зари, но денег не хватало.
+  - |
+       Владельцы приусадебных участков не водку пьют, а [трудятся в своих теплицах]Activity от зари до зари!
+  - |
+       Воробьи [кричат]Activity от зари до зари.
+  - |
+       На сонных с виду улочках от зари до зари [слышится]Activity стук ткацких станков.
+  - |
+       Степан все это время [вкалывал]Activity от зари до зари.
 morphology:
   - VP
+  - Ipfv
 syntactic_type_of_construction:
   - Head and Modifier Construction
 syntactic_function_of_anchor:
@@ -28,9 +41,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Она] [aux будет] работать [obl [case от] зари [nmod [case до] зари]].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 1355, 1357.'
 common_fillers:
-  - ~
+  - работали
+  - вкалывать
+  - петь
+  - трудиться
 references:
   - |
     No references

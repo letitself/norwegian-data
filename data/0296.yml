@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий оценивает некоторое [утверждение]ContentOfSpeech как понятное и очевидное, не подлежащее сомнению. Конструкция также выражает согласие при ответе на вопрос собеседника (пример 5). Слова "само собой (разумеется)" имеют значение 'конечно, безусловно'. Они могут находиться в начале, середине или конце предложения.
+  - norwegian: |
+       Konstruksjonen betyr at taleren vurderer en gitt [påstand]ContentOfSpeech som forståelig, opplagt og uomtvistelig. Konstruksjonen uttrykker også enighet når samtalepartnerens spørsmål besvares (eksempel 5). Ordene "само собой (разумеется)" har betydningen 'selvfølgelig, ubetinget'. De kan stå i begynnelsen, midten eller slutten av setningen.
 examples:
   - |
        Само собой, [это связано с постоянными затратами на лечение пациентов]ContentOfSpeech.
@@ -50,6 +52,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Competely obvious and clear
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement

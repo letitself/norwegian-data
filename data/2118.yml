@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторому участнику]Participant требуется выполнить [некоторое действие]Action. Совершение действия обычно мотивируется правилами, законами (примеры 1-3), этическими нормами или чувством долга (примеры 4-5).
+  - norwegian: |
+       Konstruksjonen betyr at det kreves at [en gitt deltaker]Participant utfører [en gitt handling]Action. Utførelsen av handlingen er vanligvis motivert med regler, lover (eksempel 1-3), etiske normer eller pliktfølelse (eksempel 4 og 5).
 examples:
   - |
        [Водители]Participant обязаны [пропускать пешеходов]Action.
@@ -63,6 +65,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation per se
 family:
   - |
     ""

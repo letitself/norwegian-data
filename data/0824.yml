@@ -3,9 +3,21 @@ record: 824
 name: 'VP в срок'
 UD_name: 'VP в срок'
 illustration: 'Петя сделал работу в срок.'
-cefr_level: A2
+cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action выполняется вовремя, то есть до заранее определённого момента времени.
 examples:
+  - |
+       Мороженое всё-таки [доставили]Action в срок.
+  - |
+       Долгов по зарплате перед игроками нет, все [выплачивается]Action в срок.
+  - |
+       Все деньги [выделяются в необходимом объёме]Action и в срок.
+  - |
+       Девочек из детского дома Александра [забрала]Action в срок.
+  - |
+       Если он не [заплатит]Action в срок, то ему будет назначен штраф.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -27,9 +39,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] сделал [obj работу] [obl [case в] срок].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1631.'
 common_fillers:
-  - ~
+  - успеют
+  - выполняются
+  - уложится
+  - доставить
 references:
   - |
     No references

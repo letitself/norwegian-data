@@ -79,6 +79,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation in contrast
 family:
   - |
     "Discontent"

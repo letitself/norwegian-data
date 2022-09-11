@@ -6,20 +6,20 @@ illustration: 'Маша пришла вместо сестры.'
 cefr_level: A1
 definitions:
   - russian: |
-       Конструкция обозначает, что некоторый [участник]Agent  осуществляет [действие]Action, которое, согласно ожиданиям, должен осуществлять [другой участник]Counteragent.
+       Конструкция обозначает, что некоторый [участник]Agent  осуществляет [действие]Action, которое, согласно ожиданиям, должен осуществлять [другой участник]Deputy.
   - norwegian: |
        Konstruksjonen betyr at en gitt [deltaker]Agent utfører [en handling]Action som det er forventet at [en annen deltaker]Counteragent skal utføre.
 examples:
   - |
-       На трон вместо [королевы]Counteragent [прыгнул]Action [обаятельный лягушонок]Agent.
+       На трон вместо [королевы]Deputy [прыгнул]Action [обаятельный лягушонок]Agent.
   - |
-       ― Почему вы не отвечаете? ― не отставал Матвей. Вместо [Глинки]Counteragent [ответил]Action [Юра]Agent.
+       ― Почему вы не отвечаете? ― не отставал Матвей. Вместо [Глинки]Deputy [ответил]Action [Юра]Agent.
   - |
-       Девочка капризничала и требовала, чтобы вместо [бабушки]Counteragent её [баюкал]Action [Димка]Agent.
+       Девочка капризничала и требовала, чтобы вместо [бабушки]Deputy её [баюкал]Action [Димка]Agent.
   - |
-       Но [подготовить диссертацию]Action вместо [Дмитриева]Counteragent [Лена]Agent, к сожалению, не могла.
+       Но [подготовить диссертацию]Action вместо [Дмитриева]Deputy [Лена]Agent, к сожалению, не могла.
   - |
-       Вместо [романов]Counteragent [меня провожают ко сну]Action [мемуары, дневники, письма, стенографические отчёты]Agent.
+       Вместо [романов]Deputy [меня провожают ко сну]Action [мемуары, дневники, письма, стенографические отчёты]Agent.
 morphology:
   - VP
   - NP
@@ -35,7 +35,7 @@ part_of_speech_of_anchor:
 semantic_roles:
   - Action
   - Agent
-  - Counteragent
+  - Deputy
 intonation:
   - Not applicable
 usage_label: ~

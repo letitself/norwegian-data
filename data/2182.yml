@@ -57,6 +57,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Confidence in someone's competence
   - type: Non-Standard Subject
     subtypes:
       - type: Non-standard subject marking

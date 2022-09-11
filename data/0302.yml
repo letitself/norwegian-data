@@ -7,6 +7,8 @@ cefr_level: C1
 definitions:
   - russian: |
        Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему. Конструкция часто используется с иронией и скепсисом (примеры 1, 4).
+  - norwegian: |
+       Konstruksjonen uttrykker [talerens formodning vedrørende en gitt situasjon]ContentOfSpeech, fremført av taleren med stor grad av overbevisning. Situasjonen vurderes som sannsynlig eller svært sannsynlig. Formodningen er basert på fakta som taleren har kjennskap til. Konstruksjonen brukes ofte med ironi og skepsis (eksempel 1 og 4).
 examples:
   - |
        Сдается мне, [этот наш разговор не последний]ContentOfSpeech.
@@ -51,6 +53,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Inference
 family:
   - |
     ""

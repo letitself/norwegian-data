@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что некоторая проблематичная ситуация имеет несколько способов разрешения. Говорящий предлагает собеседнику [один из этих способов]Action, однако не настаивает на нем. Сочетание "как вариант" может находиться в начале, середине и конце предложения.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt problemsituasjon kan løses på flere måter. Taleren foreslår for samtalepartneren [en av måtene å løse den på]Action, men uten å insistere på den. Sammensetningen "как вариант" kan stå i begynnelsen, i midten eller på slutten av setningen.
 examples:
   - |
        Как вариант, можно [предложить зафиксировать существующий уровень финансирования]Action.
@@ -59,6 +61,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Possibility
+        subtypes:
+          - type: Possibility per se
 family:
   - |
     ""

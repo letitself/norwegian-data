@@ -54,6 +54,9 @@ references:
     No references
 semantic_types:
   - type: Manner
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
 family:
   - |
     ""

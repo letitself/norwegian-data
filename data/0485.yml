@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at taleren oppfordrer en annen [deltaker eller seg selv]Causee til å utføre en gitt [handling]Action som taleren mener er på sin plass og påkrevd i en bestemt situasjon.
 examples:
   - |
        [Нашим товарищам]Causee стоит [поработать среди таких людей]Action, полезно будет.
@@ -56,6 +58,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation as recommendation
 family:
   - |
     ""

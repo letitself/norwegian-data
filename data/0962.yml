@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое действие]Activity происходит на протяжении [одинаковых последовательных промежутков времени]Measure, безо всяких изменений (примеры 1-2) или постепенно развиваясь (примеры 3-5). Слот NP обозначает более поздний этап развития ситуации, а слот NP-Ins — более ранний. Как правило, подразумевается, что действие длится дольше, чем ожидалось (примеры 2, 4-5).
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Activity pågår i [like, påfølgende tidsrom]Measure, uten noen slags endringer (eksempel 1 og 2) eller i gradvis utvikling (eksempel 3-5). Sloten NP betegner en senere etappe i situasjonens utvikling, mens sloten NP-Ins betegner en tidligere. Som regel er det underforstått at handlingen varer lengre enn forventet (eksempel 2, 4 og 5).
 examples:
   - |
        Мы [вели измерения в море]Activity [час]Measure за [часом]Measure, [день]Measure за [днём]Measure, [месяц]Measure за [месяцем]Measure.

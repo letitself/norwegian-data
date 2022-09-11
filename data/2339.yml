@@ -5,6 +5,10 @@ UD_name: 'PronPers-Nom не находить, что Cl?'
 illustration: 'Вы не находите, что это немного странно?'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция выражает вопрос говорящего к собеседнику. Говорящий дает [оценку]Evaluation [другому участнику]Participant или [объекту]Theme или [ситуации]Situation и спрашивает, согласен ли с этой оценкой собеседник. Говорящий ожидает, что собеседник согласится с ним.
+  - norwegian: |
+       Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren gir [en vurdering]Evaluation av [en annen deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation og spør om samtalepartneren er enig i talerens vurdering. Taleren forventer at samtalepartneren vil si seg enig med taleren.
 examples:
 morphology:
   - PronPers

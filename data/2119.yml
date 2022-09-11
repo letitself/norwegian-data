@@ -66,6 +66,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation per se (impersonal)
 family:
   - |
     ""

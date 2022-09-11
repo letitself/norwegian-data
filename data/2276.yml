@@ -5,6 +5,10 @@ UD_name: 'Cl, по-твоему/по-вашему?'
 illustration: 'Сколько, по-твоему, это может продолжаться?'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция выражает вопрос говорящего к собеседнику. Говорящий спрашивает мнение собеседника по [некотому вопросу]ContentOfSpeech или [приводит информацию или оценку]ContentOfSpeech и спрашивает, согласен ли с этим собеседник. Конструкция может передавать скепсис говорящего, его скрытое несогласие с позицией собеседника.
+  - norwegian: |
+       Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren spør hva samtalepartneren mener om [et gitt spørsmål]ContentOfSpeech eller [meddeler en opplysning eller vurdering]ContentOfSpeech og spør om samtalepartneren er enig i dette. Konstruksjonen kan formidle at taleren forholder seg skeptisk til samtalepartnerens mening og egentlig er uenig.
 examples:
 morphology:
   - Cl

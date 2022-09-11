@@ -54,6 +54,9 @@ semantic_types:
   - type: Non-existence
     subtypes:
       - type: Disappear
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
 family:
   - |
     "Person disappears"

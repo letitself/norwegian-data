@@ -44,6 +44,9 @@ semantic_types:
   - type: Phase of action
     subtypes:
       - type: Continuative
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
 family:
   - |
     ""

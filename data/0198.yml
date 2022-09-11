@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторое действие]Action или [состояние]State видится как единственно возможный вариант развития событий или поведения [участника]Agent в сложившейся ситуации. С точки зрения говорящего, у участника нет выбора (примеры 1-3) или ситуация не может развиваться альтернативным образом (примеры 4-5). Неизбежность действия подчеркивается с помощью двойного отрицания.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action eller [tilstand]State ses som eneste mulige hendelsesforløp eller handlemåte for [deltakeren]Agent  i den aktuelle situasjonen. Fra talerens synspunkt har deltakeren ikke noe valg (eksempel 1-3) eller situasjonen kan ikke utvikle seg på noen annen måte (eksempel 4 og 5). Handlingens uunngåelighet fremheves av at det brukes dobbel nektelse.
 examples:
   - |
        [Петр]Agent не мог не [поверить ее словам]Action.
@@ -64,6 +66,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: No choice
 family:
   - |
     "Reconciliation"

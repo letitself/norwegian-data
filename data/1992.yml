@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий передает [расхожую информацию]ContentOfSpeech, которую он слышал от других людей и в достоверности которой он не уверен. Таким образом говорящий снимает с себя ответственность за достоверность приводимой информации.
+  - norwegian: |
+       Konstruksjonen betyr at taleren overbringer [allment antatt informasjon]ContentOfSpeech som taleren har hørt av andre og som taleren ikke er sikker på om stemmer. På denne måten frigjør taleren seg fra ansvaret for sannhetsgehalten i den meddelte informasjonen.
 examples:
   - |
        ― Говорят, что [мы ― закрытая организация.]ContentOfSpeech Это неверно.
@@ -51,6 +53,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: Low degree of certainty
+        subtypes:
+          - type: Rumors
   - type: Source of information
 family:
   - |

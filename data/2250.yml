@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что некоторое [действие]Action можно выполнять без каких-либо ограничений (примеры 1-3). Конструкция также может указывать на большое количество [объектов]Theme, находящихся в распоряжении участника (примеры 4-5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action kan utføres uten noen slags begrensninger (eksempel 1-3). Konstruksjonen kan også vise til et stort antall [objekter]Theme som deltakeren har til rådighet (eksempel 4 og 5).
 examples:
   - |
        Обещай, что не будешь потом мешать нашему с ней общению. ― Да нет, [общайся]Action, сколько хочешь.
@@ -63,6 +65,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Permission
+        subtypes:
+          - type: Giving blanket permission
 family:
   - |
     ""

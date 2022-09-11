@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает, что выполнение [некоторого действия]Action заняло определённое [количество]Quantity [времени]Measure. Если использовано числительное «один», «одна» или «одно», то и числительное, и [единица времени]Measure стоят в винительном падеже (например, за одну неделю). В остальных случаях числительное стоит в винительном падеже, а [единица времени]Measure в родительном падеже (например, за две недели, за двадцать лет).
+  - norwegian: |
+       Konstruksjonen betyr at utførelsen av [en gitt handling]Action har tatt en bestemt [mengde]Quantity [tid]Measure. Hvis tallordet som benyttes, er "один", "одна" eller "одно", står tallordet og [tidsenheten]Measure i akkusativ (for eksempel за одну неделю). I de øvrige tilfellene står tallordet i akkusativ og [tidsenheten]Measure i genitiv (for eksempel за две недели, за двадцать лет).
 examples:
   - |
        За [два]Quantity [дня]Measure учителя [провели 152 урока]Action.

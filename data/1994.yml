@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что говорящий ссылается на другого [участника]Source как на источник [сообщения]ContentOfSpeech. Участником может быть человек или средства массовой информации. Сообщение как правило приводится дословно, в виде цитаты.
+  - norwegian: |
+       Konstruksjonen betyr at taleren henviser til en annen [deltaker]Source som kilde til [meddelelsen]ContentOfSpeech. Deltakeren kan være et menneske eller et massemedium. Meddelelsen fremføres som regel ordrett, som et sitat.
 examples:
   - |
        Тут в последнее время разгорелась, по выражению [газеты «Нью-Йорк таймс»]Source, [настоящая «война планет».]ContentOfSpeech

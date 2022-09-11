@@ -2,7 +2,7 @@
 record: 21
 name: '(NP-Dat) нельзя Cop не VP-Inf'
 UD_name: '(NP-Dat) нельзя Cop не VP-Inf'
-illustration: 'Нельзя было не согласиться с ним тогда.'
+illustration: 'Нам нельзя не пригласить его.'
 cefr_level: B1
 definitions:
   - russian: |
@@ -75,6 +75,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: No choice
 family:
   - |
     "Reconciliation"

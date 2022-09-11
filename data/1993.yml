@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [сообщаемая информация]ContentOfSpeech имеет официальный характер и передается с опорой на [официальный источник]Source (организацию, средства массовой информации и проч.).
+  - norwegian: |
+       Konstruksjonen betyr at [informasjonen som meddeles]ContentOfSpeech er av offisiell karakter og overbringes med støtte i [en offisiell kilde]Source (en organisasjon, et massemedium og annet).
 examples:
   - |
        По сообщению [Всемирного фонда дикой природы]Source, [поголовье морских коньков стремительно сокращается.]ContentOfSpeech

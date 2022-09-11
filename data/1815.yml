@@ -41,7 +41,7 @@ dependency_structure_of_illustration:
   - '[root – [obj [amod Крепкие] напитки] [nsubj он] [advmod не] любит.] [root – [discourse Ну], [parataxis разумеется], [advmod не] любит.]'
 comment: |
     'В случаях, когда слот XP отсуствует (Вы слышали наш разговор? ―  Ну, разумеется!), конструкция функционирует как дискурсивная формула. См. подробнее базу дискурсивных формул "Прагматикон" https://pragmaticon.ruscorpora.ru/exp/289
-     См. также похожую конструкцию 2133 конечно (же), Cl (Исторические ошибки, конечно, присутствуют, а как же без них?).'
+См. также похожую конструкцию 2133 конечно (же), Cl (Исторические ошибки, конечно, присутствуют, а как же без них?).'
 common_fillers:
   - NA
 references:
@@ -51,6 +51,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Competely obvious and clear
   - type: Reaction to the previous discourse
     subtypes:
       - type: Agreement

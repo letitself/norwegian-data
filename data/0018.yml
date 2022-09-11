@@ -70,6 +70,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation as recommendation
   - type: Volition
 family:
   - |

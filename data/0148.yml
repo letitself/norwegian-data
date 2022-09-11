@@ -1,7 +1,7 @@
 ---
 record: 148
-name: 'NP-Nom как начать VP-Inf!'
-UD_name: 'NP-Nom как начать VP-Inf!'
+name: 'NP-Nom как начать VP-Ipfv.Inf!'
+UD_name: 'NP-Nom как начать VP-Imp.Inf!'
 illustration: 'А он как начал кричать!'
 cefr_level: B2
 definitions:
@@ -26,6 +26,7 @@ morphology:
   - NP
   - Nom
   - VP
+  - Ipfv
   - Inf
 syntactic_type_of_construction:
   - Clause

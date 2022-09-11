@@ -1,6 +1,6 @@
 ---
 record: 1549
-name: 'NP площадью (в) NumCrd-Acc NP'
+name: 'NP площадью (в) NumCrd NP'
 UD_name: 'NP площадью (в) NumCrd-Acc NP'
 illustration: 'Участок площадью сто гектаров'
 cefr_level: B2
@@ -23,7 +23,6 @@ examples:
 morphology:
   - NP
   - NumCrd
-  - Acc
   - Gen
 syntactic_type_of_construction:
   - Head and Modifier Construction

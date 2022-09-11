@@ -7,6 +7,8 @@ cefr_level: B2
 definitions:
   - russian: |
        Конструкция обозначает, что [участнику]Causee необходимо выполнить [действие]Action против своей воли, то есть несмотря на то, что ему совсем не хочется выполнять это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Causee må utføre [en handling]Action mot sin vilje, altså til tross for at deltakeren slett ikke har lyst til å utføre handlingen.
 examples:
   - |
        [Василий]Causee вынужден [признать этот факт]Action.
@@ -68,6 +70,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation per se
 family:
   - |
     "Discontent"

@@ -7,6 +7,8 @@ cefr_level: B1
 definitions:
   - russian: |
        Конструкция обозначает, что [некоторому участнику]Participant в будущем необходимо выполнить [некоторое действие]Action. Речь может идти о ближайшем будущем (примеры 1-2) или, реже, о более отдаленном (пример 3). Добавляя слово "ещё", говорящий намекает собеседнику на то, что текущую деятельность или беседу нужно прекратить, чтобы успеть выполнить необходимое действие (примеры 3-5).
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Participant i fremtiden vil måtte utføre [en gitt handling]Action. Det kan være snakk om nær fremtid (eksempel 1 og 2) eller, sjeldnere, om en mer fjern fremtid (eksempel 3). Ved å tilføye ordet "ещё" gir taleren samtalepartneren et hint om at den pågående aktiviteten eller samtalen må avsluttes for at deltakeren skal kunne rekke å utføre den nødvendige handlingen (eksempel 3-5).
 examples:
   - |
        [Мите]Participant [вставать в семь]Action.
@@ -57,6 +59,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: Obligation in contrast
   - type: Timeline
     subtypes:
       - type: Future

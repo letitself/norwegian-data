@@ -62,6 +62,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: Low degree of certainty
+        subtypes:
+          - type: Assumption per se
 family:
   - |
     ""

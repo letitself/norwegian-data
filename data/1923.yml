@@ -78,6 +78,8 @@ semantic_types:
   - type: Root modality
     subtypes:
       - type: Possibility
+        subtypes:
+          - type: Impossibility and/or Prohibition
 family:
   - |
     ""

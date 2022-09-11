@@ -1,7 +1,7 @@
 ---
 record: 97
-name: 'дать-Imp (PronPers-2.Nom) (NP-Dat) VP-Inf!'
-UD_name: 'дать-Imper (PronPers-2.Nom) (NP-Dat) VP-Inf!'
+name: 'дай(те) (PronPers-2.Nom) (NP-Dat) VP-Inf!'
+UD_name: 'дай(те) (PronPers-2.Nom) (NP-Dat) VP-Inf!'
 illustration: 'Дай доделать!'
 cefr_level: C1
 definitions:
@@ -23,7 +23,6 @@ examples:
   - |
        Вскипятите молоко с кокосовой стружкой и дайте [ему]Theme [постоять в течение часа]Activity.
 morphology:
-  - Imp
   - NP
   - Dat
   - VP

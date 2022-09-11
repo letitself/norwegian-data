@@ -7,6 +7,8 @@ cefr_level: A2
 definitions:
   - russian: |
        Конструкция обозначает [количество]Quantity [единиц времени]Measure, которое требуется для выполнения определённого [действия]Event [участником]Agent (примеры 1-4). Конструкция также может обозначать заполнение [объектом]Theme [некоторого объёма]Measure (пример 5). Если использовано числительное «один», «одна» или «одно», то и числительное, и [единица времени]Measure стоят в винительном падеже (например, одну неделю). В остальных случаях числительное стоит в винительном падеже, а [единица времени]Measure в родительном падеже (например, две недели, двадцать дней).
+  - norwegian: |
+       Konstruksjonen betegner [antallet]Quantity [tidsenheter]Measure som skal til for at [en deltaker]Agent skal få utført en bestemt [handling]Event (eksempel 1-4). Konstruksjonen kan også betegne at [et gitt volum]Measure fylles av [et objekt]Theme (eksempel 5). Hvis tallordet som benyttes, er "один", "одна" eller "одно", står tallordet og [tidsenheten]Measure i akkusativ (for eksempel одну неделю). I de øvrige tilfellene står tallordet i akkusativ og [tidsenheten]Measure i genitiv (for eksempel две недели, двадцать дней).
 examples:
   - |
        [Наше путешествие]Event от Томска до Москвы заняло [десять]Quantity [дней]Measure.

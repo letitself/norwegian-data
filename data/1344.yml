@@ -38,6 +38,9 @@ semantic_types:
   - type: Phase of action
     subtypes:
       - type: Continuative
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
   - type: Temporal expression
     subtypes:
       - type: Temporal boundary

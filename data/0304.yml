@@ -36,9 +36,6 @@ references:
   - |
     No references
 semantic_types:
-  - type: Degree of intensity
-    subtypes:
-      - type: Maximizer
   - type: Phase of action
     subtypes:
       - type: Continuative

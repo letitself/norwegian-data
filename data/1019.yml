@@ -55,6 +55,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Hedging
   - type: Source of opinion
     subtypes:
       - type: Expressing opinion

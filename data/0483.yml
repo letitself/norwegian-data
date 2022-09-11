@@ -75,6 +75,8 @@ semantic_types:
       - type: Necessity
         subtypes:
           - type: External
+            subtypes:
+              - type: No choice
 family:
   - |
     "Reconciliation, Discontent"

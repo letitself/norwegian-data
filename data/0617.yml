@@ -50,6 +50,8 @@ semantic_types:
   - type: Epistemic modality (Degree of certainty)
     subtypes:
       - type: High degree of certainty
+        subtypes:
+          - type: Strong assumption
   - type: Manner
 family:
   - |
