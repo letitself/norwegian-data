@@ -52,6 +52,9 @@ dependency_structure_of_illustration:
   - '[root [advmod Здесь] [advmod не] курят!]'
 comment: |
     'Cм. синонимичные конструкции 19 (NP-Dat) не положено VP-Inf (Детям не положено гулять поздно), 1269 Запрещается/воспрещается VP-Inf (На экзамене запрещается пользоваться мобильными телефонами), 1223 VP-Inf запрещено (Купаться запрещено).'
+equivalents:
+  - norwegian: |
+       du kan ikke gjøre X her!
 common_fillers:
   - курят
   - охотятся

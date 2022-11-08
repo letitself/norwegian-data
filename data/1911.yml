@@ -32,6 +32,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj [det Каждый] ученик] выучил [obj [det это] стихотворение].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       hver X Y denne Z
 common_fillers:
   - ~
 references:

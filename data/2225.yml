@@ -30,6 +30,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Я] люблю [obj кофе [nmod [case с] [nummod двумя, [conj [cc а [fixed то] [fixed и]] [case с] тремя] ложками [nmod сахара]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       ..., kanskje...
 common_fillers:
   - ~
 references:

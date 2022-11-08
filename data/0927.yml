@@ -41,6 +41,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Они] совершенствуются [obl год [nmod [case от] года]].]'
 comment: |
     'Конструкция "время от времени" не несет смысла градуального развития действия и обозначает просто 'иногда'.'
+equivalents:
+  - norwegian: |
+       å X hver Y
 common_fillers:
   - день
   - час

@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Это] [advmod всё] [case из-за] тебя.]'
 comment: |
     'См. близкую конструкцию 1258 VP по вине NP-Gen, 1259 Cl из-за того, что Cl.'
+equivalents:
+  - english: |
+       because of X
+  - norwegian: |
+       på grunn av X
 common_fillers:
   - болезни
   - плохого поведения

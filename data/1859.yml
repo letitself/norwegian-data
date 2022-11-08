@@ -52,6 +52,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Шесть [nmod [case в] квадрате]] равно [xcomp [nummod:gov тридцать] шесть].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X i andre er Z / X i andre er lik Z
 common_fillers:
   - равняется
   - будет

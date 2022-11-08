@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root Погоди [xcomp убегать]!] [root [nsubj Мы] [advmod ещё] [advmod не] договорили.]'
 comment: |
     'Частотными заполнителями слота являются глаголы, обозначающие эмоциональные состояния, реакции; глаголы умственной работы; глаголы, обозначающие благодарность.'
+equivalents:
+  - norwegian: |
+       ikke gjør X ennå
 common_fillers:
   - веселиться
   - смеяться

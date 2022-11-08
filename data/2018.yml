@@ -52,6 +52,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod и] [xcomp слышать] [advmod не] хочет [obl [case об] [det этих] правилах]!]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       X does not want to even hear about Y
+  - norwegian: |
+       X vil ikke høre om Y
 common_fillers:
   - ~
 references:

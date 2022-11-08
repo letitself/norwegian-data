@@ -50,6 +50,11 @@ dependency_structure_of_illustration:
   - '[root [cop Есть] [cop было] нечего.]'
 comment: |
     'См. похожие конструкции 20, 22, 23, 24.'
+equivalents:
+  - english: |
+       There is nothing to X / X has nothing to Y
+  - norwegian: |
+       X har ingenting å Y
 common_fillers:
   - делать
   - бояться

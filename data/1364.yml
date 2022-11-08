@@ -46,6 +46,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] бытность [det его] [nmod мэром [nmod Москвы]]] произошло [nsubj [nummod:gov много] перемен].]'
 comment: |
     'Не путать с конструкцией 1363.'
+equivalents:
+  - norwegian: |
+       mens X var Y, ...
 common_fillers:
   - его
   - министром

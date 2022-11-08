@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] делал [obj работу] [advmod хорошо], [cc а] [advmod не] [conj абы] [fixed как].]'
 comment: |
     'Для местоимений "кто" и "что" возможно различные падежные формы, в том числе с предлогом: например, абы кому, абы с кем, абы за кого, абы в чем и др.'
+equivalents:
+  - english: |
+       catch-as-catch-can
+  - norwegian: |
+       hva som helst
 common_fillers:
   - кто
   - что

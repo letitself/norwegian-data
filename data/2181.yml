@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [iobj Маше] лучше [csubj знать, [ccomp [advmod почему] [nsubj её] [advmod сегодня] [advmod не] было [obl [case в] школе]]].]'
 comment: |
     'См. близкую конструкцию 2182.'
+equivalents:
+  - norwegian: |
+       X vet best, ...
 common_fillers:
   - мне
   - тебе

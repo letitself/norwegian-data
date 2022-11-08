@@ -48,6 +48,11 @@ dependency_structure_of_illustration:
   - '[root [advcl [mark Как] [nsubj он] [advmod ни] старался], [xcomp [obj экзамен] сдать] [advmod не] смог.]'
 comment: |
     'Ср. близкую конструкцию 145.'
+equivalents:
+  - english: |
+       no matter how X, Y
+  - norwegian: |
+       uansett hvor mye X
 common_fillers:
   - стараться
   - пробовать

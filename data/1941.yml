@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] магазинах] появилась [nsubj книга [nmod [case под] названием "[appos [amod Новая] история]"]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X under tittelen Y
 common_fillers:
   - книга
   - статья

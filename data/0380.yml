@@ -60,6 +60,9 @@ dependency_structure_of_illustration:
   - '[root [mark Чтобы] [nsubj я] [advmod больше] [obl [case об] этом] [advmod не] слышала!]'
 comment: |
     'См. близкую конструкцию 382 чтобы (никакой-Gen) NP-Gen PP/Adv (не было)! (Чтобы животных здесь не было!).'
+equivalents:
+  - norwegian: |
+       å få X fra å Y
 common_fillers:
   - это
   - этого

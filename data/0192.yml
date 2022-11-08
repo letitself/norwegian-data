@@ -42,6 +42,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Август] [amod [advmod наиболее] жаркий] месяц [nmod [case из] [det всех] [amod летних] месяцев].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X er den Y-Cmp av Z, f. eks. ‘August er den varmeste av alle sommermånedene’
 common_fillers:
   - ~
 references:

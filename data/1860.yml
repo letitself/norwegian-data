@@ -54,6 +54,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Десять [nmod [case в] [amod пятой] степени]] – [nummod:gov сто] тысяч.]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X i NumOrd er Z, f.eks. Tre i andre er ni / X i NumOrd er lik Z
 common_fillers:
   - равняется
   - будет

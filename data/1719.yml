@@ -44,6 +44,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Хлеб] лежит [obl [case на] полке].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X ligger på Y
 common_fillers:
   - полке
   - столе

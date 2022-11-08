@@ -31,6 +31,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Это] займёт [obl [nummod:gov [advmod минимум] два] часа].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       minst NumCrd X / maks NumCrd X
 common_fillers:
   - ~
 references:

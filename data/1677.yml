@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Она] смогла [xcomp уйти] [obl [case с] работы] [advmod пораньше].]'
 comment: |
     'См. синонимичную конструкцию 1676 у NP-Gen получилось/вышло VP-Pfv.Inf (У меня впервые получилось приехать вовремя.)'
+equivalents:
+  - norwegian: |
+       X klarer å Y
 common_fillers:
   - прийти
   - сделать

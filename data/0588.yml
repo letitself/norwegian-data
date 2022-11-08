@@ -43,6 +43,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Маша] ушла [obl [case под] шумок].]'
 comment: |
     'См. близкую конструкцию с тем же предлогом 635 VP под NP-Acc (Она танцевала под музыку).'
+equivalents:
+  - norwegian: |
+       i all stillhet / i det stille
 common_fillers:
   - уйти
   - уехать

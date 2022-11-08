@@ -53,6 +53,11 @@ dependency_structure_of_illustration:
   - '[root [iobj Нам] [advmod не] мешало [aux бы] [csubj подкрепиться].]'
 comment: |
     'См. близкую по значению конструкцию 485 (NP-Dat) стоить VP-Inf (Повару стоит научиться готовить).'
+equivalents:
+  - english: |
+       It would do no harm to X / I would like to X / Let's X
+  - norwegian: |
+       det hadde vært fint om... / å være ikke av veien
 common_fillers:
   - вспомнить
   - напомнить

@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Иван] [flat:name Иванович] [advmod едва [fixed не]] умер [obl [case после] [det такого] розыгрыша].]'
 comment: |
     'Не путать с конструкциями 118 и 119.'
+equivalents:
+  - english: |
+       to come close to X-ing
+  - norwegian: |
+       nesten X
 common_fillers:
   - умер
   - упал

@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case У] меня] [advmod впервые] получилось [csubj приехать [advmod вовремя]].]'
 comment: |
     'См. синонимичную конструкцию 1677 NP-Nom смочь/суметь VP-Pfv.Inf (Она смогла уйти с работы пораньше.)'
+equivalents:
+  - norwegian: |
+       X klarer å Y
 common_fillers:
   - сделать
   - приехать

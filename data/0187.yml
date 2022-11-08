@@ -30,6 +30,9 @@ dependency_structure_of_illustration:
   - '[root "[obl [case На] [nummod:gov сто] рублей] можно [csubj купить [obj хлеб [conj [cc и] колбасу]]]."]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X for NumCrd rubler
 common_fillers:
   - ~
 references:

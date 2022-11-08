@@ -53,6 +53,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Два [nmod [case плюс] два]] [advmod равно] четыре.]'
 comment: |
     'См. близкую конструкцию 2038 (если) к NumCrd-Dat прибавить NumCrd-Acc будет/получится/выйдет NumCrd-Nom (К четырём прибавить два будет шесть).'
+equivalents:
+  - norwegian: |
+       X pluss Y er Z, f.eks. Fire pluss to er seks / X pluss Y er lik Z
 common_fillers:
   - будет
   - получится

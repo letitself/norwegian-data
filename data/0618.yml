@@ -41,6 +41,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Вася] попросил [xcomp купить [obj что [advcl угодно]]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       whatever / whenever / whoever / any random X
+  - norwegian: |
+       X som helst / enhver X
 common_fillers:
   - что
   - кто

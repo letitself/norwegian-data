@@ -43,6 +43,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] хвосте [nmod поезда]] [aux:pass была] прицеплена [nsubj:pass цистерна].]'
 comment: |
     'См. близкие конструкции 1723 и 1749.'
+equivalents:
+  - norwegian: |
+       bak i X / i halen på X / i bakenden
 common_fillers:
   - поезд
   - самолет

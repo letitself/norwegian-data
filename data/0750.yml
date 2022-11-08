@@ -53,6 +53,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj [det Этот] магазин] [cop был] [case в] [nummod трёх] кварталах [nmod [case от] почты].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       NumCrd kvartaler unna, f.eks. Han bor tre kvartaler unna. / NumCrd kvartaler fra Z, f.eks. Han bor tre kvartaler fra skolen / NumCrd kvartaler borte, f.eks. Han bor tre kvartaler borte
 common_fillers:
   - двух
   - трех

@@ -46,6 +46,11 @@ dependency_structure_of_illustration:
   - '[root [obl [case Без] [nummod пяти] минут] врач]'
 comment: |
     'См. похожую конструкцию 32.'
+equivalents:
+  - english: |
+       near-X / almost X / X-to-be
+  - norwegian: |
+       nesten X
 common_fillers:
   - врач
   - инженер

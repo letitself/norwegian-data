@@ -48,6 +48,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] отличие [nmod [case от] Пети]], [nsubj Миша] [advmod всегда] говорил [obj правду].]'
 comment: |
     'См. близкие конструкции 803, 1201, 1235'
+equivalents:
+  - norwegian: |
+       i motsetning til X
 common_fillers:
   - тебя
   - меня

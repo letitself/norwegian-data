@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj [amod Средний] счет] [obl [case в] [det этом] ресторане], [obl [case без] учета [nmod алкоголя]], [nummod:gov [nummod:gov две] тысячи] рублей.]'
 comment: |
     'См. близкие конструкции 1902 - не считая (синоним), 2030 - за вычетом, 2058 - если не считать'
+equivalents:
+  - norwegian: |
+       X ikke medregnet
 common_fillers:
   - Not applicable
 references:

@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Работа] ведётся [obl [case под] руководством [nmod директора]].]'
 comment: |
     'См. близкую конструкцию 1168 VP под эгидой NP-Gen (Конференция пройдёт под эгидой ООН.'
+equivalents:
+  - norwegian: |
+       under Xs ledelse / under ledelse av X
 common_fillers:
   - работать
   - профессор

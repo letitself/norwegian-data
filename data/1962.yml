@@ -33,6 +33,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod даже] [advmod не] закончил [obj школу], [parataxis [obj что] [obl [case с] него] взять]?]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       what can you expect of X?
+  - norwegian: |
+       ..., hva kan man vente seg fra X?
 common_fillers:
   - ~
 references:

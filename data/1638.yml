@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case Во] времена [nmod Ивана [amod Грозного]]] [nsubj народ] жил [advmod по-другому].]'
 comment: |
     'См. близкую конструкцию 1639. Не путать с конструкцией 1637. Несмотря на множественное число слова "времена", речь идёт о едином периоде времени.'
+equivalents:
+  - norwegian: |
+       på Xs tid
 common_fillers:
   - СССР
   - Пушкина

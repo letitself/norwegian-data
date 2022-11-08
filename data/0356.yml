@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [advcl [mark Чем] [aux бы] учиться], [nsubj он] гуляет.]'
 comment: |
     'См. близкие по значению конструкции 223 нет чтобы/бы VP-Inf, Cl (Нет чтобы подождать, он ушел без нас!); 222 нет бы (NP-Dat) VP-Inf (Нет бы сделать домашнее задание пораньше).'
+equivalents:
+  - english: |
+       Instead of X-ing, Y is Z-ing!
+  - norwegian: |
+       i stedet for å X, Y
 common_fillers:
   - работать
   - поработать

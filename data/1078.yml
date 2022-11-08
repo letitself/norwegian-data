@@ -43,6 +43,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] ходил [obl [case из] угла] [obl [case в] угол].]'
 comment: |
     'См. синонимичную конструкцию 1748 VP туда-сюда (Собака бегала туда-сюда.)'
+equivalents:
+  - norwegian: |
+       hit og dit / opp og ned på gulvet
 common_fillers:
   - ходить
   - шагать

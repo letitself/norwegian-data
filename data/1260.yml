@@ -46,6 +46,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod не] можем [xcomp разместить [obl [case в] кабинете] [obj [nummod:gov 50] человек] [obl [case по] причине [nmod того, [acl [mark что] [nsubj:pass он] рассчитан [obl [advmod всего] [case на] 30]]]]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       ...på grunn av...
 common_fillers:
   - Not applicable
 references:

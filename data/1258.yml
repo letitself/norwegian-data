@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case По] вине [nmod подрядчика]] [nsubj:pass работы] [advmod не] [aux:pass были] выполнены [obl [case в] срок].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X har skylden for Y
 common_fillers:
   - обстоятельств
   - банка

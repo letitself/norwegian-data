@@ -60,6 +60,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Мы] [advmod втроём [obl [case с] Петей] [conj [cc и] Катей]] пошли [obl [case на] речку].]'
 comment: |
     'См. близкую конструкцию 1267 PronPers-Pl с NP-Ins (Нам с Машей это не нравится).'
+equivalents:
+  - norwegian: |
+       PronPers-Pl NumCrd, f.eks. Dere to kjemper mot resten av verden, sant?
 common_fillers:
   - ~
 references:

@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case По] состоянию [nmod здоровья]] [nsubj:pass он] [aux:pass был] отпущен [advmod домой].]'
 comment: |
     'Не путать с конструкцией 1297 VP по NP-Dat (По внешнему виду мебели можно подумать, что она переходит из поколения в поколение).'
+equivalents:
+  - norwegian: |
+       å X på grunn av Y
 common_fillers:
   - болезнь
   - состояние здоровья

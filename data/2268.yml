@@ -53,6 +53,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod [advmod совсем] не] знаю [obj [det этого] человека].]'
 comment: |
     'См. похожие конструкции 60 вовсе не XP (Эта одежда вовсе не старая) и 101 далеко не Adj/Adv (Он далеко не умный студент).'
+equivalents:
+  - norwegian: |
+       i det hele tatt / helt
 common_fillers:
   - удивительно
   - просто

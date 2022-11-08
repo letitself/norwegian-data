@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [obl День [nmod [case за] днём]] [nsubj они] работали [obl [case на] заводе].]'
 comment: |
     'См. близкие конструкции 1071, 1073.'
+equivalents:
+  - norwegian: |
+       hver dag / dag etter dag
 common_fillers:
   - день
   - час

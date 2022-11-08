@@ -32,6 +32,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Я] [obj тебя] знаю, [parataxis [nsubj ты] [obj всё] разболтаешь].]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       I know you, ...
+  - norwegian: |
+       X kjenner Y, ...
 common_fillers:
   - ~
 references:
