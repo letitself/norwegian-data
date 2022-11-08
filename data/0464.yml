@@ -44,6 +44,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] курит [obj сигарету [nmod [case за] сигаретой]].]'
 comment: |
     'Не путать с конструкцией 962.'
+equivalents:
+  - norwegian: |
+       X etter X, f.eks. å sende brev etter brev
 common_fillers:
   - стакан
   - рюмка

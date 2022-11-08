@@ -50,6 +50,11 @@ dependency_structure_of_illustration:
   - '[root [case В] том - [advmod то] [advmod и] [nsubj дело], [acl [mark что] [advmod не] знаем].]'
 comment: |
     'См. близкие по значению конструкции 8 и 1813.'
+equivalents:
+  - norwegian: |
+       det er X, ... (det er saken / det er problemet)
+  - english: |
+       that's just the point / that's just it / that's the thing
 common_fillers:
   - дело
   - суть

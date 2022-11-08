@@ -48,6 +48,9 @@ dependency_structure_of_illustration:
   - '[root [parataxis [case С] точки [nmod зрения] [nmod режиссёра]], [nsubj [det этот] фильм] должен [xcomp иметь [obj успех] [obl [case за] рубежом]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       fra X synspunkt
 common_fillers:
   - ~
 references:

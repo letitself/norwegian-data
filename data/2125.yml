@@ -46,6 +46,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj:pass Я] [cop был] вынужден [xcomp подчиниться].]'
 comment: |
     'См. близкую конструкцию 281 (NP-Dat) пришлось/придётся VP-Inf (Пришлось выпить лекарство).'
+equivalents:
+  - norwegian: |
+       X blir tvunget til å Y /  X er tvunget til å Y  /  X er nødsaget til å Y /  X blir nødsaget til å Y
 common_fillers:
   - признать
   - отказаться

@@ -45,6 +45,11 @@ dependency_structure_of_illustration:
   - '[root [iobj Тебе] [advmod не] нравится, [ccomp [advmod как] [nsubj он] работает]?] [root [advmod Вот] [advmod и] поговори [obl [case с] ним]!]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       derfor X
+  - english: |
+       hence Х
 common_fillers:
   - поговори
   - поговорили

@@ -36,6 +36,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Маша] узнала [obl [case о] победителе [nmod конкурса]] [obl [case из] газет].]'
 comment: |
     'См. близкую конструкцию 132 NP-Nom знать NP-Acc по NP-Dat (Он знал актера по фильмам).'
+equivalents:
+  - norwegian: |
+       å få vite om X fra Y
 common_fillers:
   - ~
 references:

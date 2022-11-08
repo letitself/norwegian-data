@@ -43,6 +43,11 @@ dependency_structure_of_illustration:
   - '[root [advmod Куда] веселее [cop было] [aux бы] [csubj поехать [obl [case в] деревню, [conj [cc а] [advmod не] [case в] [amod другую] страну]]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       mer X enn Y
+  - english: |
+       It is way better to X
 common_fillers:
   - ~
 references:

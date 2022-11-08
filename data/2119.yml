@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case При] проезде [nmod [case в] метро]] следует [csubj соблюдать [obj порядок]].]'
 comment: |
     'См. близкую по значению конструкцию 2123 (NP-Dat) надлежит/надлежало VP-Inf (Комитету сразу надлежит внести оплату услуг).'
+equivalents:
+  - norwegian: |
+       X bør gjøre Y
 common_fillers:
   - помнить
   - учитывать

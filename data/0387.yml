@@ -48,6 +48,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Это] [advmod ли] [advmod не] чудо?]'
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
+equivalents:
+  - norwegian: |
+       Er ikke det X?
 common_fillers:
   - счастье
   - радость

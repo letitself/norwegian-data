@@ -46,6 +46,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Выступление] проходило [obl [case под] знаком [nmod протеста]].]'
 comment: |
     'См. близкую конструкцию 1168 VP под эгидой NP-Gen (Конференция пройдёт под эгидой ООН.)'
+equivalents:
+  - norwegian: |
+       i Xs tegn
 common_fillers:
   - проходить
   - поживать

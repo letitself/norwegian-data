@@ -49,6 +49,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Я] [case против] [amod школьной] формы!]'
 comment: |
     'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1803 и 455.'
+equivalents:
+  - norwegian: |
+       X har (ikke) noe imot Y / X er (ikke) imot Y
+  - english: |
+       to support having X / to not support having X
 common_fillers:
   - развод
   - контакты

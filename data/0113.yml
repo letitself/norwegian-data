@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [obl [case До] завтрака] нельзя [csubj включать [obj телевизор]].]'
 comment: |
     'См. близкую конструкцию 111.'
+equivalents:
+  - norwegian: |
+       før X / til X
+  - english: |
+       till X / before X
 common_fillers:
   - обеда
   - завтрака

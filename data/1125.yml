@@ -51,6 +51,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj [amod Пустые] стеллажи] лучше, [obl [case нежели] тележки [nmod [case в] коридорах]].]'
 comment: |
     'См. близкие конструкции 571 NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom (Она старше, чем ты) и 1163 более/менее Adj, чем NP-Nom (Петя более общительный, чем Вася)'
+equivalents:
+  - norwegian: |
+       X er Y-Cmp enn Z, f.eks. Vi gjør det bedre enn dere / X er mer Y enn Z
 common_fillers:
   - NA
 references:

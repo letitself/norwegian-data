@@ -48,6 +48,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Петя] [advmod более] общительный, [obl [case чем] Вася].]'
 comment: |
     'См. близкие конструкции 571 NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom (Она старше, чем ты) и 1125 NP-Nom Cop Adj-Cmp, нежели NP-Nom/VP Adv-Cmp, нежели NP-Nom (Пустые стеллажи лучше, нежели тележки в коридорах)'
+equivalents:
+  - norwegian: |
+       X er mer Y enn Z / X er Y-Cmp enn Z, f.eks. Jeg er penere enn deg.
 common_fillers:
   - NA
 references:

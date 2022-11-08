@@ -49,6 +49,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] Сочи] [obj мимозу] можно [csubj продать [obl [case по] [nummod:gov два] рубля [nmod [case за] [nummod:gov один] килограмм]]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       Num X per Y, f.eks. to kroner per kilo
 common_fillers:
   - продавать
   - покупать

@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root [iobj Людмиле [flat:name Петровне]] [case под] пятьдесят.]'
 comment: |
     'Значение предлога "под" с наименованием временной границы близко его употреблению в 636 VP под NP-Acc (Она вернулась под утро).'
+equivalents:
+  - norwegian: |
+       X er sent i Y-årene, f.eks. Jeg var sent i 40- årene.
 common_fillers:
   - ~
 references:

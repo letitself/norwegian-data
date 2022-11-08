@@ -51,6 +51,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Два [nmod [case в] степени [nmod пять]]] равно [xcomp [nummod:gov тридцать] два].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X opphøyd i NumOrd er Z, f.eks. Fem opphøyd i tredje er lik et hundre tjue fem / X opphøyd i NumOrd er lik Z
 common_fillers:
   - равняется
   - будет

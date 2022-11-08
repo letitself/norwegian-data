@@ -54,6 +54,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Я] [advmod не] против, [ccomp [mark чтобы] [nsubj ты] [obl [case на] ней] женился].]'
 comment: |
     'Отрицательная частица "не" может ставиться перед связочным глаголом "быть" или перед словом "против". См. похожие конструкции 1802 и 455.'
+equivalents:
+  - norwegian: |
+       X er (ikke) imot at ...
+  - english: |
+       X does not mind that ...
 common_fillers:
   - Not applicable
 references:

@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Паша] ругается [advmod почём [advmod зря]] [obl [det каждый] день].]'
 comment: |
     'Словосочетание "почём зря" может стоять перед глаголом или после него.'
+equivalents:
+  - norwegian: |
+       å X uten grunn
 common_fillers:
   - играть
   - пить

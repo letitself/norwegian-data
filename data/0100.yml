@@ -45,6 +45,11 @@ dependency_structure_of_illustration:
   - '[root [advmod Ещё] [cop было] далеко [obl [case до] дома].]'
 comment: |
     'Ср. с похожей конструкцией 473 NP-Dat Cop далеко до NP-Gen (Тебе далеко до лучшего работника)'
+equivalents:
+  - norwegian: |
+       langt til X
+  - english: |
+       be far from X
 common_fillers:
   - рассвет
   - цель

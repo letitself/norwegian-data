@@ -50,6 +50,9 @@ dependency_structure_of_illustration:
   - '[root [cc А] [iobj тебе] [advmod не] пора [advmod ли] [csubj спать]?]'
 comment: |
     'См. похожие конструкции со словом "пора": 17 (NP-Dat) давно пора Cop VP-Inf (Детям давно пора поесть), 484 NP-Dat Cop пора VP-Inf (Мне пора идти в школу) и 2080 PronPers-Dat (уже) пора (VP-Inf)! (Мне уже пора!).'
+equivalents:
+  - norwegian: |
+       er det ikke på tide å X?
 common_fillers:
   - спать
   - уйти

@@ -49,6 +49,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] стал [xcomp выглядеть [advmod [advmod ещё] хуже]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       enda X-Cmp, f.eks. Situasjonen er enda verre nå. / mye X-Cmp
+  - english: |
+       even more X
 common_fillers:
   - хуже
   - лучше

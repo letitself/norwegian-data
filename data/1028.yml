@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] [obl [case за] глаза] называет [obj ее] [xcomp глупой].]'
 comment: |
     'См. синонимичную конструкцию 1037 VP за спиной (у NP-Gen) (Он обсуждал проект за спиной у руководителя.) и антонимичную конструкцию 767 VP в лоб (Он спросил его в лоб: "Где деньги?")'
+equivalents:
+  - norwegian: |
+       bak Xs rygg
 common_fillers:
   - говорить
   - обсуждать
