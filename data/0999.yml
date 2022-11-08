@@ -1,0 +1,77 @@
+---
+record: 999
+name: 'NP-Nom прийтись по вкусу NP-Dat'
+UD_name: 'NP-Nom прийтись по вкусу NP-Dat'
+illustration: 'Не думаю, что ему это придется по вкусу.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает отношение [участника]Experiencer к некоторому [объекту]Theme, [идее]Theme, [качеству]Property, [ситуации]Situation, или другому [участнику]Participant. Отношение участника заключается в том, поддерживает ли он их или нет. Отношение либо резко отрицательное («не по вкусу») либо положительное, но достаточно умеренное («по вкусу»). Как если бы участник попробовал это событие на вкус, как еду или напиток, и вкус ему не понравился («не по вкусу») или понравился («по вкусу»). Конструкция как правило используется для выражения негативного отношения.
+  - norwegian: |
+       Konstruksjonen uttrykker [deltakerens]Experiencer holdning til et gitt [objekt]Theme, [en ide]Theme, [en egenskap]Property, [en situasjon]Situation eller en annen [deltaker]Participant. Deltakerens holdning består i å støtte disse, eller ikke. Holdningen er enten utpreget negativ ('не по вкусу'), eller den er positiv, men bare måtelig ('по вкусу'). Det er som om deltakeren smaker på hendelsen, som på mat og drikke, og enten ikke liker smaken ('не по вкусу') eller liker smaken ('по вкусу'). Konstruksjonen anvendes som regel for å uttrykke en negativ holdning.
+examples:
+  - |
+       [Дамам]Experiencer, видно, пришелся по вкусу [этот колоритный здоровяк со смешным непонятным акцентом и нахальными руками]Participant.
+  - |
+       Оживление публики в зале свидетельствовало о том, что [ансамбль]Participant [многим]Experiencer пришелся по вкусу.
+  - |
+       Вернувшись домой, моряки рассказали, что жители Южной Америки ― индейцы ― выращивают удивительные «земляные яблоки». Если их испечь, они становятся мягкими и очень вкусными. Слух о чудесных клубнях разнесся по всем странам. Не везде [новинка]Theme пришлась по вкусу ― кое-где пытались есть клубни в сыром виде и после этого уже ни за что не хотели сажать картофель.
+  - |
+       Почти уверен, что [даосская мудрость автора]Property едва ли придется по вкусу [массовому читателю]Experiencer.
+  - |
+       А [тем, кто не боится браться за сложные задачи]Experiencer, возможно, придется по вкусу [идея «многоэтажки»]Theme: двухэтажный домик с внутренней лесенкой.
+morphology:
+  - NP
+  - Nom
+  - Dat
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - Property
+  - Theme
+  - Experiencer
+  - Situation
+  - Participant
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] прийтись [obl [case по] вкусу] [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] думаю, [ccomp [mark что] [iobj ему] [nsubj это] придется [obl [case по] вкусу]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Support
+      - type: Capacity/Preferences
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Support, Discontent, Capacity/Preferences, Ethics/Behavior"

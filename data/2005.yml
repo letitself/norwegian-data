@@ -1,0 +1,62 @@
+---
+record: 2005
+name: 'насколько PronPers-1 понимать, Cl'
+UD_name: 'насколько PronPers-1 понимать, Cl'
+illustration: 'Ты ещё не готов, насколько я понимаю.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает мнение [говорящего]Speaker по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция обычно снижает категоричность высказывания и имеет значение 'я считаю, что Cl, но, возможно, это не так'. Конструкция может стоять как в начале предложения, так и вклиниваться в середину высказывания.
+examples:
+  - |
+       Насколько [я]Speaker понимаю, [вас интересует, замужем ли я]Evaluation?
+  - |
+       Насколько [я]Speaker понимаю, [вы будете говорить об очень важной проблеме]Evaluation.
+  - |
+       Насколько [я]Speaker понимаю, [ситуация все еще не расследована]Evaluation.
+  - |
+       Эмиль поступил в Московский инженерно-строительный институт. И закончил его, насколько я понимаю, [успешно]Evaluation.
+  - |
+       Это, насколько [я]Speaker понимаю, [будет самое большое число спортсменов, которые когда-либо участвовали в таких играх]Evaluation.
+morphology:
+  - PronPers
+  - 1
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [mark насколько] [nsubj PronPers-1] понимать]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod ещё] [advmod не] готов, [parataxis [mark насколько] [nsubj я] понимаю].]'
+comment: |
+    'См. похожие конструкции 1019 если PronPers-1 правильно понять/понимать, Cl (Если я правильно понимаю, он уже не придет) и 2004 насколько PronPers-1 знать/PronPers-1.Dat Cop известно, Cl (Насколько я знаю, Вася отлично играет в футбол).'
+common_fillers:
+  - я
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Hedging
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    ""

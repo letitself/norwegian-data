@@ -1,0 +1,56 @@
+---
+record: 1126
+name: 'NP-Dat ничего не стоить VP-Inf'
+UD_name: 'NP-Dat ничего не стоить VP-Inf'
+illustration: 'Ему ничего не стоит написать книгу.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [obj ничего] [advmod не] стоить [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ему] [obj ничего] [advmod не] стоит [csubj написать [obj книгу]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    "Capacity/Intellect"

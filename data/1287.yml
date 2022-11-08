@@ -1,0 +1,64 @@
+---
+record: 1287
+name: 'VP под давлением NP-Gen'
+UD_name: 'VP под давлением NP-Gen'
+illustration: 'Правительство под давлением прогрессивной общественности учредило нечто вроде государственной опеки.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник, обладающий силой, властью или авторитетом]Causer, заставляет другого [участника]Causee совершить некоторое [действие]Action. [Участник]Causee не стал бы выполнять это действие, если бы действовал самостоятельно.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker med styrke, makt eller autoritet]Causer tvinger en annen [deltaker]Cause til å utføre en gitt [handling]Action. [Deltakeren]Cause ville ikke ha gått i gang med denne handlingen av seg selv.
+examples:
+  - |
+       Под давлением [революционной власти]Causer [он]Causee [подал прошение об увольнении]Action, которое 6 марта было удовлетворено.
+  - |
+       [Это решение было принято]Situation под давлением [окружающих]Causer.
+  - |
+       Не позволяйте [себе]Causee под давлением [оппонента]Causer [растерять собственную самооценку]Situation.
+  - |
+       [Переселение]Action под давлением [застройщиков]Causer является обычной практикой в Китае.
+  - |
+       [В Великобритании под давлением [Лондона]Causer из школ вытеснялись ирландский, шотландский и валлийский языки]Action.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Causer
+  - Situation
+  - Causee
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] давлением [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Правительство] [obl [case под] давлением [nmod [amod прогрессивной] общественности]] учредило [obj нечто [nmod [case вроде] [amod государственной] опеки]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - обстоятельства
+  - окружающие
+  - власти
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Cause
+family:
+  - |
+    ""

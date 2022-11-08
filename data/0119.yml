@@ -1,0 +1,66 @@
+---
+record: 119
+name: 'едва ли VP/Cl'
+UD_name: 'едва ли VP/Cl'
+illustration: 'Едва ли Паша заплатит.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что по мнению говорящего вероятность осуществления некоторой [ситуации]Situation или [действия]Action очень мала.
+  - english: |
+       This construction indicates that in the speaker's opinion, the likelihood that a [situation]Situation or [action]Action will occur, is small.
+  - norwegian: |
+       Konstruksjonen betyr at taleren mener sannsynligheten for at [en gitt situasjon]Situation eller [handling]Action vil inntreffe, er svært liten.
+examples:
+  - |
+       Полицейские едва ли [поверят моим рассказам.]Action
+  - |
+       Я едва ли [заслуживаю такую похвалу.]Action
+  - |
+       Все эти достижения едва ли [были бы возможны без энергичного руководства.]Situation
+  - |
+       В этих условиях приходится обращаться к опыту зарубежных исследователей. Здесь едва ли [могут пригодиться модели американских учёных с их опытом свободного рынка.]Situation
+  - |
+       Однако читателей мой ответ едва ли [удовлетворит.]Action Я ведь так и не ответила на главный вопрос.
+morphology:
+  - VP
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Particle
+semantic_roles:
+  - Action
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod едва [fixed ли]] XP]'
+  - '[root [advmod едва [fixed ли]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [advmod Едва [fixed ли]] [nsubj Паша] заплатит.]'
+comment: |
+    'См. близкую по смыслу конструкцию 78. Не путать с конструкциями 118 и 120.'
+common_fillers:
+  - сможет
+  - получится
+  - поверит
+  - имеет смысл
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Doubt
+family:
+  - |
+    ""

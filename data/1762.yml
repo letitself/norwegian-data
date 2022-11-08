@@ -1,0 +1,45 @@
+---
+record: 1762
+name: 'что-то незаметно, что Cl'
+UD_name: 'что-то незаметно, что Cl'
+illustration: 'Что-то незаметно, что ты торопишься.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Negation
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Particle
+  - Predicative
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod что-то] незаметно'
+  - '[csubj [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Что-то] незаметно, [ccomp [mark что] [nsubj ты] торопишься].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

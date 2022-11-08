@@ -1,0 +1,62 @@
+---
+record: 1971
+name: 'Cl, и привет'
+UD_name: 'Cl, и привет'
+illustration: 'Он уже давно взял у меня эту книгу, и привет! Уехал в отпуск.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что важный участник ситуации неожиданно для говорящего исчез (уехал, ушел, перестал звонить, примеры 1, 2), получил травму (примеры 3, 4) или умер (пример 5). Конструкция передает удивление и недовольство говорящего по этому поводу. Описано [событие]Event, которое предшествует исчезновению и часто является его причиной. Слова «и привет» при этом значат 'До свидания!, 'Прощай!'.
+  - norwegian: |
+       Konstruksjonen betyr at en viktig deltaker i situasjonen, uventet for taleren er forsvunnet (har reist bort, gått sin vei, sluttet å ringe, eksempel 1 og 2), er skadet (eksempel 3 og 4) eller er død (eksempel 5). Konstruksjonen gjengir talerens overraskelse og misnøye i den anledning. Det beskrives en [hendelse]Event som gikk forut for forsvinningen og ofte er dens årsak. Ordene "и привет" betyr her 'På gjensyn!, Farvel!'.
+examples:
+  - |
+       Появился неизвестный грабитель… [Ведро отобрал]Event, и привет!..
+  - |
+       [Взяла эта дама справки обо всех детях, якобы для прописки, получила трехкомнатную квартиру]Event ― и привет! Пропала! Потом, правда, с этим уже милиция разбиралась…
+  - |
+       ― Вот здесь, смотри… в этом кармашке ― бритва. [Дергаешь, она выскакивает]Event, и ― привет. ― Что привет? ― Без пальцев можно остаться.
+  - |
+       Миша сел на стул и показал распухшие колени. ― [День по холоду в резиновых сапогах походил], и привет! А больничный только на пять дней дают, и то без оплаты.
+  - |
+       ― [Неожиданно сверху с горы на машину скатился огромный обломок скалы: во-от такой камень, хлоп!]Event И привет. Даже мокрого места не осталось.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Conjunction
+semantic_roles:
+  - Event
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl'
+  - '[conj [cc и] привет]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod [advmod уже] давно] взял [obl [case у] меня] [obj [det эту] книгу], [conj [cc и] привет]!] [root Уехал [obl [case в] отпуск].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Mirative
+  - type: Non-existence
+    subtypes:
+      - type: Disappear
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    "Person disappears"

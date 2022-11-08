@@ -1,0 +1,71 @@
+---
+record: 179
+name: 'лучше (не) VP-Imp'
+UD_name: 'лучше (не) VP-Imper'
+illustration: 'Лучше не говори мне про это.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий побуждает собеседника выполнить [действие]Action вместо другого [действия]Action, которое собеседник уже выполняет или собирается выполнить. Побуждение звучит как просьба или совет. Ограничений на вид глагола нет. При наличии отрицательной частицы «не» конструкция, как правило, выражает предостережение говорящего в адрес собеседника, чтобы собеседник не выполнял некоторое действие (примеры 4 и 5). Это действие выражено глаголом несовершенного вида. Говорящий оценивает невыполнение действия более положительно, чем его выполнение.
+  - english: |
+       This construction is used when the speaker prompts the interlocutor to carry out an [action]Action instead the  [action]Action that the interlocutor is already carrying out or is going to carry out. This prompting sounds like a request or advice. There are no restrictions on the aspect of the verb. With the negative particle "не" the construction usually expresses the speaker's warning to the interlocutor, so that the interlocutor does not carry out the action (examples 4 and 5). The action is expressed by an imperfective verb. For the speaker it is more positive if the interlocutor will not carry out the action as opposed to if they will.
+  - norwegian: |
+       Konstruksjonen brukes når taleren anmoder samtalepartneren om å utføre [én handling]Action i stedet for en annen [handling]Action som samtalepartneren allerede utfører eller har tenkt å utføre. Anmodningen lyder som en bønn eller et råd. Det er ingen begrensninger i bruken av verbaspekt. Med nektelsespartikkelen "не" uttrykker konstruksjonen som regel talerens advarsel til samtalepartneren om at samtalepartneren ikke må utføre en gitt handling (eksempel 4 og 5). Handlingen uttrykkes av et verb i imperfektivt aspekt. Taleren vurderer det som mer positivt å ikke utføre handlingen, enn å utføre den.
+examples:
+  - |
+       – Хватит спорить, лучше [подумай]Action, у собаки вместо щенка может появиться котёнок?
+  - |
+       ― Слушай, а давай сегодня съездим за персиками, так охота! ― Да ну их, надоели, [собери]Action лучше инжир, а то уже чернеть начал.
+  - |
+       ― Дурак ты, Аствацатуров! ― сказала мне Снежана. ― Иди лучше [займись чем-нибудь]Action. Денису Иоффе, что ли, письмо напиши.
+  - |
+       ― Сейчас его лучше не [трогай]Action. Сними одежду, и пусть лежит, ― он хлопнул меня по плечу и тоже направился к выходу.
+  - |
+       Искать тебя повсюду я конечно буду, но это займет слишком много времени, поэтому лучше не [теряйся]Action.
+morphology:
+  - VP
+  - Imp
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod лучше] [advmod не] VP-Imp]'
+  - '[root [advmod лучше] VP-Imp]'
+dependency_structure_of_illustration:
+  - '[root [advmod Лучше] [advmod не] говори [iobj мне] [obl [case про] это].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - спрашивай
+  - подумай
+  - скажи
+  - приезжай
+  - займись
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Prohibition
+    subtypes:
+      - type: Attenuated prohibitive
+  - type: Request
+family:
+  - |
+    ""

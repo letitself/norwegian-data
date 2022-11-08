@@ -1,0 +1,64 @@
+---
+record: 427
+name: 'XP/Cl, что ли'
+UD_name: 'XP/Cl, что ли'
+illustration: 'Он переехал, что ли, я не знаю точно.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в некотором [утверждении]Evaluation, которая, как правило, связана с тем, что говорящий забыл о некоторой ситуации или о ее деталях. Конструкция является вводной и на письме выделяется запятыми. Слот XP может заполняться именной группой, предложной группой, глагольной группой, числительным, прилагательным, наречием или предикативом.
+examples:
+  - |
+       Через некоторое время, [через год]Evaluation, что ли, он встретил её на городском базаре.
+  - |
+       Достала где-то книгу, [восемнадцатого]Evaluation, что ли, века.
+  - |
+       – Почему она от него ушла? – Он ее [ударил]Evaluation, что ли, не помню.
+  - |
+       А таблетки мне не помогли. Доза, что ли, [маленькая]Evaluation, или еще что...
+  - |
+       [В гости]Evaluation, что ли, собрались? Или в кино?
+morphology:
+  - Cl
+  - NP
+  - PP
+  - VP
+  - Num
+  - Adj
+  - Adv
+  - Pred
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+semantic_roles:
+  - Evaluation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl'
+  - '[parataxis что [advmod ли]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] переехал, [parataxis что [advmod ли]], [parataxis [nsubj я] [advmod не] знаю [advmod точно]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Epistemic (metaphorical) distance
+family:
+  - |
+    ""

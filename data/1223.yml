@@ -1,0 +1,67 @@
+---
+record: 1223
+name: '(NP-Dat) VP-Ipfv.Inf Cop запрещено'
+UD_name: '(NP-Dat) VP-Imp.Inf Cop запрещено'
+illustration: 'Купаться запрещено!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает запрет на [некоторое действие]Action как выражение некоторого общего правила, принятого в обществе, в организации (например, в школе, в тюрьме) или в общественном месте (например, в парке) на официальном уровне. Действие может произойти после момента речи, и наложение запрета должно его предотвратить. [Участник]Participant, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, администрация учреждения vsпосетители). Правило действует для всех членов общества или для определенных групп людей (например, женщины, дети, студенты первого курса университета, заключенные в тюрьме и др.). Часто участник не упоминается (примеры 2, 3, 4). Если участник назван, то он как правило представлен целой группой лиц (пример 1), но может быть и отдельным лицом, в том числе и собеседником говорящего (пример 5). Конструкция может использоваться при описании условий игры, спортивных соревнований, правил дорожного движения и вождения автомобиля (пример 3), в инструкциях по использованию бытовых приборов, правил поведения в общественных местах (пример 4), в описании ограничений на свободу действий как форму наказания (пример 5) и др.
+  - english: |
+       This construction indicates a prohibition against an [action]Action in terms of a general rule that is officially accepted in the context of a society, or organization (for example, a school or a prison), or in a public place (for example, a park). The action can occur after the moment of speech, and the imposition of the prohibition should prevent it. The [participant]Participant who states the prohibition has higher status in the social hierarchy than the person to whom the prohibition is addressed (for example, the relative status of boss vs. subordinate, adult vs. child, administration of an institution vs. guests). The rule applies to all members of society or to specific groups of people (for example, women, children, first-year university students, prison inmates etc.). Often the participant is not mentioned (examples 2,3,4). If the participant is mentioned then they are often represented by a whole group (example 1), but it can also be an individual person, including the speaker's interlocutor (example 5). This construction can be used when explaining the rules of a game, sporting competitions, the highway code (example 3), in the user's manual for household appliances, rules of conduct in public places (example 4), in describing restrictions on the freedom of movement as a form of punishment (example 5), etc.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action omfattes av et forbud som gjenspeiler en allmenn regel i et samfunn, et land eller en organisasjon (f.eks. på en skole eller i et fengsel), eller en regel på offentlig sted (f.eks. i en park), vedtatt på offisielt nivå. Handlingen kan komme til å inntreffe etter taleøyeblikket, hvilket innføringen av forbudet skal forhindre. [Deltakeren]Participant som ilegger forbudet, har høyere sosial status enn den forbudet gjelder (f.eks. som leder vs. underordnet, ansatt på en institusjon vs. besøkende). Regelen omfatter alle medlemmene av et samfunn eller bestemte grupper mennesker (f.eks. kvinner, barn, førsteårsstudenter på universitetet, innsatte i fengsler m.fl.). Ofte er ikke deltakeren nevnt (eksempel 2, 3 og 4). Når deltakeren nevnes, er det oftest snakk om en hel gruppe personer (eksempel 1), skjønt det også kan være en enkeltperson, herunder talerens samtalepartner (eksempel 5). Konstruksjonen kan brukes om spilleregler, idrettskonkurranser, regler for trafikk og bilkjøring (eksempel 3), bruksanvisninger for husholdningsapparater, regler for atferd på offentlig sted (eksempel 4), beskrivelser av innskrenket handlefrihet som straffeform (eksempel 5) m.m.
+examples:
+  - |
+       ― А [что]Action ещё [присяжным]Participant запрещено? ― Запрещено [общаться с участниками процесса вне стен зала заседания]Action.
+  - |
+       Пошёл было в типографию грузчиком, но и оттуда выгнали, надо сказать, за глупость: [курить]Action у них было запрещено, а он всё закуривал по привычке.
+  - |
+       Строго запрещено [садиться за руль в состоянии алкогольного или наркотического опьянения]Action.
+  - |
+       ― Здесь территория метрополитена и [распивать]Action запрещено по закону.
+  - |
+       ― [Вам]Participant запрещено [выходить и выезжать за пределы города Горького]Action.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [csubj:pass VP-Ipfv.Inf] [cop Cop] запрещено!]'
+  - '[root [csubj:pass VP-Ipfv.Inf] [cop Cop] запрещено!]'
+dependency_structure_of_illustration:
+  - '[root [csubj:pass Купаться] запрещено!]'
+comment: |
+    'См. похожие конструкции (NP-Dat) не положено VP-Imp.Inf (Детям не положено гулять поздно), (NP-Dat) запрещается/воспрещается VP-Imp.Inf (На экзамене запрещается пользоваться мобильными телефонами), (NP-Dat) нельзя VP-Inf (Моей дочке нельзя есть сладкое) и здесь/у нас не VP-3Prs.Pl.Ipfv (Здесь не курят)'
+common_fillers:
+  - курить
+  - распивать
+  - садиться за руль
+  - купаться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+family:
+  - |
+    "Family of prohibitive constructions General rules, instructions"

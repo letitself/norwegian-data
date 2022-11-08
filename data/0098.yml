@@ -1,0 +1,74 @@
+---
+record: 98
+name: '(с)даться-Pst PronPers-Dat этот NP-Nom!'
+UD_name: '(с)даться-Past PronPers-Dat этот NP-Nom!'
+illustration: 'Дался тебе этот неудачник!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает негативную реакцию говорящего на то внимание, которое [собеседник или другой участник]Experiencer проявлет к [некоторому объекту]Theme или [участнику]Participant. Говорящий считает, что этот объект или участник не имеет особой ценности, не является важным, и поэтому не заслуживает особого внимания.
+  - english: |
+       This construction expresses the speaker's negative reaction to the attention that the [interlocutor or other participant]Experience is paying to an [object]Theme or [participant]Participant. The speaker doesn't think this object or participant is important or of particular value, and therefore doesn't deserve so much attention.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren reagerer negativt på den oppmerksomheten [samtalepartneren eller en annen deltaker]Experiencer vier [et gitt objekt]Theme eller [en deltaker]Participant. Taleren mener objektet eller deltakeren ikke er av særlig verdi eller viktighet og derfor ikke fortjener særlig oppmerksomhet.
+examples:
+  - |
+       Дался [ей]Experiencer этот [преподаватель]Participant! Она кружила вокруг него, кружила как бабочка, и все мечтала заговорить с ним.
+  - |
+       – А молоко-то он все равно пьет из банки. Анна Васильевна рассмеялась и спросила в шутливом тоне: – Ну что вы так расстраиваетесь? Далось [вам]Experiencer это [молоко]Theme! – Да, далось, далось! – воскликнул Олег Николаевич.
+  - |
+       А все остальные кричат: пусть играет, надо же слова разобрать! ― Дались [им]Experiencer эти [слова]Theme! Пейте, ребята, ― сказал я.
+  - |
+       – Эх, зря, Валерий Михайлович, вы этого Стёпку пустили на ферму. – Сдался [тебе]Experiencer этот [Стёпка]Participant, – сказал Потапыч.
+  - |
+       Сдались [тебе]Experiencer эти [Ира с Петей]Participant! Это их проблемы, что они ходят по ресторанам, чтобы портить людям настроение. А ты из-за них профукала самый лучший вечер в своей жизни!
+morphology:
+  - Pst
+  - PronPers
+  - Dat
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Pronoun
+semantic_roles:
+  - Experiencer
+  - Theme
+  - Participant
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root cдаваться-Pst [iobj PronPers-Dat] [nsubj [det этот] NP-Nom]!]'
+  - '[root даваться-Pst [iobj PronPers-Dat] [nsubj [det этот] NP-Nom]!]'
+dependency_structure_of_illustration:
+  - '[root Дался [iobj тебе] [nsubj [det этот] неудачник]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+      - type: Assessment specific to people
+        subtypes:
+          - type: Importance/Power
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Importance/Worth, Importance/Power"

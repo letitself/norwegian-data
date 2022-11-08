@@ -1,0 +1,67 @@
+---
+record: 1699
+name: 'NP-Nom Cop/VP под рукой'
+UD_name: 'NP-Nom Cop/VP под рукой'
+illustration: 'У меня всегда есть запасной ключ под рукой.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [предмет]Instrument [находится]State в данный момент в непосредственной близости к [участнику]Possessor, участник может использовать этот объект по назначению. Как если бы участник мог протянуть руку и взять его.
+  - english: |
+       The construction means that an [object]Instrument is at present [located]State in the immediate vicinity of the [participant]Possessor, and the participant can use this object for its given purpose. It is as if the participant could just reach out an arm and pick it up.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [gjenstand]Instrument for øyeblikket [befinner seg]State i [deltakerens]Possessor umiddelbare nærhet og at deltakeren kan bruke objektet i henhold til objektets formål. Det er som om deltakeren kan strekke ut armen og ta det.
+examples:
+  - |
+       Я стал искать, чем бы замазать протечку, и не [нашел]Action под рукой [ничего]Instrument, кроме клея ПВА.
+  - |
+       [Что]Instrument [оказалось]State под рукой, то и взял.
+  - |
+       Жаль, [нет]State под рукой [сабли]Instrument ― ветеран разрубил бы эту селедку прямо на столе…
+  - |
+       [Бинокль]Instrument приходится [держать]State всё время под рукой.
+  - |
+       Путешествовать комфортнее, если под рукой [есть]State умная [техника]Instrument.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - State
+  - Possessor
+  - Instrument
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] рукой]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] меня] [advmod всегда] есть [nsubj [amod запасной] ключ] [obl [case под] рукой].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - оказался
+  - оказалось
+  - нашел
+  - держать
+  - иметь
+  - быть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Possession
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    "Possession Object gets Possessed"

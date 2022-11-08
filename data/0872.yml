@@ -1,0 +1,62 @@
+---
+record: 872
+name: 'VP во все глаза'
+UD_name: 'VP во все глаза'
+illustration: 'Смотри во все глаза, чтобы никто не прошёл!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция указывает на максимальную степень интенсивности признака или действия. Конструкция обозначает, что [некоторый участник]Participant [смотрит]Action на [объект]Theme с большим вниманием, очень пристально.
+  - norwegian: |
+       Konstruksjonen angir et kjennetegns eller en handlings høyeste intensitetsnivå. Konstruksjonen betyr at [en gitt deltaker]Participant [ser på]Action [et objekt]Theme med stor oppmerksomhet, svært intenst.
+examples:
+  - |
+       [Сын]Participant с любопытством [глядел]Action во все глаза на [действия папы]Theme.
+  - |
+       А [она]Participant стоит и [смотрит]Action на [меня]Theme во все глаза.
+  - |
+       [Я]Participant во все глаза [уставился]Action на [нее]Theme.
+  - |
+       [Какая-то старуха]Participant [глазела]Action на [него]Theme во все глаза.
+  - |
+       [Толпа]Participant во все глаза [разглядывала]Action [принцессу]Theme.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+semantic_roles:
+  - Action
+  - Theme
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det все] глаза]]'
+dependency_structure_of_illustration:
+  - '[root Смотри [obl [case во] [det все] глаза], [advcl [mark чтобы] [nsubj никто] [advmod не] прошёл]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - смотреть
+  - глядеть
+  - разглядывать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,62 @@
+---
+record: 1451
+name: 'нисколько не VP'
+UD_name: 'нисколько не VP'
+illustration: 'Я нисколько в этом не сомневаюсь.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта.
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og uttrykker en kategorisk (fullstendig) avvisning av [en handling]Action ved å avvise dens minste bestanddel.
+examples:
+  - |
+       И разница в несколько лет нисколько не [мешает]Action нам с Сергеем находить общий язык.
+  - |
+       Но интерес мой к футболу нисколько не [ослабевал]Action.
+  - |
+       Биохимик нисколько не [обиделся]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod нисколько] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod нисколько] [obl [case в] этом] [advmod не] сомневаюсь.]'
+comment: |
+    'См. близкие конструкции ничуть не VP, ни на грамм не VP, ни на йоту не VP'
+common_fillers:
+  - удивить
+  - обеспокоить
+  - повлиять
+  - желать
+  - подозревать
+  - жалеть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected generally
+family:
+  - |
+    "Family of intensifying constructions referring to a minimal portion of activity"

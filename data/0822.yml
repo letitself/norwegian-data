@@ -1,0 +1,66 @@
+---
+record: 822
+name: 'VP в совершенстве'
+UD_name: 'VP в совершенстве'
+illustration: 'Он владел китайским в совершенстве.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает наивысшую положительную оценку [уровню знаний или умений]State человека, его способности выполнять некоторое [действие]Action.
+  - norwegian: |
+       Konstruksjonen betegner en maksimalt positiv vurdering av en persons [kunnskaper eller ferdigheter]State og av vedkommendes evne til å utføre en gitt [handling]Action.
+examples:
+  - |
+       Китайские мастера в совершенстве [владели техникой резьбы по дереву]State, о чем свидетельствуют печатные листки, выполненные еще в XII веке.
+  - |
+       Она с отцом вместе занималась хинди, сама к концу студенческих лет почти в совершенстве [выучила французский]Action.
+  - |
+       ― Он лишился правой руки. ― Как же он играл? ― Он научился в совершенстве [играть левой]Action. ― Разве такое возможно?
+  - |
+       Искусством разговаривать взглядами она явно [владела]State в совершенстве.
+  - |
+       Тут и "двоеженство", и насильственная связь с нелюбимым и нелюбящим человеком, и несчастная судьба детей, лишённых имени. Каждую из этих коллизий Коллинз [разработал]Action в совершенстве и довёл до крайней драматической остроты.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - State
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] совершенстве]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] владел [xcomp китайским] [obl [case в] совершенстве].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - владеть
+  - освоить
+  - знать
+  - выучить
+  - научиться
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Capacity/Intellect"

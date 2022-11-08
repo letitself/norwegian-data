@@ -1,0 +1,59 @@
+---
+record: 1652
+name: 'не сегодня завтра VP'
+UD_name: 'не сегодня завтра VP'
+illustration: 'Не сегодня завтра мы всё узнаем.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что, судя по текущим обстоятельствам, некоторая [ситуация]Situation будет иметь место в ближайшие несколько дней, однако точное время наступления этой ситуации неизвестно.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation, etter omstendighetene å dømme, vil finne sted en av de nærmeste dagene, skjønt det eksakte tidspunktet for når situasjonen vil inntreffe, er ukjent.
+examples:
+  - |
+       По общей атмосфере было ясно: не сегодня завтра [разрешат печатать Солженицына]Situation.
+  - |
+       Никитина книжка не сегодня завтра [будет готова]Situation.
+  - |
+       Он не сегодня завтра [станет главным редактором]Situation.
+  - |
+       Она всю дорогу говорила, что Толя не сегодня завтра умрёт.
+  - |
+       К съемкам фильма Петров намерен был [приступить]Situation не сегодня завтра.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod [advmod не] сегодня [conj завтра]] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod [advmod Не] сегодня [conj завтра]] [nsubj мы] [obj всё] узнаем.]'
+comment: |
+    'В текстах встречается написание "не сегодня-завтра", однако современной орфографической норме такое написание не соответствует.'
+common_fillers:
+  - быть
+  - мочь
+  - умереть
+  - собираться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

@@ -1,0 +1,71 @@
+---
+record: 810
+name: 'VP в руки NP-Gen/в руки (к) NP-Dat'
+UD_name: 'VP в руки NP-Gen/в руки (к) NP-Dat'
+illustration: 'Власть попала в руки неопытного человека.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme оказывается в зоне контроля другого [участника]Possessor, который как правило является враждебно настроенным противником.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Participant eller [et objekt]Theme havner i kontrollsonen til en annen [deltaker]Possessor, som regel en fiendtlig innstilt motstander.
+examples:
+  - |
+       А если эта [информация]Theme [попадёт]Action в руки [криминала]Possessor?
+  - |
+       В руки [Германии]Possessor [попали]Action значительные [запасы вооружения]Theme.
+  - |
+       И ты [отдаёшь]Action свою [судьбу]Theme в руки [тех]Possessor, кто здесь работает.
+  - |
+       ― Этот предмет. Он может [попасть]Action в руки [кому угодно]Possessor. Может [попасть]Action в руки [тирану]Possessor, [старушке]Possessor, [ребенку]Possessor.
+  - |
+       Через неделю [ковбой]Participant опять скачет по дороге и опять [попадает]Action в руки к [индейцам]Possessor.
+morphology:
+  - VP
+  - NP
+  - Gen
+  - Dat
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Possessor
+  - Theme
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] руки [nmod NP-Gen]]]'
+  - '[root VP [obl [case в] руки [nmod [case к] NP-Dat]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Власть] попала [obl [case в] руки [nmod [amod неопытного] человека]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - попасть
+  - отдать
+  - перейти
+  - дать
+  - вручить
+  - судьба
+  - власть
+  - врага
+references:
+  - |
+    No references
+semantic_types:
+  - type: Possession
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    "Possession Object gets Possessed"

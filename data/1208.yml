@@ -1,0 +1,62 @@
+---
+record: 1208
+name: 'NP-Nom сойти за NP-Acc'
+UD_name: 'NP-Nom сойти за NP-Acc'
+illustration: 'Молчи и за умного сойдёшь!'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Participant или [объект]Theme может быть воспринят в качестве [элемента множества, которому он не принадлежит]Status. Как правило, этому способствует внешний вид объекта или участника или его поведение.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i situasjonen]Participant eller [et objekt]Theme kan bli oppfattet som et [element i en mengde den ikke tilhører]Status. Som regel er det objektets eller deltakerens utseende eller atferd som medvirker til dette.
+examples:
+  - |
+       Я обернулся к ним и подумал, что они выглядят как Васины дети. [Они]Participant могли бы сойти за [его детей]Status.
+  - |
+       Ее гражданство так и остается для меня загадкой, хотя по фамилии и безупречному английскому [она]Participant сойдет за [шведку]Status или [финку]Status.
+  - |
+       [Другая кошка]Participant была дымчато-серой и такой пушистой, что могла сойти за [сибирскую]Status.
+  - |
+       Надо сколько-то прожить здесь, чтобы сойти за [своих]Status.
+  - |
+       [Рубашка]Theme была такая длинная и широкая, что могла сойти за [платье]Status.
+morphology:
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - Participant
+  - Status
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] сойти [obl [case за] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root Молчи [conj [cc и] [obl [case за] умного] сойдёшь]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - умный
+  - свой
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+family:
+  - |
+    ""

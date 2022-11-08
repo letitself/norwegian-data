@@ -1,0 +1,73 @@
+---
+record: 2273
+name: 'в-NumOrd-ых, XP/Cl'
+UD_name: 'в-NumOrd-ых, XP/Cl'
+illustration: 'Во-первых, я бы хотел поблагодарить своего тренера.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция оформляет перечисление нескольких отдельных [мыслей]ContentOfSpeech, разбивает речь на пункты и таким образом организует монолог. Пункты приводятся в определенной последовательности и пронумерованы: во-первых, во-вторых, в-третьих, в-четвертых и т. д. Слово "во-первых" называет первый пункт в списке, который обычно является и самым важным для говорящего. Слот XP может заполняться глагольной, именной, предложной группой, предикативом или наречием.
+  - english: |
+       This construction is used to itemize a number of [statements]ContentOfSpeech and thus organizes one's monolog by breaking it down into bullet points. The points are listed in a certain order and are numbered: во-первых 'firstly', во-вторых 'secondly', в-третьих 'thirdly', в-четвертых 'fourthly', etc. The word "во-первых" 'firstly' names the first and usually most important point for the speaker. The possible fillers of the XP slot include a verb phrase, noun phrase, prepositional phrase, predicative and an adverb.
+  - norwegian: |
+       Konstruksjonen utformer en oppregning av flere, adskilte [tanker]ContentOfSpeech, deler inn talestrømmen i punkter og strukturerer på denne måten en monolog. Punktene settes i en bestemt rekkefølge og er nummererte: for det første, for det andre, for det tredje, for det fjerde osv. Ordene "во-первых" angir det første punktet i listen, som vanligvis er det viktigste punktet for taleren. Sloten XP kan fylles av en verbalfrase, en nominalfrase, et preposisjonsledd, et predikativ eller et adverb.
+examples:
+  - |
+       У каждого человека в жизни две задачи: во-первых, [добиться того, что хочется,]ContentOfSpeech и, во-вторых, [получить от этого удовлетворение.]ContentOfSpeech
+  - |
+       Да, реагирую я эмоционально, потому что, во-первых, [я женщина,]ContentOfSpeech а во-вторых, [Вы меня публично унизили.]ContentOfSpeech
+  - |
+       В феврале совет акционеров не утвердил новый проект и вернул его на доработку. Во-первых, [неожиданно.]ContentOfSpeech Во-вторых, [приятно.]ContentOfSpeech В-третьих, [посмотрим, что будет дальше.]ContentOfSpeech
+  - |
+       Современное состояние музея в Ферапонтове максимально приближается к цивилизованной норме обращения с уникальным памятником. Во-первых, [здесь идеально проведена реставрация.]ContentOfSpeech  Во-вторых, [нет конфликта между церковью и музеем.]ContentOfSpeech В-третьих, [музей формирует собственную коллекцию, то есть ведёт нормальную активную музейную жизнь.]ContentOfSpeech В-четвёртых, [здесь есть маленький музейный магазин.]ContentOfSpeech
+  - |
+       Из короткого разговора со следователем Виталий вынес немало полезной информации. Во-первых, [Баглаев очень уважает закон.]ContentOfSpeech Во-вторых, [он не стремится показать, кто здесь главный.]ContentOfSpeech В-третьих, Тимур Ахмедович ведет активную работу.]ContentOfSpeech В-четвертых, [он не хочет сокращать дистанцию.]ContentOfSpeech В-пятых, [у него хорошая память.]ContentOfSpeech И  в-шестых, [он явно любит настоящий русский язык.]ContentOfSpeech
+morphology:
+  - NumOrd
+  - Cl
+  - VP
+  - NP
+  - PP
+  - Adv
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis в-NumOrd-ых]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Во-первых], [nsubj я] [aux бы] хотел [xcomp поблагодарить [obj [det своего] тренера]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - во-первых
+  - во-вторых
+  - в-третьих
+  - в-четвертых
+  - в-пятых
+  - в-шестых
+  - в-седьмых
+  - в-восьмых
+  - в-девятых
+  - в-десятых
+  - в-сотых
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Sequence
+family:
+  - |
+    ""

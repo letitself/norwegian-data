@@ -1,0 +1,63 @@
+---
+record: 1361
+name: 'VP в процессе NP-Gen'
+UD_name: 'VP в процессе NP-Gen'
+illustration: 'Все вопросы будут решены в процессе работы.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [определенное действие]Action происходит во время [более масштабной ситуации]Situation и их участники совпадают.
+  - norwegian: |
+       Konstruksjonen betyr at [en bestemt handling]Action foregår i [en situasjon av større omfang]Situation og at deltakerne er de samme.
+examples:
+  - |
+       Этот персонаж [создавался]Action в процессе [поисков ответов на детские вопросы]Situation: откуда в доме берётся ёлка, кто её приносит, кто дарит подарки?..
+  - |
+       Контактируя с родителями в процессе [работы]Situation, мы [пришли к неожиданному выводу.]Action
+  - |
+       В процессе [эволюции]Situation птицы [начинали пользоваться крыльями по-другому]Action, нежели их далекие предки.
+  - |
+       В процессе [отстаивания своих интересов]Situation они [пришли к выводу, что им мешает что-то в законодательстве]Action.
+  - |
+       В процессе [обучения]Situation некоторые студенты [стажируются в лабораториях Западной Европы и США]Action.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root VP [obl [case в] процессе [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass [det Все] вопросы] [aux:pass будут] решены [obl [case в] процессе [nmod работы]].]'
+comment: |
+    'См. близкие конструкции 1360, 1362, 1637'
+common_fillers:
+  - работы
+  - съёмок
+  - создания
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

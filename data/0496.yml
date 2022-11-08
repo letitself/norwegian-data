@@ -1,0 +1,47 @@
+---
+record: 496
+name: 'NP-Gen.Pl NumCrd'
+UD_name: 'NP-Gen.Plur NumCrd'
+illustration: 'На лекцию пришли человек двадцать.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+  - Pl
+  - NumCrd
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Inversion
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep NP-Gen.Pl [nummod NumCrd]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] лекцию] пришли [nsubj человек [nummod:gov двадцать]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

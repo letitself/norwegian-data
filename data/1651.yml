@@ -1,0 +1,63 @@
+---
+record: 1651
+name: 'со дня на день VP'
+UD_name: 'со дня на день VP'
+illustration: 'Со дня на день вернутся родители.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что, судя по текущим обстоятельствам, некоторая [ситуация]Situation будет иметь место в ближайшие несколько дней, однако точное время наступления этой ситуации неизвестно. В некоторых случаях, ситуация может не наступить.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation, etter omstendighetene å dømme, vil finne sted en av de nærmeste dagene, skjønt det eksakte tidspunktet for når situasjonen vil inntreffe, er ukjent. I noen tilfeller kan det hende at situasjonen ikke inntreffer.
+examples:
+  - |
+       Со дня на день [должен был приехать врач]Situation.
+  - |
+       Со дня на день [новые сапоги появятся в магазинах]Situation.
+  - |
+       На работе обещают со дня на день [заплатить за январь]Situation.
+  - |
+       Спорю на рубль, Зудин со дня на день [позвонит]Situation и попросит денег взаймы.
+  - |
+       Вроде [у тебя жена должна родить]Situation со дня на день?
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case со] дня] [obl [case на] день] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Со] дня] [obl [case на] день] вернутся [nsubj родители].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - начаться
+  - появиться
+  - стать
+  - собираться
+  - прийти
+  - рожать
+  - родить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

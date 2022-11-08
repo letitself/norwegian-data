@@ -1,0 +1,58 @@
+---
+record: 550
+name: 'NP-Nom прийтись-Pst (NP-Dat) впору/в самый раз/как раз/в аккурат'
+UD_name: 'NP-Nom прийтись-Past (NP-Dat) впору/в самый раз/как раз/в аккурат'
+illustration: 'Сапоги пришлись ему впору.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Pst
+  - Dat
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Adverb
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [advmod впору]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [obl [case в] [det самый] раз]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [advmod как [fixed раз]]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [iobj NP-Dat] [obl [case в] аккурат]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [advmod впору]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [obl [case в] [det самый] раз]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [advmod как [fixed раз]]]'
+  - '[root [nsubj NP-Nom] прийтись-Pst [obl [case в] аккурат]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Сапоги] пришлись [iobj ему] [advmod впору].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Exact
+  - type: Measure
+    subtypes:
+      - type: Size
+family:
+  - |
+    ""

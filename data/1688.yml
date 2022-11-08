@@ -1,0 +1,49 @@
+---
+record: 1688
+name: 'Verb-~Verb, но так и не VP'
+UD_name: 'V-V, но так и не VP'
+illustration: 'Он писал-писал свой роман, но так и не закончил его.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Verb
+  - VP
+syntactic_type_of_construction:
+  - Clause
+  - Biclausal Construction
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Verb-[conj Verb]'
+  - '[conj [cc но] [advmod так [fixed и]] [advmod не] Verb]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] писал - [conj писал] [obj [det свой] роман], [conj [cc но] [advmod так [fixed и]] [advmod не] закончил [obj его]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Conative
+family:
+  - |
+    ""

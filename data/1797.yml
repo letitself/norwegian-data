@@ -1,0 +1,58 @@
+---
+record: 1797
+name: 'под-Verb'
+UD_name: 'под-V'
+illustration: 'Я подзабыла, о чём мы говорили вчера.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает ослабленное или неполное [действие]Action.
+  - norwegian: |
+       Konstruksjonen uttrykker en svekket eller mangelfull [handling]Action.
+examples:
+  - |
+       Через месяц, когда я уже, признаться, успел [подзабыть]Action о неудачном эксперименте, он вдруг позвонил мне.
+  - |
+       ― Отличная фотография, просто цвет [подправить]Action.
+  - |
+       Любители сладкой овсянки могут [подсластить]Action уже готовую кашу, кроме сахара, изюмом, кусочками абрикосов или бананов.
+  - |
+       Если люстра [поднадоела]Action, то подвесной потолок с точечными светильниками ― это как раз для вас.
+morphology:
+  - Verb
+syntactic_type_of_construction:
+  - Morphological Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root под-Verb]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] подзабыла, [ccomp [obl [case о] чём] [nsubj мы] говорили [advmod вчера]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - подзабыть
+  - подсохнуть
+  - поднадоесть
+references:
+  - |
+    About morphological markers of attenuativity see Makarova, Anastasia. 2014. Makarova, Anastasia. 2014. Rethinking diminutives: a case study of Russian verbs. Doctoral Dissertation. UiT: The Arctic University of Norway; См. также Зализняк А. А., Шмелев А.Д. 2000. Введение в русскую аспектологию. Москва. Издательство «Языки русской культуры». С. 120.
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Attenuative
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+family:
+  - |
+    "Attenuative family"

@@ -1,0 +1,60 @@
+---
+record: 11
+name: '(как) по мне, (так) Cl'
+UD_name: '(как) по мне, (так) Cl'
+illustration: 'Как по мне, это ещё не беда.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает мнение говорящего по некоторому вопросу и обычно вводит [оценочное высказывание]Evaluation. Конструкция имеет значение 'я считаю, что Cl'.
+  - english: |
+       This construction expresses the speaker’s opinion on some issue and usually introduces an [evaluative statement]Evaluation. The construction encodes the meaning ‘I believe that Cl.’
+  - norwegian: |
+       Konstruksjonen uttrykker talerens mening i en gitt sak og innleder vanligvis [et vurderende utsagn]Evaluation. Konstruksjonen har betydningen 'jeg synes at Cl'.
+examples:
+  - |
+       Давно собирался посмотреть этот фильм и хотел было уже покупать dvd, а тут узнал, что его как раз по ТВ показывают. И хорошо, что всё-таки не потратил денег — как по мне, [фильм того совершенно не стоил]Evaluation.
+  - |
+       Как по мне, так [в вагончике, где мы переодевались и обедали было не намного чище, чем на улице]Evaluation.
+  - |
+       Не знаю, по мне, так [ее голос идеально подходит для колыбельной!]Evaluation
+  - |
+       Она была в красном платье. Элегантна, стройна, изящна. Но на любителя. По мне ― [больно худая]Evaluation: сразу захотелось накормить ее котлетами.
+  - |
+       По мне, так [это все какая-то большая глупость]Evaluation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - Evaluation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [mark как] [case по] мне]], Cl]'
+  - '[root [parataxis [case по] мне]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [mark Как] [case по] мне]], [nsubj это] [advmod ещё] [advmod не] беда.]'
+comment: |
+    'См. похожие конструкции 264 и 1137.'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    "Reference to the owner of opinion"

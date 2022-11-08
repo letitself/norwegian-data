@@ -1,0 +1,50 @@
+---
+record: 383
+name: 'чудо какой Adj'
+UD_name: 'чудо какой Adj'
+illustration: 'Машенька просто чудо какая красивая.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - Adj
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[amod [advmod чудо [det какой]] Adj]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Машенька] [advmod просто] чудо [det какая] [amod красивая].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Expressions of surprisal
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Expressions of surprisal"

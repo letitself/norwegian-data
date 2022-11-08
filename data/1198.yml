@@ -1,0 +1,62 @@
+---
+record: 1198
+name: 'не прямо XP, а/но XP'
+UD_name: 'не прямо XP, а/но XP'
+illustration: 'Стоял не прямо перед зеркалом, а чуть в стороне.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает противопоставление двух формулировок. По мнению говорящего, [формулировка]Evaluation во второй части предложения (после «сколько») более точно соответствует ситуации, чем [формулировка]Evaluation в первой части предложения (после «не столько»). Говорящий словно поправляет сам себя в процессе речи. Говорящий может также указывать на то, что некоторые объекты не находятся в непосредственном контакте, а их разделяют другие объекты (пример 5). Слот XP может быть выражен предложной группой (примеры 1, 2, 4, 5), наречием (пример 2), причастием (пример 3).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to formuleringer stilles opp som motsetninger. Etter talerens mening samsvarer [formuleringen]Evaluation i setningens andre del (etter "сколько") mer presist med situasjonen enn [formuleringen]Evaluation i setningens første del (etter "не столько"). Taleren retter liksom på seg selv i taleprosessen. Taleren kan også vise til at enkelte objekter ikke er i direkte kontakt med hverandre, men skilt av andre objekter (eksempel 5). Sloten XP kan være uttrykt av et preposisjonsledd (eksempel 1, 2, 4 og 5), et adverb (eksempel 2) eller et partisipp (eksempel 3).
+examples:
+  - |
+       У нас же тут, поскольку горы и дожди, гольф-кары ездят не прямо [по газону]Evaluation, а [по специальным асфальтовым дорожкам]Evaluation.
+  - |
+       Там, считает политолог, планировали образование либеральной партии, но не прямо [сейчас]Evaluation, а, скорее, [на следующих выборах]Evaluation.
+  - |
+       А второй из упомянутых моментов ― компаньон мой тогдашний. Ну, не прямо [присутствовавший]Evaluation, конечно, но [бывший там]Evaluation в те же примерно годы, разве что на три года моложе.
+  - |
+       Его осуждали не прямо [за шпионаж]Evaluation, а [за подозрение в шпионаже]Evaluation.
+  - |
+       Свечи, в том числе и гелевые, лучше ставить не прямо [на скатерть]Evaluation, а [на поднос или блюдо]Evaluation из огнеупорного материала.
+morphology:
+  - XP
+  - PP
+  - Adj
+  - Adv
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - Evaluation
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [advmod не] [advmod прямо] XP, [conj [cc а] XP]]'
+  - '[dep [advmod не] [advmod прямо] XP, [conj [cc но] XP]]'
+dependency_structure_of_illustration:
+  - '[root Стоял [advmod не] [obl [advmod прямо] [case перед] зеркалом, [conj [cc а] [advmod чуть] [case в] стороне]].]'
+comment: |
+    'См. синонимичные конструкции 203 не столь(ко) XP, сколь(ко) XP (Травмы оказались не столько тяжёлыми, сколько сложными.), 207 не то чтобы XP/Cl, а/но XP/Cl (Он не то чтобы расстроился, но огорчился.), 1197 не совсем XP, (а) скорее XP (Не совсем друг, скорее, приятель.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+family:
+  - |
+    "Biclausal constructions of Contrast"

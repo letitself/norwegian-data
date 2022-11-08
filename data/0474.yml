@@ -1,0 +1,48 @@
+---
+record: 474
+name: 'NP-Dat дать NumCrd-Acc лет'
+UD_name: 'NP-Dat дать NumCrd-Acc лет'
+illustration: 'Паше дают двадцать лет на вид.'
+cefr_level: A1
+definitions:
+examples:
+morphology:
+  - NP
+  - Dat
+  - NumCrd
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] дать [obj [nummod NumCrd-Acc] лет]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Паше] дают [obj [nummod:gov двадцать] лет] [obl [case на] вид].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Measure
+    subtypes:
+      - type: Age
+family:
+  - |
+    ""

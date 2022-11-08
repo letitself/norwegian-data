@@ -1,0 +1,60 @@
+---
+record: 2179
+name: 'что называется, XP'
+UD_name: 'что называется, XP'
+illustration: 'Первую попытку я сделал, что называется, наугад.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция выделяет в тексте [некоторую формулировку]Theme, которую выбирает говорящий для выражения своей мысли. Говорящий апеллирует к широко известному расхожему выражению, которое употребляется в переносном смысле (пример 1), является идиомой (примеры 2, 3, 4) или термином (пример 5). Часто слова «что называется» вклиниваются внутрь этого выражения (пример 3). Слот XP может заполняться именной, предложной или глагольной группой.
+  - norwegian: |
+       Konstruksjonen fremhever [en gitt formulering]Theme som taleren velger for å uttrykke sin tanke. Taleren appellerer til et velkjent og vanlig uttrykk som brukes i overført betydning (eksempel 1) og som er et idiom (eksempel 2, 3 og 4) eller en fagterm (eksempel 5). Ordene 'что называется' tar ofte plass inne i dette uttrykket (eksempel 3). Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
+examples:
+  - |
+       Ты каждый день принимаешь решения, которые идут, что называется, [в двух шагах от]Theme беды.
+  - |
+       Профессионалы, конечно, что называется, [снимали перед Александром шляпу]Theme ― и в истории цирка Кисс останется как один из величайших жонглёров всех времён и народов.
+  - |
+       Придя к нему на приём, я попросила его совсем о другом. Без всяких вопросов, без всяких "подходов" [взяла, что называется, быка за рога]Theme и сказала прямо в лоб: ― Для перевода в Большой театр мне нужна характеристика, и я хочу, чтобы её написали именно вы.
+  - |
+       Она потом даже вела спецсеминар в Воронежском педагогическом институте по безусловным рефлексам и даже защитила по ним кандидатскую диссертацию, что называется ["на ура"]Theme.
+  - |
+       Промелькнуло это время так быстро, сдала я все экзамены в школе, приблизила свой английский к уровню, что называется, [носителей языка]Theme (очень, кстати, правильный термин), приобрела среди московских американцев репутацию барышни.
+morphology:
+  - XP
+  - NP
+  - PP
+  - VP
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+semantic_roles:
+  - Theme
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [parataxis [nsubj что] называется]'
+  - 'XP]'
+dependency_structure_of_illustration:
+  - '[root [obj [amod Первую] попытку] [nsubj я] сделал, [parataxis [nsubj что] называется], [advmod наугад].]'
+comment: |
+    'См. близкую конструкцию 1105 как говорится, XP (Как говорится, будем!) и 1120 так сказать, XP (Это один из тех фильмов, которые, так сказать, на века).'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Intersubjectivity
+family:
+  - |
+    "Intersubjectivity"

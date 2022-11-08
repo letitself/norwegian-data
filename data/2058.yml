@@ -1,0 +1,59 @@
+---
+record: 2058
+name: 'если не считать NP-Gen, Cl'
+UD_name: 'если не считать NP-Gen, Cl'
+illustration: 'Он самый главный в фирме, если не считать директора.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что при оценивании ситуации[Situation], некоторый [элемент]Element исключается из рассмотрения, из набора объектов или участников этой ситуации. Как если бы набор объектов пересчитывали, а этот элемент не учитывали при счете. Получается, что с одной стороны, для формулировки весомой оценки ситуации этим элементом можно пренебречь. С другой стороны, данный элемент тем не менее упоминается в виде оговорки, таким образом смягчая категоричность всего высказывания. Исключение элемента из ситуации определяет справедливость предлагаемой оценки ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at [et element]Element ikke tas med i behandlingen eller utelukkes fra utvalget av objekter eller deltakere i [en situasjon]Situation som skal vurderes. Det er som om objektutvalget er telt opp på ny og dette elementet ikke er tatt med i opptellingen. På den ene side får vi da at det er mulig å neglisjere dette elementet og likevel formulere en tungtveiende vurdering av situasjonen. På den annen side tas det, ikke desto mindre, et forbehold om dette elementet, slik at det samlede utsagnet fremstår som mindre absolutt. At elementet er utelatt fra situasjonen, rettferdiggjør den foreslåtte vurderingen av situasjonen.
+examples:
+  - |
+       [Таких заводов в стране ещё нет]Situation, если не считать [экспериментальной установки в Рязани]Element.
+  - |
+       [Я не испытывал никаких неприятных ощущений]Situation, если не считать [головной боли]Element.
+  - |
+       [Он один по-настоящему разбирался в этом деле]Situation, если не считать [Сниткина]Element.
+  - |
+       [Это была последняя работа художника]Situation, если не считать [портрета дочери]Element.
+  - |
+       Если не считать [запаха плесени]Element, [дом был в хорошем состоянии]Situation.
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - Element
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advcl [mark если] [advmod не] считать [obj NP-Gen]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [amod самый] главный [obl [case в] фирме], [advcl [mark если] [advmod не] считать [obj директора]].]'
+comment: |
+    'См. синонимичные конструкции 1902, 2030, 2031.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Caritive
+family:
+  - |
+    "Caritive constructions without the preposition BEZ"

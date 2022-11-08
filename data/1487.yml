@@ -1,0 +1,62 @@
+---
+record: 1487
+name: 'море NP-Gen'
+UD_name: 'море NP-Gen'
+illustration: 'Из окна открывался потрясающий вид – яркая зелень и море цветов.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает большое количество [объектов]Theme. [Объектами]Theme обычно бывают жидкости, эмоции, абстрактные понятия. Слот может заполняться как исчисляемыми существительными (подарки, люди), так и неисчисляемыми (кровь, радость, информация).
+  - norwegian: |
+       Konstruksjonen betegner et stor mengde [objekter]Theme. [Objektene]Theme er vanligvis flytende væsker, emosjoner og abstrakte begreper. Sloten kan fylles av så vel tellelige substantiver (gaver, mennesker) som av utellelige (blod, glede, informasjon).
+examples:
+  - |
+       Разве мало вам того моря [крови]Theme, того моря [слёз]Theme, что мы пролили за войну?
+  - |
+       Прошло без малого 45 лет, а комедия Леонида Гайдая всё так же приносит нам море [радости и оптимизма]Theme.
+  - |
+       В сентябре у нас будет проходить суперакция. Море [подарков]Theme от компании «Орифлейм» для всех дам.
+  - |
+       В море [информации]Theme человек нашел именно твою книгу, захотел её прочитать, скачал на свой компьютер.
+  - |
+       Москва ликовала. Красная площадь представляла собой море [людей]Theme, пляшущих, поющих, обнимающихся.
+morphology:
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep море [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Из] окна] открывался [nsubj [amod потрясающий] вид] – [appos [amod яркая] зелень [conj [cc и] море [nmod цветов]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - песок
+references:
+  - |
+    Kibisova, Elizaveta. 2020. “How Do We Measure ‘measure’? Measure Constructions and Metaphor”. In: Poljarnyj Vestnik 23. 1–17; Ли, Су Хён. 2005. Когнитивный анализ русских конструкций с именными квантификаторам. Дисс. канд. филол. наук. Москва.
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+  - type: Quantification
+    subtypes:
+      - type: Existential
+family:
+  - |
+    "Measure constructions with nominal quantifiers."

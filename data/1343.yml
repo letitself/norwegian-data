@@ -1,0 +1,65 @@
+---
+record: 1343
+name: 'VP-Pfv раз и навсегда'
+UD_name: 'VP-Perf раз и навсегда'
+illustration: 'Запомни это раз и навсегда.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action достигло результата, который позволяет не повторять это действие в будущем. Результат будет сохраняться на протяжении неограниченно долгого времени.
+examples:
+  - |
+       Надо [покончить]Action с тараканами раз и навсегда!
+  - |
+       [Запомни]Action раз и навсегда, как ты относишься к людям, так и они — к тебе.
+  - |
+       Не стоит думать, что достаточно пойти к массажисту, чтобы [устранить все проблемы со здоровьем]Action раз и навсегда.
+  - |
+       – И давайте раз и навсегда [договоримся]Action: что вы имеете в виду под словами «решить вопрос»?
+  - |
+       Считаю, что нужно раз и навсегда [закрыть доступ в школы тем, кто был ранее осуждён за тяжкие преступления]Action.
+morphology:
+  - VP
+  - Pfv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl раз [conj [cc и] навсегда]]]'
+dependency_structure_of_illustration:
+  - '[root Запомни [obj это] [obl раз [conj [cc и] навсегда]].]'
+comment: |
+    'См. близкую конструкцию 1341.'
+common_fillers:
+  - покончить
+  - решить
+  - закрыть
+  - запомнить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Quantification
+    subtypes:
+      - type: Existential
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

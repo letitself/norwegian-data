@@ -1,0 +1,62 @@
+---
+record: 212
+name: 'не NP какой-нибудь'
+UD_name: 'не NP какой-нибудь'
+illustration: 'Мы не бомжи какие-нибудь!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник (реже: объект) с точки зрения говорящего не является [представителем некоторого множества участников]Theme. Подразумевается, что представители этого множества  не заслуживают внимания или уважения. Конструкция содержит негативную оценку представителей этого множества и возвышает над ними участника или объект по их статусу, качеству или другим характеристикам. Подразумевается, что этим участником нельзя пренебрегать, а следует оценить по достоинству.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker (sjeldnere: et objekt), etter talerens mening, ikke er [representant for en gitt mengde deltakere]Theme. Det er underforstått at representantene for denne mengden ikke fortjener oppmerksomhet eller respekt. Konstruksjonen inneholder en nedvurdering av representantene for denne mengden og setter deltakeren eller objektet høyere enn dem, grunnet status, gode egenskaper eller andre kjennetegn. Det er underforstått at deltakeren ikke må ringeaktes, men vedsettes ordentlig.
+examples:
+  - |
+       Да и вообще, это звучит гордо: «Ты кем работаешь?» ― «Спасателем!» А не [менеджером]Theme каким-нибудь.
+  - |
+       Между прочим, у Веры муж специалист, а не [монтер]Theme какой-нибудь.
+  - |
+       Парень молодой, из себя ничего, к тому же из армии, не [сопляк]Theme какой-нибудь, довольно начитан, мог поговорить с девушкой, танцевал какие хотите танцы.
+  - |
+       Да я не [проходимец]Theme какой-нибудь, ты не думай.
+  - |
+       Я не [детектив]Theme какой-нибудь сочиняю, а рассказываю действительную историю ― да и не историю даже, а случай.
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Pronoun
+semantic_roles:
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] NP [det какой-нибудь]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] [advmod не] бомжи [det какие-нибудь]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - бомж
+  - проходимец
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+        subtypes:
+          - type: Unknown
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Unknown"

@@ -1,0 +1,66 @@
+---
+record: 1806
+name: 'Cl, без проблем/вопросов'
+UD_name: 'Cl, без проблем/вопросов'
+illustration: 'Переезжай ко мне хоть завтра, без проблем!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает согласие говорящего выполнить некоторое [действие]Action и таким образом помочь в ситуации, как правило в ответ на просьбу, запрос, требование или потребность собеседника или другого участника. У говорящего нет возражений против этого действия. Конструкция обозначает положительное отношение говорящего к действию, готовность его выполнить. С точки зрения говорящего, действие можно легко осуществить, так что при этом не возникнет никаких сложностей.
+  - norwegian: |
+       Konstruksjonen betegner talerens samtykke til å utføre en gitt [handling]Action og på den måten yte bistand i situasjonen, som regel som svar på samtalepartnerens eller en annen deltakers bønn, forespørsel, krav eller behov. Taleren har ingen innvendinger mot handlingen. Konstruksjonen betyr at taleren forholder seg positivt til handlingen og samtykker til å utføre den. Fra talerens ståsted er handlingen lett å iverksette, så det vil ikke oppstå noen vanskeligheter i den forbindelse.
+examples:
+  - |
+       – Ты вымыла его моим шампунем! – догадалась Кристя. – Завтра все девчонки придут в класс с новым цветом волос, одна я, как дура… ― [Сейчас сбегаю в супермаркет за краской]Action, ― пообещала я, ― без проблем!
+  - |
+       Недавно студенты актерского института спросили меня, нет ли работы на Новый год. Я говорю: «[Есть]Situation, без проблем».
+  - |
+       ― [Можешь взять отгул]Action, Алекс, без проблем.
+  - |
+       ― Нервный срыв. Его в психушку увезли. ― Надо его забрать? ― Нет. Надо меня забрать. Я не хочу заходить домой одна ― он там буянил. ― [Заберу]Action, без вопросов, ― согласился Глеб. ― Я в двенадцатой психбольнице, метро «Щукинская».
+  - |
+       Юрий Павлович, судя по тому, что он говорил, всячески готов содействовать развитию трансплантологии в республике, если будет соответствующая государственная программа, если обяжут… [Поможем Галееву]Action, без вопросов! Приедем, пусть только позовет.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Situation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl, [parataxis [case без] проблем]]'
+  - '[root Cl, [parataxis [case без] вопросов]]'
+dependency_structure_of_illustration:
+  - '[root Переезжай [obl [case ко] мне] [advmod [advmod хоть] завтра], [parataxis [case без] проблем]!]'
+comment: |
+    'См. близкую конструкцию 1807 Cl, не вопрос (Я всё сделаю, не вопрос!)'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+family:
+  - |
+    "Willingness"

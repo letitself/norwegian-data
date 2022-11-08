@@ -1,0 +1,57 @@
+---
+record: 1510
+name: 'NP-Nom Cop Noun-Nom ~Noun-Ins'
+UD_name: 'NP-Nom Cop N-Nom N-Ins'
+illustration: 'Он такой глупый, дурак дураком.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Noun
+  - Ins
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] Noun-Nom [nmod Noun-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [det такой] глупый, [conj дурак [nmod дураком]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Janda, Laura A., Mihail Kopotev and Tore Nesset. 2020. “Constructions, their families and their neighborhoods: the case of дурак дураком ‘a fool times two’”. In: Russian Linguistics 44, 109-127; Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Standard exemplar
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+  - type: Salient property
+    subtypes:
+      - type: Paragon
+family:
+  - |
+    "Standard exemplar"

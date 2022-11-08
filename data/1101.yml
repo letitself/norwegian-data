@@ -1,0 +1,60 @@
+---
+record: 1101
+name: 'как бы NP-Nom хотеть-Pst VP-Inf'
+UD_name: 'как бы NP-Nom хотеть-Past VP-Inf'
+illustration: 'Как бы он хотел не слышать этого.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает пожелание [участника]Experiencer (как правило, говорящего) о том, чтобы произошло [некоторое действие]Action. Пожелание обычно относится к неосуществимым событиям.
+examples:
+  - |
+       Как бы [я]Experiencer хотела [увидеть его еще раз]Action.
+  - |
+       Как бы [я]Experiencer хотел [быть моряком]Action!
+  - |
+       Как бы [я]Experiencer хотел [уметь писать так просто, как Моцарт]Action!
+  - |
+       Как бы [я]Experiencer хотела сейчас [танцевать вместе с ним]Action!
+  - |
+       Как бы [Нина]Experiencer хотела [хоть чуть-чуть, хоть немного почувствовать себя смелой]Action.
+morphology:
+  - NP
+  - Nom
+  - Pst
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod как] [aux бы] [nsubj NP-Nom] хотеть-Pst [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Как] [aux бы] [nsubj он] хотел [xcomp [advmod не] слышать [obj этого]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - я
+  - увидеть
+  - не знать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

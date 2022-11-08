@@ -1,0 +1,63 @@
+---
+record: 1952
+name: 'VP при NP-Loc'
+UD_name: 'VP при NP-Loc'
+illustration: 'Не ругайся при детях!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается в присутствии [некоторого участника или группы участников]Associated.
+examples:
+  - |
+       Может быть, он не хочет [разговаривать]Action при [матери?]Participant
+  - |
+       Родители с грустью [обсуждали]Action при [сыне Эдике]Participant, что им не удалось накопить денег на Рождество.
+  - |
+       Мне было неудобно [раздеваться]Action при [девушке.]Participant
+  - |
+       Я сильно злился, когда кто-то [рассказывал]Action при [Полине]Participant похабный анекдот.
+  - |
+       Не в моих правилах было [плакать]Action при [чужих.]Participant
+morphology:
+  - VP
+  - NP
+  - Loc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case при] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] ругайся [obl [case при] детях]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ругаться
+  - разговаривать
+  - плакать
+  - раздеваться
+  - ребенке
+  - детях
+  - свидетелях
+  - людях
+  - чужих
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Witnesses
+family:
+  - |
+    ""

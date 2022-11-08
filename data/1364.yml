@@ -1,0 +1,72 @@
+---
+record: 1364
+name: 'VP в бытность (PronPers) NP-Ins'
+UD_name: 'VP в бытность (PronPers) NP-Ins'
+illustration: 'В бытность его мэром Москвы произошло много перемен.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [ситуация]Situation происходила в тот период времени, когда [некоторый участник]Possessor обладал [определённым статусом]Status.
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation foregikk på den tiden [en gitt deltaker]Possessor hadde [en bestemt status]Status.
+examples:
+  - |
+       В бытность [мою]Possessor [министром иностранных дел]Status [мы договорились с американцами по поводу технического сотрудничества]Situation.
+  - |
+       Граф Воронцов, в бытность [его]Possessor [владельцем села]Status, [построил каменные торговые ряды]Situation.
+  - |
+       Лучше бы [он бегал за мной]Situation в бытность [его]Possessor [моим мужем]Status.
+  - |
+       Из своей жизни Патриарх рассказывал и следующий эпизод, [имевший место]Situation в бытность [его]Possessor [епископом]Status.
+  - |
+       На семейном бюджете безработный статус Лены практически не сказывается ― в бытность [её]Possessor [офис-менеджером]Status [зарплаты хватало фактически только на минимальные расходы]Situation.
+morphology:
+  - VP
+  - PronPers
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [obl [case в] бытность [det PronPers] [nmod NP-Ins]]]'
+  - '[root VP [obl [case в] бытность [nmod NP-Ins]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] бытность [det его] [nmod мэром [nmod Москвы]]] произошло [nsubj [nummod:gov много] перемен].]'
+comment: |
+    'Не путать с конструкцией 1363.'
+common_fillers:
+  - его
+  - министром
+  - премьером
+  - начальником
+references:
+  - |
+    См. также Крапивина К. А., Храковский В. С. «Таксисная конструкция с грамматикализованной лексической единицей в... бытность».
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Salient property
+    subtypes:
+      - type: Status
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

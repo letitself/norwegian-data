@@ -1,0 +1,59 @@
+---
+record: 422
+name: 'Cl, (и/но) (тут) (уж) ничего (с этим) (NP-Dat/NP-Nom) не поделать'
+UD_name: 'Cl, (и/но) (тут) (уж) ничего (с этим) (NP-Dat/NP-Nom) не поделать'
+illustration: 'Да, он уезжает, ничего не поделаешь.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cl
+  - NP
+  - Dat
+  - Nom
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+  - Particle
+  - Pronoun
+  - Preposition
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [cc и] [advmod тут] [advmod уж] [obj ничего] [obl [case с] этим] [iobj NP-Dat] [advmod не] поделать]]'
+  - '[root Cl, [conj [cc но] [advmod тут] [advmod уж] [obj ничего] [obl [case с] этим] [iobj NP-Dat] [advmod не] поделать]]'
+  - '[root Cl, [conj [cc и] [advmod тут] [advmod уж] [obj ничего] [obl [case с] этим] [nsubj NP-Nom] [advmod не] поделать]]'
+  - '[root Cl, [conj [cc но] [advmod тут] [advmod уж] [obj ничего] [obl [case с] этим] [nsubj NP-Nom] [advmod не] поделать]]'
+  - '[root Cl, [parataxis [obj ничего] [advmod не] поделать]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Да], [nsubj он] уезжает, [parataxis [obj ничего] [advmod не] поделаешь].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Reconciliation
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Reconciliation"

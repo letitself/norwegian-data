@@ -1,0 +1,68 @@
+---
+record: 62
+name: 'вон как VP'
+UD_name: 'вон как VP'
+illustration: 'Вон как смотрит!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция используется для того, чтобы обратить внимание слушающего на внешние хорошо заметные проявления некоторого [действия.]Action Слот VP заполняется глаголами обоих видов.
+  - english: |
+       This construction is used to draw the listener’s attention to the salient manifestation of an [action.]Action The VP slot can be filled by verbs of both aspects.
+  - norwegian: |
+       Konstruksjonen benyttes for å henlede tilhørerens oppmerksomhet på ytre, godt merkbare utslag av en gitt [handling]Action. Sloten VP kan fylles av verb i begge aspekter.
+examples:
+  - |
+       ― Где же они? ― Не знаю, товарищ полковник. Может быть, дождь их задержал. Вон как [хлещет.]Action
+  - |
+       ―  Я-то думал, что встречу развалину, а ты вон как [улыбаешься.]Action
+  - |
+       ― Да у него палец болит, вон как [распух]Action, ― объяснила я.
+  - |
+       ― Вон как [покраснел]Action. Это с ним происходит, когда он чем-то сильно недоволен.
+  - |
+       Это бесполезная в доме вещь. Она торчит здесь три года, вон как [запылилась]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod вон] [advmod как] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вон] [advmod как] смотрит!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - раскраснелся
+  - вырос
+  - вымахал
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an activity
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Assessment of an activity"

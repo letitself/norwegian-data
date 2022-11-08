@@ -1,0 +1,48 @@
+---
+record: 306
+name: 'сколько бы ни VP-Pst, Cl'
+UD_name: 'сколько бы ни VP-Past, Cl'
+illustration: 'Сколько бы ни было соблазнов, я смогу перед ними устоять.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+  - Pst
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advcl [advmod сколько] [aux бы] [advmod ни] VP-Pst]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [nummod:gov Сколько] [aux бы] [advmod ни] было [nsubj соблазнов]], [nsubj я] смогу [xcomp [obl [case перед] ними] устоять].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Quantification
+    subtypes:
+      - type: Value judgment quantifier
+family:
+  - |
+    ""

@@ -1,0 +1,43 @@
+---
+record: 327
+name: 'то ли дело NP'
+UD_name: 'то ли дело NP'
+illustration: 'Устала работать! То ли дело беззаботное лето.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [det то] [advmod ли] дело [nsubj NP]]'
+dependency_structure_of_illustration:
+  - '[root Устала [xcomp работать]!] [root [det То] [advmod ли] дело [nsubj [amod беззаботное] лето].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+family:
+  - |
+    ""

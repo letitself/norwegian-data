@@ -1,0 +1,64 @@
+---
+record: 1975
+name: 'VP через NP-Acc'
+UD_name: 'VP через NP-Acc'
+illustration: 'Мы установили администрирование через Web-интерфейс.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает [действие]Action, которое участник выполняет с помощью [кухонного прибора]Instrument (сито, мясорубка) или [полого длинного приспособления]Instrument (катетер, провод). Также конструкция может обозначать [действие]Action, которое выполняется при помощи [прибора, компьютерной программы или другого средства связи]Instrument. Обычно это прибор для передачи звука (наушники, микрофон), интернет, интерфейс или программа.
+examples:
+  - |
+       Сварить 4 яйца. [Протереть]Action желтки через [сито.]Instrument
+  - |
+       Но такому больному уголь можно [ввести]Action непосредственно в желудок в виде пасты через [катетер.]Instrument
+  - |
+       Тут все были вместе, но одновременно автономно: [слушали музыку]Action через [наушники]Instrument, смотрели кино на панели во всю стену, тоже с наушниками.
+  - |
+       [Покупать]Action через [Интернет]Instrument на тридцать-сорок процентов дешевле, чем в обычных магазинах.
+  - |
+       Я [получил эту информацию]Action через [знакомых.]Instrument
+morphology:
+  - VP
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Instrument
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case через] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] установили [obj администрирование] [obl [case через] Web-интерфейс].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - интерфейс
+  - интернет
+  - наушники
+  - провод
+  - покупать
+  - заказывать
+  - узнавать
+  - говорить
+  - микрофон
+  - провод
+references:
+  - |
+    No references
+semantic_types:
+  - type: Instrument
+  - type: Manner
+family:
+  - |
+    ""

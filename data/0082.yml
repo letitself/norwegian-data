@@ -1,0 +1,71 @@
+---
+record: 82
+name: 'NP-Nom Cop всё Adj-Cmp и ~Adj-Cmp/ VP Adv-Cmp и ~Adv-Cmp'
+UD_name: 'NP-Nom Cop всё Adj-Cmp и Adj-Cmp/ VP Adv-Cmp и Adv-Cmp'
+illustration: 'Спортсмен бежал всё быстрее и быстрее.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает постепенное нарастание интенсивности действия или характеристики предмета: в каждый следующий момент времени [характеристика]Property становится более интенсивной, чем в предыдущий. Интенсивность передается с помощью повторения прилагательного или наречия.
+  - english: |
+       This construction expresses the gradual increase in intensity of an action or characteristics of an object: For every moment that goes by the [characteristic]Property becomes more intense than the previous one. The intensity is conveyed through the repitition of an adjective or adverb.
+  - norwegian: |
+       Konstruksjonen uttrykker at en handling eller et kjennetegn ved en gjenstand blir stadig mer intensivt: For hvert øyeblikk som går, blir [kjennetegnet]Property mer intensivt enn i det foregående. Intensiteten formidles ved å gjenta et adjektiv eller adverb
+examples:
+  - |
+       Оказывается, он шёл всё [быстрее]Property и [быстрее]Property и ушёл так далеко, что пришлось его догонять.
+  - |
+       Эта проблема всё [больше]Property и [больше]Property увлекала его.
+  - |
+       Мы всё [дальше]Property и [дальше]Property шагаем назад в прошлое, именно к тому, от чего стоит убегать, а не возвращаться.
+  - |
+       Я продолжаю. Рассказ к концу всё [смешнее]Property и [смешнее]Property.
+  - |
+       Сегодня на рынке телевизионных каналов есть только один лидер, с которым невозможно конкурировать. Создавать ещё один такой же неинтересно, всякая следующая копия лидера будет всё [хуже]Property и [хуже]Property.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Adj
+  - Cmp
+  - VP
+  - Adv
+syntactic_type_of_construction:
+  - Copula Construction
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - Property
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod всё] Adj-Cmp [conj [cc и] Adj-Cmp]]'
+  - '[root [nsubj NP-Nom] VP [advmod [advmod всё] Adv-Cmp [conj [cc и] Adv-Cmp]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Спортсмен] бежал [advmod [advmod всё] быстрее [conj [cc и] быстрее]].]'
+comment: |
+    'См. близкую конструкцию всё Adv-Cmp/Adj-Cmp (Шум становился всё сильнее.) In English, comparatives are used to form a similar construction, e.g. “X ran faster and faster”. I norsk brukes komparativer til å danne en lignende konstruksjon, f.eks. ‘X løp raskere og raskere’.'
+common_fillers:
+  - бежал
+  - летел
+references:
+  - |
+    Zhukova, Valentina. 2020. Intensifying constructions in Russian based on data from Russian Constructicon. Moscow: National Research University Higher School of Economics, MA Thesis.
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    "Семья конструкций с интенсификаторами Verbs with intensifiers так, все"

@@ -1,0 +1,42 @@
+---
+record: 716
+name: 'VP без памяти'
+UD_name: 'VP без памяти'
+illustration: 'Она влюбилась в него без памяти.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] памяти]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] влюбилась [obl [case в] него] [obl [case без] памяти].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

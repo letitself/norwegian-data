@@ -1,0 +1,55 @@
+---
+record: 394
+name: 'Pred PronPers-Dat Cop!'
+UD_name: 'Praedic PronPers-Dat Cop!'
+illustration: 'Смешно ему!'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Pred
+  - PronPers
+  - Dat
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root Pred [iobj PronPers-Dat] [cop Cop]!]'
+dependency_structure_of_illustration:
+  - '[root Смешно [iobj ему]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Appropriateness
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+      - type: Mental attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Appropriateness"

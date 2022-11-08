@@ -1,0 +1,54 @@
+---
+record: 742
+name: 'Cl, будь PronPers-Nom неладный-Short!'
+UD_name: 'Cl, будь PronPers-Nom неладный-Short!'
+illustration: 'Опять эта работа, будь она неладна!'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - Cl
+  - PronPers
+  - Nom
+  - Short
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl'
+  - '[cop будь] [nsubj PronPers-Nom] неладный-Short!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Опять] [nsubj [det эта] работа], [cop будь] [nsubj она] неладна!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Curses
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Routine
+    subtypes:
+      - type: Curse
+family:
+  - |
+    "Curses"

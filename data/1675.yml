@@ -1,0 +1,58 @@
+---
+record: 1675
+name: 'всё ещё не VP-Pst'
+UD_name: 'всё ещё не VP-Past'
+illustration: 'Он всё ещё не ответил на мое письмо.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что к настоящему моменту некоторое действие не было совершено. Ожидалось, что к моменту речи действие [должно было уже произойти]Result. Это ожидание длится довольно продолжительное время.
+examples:
+  - |
+       Целую неделю мы уже жили на даче, а о дяде всё ещё не [было никаких известий]Result.
+  - |
+       В нашем доме в двух квартирах ремонт всё ещё не [сделан]Result.
+  - |
+       Я права получила в январе, но все еще не [могу толком научиться водить]Result.
+  - |
+       Дела свои запутанные всё ещё не [могу устроить]Result.
+  - |
+       Домой всё ещё не [хотелось]Result, но, пожалуй, пора…
+morphology:
+  - VP
+  - Pst
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - Result
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod всё [fixed ещё]] [advmod не] VP-Pst]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod всё [fixed ещё]] [advmod не] ответил [obl [case на] [det мое] письмо].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - мочь
+  - собираться
+  - решиться
+  - решить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Cunctative
+family:
+  - |
+    ""

@@ -1,0 +1,45 @@
+---
+record: 1826
+name: 'NP-Nom раз-Verb NP-Acc.Pl'
+UD_name: 'NP-Nom раз-V NP-Acc.Plur'
+illustration: 'Официант разнёс по столам подносы.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Verb
+  - Acc
+  - Pl
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] раз-Verb [obj NP-Acc.Pl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Официант] разнёс [obl [case по] столам] [obj подносы].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+family:
+  - |
+    ""

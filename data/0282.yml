@@ -1,0 +1,69 @@
+---
+record: 282
+name: 'просьба (не) VP-Inf'
+UD_name: 'просьба (не) VP-Inf'
+illustration: 'Просьба не курить!'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает вежливое требование или просьбу выполнить (или не выполнять) [некоторое действие]Action. Как правило, участник, к которому обращено высказывание, не упоминается, потому что понятен из контекста. Конструкция характерна для официальной речи, а также встречается на табличках и вывесках. В случае требования не совершать действие, имеется в виду действие, которое может произойти в будущем или происходит в данный момент. Обычно выполнение данного действия запрещено правилами, установленными некоторым заведением или на некоторой территории. Когда конструкция используется как отдельное предложение, она выражает более категоричное и строгое побуждение (примеры 1, 2) или запрет (пример 3) по сравнению с употреблениями конструкции со словом «просьба» в косвенном падеже (примеры 4, 5).
+  - english: |
+       This construction expresses a polite demand or request to carry out (or not carry out) an [action]Action. As a rule, the participant to whom the statement is addressed is not mentioned, because it is clear from the context. The construction is typical for official speech, and can also be found on signs. If the construction is to express a request to not carry out an action, it refers to an action that may occur in the future or is ongoing. Usually carrying out the action is prohibited by the rules adopted by some establishment or on some territory. When the construction is used as a separate sentence, it expresses a more adament and strict urge (examples 1,2) or prohibition (example 3) compared to when the construction contains the word "просьба" in an oblique case (example 4 and 5).
+  - norwegian: |
+       Konstruksjonen uttrykker et høflig krav eller en anmodning om å utføre (eller ikke utføre) [en gitt handling]Action. Som regel nevnes ikke deltakeren utsagnet er rettet til, ettersom det fremgår av konteksten hvem vedkommende er. Konstruksjonen er karakteristisk for offisiell språkbruk og forekommer på skilt og oppslag. Når det dreier seg om et krav om ikke å utføre en handling, menes det en handling som kan inntreffe i fremtiden eller som pågår i øyeblikket. Vanligvis er forbudet mot å utføre handlingen nedfelt i regler som er innført av en viss instans eller på et visst område. Når konstruksjonen brukes som en selvstendig setning, uttrykker den en mer kategorisk og streng anmodning (eksempel 1 og 2) eller forbud (eksempel 3) enn når den står sammen med ordet 'просьба' i en oblik kasus (eksempel 4 og 5).
+examples:
+  - |
+       В связи с ремонтом просьба [помыть двери и полы на этажах]Action.
+  - |
+       ― Приехали, ― сообщил Иванов, ― поезд дальше не пойдет, просьба [освободить вагоны]Action.
+  - |
+       Я встал, подошел к выходу, перевесил табличку «Просьба не [беспокоить]Action» на внешнюю ручку двери, закрыл ее, а затем еще и запер изнутри.
+  - |
+       Пресс-служба администрации города Уфы обратилась к журналистам с просьбой [придерживаться делового стиля в одежде]Action.
+  - |
+       Никакие просьбы [кричать потише]Action или [хотя бы сменить пластинку]Action не действовали.
+morphology:
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Formal
+dependency_structure:
+  - '[root просьба [csubj [advmod не] VP-Inf]]'
+  - '[root просьба [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Просьба [csubj [advmod не] курить]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - курить
+  - шуметь
+  - беспокоить
+  - помыть
+  - явиться
+  - прийти
+references:
+  - |
+    См. также Холодилова М. А. Нашедшего просьба позвонить: иллокуция и аргументная структура // Мищенко Д. Ф. Тринадцатая Конференция по типологии и грамматике для молодых исследователей. Тезисы докладов и лекций. Санкт-Петербург: 2016. С. 128–131.
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Prohibition
+    subtypes:
+      - type: Attenuated prohibitive
+  - type: Request
+family:
+  - |
+    "A family of causative constructions; A family of prohibiticve constructions."

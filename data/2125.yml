@@ -1,0 +1,77 @@
+---
+record: 2125
+name: 'NP-Nom Cop вынужденный-Short VP-Inf'
+UD_name: 'NP-Nom Cop вынужденный-Short VP-Inf'
+illustration: 'Я был вынужден подчиниться.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участнику]Causee необходимо выполнить [действие]Action против своей воли, то есть несмотря на то, что ему совсем не хочется выполнять это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Causee må utføre [en handling]Action mot sin vilje, altså til tross for at deltakeren slett ikke har lyst til å utføre handlingen.
+examples:
+  - |
+       [Василий]Causee вынужден [признать этот факт]Action.
+  - |
+       [Некоторые компании]Causee были вынуждены [закрыться]Action.
+  - |
+       [Люди]Causee вынуждены [экономить на своем здоровье]Action.
+  - |
+       [Художник]Causee был вынужден [продать пять работ]Action.
+  - |
+       [Ученики]Causee вынуждены [тратить время на изучение непонятных для них реалий]Situation.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Short
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Participle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] вынужденный-Short [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass Я] [cop был] вынужден [xcomp подчиниться].]'
+comment: |
+    'См. близкую конструкцию 281 (NP-Dat) пришлось/придётся VP-Inf (Пришлось выпить лекарство).'
+common_fillers:
+  - признать
+  - отказаться
+  - тратить
+  - брать
+  - действовать
+  - жить
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation per se
+family:
+  - |
+    "Discontent"

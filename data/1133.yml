@@ -1,0 +1,64 @@
+---
+record: 1133
+name: 'мягко говоря, Cl'
+UD_name: 'мягко говоря, Cl'
+illustration: 'Миша, мягко говоря, не подарок.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция вводит [некоторую оценочную формулировку]Evaluation, которая является более нейтральной или вежливой, чем могла бы быть в этой ситуации. Говорящий дает понять, что его формулировка является более мягкой, чем то, что он на самом деле думает. Говорящий намеренно избегает резких или грубых выражений.
+examples:
+  - |
+       Последние несколько месяцев были... [трудным временем]Evaluation, мягко говоря.
+  - |
+       Мы, мягко говоря, [совсем не ладили]Evaluation.
+  - |
+       Формулировка этого пункта, мягко говоря, [весьма далека от реальности]Evaluation.
+  - |
+       Ситуация, мягко говоря, [незавидная для следующего президента]Evaluation.
+  - |
+       Все понимали, что политика в этой истории играет, мягко говоря, [не последнюю роль]Evaluation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Converb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [advmod мягко] говоря]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он], [parataxis [advmod мягко] говоря], [advmod не] подарок.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    См. Лю Э., Шереметьева Е.С. — Метатекстовый оператор «мягко говоря»: специфика функционирования // Litera. – 2021. – № 5. – С. 59 - 70. DOI: 10.25136/2409-8698.2021.5.35595 URL: https://nbpublish.com/library_read_article.php?id=35595; Падучева Е. В. Understatement и смещенное отрицание // «Слово – чистое веселье…»: Сборник статей в честь А. Б. Пеньковского. М.: Языки Славянской культуры, 2009. С. 352-359
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Concession
+    subtypes:
+      - type: Other
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+family:
+  - |
+    ""

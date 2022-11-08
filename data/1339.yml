@@ -1,0 +1,83 @@
+---
+record: 1339
+name: 'VP/NP на века'
+UD_name: 'VP/NP на века'
+illustration: 'Книга на века'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme, по мнению говорящего, имеет высокое качество и поэтому прослужит или будет оставаться актуальным долгое время. Конструкция может также обозначать [действие]Action по созданию такого объекта.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme, etter talerens mening, er av god kvalitet og derfor vil komme til å vare eller forbli aktuelt i lang tid. Konstruksjonen kan også betegne [en handling]Agent, forbundet med fremstillingen av et slikt objekt.
+examples:
+  - |
+       Я безумно люблю "Служебный роман". Это культовая комедия про реальных людей, которая будет нравиться еще не одному поколению людей. Это [фильм]Theme на века, проверенный временем!
+  - |
+       Это [прибор]Theme на века, вся система может сгнить, а самому радиатору ничего не сделается.
+  - |
+       В своё время наш выдающийся учёный М. В. Ломоносов произнёс [ключевую]Property на века [фразу]Theme, которая и для сегодняшнего состояния страны безусловно актуальна.
+  - |
+       Здание театра [построили]Action легко и быстро, но на века.
+  - |
+       Древние римляне славились умением строить первоклассные дороги, причём [делали]Action их на века.
+morphology:
+  - VP
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Theme
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] века]]'
+  - '[dep NP [nmod [case на] века]]'
+dependency_structure_of_illustration:
+  - '[dep Книга [nmod [case на] века]]'
+comment: |
+    'См. близкие конструкции 1338, 1340.'
+common_fillers:
+  - память
+  - дом
+  - любовь
+  - фильм
+  - произведение
+  - афоризм
+  - делать
+  - творить
+  - построить
+  - сохраниться
+  - остаться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Usefulness
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

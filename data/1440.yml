@@ -1,0 +1,54 @@
+---
+record: 1440
+name: '(всё) XP да ~XP'
+UD_name: '(всё) XP да XP'
+illustration: 'На обед каша да каша!'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [nsubj XP [conj [cc да] XP]]]'
+  - '[dep [advmod всё] [nsubj XP [conj [cc да] XP]]]'
+dependency_structure_of_illustration:
+  - '[root [case На] обед [nsubj каша [conj [cc да] каша]]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Repeatedly the same
+family:
+  - |
+    "Discontent"

@@ -1,0 +1,75 @@
+---
+record: 69
+name: 'вот NP-Nom!'
+UD_name: 'вот NP-Nom!'
+illustration: 'Вот дурак!'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция выражает эмоциональную [оценку]Evaluation, которую говорящий дает объекту, участнику или ситуации, которые его поразили. Оценка может быть положительной или отрицательной.
+  - english: |
+       This construction expresses the speaker's emotional [evaluation]Evaluation of an object, participant or situation, that has astounded them. This evaluation can be positive or negative.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens emosjonelle [vurdering]Evaluation av et objekt, en deltaker eller en situasjon som har forbløffet taleren. Vurderingen kan være positiv eller negativ.
+examples:
+  - |
+       Термос был пуст: вчера выхлестал весь чай после водки. Вот [болван!]Evaluation Ведь знал же, что ночью может понадобиться питьё.
+  - |
+       Она мне тридцать пять рублей должна с июня. Не говорила, когда отдаст? ― Не говорила. ― Вот [стерва!]Evaluation ― сказал Кузьменко.
+  - |
+       ― Работать мне уже не над чем. ― Да ну, неужели правда всё закончил? Вот [молодец!]Evaluation
+  - |
+       Он же погубит человека. И его семью. Вот [чертовщина,]Evaluation вот [положение!]Evaluation
+  - |
+       В Соединенных Штатах двое учёных (Гарнер и Аллард) в двадцатые годы ХХ века изучали табак. Вдруг среди их посевов появилось одно гигантское растение. Оно обгоняло в росте все другие. «Вот [удача!]Evaluation ― подумали Гарнер и Аллард. ― Если получить семена от этого растения, то может получиться высокоурожайный сорт».
+morphology:
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Evaluation
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod вот] NP-Nom!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] дурак!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - дурак
+  - мерзавец
+  - лентяй
+  - болван
+  - сволочь
+  - гады
+  - сорванцы
+  - чудак
+  - молодец
+  - ситуация
+  - невезуха
+  - удача
+  - неожиданность
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Expressions of surprisal
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Expressions of surprisal"

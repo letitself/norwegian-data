@@ -1,0 +1,55 @@
+---
+record: 1154
+name: 'каков (у NP-Gen) Cop NP-Nom?'
+UD_name: 'каков (у NP-Gen) Cop NP-Nom?'
+illustration: 'Ну что, каков у меня сын?'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+  - Cop
+  - Nom
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root каков [obl [case у] NP-Gen] [cop Cop] [nsubj NP-Nom]?]'
+  - '[root каков [cop Cop] [nsubj NP-Nom]?]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [discourse Ну] что], каков [obl [case у] меня] [nsubj сын]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Expressions of surprisal
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Expressions of surprisal"

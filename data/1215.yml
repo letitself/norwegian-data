@@ -1,0 +1,68 @@
+---
+record: 1215
+name: '(NP-Dat) Cop можно VP-Inf'
+UD_name: '(NP-Dat) Cop можно VP-Inf'
+illustration: 'Можно мне открыть окно?'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участнику ситуации]Participant дается разрешение на выполнение некоторого [действия]Action. Конструкция также используется, чтобы выразить просьбу участника дать ему такое разрешение.
+  - english: |
+       This construction expresses that a [participant]Participant receives a permission to perform a certain [action]Action. The construction can also be used to express a request for such a permission.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i en situasjon]Participant gis tillatelse til å utføre en gitt [handling]Action. Konstruksjonen brukes også for å uttrykke at deltakeren ber om å få en slik tillatelse.
+examples:
+  - |
+       ― Можно [мне]Participant [идти]Action? ― спрашиваю я у Екатерины Михайловны. ― Конечно.  Если ты всё понял.
+  - |
+       ― Доедай свой гамбургер, дядя Володя ждать не будет. ― Мам, я больше не хочу, ― сказал мальчик, ― можно [собачке отдать]Action?
+  - |
+       Вика спрашивает, можно будет [ей]Participant [надеть твои джинсы]Action?
+  - |
+       ― Это вы у Олега спросите, можно [вам]Participant [звонить]Action или нельзя, это ваши с ним дела.
+  - |
+       Практически все дети были лояльны к «компьютерной политике» своих родителей: «Да, нормально, я всегда знаю, когда [мне]Participant можно будет [поиграть]Action».
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] можно [csubj VP-Inf]]'
+  - '[root [cop Cop] можно [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Можно [iobj мне] [csubj открыть [obj окно]]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Permission
+        subtypes:
+          - type: Asking and giving permission
+family:
+  - |
+    "A family of constructions asking for permission to carry out an action."

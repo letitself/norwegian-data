@@ -1,0 +1,60 @@
+---
+record: 727
+name: 'VP бок о бок (с NP-Ins)'
+UD_name: 'VP бок о бок (с NP-Ins)'
+illustration: 'Мы работаем бок о бок с такими талантами.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Participant находится в непосредственной близости к другому [участнику или участникам]Associated при совершении некоторого [действия]Action. Как если бы их бока соприкасались друг с другом.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant befinner seg i umiddelbar nærhet til en eller flere andre [deltakere]Associated under utførelsen av en gitt [handling]Action. Det er som om sidene deres berører hverandre.
+examples:
+  - |
+       [Они]Participant [прожили]Action бок о бок до самой смерти.
+  - |
+       [Он]Participant [тренируется]Action бок о бок с [наиболее сильными и опытными спортсменами]Associated.
+  - |
+       Если [ты]Participant давно [живешь]Action бок о бок с [одними и теми же людьми]Associated, то находишь объяснение всем их поступкам.
+  - |
+       Офисная жизнь – это когда [случайные люди]Participant сходятся вместе и [вынуждены сидеть]Action бок о бок.
+  - |
+       Там тесно, бок о бок, [стояли]Action [машины]Participant.
+morphology:
+  - VP
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Associated
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl бок [fixed о] [fixed бок] [obl [case с] NP-Ins]]]'
+  - '[root VP [obl бок [fixed о] [fixed бок]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] работаем [obl бок [fixed о] [fixed бок] [obl [case с] [det такими] талантами]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - жить
+  - работать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

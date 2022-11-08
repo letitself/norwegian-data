@@ -1,0 +1,59 @@
+---
+record: 2171
+name: 'эх ты, Cl'
+UD_name: 'эх ты, Cl'
+illustration: 'Эх ты! Зачем же ты молоко в холодильник не убрал!'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Interjection
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [discourse эх] ты]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [discourse Эх] ты!] [root [advmod Зачем [advmod же]] [nsubj ты] [obj молоко] [obl [case в] холодильник] [advmod не] убрал!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Constructions with interjections
+      - type: Assessment specific to people
+        subtypes:
+          - type: Constructions with interjections
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Constructions with interjections
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Constructions with interjections
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Constructions with interjections"

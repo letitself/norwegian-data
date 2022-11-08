@@ -1,0 +1,66 @@
+---
+record: 1072
+name: 'VP из NP-Gen VP-Inf'
+UD_name: 'VP из NP-Gen VP-Inf'
+illustration: 'Он сделал это из желания понравиться.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что причиной некоторого [действия]Action является [чувство или эмоция]Cause, которые участник испытывает и которые заставляют его добиваться определенной [цели]Purpose. Цель выражена глаголом в форме инфинитива в слоте VP-Inf. Слот чаще заполняется глаголами совершенного вида, но встречается и несовершенный вид.
+  - norwegian: |
+       Konstruksjonen betyr at årsaken til en gitt [handling]Action er [en følelse eller emosjon]Cause som en deltaker opplever og som får deltakeren til å prøve å nå et bestemt [mål]Purpose. Målet er uttrykt av infinitivsformen av verbet i sloten VP-Inf. Sloten fylles oftest av verb av perfektivt aspekt, men imperfektivt aspekt forekommer også.
+examples:
+  - |
+       Они создают для конкурентов всяческие трудности, и [делают это]Action только из [желания]Cause [отомстить]Purpose. Как глупо и недальновидно.
+  - |
+       Они [предпочитают не идти на конфликт]Action ― не только из-за желания минимизировать экономические риски, но и из [стремления]Cause [сохранить респектабельный имидж своих изданий]Action.
+  - |
+       Тут Сапожков [стал из-за стола]Action как бы из [потребности]Cause [поразмяться]Purpose, но Поля-то отлично понимала, что для окончательного решения ему просто потребовалось взглянуть на нее со стороны.
+  - |
+       Из [боязни]Cause [застудить голову]Purpose он все-таки [надел шапку.]Action
+  - |
+       У меня есть знакомая девушка, она [хочет замуж]Action только из [страха]Cause [остаться одной.]Purpose
+morphology:
+  - VP
+  - NP
+  - Gen
+  - Inf
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Cause
+  - Purpose
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case из] NP-Gen [nmod VP-Inf]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] сделал [obj это] [obl [case из] желания [nmod понравиться]].]'
+comment: |
+    'См. похожие конструкции 1070, 1074.'
+common_fillers:
+  - желания
+  - стремления
+  - потребности
+  - боязни
+  - страха
+  - опасения
+  - показаться наивным
+  - остаться одной
+  - потерять контроль
+references:
+  - |
+    См. о выражении внутренней причины (причиной является свойство, присущее самому субъекту действия) в монографии Всеволодова, М. В., Ященко Т. А. 2008. Причинно-следственные отношения в современном русском языке. Изд. 2. М. Издательство ЛКИ. С. 6.
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

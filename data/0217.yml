@@ -1,0 +1,63 @@
+---
+record: 217
+name: 'незнамо PronInt'
+UD_name: 'незнамо PronInt'
+illustration: 'Незнамо как я вернулся домой.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящему неизвестны или непонятны [объект действия, участник действия или обстоятельства ситуации (как, где, когда, почему)]Theme. Конструкция как правило несет негативную оценку.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke kjenner til eller ikke forstår [objektet for handlingen, en deltaker i handlingen eller omstendighetene rundt situasjonen (hvordan, hvor, når og hvorfor)]Theme. Konstruksjonen er som regel negativt ladet.
+examples:
+  - |
+       Сашка в университет поступил! Такие дела, а ты гуляешь незнамо [где]Theme.
+  - |
+       Я хозяйка в доме, а ты незнамо [кто]Theme! Веди себя прилично!
+  - |
+       Как могло произойти, что администрация не контролировала ход строительных работ и покупку материалов, а впоследствии купила незнамо  [что]Theme?
+  - |
+       Живот стал большой и неудобный, а она двигалась по саду осторожно, боясь оступиться и покатиться незнамо [куда]Theme, как колобок.
+  - |
+       А ей, как беременной женщине, постоянно хотелось чего-то неизвестного, неопределённого ― словом, поди туда, незнамо [куда]Theme, и принеси то, незнамо [что]Theme.
+morphology:
+  - PronInt
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root [dep [advcl незнамо] PronInt]]'
+dependency_structure_of_illustration:
+  - '[root [advmod [advcl Незнамо] как] [nsubj я] вернулся [advmod домой].]'
+comment: |
+    'См. близкие конструкции 35 бог весть PronInt (Они принесли в пакете бог весть что), 216 невесть PronInt (Невесть откуда он пришел вчера).'
+common_fillers:
+  - как
+  - кто
+  - где
+  - что
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+        subtypes:
+          - type: Unknown
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Unknown"

@@ -1,0 +1,59 @@
+---
+record: 1750
+name: 'NP/VP по полочкам'
+UD_name: 'NP/VP по полочкам'
+illustration: 'Учитель разложил новую тему по полочкам, и стало всё понятно.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник [систематизирует, упорядочивает]Action [некоторую информацию]Theme в своей голове или в разговоре с другим участником.
+examples:
+  - |
+       Пусть она мне сама позвонит ― и мы [всё]Theme [разложим]Action по полочкам.
+  - |
+       Она [разложит]Action по полочкам [все факты]Theme, проанализирует и выберет единственно верное решение.
+  - |
+       Нет такого в разговоре, чтобы задали умный вопрос и на него четко и ясно по полочкам [ответил]Action собеседник.
+  - |
+       Жанровые ниши, как и наличие мейнстрима, книжного ли, киношного, связано со структурированием жизни. Ну или с отсутствием структурности, упорядоченности, [разложенности]Action по полочкам.
+  - |
+       А вообще ― читайте Протопопова, там [всё]Theme по полочкам.
+morphology:
+  - NP
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root XP [obl [case по] полочкам]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Учитель] разложил [obj [amod новую] тему] [obl [case по] полочкам], [conj [cc и] стало] [nsubj всё] [xcomp понятно].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - разложить
+  - раскладывать
+  - всё
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

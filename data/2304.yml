@@ -1,0 +1,52 @@
+---
+record: 2304
+name: 'XP, cил нет!'
+UD_name: 'XP, cил нет!'
+illustration: 'Скучный ты, сил нет!'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Predicative
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root XP'
+  - '[parataxis [nsubj сил] нет]!]'
+dependency_structure_of_illustration:
+  - '[root Скучный [nsubj ты], [prataxis [nsubj сил] нет]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Beyond the limit
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Beyond the limit"

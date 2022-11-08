@@ -1,0 +1,51 @@
+---
+record: 907
+name: 'VP всей душой/всеми фибрами души'
+UD_name: 'VP всей душой/всеми фибрами души'
+illustration: 'Он всей душой полюбил своих учеников.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [det всей] душой]]'
+  - '[root VP [obl [det всеми] фибрами [nmod души]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [det всей] душой] полюбил [obj [det своих] учеников].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Wholehearted emotions
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Wholehearted emotions"

@@ -1,0 +1,66 @@
+---
+record: 1274
+name: 'хватит/довольно Cop NP-Gen!'
+UD_name: 'хватит/довольно Cop NP-Gen!'
+illustration: 'Хватит нежностей!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, которое выражено существительным (например, довольно дурацких замечаний = довольно делать дурацкие замечания, довольно убийств = довольно убивать, довольно крови = довольно проливать кровь = убивать и пр.) Говорящий оценивает это действие отрицательно, так как оно кажется ему слишком длительным или неуместным. Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником. Конструкция может также использоваться говорящим по отношению к самому себе (пример 4).
+  - english: |
+       This construction is used when the speaker prompts the interlocutor to stop carrying out an [action]Action that is expressed by a noun (for example довольно дурацких замечаний = довольно делать дурацкие замечания, довольно убийств = довольно убивать, довольно крови = довольно проливать кровь = убивать etc.). The speaker evaluates this action negatively, since it seems to them too long or inappropriate. The construction expresses a categorical requirement of the speaker and implies the immediate fulfillment of this requirement by the interlocutor. The construction can also be used by the speaker to address themself (example 4).
+  - norwegian: |
+       Konstruksjonen benyttes når taleren anmoder samtalepartneren om å slutte å utføre [en handling]Action som er uttrykt ved hjelp av et substantiv (f.eks. довольно дурацких замечаний = довольно делать дурацкие замечания, довольно убийств = довольно убивать, довольно крови = довольно проливать кровь = убивать m.fl.). Taleren har et negativt syn på handlingen fordi den synes å være for langvarig eller upassende. Konstruksjonen fremstår som et absolutt krav fra talerens side, og det er underforstått at samtalepartneren må innfri det umiddelbart. I tillegg kan taleren bruke konstruksjonen overfor seg selv (eksempel 4).
+examples:
+  - |
+       ― Довольно [крови]Action, довольно [убийств]Action! ― сказала она ровно, заученно и громко.
+  - |
+       ― Довольно [дурацких замечаний]Action! Я говорю серьёзно.
+  - |
+       ― Ну, хватит [философии]Action ― в самом деле пора ужинать.
+  - |
+       ― Будь умным, Антон, ― читал он самому себе наставление. ― Довольно [глупостей!]Action
+  - |
+       ― Послушайте, хватит [истерики]Action. Нам всем пора успокоиться.
+morphology:
+  - Cop
+  - Gen
+  - NP
+syntactic_type_of_construction:
+  - Copula Construction
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root хватит [cop Cop] [nsubj NP-Gen]!]'
+  - '[root довольно [cop Cop] [nsubj NP-Gen]!]'
+dependency_structure_of_illustration:
+  - '[root Хватит [nsubj нежностей]!]'
+comment: |
+    'См. конструкции хватит (Pron-2.Dat) VP-Imp.Inf! (Хватит ругаться!), довольно (Pron-2.Dat) VP-Imp.Inf! (довольно жаловаться), хорош VP-Imp.Inf! (Эй, наверху! Хорош прыгать!). Не путать с конструкциями с Pron-Gen хватит/довольно (NP-Gen.Plur) (с меня хватит), NP-Gen хватить за глаза (Этого хватит за глаза), довольно/достаточно Adv/Adj (я ждал её довольно долго).'
+common_fillers:
+  - вопросов
+  - разговоров
+  - болтовни
+  - глупостей
+  - философии
+references:
+  - |
+    См. также статью Рахилина, Е.В. Кондуктор, нажми на тормоза.. // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ. 2013. С. 665-673.
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+family:
+  - |
+    "Family of prohibitive constructions Quantitative constructions 'enough of doing X' , milder tone that that of the standard prohibition"

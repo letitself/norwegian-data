@@ -1,0 +1,49 @@
+---
+record: 720
+name: 'Cl, но (всё) без толку/но всё впустую/но всё зря/но всё напрасно'
+UD_name: 'Cl, но (всё) без толку/но всё впустую/но всё зря/но всё напрасно'
+illustration: 'Он час пытался открыть дверь, но без толку.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Predicative
+  - Conjunction
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] толку]]'
+  - '[root Cl, [conj [cc но] [case без] толку]]'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] впустую]]'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] зря]]'
+  - '[root Cl, [conj [cc но] [nsubj всё] [case без] напрасно]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl час] пытался [xcomp открыть [obj дверь]], [obl [cc но] [case без] толку].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Conative
+family:
+  - |
+    ""

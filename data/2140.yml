@@ -1,0 +1,55 @@
+---
+record: 2140
+name: 'наверняка Cl'
+UD_name: 'наверняка Cl'
+illustration: 'Он наверняка не придёт.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Слово "наверняка" может находиться в начале или середине предложения.
+examples:
+  - |
+       После таких приятных упражнений долгожданные выходные наверняка [сложатся удачно]ContentOfSpeech.
+  - |
+       Предложите ребенку записаться на курсы, эти знания наверняка [ему пригодятся в будущем]ContentOfSpeech.
+  - |
+       Я живу как будто из любопытства ― всегда помня о том, что наверняка [в моей жизни будет ещё что-нибудь интересное]ContentOfSpeech.
+  - |
+       Книжка наверняка [классная]ContentOfSpeech, только как её в Москве-то достать?!
+  - |
+       Тебя наверняка [выгнали за то, что ты не мог отличить фагот от гобоя]ContentOfSpeech.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod наверняка] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod наверняка] [advmod не] придёт.]'
+comment: |
+    'Не путать с конструкцией 617.'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Strong assumption
+family:
+  - |
+    ""

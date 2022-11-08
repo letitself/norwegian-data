@@ -1,0 +1,60 @@
+---
+record: 2031
+name: 'NP/VP без учёта NP-Gen'
+UD_name: 'NP/VP без учёта NP-Gen'
+illustration: 'Средний счет в этом ресторане, без учета алкоголя, две тысячи рублей.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что при подсчёте [количества]Quantity (примеры 1-3) или принятии [решения]Result (примеры 4, 5) исключается некоторая [часть или фактор]Element. [Часть]Element, которую говорящий исключает, отличается от других [частей]Element по какому-либо признаку, а [фактор]Element важен, но препятствует принятию [решения]Result.
+  - norwegian: |
+       Konstruksjonen betyr at [en del eller en faktor]Element utelates når [en mengde]Quantity telles opp eller [en beslutning]Result skal tas. [Den delen]Element taleren utelater, har et kjennetegn som skiller den fra de øvrige [delene]Element, og [faktoren]Element er viktig, men til hinder for at [beslutningen]Result kan tas.
+examples:
+  - |
+       [Вес]Quantity на коробке конфет [указан]Result без учёта [упаковки]Element.
+  - |
+       В каждой команде по [15 игроков]Quantity без учёта [запасных]Element.
+  - |
+       Стоимость поездки [500 евро]Quantity без учёта [перелёта]Element.
+  - |
+       Этот перевод [сделан]Result без учёта [контекста]Element.
+  - |
+       Меню [было составлено]Result без учёта [индивидуальных предпочтений каждого гостя]Element.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Result
+  - Element
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] учёта [nmod NP-Gen]]'
+  - '[dep NP [nmod [case без] учёта [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Средний] счет] [obl [case в] [det этом] ресторане], [obl [case без] учета [nmod алкоголя]], [nummod:gov [nummod:gov две] тысячи] рублей.]'
+comment: |
+    'См. близкие конструкции 1902 - не считая (синоним), 2030 - за вычетом, 2058 - если не считать'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Caritive
+  - type: Exceptive
+family:
+  - |
+    "Caritive constructions with the preposition BEZ"

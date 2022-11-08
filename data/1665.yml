@@ -1,0 +1,58 @@
+---
+record: 1665
+name: 'в последнее время/в последние дни VP'
+UD_name: 'в последнее время/в последние дни VP'
+illustration: 'В последнее время он ни с кем не разговаривает.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation имеет место на протяжении периода времени, который предшествует моменту речи или другой точке во времени. Этот период времени длится несколько дней. Подразумевается, что ранее ситуация складывалась иначе.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation utspiller seg i en tidsperiode som går forut for taleøyeblikket eller et annet tidspunkt. Tidsperioden er av noen dagers varighet. Det er underforstått at situasjonen tidligere har vært en annen.
+examples:
+  - |
+       В последние дни [они почти не виделись]Situation ― не до того было.
+  - |
+       В последнее время [наши отношения испортились.]Situation
+  - |
+       Между тем в последнее время [мне приходится довольно часто бывать там.]Situation
+  - |
+       В последние дни [в травмпункты столицы обращается в четыре раза больше москвичей]Situation чем раньше.
+  - |
+       В последние дни [в Петербурге произошло много важных событий.]Situation
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case в] [amod последнее] время] VP]'
+  - '[root [obl [case в] [amod последние] дни] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod последнее] время] [nsubj он] [obl [advmod ни] [case с] кем] [advmod не] разговаривает.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Recent past
+family:
+  - |
+    ""

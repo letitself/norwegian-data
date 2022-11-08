@@ -1,0 +1,63 @@
+---
+record: 1241
+name: 'Cl, а (не) то получишь/получите!'
+UD_name: 'Cl, а (не) то получишь/получите!'
+illustration: 'Должен прийти вовремя, а то получишь!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает угрозу говорящего, обращенную к собеседнику. Говорящий, обладающий властью над собеседником, адресует собеседнику команду выполнить или не выполнять некоторое [действие]Action. Конструкция произносится резким, категоричным, безапелляционным тоном. Обычно конструкция используется только в устной форме. За неповиновение говорящий обещает собеседнику физическую расправу. Вариант конструкции с отрицанием и без по значению не отличаются.
+  - norwegian: |
+       Konstruksjonen betegner en trussel taleren fremsetter mot samtalepartneren. Taleren, som har makt over samtalepartneren, gir samtalepartneren en kommando om å utføre eller ikke utføre en gitt [handling]Action. Konstruksjonen uttales på en skarp og kontant måte. Vanligvis brukes konstruksjonen kun i muntlig tale. Ved ulydighet lover taleren å gi samtalepartneren fysisk avstraffelse. Det er ingen betydningsforskjell mellom konstruksjonens versjon med og uten nektelse.
+examples:
+  - |
+       [Вари]Action, а то получишь!
+  - |
+       [Давай говори]Action, а то сейчас получишь у меня!
+  - |
+       [Скорее давай]Action, а не то получишь!
+  - |
+       [Молчите оба]Action, а не то получите ещё!
+  - |
+       [Встань]Action сейчас же, а не то получишь по зубам, понятно тебе?
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl, [conj [cc а [fixed то]] получишь]!]'
+  - '[root Cl, [conj [cc а [fixed не] [fixed то]] получишь]!]'
+  - '[root Cl, [conj [cc а [fixed то]] получите]!]'
+  - '[root Cl, [conj [cc а [fixed не] [fixed то]] получите]!]'
+dependency_structure_of_illustration:
+  - '[root Должен [xcomp прийти] [advmod вовремя], [conj [cc а [fixed то]] получишь]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Threat
+family:
+  - |
+    ""

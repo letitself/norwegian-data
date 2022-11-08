@@ -1,0 +1,61 @@
+---
+record: 36
+name: 'более чем Adv/Adj/Pred'
+UD_name: 'более чем Adv/Adj/Praedic'
+illustration: 'Более чем понятно'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция повышает степень интенсивности [признака]Property объекта или ситуации. Конструкция показывает, что интенсивность признака выше, чем ожидалось или было необходимо.
+  - english: |
+       This construction increases the degree of intensity of an object or situation's [property]Property. The construction shows, that the intensity of the characteristic is greater than what was expected or was necessary.
+  - norwegian: |
+       Konstruksjonen gjør at [et kjennetegn]Property ved et objekt eller en situasjon får økt intensitet. Den viser at kjennetegnet gjør seg gjeldende med større intensitet enn det som var forventet eller nødvendig.
+examples:
+  - |
+       Павел заплатил 100 рублей. Более чем [достаточно]Property.
+  - |
+       Эта картина выглядит более чем [странно]Property.
+  - |
+       Российская сборная выступила более чем  [достойно]Property.
+  - |
+       Но мне кажется, что в рамках поставленной вами задачи это более чем [уместно]Property.
+  - |
+       Свободное время, которого было более чем [предостаточно]Property, он коротал сначала за сидением с Аглаей, чтением газет, журналов, бюллетеней и книг, смотрением телевизора, разговорами с соседями, а также разными прочими бытовыми заботами.
+morphology:
+  - Adv
+  - Adj
+  - Pred
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - Property
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[advmod [advmod более [fixed чем]] Adv]'
+  - '[root [advmod более [fixed чем]] Pred]'
+dependency_structure_of_illustration:
+  - '[root [advmod Более [fixed чем]] понятно]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - понятно
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    "Семья конструкций с интенсификаторами"

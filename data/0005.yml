@@ -1,0 +1,80 @@
+---
+record: 5
+name: '(а) Noun-Nom/кто (же) (PronPers-3.Acc) знает, Cl'
+UD_name: '(а) N-Nom/кто (же) (PronPers-3.Acc) знает, Cl'
+illustration: 'Кто его знает, почему она так поступила.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что по мнению говорящего, [никому]Cognizer не известно об [обстоятельствах какой-либо ситуации]Content. Конструкция буквально сообщает, что эта информация известна только некоторому  [невероятному или недоступному участнику]Cognizer. Если [участник ситуации]Topic, описанной в клаузе, имеет женский род и/или стоит в форме множественного числа, то это можно отражать (заполнитель «её» или «их» в слоте PronPers-3) или не отражать (заполнитель «его» в слоте PronPers-3) в первой части конструкции. Ограничение на имя существительное: бог, чёрт, шут, пёс, бес, леший, дьявол, господь.
+  - english: |
+       This construction indicates that, in the speaker’s opinion, [no one]Cognizer knows about the [circumstances of a given situation]Content. The construction reports that this information is known only to an [implausible or inaccessible participant]Cognizer. If the [participant of the situation]Topic, described in the clause is of feminine gender and/or plural, then is it possible to reflect this (with the fillers “её” or “их” in the PronPers-3 slot) or not to reflect this (by using the filler “его” in the PronPers-3 slot) in the first part of the construction. The noun is limited to the following: бог ‘god’, чёрт ‘devil, шут ‘jester’, пёс ‘dog’, бес ‘demon’, леший ‘forest spirit’, дьявол ‘devil’, господь ‘lord’.
+  - norwegian: |
+       Konstruksjonen anvendes for å uttrykke at taleren er i villrede eller ikke forstår den logiske forbindelsen mellom samtalens tema og det sist anførte [argumentet]Theme.
+examples:
+  - |
+       [Чёрт]Cognizer [его]Topic знает, [что она вчера вечером делала в лаборатории]Content.
+  - |
+       [Бог]Cognizer [его]Topic знает, [где они сейчас]Content.
+  - |
+       ― [Шут]Cognizer [его]Topic знает, [как оно получилось]Content. Всё считал ― есть сено в запасе, есть. Ещё с прошлого лета стог сена в лесу оставил.
+  - |
+       [Чёрт]Cognizer [ее]Topic знает, [что у нее там случилось со здоровьем]Content.
+  - |
+       [Бог]Cognizer [их]Topic знает, [зачем они приезжали ― по делам или так, погулять в столице]Content.
+morphology:
+  - Noun
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Particle
+  - Verb
+semantic_roles:
+  - Content
+  - Cognizer
+  - Topic
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj Noun-Nom] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj Noun-Nom] [discourse же] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] [discourse же] [obj PronPers-3.Acc] знает, [ccomp Cl]]'
+  - '[root [nsubj Noun-Nom] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] знает, [ccomp Cl]]'
+  - '[root [nsubj Noun-Nom] [discourse же] знает, [ccomp Cl]]'
+  - '[root [nsubj кто] [discourse же] знает, [ccomp Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Кто] [obj его] знает, [advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
+comment: |
+    'Не путать с другими конструкциями, которые содержат глагол "знать": 335, 359, 1061, 2300.'
+common_fillers:
+  - бог
+  - чёрт
+  - шут
+  - пёс
+  - бес
+  - господь
+  - леший
+  - дьявол
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Missing source of information
+family:
+  - |
+    ""

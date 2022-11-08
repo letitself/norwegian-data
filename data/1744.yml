@@ -1,0 +1,72 @@
+---
+record: 1744
+name: 'XP внутри (NP-Gen)'
+UD_name: 'XP внутри (NP-Gen)'
+illustration: 'Внутри сосуда давление было высокое.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция указывает на локализацию [объекта]Theme, [участника]Participant или [ситуации]Situation в пределах некоторого [контейнера]Location. Контейнер может быть как конкретным физическим пространством (примеры 1, 3, 4, 5), так и абстрактным (пример 2). Слово «внутри» может использоваться как предлог с зависимым существительным, которое может опускаться, или как наречие. Слот XP может заполняться глагольной группой (пример 1), именной группой (примеры 2, 3), прилагательным (пример 4), наречием или целой клаузой (пример 5).
+  - norwegian: |
+       Konstruksjonen angir hvor [et objekt]Theme, [en deltaker]Participant eller [en situasjon]Situation befinner seg innenfor [en beholder]Location. Beholderen kan være så vel et konkret fysisk rom (eksempel 1, 3, 4 og 5) som et abstrakt (eksempel 2). Ordet 'внутри' kan anvendes som en preposisjon, der utfyllingen er et substantiv som kan utelates, eller som et adverb. Sloten XP kan fylles av en verbfrase (eksempel 1), nominalfrase (eksempel 2 og 3), et adjektiv (eksempel 4), et adverb eller en hel leddsetning (eksempel 5).
+examples:
+  - |
+       Косвенные источники информации свидетельствуют о том, что часть валютных средств, [обращающаяся]Action внутри [страны]Location, нигде не зарегистрирована.
+  - |
+       Ливия всегда будет защищена ― то ли ангелом, то ли человеком, то ли [нравственным законом]Theme внутри [нас]Location.
+  - |
+       А подсвечники с засушенными [цветами]Theme внутри ― замечательный заключительный штрих к праздничной сервировке стола.
+  - |
+       Этакие бамбуковые ноги, словно бы даже [пустые]Property внутри.
+  - |
+       Зимой [бывает холодно]Situation внутри. Иногда десять градусов тепла.
+morphology:
+  - XP
+  - NP
+  - Gen
+  - VP
+  - Cl
+  - Adj
+  - Adv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adverb
+semantic_roles:
+  - Theme
+  - Property
+  - Action
+  - Location
+  - Situation
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root XP [obl [case внутри] NP-Gen]]'
+  - '[root XP [advmod внутри]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Внутри] сосуда] [nsubj давление] [cop было] высокое.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - пустой
+  - полый
+  - пусто
+  - страна
+  - компания
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    "Указание на местоположение объекта (нет указания на направление)"

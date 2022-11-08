@@ -1,0 +1,71 @@
+---
+record: 2342
+name: 'кончать-Imp VP-Ipfv.Inf!'
+UD_name: 'кончать-Imper VP-Imp.Inf!'
+illustration: '– Кончайте паниковать! – строго сказал он нам с мамой.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять некоторое [действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне.
+  - english: |
+       This construction is used when the speaker prompts the interlocutor to stop performing an [action]Action, as it seems inappropriate or inadequate to them (for example, joking in a situation where they should be serious, or being sad in a situation where they should be happy). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is spoken in a friendly tone.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren anmoder samtalepartneren om å slutte å utføre [en gitt handling]Action fordi taleren finner den malplassert eller upassende (f.eks. spøke når man burde være alvorlig eller sørge når man burde være glad). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone.
+examples:
+  - |
+       И кончай [жрать в таких количествах]Action, скоро в дверь пролезать не будешь.
+  - |
+       Может, портвейн ― это как раз самое главное… ― Кончай, ― говорю, ― [философствовать]Action. В поселок я тебя не отпущу.
+  - |
+       Кончай [реветь]Action, бери котенка и уноси. ― Я не реву, ― сказала Даша, вытирая слезы.
+  - |
+       Кончайте [ныть]Action! Надоело уже это.
+  - |
+       Эдди, включай проигрыватель, ты, Лулу, приглуши свет, а вы все кончайте [болтать]Action.
+morphology:
+  - Imp
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root кончать-Imp [xcomp VP-Ipfv.Inf]!]'
+dependency_structure_of_illustration:
+  - '[root – Кончайте [xcomp паниковать]! – [parataxis [advmod строго] сказал [nsubj он] [iobj нам [nmod [case с] мамой]]].]'
+comment: |
+    'См. конструкции бросить-Imper VP-Imp.Inf (брось спорить), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать).'
+common_fillers:
+  - болтать
+  - базарить
+  - врать
+  - шутить
+  - нести чушь
+  - валять дурака
+  - паясничать
+  - ломать комедию
+  - придуриваться
+  - философствовать
+  - реветь
+  - ныть
+references:
+  - |
+    См. статью Рахилина Е.В. Кондуктор, нажми на тормоза... // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог». Т. 1: Основная программа конференции. Вып. 12 (19). М.: РГГУ. 2013. С. 665-673.
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+family:
+  - |
+    "Family of comparative constructions Strict causation to stop a strongly negative activity. 'Stop doing X'  imperatives"

@@ -1,0 +1,71 @@
+---
+record: 479
+name: 'NP-Dat Cop не до NP-Gen'
+UD_name: 'NP-Dat Cop не до NP-Gen'
+illustration: 'Мне не до уборки.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что у [участника]Participant нет времени или возможности, чтобы заняться [некоторым делом или вопросом]Theme или обратить внимание на [некоторый объект]Theme или [другого участника]Participant. Подразумевается, что участник занят другими, более важными неотложными делами и по объективным причинам не может уделить время менее важному делу, которое отвлечет его от главного.
+  - english: |
+       This construction means that the [participant]Experiencer does not have the opportunity or time to do [something]Theme or pay attention to [someone]Theme or [something]Theme.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Participant ikke har tid eller anledning til å gå i gang med [et gitt gjøremål eller spørsmål]Theme eller til å vie [et gitt objekt]Theme eller [en annen deltaker]Participant oppmerksomhet. Det er underforstått at deltakeren er opptatt med andre, viktigere og mer presserende saker og av objektive grunner ikke kan bruke tid på noe som er mindre viktig og avleder vedkommende fra hovedanliggendet.
+examples:
+  - |
+       [Родителям]Experiencer было не до [Ирины]Participant. Она сама формировала и сама заполняла свой день.
+  - |
+       В общем, способность генерала обходиться четырьмя часами сна сейчас очень ему пригодится. В ближайшие месяцы [ему]Experiencer будет не до [отдыха]Theme.
+  - |
+       Извините, что долго не отвечала, малышка у меня простыла, и было не до [компьютера]Theme.
+  - |
+       У нас с этим клубом хорошие отношения, но он переживает непростые времена. Думаю, [им]Experiencer сейчас не до [телевидения]Theme.
+  - |
+       Ника разрешила Нюре [позвонить]Theme, но только побыстрей, а то приедут родственники и будет не до [того]Theme.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+semantic_roles:
+  - Experiencer
+  - Theme
+  - Participant
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] [advmod не] [case до] NP-Gen]'
+dependency_structure_of_illustration:
+  - '[root [iobj Мне] [advmod не] [case до] уборки.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - отдыха
+  - прогулок
+  - чести
+  - того
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Willingness"

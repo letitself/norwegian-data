@@ -1,0 +1,62 @@
+---
+record: 2029
+name: 'VP без NP-Gen'
+UD_name: 'VP без NP-Gen'
+illustration: 'Я пришла на встречу без подруги.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme, [компонент]Theme или [участник]Participant не присутствует или не участвует в [действии]Action или [ситуации]Situation. Этот объект или участник может быть конкретным или абстрактным. При этом ожидалось, что объект или участник будет присутствовать в этом действии или этой ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at [et objekt]Theme, [en komponent]Theme eller [en deltaker]Participant ikke er til stede eller ikke deltar i [en handling]Action eller [en situasjon]Situation. Objektet eller deltakeren kan være konkret eller abstrakt. Samtidig var det forventet at objektet eller deltakeren ville være til stede i denne handlingen eller situasjonen.
+examples:
+  - |
+       Капусту следует [тушить]Action без [крышки]Theme.
+  - |
+       Дети в этой семье [росли]Action без [отца]Participant.
+  - |
+       [Его вопрос остался]Situation без [внимания]Theme.
+  - |
+       Соня [вошла в комнату]Action без [стука]Theme.
+  - |
+       Соль [растворилась в стакане]Action без [остатка]Theme.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Theme
+  - Participant
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] пришла [obl [case на] встречу] [obl [case без] подруги].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - стук
+  - внимание
+  - часы
+  - отец
+  - остаток
+references:
+  - |
+    No references
+semantic_types:
+  - type: Caritive
+family:
+  - |
+    "Caritive constructions with the preposition BEZ"

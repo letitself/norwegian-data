@@ -1,0 +1,48 @@
+---
+record: 450
+name: 'NP-Nom иметь дело с NP-Ins'
+UD_name: 'NP-Nom иметь дело с NP-Ins'
+illustration: 'Он когда-то имел дело с трудными подростками.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod когда-то] иметь [obj дело] [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod когда-то] имел [obj дело] [obl [case с] [amod трудными] подростками].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Experience
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

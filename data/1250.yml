@@ -1,0 +1,43 @@
+---
+record: 1250
+name: 'на основании NP-Gen Cl'
+UD_name: 'на основании NP-Gen Cl'
+illustration: 'На основании статьи 3 закона об образовании каждый человек имеет право на образование.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [obl [case на] основании [nmod NP-Gen]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] основании [nmod статьи [appos 3] [nmod закона [nmod [case об] образовании]]]] [nsubj [det каждый] человек] имеет [obj право [nmod [case на] образование]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

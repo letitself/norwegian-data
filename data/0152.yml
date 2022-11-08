@@ -1,0 +1,72 @@
+---
+record: 152
+name: 'как это XP/Cl?'
+UD_name: 'как это XP/Cl?'
+illustration: 'Как это он не приедет?'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция оформляет реакцию говорящего на слова собеседника и выражает его удивление и недоумение по поводу только что полученной им неожиданной информации. Говорящий обращает внимание на [важную для него часть сообщения]ContentOfSpeech часто подхватывает и повторяет конкретное слово, использованное собеседником, и ставит его под вопрос. Обычно говорящий также поясняет свое удивление, развивает дальше мысль собеседника или противоречит ей. Конструкция акцентирует внимание на конкретном элементе или характеристике ситуации (на [действии]Action, [участнике]Participant, [объекте]Theme, [признаке]Property, [обстоятельстве]Circumstance и др.). Слот XP заполняется глагольной, именной или предложной группой, наречием, прилагательным или числительным.
+  - english: |
+       This construction denotes the speaker's reaction to the interlocutor's statement and expresses the speaker's surprise and bewilderment having just received some unexpected information. The speaker draws attention to [what they consider to be an important part of the message that is important for the speaker]ContentOfSpeech, often picks up and repeats a specific word used by the interlocutor, and questions it. Normally the speaker also explains their surprise, further develops or contradicts the interlocutor's thought. This construction emphasises a specific element or characteristic of the situation (an [action]Action, a [participant]Participant, an [object]Theme, an [attribute]Property, a [circumstance]Circumstance etc.). The slot XP is filled by a verb phrase, a noun phrase, a prepositional phrase, an adverb, an adjective or a numeral.
+  - norwegian: |
+       Konstruksjonen utformer talerens reaksjon på samtalepartnerens utsagn og uttrykker at taleren er overrasket og i villrede etter nettopp å ha mottatt en uventet informasjon. Taleren retter oppmerksomheten mot [en del av meddelelsen som er viktig for taleren]ContentOfSpeech, plukker gjerne opp og gjentar et konkret ord samtalepartneren har brukt, og setter spørsmålstegn ved det. Dessuten begrunner taleren vanligvis sin overraskelse, videreutvikler samtalepartnerens tanke eller motsier den. Konstruksjonen vektlegger et konkret element eller noe karakteristisk ved situasjonen (en [handling]Action, [en deltaker]Participant, [et objekt]Theme, [et kjennetegn]Property, [en omstendighet]Circumstance o.l.). Sloten XP fylles av en verbalfrase, en nominalfrase, et preposisjonsledd, et adverb, et adjektiv eller et tallord.
+examples:
+  - |
+       ― [Петь будешь ты!]ContentOfSpeech ― заявил Двинятин. ― Как это [я]Participant? Я не умею!
+  - |
+       ― Знаешь, что… [давай рок-группу создадим]ContentOfSpeech! ― Как это ["рок-группу"]Theme? ― удивился я.
+  - |
+       ―  В нём уж точно нектара [нет]ContentOfSpeech, ― сказала Зоя. ― Как это [нет]Situation? Есть.
+  - |
+       Она мне: ― Но только [это не важно]ContentOfSpeech. Я говорю: ― как это [не важно]Evaluation? Он же твой сын.
+  - |
+       ―  Предлагаю перенести осмотр на [завтрашнее утро]ContentOfSpeech. ―  Как это на [завтра]Time? ― возмутилась Вера. ― Ты же сам говорил, что все предписания врача нужно выполнять точно. Если положено сегодня ― значит, сегодня.
+morphology:
+  - XP
+  - Cl
+  - VP
+  - NP
+  - PP
+  - Adv
+  - Adj
+  - NumCrd
+syntactic_type_of_construction:
+  - Discourse "Echo" Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ContentOfSpeech
+  - Action
+  - Participant
+  - Theme
+  - Property
+  - Circumstance
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod как] [expl это] Cl?]'
+  - '[root [advmod как] [expl это] XP?]'
+dependency_structure_of_illustration:
+  - '[root [advmod Как] [expl это] [nsubj он] [advmod не] приедет?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Mirative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

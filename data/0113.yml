@@ -1,0 +1,72 @@
+---
+record: 113
+name: 'до NP-Gen Cl'
+UD_name: 'до NP-Gen Cl'
+illustration: 'До завтрака нельзя включать телевизор.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает [временной предел]Time некоторой [ситуации.]Situation
+  - english: |
+       This construction denotes the [temporal boundary]Time of a certain [situation.]Situation
+  - norwegian: |
+       Konstruksjonen betegner [tidsgrensen]Theme for en gitt [situasjon.]Situation
+examples:
+  - |
+       [Иногда я могу танцевать хоть]Situation до [утра.]Limit
+  - |
+       ― Нельзя ли [одолжить у вас пятьсот рублей]Situation до [завтра?]Time
+  - |
+       Доходило до сорока двух в тени, [жара длилась]Situation до [сентября.]Time
+  - |
+       В Сеуле до [рассвета]Time [не смолкал вой автомобильных сирен.]Situation
+  - |
+       ― Ладно. [Подождем]Situation до [понедельника.]Time Может, и не так все плохо.
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Time
+  - Limit
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case до] NP-Gen] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case До] завтрака] нельзя [csubj включать [obj телевизор]].]'
+comment: |
+    'См. близкую конструкцию 111.'
+common_fillers:
+  - обеда
+  - завтрака
+  - ужина
+  - полудня
+  - полуночи
+  - утра
+  - ночи
+  - завтра
+  - понедельника
+  - осень
+  - зима
+  - сентября
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

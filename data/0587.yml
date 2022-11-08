@@ -1,0 +1,66 @@
+---
+record: 587
+name: 'VP по NP-Dat.Pl'
+UD_name: 'VP по NP-Dat.Plur'
+illustration: 'Они любили часто ездить по знакомым.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник, перемещаясь, поочёдно [посещает]Action несколько [мест]Location, которые имеют одинаковые функции или относятся к одному типу.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker, ved å forflytte seg, [besøker]Action flere [steder]Location etter tur, der alle stedene har lik funksjon eller er av samme type.
+examples:
+  - |
+       У неё доставало сил вести этот большой дом, на всех готовить, обстирывать, шить и [ходить]Action по [магазинам]Location.
+  - |
+       Священники [ходили]Action по [домам]Location и оповещали население.
+  - |
+       Он не так любил [ездить]Action по [гостям]Location, как другой мой дядя.
+  - |
+       Самое странное началось много позже, когда я [ходила]Action с романом по [издательствам]Location.
+  - |
+       Родственники беспокоились, [возили]Action бедную старушку по [врачам]Location.
+morphology:
+  - VP
+  - NP
+  - Dat
+  - Pl
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Location
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case по] NP-Dat.Pl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] любили [xcomp [advmod часто] ездить [obl [case по] знакомым]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ездить
+  - возить
+  - ходить
+  - магазины
+  - гости
+  - знакомые
+  - друзья
+  - родственники
+references:
+  - |
+    No references
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+family:
+  - |
+    "DISTRIBUTIVE constructions with multiple objects in singular"

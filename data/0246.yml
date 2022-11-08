@@ -1,0 +1,75 @@
+---
+record: 246
+name: 'NP-Nom Cop ничуть не Adj-Cmp NP-Gen/VP ничуть не Adv-Cmp NP-Gen'
+UD_name: 'NP-Nom Cop ничуть не Adj-Cmp NP-Gen/VP ничуть не Adv-Cmp NP-Gen'
+illustration: 'Ты ничуть не лучше своей сестры.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественность двух и более объектов, участников или действий по степени проявления [некоторого признака]Parameter. Отрицается разница между [одним]Comparee и [другим]Standard объектом, участником или действием.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to eller flere objekter, deltakere eller handlinger er identiske når det gjelder i hvilken grad [et gitt kjennetegn]Parameter gjør seg gjeldende. Det avvises at det er en forskjell mellom [det ene]Comparee og [det andre]Standard objektet, deltakeren eller handlingen.
+examples:
+  - |
+       [Эти подарки]Comparee, наверное, ничуть не [хуже]Parameter [прошлогодних]Standard.
+  - |
+       В свои тридцать лет [Стас]Comparee [выглядит]Action ничуть не [старше]Parameter [своего брата]Standard.
+  - |
+       [Девушка]Comparee [волновалась]Action ничуть не [меньше]Parameter [его самого.]Standard
+  - |
+       [Всё, приходившее на ум,]Comparee было ничуть не [умнее]Parameter [его последнего вопроса.]Standard
+  - |
+       Ты должен доказать свое право быть здесь, доказать, что [ты]Comparee [можешь работать]Action ничуть не хуже [коллег.]Standard
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Adj
+  - Cmp
+  - Gen
+  - VP
+  - Adv
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - Parameter
+  - Comparee
+  - Standard
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod ничуть] [advmod не] Adj-Cmp [obl NP-Gen]]'
+  - '[root VP [advmod [advmod ничуть] [advmod не] Adv-Cmp [obl NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod [advmod ничуть] не] лучше [obl [det своей] сестры].]'
+comment: |
+    'См. похожие конструкции 244, 1450, 2343.'
+common_fillers:
+  - лучше
+  - хуже
+  - меньше
+  - работать
+  - волноваться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

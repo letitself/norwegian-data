@@ -1,0 +1,69 @@
+---
+record: 801
+name: 'NP-Nom Cop Adj-Short в применении к NP-Dat/VP в применении к NP-Dat'
+UD_name: 'NP-Nom Cop Adj-Short в применении к NP-Dat/VP в применении к NP-Dat'
+illustration: 'Как понять его идеи в применении к российской действительности?'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция называет [область или сферу]Theme, в отношении которой говорящий [оценивает]Evaluation уместность слова, формулировки или идеи. Область или сфера являются контекстом, в котором некоторая идея или слово оказываются актуальными или некорректными, понятными или требующими объяснений.
+  - english: |
+       This construction indicates a [domain or sphere]Theme, in connection with which the speaker [evaluates]Evaluation the appropriateness of a word, phrase, or idea. The domain or sphere is the context in which a given idea or word is considered relevant or incorrect, comprehensible or requiring explanation.
+  - norwegian: |
+       Konstruksjonen betegner [det området eller den sfæren]Theme som er utgangspunktet for talerens [vurdering]Evaluation av hvorvidt et ord, en formulering eller en ide er på sin plass. Området eller sfæren er den konteksten, der en gitt ide eller et gitt ord blir gjeldende eller upassende, forståelig eller noe som må forklares.
+examples:
+  - |
+       Что же ждет нас в будущем ― конечно, очень далеком: засуха или всемирный потоп? Слово «отдаленное» в применении к [будущему]Theme здесь очень много [значит.]Evaluation
+  - |
+       Oба автора обсуждают одни и те же эстетические идеи, но по-разному [интерпретируют их]Evaluation в применении к [русской культурной ситуации.]Theme
+  - |
+       Понятие "микрокосма" в применении к [человеку и строению его тела]Theme [не ново.]Evaluation
+  - |
+       Само это слово ― «гражданственность» ― в применении к [поэзии]Theme [некорректно.]Evaluation
+  - |
+       Прогресс в одной области часто приносит важные результаты в других областях. Причём этот процесс не поддаётся планированию. Эти утверждения особенно [актуальны]Evaluation в применении к [нанотехнологиям.]Theme
+morphology:
+  - VP
+  - NP
+  - Dat
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root VP [obl [case в] применении [nmod [case к] NP-Dat]]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Как] понять [obj [det его] идеи] [obl [case в] применении [nmod [case к] [amod российской] действительности]]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - значить
+  - понимать
+  - интерпретировать
+  - существовать
+  - бесспорный
+  - актуальный
+  - некорректный
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic
+  - type: Salient property
+    subtypes:
+      - type: Domain
+family:
+  - |
+    "Reference to relevant area"

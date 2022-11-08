@@ -1,0 +1,63 @@
+---
+record: 924
+name: '(Cl,) глядишь, VP-Fut/VP-Pst бы'
+UD_name: '(Cl,) глядишь, VP-Fut/VP-Past бы'
+illustration: 'Глядишь, ещё друг другу и понадобимся.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторая ситуация]Situation при [определенном условии]Condition может произойти в будущем (примеры 1-2) или могла бы произойти в прошлом, но не произошла (примеры 3-5). Конструкция передает неуверенность говорящего.
+examples:
+  - |
+       [Найду мужчину хорошего]Condition и, глядишь, [замуж выйду]Situation.
+  - |
+       А потом, глядишь, через год ― [переедем в Москву]Situation.
+  - |
+       [Ей бы к психологу сходить]Condition, глядишь, и [жива осталась бы]Situation.
+  - |
+       [Не пойди он в университет]Condition, глядишь, [не встретил бы жену Настю, не было бы чудесной дочки]Situation…
+  - |
+       [Держал бы рот на замке]Condition ― и, глядишь, [цел бы остался]Situation.
+morphology:
+  - Cl
+  - VP
+  - Fut
+  - Pst
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis глядишь], VP-Fut]'
+  - '[root [parataxis глядишь], VP-Pst [aux бы]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Глядишь], [advmod ещё] [iobj друг [fixed другу]] [advmod и] понадобимся.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Assumption per se
+  - type: Timeline
+    subtypes:
+      - type: Future
+family:
+  - |
+    ""

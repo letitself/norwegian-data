@@ -1,0 +1,56 @@
+---
+record: 215
+name: 'не-Pred Cop бы VP-Inf'
+UD_name: 'не-Praedic Cop бы VP-Inf'
+illustration: 'Неплохо бы отдохнуть.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий ненавязчиво предлагает совершить некоторое желательное для него [действие.]Action
+  - norwegian: |
+       Konstruksjonen betyr at taleren, uten å være påtrengende, foreslår å utføre en gitt [handling]Action som er ønskelig for taleren.
+examples:
+  - |
+       [Невредно]Evaluation бы [вздремнуть]Action часика два.
+  - |
+       [Недурно]Evaluation бы и [поспать]Action хоть немного.
+  - |
+       [Нехудо]Evaluation бы ему эту книгу [прочесть]Action.
+morphology:
+  - Pred
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Action
+  - Evaluation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root не-Pred [cop Cop] [aux бы] [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Неплохо [aux бы] [csubj отдохнуть].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+family:
+  - |
+    ""

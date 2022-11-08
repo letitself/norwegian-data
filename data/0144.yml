@@ -1,0 +1,77 @@
+---
+record: 144
+name: '((Я) боюсь,) как бы (NP-Dat) не VP-Pfv.Inf'
+UD_name: '((Я) боюсь,) как бы (NP-Dat) не VP-Perf.Inf'
+illustration: 'Боюсь, как бы не упасть!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает опасение говорящего относительно того, что может произойти некоторая нежелательная для него или другого участника ситуация. Эта ситуация связана с [действием]Action, которое [участник]Participant или говорящий не может контролировать.
+  - english: |
+       This construction expresses the speaker's fear that there may occur a  situation undesirable for them or another participant. This situation is associated with an [action]Action that neither the [participant]Participant or speaker can control.
+  - norwegian: |
+       Konstruksjonen uttrykker talerens engstelse for at det kan oppstå en situasjon som er lite ønskelig for taleren eller en annen deltaker i situasjonen. Situasjonen er forbundet med [en handling]Action som [deltakeren]Participant eller taleren ikke kan kontrollere.
+examples:
+  - |
+       Боюсь, как бы [тебе]Participant не [опоздать]Action!
+  - |
+       Я боюсь, как бы [нам]Participant не [наделать ошибок]Action!
+  - |
+       ― Говори потише! Как бы [Мишу не разбудить!]Action
+  - |
+       Что-то у меня жар и горло першит. Боюсь, как бы не [разболеться]Action.
+  - |
+       Как бы не [поскользнуться]Action в новых сапогах на скользком паркете!
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+  - Conjunction
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj я] боюсь, [advcl [mark как [fixed бы]] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]]'
+  - '[root [nsubj я] боюсь, [advcl [mark как [fixed бы]] [advmod не] VP-Pfv.Inf]]'
+  - '[root боюсь, [advcl [mark как [fixed бы]] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]]'
+  - '[root боюсь, [advcl [mark как [fixed бы]] [advmod не] VP-Pfv.Inf]]'
+  - '[root [mark как [fixed бы]] [iobj NP-Dat] [advmod не] VP-Pfv.Inf]'
+  - '[root [mark как [fixed бы]] [advmod не] VP-Pfv.Inf]'
+dependency_structure_of_illustration:
+  - '[root Боюсь, [advcl [mark как [fixed бы]] [advmod не] упасть]!]'
+comment: |
+    'См. близкие конструкции 1099, 331, 334, 354, 887.'
+common_fillers:
+  - упасть
+  - опоздать
+  - ошибиться
+  - поскользнуться
+references:
+  - |
+    См. Добрушина Н. Р. 2006. Грамматические формы и конструкции со значением опасения и предостережения // Вопросы языкознания. 2006. № 2. 28-67; Baydina, Ekaterina. 2016. The Russian apprehensive construction: Syntactic status reassessed, negation vindicated. Leiden: Leiden University MA Thesis.
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+family:
+  - |
+    ""

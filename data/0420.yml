@@ -1,0 +1,44 @@
+---
+record: 420
+name: 'Cl, тем не менее, Cl'
+UD_name: 'Cl, тем не менее, Cl'
+illustration: 'Было сложно, тем не менее, мы справились.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [mark тем [fixed не] [fixed менее]'
+  - 'Cl]]'
+dependency_structure_of_illustration:
+  - '[root [cop Было] сложно, [conj [mark тем [fixed не] [fixed менее]], [nsubj мы] справились].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+family:
+  - |
+    ""

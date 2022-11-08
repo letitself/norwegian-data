@@ -1,0 +1,47 @@
+---
+record: 276
+name: 'NP-Nom попасть в NP-Acc'
+UD_name: 'NP-Nom попасть в NP-Acc'
+illustration: 'Его мама попала в сумасшедший дом.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] попасть [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Его] мама] попала [obl [case в] [amod сумасшедший] дом].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

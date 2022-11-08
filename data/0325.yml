@@ -1,0 +1,50 @@
+---
+record: 325
+name: 'тем временем Cl'
+UD_name: 'тем временем Cl'
+illustration: 'Тем временем директор покинул здание.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что на фоне некоторой [ситуации]Situation совершается [действие]Activity или [событие]Event.
+examples:
+  - |
+       Серёжа [спал]Situation, а Юрий тем временем [размышлял.]Activity
+  - |
+       [Сначала – налоговая инспекция]Event, [затем – Пенсионный фонд]Event, [потом – Внешэкономбанк]Event, а инфляция тем временем [не дремлет]Situation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+semantic_roles:
+  - Event
+  - Situation
+  - Activity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl [det тем] временем] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [det Тем] временем] [nsubj директор] покинул [obj здание].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
+family:
+  - |
+    "Simultaneity"

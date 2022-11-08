@@ -1,0 +1,63 @@
+---
+record: 1180
+name: 'NP-Nom Cop вылитый NP-Nom'
+UD_name: 'NP-Nom Cop вылитый NP-Nom'
+illustration: 'Катя вылитая мама.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает сильное [внешнее]Parameter сходство [человека]Comparee с [членом его семьи или известной личностью или персонажем с узнаваемой внешностью]Standard. При этом сильное сходство необязательно предполагает их полное совпадение. Иногда конструкция используется при сравнении личностных качеств или поведения (пример 5). Как если бы человек был точной копией, скульптурой, отлитой из металла по облику другого человека.
+  - english: |
+       This construction expresses a comparison and emphasizes a strong [physical]Parameter resemblance between a [person]Comparee and [a member of their family, a famous person, or a person of recognizable appearance]Standard. The resemblance does not imply a complete likeness. This construction is sometimes used to compare personal qualities or behavior (example 5). It is as if the person were an exact replica, a sculpture, cast from metal in the image of another person.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever den sterke [utseendemessige]Parameter likheten mellom [en person]Comparee og [et familiemedlem, en kjent person eller en figur med et gjenkjennelig ytre]Standard. Samtidig innebærer ikke den sterke likheten nødvendigvis noe fullstendig sammenfall. Av og til brukes konstruksjonen når man sammenlikner personlighetstrekk eller opptreden (eksempel 5). Det er som om personen er en eksakt kopi eller en skulptur, avstøpt i metall etter en annen persons ytre.
+examples:
+  - |
+       На Юру моего посмотришь… [Он]Comparee вылитый [отец]Standard, все так говорят, кто его помнит. [Та же улыбка, те же крупные черты, густые светлые брови, те же глаза с отчетливой лепкой век, с крупным глазным яблоком, как у античных статуй…]Parameter
+  - |
+       А [усы-то, усы-то,]Parameter вылитый [Сальвадор Дали]Standard!
+  - |
+       [Младшая сестра Риточка]Comparee ― вылитая [Барби]Standard, всю юность отбивала бойфрендов.
+  - |
+       На нем был черный плащ, цилиндр, иногда черные очки, и [фигурой и жестами]Parameter [он]Comparee был вылитый [Мейерхольд]Standard.
+  - |
+       Ведь жизнь фермы восставших животных до деталей напоминала ситуацию в СССР после 1917 года, а [коварный хряк Наполеон]Comparee [по своим методам борьбы за власть]Parameter был вылитый [Сталин]Standard.
+morphology:
+  - NP
+  - Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - Comparee
+  - Parameter
+  - Standard
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [amod вылитый] NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Катя] [amod вылитая] мама.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - мать
+  - отец
+  - барби
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

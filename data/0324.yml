@@ -1,0 +1,46 @@
+---
+record: 324
+name: 'такой NP, как NP-Nom, Cl'
+UD_name: 'такой NP, как NP-Nom, Cl'
+illustration: 'Такому человеку, как он, не стыдно признаться в своей неправоте.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [dep [det такой] NP'
+  - '[obl [case как] NP-Nom]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [iobj [det Такому] человеку, [acl [case как] он]], [advmod не] стыдно [csubj признаться [obl [case в] [det своей] неправоте]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    См. также Падучева Е. В. НКРЯ как ресурс при исследовании предметной соотнесенности имен //  В. А. Плунгян. (отв. ред.). Национальный корпус русского языка: 2006 - 2008. Новые результаты и перспективы. СПб.: Нестор-История, 2009, 374-382.
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+family:
+  - |
+    ""

@@ -1,0 +1,46 @@
+---
+record: 507
+name: 'NP-Nom вести в NP-Acc'
+UD_name: 'NP-Nom вести в NP-Acc'
+illustration: 'Дверь вела в комнату.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] вести [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Дверь] вела [obl [case в] комнату].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

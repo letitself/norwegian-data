@@ -1,0 +1,79 @@
+---
+record: 1537
+name: 'VP NP-Gen NumCrd (тому) назад'
+UD_name: 'VP NP-Gen NumCrd (тому) назад'
+illustration: 'Я был в Швеции лет десять назад.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation имела место в прошлом, после неё до момента речи прошло некоторое [количество]Quantity [лет]Measure или, реже, [других промежутков времени (часов, дней, недель и т.п.)]Measure. [Количество]Quantity [времени]Measure говорящий указывает приблизительно, неточно. Значение неточности передается инверсионным порядком слов (NP-Gen NumCrd вместо прямого порядка слов NumCrd NP-Gen). В нарративе конструкция может указывать на ситуацию, которая имела место до другого события в прошлом. В современном русском языке вариант без слова «тому» преобладает, вариант со словом «тому» встречается реже. Слово «тому» чаще встречается в конструкции с обозначением длинных периодов времени (год, век), а не коротких (час, минута, секунда).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation fant sted i fortiden og at det etter dette og frem til taletidspunktet er gått et gitt [antall]Quantity [år]Measure eller, sjeldnere, [andre tidsavsnitt (timer, dager, uker o.l.)]Measure. [Mengden]Quantity [tid]Measure angis av taleren omtrentlig og upresist. Betydningen av omtrentlighet fremgår av den omvendte ordstillingen (NP-Gen NumCrd i stedet for den ordinære ordstillingen NumCrd NP-Gen). I teksten kan konstruksjonen vise til en situasjon i fortiden som fant sted før en annen hendelse. I moderne russisk er versjonen uten ordet «тому» dominerende, og versjonen med ordet «тому» forekommer sjeldnere. Ordet «тому» forekommer oftest i konstruksjoner som betegner lange tidsavsnitt (år, århundre), og ikke korte (time, minutt, sekund).
+examples:
+  - |
+       Когда у меня [лет]Measure [десять]Quantity назад [появился видеомагнитофон и записанная вручную кассета с фильмом]Situation, я пересматривал «Служебный роман» чуть ли ни каждый день.
+  - |
+       [Года]Measure [четыре]Quantity тому назад в небольшом сборном концерте в Париже [было объявлено]Situation возвращение великого Вайзенберга.
+  - |
+       А [я заходил]Situation [минут]Measure [десять]Quantity назад.
+  - |
+       Последний раз, как [он был в Лихаревке]Situation, [месяца]Measure [полтора]Quantity назад, стояла жестокая ранняя жара.
+  - |
+       [Недели]Measure [три]Quantity назад у нас в Госдуме на слушаниях по поводу реализации антитабачного закона [выступал представитель ВОЗ]Situation, итальянец, который искренне заявил: «Вы не поверите, но 5 лет назад, когда мы выпускали этот доклад, мы не знали еще всего вреда…»
+morphology:
+  - VP
+  - NP
+  - Gen
+  - NumCrd
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Inversion
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Measure
+  - Situation
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl NP-Gen [nummod NumCrd] [advmod назад]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] был [obl [case в] Швеции] [obl лет [nummod:gov десять] [advmod назад]].]'
+comment: |
+    'См. близкую конструкцию 1662, которая обозначает конкретный, а не  приблизительный интервал между ситуацией и моментом речи. В конструкции 1537 чаще возникает слово "тому", чем в конструкции 1662.'
+common_fillers:
+  - года
+  - лет
+  - секунды
+  - секунд
+  - минуты
+  - минут
+  - часа
+  - часов
+  - дня
+  - дней
+  - недели
+  - недель
+  - месяца
+  - месяцев
+  - века
+  - веков
+references:
+  - |
+    См. также статью Сай С.С. Динамика развития обстоятельств времени со значением предшествования на интервал в русском языке // М.Д. Воейкова (ред.). Избыточность в грамматическом строе языка [Acta Linguistica Petropolitana. Труды Института лингвистических исследований РАН, том VI, часть 2]. СПб.: Наука, 2010. С. 131–183.
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

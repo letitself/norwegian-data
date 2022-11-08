@@ -1,0 +1,54 @@
+---
+record: 573
+name: 'NP-Nom Cop NP-Dat к лицу'
+UD_name: 'NP-Nom Cop NP-Dat к лицу'
+illustration: 'Синее платье было ей к лицу.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает положительную оценку внешности человека в связи с тем, что некоторый [элемент одежды или образ]Theme хорошо подходит этому [человеку]Experiencer, украшает его, гармонично смотрится на нем.
+  - english: |
+       This construction is used to show that [a certain fashion (or set of things)]Theme suits [a participant]Experiencer, looks good on [the participant]Experiencer.
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Dat
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [iobj NP-Dat] [case к] лицу]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Синее] платье] [cop было] [iobj ей] [case к] лицу.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Appearance
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Appearance"

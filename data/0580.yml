@@ -1,0 +1,78 @@
+---
+record: 580
+name: '(а) NP-Nom (как/вдруг) Verb-Bare (PP/Adv)'
+UD_name: '(а) NP-Nom (как/вдруг) V-Bare (PP/Adv)'
+illustration: 'Ребенок вдруг хлоп об землю!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent неожиданно совершил некоторое [действие]Action, которое резко изменило ход событий. Действие происходит быстро и за один этап, часто спонтанно или неожиданно. Особенностью этой конструкции является использование чистой основы глагола Verb-Bare, которая подчеркивает быстрое совершение действия: хлоп, прыг, скок, стук, шлеп, хвать, шасть и др. По значению эти формы соотносимы с глаголами совершенного вида.
+  - english: |
+       This construction indicates that a [participant]Agent has unexpectedly carried out an [action]Action, which has abruptly changed the course of events. The action happens quickly and in one step, often spontaneously or unexpectedly. A particular feature of this construction is the use of the bare verb stem Verb-Bare, which emphasises the rapid performance of the action: "хлоп" 'whack', "прыг" 'hop/jump', "скок" 'leap', "стук" 'knock', "шлеп" 'smack', "хвать" 'grab', "шасть" 'dart', etc. In terms of meaning these forms are comparable with perfective verbs. AE: there is a term for  чистой основы глагола = bare verb stem.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utventet har utført en gitt [handling]Action som brått har endret begivenhetenes gang. Handlingen skjer raskt og i én operasjon, ofte spontant eller uventet. En særegenhet ved denne konstruksjonen er bruken av verbroten Verb-Bare, som fremhever handlingens raske utførelse: хлоп, скок, стук, шлеп, хвать, шасть m.fl. Når det gjelder betydningen, er disse formene sammenlignbare med verb av perfektivt aspekt.
+examples:
+  - |
+       Вдруг толстая [рука]Agent как [хвать]Action с полки булочку и исчезла в одну секундочку.
+  - |
+       А Яков по скамье ползёт на кота. [Кот]Agent испугался, весь в комок сжался. И вдруг ― [прыг]Action, да не на Яшку, а [на дерево.]Goal Уцепился и глядит сверху.
+  - |
+       Иногда держишь в руках хрупкую вещь, рассеянно вертишь ее, как ― [хлоп!]Action ― она треснула.
+  - |
+       ― Это как [Гете]Agent во второй части «Фауста»… Говорит про одно, а потом вдруг… [скок]Action [в другое место.]Goal
+  - |
+       Сплю на веранде, вдруг ― [хрясь]Action, [звень]Action, и стекла на одеяло посыпались.
+morphology:
+  - NP
+  - Nom
+  - Verb
+  - Bare
+  - PP
+  - Adv
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - Action
+  - Agent
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [cc а] [nsubj NP-Nom] [advmod вдруг] Verb-Bare [obl PP]]'
+  - '[root [nsubj NP-Nom] [advmod вдруг] Verb-Bare [obl PP]]'
+  - '[root [cc а] [nsubj NP-Nom] [advmod как] Verb-Bare [obl PP]]'
+  - '[root [nsubj NP-Nom] [advmod как] Verb-Bare [obl PP]]'
+  - '[root [cc а] [nsubj NP-Nom] [advmod вдруг] Verb-Bare [advmod Adv]]'
+  - '[root [nsubj NP-Nom] [advmod вдруг] Verb-Bare [advmod Adv]]'
+  - '[root [cc а] [nsubj NP-Nom] [advmod как] Verb-Bare [advmod Adv]]'
+  - '[root [nsubj NP-Nom] [advmod как] Verb-Bare [advmod Adv]]'
+  - '[root [nsubj NP-Nom] Verb-Bare]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ребенок] [advmod вдруг] хлоп [obl [case об] землю]!]'
+comment: |
+    'В лингвистической литературе формы типа "прыг", "скок", "хлоп", "стук" называются глагольными междометиями, глагольно-междометными формами, аналитическими глаголами. См. близкие конструкции 57 и 61.'
+common_fillers:
+  - прыг
+  - скок
+  - хлоп
+  - шлеп
+  - стук
+  - бряк
+  - хвать
+  - шасть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+  - type: Mirative
+family:
+  - |
+    ""

@@ -1,0 +1,61 @@
+---
+record: 1203
+name: 'NP/VP на манер NP-Gen'
+UD_name: 'NP/VP на манер NP-Gen'
+illustration: 'Рубашка на манер униформы'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и обозначает сходство [одного участника или объекта]Comparee с [другим]Standard. Как правило, речь идет о внешнем сходстве объектов (примеры 1, 2, 3) или сходстве в поведении участников (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og betegner likheten mellom [én deltaker eller objekt]Comparee og [en annen]Standard. Som regel dreier det seg om utseendemessige likheter ved objektene (eksempel 1, 2 og 3) eller likheter ved deltakernes atferd (eksempel 4 og 5).
+examples:
+  - |
+       Риммочка порывистым движением поправляла на голове [шелковый платок]Comparee, [замотанный]Action на манер [тюрбана]Standard.
+  - |
+       По мне болонка или мопс ― не вполне собака. Так, [домашнее животное]Comparee на манер [кролика]Standard.
+  - |
+       Они [перезаписали]Action [композицию Broken]Comparee на манер [баллады]Standard.
+  - |
+       На манер [чеховских сестёр, мечтавших о несбыточной Москве]Standard, [Татьяна Васильевна]Comparee мечтала разобрать книги и позвать букиниста.
+  - |
+       Еще рекомендовали пробежку. Годик, другой [побегать]Activity на манер [Форреста Гампа]Standard…
+morphology:
+  - NP
+  - VP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Comparee
+  - Standard
+  - Activity
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[dep NP [nmod [case на] манер [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[obj Рубашка [nmod [case на] манер [nmod униформы]]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

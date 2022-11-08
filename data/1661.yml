@@ -1,0 +1,57 @@
+---
+record: 1661
+name: 'в незапамятные времена VP'
+UD_name: 'в незапамятные времена VP'
+illustration: 'В незапамятные времена построили этот город.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [ситуация]Situation имела место в далёком прошлом и больше не актуальна (примеры 1, 2). Конструкция также может обозначать, что [ситуация]Situation начала быть актуальной в далёком прошлом и остаётся таковой по сей день (примеры 3, 4, 5). Говорящий подчеркивает большое временное расстояние между описываемой [ситуацией]Situation и моментом речи, причем, как правило, конструкция отсылает к неопределенному моменту в далеком прошлом, отделенном от момента речи десятилетиями, столетиями или даже тысячелетиями (примеры 1-4). Реже конструкция отсылает к неопределенному, но «достижимому» для говорящего, моменту в прошлом, то есть к такому моменту, который застал сам говорящий (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at [en situasjon]Situation fant sted i fjern fortid og ikke lenger er aktuell (eksempel 1 og 2). Konstruksjonen kan også bety at [en situasjon]Situation ble aktuell i fjern fortid og har fortsatt å være det helt til i dag (eksempel 3, 4 og 5). Taleren fremhever den store avstanden i tid mellom den beskrevne [situasjonen]Situation og taleøyeblikket, samtidig som konstruksjonen som regel viser til et ubestemt tidspunkt i fjern fortid, skilt fra taleøyeblikket av årtier, århundrer eller endog årtusener (eksempel 1-4). Sjeldnere viser konstruksjonen til et ubestemt, men for taleren «tilgjengelig», tidspunkt i fortiden, det vil si til et tidspunkt taleren selv har opplevd (eksempel 5).
+examples:
+  - |
+       В незапамятные времена, когда люди ещё жили в пещерах, [здесь был огромный лес]Situation.
+  - |
+       В незапамятные времена [здесь стоял кинотеатр]Situation, где можно было увидеть фильмы, которые не допускали на телевидение.
+  - |
+       Из молока кобылиц в степях Евразии скотоводы-кочевники ещё в незапамятные времена [научились делать кумыс]Situation.
+  - |
+       Этот обычай [установился]Situation ещё в незапамятные времена и с тех пор строго соблюдается.
+  - |
+       Маша с Юрой [познакомились]Situation ещё в незапамятные времена, когда были студентами.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - Situation
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root [obl [case в] [amod незапамятные] времена] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod незапамятные] времена] построили [obj [det этот] город].]'
+comment: |
+    'См. близкую конструкцию 1660 давным-давно VP (Мы познакомились давным-давно.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Distant past
+family:
+  - |
+    ""

@@ -1,0 +1,69 @@
+---
+record: 1288
+name: 'VP с NP-Gen'
+UD_name: 'VP с NP-Gen'
+illustration: 'Девочка с досады топнула ногой.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [эмоциональное состояние]Cause участника является причиной совершённого им [действия]Action.
+  - norwegian: |
+       Konstruksjonen betyr at deltakerens [emosjonelle tilstand]Cause er årsaken til [en handling]Action vedkommende har utført.
+examples:
+  - |
+       А может быть, Иванова со [злости]Cause [наговорила]Action?
+  - |
+       И со [страху]Cause они мне [платят за восемь строчек двенадцать тысяч]Action!
+  - |
+       Можно [с ума сойти]Action с [тоски]Cause в нашей деревне.
+  - |
+       Давай [выпьем]Action с [горя]Cause! – Так мне нельзя. – А мне, ты думаешь, можно?
+  - |
+       Да не трещотка я, не трещотка, это я с [радости]Cause [разговорилась]Action.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Cause
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case с] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Девочка] [obl [case с] досады] топнула [iobj ногой].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - зло
+  - злость
+  - скука
+  - горе
+  - тоска
+  - досада
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Specific emotions
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Specific emotions"

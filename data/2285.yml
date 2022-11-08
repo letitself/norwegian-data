@@ -1,0 +1,48 @@
+---
+record: 2285
+name: 'PronPers-Nom как хотеть/знать, а/но Cl'
+UD_name: 'PronPers-Nom как хотеть/знать, а/но Cl'
+illustration: 'Ты как хочешь, а я с ним работать не буду!'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - PronPers
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj PronPers-Nom] [advmod как] хотеть, [conj [cc а] Cl]]'
+  - '[root [nsubj PronPers-Nom] [advmod как] знать, [conj [cc а] Cl]]'
+  - '[root [nsubj PronPers-Nom] [advmod как] хотеть, [conj [cc но] Cl]]'
+  - '[root [nsubj PronPers-Nom] [advmod как] знать, [conj [cc но] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod как] хочешь, [conj [cc а] [nsubj я] [obl [case с] ним] работать] [advmod не] [aux буду]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

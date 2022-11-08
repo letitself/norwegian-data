@@ -1,0 +1,66 @@
+---
+record: 39
+name: 'бросить-Imp VP-Ipfv.Inf!'
+UD_name: 'бросить-Imper VP-Imp.Inf!'
+illustration: 'Брось спорить!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий побуждает собеседника прекратить выполнять [некоторое действие]Action, так как оно кажется ему неуместным или неадекватным (например, шутить в ситуации, когда нужно быть серьезным, или грустить в ситуации, когда нужно быть веселым). Конструкция подразумевает отсутствие между говорящим и собеседником социальной иерархии и произносится в дружеском тоне. Как если бы говорящий предлагал собеседнику бросить куда-то прочь – но не предмет (как это обычно бывает), а действие.
+  - english: |
+       This construction is used when the speaker prompts the interlocutor to stop performing [an action]Action, as the speaker finds it to be out of place or inappropriate (e.g. joking when they should be serious, or being sad when they should be happy). The construction implies the absence of social hierarchy between the speaker and the interlocutor and is pronounced in a friendly tone. It is as if the speaker suggests, only it is not an object (as is usually the case), but an action.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren anmoder samtalepartneren om å slutte å utføre [en gitt handling]Action fordi taleren finner den malplassert eller upassende (f.eks. spøke når man bør være alvorlig eller sørge når man bør være glad). Konstruksjonen forutsetter fravær av rangsforskjeller mellom taleren og samtalepartneren og fremføres i en vennskapelig tone. Det er som om taleren foreslår å kaste vekk noe, bare at det ikke dreier seg om en gjenstand (slik det vanligvis gjør), men en handling.
+examples:
+  - |
+       ― А куда ж ты саму люстру дел? ― Бросьте [глупости спрашивать]Action! ― не выдержал Валентин.
+  - |
+       Брось [вести такие разговоры]Action.
+  - |
+       Ребята, бросьте [врать]Action, мы и так знаем правду.
+  - |
+       Здесь ещё месяца на три, а то и больше, работы! ― Брось [шутить]Action, дядя, ― говорят они. ― Делов-то всего ― дом построить!
+  - |
+       ― Бросьте [болтать чепуху]Action, господа, ― лениво проговорила женщина.
+morphology:
+  - Imp
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root бросить-Imp [xcomp VP-Ipfv.Inf]!]'
+dependency_structure_of_illustration:
+  - '[root Брось [xcomp спорить]!]'
+comment: |
+    'См. конструкции кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.), прекратить/перестать-Imper VP-Imp.Inf (прекрати капризничать). Не путать с конструкциями кинуться/броситься/ринуться VP-Inf (Катя кинулась искать свой рюкзак), бросить VP-Inf (Бросил курить).'
+common_fillers:
+  - болтать
+  - врать
+  - шутить
+  - нести чушь
+  - валять дурака
+  - паясничать
+  - ломать комедию
+references:
+  - |
+    См. также статью Рахилина Е. В. Кондуктор, нажми на тормоза... //  Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной  конференции «Диалог» (2013). Т. 1. М.: Изд-во Российского государственного гуманитарного университета, 2013, С. 665–673.
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+family:
+  - |
+    "Семья прохибитивных конструкций"

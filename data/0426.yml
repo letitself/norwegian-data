@@ -1,0 +1,79 @@
+---
+record: 426
+name: 'VP, как положено/подобает (NP-Dat)/принято'
+UD_name: 'Cl, как подобает/положено/надо/принято'
+illustration: 'Мы собрали посуду со стола, как положено.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action выполняется по всем правилам. У говорящего есть представление об [определенном стандарте]Standard, в соответствии с которым, по его мнению, должно выполняться это действие. В роли стандарта, как правило, выступает эталонный представитель некоторой социальной группы (пример 2) или принятая в обществе модель поведения (примеры 3-5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action utføres i henhold til alle regler. Taleren har en forestilling om [en bestemt standard]Standard som taleren mener handlingen må utføres etter. I rollen som standard opptrer som regel en typisk representant for en eller annen sosial gruppe (eksempel 2) eller et adferdsmønster som er allment akseptert i samfunnet (eksempel 3-5).
+examples:
+  - |
+       Почему ты [не обращаешься с нами]Action, как подобает?
+  - |
+       Она [отвечала медленно]Action, как подобает [настоящей леди]Standard.
+  - |
+       Вечером они встречаются дома и, как положено в хорошей семье, [обсуждают вместе свои дела]Action.
+  - |
+       Максим [ел не вилкой]Action, как положено, а столовой ложкой, чтобы больше влезало.
+  - |
+       О мертвом, как принято, [говорят или хорошо, или ничего]Action.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [advcl [mark как] подобает]]'
+  - '[root Cl, [advcl [mark как] положено]]'
+  - '[root Cl, [advcl [mark как] надо]]'
+  - '[root Cl, [advcl [mark как] принято]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] собрали [obj посуду] [obl [case со] стола], [advcl [mark как] положено].]'
+comment: |
+    'См. похожую конструкцию 629 VP как надо (Отец готовил яичницу как надо).'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Matching the norm
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Matching the norm
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation per se (impersonal)
+family:
+  - |
+    "Matching the norm"

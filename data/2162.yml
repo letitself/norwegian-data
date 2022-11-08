@@ -1,0 +1,59 @@
+---
+record: 2162
+name: 'увы, Cl!'
+UD_name: 'увы, Cl!'
+illustration: 'Увы, концерт отменили.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция выражает сожаление говорящего по поводу определенной [ситуации]Situation или [события.]Event
+examples:
+  - |
+       Увы, [мне известно очень немногое об этой русской семье]Situation.
+  - |
+       Увы, я [продал машину]Event, когда мне понадобились деньги.
+  - |
+       Увы, [быть вечно молодым невозможно.]Situation
+  - |
+       В наше время, когда в мире нет ничего постоянного, семья ― это самое важное.  Увы, [гастрольная жизнь музыканта слишком надолго разлучает с родными.]Situation
+  - |
+       ― Вы отдаете эту папку мне? ― дрогнувшим голосом спросил я редактора. ― Увы, [нет]Event, ― после долгой паузы вздохнул он.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Interjection
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis увы]'
+  - 'Cl!]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Увы], [obj концерт] отменили.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Remorse
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Remorse"

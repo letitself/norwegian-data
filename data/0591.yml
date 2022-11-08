@@ -1,0 +1,45 @@
+---
+record: 591
+name: 'VP NP-Acc VP-Inf'
+UD_name: 'VP NP-Acc VP-Inf'
+illustration: 'Он достал деньги поехать на юг.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Acc
+  - Inf
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obj NP-Acc] [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] достал [obj деньги] [xcomp поехать [obl [case на] юг]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Purpose
+family:
+  - |
+    ""

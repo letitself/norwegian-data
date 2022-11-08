@@ -1,0 +1,67 @@
+---
+record: 629
+name: 'VP как надо'
+UD_name: 'VP как надо'
+illustration: 'Отец готовил яичницу как надо.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action выполняется по всем правилам. У говорящего есть представление об определенном стандарте, в соответствии с которым, по его мнению, должно выполняться это действие.
+examples:
+  - |
+       Далеко не сразу я начал [все делать]Action как надо.
+  - |
+       Просто встряхни головой. Волосы [лягут]Action как надо!
+  - |
+       Я хотел бы, чтобы с моим сыном занимался ты сам и чтобы как надо [подготовил его в университет]Action.
+  - |
+       Во время отсутствия жены мама [готовила курицу]Action как надо, и Витя ею наслаждался.
+  - |
+       ― Если все [пройдет]Action как надо, ― протянул он деньги, ― получишь еще двести.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [advcl [mark как] надо]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Отец] готовил [obj яичницу] [advcl [mark как] надо].]'
+comment: |
+    'См. похожую конструкцию 426 VP, как положено/подобает (NP-Dat)/принято (Мы собрали посуду со стола, как положено).'
+common_fillers:
+  - делать
+  - пройти
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Matching the norm
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Matching the norm
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Matching the norm"

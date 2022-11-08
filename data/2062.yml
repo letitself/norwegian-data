@@ -1,0 +1,58 @@
+---
+record: 2062
+name: 'никто/ничто не VP'
+UD_name: 'никто/ничто не VP'
+illustration: 'Никто не будет тебя ругать.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает отсутствие участника или объекта, который мог бы выполнить некоторое [действие]Action (примеры 1, 2) или быть его неотъемлемым элементом (примеры 3, 4, 5).
+examples:
+  - |
+       Если ты будешь в Польше и не посетишь Краков ― тебя никто не [поймёт.]Action
+  - |
+       С этого кресла хорошо видно, потому что ничто не [закрывает сцены.]Action
+  - |
+       Странно, что никто не [написал своего отзыва]Action к этому фильму.
+  - |
+       Никто не [знает]Action, какая ситуация будет осенью, вдруг мы опять будем замерзать?
+  - |
+       Ничто не [мешает]Action работать судьям, команды четко соблюдают график.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [dep никто] [advmod не] VP]'
+  - '[root [dep ничто] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Никто] [advmod не] [aux будет] [obj тебя] ругать.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - слушать
+  - помочь
+  - знать
+  - мешать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+family:
+  - |
+    ""

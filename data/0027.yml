@@ -1,0 +1,68 @@
+---
+record: 27
+name: '(NP-Nom) это Cop в первую очередь NP-Nom'
+UD_name: '(NP-Nom) это Cop в первую очередь NP-Nom'
+illustration: 'Это в первую очередь его заслуга.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, [что]Theme является самым главным, важным с точки зрения говорящего для некоторого [объекта]Theme или в определенном [вопросе]Theme.
+  - english: |
+       This construction emphasizes [what]Theme the speaker thinks is most significant or important for some [object]Theme or specific [question]Theme.
+  - norwegian: |
+       Konstruksjonen uttrykker [hva]Theme taleren mener er vesentligst eller viktigst for et gitt [objekt] eller i et visst [anliggende]Theme.
+examples:
+  - |
+       [Свобода]Theme – это в первую очередь [обязанность]Theme, а не привилегии.
+  - |
+       [Воспитание]Theme – это в первую очередь [работа родителей над собой.]Theme
+  - |
+       [Сертификат]Theme для меня – это в первую очередь [проверка моих личных знаний.]Theme
+  - |
+       Темы его выступлений не отличались большим многообразием. Это было в первую очередь [обличение и осуждение коммунизма]Theme, тоталитарного режима в СССР.
+  - |
+       Даже Каштанов, для которого [человеческое тело]Theme было в первую очередь [материалом для исследования]Theme, вздрогнул.
+morphology:
+  - NP
+  - Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Particle
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - Theme
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj это] [obl [case в] [amod первую] очередь] NP-Nom]'
+  - '[root [nsubj NP-Nom] [expl это] [obl [case в] [amod первую] очередь] NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [amod [case в] первую] [obl очередь] [det его] заслуга.]'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Importance/Worth"

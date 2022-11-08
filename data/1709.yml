@@ -1,0 +1,59 @@
+---
+record: 1709
+name: 'VP под окном'
+UD_name: 'VP под окном'
+illustration: 'Под моим окном растут цветы.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Action происходит снаружи, у нижней части стены, на которой расположено окно.
+examples:
+  - |
+       Старые тополя под окном [шумели]Action, как морская пена.
+  - |
+       Прямо под окном [росла]Action высокая трава.
+  - |
+       Машина [стояла]Action у нее под окном.
+  - |
+       Он громко [пел]Action испанские серенады под окном у невесты.
+  - |
+       ― Я, наверное, с ума сошел.  Я все время думаю о тебе! Хочешь, я всю ночь буду [сидеть]Action тут, под окном? ― Зачем? ― засмеялась Валя. ― Чтобы просто быть рядом.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] окном]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Под] [det моим] окном] растут [nsubj цветы].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - стоять
+  - сидеть
+  - шуметь
+  - расти
+  - цвести
+  - пронестись
+references:
+  - |
+    См. о предлоге ПОД Плунгян В.А., Рахилина Е.В. По поводу «локалистской» концепции значения: предлог ПОД // Исследования по семантике предлогов. М., 2000. С. 115-133; Плунгян В.A., Рахилина E.В., 2014. Семантико-синтаксические свойства русских конструкций с предлогом под. Прямые (пространственные) и переносные (временные) употребления, Die Welt der Slaven. Internationale Halbjahresschrifr fur Slavistik. T. 59. № 1. 22–56.
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

@@ -1,0 +1,61 @@
+---
+record: 619
+name: 'Cl – и будь здоров'
+UD_name: 'VP – и будь здоров'
+illustration: 'Миша забрал книгу – и будь здоров.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP – [conj [cc и] [cop будь] здоров]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Миша] забрал [obj книгу] – [conj [cc и] [cop будь] здоров].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Mirative
+  - type: Non-existence
+    subtypes:
+      - type: Disappear
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    "Disapproval, Ethics/Behavior"

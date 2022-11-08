@@ -1,0 +1,79 @@
+---
+record: 281
+name: '(NP-Dat) пришлось/придётся VP-Inf'
+UD_name: '(NP-Dat) пришлось/придётся VP-Inf'
+illustration: 'Пришлось выпить лекарство.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Experiencer вынужден выполнить [действие]Action против своей воли, то есть несмотря на то, что ему совсем не хочется выполнять это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Experiencer er nødt til å utføre [handlingen]Action mot sin vilje, dvs. til tross for at vedkommende slett ikke har lyst til å utføre denne handlingen.
+examples:
+  - |
+       Волонтерская работа отнимала у Васи много времени, и [ему]Experiencer пришлось [бросить работу менеджера]Action.
+  - |
+       Алиса прямо на ходу повисла на нём, обхватила руками. [Ему]Experiencer пришлось [остановиться]Action.
+  - |
+       Придется [немного подождать]Action: эксклюзивная пара обуви будет доставлена только через месяц.
+  - |
+       Сейчас [нам]Experiencer придется [брать реальные кредиты]Action, чтобы гасить в первую очередь кредиторские задолженности.
+  - |
+       [Ей]Experiencer приходится [работать по 10-12 часов в сутки]Action.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Experiencer
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] пришлось [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] придётся [csubj VP-Inf]]'
+  - '[root пришлось [csubj VP-Inf]]'
+  - '[root придётся [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Пришлось [csubj выпить [obj лекарство]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - работать
+  - бросить
+  - согласиться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation per se (impersonal)
+family:
+  - |
+    "Discontent"

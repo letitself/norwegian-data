@@ -1,0 +1,81 @@
+---
+record: 2337
+name: 'Кто PronPers-Nom Cop такой, чтобы VP-Inf'
+UD_name: 'Кто PronPers-Nom Cop такой, чтобы VP-Inf'
+illustration: 'Кто ты такой, чтобы за меня решать?!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что, по мнению говорящего, [участник ситуации]Cognizer (в том числе сам говорящий) не имеет морального права совершать [действие]Action или быть [объектом]Stimulus [действия]Action другого участника ситуации, так как находится слишком низко на социальной иерархии или не обладает достаточным опытом, знаниями или авторитетом. Как правило, конструкция выражает возмущение, поскольку участник ситуации не знает о неправомерности своих действий (кроме тех случаев, когда слот местоимения PronPers-Nom заполняется местоимением "я" — тогда конструкция, как правило, выражает смирение и скромность).
+examples:
+  - |
+       ― А кто [вы]Stimulus такой, чтобы вас [любить]State, и зачем вам моя любовь?
+  - |
+       Их личные дела, их собственные скелеты в шкафу — кто [я]Cognizer такая, чтобы [судить]Action?
+  - |
+       Кто [ты]Cognizer такой, чтобы [осуждать чужого слугу]Action?!
+  - |
+       Кто [мы]Stimulus такие, чтобы [с нами считаться]Action?
+  - |
+       Кто [он]Cognizer такой, чтобы [выбирать]Action?
+morphology:
+  - PronPers
+  - Nom
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - Action
+  - Cognizer
+  - State
+  - Stimulus
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root кто [nsubj PronPers-Nom] [cop Cop] [det такой]'
+  - '[advcl [mark чтобы] VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Кто [nsubj ты] [det такой], [advcl [mark чтобы] [obl [case за] меня] решать]?!]'
+comment: |
+    'Частотными заполнителями слота VP-Inf являются глаголы, выражающие ментальное или эмоциональное состояние (считаться, решать, любить и др.).'
+common_fillers:
+  - судить
+  - решать
+  - любить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Importance/Power
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    "Disapproval, Importance/Power"

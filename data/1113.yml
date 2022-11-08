@@ -1,0 +1,61 @@
+---
+record: 1113
+name: 'NP-Nom Cop как на ладони'
+UD_name: 'NP-Nom Cop как на ладони'
+illustration: 'Город как на ладони.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant, [объект]Theme или [ситуация]Situation отчетливо видны или понятны. Как если бы они располагались совсем близко к наблюдателю, находились у него на ладони. Как правило, в случае с объектами речь идет о ясной видимости самого объекта (пример 1), а при употреблении с ситуациями конструкция обозначает, что они легко поддаются пониманию (примеры 4, 5). В случае с участниками оба этих значения (видимость и доступность для понимания) возможны (примеры 2, 3).
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation ses tydelig eller er lett å forstå. Det er som om de er plassert helt nær den som observerer, på håndflaten. Når det dreier seg om objekter, er det som regel selve objektet som kan ses klart (eksempel 1), og brukt om situasjoner, betyr konstruksjonen at situasjonene er lette å forstå (eksempel 4 og 5). Dreier det seg om deltakere, er begge disse betydningene (synlighet og forståelighet) mulige (eksempel 2 og 3).
+examples:
+  - |
+       Данил рассказывал о своей поездке во Францию, о какой-то башне, с вершины которой [весь Париж]Theme как на ладони, и о какой-то Венере, которая оказалась без одной руки.
+  - |
+       [Человек в тундре]Participant с вертолета как на ладони.
+  - |
+       Синявский и Даниэль были не идеальные схемы, а люди из плоти и крови, очень разные: Андрей ― лукавый сосуд с двойным дном, [Юлик]Participant ― прозрачный и открытый, весь как на ладони.
+  - |
+       [Вся эта операция]Situation у меня как на ладони, повторяю: она была гениальна в своей простоте.
+  - |
+       Как бы врач не прикидывалась беспристрастным наблюдателем, [вся история Петровых с их разводом]Situation была для нее как на ладони.
+morphology:
+  - NP
+  - Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Noun
+semantic_roles:
+  - Theme
+  - Participant
+  - Situation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case как] [case на] ладони]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Город] [case как] [case на] ладони.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - город
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

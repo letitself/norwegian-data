@@ -1,0 +1,69 @@
+---
+record: 809
+name: 'NP-Nom Cop/VP в руках NP-Gen'
+UD_name: 'NP-Nom Cop/VP в руках NP-Gen'
+illustration: 'Все решения были в руках капитана.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor контролирует [объект]Theme, имеет власть над ним. В качестве объекта могут выступать конкретные предметы, абстрактные сущности и люди.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Possessor kontrollerer [et objekt]Theme og har makt over det. Objektet kan være en konkret gjenstand, et abstrakt fenomen eller en person.
+examples:
+  - |
+       [Всё]Theme было в руках [народа]Possessor: арсеналы, казармы, дворцы, хлебные склады, магазины.
+  - |
+       [Всё]Theme было в руках [удачи]Possessor.
+  - |
+       В руках [греков]Possessor была вся мелкая [торговля]Theme.
+  - |
+       Получается, что именно в руках [экспертов]Possessor, при всей их зависимости, [сосредоточивается]Action совершенно особая [власть]Theme.
+  - |
+       К сожалению, на процесс перевозки повлиять не удастся, поскольку [управление движением]Theme всё равно [остаётся]Action в руках [диспетчеров железной дороги]Possessor.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - VP
+  - Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Possessor
+  - Theme
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [case в] руках [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Все] решения] [cop были] [case в] руках [nmod капитана].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - находиться
+  - оставаться
+  - оказаться
+  - сосредоточиться
+  - власть
+  - марионетка
+  - игрушка
+references:
+  - |
+    No references
+semantic_types:
+  - type: Possession
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    "Possession Object is Possessed"

@@ -1,0 +1,66 @@
+---
+record: 879
+name: 'вот бы (NP-Dat) (никогда не/всегда) VP-Inf!'
+UD_name: 'вот бы (NP-Dat) (никогда не/всегда) VP-Inf!'
+illustration: 'Вот бы никогда не работать!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает пожелание [говорящего]Speaker или [участника]Experiencer о том, чтобы в будущем реализовалась [некоторая ситуация]Situation. Пожелание может относиться и к реально возможным событиям, и к неосуществимым. Если в конструкции употребляются слова "всегда" или "никогда не", то конструкция выражает желание говорящего регулярно выполнять или не выполнять некоторое действие. Такое желание всегда соотносится с неосуществимым событием (примеры 4-5).
+examples:
+  - |
+       А я вдруг подумал ― вот бы [про это написать]Situation.
+  - |
+       Там вода теплее, наверное. Слушай, вот бы [там побывать]Situation, да? ― мечтательно сказала Лина.
+  - |
+       Кудрявцева залюбовалась его ловкими движениями. Вот бы [ей]Experiencer [так научиться танцевать]Situation!
+  - |
+       Вот бы [всегда жить так, как в первый день зарплаты]Situation!
+  - |
+       Я уезжаю из этого города, плачу и думаю: вот бы [никогда не уезжать]Situation, вот бы это была столица моей страны…
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+  - Negation Marker
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod вот] [aux бы] [iobj NP-Dat] [advmod никогда] [advmod не] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [iobj NP-Dat] [advmod всегда] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [iobj NP-Dat] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [advmod никогда] [advmod не] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] [advmod всегда] VP-Inf!]'
+  - '[root [advmod вот] [aux бы] VP-Inf!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] [aux бы] [advmod никогда] [advmod не] работать!]'
+comment: |
+    'См. близкие конструкции 63, 881, 1003.'
+common_fillers:
+  - NA
+references:
+  - |
+    См. Сай С.С. О статусе сочетаний нефинитных форм русского глагола с частицей бы // Глагольные и именные категории в системе функциональной грамматики. Сб. материалов конференции 9-12 апреля 2013 г. СПб: Нестор-История. 2013. С. 266–273; Добрушина Н. Р. Инфинитивные конструкции с частицей бы // Русский язык в научном освещении. 2012. № 2(24).
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+      - type: Existential
+  - type: Volition
+family:
+  - |
+    ""

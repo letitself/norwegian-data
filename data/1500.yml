@@ -1,0 +1,54 @@
+---
+record: 1500
+name: 'стопроцентный Noun'
+UD_name: 'стопроцентный N'
+illustration: 'Стопроцентный успех'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция повышает до максимума степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что [элемент ситуации]Theme обладает свойством полноты и завершенности. Как если бы свойства этого элемента реализовывались в объеме ста процентов.
+examples:
+  - |
+       Екатеринбург был готов к чемпионату раньше всех, и сейчас у нас практически стопроцентная [готовность]Theme.
+  - |
+       Вообще-то, где держать деньги со 100-процентной [гарантией]Theme их сохранности, такого совета вам никто не даст.
+  - |
+       Мы, само собой, не гарантируем стопроцентное [трудоустройство]Theme.
+  - |
+       «Любовь и голуби» для меня — это стопроцентная [комедия]Theme.
+  - |
+       Банк несет полную, стопроцентную [ответственность]Theme за сохранность доверенных ему на хранение ценностей.
+morphology:
+  - Noun
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod стопроцентный] Noun]'
+dependency_structure_of_illustration:
+  - '[root [amod Стопроцентный] успех]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1493, 1494, 1495, 1496, 1497, 1498, 1499'
+common_fillers:
+  - успех
+  - гарантия
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

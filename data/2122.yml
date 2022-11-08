@@ -1,0 +1,87 @@
+---
+record: 2122
+name: 'Cl, a VP-Ipfv.Inf NP-Dat!'
+UD_name: 'Cl, a VP-Imp.Inf NP-Dat!'
+illustration: 'Вы гостей позвали, а принимать их мне.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent (обычно сам говорящий) недоволен [ситуацией]Situation или действиями другого человека и не хочет выполнять некоторое [действие]Action, которое от него ожидают. Однако он вынужден выполнять это действие, осознавая свою ответственность, обязательства или внешние обстоятельства. Конструкция противопоставляет две ситуации, описывает действия двух разных участников.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent (vanligvis taleren selv) er misfornøyd med [en situasjon]Situation eller en annen persons handlinger og ikke vil utføre en gitt [handling]Action som forventes av vedkommende. Imidlertid er taleren nødt til å utføre denne handlingen i kraft av bevisstheten om sitt ansvar, sine forpliktelser eller ytre omstendigheter. Konstruksjonen stiller to situasjoner opp som motsetninger og beskriver to forskjellige deltakeres handlinger.
+examples:
+  - |
+       [Заварили вы кашку]Situation, а [расхлебывать]Action [мне]Agent.
+  - |
+       Они говорят: «У нас демократия, разбирайтесь сами». Но план-то все равно будут спрашивать с меня! [Демократия демократией]Situation, а [отвечать]Action [мне]Agent!
+  - |
+       Бывает, что потерявшим мобильники на курорте в Турции или Египте вообще приходят счета на тысячи долларов. [Нашел нехороший человек ваш телефон, наговорил по нему невесть сколько]Situation, а [расплачиваться]Action [вам]Agent.
+  - |
+       Не слушай советов, типа, "сделай с ним так!". [Советчик насоветует, потом скажет, ай, не получилось, надо было по-другому и дальше пойдёт]Situation ― а [разгребать]Action [тебе]Agent.
+  - |
+       ― Тебя такой обнадеживающий аспект не пугает? ― [Пугайся не пугайся]Situation, а [воевать]Action [нам]Agent.
+morphology:
+  - Cl
+  - VP
+  - Inf
+  - NP
+  - Dat
+  - Ipfv
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Action
+  - Agent
+  - Situation
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[conj [cc а] VP-Inf [iobj NP-Dat]]!]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вы] [obj гостей] позвали, [conj [cc а] принимать [obj их] [iobj мне]].]'
+comment: |
+    'См. синонимичную конструкцию 15 Cl, а NP-Nom (опять) VP-Ipfv.Imp! (Он ушёл домой, а я опять переделывай всё после него.).'
+common_fillers:
+  - расхлебывать
+  - расплачиваться
+  - отвечать
+  - разгребать
+  - выкручиваться
+  - мне
+  - тебе
+  - нам
+  - вам
+  - ему
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation in contrast
+family:
+  - |
+    "Discontent"

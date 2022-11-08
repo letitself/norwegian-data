@@ -1,0 +1,64 @@
+---
+record: 645
+name: 'VP (весь/один-Sg.Ins) NP-Ins'
+UD_name: 'VP (весь/один-Sing.Ins) NP-Ins'
+illustration: 'Мы готовили обед всей семьей.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [группа участников]Set выполняет совместное [действие]Action. Конструкция подчеркивает сплоченность этой группы.
+  - norwegian: |
+       Konstruksjonen betyr at [en gruppe deltakere]Set utfører en [handling]Action sammen. Konstruksjonen understreker gruppens samhold.
+examples:
+  - |
+       В конце августа снова [собираемся]Action [семьёй]Set туда, в пансионат "Русь".
+  - |
+       Самое главное – это [работать]Action одной [командой.]Set
+  - |
+       Они [собирали урожай ]Action всем [селом.]Set
+  - |
+       Помню, мы [группой]Set [выходим из училища]Action, Вавилин движется навстречу.
+  - |
+       Один раз мы всем [классом]Set [пошли в цирк]Action.
+morphology:
+  - VP
+  - NP
+  - Sg
+  - Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Action
+  - Set
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] готовили [obj обед] [obl [det всей] семьей].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - отделом
+  - семьей
+  - семейством
+  - взводом
+  - группой
+  - школой
+  - классом
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comitative
+  - type: Manner
+family:
+  - |
+    "Collective action"

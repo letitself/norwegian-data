@@ -1,0 +1,66 @@
+---
+record: 1731
+name: 'VP NP-Ins в NP-Acc'
+UD_name: 'VP NP-Ins в NP-Acc'
+illustration: 'Упасть головой в подушку'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция указывает на местоположение человека (или, реже, животного) в пространстве. Конструкция обозначает [конечную точку]Goal [движения]Action участника, с которой он соприкасается [частью своего тела]Theme.
+  - norwegian: |
+       Konstruksjonen angir et menneskes (eller, sjeldnere, et dyrs) plassering i rommet. Konstruksjonen betegner [sluttpunktet]Goal for deltakerens [bevegelse]Action, som deltakeren er borti [med en kroppsdel]Theme.
+examples:
+  - |
+       Я развернулся и [уткнулся]Action [лбом]Theme в [кафель]Goal.
+  - |
+       Я [упёрся]Action [кулаками]Theme в [снег]Goal.
+  - |
+       Мужчина добрался до последней ступеньки и [упёрся]Action [лбом]Theme в [потолок]Goal.
+  - |
+       Так в Лондоне случилось: там был рок-фестиваль, за городом, куда приехали на безумно богатых машинах какие-то люди в дико дорогих круто-рваных одеждах. Они там прыгали, [падали]Action [мордой]Theme в [грязь]Goal, орали слова, которых в словарях нет. Потом сели в машины, уехали.
+  - |
+       Собака [ткнулась]Action [носом]Theme в [стекло]Goal, поднялась на задние лапы, а передними стукнула в гранёную стенку.
+morphology:
+  - VP
+  - NP
+  - Ins
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Theme
+  - Goal
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl NP-Ins] [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root Упасть [obl головой] [obl [case в] подушку]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ткнуть
+  - ткнуться
+  - падать
+  - носом
+references:
+  - |
+    См. также Рахилина Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, 2-e издание. С. 265-266.
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

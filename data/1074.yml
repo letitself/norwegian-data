@@ -1,0 +1,62 @@
+---
+record: 1074
+name: 'VP из NP-Gen NP-Gen'
+UD_name: 'VP из NP-Gen NP-Gen'
+illustration: 'Я поехал в Африку из жажды приключений.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что причиной некоторого [действия]Action является [чувство или эмоция]Cause, которые испытывает участник. Существительное  во втором слоте NP-Gen конкретизирует это [чувство или эмоцию]Theme (например, «из чувства сострадания») либо называет [ситуацию]Goal, в которой участник испытывает психологическую потребность (например, «из жажды мести», «из желания популярности») или, наоборот, [которой он боится и хочет избежать]Stimulus (например, «из страха одиночества»).
+  - norwegian: |
+       Konstruksjonen betyr at årsaken til en gitt [handling]Action er [en følelse eller emosjon]Cause som deltakeren har. Substantivet i den andre sloten NP-Gen konkretiserer denne [følelsen eller emosjonen]Theme (for eksempel "из чувства сострадания") eller navngir [en situasjon]Goal som deltakeren føler et psykologisk behov for (for eksempel "из жажды мести", "из желания популярности") eller, tvert imot, [som deltakeren frykter og vil unngå]Stimulus (for eksempel "из страха одиночества").
+examples:
+  - |
+       Я вообще [старался не думать]Action ― из [чувства]Cause [самосохранения]Theme, поскольку прекрасно понимал, что лишние раздумья только отберут силы.
+  - |
+       Выходец из России попросил установить подлинность попавшего к нему полотна Венецианова. Видимо, из [чувства]Cause [благодарности]Theme за проведенную экспертизу он в итоге [завещал «Сенокос» Третьяковке ]Action.
+  - |
+       А художник [ищет новую землю.]Action Не из [желания]Cause [новизны]Goal, а просто потому, что невозможно жить по инерции.
+  - |
+       Eще недавно все урны в городе [были убраны]Action из [страха]Cause [терактов]Stimulus.
+  - |
+       Венецианских окон никогда [не отворяли]Action из [боязни]Cause [сквозняка.]Stimulus
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Theme
+  - Action
+  - Stimulus
+  - Cause
+  - Goal
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [case из] NP-Gen [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [case из] жажды [nmod мести]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - чувства долга
+  - жажды мести
+  - страха смерти
+  - потребности самосохранения
+references:
+  - |
+    См. о выражении внутренней причины (причиной является свойство, присущее самому субъекту действия) в монографии Всеволодова, М. В., Ященко Т. А. 2008. Причинно-следственные отношения в современном русском языке. Изд. 2. М. Издательство ЛКИ. С. 6.
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

@@ -1,0 +1,57 @@
+---
+record: 360
+name: 'чёрт с PronPers-Ins!'
+UD_name: 'чёрт с PronPers-Ins!'
+illustration: 'Чёрт с ним! Поеду в город один!'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - PronPers
+  - Ins
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root чёрт [nmod [case с] PronPers-Ins]!]'
+dependency_structure_of_illustration:
+  - '[root Чёрт [nmod [case с] ним]!] [root Поеду [obl [case в] город] [det один]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Swearing
+  - type: Concession
+    subtypes:
+      - type: Other
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+  - type: Routine
+    subtypes:
+      - type: Swearing
+family:
+  - |
+    "Swearing; Forced agreement"

@@ -1,0 +1,66 @@
+---
+record: 61
+name: 'NP-Nom возьми и VP-Pfv.Imp.Sg'
+UD_name: 'NP-Nom возьми и VP-Perf.Imper.Sing'
+illustration: 'А он возьми и купи новую машину!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent неожиданно для говорящего совершил [действие]Action, которое резко изменило ход событий. Действие происходит быстро и за один этап, часто спонтанно или неожиданно. Оба глагола стоят в одной грамматической форме и не согласуются с подлежащим по лицу и числу.
+  - english: |
+       This construction indicates that, from the perspective of the speaker, a [participant]Agent has carried out an [action]Action, that has dramatically changed the course of events. The action takes place quickly and all at once, often spontaneously and unexpectedly. The two verbs share the same grammatical form and do not agree with the subject in person and number.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent, uventet for taleren, har utført en gitt [handling]Action som brått endret begivenhetenes gang. Handlingen foregår raskt og i én operasjon, ofte spontant eller uventet. De to verbene står i samme bøyningsform og kongruerer ikke i person og tall med subjektet.
+examples:
+  - |
+       Петров в шутку предложил ей пойти на свидание. А [она]Agent ― возьми и [согласись.]Action
+  - |
+       Вдруг вчера [этот Витя]Agent возьми и [скажи]Action: «Иди ко мне в секретари работать, место есть».
+  - |
+       Отличница должна была написать про успех русских поэтов, а [она]Agent возьми и [напиши то, про что пишет всякий троечник]Action.
+  - |
+       ― Это, наверное, большой человек к вам приезжал, кто он? Тут [Слава]Agent возьми и [пошути]Action: ― Ты прав, отец. Человек действительно большой.
+  - |
+       А [она]Agent возьми и [приди]Action ― пожалуй, не в самый подходящий момент.
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Pfv
+  - Imp
+  - Sg
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+semantic_roles:
+  - Action
+  - Agent
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] возьми [conj [cc и] VP-Pfv.Imp.Sg]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj он] возьми [conj [cc и] купи [obj [amod новую] машину]]!]'
+comment: |
+    'См. 57 NP-Nom взять и VP-Pfv (Он взял и увез меня в деревню).'
+common_fillers:
+  - скажи
+  - согласись
+  - пошути
+  - приди
+  - спроси
+references:
+  - |
+    В литературе описывается в терминах псевдоимператива, то есть императива в неимперативном значении. См. Стойнова Н. М. Конструкция взять и сделать в русском языке // Дудчик Ф. И., Ивлиева Н. В., Подобряев А. В. (ред.). Структуры и интерпретации: работы молодых исследовательей по теопретической и прикладной лингвистике. Москва: МГУ. 2007. С. 158–189.
+semantic_types:
+  - type: Mirative
+family:
+  - |
+    ""

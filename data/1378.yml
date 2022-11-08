@@ -1,0 +1,57 @@
+---
+record: 1378
+name: 'VP NP-Acc с руками (и ногами)'
+UD_name: 'VP NP-Acc с руками (и ногами)'
+illustration: 'В секцию по плаванию меня брали с руками и ногами – я показывала неплохие результаты.'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obj NP-Acc] [obl [case с] руками [conj [cc и] ногами]]]'
+  - '[root VP [obj NP-Acc] [obl [case с] руками]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] секцию [nmod [case по] плаванию]] [obj меня] брали [obl [case с] руками [conj [cc и] ногами]] – [parataxis [nsubj я] показывала [obj [amod неплохие] результаты]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Usefulness
+      - type: Assessment specific to people
+        subtypes:
+          - type: Importance/Power
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Importance/Worth, Usefulness"

@@ -1,0 +1,66 @@
+---
+record: 1201
+name: 'Cl по сравнению с NP-Ins'
+UD_name: 'Cl по сравнению с NP-Ins'
+illustration: 'Он такой медленный по сравнению с остальными.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает противопоставление двух объектов или участников. Конструкция обозначает, что[определенные характеристики]Property [некоторого объекта или участника]Comparee выражены в большей или в меньшей степени, чем [другого]Standard. Иногда сравнение происходит не между разными объектами, а между двумя состояниями одного объекта в разные периоды времени (примеры 1, 5).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to objekter eller deltakere stilles opp som motsetninger. Konstruksjonen betyr at [visse trekk]Property ved [et gitt objekt eller en gitt deltaker]Comparee kommer til uttrykk i større eller mindre grad enn [et annet]Standard. Av og til er det ikke forskjellige objekter som sammenlignes, men to tilstander av samme objekt ved forskjellige tidspunkter (eksempel 1 og 5).
+examples:
+  - |
+       Наши [продажи в этом месяце]Comparee оказались [ниже]Property по сравнению с [прошлым]Standard.
+  - |
+       [Ваши данные]Comparee более [надёжные]Property по сравнению с [нашими]Standard.
+  - |
+       [Санкт-Петербург]Comparee город [тихий]Property по сравнению с [Москвой]Standard.
+  - |
+       [Новый год в России]Comparee [самый семейный праздник]Property по сравнению с [другими]Standard.
+  - |
+       В этом году в нашей компании не было [значительных]Property [изменений]Comparee по сравнению с [прошлым годом]Standard.
+morphology:
+  - Cl
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Comparee
+  - Property
+  - Standard
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] сравнению [nmod [case с] NP-Ins]]]'
+  - '[dep NP [nmod [case по] сравнению [nmod [case с] NP-Ins]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [det такой] медленный [obl [case по] сравнению [nmod [case с] остальными]].]'
+comment: |
+    'См. близкие конструкции 788, 803, 1237'
+common_fillers:
+  - другими
+  - остальными
+  - первоисточником
+  - оригиналом
+  - аналогами
+  - аналогичным периодом
+  - аналогичным продуктом
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+family:
+  - |
+    ""

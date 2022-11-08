@@ -1,0 +1,60 @@
+---
+record: 172
+name: 'NP-Nom Cop куда Adj-Сmp/VP куда Adv-Cmp'
+UD_name: 'NP-Nom Cop куда Adj-Сmp/VP куда Adv-Cmp'
+illustration: 'Куда веселее было бы поехать в деревню, а не в другую страну.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция усиливает разницу по некоторому [признаку]Parameter между двумя объектами, участниками, ситуациями или действиями в ходе их сравнения. Слово "куда" в данном случае значит 'намного, гораздо, значительно'.
+  - norwegian: |
+       Konstruksjonen forsterker det som skiller to objekter, deltakere, situasjoner eller handlinger når et gitt [kjennetegn]Parameter ved dem sammenlignes. Ordet "куда" betyr i dette tilfellet 'намного, гораздо, значительно'.
+examples:
+  - |
+       Он куда [охотнее]Property [играл с девочками…]Action
+  - |
+       Куда [логичнее]Property [предположить]Action, что власти Китая постараются повторить дипломатический успех семидесятых годов.
+  - |
+       [Кресло кажется Михайлову]Action куда [уютнее]Property, чем диван.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Adj
+  - Cmp
+  - Adv
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod куда] Adj-Сmp]'
+  - '[root VP [advmod куда] Adv-Сmp]'
+dependency_structure_of_illustration:
+  - '[root [advmod Куда] веселее [cop было] [aux бы] [csubj поехать [obl [case в] деревню, [conj [cc а] [advmod не] [case в] [amod другую] страну]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

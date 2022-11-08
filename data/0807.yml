@@ -1,0 +1,71 @@
+---
+record: 807
+name: 'VP в распоряжение NP-Gen'
+UD_name: 'VP в распоряжение NP-Gen'
+illustration: 'Информация попала в распоряжение злоумышленников.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Possessor [получает]Action [объект]Theme или [информацию]Theme, ранее ему не принадлежавшие, возможно, на время. Участник получает право распоряжаться полученным объектом по своему усмотрению: изменять, перемещать, уничтожать и т.д. Конструкция часто встречается в контекстах, которые описывают вооруженные силы и войну (пример 1).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Possessor [får]Action [et objekt]Theme eller [en informasjon]Theme som tidligere ikke har tilhørt deltakeren, kanskje midlertidig. Deltakeren får retten til å forvalte det mottatte objektet etter eget forgodtbefinnende: endre det, flytte det, tilintetgjøre det osv. Konstruksjonen forekommer ofte i kontekster som beskriver væpnede styrker og krig (eksempel 1).
+examples:
+  - |
+       [Бригада]Theme из двух человек [поступает]Action в распоряжение [конвоя]Possessor!
+  - |
+       В распоряжение [управления по безопасности на транспорте]Possessor [поступят]Action [5 млрд. долларов]Theme.
+  - |
+       Указом президента [земли]Theme [были переданы]Action в распоряжение [организации]Possessor.
+  - |
+       Наука [даёт]Action в распоряжение [людей]Possessor огромную [силу]Theme, но не даёт критериев добра и зла.
+  - |
+       [Мир]Theme [был отдан]Action в распоряжение одного [начальника]Possessor, чье могущество было неизмеримо.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Possessor
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root VP [obl [case в] распоряжение [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Информация] попала [obl [case в] распоряжение [nmod злоумышленников]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - поступить
+  - переслать
+  - оставить
+  - дать
+  - отдать
+  - передать
+  - отойти
+  - попасть
+  - средства
+  - недвижимость
+  - власть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Possession
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    "Possession Object gets Possessed"

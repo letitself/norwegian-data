@@ -1,0 +1,62 @@
+---
+record: 2168
+name: '(с NP-Ins) NP-Nom/VP-Inf (не) прокатить'
+UD_name: '(с NP-Ins) NP-Nom/VP-Inf (не) прокатить'
+illustration: 'Думаю, с администрацией так вести себя не прокатит.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Ins
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Preposition
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case с] NP-Ins] [csubj VP-Inf] [advmod не] прокатить]'
+  - '[root [obl [case с] NP-Ins] [csubj VP-Inf] прокатить]'
+  - '[root [obl [case с] NP-Ins] [nsubj NP-Nom] [advmod не] прокатить]'
+  - '[root [obl [case с] NP-Ins] [nsubj NP-Nom] прокатить]'
+  - '[root [csubj VP-Inf] [advmod не] прокатить]'
+  - '[root [csubj VP-Inf] прокатить]'
+  - '[root [nsubj NP-Nom] [advmod не] прокатить]'
+  - '[root [nsubj NP-Nom] прокатить]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Думаю], [csubj [obl [case с] администрацией] [advmod так] вести [obj себя]] [advmod не] прокатит.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Usefulness
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+family:
+  - |
+    "Usefulness"

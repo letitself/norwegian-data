@@ -1,0 +1,53 @@
+---
+record: 1930
+name: 'что NP-Dat Cop до NP-Gen?'
+UD_name: 'что NP-Dat Cop до NP-Gen?'
+illustration: 'Что тебе до её прошлого?'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root что [iobj NP-Dat] [cop Cop] [obl [case до] NP-Gen]?]'
+dependency_structure_of_illustration:
+  - '[root Что [iobj тебе] [obl [case до] [det её] прошлого]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Concern
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
+family:
+  - |
+    "Concern"

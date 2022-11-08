@@ -1,0 +1,74 @@
+---
+record: 1636
+name: 'NP-Nom уложиться в NP-Acc/NumCrd-Acc NP'
+UD_name: 'NP-Nom уложиться в NP-Acc/NumCrd-Acc NP'
+illustration: 'Он уложился в два дня.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое действие было завершено за ограниченное [количество]Quantity [времени]Measure. Время может также быть выражено словами "срок", "график", "нормы" и проч. Слот NP-Nom обозначает само [действие]Event или его [исполнителя.]Agent Подразумевается, что выполнить действие за такое время было нелегко, но участник справился с этим. Действие может также измеряться не единицами времени, а единицами объема (пример 4) или стоимости (пример 5). Если использовано числительное «один», «одна» или «одно», то и числительное, и [единица времени]Measure стоят в винительном падеже (например, в одну неделю). В остальных случаях числительное стоит в винительном падеже, а [единица времени]Measure в родительном падеже (например, в две недели).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt handling er blitt utført på en begrenset [mengde]Quantity [tid]Measure. Tiden kan også være uttrykt med ordene "срок", "график", "нормы" m.fl. Sloten NP-Nom betegner selve [handlingen]Event eller [den som utfører den.]Agent Det er underforstått at å utføre handlingen på den angitte tiden ikke var enkelt, men deltakeren klarte det. Foruten tidsenheter kan handlingen også måles i enheter for volum (eksempel 4) eller pris (eksempel 5). Hvis tallordet som benyttes, er "один", "одна" eller "одно", står tallordet og [tidsenheten]Measure i akkusativ (for eksempel в одну неделю). I de øvrige tilfellene står tallordet i akkusativ og [tidsenheten]Measure i genitiv (for eksempel в две недели).
+examples:
+  - |
+       [Он]Agent начал рассказывать и уложился в [четыре]Quantity [минуты]Measure.
+  - |
+       Вся [работа]Event уложилась в [три]Quantity [часа]Measure в кабинете Загладина.
+  - |
+       [Процедура обновления]Event уложится в заявленный [срок]Measure.
+  - |
+       Я говорю: ну, пишите; если [вы]Agent уложитесь в [пять]Quantity [страниц]Measure, это будет в самый раз для вас и ваших читателей.
+  - |
+       [Бюджет видеоролика]Event уложился в [100 тысяч]Quantity [долларов]Measure.
+morphology:
+  - NP
+  - Nom
+  - NumCrd
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] уложиться [obl [case в] [nummod NumCrd-Acc] NP]]'
+  - '[root [nsubj NP-Nom] уложиться [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] уложился [obl [case в] [nummod:gov два] дня].]'
+comment: |
+    'См. близкую конструкцию 1635.'
+common_fillers:
+  - день
+  - час
+  - неделя
+  - год
+  - страница
+  - срок
+  - сроки
+  - график
+  - нормы
+  - регламент
+  - отведенное время
+references:
+  - |
+    No references
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

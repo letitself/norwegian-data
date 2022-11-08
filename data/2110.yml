@@ -1,0 +1,62 @@
+---
+record: 2110
+name: 'не страшно/ничего, если Cl?'
+UD_name: 'не страшно/ничего, если Cl?'
+illustration: 'Не страшно, если я закурю?'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция означает, что говорящий спрашивает разрешения у собеседника на совершение некоторого [действия]Action. Говорящий заведомо считает, что это действие не вызовет резких возражений у собеседника.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ber om samtalepartnerens tillatelse til å utføre en gitt [handling]Action. Taleren mener å vite at handlingen ikke vil fremkalle sterke motforestillinger fra samtalepartnerens side.
+examples:
+  - |
+       Ничего, если я [задам пару вопросов]Action? Только заранее извиняюсь, если они покажутся вам неприятными.
+  - |
+       Устраивает такой вариант? – Вполне. Вот только: ничего, если я [с Дениской приеду]Action?
+  - |
+       Ничего, если я [вам в маленькой комнате постелю]?
+  - |
+       Не страшно, если я тебя [задержу ненадолго]Action?
+  - |
+       А не страшно если [чуть опоздаю]Action?
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Predicative
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - Action
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] страшно, [advcl [mark если] Cl]?]'
+  - '[root [advmod не] ничего, [advcl [mark если] Cl]?]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] страшно, [advcl [mark если] [nsubj я] закурю]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Root modality
+    subtypes:
+      - type: Permission
+        subtypes:
+          - type: Asking for permission
+family:
+  - |
+    "A family of constructions asking for permission to carry out an action."

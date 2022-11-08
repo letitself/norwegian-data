@@ -1,0 +1,41 @@
+---
+record: 553
+name: 'прямо XP'
+UD_name: 'прямо XP'
+illustration: 'Я прямо удивилась такой реакции.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [advmod прямо] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod прямо] удивилась [iobj [det такой] реакции].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

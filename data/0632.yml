@@ -1,0 +1,64 @@
+---
+record: 632
+name: 'VP лучше/не хуже PronPoss-Gen'
+UD_name: 'VP лучше/не хуже PronPoss-Gen'
+illustration: 'Я знаю лучше вашего.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Comparee [выполняет некоторое действие]Activity или [владеет некоторым навыком]State так же хорошо ("не хуже") или даже более интенсивно или в большей степени ("лучше"), чем [другой участник]Standard. Вторым участником является либо сам говорящий ("моего") или группа лиц, включающих говорящего ("нашего"), либо его адресат ("твоего") или адресаты ("вашего"). Слова "моего", "твоего", "нашего" и "вашего" в данном случае синонимичны личным местоимениям "меня", "тебя", "нас" и "вас".
+  - norwegian: |
+       Konstruksjonen betyr at [én deltaker]Comparee [utfører en gitt handling]Activity eller [behersker en gitt ferdighet]State like godt ("не хуже") eller endog mer intenst eller i større grad ("лучше") enn [en annen deltaker]Standard. Den andre deltakeren er enten taleren selv ("моего") eller en gruppe personer som inkluderer taleren ("нашего"), eller det er talerens adressat ("твоего") eller adressater ("вашего"). Ordene "моего", "твоего", "нашего" og "вашего" er i dette tilfellet synonyme med de personlige pronomenene "меня", "тебя", "нас" og "вас".
+examples:
+  - |
+       [Многие]Comparee [играют]Activity лучше [вашего]Standard, но так, как вы, ее не исполнял еще никто.
+  - |
+       Полагаю, [они]Comparee [знают местность]State не хуже [твоего]Standard.
+  - |
+       Ведь [я]Comparee могу рассердиться и показать, что [умею ругаться]State не хуже [вашего]Standard.
+  - |
+       [Ты]Comparee, как филолог, должен [помнить]State лучше [моего]Standard.
+  - |
+       [Все они]Comparee нашлись в большой комнате на первом этаже — и [веселились]Activity не хуже [нашего]Standard.
+morphology:
+  - VP
+  - PronPoss
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - Activity
+  - Comparee
+  - Standard
+  - State
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [advmod лучше [obl PronPers-Gen]]]'
+  - '[root VP [advmod [advmod не] хуже [obl PronPers-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] знаю [advmod лучше [obl вашего]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - знать
+  - понимать
+  - уметь
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+family:
+  - |
+    ""

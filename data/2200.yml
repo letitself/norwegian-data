@@ -1,0 +1,46 @@
+---
+record: 2200
+name: 'а как VP, тут и Cl'
+UD_name: 'а как VP, тут и Cl'
+illustration: 'А как пришёл, тут и началось.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - VP
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [cc а] [advcl [mark как] VP]'
+  - '[advmod тут] [advmod и] Cl]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [advcl [mark как] пришёл], [advmod тут] [advmod и] началось.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    ""

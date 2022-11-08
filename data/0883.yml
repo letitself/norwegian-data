@@ -1,0 +1,49 @@
+---
+record: 883
+name: 'вот и Pred, что Cl'
+UD_name: 'вот и Praedic, что Cl'
+illustration: 'Вот и хорошо, что он не узнал тебя.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - Pred
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod вот] [advmod и] Pred'
+  - '[csubj [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] [advmod и] хорошо, [csubj [mark что] [nsubj он] [advmod не] узнал [obj тебя]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of a proposition
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Assessment of a proposition"

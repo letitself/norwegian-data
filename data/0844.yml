@@ -1,0 +1,49 @@
+---
+record: 844
+name: 'PronPoss счастье, что Cl'
+UD_name: 'PronPoss счастье, что Cl'
+illustration: 'Его счастье, что рейс задержали, иначе бы не попал на самолет.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - PronPoss
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [det PronPoss] счастье'
+  - '[csubj [mark что] Cl]'
+dependency_structure_of_illustration:
+  - '[root [det Его] счастье, [csubj [mark что] [obj рейс] задержали], [conj [cc иначе] [aux бы] [advmod не] попал] [obl [case на] самолет].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of a proposition
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Assessment of a proposition"

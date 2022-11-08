@@ -1,0 +1,74 @@
+---
+record: 244
+name: 'NP-Nom Cop ничем не Adj-Cmp NP-Gen/VP ничем не Adv-Cmp NP-Gen'
+UD_name: 'NP-Nom Cop ничем не Adj-Cmp NP-Gen/VP ничем не Adv-Cmp NP-Gen'
+illustration: 'Он ничем не хуже тебя.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественность двух и более объектов, участников или действий по степени проявления [некоторого признака]Parameter. Отрицается разница между [одним]Comparee и [другим]Standard объектом, участником или действием.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to eller flere objekter, deltakere eller handlinger er identiske når det gjelder i hvilken grad [et gitt kjennetegn]Parameter gjør seg gjeldende. Det avvises at det er en forskjell mellom [det ene]Comparee og [det andre]Standard objektet, deltakeren eller handlingen.
+examples:
+  - |
+       И [Хоккей]Comparee ничем не [страшнее]Parameter и не [опаснее]Parameter [других видов спорта]Standard.
+  - |
+       Эта [таблетка]Comparee [выглядит]Action ничем не [хуже]Parameter [аспирина.]Standard
+  - |
+       Художник, говорят, был замечательный. А ведь бедно жил. [Личные вещи]Comparee у него были ничем не [дороже]Parameter [тех, какие остались от старых времен у тетки Геннадия.]Standard
+  - |
+       Жизнь после табуна [кипит]Action и бурлит ничем не [хуже]Parameter [какой-нибудь Москвы]Standard.
+  - |
+       Эсперанто прост для европейцев ― носителей романских и германских языков, отчасти славянских. А для китайцев, вьетнамцев, индонезийцев, даже для венгров и турок [он]Comparee ничем не [проще]Parameter того же [английского.]Standard
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Adj
+  - Cmp
+  - Gen
+  - VP
+  - Adv
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Parameter
+  - Comparee
+  - Standard
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl ничем] [advmod не] Adj-Cmp [obl NP-Gen]]'
+  - '[root VP [advmod [obl ничем] [advmod не] AdV-Cmp [obl NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [iobj ничем] [advmod не] хуже [obl тебя].]'
+comment: |
+    'См. похожие конструкции 246, 1450, 2343.'
+common_fillers:
+  - лучше
+  - хуже
+  - дороже
+  - меньше
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

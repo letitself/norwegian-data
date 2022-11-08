@@ -1,0 +1,71 @@
+---
+record: 857
+name: 'вечно VP'
+UD_name: 'вечно VP'
+illustration: 'Вечно Вася опаздывает.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action выполняется регулярно. Говорящий оценивает действие негативно.
+examples:
+  - |
+       Она вечно за всеми [следит!]Action
+  - |
+       Ты вечно [лезешь]Action в чужие дела.
+  - |
+       Она вечно [шарила по его карманам и записным книжкам]Action.
+  - |
+       Римские лошади, возвращаясь после походов, вечно [хромали]Action.
+  - |
+       В моем детстве был отчим, вечно [занятый делами]Action, и мать, которая вечно [была занята отчимом]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod вечно] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вечно] [nsubj Вася] опаздывает.]'
+comment: |
+    'См. близкие конструкции 620, 851, 1350.'
+common_fillers:
+  - путали
+  - опаздывал
+  - оставаться
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    "Disapproval, Ethics/Behavior"

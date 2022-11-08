@@ -1,0 +1,62 @@
+---
+record: 1595
+name: 'изредка VP'
+UD_name: 'изредка VP'
+illustration: 'Он изредка заходил к нам.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое событие]Event происходит многократно, но реже, чем ожидается, иногда. Слот VP может заполняться глаголами обоих видов.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt hendelse]Event inntreffer flere ganger, men sjeldnere enn forventet, bare av og til. Sloten VP kan fylles av verb i begge aspekter.
+examples:
+  - |
+       Изредка [проносились машины]Event.
+  - |
+       Сын жил в городе, работал. [Приезжал]Event изредка ― помыться, поесть супа…
+  - |
+       На реке тихо. Лишь изредка [квакнет]Event лягушка да [пролетит]Event между кустами утка.
+  - |
+       Одна подруга с детства, одна со школы, две из института. На работе подруг не нажила. Но мне хватает. Поболтать по телефону, изредка [встретиться.]Action
+  - |
+       В высоком небе продолжали кружить аисты да изредка, хлопая крыльями,  [пролетали утки.]Event
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - Action
+  - Event
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod изредка] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod изредка] заходил [obl [case к] нам].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - слышаться
+  - захаживать
+  - заглядывать
+  - бывать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Raritive
+  - type: Quantification
+    subtypes:
+      - type: Existential
+family:
+  - |
+    ""

@@ -1,0 +1,84 @@
+---
+record: 236
+name: 'никакой PronPers/это Cop не XP'
+UD_name: 'никакой PronPers/это Cop не XP'
+illustration: 'Никакой он не гений.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий отрицает [характеристику]Property другого [участника]Participant или [объекта]Theme и говорит, что он вовсе не такой, каким все его себе представляют. Отрицаться может как положительное, так и отрицательное качество.
+  - norwegian: |
+       Konstruksjonen betyr at taleren avviser [en karakteristikk]Property av en annen [deltaker]Participant eller [et objekt]Theme og sier at vedkommende slett ikke er slik alle tror. Så vel positive som negative karakteristika kan avvises.
+examples:
+  - |
+       Жорка, конечно, хороший малый, но никакой [он]Participant не [писатель]Property, а просто литературный щелкунчик, создатель заводских эпопей.
+  - |
+       ― Никакая [онa]Participant не [гениальная]Property, а просто глупая.
+  - |
+       Зря на нее наговаривают. Никакая [она]Participant не [грымза]Property.
+  - |
+       ― Да-да! И никакая [она]Participant не [больная]Property, твоя мамаша, а просто притворщица. И со справкой всех обманула. Не хочется ей в колхозе работать, торговлей занялась.
+  - |
+       Никакая [это]Theme не [ложь]Property.
+morphology:
+  - PronPers
+  - Cop
+  - XP
+  - NP
+  - Adj
+syntactic_type_of_construction:
+  - Copula Construction
+  - Discourse "Echo" Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Theme
+  - Property
+  - Participant
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [det никакой] [nsubj PronPers] [cop Cop] [advmod не] XP]'
+  - '[root [det никакой] [nsubj это] [cop Cop] [advmod не] XP]'
+dependency_structure_of_illustration:
+  - '[root [det Никакой] [nsubj он] [advmod не] гений.]'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
+common_fillers:
+  - он
+  - она
+  - оно
+  - они
+  - стерва
+  - грымза
+  - глупый
+  - толстая
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: None
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    "None"

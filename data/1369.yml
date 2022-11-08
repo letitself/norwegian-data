@@ -1,0 +1,61 @@
+---
+record: 1369
+name: '(один) (NP), ~NP и ~NP'
+UD_name: '(один) (NP), NP и NP'
+illustration: 'У меня до самого августа одна работа и работа.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent долго и интенсивно совершает [действие]Activity, которое названо существительным, образованным от глагола. Повторение существительного передает длительность и интенсивность действия. На этом действии сосредоточено все внимание субъекта действия, оно заполняет все его время и мысли.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent lenge og intensivt har holdt på med [en handling]Activity. Handlingen er benevnt med et substantiv som er dannet av et verb. Gjentakelsen av substantivet uttrykker at handlingen er langvarig og intensiv. Handlingen er gjenstand for handlingssubjektets fulle oppmerksomhet, den opptar vedkommendes tid og tanker helt og fullt.
+examples:
+  - |
+       Июль и август без конца [работа и работа]Activity. Дел всех не переделать.
+  - |
+       Но [Нина]Agent на них не реагирует. [Учеба, учеба и учеба]Activity. А потом [карьера, карьера и карьера]Activity.
+  - |
+       Это была наша последняя встреча перед каникулами, потом снова [занятия и занятия]Activity, [чтение и чтение]Activity.
+  - |
+       [Маша]Agent может музицировать, но не более двух часов, остальное ― [занятия и занятия]Activity.
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Adjective
+  - Conjunction
+semantic_roles:
+  - Agent
+  - Activity
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [det один] NP [conj [cc и] NP]]'
+  - '[root [det один] NP [conj [cc и] NP] [conj [cc и] NP]]'
+dependency_structure_of_illustration:
+  - '[root [case У] меня [obl [case до] [amod самого] августа] [nsubj [det одна] работа [conj [cc и] работа]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - работа
+  - учеба
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    "Continuativity by reduplication"

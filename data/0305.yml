@@ -1,0 +1,65 @@
+---
+record: 305
+name: 'NP-Nom сидеть/стоять/лежать VP'
+UD_name: 'NP-Nom сидеть/стоять/лежать VP'
+illustration: 'Сижу курю.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent выполняет действие, в котором можно выделить два компонента. Глагол, называющий первый компонент, обозначает [статичное положение участника в пространстве]State (сидеть, стоять, лежать), а второй глагол называет само [действие]Action. Глаголы в конструкции обязательно имеют одинаковую грамматическую форму. Глаголы не разделяются запятой и произносятся без паузы как единое целое. В некоторых случаях порядок компонентов может быть обратным.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utfører en handling som kan deles i to komponenter. Verbet som betegner den første komponenten, beskriver [deltakerens statiske stilling i rommet]State (sitte, stå, ligge), mens det andre verbet betegner selve [handlingen]Action. Verbene i konstruksjonen må ha samme bøyningsform. Verbene skilles ikke med komma og uttales uten pause, som en enhet. I noen tilfeller kan komponentene stå i motsatt rekkefølge.
+examples:
+  - |
+       [Мы]Agent [сидим]State [ужинаем]Action, а дети играют в комнате.
+  - |
+       Интересно, [сколько человек]Agent [сидели]State [сочиняли]Action это?
+  - |
+       [Собака]Agent [сидит]State [сторожит]Action, а Христо роет.
+  - |
+       Искупался, [лежу]State [загораю]Action, смотрю на закат.
+  - |
+       Сегодня позвонили жене, взяла трубку, [стоит]State [слушает.]Action
+morphology:
+  - NP
+  - Nom
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Serial Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Action
+  - State
+  - Agent
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [root [nsubj NP-Nom] сидеть [xcomp VP]]'
+dependency_structure_of_illustration:
+  - '[root Сижу [xcomp курю].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ждать
+  - смотреть
+  - читать
+  - думать
+  - пить
+  - писать
+  - играть
+references:
+  - |
+    См. Стойнова Н., Шлуинский А. Сериальные глагольные конструкции в русском языке. Доклад на конференции "Русский язык: конструкционные и лексико-семантические подходы". 13-14 сентября 2013 г. Санкт-Петербург, ИЛИ РАН.
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    "Serialization"

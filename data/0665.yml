@@ -1,0 +1,48 @@
+---
+record: 665
+name: 'Verb-Prs.2.Sg не ~Verb-Prs.2.Sg, а Cl'
+UD_name: 'V-Pres.2.Sing не V-Pres.2.Sing, а Cl'
+illustration: 'Хочешь не хочешь, а встанем рано утром.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Verb
+  - Prs
+  - 2
+  - Sg
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Verb-Prs.2.Sg [conj [advmod не] Verb-Prs.2.Sg]'
+  - '[conj [cc а] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Хочешь [conj [advmod не] хочешь], [conj [cc а] встанем [obl [advmod рано] утром]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Imitative agreement
+family:
+  - |
+    ""

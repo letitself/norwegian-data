@@ -1,0 +1,45 @@
+---
+record: 1391
+name: 'NP-Nom оказаться в NP-Loc'
+UD_name: 'NP-Nom оказаться в NP-Loc'
+illustration: 'Он оказался в трудной ситуации.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Loc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] оказаться [obl [case в] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] оказаться [obl [case в] [amod трудной] ситуации].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

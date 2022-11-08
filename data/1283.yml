@@ -1,0 +1,57 @@
+---
+record: 1283
+name: 'Cl, потому что Cl'
+UD_name: 'Cl, потому что Cl'
+illustration: 'Все думают, что я интеллектуал, потому что я ношу очки.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action, [ситуации]Situation или [мнения участника]Evaluation.
+  - norwegian: |
+       Konstruksjonen betyr at én [handling eller situasjon]Cause er årsak til en annen [handling]Action, [situasjon]Situation eller [mening deltakeren har]Evaluation.
+examples:
+  - |
+       [Я говорю так]Action, потому что [поддерживаю его]Cause.
+  - |
+       Но [семья слонов и в самом деле была счастлива]Situation, потому что [все они очень любили друг друга]Cause.
+  - |
+       [Люди пошли за большевиками]Action, потому что [верили в идеи революции]Cause.
+  - |
+       [На время ремонта лифт отключили]Action, потому что [этого требуют правила]Cause.
+  - |
+       [Мне очень нравится этот рецепт]Evaluation, потому что [многое можно добавить по вкусу]Cause.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Action
+  - Cause
+  - Evaluation
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [mark потому [fixed что]] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Все] думают, [ccomp [mark что] [nsubj я] интеллектуал], [advcl [mark потому [fixed что]] [nsubj я] ношу [obj очки]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

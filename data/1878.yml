@@ -1,0 +1,59 @@
+---
+record: 1878
+name: 'сверх того/этого, Cl'
+UD_name: 'сверх того/этого, Cl'
+illustration: 'Чертков – аристократ и красавец. Сверх этого, ещё и богач.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere.
+examples:
+  - |
+       Разумеется, предусмотрена возможность подключения к телевизору. Сверх того, [этот плейер может выступать и в роли видеомагнитофона.]ContentOfSpeech
+  - |
+       Стоял нормальный, душный, потный, пыльный майский день в Стамбуле. Сверх того, [воскресенье.]ContentOfSpeech
+  - |
+       Аккуратным почерком, очевидно из книг или журналов, Жедринская вписывала в свой альбом широко известные тексты Пушкина, Баратынского, Некрасова, Майкова, Фета, Тютчева. Сверх того, [в альбоме имеются стихотворения малоизвестных поэтов ― Свербеева, Терешкевича, Стаховича и Жедринского.]ContentOfSpeech
+  - |
+       В каждую эпоху имелось определение человека, представлявшееся для своего времени наиболее глубоким. Для греков человек ― это мыслящее существо, для христиан ― существо с бессмертной душой, для современных ученых ― животное, производящее орудия труда. Сверх того, [для психолога человек является животным, употребляющим язык, для теории эволюции ― млекопитающим с громадным мозгом и т. д.]ContentOfSpeech
+  - |
+       Такая позиция, конечно, ограничивала приток новых задач и идей. Но, сверх этого, [платонизм имел и более конкретное отрицательное влияние на математику, помешав грекам создать алгебраический язык.]ContentOfSpeech
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case сверх] того], Cl]'
+  - '[root [obl [case сверх] этого], Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Чертков] – аристократ [conj [cc и] красавец].] [root [obl [case Сверх] этого], [advmod ещё] [advmod и] богач.]'
+comment: |
+    'Вариант конструкции со словами "сверх того" используется гораздо чаще, чем вариант со словами "сверх этого". Последний вариант уже почти не используется. Не путать с конструкциями 1898 и 2258.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive
+family:
+  - |
+    ""

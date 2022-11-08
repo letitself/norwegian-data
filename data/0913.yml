@@ -1,0 +1,63 @@
+---
+record: 913
+name: '(вся) беда/проблема Cop в том, что Cl'
+UD_name: '(вся) беда/проблема Cop в том, что Cl'
+illustration: 'Вся беда в том, что я люблю Петю, а Петя любит Машу.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выделяет некоторую информацию как особо важную для говорящего. Говорящий описывает некоторую [ситуацию]Situation и оценивает ее отрицательно, поскольку она создает сложности, трудности, проблемы в свете того, что обуждалось ранее.
+  - norwegian: |
+       Konstruksjonen fremhever en gitt informasjon som spesielt viktig for taleren. Taleren beskriver en gitt [situasjon]Situation og vurderer den negativt, ettersom den skaper komplikasjoner, vanskeligheter eller problemer i lys av noe som er drøftet tidligere.
+examples:
+  - |
+       Помню, как я ехал на поезде Пекин ― Шанхай. Пассажиры, вышедшие прогуляться по перрону, спрашивали, сколько минут продлится стоянка. Но беда в том, что [слово «сы» на юге Китая означает «десять», а на севере «четыре».]Situation Поэтому проводнику пришлось пояснять свою речь, чертя на ладони иероглифы.
+  - |
+       Не всем нравится жить в болоте. Беда в том, что [кроме болот других пригодных для жизни мест уже не осталось.]Situation
+  - |
+       В романе Стругацких есть такие строчки: «волчица говорит своим волчатам: «Кусайте как я», и этого достаточно, но человек-то учит детёныша: «Думай как я», а это уже преступление…» Проблема в том, что [самостоятельное мышление часто воспринимается близкими как предательство.]Situation
+  - |
+       Кризис мог быть и больше, но все же главная проблема в том, что [кредиты доступны лишь ограниченному кругу компаний]Situation.
+  - |
+       Друзей у него мало, учится хорошо. Вся проблема в том, что [повлиять на него очень трудно]Situation, нужно быть авторитетом.
+morphology:
+  - Cop
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj [det вся] беда] [cop Cop] [case в] том, [acl [mark что] Cl]]'
+  - '[root [nsubj [det вся] проблема] [cop Cop] [case в] том, [acl [mark что] Cl]]'
+  - '[root [nsubj беда] [cop Cop] [case в] том, [acl [mark что] Cl]]'
+  - '[root [nsubj проблема] [cop Cop] [case в] том, [acl [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Вся] беда] [case в] том, [acl [mark что] [nsubj я] люблю [obj Петю], [conj [cc а] [nsubj Петя] любит] [obj Машу]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также статью Добровольский Д. О., Пеппель, Л. 2016. Дискурсивная конструкция N в том, что и ее параллели в других языках: констрастивное исследование. // Вестник Новосибирского государственного университета 6 (34). С. 164-175.
+semantic_types:
+  - type: Cause
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+family:
+  - |
+    "X в том что Y"

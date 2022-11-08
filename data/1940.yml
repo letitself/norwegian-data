@@ -1,0 +1,66 @@
+---
+record: 1940
+name: 'VP под псевдонимом (NP-Nom)'
+UD_name: 'VP под псевдонимом (NP-Nom)'
+illustration: 'Он писал рассказы под псевдонимом Иван Бездомный.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что человек совершает некоторое [действие]Action, используя не свое настоящее имя, а [вымышленное]Name. Чаще всего деятельность человека связана с искусством, прежде всего с литературным творчеством.
+  - norwegian: |
+       Konstruksjonen betyr at et menneske under utførelsen av [en handling]Action bruker [et oppdiktet navn]Property i stedet for sitt rette. Som oftest er personen engasjert i kunstnerisk arbeid, først og fremst forfattervirksomhet.
+examples:
+  - |
+       Никакая же не новость, что она [печатается]Action под псевдонимом. Анжела Анцуп гораздо звучнее, чем Евгения Ильинична Анциферова.
+  - |
+       Автор второй книги [скрылся]Action под псевдонимом [Митин]Theme.
+  - |
+       Однажды Ильфа и Петрова спросили, приходилось ли им [писать]Action под псевдонимом.
+  - |
+       Потом появились Марчес и одна из дам, [работавшая]Action под псевдонимом [Клео Доротти]Name.
+  - |
+       Английский разведчик, [скрывающийся]Action под псевдонимом [Кристофер Крейтон]Name, продал известному британскому издательству  рукопись книги.
+morphology:
+  - VP
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Theme
+  - Name
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] псевдонимом [appos NP-Nom]]]'
+  - '[root VP [obl [case под] псевдонимом]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] писал [obj рассказы] [obl [case под] псевдонимом [appos Иван] [flat:name Бездомный]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - скрыться
+  - скрываться
+  - писать
+  - печататься
+  - работать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Naming
+family:
+  - |
+    "Указание на имя или название субъекта или объекта (включая фамилию, отчество, псевдоним, кличку, прозвище и т.д.)"

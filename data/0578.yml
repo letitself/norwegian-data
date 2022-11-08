@@ -1,0 +1,45 @@
+---
+record: 578
+name: 'NP-Nom PronPers-Nom или кто?'
+UD_name: 'NP-Nom PronPers-Nom или кто?'
+illustration: 'Помоги же! Человек ты или кто?'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - PronPers
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root NP-Nom [nsubj PronPers-Nom] [conj [cc или] кто]?]'
+dependency_structure_of_illustration:
+  - '[root Помоги [advmod же]!] [root Человек [nsubj ты] [conj [cc или] кто]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Matching the standard
+family:
+  - |
+    ""

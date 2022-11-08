@@ -1,0 +1,64 @@
+---
+record: 446
+name: 'NP за NP-Acc'
+UD_name: 'NP за NP-Acc'
+illustration: 'Журнал за ноябрь скоро выйдет из печати.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает [некоторый объект]Theme из однородного класса объектов, которые создаются или предоставляются с определённой частотой. Объект сохраняет актуальность на протяжении [некоторого периода времени]Measure, после которого актуальным становится другой объект из того же класса.
+  - norwegian: |
+       Konstruksjonen betegner [et objekt]Theme fra en ensartet kategori objekter som dannes eller stilles til rådighet med jevne mellomrom. Objektet bevarer sin aktualitet i [en gitt tidsperiode]Measure, hvorpå et annet objekt av samme klasse blir aktuelt.
+examples:
+  - |
+       [Стипендию]Theme за [сентябрь]Measure должны выдать в следующем месяце.
+  - |
+       – У вас не оплачен [интернет]Theme за [октябрь, ноябрь и декабрь]Measure.
+  - |
+       Качество обучения в вузах стало куда хуже, при этом приходится вносить [плату]Theme за [каждый семестр]Measure.
+  - |
+       Любопытным было вручение [премии "Библио-Глобус"]Theme за [2002 год]Measure.
+  - |
+       Если верить [представленному отчёту]Theme за [4-й квартал 2002 года]Measure, примерно треть мест на рынке "Северный" пустовала.
+morphology:
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case за] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Журнал] [obl [case за] ноябрь] [advmod скоро] выйдет [obl [case из] печати].]'
+comment: |
+    'Кроме того, частотными заполнителями являются названия месяцев. Не путать с конструкциями 582 и 1635.'
+common_fillers:
+  - плату
+  - отчёт
+  - журнал
+  - квартал
+  - семестр
+  - год
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Temporal characteristics
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

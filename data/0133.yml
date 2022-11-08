@@ -1,0 +1,80 @@
+---
+record: 133
+name: 'VP из NP-Gen (к NP-Dat)'
+UD_name: 'VP из NP-Gen (к NP-Dat)'
+illustration: 'Она работает бесплатно, из любви к искусству.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что причиной некоторого [действия]Action является [чувство или эмоция]Cause, которые участник испытывает по отношению к другому  [участнику, идее или ситуации]Stimulus. Эмоции обычно положительные (примеры 1, 2), но могут быть и отрицательными (примеры 3-5).
+  - english: |
+       This construction indicates that the cause of an [action]Action is a [feeling or emotion]Cause that the participant experiences in relation to another [participant, idea or situation]Stimulus. The emotions are usually positive (example 1, 2) but they can also be negative (examples 3-5).
+  - norwegian: |
+       Konstruksjonen betyr at årsaken til en gitt [handling]Action er [en følelse eller emosjon]Cause som deltakeren nærer overfor en annen [deltaker, en ide eller en situasjon]Stimulus. Emosjonene er vanligvis positive (eksempel 1, 2), men kan også være negative (eksempel 3, 4 og 5).
+examples:
+  - |
+       Не все были такие уж уникальные, встречались и средние музыканты, а то и просто профнепригодные. Кого-то [держали в оркестре]Action из [жалости]Cause к [семье]Stimulus, кого-то ― из [сочувствия]Cause к [годам]Stimulus.
+  - |
+       ― Нет, свои деньги мы получим и так. Мы это [делаем]Action из [сострадания]Cause к людям.
+  - |
+       Если он так сильно любил Ольгу, что смог из [ревности]Cause [пойти на убийство]Action, то как же, спрашивается, он решился?
+  - |
+       Вся в слезах, она излагала маме или бабушке, как ее [обидели]Action ни за что, ни про что, а просто из [зависти]Cause к [таланту]Stimulus…
+  - |
+       И в Москве я обнаружил хорошие спортивные способности в легкой атлетике. Но [заниматься в спортивных секциях не стал]Action из [отвращения]Cause к [соревнованиям]Stimulus всякого рода.
+morphology:
+  - VP
+  - NP
+  - Gen
+  - Dat
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Cause
+  - Stimulus
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [obl [case из] NP-Gen] [obl [case к] NP-Dat]]'
+  - '[root VP [obl [case из] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Иван] [obl [case из] милости] забрал [obl [case к] себе] [obj кота].]'
+comment: |
+    'Не путать с конструкцией 1070.'
+common_fillers:
+  - милости
+  - уважения
+  - любви
+  - жалости
+  - сочувствия
+  - сострадания
+  - ненависти
+  - зависти
+  - нелюбви
+  - отвращения
+  - неприязни
+  - ревности
+references:
+  - |
+    См. о выражении внутренней причины (причиной является свойство, присущее самому субъекту действия) в монографии Всеволодова, М. В., Ященко Т. А. Причинно-следственные отношения в современном русском языке. 2-е издание. 2008. М. Издательство ЛКИ. С. 6.
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Specific emotions
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Specific emotions"

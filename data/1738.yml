@@ -1,0 +1,65 @@
+---
+record: 1738
+name: 'XP навстречу NP-Dat'
+UD_name: 'XP навстречу NP-Dat'
+illustration: 'Мальчик побежал навстречу другу.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом значении конструкция обозначает, что некоторый участник или объект [двигается]Action по направлению к другому [участнику]Goal. В переносном значении конструкция обозначает, что участник [помогает]Action другому [участнику]Beneficiary или [действует с учетом его интересов]Action, даже если самому участнику это не очень выгодно.
+examples:
+  - |
+       Я вышел из машины и [пошёл]Action навстречу [Михаилу.]Goal
+  - |
+       Mы [устремились]Action навстречу [мотоциклу.]Goal
+  - |
+       Когда кто-нибудь входит в дом, все обязательно должны [встать]Action навстречу [гостю.]Goal
+  - |
+       Очень важно [идти]Action навстречу [предпринимателям]Beneficiary по вопросу предоставления помещений в аренду.
+  - |
+       Не нужно стоять и ждать, пока кто-то к тебе подойдёт и предложит дружбу. Нужно самой [идти]Action навстречу [людям.]Beneficiary
+morphology:
+  - XP
+  - NP
+  - Dat
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root XP [obl [case навстречу] NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мальчик] побежал [obl [case навстречу] другу].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - идти
+  - пойти
+  - поехали
+  - устремиться
+  - встать
+  - подняться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Beneficiary
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

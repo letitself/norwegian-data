@@ -1,0 +1,42 @@
+---
+record: 968
+name: 'Adj-пре~Adj Noun'
+UD_name: 'Adj-преAdj N'
+illustration: 'Длинный-предлинный хвост'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - Adj
+  - Noun
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod Adj-[conj преAdj]] Noun]'
+dependency_structure_of_illustration:
+  - '[root [amod Длинный-[conj предлинный]] хвост]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

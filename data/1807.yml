@@ -1,0 +1,59 @@
+---
+record: 1807
+name: 'Cl, не вопрос'
+UD_name: 'Cl, не вопрос'
+illustration: 'Я всё сделаю, не вопрос!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает положительное отношение участника к некоторому [действию]Action или потенциальной [ситуации]Situation. С точки зрения говорящего, это действие или ситуацию можно легко осуществить, так что не возникнет никаких проблем. У говорящего нет возражений против этого действия или ситуации.
+  - norwegian: |
+       Konstruksjonen betegner talerens positive holdning til en gitt [handling]Action eller en potensiell [situasjon]Situation. Fra talerens ståsted er handlingen eller situasjonen lett å iverksette, så det vil ikke oppstå noen problemer. Taleren har ingen innvendinger mot handlingen eller situasjonen.
+examples:
+  - |
+       [Журналы вышлем]Action, не вопрос.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Participant
+  - Situation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl'
+  - '[parataxis [advmod не] вопрос]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obj всё] сделаю, [parataxis [advmod не] вопрос]!]'
+comment: |
+    'См. близкую конструкцию 1806 Cl, без проблем/вопросов (Переезжай ко мне хоть завтра, без проблем!)'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+family:
+  - |
+    "Willingness"

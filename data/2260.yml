@@ -1,0 +1,66 @@
+---
+record: 2260
+name: 'VP как сумасшедший/ошалелый/очумелый/ненормальный'
+UD_name: 'VP как сумасшедший/ошалелый/очумелый/ненормальный'
+illustration: 'Он бегает по офису как сумасшедший.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник производит некоторую [деятельность]Activity с высокой степенью интенсивности. Как правило, речь идет о быстром движении (бегать, носиться, скакать и др.) или произведении громких звуков (смеяться, кричать и др.). Как если бы участник вел себя так, как свойственно сумасшедшему.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker driver svært intensivt med en gitt [aktivitet]Activity. Som regel er det tale om rask bevegelse (løpe, beinfly, galoppere o.l.) eller frembringelse av høye lyder (le, rope o.l.). Det er som om deltakeren ter seg på en måte som er typisk for sinnssyke.
+examples:
+  - |
+       Всю неделю я [работал]Activity как сумасшедший.
+  - |
+       Жена [хохотала]Activity взахлеб безостановочно, как ненормальная.
+  - |
+       Мама [кричала]Activity как сумасшедшая.
+  - |
+       Ты чего это [носилась]Activity по комнате, как очумелая?
+  - |
+       Шофер [гонит]Activity как ошалелый, не соблюдая никаких правил.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adjective
+semantic_roles:
+  - Activity
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case как] сумасшедший]]'
+  - '[root VP [obl [case как] ошалелый]]'
+  - '[root VP [obl [case как] очумелый]]'
+  - '[root VP [obl [case как] ненормальный]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] бегает [obl [case по] офису] [obl [case как] сумасшедший].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - бегать
+  - носиться
+  - орать
+  - смеяться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,67 @@
+---
+record: 1387
+name: 'NP/VP на дому'
+UD_name: 'NP/VP на дому'
+illustration: 'Врач принимал на дому.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Activity (как правило, некоторая медицинская или образовательная услуга) совершается [участником]Agent в месте проживания его самого или [другого участника]Beneficiary (получателя услуги). Конструкция подчеркивает неофициальность обстановки, а не конкретное расположение. К кому именно относится указанное место проживания, как правило, ясно из характера деятельности. Также конструкция может относиться к деятельности, организованной в домашних условиях.
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Activity (som regel en helse- eller undervisningsrelatert tjeneste) utføres av [en deltaker]Agent hjemme hos vedkommende eller hos [en annen deltaker]Beneficiary (mottakeren av tjenesten). Konstruksjonen understreker det uformelle i situasjonen og ikke den konkrete beliggenheten. Akkurat hvem sin bolig det er, fremgår som regel av typen aktivitet. Dessuten kan konstruksjonen gjelde aktiviteter som iverksettes i hjemmet.
+examples:
+  - |
+       Мама работала педиатром и весь день по вызовам [оказывала помощь]Activity на дому.
+  - |
+       Они [обучаются]Activity либо на дому, либо в специальных коррекционных школах.
+  - |
+       Когда наступили смутные времена, она [занялась лечением алкоголиков]Activity на дому.
+  - |
+       Судя по тому, что Лена начала [давать частные уроки музыки]Activity на дому, денег стало не хватать.
+  - |
+       Ищем акушерку для [родов]Activity на дому.
+morphology:
+  - NP
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Beneficiary
+  - Agent
+  - Activity
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case на] дому]]'
+  - '[dep NP [nmod [case на] дому]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Врач] принимал [obl [case на] дому].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - лечение
+  - работать
+  - подрабатывать
+  - принимать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Functionality
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    "Указание на местоположение объекта (нет указания на направление)"

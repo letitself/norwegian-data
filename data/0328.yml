@@ -1,0 +1,59 @@
+---
+record: 328
+name: 'то ли XP/Cl, то ли XP/Cl'
+UD_name: 'то ли XP/Cl, то ли XP/Cl'
+illustration: 'Сегодня идет то ли дождь, то ли снег.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий не знает, какая из двух альтернативных [интерпретаций]ContentOfSpeech соответствует действительности. Слот ХР может заполняться именной, глагольной или предложной группой, прилагательным или наречием.
+examples:
+  - |
+       Сколько с вами общаюсь, не могу понять, то ли [вы хорошо притворяетесь]ContentOfSpeech, то ли [знатный ученый]ContentOfSpeech…
+  - |
+       Его зовут то ли [Леший]ContentOfSpeech, то ли [Леха]ContentOfSpeech ― я не разобрала.
+  - |
+       Усы, то ли [светлые]ContentOfSpeech, то ли [седеющие]ContentOfSpeech, были длинные, лицо усталое.
+  - |
+       Из первой школы отцу пришлось его забрать то ли [из-за неуспеваемости]ContentOfSpeech, то ли [из-за плохого поведения].
+  - |
+       ― А нам ничего не задали. ― Дай дневник! Смотрю ― в дневнике действительно ничего не написано. То ли [на самом деле не задали]ContentOfSpeech, то ли [он просто-напросто не записал]ContentOfSpeech.
+morphology:
+  - XP
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep [cc то [fixed ли]] XP'
+  - '[conj [cc то [fixed ли]] XP]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Сегодня] идет [nsubj [cc то [fixed ли]] дождь, [conj [cc то [fixed ли]] снег]].]'
+comment: |
+    'См. близкую конструкцию 208.'
+common_fillers:
+  - NA
+references:
+  - |
+    Israeli, A. 2007. Russian conjunctions: two types of uncertainty. In: Journal of Uncertain Systems 4. 267-276.
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Alternatives
+  - type: Options
+family:
+  - |
+    ""

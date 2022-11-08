@@ -1,0 +1,48 @@
+---
+record: 1265
+name: 'VP в отсутствие NP-Gen'
+UD_name: 'VP в отсутствие NP-Gen'
+illustration: 'В отсутствие текилы они довольствовались водкой.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] отсутствие [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] отсутствие [nmod текилы]] [nsubj они] довольствовались [iobj водкой].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    ""

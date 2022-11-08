@@ -1,0 +1,65 @@
+---
+record: 2076
+name: '(PronPers-1.Nom) благодарю/благодарим NP-Acc (за NP-Acc/за то, что Cl)!'
+UD_name: '(PronPers-1.Nom) благодарю/благодарим NP-Acc (за NP-Acc/за то, что Cl)!'
+illustration: 'Благодарю тебя за подарок!'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция является стандартным способом выражения вежливости со стороны говорящего. Конструкция обозначает, что говорящий выражает благодарность другому [участнику]Addressee за некоторое [действие]Cause, которое было полезно говорящему. В разговорной речи конструкция также употребляется в варианте "Благодарю NP-Acc, что Cl" (пример 5).
+examples:
+  - |
+       Прежде всего, я счастлив и благодарю [Господа]Addressee за то, что [он дал мне понять это и пойти в верном направлении.]Cause
+  - |
+       Благодарим [сотрудников и экспертов Российского гуманитарного научного фонда!]Addressee
+  - |
+       Благодарю [Ивана]ddressee за [откровенность]Cause его ответов.
+  - |
+       От всего сердца благодарю [дорогого и самого близкого мне человека ― маму Клавдию]Addressee ― за то, что [она посвятила мне всю свою жизнь.]Cause
+  - |
+       Роман, благодарю Вас, что [не поленились тут зарегистрироваться и послужить наглядной иллюстрацией]Cause того, что мужчины, описанные в моей колонке, реально существуют.
+morphology:
+  - NP
+  - Nom
+  - Acc
+  - Cl
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root благодарить [obj NP-Acc] [obl [case за] NP-Acc]]'
+  - '[root благодарить [obj NP-Acc] [obl [case за] то, [acl [mark что] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root Благодарю [obj тебя] [obl [case за] подарок]!]'
+comment: |
+    'См. близкую по значению конструкцию 2075.'
+common_fillers:
+  - вас
+  - авторов
+  - Бога
+  - судьбу
+  - внимание
+  - ответ
+references:
+  - |
+    No references
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Thanks
+family:
+  - |
+    ""

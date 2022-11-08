@@ -1,0 +1,42 @@
+---
+record: 369
+name: 'Что Cop с NP-Ins?'
+UD_name: 'Что Cop с NP-Ins?'
+illustration: 'Что с ним? Почему он плачет?'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - Cop
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj что] [cop Cop] [case с] NP-Ins?]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Что] [case с] ним?] [root [advmod Почему] [nsubj он] плачет?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

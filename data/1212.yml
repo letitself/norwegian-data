@@ -1,0 +1,57 @@
+---
+record: 1212
+name: 'Cl, тогда как Cl'
+UD_name: 'Cl, тогда как Cl'
+illustration: 'Он никого не любит, тогда как все его боготворят.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает контраст двух равнозначных ситуаций. Как правило, одна [ситуация]Comparee находится в противоречии с [другой]Associated или полностью противоположна ей. Часто первая ситуация (до союза «тогда как») является более предпочтительной для говорящего, чем вторая (примеры 2, 5).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever kontrasten mellom to likeverdige situasjoner. Som regel står den ene [situasjonen]Comparee i motstrid med [den andre]Associated eller er stikk motsatt av den. Ofte vil taleren foretrekke den første situasjonen (før bindeordet "тогда как") fremfor den andre (eksempel 2 og 5).
+examples:
+  - |
+       За последний год [наши цены в ресторанах практически не повысились]Comparee, тогда как [стоимость аренды выросла в некоторых местах почти вдвое]Associated.
+  - |
+       [Большие фильмы Чаплина являются по своей сути романами]Comparee, тогда как [среди его скетчей можно найти лишь новеллу]Associated.
+  - |
+       [Датчик температуры за бортом показывает +8,5 градусов Цельсия]Comparee. Тогда как [обычная температура на этой глубине около 0 градусов]Associated.
+  - |
+       [В Африке легко добывать пищу]Comparee, тогда как [на Севере надо постараться, чтобы это сделать]Associated.
+  - |
+       В отличие от моей матери, [у меня есть своё ремесло, которое я люблю]Comparee, тогда как [в её жизни это не сложилось]Associated.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Comparee
+  - Associated
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [mark тогда [fixed как]] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obj никого] [advmod не] любит, [advcl [mark тогда [fixed как]] [nsubj все] [obj его] боготворят].]'
+comment: |
+    'См. синонимичную конструкцию 828 Cl, в то время как Cl (Способность человека любить ограничена, в то время как потребность в любви – бесконечна.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+family:
+  - |
+    ""

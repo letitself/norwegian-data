@@ -1,0 +1,62 @@
+---
+record: 1175
+name: 'NP-Nom выдавать NP-Acc за NP-Acc'
+UD_name: 'NP-Nom выдавать NP-Acc за NP-Acc'
+illustration: 'Он выдавал себя за президента.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Agent намеренно приписывает себе, [другому участнику]Participant или [некоторому явлению]Theme [роль, которая не соответствует действительности]Status. Таким образом, участник или объект представляется в глазах других участников тем, кем или чем он не является на самом деле. В этой конструкции может использоваться глагол совершенного вида «выдать» и глагол несовершенного вида «выдавать».
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Agent bevisst tilskriver seg selv, [en annen deltaker]Participant eller [et gitt fenomen]Theme [en rolle som ikke stemmer med virkeligheten]Status. På denne måten fremstår deltakeren eller objektet i andre deltakeres øyne som noen eller noe den i virkeligheten ikke er. Verbene som kan brukes i denne konstruksjonen, er det perfektive verbet "выдать" og det imperfektive verbet "выдавать".
+examples:
+  - |
+       [Он]Agent выдавал себя за [учителя французского языка]Status.
+  - |
+       А [мне]Agent не хочется выдавать [трагедию]Theme за [веселую норму]Status.
+  - |
+       В фильме «Милый, дорогой, любимый, единственный» [героиня Оли Машной]Agent выдает [ребенка]Participant за [мальчика]Status, а выясняется ― девочка.
+  - |
+       [Он]Agent чувствовал вину за то, что выдал [комикс]Theme за [книгу]Status.
+  - |
+       Во время таких бесед [мы]Agent импровизировали, выдавая [выдумки]Theme за [реальность]Status.
+morphology:
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - Theme
+  - Agent
+  - Participant
+  - Status
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] выдавать [obj NP-Acc] [obl [case за] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] выдавал [obj себя] [obl [case за] президента].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+family:
+  - |
+    ""

@@ -1,0 +1,61 @@
+---
+record: 2156
+name: 'не VP-Pfv.Pst бы (NP-Nom)!'
+UD_name: 'не VP-Perf.Past бы (NP-Nom)!'
+illustration: 'Не опоздал бы он!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает опасение говорящего относительно того, что может произойти некоторая нежелательная для него или другого участника ситуация. Эта ситуация связана с [действием]Action, которое [участник]Participant или говорящий не может контролировать.
+examples:
+  - |
+       ― Не [заболела]Action бы [ты]Participant у меня в таком холоде, ― подумал я.
+  - |
+       Договорились вчера, что картинка пойдет на директорский компьютер. Не [испортили бы чего]Action [подчиненные]Participant.
+  - |
+       Где гарантия, что на этот раз у нас не отнимут то, что есть? Так что не до улучшения ― не [сделали бы хуже]Action.
+  - |
+       Одновременно он выбрасывает руки на стол и резко перегибается головою назад, через спинку стула… аж страшно: не [упал]Action бы.
+  - |
+       Не [пропал]Action бы [учебный год]Theme для него…
+morphology:
+  - VP
+  - Pfv
+  - Pst
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] VP-Pfv.Pst [aux бы] [nsubj NP-Nom]!]'
+  - '[root [advmod не] VP-Pfv.Pst [aux бы]!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] опоздал [aux бы] [nsubj он]!]'
+comment: |
+    'См. близкую конструкцию 2155.'
+common_fillers:
+  - упасть
+  - испортить
+references:
+  - |
+    См. Добрушина Н.Р. Грамматические формы и конструкции со значением опасения и предостережения. Вопросы языкознания, 2. 2006.
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+  - type: Volition
+family:
+  - |
+    ""

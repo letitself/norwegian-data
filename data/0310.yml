@@ -1,0 +1,40 @@
+---
+record: 310
+name: 'смотря PronInt VP'
+UD_name: 'смотря PronInt VP'
+illustration: '– Долго ли ехать до бассейна? – Смотря где ты живёшь.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - PronInt
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Converb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [dep [advcl смотря] PronInt] VP]'
+dependency_structure_of_illustration:
+  - '[root – [advmod Долго] [advmod ли] ехать [obl [case до] бассейна]?] [root – [advcl Смотря] [advmod где] [nsubj ты] живёшь.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+family:
+  - |
+    ""

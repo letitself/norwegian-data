@@ -1,0 +1,49 @@
+---
+record: 283
+name: 'пусть/пускай (даже) (и) Cl, Cl'
+UD_name: 'пусть/пускай (даже) (и) Cl, Cl'
+illustration: 'Пускай вода холодная, всё равно буду плавать.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advcl [advmod пусть] [advmod даже] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пусть] [advmod даже] Cl], Cl]'
+  - '[root [advcl [advmod пусть] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пусть] Cl], Cl]'
+  - '[root [advcl [advmod пускай] [advmod даже] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пускай] [advmod даже] Cl], Cl]'
+  - '[root [advcl [advmod пускай] [advmod и] Cl], Cl]'
+  - '[root [advcl [advmod пускай] Cl], Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [advmod Пускай] [nsubj вода] холодная], [advmod всё [fixed равно]] [aux буду] плавать.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    См. также Добрушина Н. Статус конструкций с частицами пусть и пускай в русском языке // Russian Linguistics. 2019. № 43. С. 1–17.
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Extreme limit
+family:
+  - |
+    ""

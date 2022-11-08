@@ -1,0 +1,66 @@
+---
+record: 1716
+name: 'NP-Dat некуда Cop деваться'
+UD_name: 'NP-Dat некуда Cop деваться'
+illustration: 'Я потерял ключи от дома, мне было некуда деваться, и я пошел ночевать в гостиницу.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом смысле, конструкция обозначает отсутствие места, куда [участнику]Experiencer можно было бы [отправиться]Action, оказавшись в сложной ситуации. В переносном употреблении, конструкция обозначает, что [участник]Experiencer оказался в ситуации, которая кажется ему безвыходной. Решение, которое принимает [участник ситуации]Experiencer, вынуженное. Часто это решение неприятное или сложное. Ударение в «некуда» стоит на не-.
+  - norwegian: |
+       Konstruksjonen har direkte og overført betydning. I direkte betydning betegner konstruksjonen [deltakerens]Experiencer mangel på et sted å [dra]Action til etter å ha havnet i vanskeligheter. I overført betydning betyr konstruksjonen at [deltakeren]Experiencer er havnet i en situasjon som fortoner seg som håpløs. Avgjørelsen [deltakeren i situasjonen]Experiencer tar, er en nødsforanstaltning. Ofte er avgjørelsen ubehagelig eller vanskelig. Trykket i "некуда" ligger på не-.
+examples:
+  - |
+       Я отвернулся и пошел на веранду ― больше [мне]Experiencer было некуда деваться.
+  - |
+       Это было осенью, на дороге была огромная лужа, автобус медленно въехал в эту длинную лужу, огромная волна, высотой едва ли не в человеческий рост, красиво окатила пешеходов, [которым]Experiencer некуда было деваться, и залила и Петрову тоже.
+  - |
+       Тут же в газете была помещена моя фотография и напечатано, что театр возобновляет постановку оперетты Штрауса, в роли Баринкая выступит Герард Васильев. [Мне]Experiencer некуда было деваться, и я приступил к репетициям.
+  - |
+       ― Знаете ли вы, что мисс Мордонт здесь лучший доктор? Но если она станет лечить такое множество больных, [ей]Experiencer скоро некуда будет деваться от них.
+  - |
+       Необрабатываемые края заготовки сдерживают расширение, [металлу]Experiencer деваться некуда, и он начинает вздуваться, приобретая объёмную форму.
+morphology:
+  - NP
+  - Dat
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Predicative
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - Experiencer
+  - Action
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] некуда [csubj деваться]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] потерял [obj ключи] [obl [case от] дома], [conj [iobj мне] [cop было] некуда [csubj деваться]], [conj [cc и] [nsubj я] пошел [xcomp ночевать] [obl [case в] гостиницу]].]'
+comment: |
+    'См. близкую конструкцию 24. Не путать с конструкцией 104.'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

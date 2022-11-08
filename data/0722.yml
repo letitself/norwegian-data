@@ -1,0 +1,67 @@
+---
+record: 722
+name: 'VP без умолку'
+UD_name: 'VP без умолку'
+illustration: 'Она болтала без умолку.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Action совершается [участником ситуации]Agent непрерывно и с высокой интенсивностью. Конструкция используется только с глаголами речи. Как если бы участник никогда не умолкал.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i situasjonen] utfører [en handling]Action kontinuerlig og intensivt. Konstruksjonen brukes kun med taleverb. Det er som om deltakeren aldri tier stille.
+examples:
+  - |
+       [Она]Participant [принялась болтать]Action без умолку.
+  - |
+       – [Он]Participant [говорил]Action без умолку и, видимо, вправду был озадачен и поражен.
+  - |
+       [Я]Participant без умолку [объяснял разные подробности своей работы]Action.
+  - |
+       [Они]Participant без умолку [болтали друг с другом по-итальянски]Action, и ничего не могло отвлечь их от этого занятия.
+  - |
+       [Он]Participant [твердит об этом]Action без умолку.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Agent
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] умолку]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] болтала [obl [case без] умолку].]'
+comment: |
+    'См. похожую конструкцию 504 VP без устали (Жена готовила без устали)'
+common_fillers:
+  - болтать
+  - говорить
+  - твердить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

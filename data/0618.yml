@@ -1,0 +1,65 @@
+---
+record: 618
+name: 'PronInt угодно'
+UD_name: 'PronInt угодно'
+illustration: 'Вася попросил купить что угодно.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает свободный выбор [объекта]Theme, [участника]Participant, [времени]Time или [места]Location из набора возможных, который предоставлен некоторому участнику ситуации. Часто конструкция несет идею неопределенности при выборе или передает безразличие говорящего к выбору другого участника.
+  - norwegian: |
+       Konstruksjonen betegner anledningen en deltaker i situasjonen er gitt, til fritt å velge [objekt]Theme, [deltaker]Participant, [tidspunkt]Time eller [sted]Location blant et knippe mulige. Ofte bærer konstruksjonen med seg en ide om at valget foretas uten overbevisning, eller den formidler at taleren er likegyldig til hva den andre deltakeren velger.
+examples:
+  - |
+       ― Ой, да говорите [что]Theme угодно! ― говорит он. ― Мне не хочется больше ни на что обижаться.
+  - |
+       [Кто]Participant угодно может стать официантом, это воспринимается как способ подработать.
+  - |
+       Обаяние у него было бешенное и договориться он мог с [кем]Participant угодно о [чем]Theme угодно без проблем.
+  - |
+       Я могу снимать фильмы [где]Location угодно: в Америке, во Франции, в Индии...
+  - |
+       ― Ну когда же вы всё-таки приедете?  Я очень хочу вас видеть! ― Да, господи, да [когда]Time угодно, ― ответил он. ― Ну хоть сейчас!
+morphology:
+  - PronInt
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root PronInt [advcl угодно]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вася] попросил [xcomp купить [obj что [advcl угодно]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - что
+  - кто
+  - чего
+  - кого
+  - с кем
+  - о чем
+  - какой
+  - когда
+  - где
+references:
+  - |
+    No references
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+        subtypes:
+          - type: Free Choice
+family:
+  - |
+    ""

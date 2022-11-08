@@ -1,0 +1,65 @@
+---
+record: 9
+name: '(всё) никак не VP-Ipfv'
+UD_name: '(всё) никак не VP-Imp'
+illustration: 'Задача всё никак не решалась.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что какое-либо [действие]Action продолжается долгое время и по-прежнему не заканчивается, несмотря на желание говорящего прекратить или остановить его.
+  - english: |
+       This construction means that some [action]Action has been continuing for a long time and still does not end, despite the speaker’s desire to discontinue or stop it.
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Action har pågått lenge og enda ikke tar slutt, til tross for talerens ønske om å avslutte eller stanse den.
+examples:
+  - |
+       Он никак не [мог закончить домашнее задание]Action.
+  - |
+       Дверь всё никак не [закрывалась]Action.
+  - |
+       А мысль крутится, крутится, никак не [останавливается]Action.
+  - |
+       Я изо всех сил вслушивался в её голос и всё никак не [мог вспомнить]Action, кому он принадлежит.
+  - |
+       Настя искала и все никак не [находила нужный документ]Action, пока из одной из папок не выпала красненькая книжка.
+morphology:
+  - VP
+  - Ipfv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod никак] [advmod не] VP-Ipfv]'
+  - '[root [advmod всё] [advmod никак] [advmod не] VP-Ipfv]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Задача] [advmod всё] [advmod никак] [advmod не] решалась.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - мог
+  - могла
+  - могли
+references:
+  - |
+    См. также статью Чуйкова О. Ю. Некоторые особенности выражения значений, соответствующих подготовительной стадии ситуации, в русском языке //Вестник СПбГУ. Серия 9. 2015. Вып. 3. С. 179–189.
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

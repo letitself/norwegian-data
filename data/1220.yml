@@ -1,0 +1,48 @@
+---
+record: 1220
+name: 'PronPers-Nom не мог бы VP-Pfv.Inf?'
+UD_name: 'PronPers-Nom не мог бы VP-Perf.Inf?'
+illustration: 'Ты не мог бы передать соль?'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - PronPers
+  - Nom
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj PronPers-Nom] [advmod не] мог [aux бы] [xcomp  VP-Pfv.Inf]?]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod не] мог [aux бы] [xcomp передать [obj соль]]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+family:
+  - |
+    ""

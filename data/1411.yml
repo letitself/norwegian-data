@@ -1,0 +1,44 @@
+---
+record: 1411
+name: 'NP-Nom Cop в норме'
+UD_name: 'NP-Nom Cop в норме'
+illustration: 'У бабушки давление в норме.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] норме]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] бабушки] [nsubj давление] [case в] норме.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

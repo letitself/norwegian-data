@@ -1,0 +1,73 @@
+---
+record: 198
+name: 'NP-Nom не мочь не VP-Inf'
+UD_name: 'NP-Nom не мочь не VP-Inf'
+illustration: 'Не могу не согласиться.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action или [состояние]State видится как единственно возможный вариант развития событий или поведения [участника]Agent в сложившейся ситуации. С точки зрения говорящего, у участника нет выбора (примеры 1-3) или ситуация не может развиваться альтернативным образом (примеры 4-5). Неизбежность действия подчеркивается с помощью двойного отрицания.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action eller [tilstand]State ses som eneste mulige hendelsesforløp eller handlemåte for [deltakeren]Agent  i den aktuelle situasjonen. Fra talerens synspunkt har deltakeren ikke noe valg (eksempel 1-3) eller situasjonen kan ikke utvikle seg på noen annen måte (eksempel 4 og 5). Handlingens uunngåelighet fremheves av at det brukes dobbel nektelse.
+examples:
+  - |
+       [Петр]Agent не мог не [поверить ее словам]Action.
+  - |
+       [Он]Agent не мог не [сказать о проблемах]Action, которые нуждались в незамедлительных решениях.
+  - |
+       [Вы]Agent не могли не [заметить меня]Action, и, поверьте, я не хвастаюсь.
+  - |
+       [Бурный рост предложения на компьютеры]Theme не мог не [привести к усилению конкуренции]Action.
+  - |
+       [Город, который конкурирует с Нью-Йорком по качеству жизни]Theme, не может не [быть многокультурным]State.
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] мочь [advmod не] [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] могу [advmod не] [xcomp согласиться].]'
+comment: |
+    'См. близкие по значению конструкции 21 (NP-Dat) нельзя Cop не VP-Inf (Нельзя было не согласиться с ним тогда) и 483 (NP-Dat) ничего (другого) не оставаться (делать), (кроме) как VP-Inf (Ему ничего не остаётся, как уехать из страны)..'
+common_fillers:
+  - отметить
+  - упомянуть
+  - сказать
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Reconciliation
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: No choice
+family:
+  - |
+    "Reconciliation"

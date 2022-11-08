@@ -1,0 +1,78 @@
+---
+record: 50
+name: 'в то́м-то и NP-Nom, (что) Cl'
+UD_name: 'в то́м-то и NP-Nom, (что) Cl'
+illustration: 'В том-то и дело, что не знаем.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция оформляет реакцию говорящего на слова собеседника. Говорящий обращает внимание на важную для него часть сообщения, только что сделанного собеседником, часто подхватывает и повторяет конкретное слово, использованное собеседником, и добавляет новую информацию по этому поводу, представляя некоторую [ситуацию]Situation со своей точки зрения. Эта информация как правило развивает дальше мысль собеседника или противоречит ей. Слот NP-Nom заполняется существительными двух типов. Заполнители типа «дело», «суть», «штука», «фишка», «смысл» выделяют [важность информации]Evaluation, а слова типа «беда», «проблема», «прелесть», «хитрость», «сложность», «ужас» дополнительно к важности выражают [положительную или отрицательную оценку]Evaluation. Конструкция также встречается при передаче монологической речи говорящего, которая конструируется как диалог говорящего с самим собой (примеры 4, 5).
+  - english: |
+       This construction presents the reaction of the speaker to the words of the interlocutor. The speaker directs attention toward what they find to be an important part of the message that the interlocutor has just delivered, often singling out and repeating specific words used by the interlocutor, and adds new information in order to present a given [situation]Situation from their point of view. This information typically elaborates the interlocutor’s idea or contradicts it. The NP-Nom slot can be filled by two types of nouns. Fillers such as «дело», «суть», «штука», «фишка», «смысл» emphasize the [importance of the information]Evaluation, whereas words such as «беда», «проблема», «прелесть», «хитрость», «сложность», «ужас» additionally express a [positive or negative assessment]Evaluation. This construction can also appear in the performance of a monolog, which serves to represent as a dialog of the speaker with themself (examples 4 and 5).
+  - norwegian: |
+       Konstruksjonen utformer talerens reaksjon på samtalepartnerens utsagn. Taleren retter oppmerksomheten mot noe taleren mener er en viktig del av det samtalepartneren nettopp har sagt, tar gjerne tak i og gjentar et konkret ord samtalepartneren har uttalt og tilføyer ny informasjon om dette ved å presentere en gitt [situasjon]Situation fra sitt ståsted. Denne informasjonen videreutvikler som regel samtalepartnerens tanke eller gjentar den. Sloten NP-Nom fylles av to typer substantiver. Utfyllinger av typen "дело", "суть", "штука", "фишка", "смысл" fremhever [viktigheten av informasjonen]Evaluation, mens ord av typen "беда", "проблема", "прелесть", "хитрость", "сложность", "ужас" i tillegg til viktigheten uttrykker [en positiv eller negativ vurdering]Evaluation. Konstruksjonen forekommer også ved gjengivelse av talerens enetale, bygget opp som en dialog taleren fører med seg selv (eksempel 4 og 5).
+examples:
+  - |
+       ― А могут ли программисты решить эти проблемы? ― В том-то и [дело]Evaluation, что [это не компетенция программистов, а так называемых архитекторов.]Situation
+  - |
+       ― И кто же он? ― Издатель. ― И что же он издает? ― В том-то и [штука]Evaluation, что [ничего не издает.]Situation
+  - |
+       ― Это зависит от того, как успеем с экспертизой. Надо ждать очереди. ― В том-то и [проблема]Evaluation, что [у меня нет времени ждать.]Situation Домой надо, виза кончается.
+  - |
+       Квартира действительно была хорошая. И если бы у Томаса были свободные деньги, он бы согласился. Но в том-то и [беда]Evaluation, что [этих тридцати тысяч у Томаса не было.]Situation
+  - |
+       Если бы вы были ихтиозавр, тогда бы успели честно накопить с зарплаты за миллионы лет, но вы ведь не ихтиозавр, Виктор Викторович! В том-то и [ужас]Evaluation, что [вы не ископаемый, вы не истлели, вы живее всех живых.]Situation
+morphology:
+  - NP
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Particle
+  - Conjunction
+semantic_roles:
+  - Evaluation
+  - Situation
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [case в] том - [advmod то] [advmod и] [nsubj NP-Nom], [acl [mark что] Cl]]'
+  - '[root [case в] том - [advmod то] [advmod и] [nsubj NP-Nom], [acl Cl]]'
+dependency_structure_of_illustration:
+  - '[root [case В] том - [advmod то] [advmod и] [nsubj дело], [acl [mark что] [advmod не] знаем].]'
+comment: |
+    'См. близкие по значению конструкции 8 и 1813.'
+common_fillers:
+  - дело
+  - суть
+  - штука
+  - фишка
+  - смысл
+  - беда
+  - проблема
+  - прелесть
+  - хитрость
+  - сложность
+  - ужас
+  - прикол
+references:
+  - |
+    См. также статью Добровольский Д. О., Пеппель, Л. Дискурсивная конструкция N в том, что и ее параллели в других языках: констрастивное исследование. // Вестник Новосибирского государственного университета. № 6. 2016. С. 164-175.
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Accentuation
+family:
+  - |
+    "X в том что Y"

@@ -1,0 +1,64 @@
+---
+record: 28
+name: 'NP-Nom по-Verb-по-~Verb и VP'
+UD_name: 'NP-Nom по-V-по-V и VP'
+illustration: 'Поспит-поспит и проснётся.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent совершает несколько порций повторяющегося цикличного [действия]Activity, которое прерывается [другим действием или событием]Event. Повторение порций действия выражается повторением глагола, который обычно имеет приставку по-.
+  - english: |
+       This construction means that the [participant]Agent performs several rounds of a repetitive, cyclical [action]Activity which is interrupted by another [action or event]Event. The repetition of the action is expressed by repeating the verb, which usually contains the prefix “по-”.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utfører flere omganger av en gjentakende, syklisk [handling]Activity, som avbrytes av [en annen handling eller hendelse]Event. Det at handlingen gjentar seg gang på gang, uttrykkes ved å gjenta verbet, som vanligvis har forstavelsen по-.
+examples:
+  - |
+       А [голова]Agent [поболит-поболит]Activity и [перестанет]Event!
+  - |
+       [Ребенок]Agent [поорёт-поорёт]Activity и [замолчит]Event, а через час снова кричит.
+  - |
+       Конечно, можно будет просто не открыть дверь. [Позвонит-позвонит]Activity ― и [уйдёт]Event.
+  - |
+       [Яблоки]Agent [полежат-полежат]Activity и [пропадут]Event, если их, конечно, не сварят в варенье.
+  - |
+       [Они]Agent [подумают-подумают]Activity и [вернут все на место]Event.
+morphology:
+  - NP
+  - Nom
+  - Verb
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Agent
+  - Event
+  - Activity
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] по-Verb - [conj по-Verb] [conj [cc и] VP]]'
+dependency_structure_of_illustration:
+  - '[root Поспит - [conj поспит] [conj [cc и] проснётся].]'
+comment: |
+    'См. похожую конструкцию 598.'
+common_fillers:
+  - поспит
+  - подумает
+  - покричит
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    "Семья конструкций с континуативной семантикой и с редупликацией (Continuative constructions with a reduplicative pattern)"

@@ -1,0 +1,61 @@
+---
+record: 1720
+name: 'NP-Nom стоять в/на NP-Loc'
+UD_name: 'NP-Nom стоять в/на NP-Loc'
+illustration: 'Бутылка стоит на столе.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [предмет]Theme находится в вертикальном положении на поверхности или внутри определенного [объекта]Landmark.
+examples:
+  - |
+       Комната завалена цветами, [вазы и корзины]Theme стоят на [полу.]Landmark
+  - |
+       Кроме фотографий на [полках]Landmark стоят [книги]Theme ― от Бальзака до альбомов Дали.
+  - |
+       [Она]Participant стояла на [сцене]Landmark в розовом платье, черноволосая, красивая.
+  - |
+       Когда подъехало такси, [я]Participant стояла на [балконе.]Landmark
+  - |
+       Всё та же [печка]Theme стояла в [углу.]Landmark
+morphology:
+  - NP
+  - Nom
+  - Loc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Modifier
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] стоять [obl [case в] NP-Loc]]'
+  - '[root [nsubj NP-Nom] стоять [obl [case на] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Бутылка] стоит [obl [case на] столе].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - полу
+  - столе
+  - полке
+  - подоконнике
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

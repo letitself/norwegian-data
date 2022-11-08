@@ -1,0 +1,57 @@
+---
+record: 1300
+name: 'отныне VP'
+UD_name: 'отныне VP'
+illustration: 'Отныне специалистов по японскому языку будут готовить только в этом университете.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что, начиная c момента высказывания, будет осуществляться некоторое [действие]Action. Говорящий уверен, что это действие не будет прекращаться на протяжении долгого времени. Как правило, это действие имеет особую значимость для истории или для конкретного человека и служит точкой отсчёта для новой эпохи. Конструкция характерна прежде всего для книжных письменных текстов.
+examples:
+  - |
+       Король сегодня с утра решил, что отныне [будет заниматься только самыми главными проблемами страны]Action.
+  - |
+       Я поняла, что отныне могу [выбирать, с кем хочу сниматься в кино]Action.
+  - |
+       Отныне [занять должность на государственной службе сможет]Action лишь мужчина с воинским билетом.
+  - |
+       Заключать соглашения отныне [следовало]Action в Вашингтоне, а не в Кремле.
+  - |
+       У сборной России по футболу отныне [нет]Action ни жён, ни самолётов.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod отныне] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Отныне] [obj специалистов [nmod [case по] [amod японскому] языку]] [aux будут] готовить [obl [advmod только] [case в] [det этом] университете].]'
+comment: |
+    'Не путать с конструкцией 867.'
+common_fillers:
+  - подчиняется
+  - считается
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

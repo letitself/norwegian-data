@@ -1,0 +1,57 @@
+---
+record: 535
+name: 'NP-Nom не выносить NP-Acc/NP-Gen'
+UD_name: 'NP-Nom не выносить NP-Acc/NP-Gen'
+illustration: 'Она не выносит нецензурную речь.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает резко отрицательное отношение [говорящего или другого участника ситуации]Experiencer к определенному [типу поведения]Stimulus, который обычно назван отглагольным существительным. Как если бы участник не мог физически или морально вытерпеть, выдержать конкретную ситуацию, в которой он бы непосредственно сталкивался с таким поведением.
+examples:
+morphology:
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] выносить [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] [advmod не] выносит [obj [amod нецензурную] речь].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+      - type: Capacity/Preferences
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior, Capacity/Preferences"

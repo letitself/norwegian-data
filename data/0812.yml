@@ -1,0 +1,72 @@
+---
+record: 812
+name: 'Cl в ряду NP-Gen'
+UD_name: 'Cl в ряду NP-Gen'
+illustration: 'Они числили его в ряду своих национальных героев.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется для того, чтобы подчеркнуть принадлежность [элемента]Element к некоторому [множеству]Set. Как если бы все элементы множества поставили в одну линию (ряд), включая этот элемент.
+  - norwegian: |
+       Konstruksjonen brukes for å understreke [et elements]Element tilhørighet til en gitt [mengde]Set. Det er som om alle elementene i mengden er plassert langs en linje (på rad), inkludert dette elementet.
+examples:
+  - |
+       [Губанов]Element стоит в ряду [таких русских поэтов]Set, как Кольцов, Некрасов, Клюев, Есенин, Павел Васильев, Клычков.
+  - |
+       В ряду великих [писателей]Set XIX века [Герцен]Element занял достойное место.
+  - |
+       [Имя Н. И. Вавилова]Element в ряду великих [биологов].
+  - |
+       Советская спелеология сравнительно молода, однако её [достижения]Element находятся в ряду самых [выдающихся]Set в мире.
+  - |
+       [Вышка]Element стоит немного особняком в ряду [технических университетов]Set.
+morphology:
+  - Cl
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Element
+  - Set
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] ряду [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] числили [obj его] [obl [case в] ряду [nmod [det своих] [amod национальных] героев]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - называли
+  - имя
+  - книга
+  - герои
+  - авторы
+  - стоит
+  - выделяется
+  - занять место
+  - находиться
+  - выглядеть
+  - числить
+  - стоять особняком
+references:
+  - |
+    No references
+semantic_types:
+  - type: Inclusive
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+  - type: Subset
+family:
+  - |
+    ""

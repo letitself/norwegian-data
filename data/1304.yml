@@ -1,0 +1,56 @@
+---
+record: 1304
+name: 'Cl, лишь бы Cl'
+UD_name: 'Cl, лишь бы Cl'
+illustration: 'Может, даже на дачу куплю старенький телевизор, лишь бы ни одного матча не пропустить.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник готов обеспечить все необходимые условия для того, чтобы в будущем реализовалась [некоторая желательная ситуация]Situation. Как правило, обеспечение таких условий предполагает [выполнение невыгодного для участника действия]Concession.
+examples:
+  - |
+       [Приглашаю приятелей]Concession, лишь бы [кто-то сидел до позднего вечера]Situation.
+  - |
+       [Они готовы были на любые скидки]Concession, лишь бы [я хоть что-то отдал]Situation.
+  - |
+       Евгений говорит, что [готов приехать к ней в интернат]Concession, лишь бы [у ребят всё было благополучно]Situation.
+  - |
+       Пришедшая сюда очень мотивированным студентом, теперь [она готова заплатить любые деньги]Concession, лишь бы [этот кошмар закончился]Situation.
+  - |
+       [Валентина отказалась от накопленной за годы работы пенсии и согласилась на социальную]Concession, лишь бы [ей дали возможность забирать ее наличными ]Situation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [mark лишь [fixed бы]] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Может], [advmod даже] [obl [case на] дачу] куплю [obj [amod старенький] телевизор], [advcl [mark лишь [fixed бы]] [obj [advmod ни] [nummod одного] матча] [advmod не] пропустить].]'
+comment: |
+    'См. близкие конструкции 487, 1305, 2157.'
+common_fillers:
+  - NA
+references:
+  - |
+    См. Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, 1999, № 5. С. 24-44.
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: At least
+  - type: Purpose
+  - type: Volition
+family:
+  - |
+    ""

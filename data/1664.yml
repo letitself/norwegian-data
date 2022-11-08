@@ -1,0 +1,57 @@
+---
+record: 1664
+name: 'однажды VP-Pst'
+UD_name: 'однажды VP-Past'
+illustration: 'Однажды мы летали на вертолёте.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation имела место в прошлом, причём однократно. Конкретный момент времени, в который произошла ситуация, не уточняется. Говорящий делает акцент на самой [ситуации]Situation.
+examples:
+  - |
+       Однажды [Анатолий Семёнович попросил Рубцова почитать стихи]Situation.
+  - |
+       Однажды [я долго не могла простить одного человека]Situation.
+  - |
+       Однажды [они ночевали в деревенской школе]Situation.
+  - |
+       Однажды [Володя играл концерт во дворце специально для королевской семьи перед званым ужином]Situation.
+  - |
+       Однажды [мама уже брала Кирилла в Африку]Situation.
+morphology:
+  - VP
+  - Pst
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod однажды] VP-Pst]'
+dependency_structure_of_illustration:
+  - '[root [advmod Однажды] [nsubj мы] летали [obl [case на] вертолёте].]'
+comment: |
+    'См. синонимичную конструкцию 1663 как-то раз VP (Я как-то раз видела ее на концерте.)'
+common_fillers:
+  - быть
+  - бывать
+  - видеть
+  - разговаривать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Past
+family:
+  - |
+    ""

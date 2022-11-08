@@ -1,0 +1,60 @@
+---
+record: 1968
+name: 'что NP-Dat Cop (от NP-Gen/здесь) нужно/надо?'
+UD_name: 'что NP-Dat Cop (от NP-Gen/здесь) нужно/надо?'
+illustration: 'Что тебе от меня надо?'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Object
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Predicative
+  - Adverb
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj что] [iobj NP-Dat] [cop Cop] [obl [case от] NP-Gen] нужно?]'
+  - '[root [nsubj что] [iobj NP-Dat] [cop Cop] [obl [case от] NP-Gen] надо?]'
+  - '[root [nsubj что] [iobj NP-Dat] [cop Cop] [advmod здесь] нужно?]'
+  - '[root [nsubj что] [iobj NP-Dat] [cop Cop] [advmod здесь] надо?]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Что] [iobj тебе] [obl [case от] меня] надо?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Concern
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Concern, Discontent"

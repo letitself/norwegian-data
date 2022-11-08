@@ -1,0 +1,72 @@
+---
+record: 76
+name: 'вроде (как) XP/Cl'
+UD_name: 'вроде (как) XP/Cl'
+illustration: 'Он вроде как идёт.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает легкую неуверенность говорящего в сообщаемой им [информации.]Theme Нередко конструкция смягчает категоричность высказывания. Сообщение говорящего звучит как предположение. Слот XP заполняется глагольной группой, именной группой, прилагательным, наречием или предикативом.
+  - english: |
+       This construction expresses the speaker's slight uncertainty in the [information]Theme they are sharing. Often this construction softens a categorical statement. The information from the speaker sounds like an assumption. The XP slot is filled with a verb phrase, a noun phrase, an adjective, an adverb or a predicative.
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren meddeler [informasjon]Theme som vedkommende er litt usikker på. Ofte gjør konstruksjonen et bastant utsagn mildere. Talerens meddelelse klinger som en antakelse. Sloten XP fylles av en verbalfrase, nominalfrase, et adjektiv, et adverb eller et predikativ.
+examples:
+  - |
+       Вроде как [он это уже говорил.]Situation
+  - |
+       Здесь вроде [нескучно.]Evaluation
+  - |
+       Он вроде как [не обижается на тебя.]Action
+  - |
+       Быстро бежал. Одни говорили, что это Мишка из соседнего микрорайона. А другие говорят, что нет. Мишка вроде как [только из больницы вышел]Action после аппендицита. Как после аппендицита так бегать?
+  - |
+       Человек взрослый, вроде [умный]Evaluation, должен был понимать, во что ввязывается.
+morphology:
+  - XP
+  - Cl
+  - NP
+  - VP
+  - PP
+  - Adv
+  - Adj
+  - Pred
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Evaluation
+  - Theme
+  - Situation
+  - Action
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod вроде [fixed как]] XP]'
+  - '[root [advmod вроде [fixed как]] Cl]'
+  - '[root [advmod вроде] XP]'
+  - '[root [advmod вроде] Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod вроде [fixed как]] идет.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Epistemic (metaphorical) distance
+family:
+  - |
+    ""

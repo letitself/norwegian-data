@@ -1,0 +1,42 @@
+---
+record: 910
+name: 'VP всеми силами'
+UD_name: 'VP всеми силами'
+illustration: 'Он всеми силами старался не пропустить их.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [det всеми] силами]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [det всеми] силами] старался [xcomp [advmod не] пропустить [obj их]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

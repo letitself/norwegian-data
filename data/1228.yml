@@ -1,0 +1,64 @@
+---
+record: 1228
+name: 'XP, равно как (и) XP'
+UD_name: 'XP равно как XP'
+illustration: 'Бабушка отвергала религию, равно как и теорию эволюции.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает равнозначность, равноценность [одного объекта, участника, свойства или действия]Comparee [другому объекту, участнику, свойству или действию]Standard. Конструкция обозначает, что некоторое действие будет совершено и с одним, и с другим объектом или участником, или что действие характеризуется в равной мере и одним, и другим качеством. Слот XP может заполняться именной, предложной или глагольной группой, прилагательным или наречием.
+  - english: |
+       This construction expresses a comparison and emphasizes an equivalence, or equal value between [one object, participant, property, or action]Comparee and [another object, participant, property, or action]Standard. It means that an action will be carried out on both the first and the second objects or participants, or that an action is equally characterized by both properties. The XP slot can be filled with a noun phrase, prepositional phrase, verb phrase, adjective, or adverb.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at [ett objekt, én deltaker, egenskap eller handling]Comparee og [et annet objekt, en annen deltaker, egenskap eller handling]Standard har like stor betydning og verdi. Konstruksjonen betyr at en gitt handling iverksettes med både det ene og det andre objektet eller deltakeren, eller at handlingen karakteriseres av både den ene og den andre egenskapen i like stor grad. Sloten XP kan fylles av en nominalfrase, et preposisjonsledd, en verbalfrase, et adjektiv eller et adverb.
+examples:
+  - |
+       Лично я обязательно покажу своему ребенку [этот фильм]Comparee, равно как и [«Иван Васильевич меняет профессию»]Standard.
+  - |
+       [Способности к рисованию и музыке]Comparee проявились в самом юном возрасте, равно как и [талант дружить и добиваться восхищения окружающих]Standard.
+  - |
+       Поводов для сомнений в обоснованности [новых]Comparee (равно как и [старых]Standard) тарифов, надо сказать, предостаточно.
+  - |
+       [Страдать]Comparee, конечно, придется, равно как и [испытывать наслаждение]Standard.
+  - |
+       Новые квартиры сегодня в основном продаются, когда дома еще нет [физически]Comparee. Равно как и [юридически]Standard: покупатель приобретает не квартиру, а долю в строительстве или право потребовать с застройщика квартиру, когда дом будет завершен.
+morphology:
+  - NP
+  - PP
+  - VP
+  - Adj
+  - Adv
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - Comparee
+  - Standard
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[dep XP [conj [case равно [fixed как]] XP]]'
+  - '[conj [case равно [fixed как] [fixed и]] XP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Использование [nmod доверенности] [conj [case равно [fixed как] [fixed и]] [amod само] участие [nmod [case в] сделке]]] [advmod совершенно] необязательно.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

@@ -1,0 +1,63 @@
+---
+record: 1087
+name: 'иными/другими словами, XP/Cl'
+UD_name: 'иными/другими словами, XP/Cl'
+illustration: 'Наш корреспондент выехал в аэропорт, чтобы взять интервью. Другими словами, задать несколько вопросов.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция вводит в текст [пояснение некоторой формулировки]Theme. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за фиксированной частью «иными словами» или «другими словами», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой.
+  - english: |
+       This construction introduces [an explanation of a certain phrase]Theme. The speaker tries to make their message more comprehensible by providing an additional statement of their meaning using other words. The part that follows after the fixed part of the construction, "иными словами", explains, defines, or simplifies the information that the speaker has already communicated. The XP slot can be filled by a noun phrase, a prepositional phrase, or a verb phrase.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring av en gitt formulering]Theme. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'иными словами' eller 'другими словами', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt.  Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
+examples:
+  - |
+       Особенно хорошо поддаются лифтингу те морщины, которые возникли не в результате вашей привычки морщить лоб или хмурить брови (иными словами ― [не мимические]Theme), а возникшие из-за того, что кожа в данном месте стала излишне тонка.
+  - |
+       Сасселов, известный ученый, уже в 1998 году стал профессором в Гарварде и директором Гарвардского центра, занимающегося проблемой возникновения жизни в космосе; а в 2002 году его группа открыла самую далекую на тот момент внесолнечную планету. Иными словами, [он знаток в своем деле]Theme.
+  - |
+       Воды Красного моря насыщены сульфатами, а воды Мертвого моря содержат кальций. При их смешивании будет образовываться сульфат кальция ― иными словами, [гипс]Theme. Дно озера покроется гипсовыми отложениями.
+  - |
+       Хоккеисты сборной могли выиграть любой турнир, а потом провалить следующий, могли дружно атаковать ворота соперника и "забыть" о защите своих, другими словами, [могли всё]Theme.
+  - |
+       Тема ― это текст минус приемы выразительности. Другими словами, [искусство есть способ пространно говорить о том, что можно было сказать кратко]Theme.
+morphology:
+  - XP
+  - Cl
+  - NP
+  - PP
+  - VP
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - Theme
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [parataxis [amod иными] словами], XP]'
+  - '[root [parataxis [amod другими] словами], XP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [amod Иными] словами], [obl [case на] [det каждого] мужчину "[nmod [case от] 35 [conj [cc и] выше]]"] приходится [nsubj [advmod почти] [nummod:gov две] женщины [nmod [amod соответствующего] возраста]].]'
+comment: |
+    'См. похожую конструкцию 1086 иначе говоря, XP/Cl (Смешное потому и смешно, что оно правдиво. Иначе говоря, не всё правдивое смешно, но всё смешное правдиво).'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также О.И. Юнькова, А. С. Гурьев. К вопросу о категории пояснения в русской грамматике. // Русский язык в научном освещении, 1 (35). 2018. С. 46-73.
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+family:
+  - |
+    "Clarification via rephrasing"

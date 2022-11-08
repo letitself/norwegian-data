@@ -1,0 +1,58 @@
+---
+record: 1495
+name: 'адский Noun'
+UD_name: 'адский N'
+illustration: 'Стояла адская жара.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция повышает до максимума степень интенсивности признака, характеризующего объект или ситуацию, и подчеркивает, что некоторый [элемент ситуации]Theme по мнению говорящего выходит за границы нормы. Как правило, речь идет о сильной эмоции или не поддающемся контролю природном явлении, которые говорящий оценивает негативно. Как если бы ситуация происходила в аду.
+examples:
+  - |
+       Стояла адская [жара]Theme, и от палящего солнца не спасало ничего.
+  - |
+       А потом вдруг стукнул адский [мороз]Theme.
+  - |
+       Пришёл домой после работы, поужинал, лёг спать, а проснулся от адской [боли]Theme.
+  - |
+       Когда мы учились, это был какой-то адский [труд]Theme.
+  - |
+       Бесчисленные компрессоры производили адский [шум]Theme.
+morphology:
+  - Noun
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod адский] Noun]]'
+dependency_structure_of_illustration:
+  - '[root Стояла [nsubj [amod адская] жара].]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1493, 1494, 1496, 1497, 1498, 1499, 1500'
+common_fillers:
+  - жара
+  - мороз
+  - холод
+  - шум
+  - вой
+  - грохот
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 1239
+name: 'быть-Imp (так) добрый-Short/любезный-Short VP-Imp'
+UD_name: 'быть-Imper (так) добрый-Short/любезный-Short VP-Imper'
+illustration: 'Будьте добры сдайте задание.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - Imp
+  - Short
+  - VP
+  - Imp
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Adverb
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [parataxis [cop быть-Imp] добрый-Short] VP-Imp]'
+  - '[root [parataxis [cop быть-Imp] [advmod так] добрый-Short] VP-Imp]'
+  - '[root [parataxis [cop быть-Imp] любезный-Short] VP-Imp]'
+  - '[root [parataxis [cop быть-Imp] [advmod так] любезный-Short] xcomp VP-Imp]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [cop Будьте] добры] сдайте [obj задание].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Request
+family:
+  - |
+    ""

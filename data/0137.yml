@@ -1,0 +1,73 @@
+---
+record: 137
+name: 'к ужасу/счастью NP-Gen, Cl'
+UD_name: 'к ужасу/счастью NP-Gen, Cl'
+illustration: 'К счастью мамы, все пришли домой рано.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает резко положительное ("к счастью") или отрицательное ("к ужасу") эмоциональное отношение некоторого участника к [ситуации]Situation. Часто речь идет не о конкретном чувстве счастья или ужаса, которое испытывает [участник]Experiencer (пример 1, 5), а о том, соответствует ли эта ситуация интересам [участника]Beneficiary или [нет]Maleficiary, приносит ли ситуация участнику пользу или вред (примеры 2-4). Есть и переходные случаи, в которых оба значения совмещаются (пример 5).
+  - english: |
+       This construction expresses the participant's extremely positive ("к счастью" 'fortunately') or negative ("к ужасу" 'to the horror of') emotional attitude to a [situation]Situation. Often it does not mean that the [participant]Experiencer experiences a specific feeling of happiness or dismay (examples 1, 5), but whether the situation is in the interests of the [participant]Beneficiary or [not]Maleficiary, i.e. the situation is beneficial or harmful to the participant (examples 2-4). There are also some borderline cases where both meanings are combined (example 5).
+  - norwegian: |
+       Konstruksjonen uttrykker en gitt deltakers markant positive ("к счастью") eller negative ("к ужасу") følelsesmessige oppfatning av [en situasjon]Situation. Ofte dreier det seg ikke om at [deltakeren]Experiencer opplever en konkret følelse av lykke eller forferdelse (eksempel 1 og 5), men om hvorvidt situasjonen er i [deltakerens]Beneficiary interesse eller [ikke]Maleficiary, om situasjonen er til nytte eller skade for deltakeren (eksempel 2-4). Det finnes også grensetilfeller, der de to betydningene forenes (eksempel 5).
+examples:
+  - |
+       [Маша взяла ножницы и отрезала себе косы]Situation, к ужасу [родителей]Experiencer.
+  - |
+       Фанни подготовилась к встрече, устроив что-то вроде семинара. И даже на отдельную бумажку выписала длинную цитату из любимой Маргарет Дюрас, которую, к ужасу [переводчицы]Maleficiary, [зачитала]Situation.
+  - |
+       Как рассказывает папин товарищ Виктор Селезнев, фельетон набрали, но, к счастью [отца]Beneficiary, [не опубликовали]Situation: нашлись в редакции порядочные люди.
+  - |
+       ― Ух, я бы ему показал… ― горячился Вовка. Толя снисходительно улыбнулся: ― К счастью [директора]Beneficiary, ты ему ничего сделать не можешь.
+  - |
+       Когда допущен заводской брак, вся партия лекарства изымается со всех складов и розничных точек. К счастью [фармкомпаний]Beneficiary, [такое случается достаточно редко.]Situation
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Experiencer
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [case к] счастью [nmod NP-Gen]], Cl]'
+  - '[root [parataxis [case к] ужасу [nmod NP-Gen]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [case К] счастью [nmod мамы]], [nsubj все] пришли [advmod домой] [advmod рано].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - мамы
+  - жены
+  - родителей
+  - домочадцев
+  - начальника
+  - директора
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Specific emotions
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Specific emotions"

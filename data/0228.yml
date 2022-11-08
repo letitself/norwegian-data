@@ -1,0 +1,65 @@
+---
+record: 228
+name: 'ни за что не VP'
+UD_name: 'ни за что не VP'
+illustration: 'Ни за что не поеду в театр!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации не согласен выполнять некоторое [действие]Action ни при каких условиях (примеры 1-3). Конструкция также может обозначать, что некоторое [действие]Action невозможно совершить, даже при всем желании участника (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker i situasjonen ikke er villig til å utføre en gitt [handling]Action, selv ikke i bytte mot store [verdier]Theme eller [privilegier]Theme, altså under ingen omstendigheter (eksempel 1-3). Konstruksjonen kan også bety at en gitt [handling]Action ikke lar seg utføre, uansett hvor sterkt deltakeren måtte ønske det (eksempel 4 og 5).
+examples:
+  - |
+       Я ни за что не [поверю]Action, что у вас с вашими подростками нет проблем!
+  - |
+       Да она и потом ни за что не [хотела переезжать.]Action
+  - |
+       Сестра замечала в зеркале сединки, но ни за что не [стала бы краситься.]Action
+  - |
+       ― Кто же вы? ― Ни за что не [угадаете]Action.
+  - |
+       Он сказал: Передай Войновичу, что он эту квартиру ни за что не [получит.]Action
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [advmod ни] [case за] что] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [advmod Ни] [case за] что] [advmod не] поеду [obl [case в] театр]!]'
+comment: |
+    'См. близкие конструкции 227 и 1935.'
+common_fillers:
+  - поверить
+  - рассказать
+  - переехать
+  - пойти
+  - приехать
+  - угадать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

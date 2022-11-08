@@ -1,0 +1,47 @@
+---
+record: 1186
+name: 'намного Adj-Cmp/Adv-Cmp'
+UD_name: 'намного Adj-Cmp/Adv-Cmp'
+illustration: 'Эта песня намного красивее.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Adj
+  - Cmp
+  - Adv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod намного] Adj-Cmp]'
+  - '[advmod [advmod намного] Adv-Cmp]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эта] песня] [advmod намного] красивее.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

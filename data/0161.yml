@@ -1,0 +1,54 @@
+---
+record: 161
+name: 'какой из NP-Gen Cop NP-Nom?!'
+UD_name: 'какой из NP-Gen Cop NP-Nom?!'
+illustration: 'Какой из тебя учитель?'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+  - Cop
+  - Nom
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root какой [nmod [case из] NP-Gen] [cop Cop] [nsubj NP-Nom]?]'
+dependency_structure_of_illustration:
+  - '[root Какой [nmod [case из] тебя] [nsubj учитель]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Not matching the norm
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Not matching the norm
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Not matching the norm"

@@ -1,0 +1,62 @@
+---
+record: 2102
+name: 'правда, Cl, но Cl'
+UD_name: 'правда, Cl, но Cl'
+illustration: 'Он человек, правда, не деловой, но честный.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает контраст двух ситуаций. Говорящий, признавая наличие [некоторой ситуации]Concession, обращает внимание на [другую ситуацию]Situation, которая является более важной, чем первая. Вторая ситуация оценивается говорящим противоположно первой.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever kontrasten mellom to situasjoner. Taleren, som erkjenner at [en gitt situasjon]Concession er til stede, henleder oppmerksomheten på [den andre situasjonen]Situation, som er viktigere enn den første. Den andre situasjonen vurderes av taleren som motsatt av den første.
+examples:
+  - |
+       Мы с мужем повздыхали, покряхтели: всё-таки компьютер ― вещь для нас недешевая, но живём в современном мире, понимаем, что это нужно, ну и поднапряглись и купили… Правда, [подержанный]Concession, но [сын был рад ему так, будто это был самый лучший и самый новый компьютер на свете]Situation.
+  - |
+       Сейчас Нуце (по паспорту, правда, [она Нино]Concession, но [официального имени стесняется, откликаясь на Нуцу]Situation) 18 лет, она живёт в Лос-Анджелесе и намерена поступать в голливудскую актёрскую школу.
+  - |
+       А ведь, знаете, как бывает: молодой актер, его начинают узнавать на улицах, фамилии, правда, [не помнят]Concession, но [говорят: «Где-то я его видел»]Situation.
+  - |
+       Дорога, правда, [по-прежнему неважная]Concession, но [дорог в этой местности не было никогда]Situation: ни при барине, ни при колхозе, ни даже при немцах.
+  - |
+       Однажды захожу туда и вижу на полке «Фрески Ферапонтова монастыря» Георгиевского, издание 1913 года. Правда, [без обложки]Concession, но [всё равно обрадовался]Situation.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Conjunction
+semantic_roles:
+  - Concession
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis правда]'
+  - Cl
+  - '[conj [cc но] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] человек, [parataxis правда], [amod [advmod не] деловой, [conj [cc но] честный]].]'
+comment: |
+    'См. близкие конструкции 802 Cl, в противном случае Cl (Им придется вернуть деньги в банк, в противном случае им грозит тюрьма.), 1184 Cl, или/а иначе/иначе VP-Fut/можно VP-Inf (Извинись, иначе я перестану с тобой разговаривать.), 690 Cl, а/но скорее всего – Cl (Он собирался пойти в театр, а скорее всего – просидит дома.), 1185 Cl, или/и того лучше/хуже/хлеще, XP/Cl (Произошло событие, именуемое по науке саботажем, или – того хлеще – экономической контрреволюцией.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. подкласс 4 "Компенсация" и "оговорка" (стр. 31) в статье Апресян В. Ю. Уступительность в языке и слова со значением уступки // Вопросы языкознания, 1999, № 5. С. 24-44.
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Concession
+    subtypes:
+      - type: Limitation
+family:
+  - |
+    ""

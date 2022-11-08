@@ -1,0 +1,61 @@
+---
+record: 194
+name: 'даже не думать-Imp/(даже) не вздумать-Imp VP-Inf!'
+UD_name: 'даже не думай/(даже) не вздумай VP-Inf!'
+illustration: 'Не вздумай обманывать родителей!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий категорически запрещает собеседнику выполнять и даже планировать некоторое [действие.]Action Как правило, участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения взрослый vs ребенок). Как правило, конструкция используется только в устной форме.
+  - english: |
+       This construction indicates that the speaker categorically forbids the interlocutor from carrying out or even planning an [action]Action.
+examples:
+  - |
+       Не вздумай с ним [вести разговоры]Action на политические темы.
+  - |
+       Не вздумай к ней [ехать]Action!
+  - |
+       И не вздумай [рассказывать]Action кому-нибудь, что слышал это.
+  - |
+       Даже не думай [списывать!]Action
+  - |
+       Не вздумайте [к ней записываться платно]Action. Лучше сходите в стоматологию московского района.
+morphology:
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] думай [xcomp VP-Inf]!]'
+  - '[root [advmod не] вздумай [xcomp VP-Inf]!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] вздумай [xcomp обманывать [obj родителей]]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+  - type: Threat
+family:
+  - |
+    ""

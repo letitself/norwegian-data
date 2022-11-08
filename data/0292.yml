@@ -1,0 +1,80 @@
+---
+record: 292
+name: '(у NP-Gen) (всё) руки не доходить VP-Inf/до NP-Gen'
+UD_name: '(у NP-Gen) (всё) руки не доходить VP-Inf/до NP-Gen'
+illustration: 'Руки не доходят крышу починить.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что у [участника]Experiencer нет времени, чтобы совершить некоторое нужное [действие]Action или заняться [важным делом или вопросом]Theme. Подразумевается, что участник планирует или хочет совершить это действие уже длительное время, но пока ему не удалось осуществить свои планы, потому что он был занят другими делами. Как если бы руки могли ходить, как ноги, но еще не успели «дойти» до важных дел. С помощью этой конструкции участник частично снимает с себя ответственность за свое промедление, перекладывая ее на объективные причины, не зависящие от него, прежде всего недостаток времени. В слове «руки» ударение стоит на первом слоге, это форма множественного числа.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Experiencer ikke har tid til å utføre en gitt, nødvendig [handling]Action eller ta seg av [et viktig gjøremål eller spørsmål]Theme. Det er underforstått at deltakeren alt i lang tid har planlagt eller villet utføre handlingen, men hittil ikke har lyktes i å iverksette sine planer fordi vedkommende har vært opptatt med andre ting. Det er som om armene kunne gå, akkurat som beina, men enda ikke har rukket å "gå borttil" de viktige gjøremålene. Ved hjelp av denne konstruksjonen frasier taleren seg deler av ansvaret for sin sendrektighet og legger det over på objektive årsaker utenfor talerens innflytelse, først og fremst på tidsmangelen. I ordet "руки" ligger trykket på første stavelse, det er ordets flertallsform.
+examples:
+  - |
+       У [меня]Experiencer всё руки не доходят [купить новый диван]Action.
+  - |
+       Антон заверил её, что извиняться перед ним не нужно, а сам с усмешкой подумал: «Ну и чем таким она может заниматься целыми днями, чтобы у [неё]Experiencer руки не дошли [вещи разобрать]Action?»
+  - |
+       Всё у [меня]Experiencer руки не доходят до [диплома]Theme.
+  - |
+       Я размышлял: а не позвонить ли и в самом деле Огурцову? Но так и не позвонил, и уже трудно вспомнить почему. Должно быть, как всегда: сначала всё как-то руки не доходили, а когда недели через полторы хватился визитки, её уже не было.
+  - |
+       Нахмурившись, Бемби озабоченно проговорила: ―  Надо всё  же [посмотреть в папиных справочниках]Action, никак у [меня]Experiencer руки не дойдут.
+morphology:
+  - NP
+  - Gen
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - Experiencer
+  - Theme
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [всё advmod] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [obl [case у] NP-Gen] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [всё advmod] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [obl [case у] NP-Gen] [всё advmod] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [всё advmod] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Руки] [advmod не] доходят [xcomp [obj крышу] починить].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - купить
+  - заняться
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporal expression
+    subtypes:
+      - type: Proper time
+family:
+  - |
+    "Willingness"

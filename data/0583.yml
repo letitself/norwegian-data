@@ -1,0 +1,67 @@
+---
+record: 583
+name: 'VP изо всех сил'
+UD_name: 'VP изо всех сил'
+illustration: 'Ваня бежал изо всех сил.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция повышает интенсивность некоторого контролируемого [действия]Action до максимума. Конструкция обозначает, что [участник]Agent прикладывает максимум возможных усилий для совершения [действия]Action.
+  - english: |
+       This construction increases the intensity of a controlled [action]Action to the maximum. This construction indicates that the [participant]Agent puts in the maximum amount of effort to carry out this [action]Action.
+  - norwegian: |
+       Konstruksjonen øker intensiteten i en gitt, kontrollert [handling]Action maksimalt. Konstruksjonen betyr at [deltakeren]Agent anstrenger seg maksimalt for å utføre [handlingen]Action.
+examples:
+  - |
+       Я изо всех сил [старался]Action говорить спокойно.
+  - |
+       Стой! ― вдруг изо всех сил [закричала]Action она.
+  - |
+       Зрители изо всех сил [зааплодировали]Action.
+  - |
+       Тимофей изо всех сил [сдерживал слёзы.]Action
+  - |
+       Покой и комфорт нужно [беречь]Action изо всех сил.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case изо] [det всех] сил]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ваня] бежал [obl [case изо] [det всех] сил].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - стараться
+  - стремиться
+  - сжать
+  - стукнуть
+  - ударить
+  - закричать
+  - торопиться
+  - беречь
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

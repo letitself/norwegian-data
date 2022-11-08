@@ -1,0 +1,53 @@
+---
+record: 1371
+name: 'NP-Nom Cop себе на уме'
+UD_name: 'NP-Nom Cop себе на уме'
+illustration: 'Вася себе на уме, никогда не говорит всей правды.'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [iobj себе] [case на] уме]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вася] [iobj себе] [case на] уме, [conj [advmod никогда] [advmod не] говорит [obj [det всей] правды]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Emotion/Psychological state
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Personality
+family:
+  - |
+    "Emotion/Psychological state"

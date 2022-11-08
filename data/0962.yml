@@ -1,0 +1,72 @@
+---
+record: 962
+name: 'VP-Ipfv Noun-Acc за ~Noun-Ins'
+UD_name: 'VP-Imp N-Acc за N-Ins'
+illustration: 'День за днём они работали на заводе.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Activity происходит на протяжении [одинаковых последовательных промежутков времени]Measure, безо всяких изменений (примеры 1-2) или постепенно развиваясь (примеры 3-5). Слот NP обозначает более поздний этап развития ситуации, а слот NP-Ins — более ранний. Как правило, подразумевается, что действие длится дольше, чем ожидалось (примеры 2, 4-5).
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Activity pågår i [like, påfølgende tidsrom]Measure, uten noen slags endringer (eksempel 1 og 2) eller i gradvis utvikling (eksempel 3-5). Sloten NP betegner en senere etappe i situasjonens utvikling, mens sloten NP-Ins betegner en tidligere. Som regel er det underforstått at handlingen varer lengre enn forventet (eksempel 2, 4 og 5).
+examples:
+  - |
+       Мы [вели измерения в море]Activity [час]Measure за [часом]Measure, [день]Measure за [днём]Measure, [месяц]Measure за [месяцем]Measure.
+  - |
+       [День]Measure за [днём]Measure, [неделю]Measure за [неделей]Measure она [лежала]Activity, отвернувшись к стене.
+  - |
+       Река [год]Measure за [годом]Measure [подмывает высокий берег]Activity.
+  - |
+       Она [умирала]Activity [день]Measure за [днем]Measure, [месяц]Measure за [месяцем]Measure целый год.
+  - |
+       И кто-то медленно, [минута]Measure за [минутой]Measure всё крепче [сжимал мою руку]Activity.
+morphology:
+  - VP
+  - Noun
+  - Acc
+  - Ins
+  - Ipfv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl день [nmod [case за] днём]]]'
+dependency_structure_of_illustration:
+  - '[root [obl День [nmod [case за] днём]] [nsubj они] работали [obl [case на] заводе].]'
+comment: |
+    'См. близкие конструкции 1071, 1073.'
+common_fillers:
+  - день
+  - час
+  - год
+  - неделя
+  - месяц
+  - минута
+  - днём
+  - часом
+  - неделей
+  - месяцем
+  - минутой
+references:
+  - |
+    Богуславская, О. 2019. Конструкции свременными словами. Scando-Slavica 65:1, 62-76.
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

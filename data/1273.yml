@@ -1,0 +1,82 @@
+---
+record: 1273
+name: '(Чтобы) никакой-Gen NP-Gen!'
+UD_name: '(Чтобы) никакой-Gen NP-Gen!'
+illustration: 'Никаких разговоров!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает запрет на возможное действие собеседника, которое конкретизируется через [способ его реализации]Theme (инструмент, направление, образ действия и др.). Данное действие или способ его реализации, как правило, названо или фигурирует в предыдущем контексте (в речи самого говорящего или в его разговоре с собеседником). Запрет является командой, которую отдает говорящий собеседнику или группе лиц безапелляционным тоном. Как правило, участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок, администрация учреждения vs посетители). Участник, которому адресован запрет, не называется, потому что понятен из ситуации. Как правило, такой запрет используется только в устной форме.
+  - english: |
+       This construction expresses a prohibition against a possible action by the interlocutor that is specified by the [implementation method]Theme (instrument, direction, manner of action etc.). This action or implementation method is usually mentioned or appears in a previous context (by the speaker themself or in conversation with the interlocutor). Normally the prohibition is a command that the speaker gives the interlocutor or a group of people in a peremptory tone. The participant who states the prohibition has higher status in the social hierarchy than the person to whom the prohibition is addressed (for example, the relative status of boss vs. subordinate, adult vs. child, administration of an institution vs. guests). The participant to whom the prohibition is addressed is not mentioned as it is clear from the situation. This prohibition is usually only used in oral speech.
+  - norwegian: |
+       Konstruksjonen uttrykker et forbud som omfatter en mulig handling fra samtalepartnerens side og spesifiseres ved hjelp av [måten den iverksettes på]Theme (redskapet, retningen, handlemåten mm.). Handlingen eller måten den iverksettes på er som regel nevnt eller figurerer i foregående kontekst (i talerens talestrøm eller samtale med samtalepartneren). Forbudet er en ordre som taleren gir samtalepartneren eller en gruppe personer på en kontant måte. Deltakeren som innfører forbudet, har som regel høyere rang enn den forbudet gjelder (f.eks. som sjef vs. underordnet, voksen vs. barn, ansatt vs. besøkende). Deltakeren forbudet adresseres til, nevnes ikke, ettersom det fremgår av situasjonen hvem vedkommende er. Forbud som dette brukes stort sett kun i muntlig tale.
+examples:
+  - |
+       И на будущее: никаких [гвоздей]Theme! Используйте только шурупы!
+  - |
+       Ты собираешься на завод?.. Никакого [завода]Theme! Не пущу! Вот еще!
+  - |
+       Ты должен сдаться на великодушие победителя. Никаких [условий]Theme!
+  - |
+       Сядь на колени и медленно выпрями спину. И никаких [резких движений]Theme!
+  - |
+       Гимны играете? Чтобы никаких [гимнов]Theme! ― Никаких гимнов больше не будет, ваше превосходительство.
+morphology:
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Theme
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [det никаких] NP-Gen!]'
+dependency_structure_of_illustration:
+  - '[root [det Никаких] разговоров!]'
+comment: |
+    'Конструкция также может употребляться для указания на отсутствие чего-либо: Никакого эффекта. См. синонимичную конструкцию чтобы (никакой-Gen) NP-Gen PP/Adv (не было)! (Чтобы животных здесь не было!).'
+common_fillers:
+  - следы
+  - улики
+  - свидетели
+  - посторонние
+  - милиция
+  - претензии
+  - оправдания
+  - споры
+  - драки
+  - сюрпризы
+  - слова
+  - прения
+  - смешки
+  - ссоры
+  - жалобы
+  - протесты
+  - разговоры
+  - глупости
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+family:
+  - |
+    ""

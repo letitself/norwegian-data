@@ -1,0 +1,51 @@
+---
+record: 960
+name: 'дела (у NP-Gen) Cop плохи'
+UD_name: 'дела (у NP-Gen) Cop плохи'
+illustration: 'Дела у него плохи.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj дела] [obl [case у] NP-Gen] [cop Cop] плохи]'
+  - '[root [nsubj дела] [cop Cop] плохи]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Дела] [obl [case у] него] плохи.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Assessment of an entity"

@@ -1,0 +1,61 @@
+---
+record: 457
+name: 'с виду Adj NP'
+UD_name: 'с виду Adj NP'
+illustration: 'Старик был с виду спокоен.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий характеризует [некоторый объект]Theme или [участника]Participant через указание на его [внешние качества]Evaluation. Оценка объекта по этим внешним качествам может оказаться ошибочной (примеры 3-5). Описание реальной ситуации может вводиться с помощью клаузы с противительным союзом («а», «но»).
+  - norwegian: |
+       Konstruksjonen betyr at taleren karakteriserer [et gitt objekt]Theme eller [en deltaker]Participant ved å vise til vedkommendes [ytre]Evaluation. Vurderingen av objektet, basert på dets ytre, kan vise seg å være feilaktig (eksempel 3-5). En beskrivelse av den reelle situasjonen kan innledes av en leddsetning med en motsetningskonjunksjon ("а" eller "но").
+examples:
+  - |
+       За домом с виду [нестарая]Evaluation [женщина]Agent что-то высматривала на грядках.
+  - |
+       С виду [он]Participant достаточно [замкнутый]Evaluation.
+  - |
+       Я сорвал с виду [гнилое]Evaluation [яблоко]Theme, но оно оказалось свежим.
+  - |
+       Ещё на дне коробки лежала [бледно-жёлтая мужская рубашка]Theme для Володи, с виду [обычная]Evaluation, но когда мы её развернули, оказалось, что во всю спину вышита на ней огромная цветная бабочка!
+  - |
+       Мы [мешки с цементом]Theme вчера таскали, вроде [небольшие]Evaluation с виду, а тяжелые такие, заразы.
+morphology:
+  - Adj
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Evaluation
+  - Agent
+  - Theme
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod [obl [case с] виду] Adj] NP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Старик] [cop был] [obl [case с] виду] спокоен.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - обычный
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+family:
+  - |
+    ""

@@ -1,0 +1,74 @@
+---
+record: 252
+name: 'NP-Nom обойтись NP-Dat в NumCrd-Acc NP'
+UD_name: 'NP-Nom обойтись NP-Dat в NumCrd-Acc NP'
+illustration: 'Новая сумка мне обошлась в тысячу рублей.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает итоговую стоимость [товара]Theme, которую оплатил или оплатит [покупатель]Experiencer. Называется [количество]Quantity [единиц]Measure определенной валюты (рубли, доллары, евро и др.). Если использовано числительное «один» или «одна», то [единица измеренения]Measure стоит в винительном падеже (в один рубль), в остальных случаях в родительном падеже (в два рубля).
+  - english: |
+       This construction denotes the total cost of a [product]Theme, which has been paid or will be paid for by the [buyer]Experiencer. A [number]Quantity of [units]Measure of a particular currency (roubles, dollars, euros etc.) is given. If the numerals "один" or "одна" (both meaning 'one') are used, the [unit of measurement]Measure is in the accusative case (as in "один рубль" 'one rouble'), otherwise the number is in the genitive (as in "два рубля" 'two roubles').
+  - norwegian: |
+       Konstruksjonen betegner en [vares]Theme sluttpris, som [kjøperen]Experiencer har betalt eller kommer til å betale. [Et antall]Quantity [enheter]Measure av en bestemt valuta (rubler, dollar, euro m.m.) er oppgitt. Hvis tallordet "один" eller "одна" brukes, står [målenheten]Measure i akkusativ (в один рубль), ellers i genitiv (в два рубля).
+examples:
+  - |
+       По предварительным расчетам, [музей]Theme обойдётся [владельцу]Experiencer в [20 млн]Quantity [долларов]Measure.
+  - |
+       К примеру, [шесть снежинок ручной работы]Theme обойдутся [вам]Experiencer в [110]Quantity [рублей]Measure.
+  - |
+       По некоторым данным, [автоматизированная скоринговая система и персонал]Theme обошлись [банку]Experiencer в [миллионы]Quantity [долларов]Measure.
+  - |
+       [Это новшество]Theme может обойтись [городу]Experiencer в [несколько сотен тысяч]Quantity [долларов]Measure.
+  - |
+       Врач говорит пациенту: ― [Операция]Theme обойдется [вам]Experiencer в [50 тысяч]Quantity.
+morphology:
+  - NP
+  - Nom
+  - NumCrd
+  - Acc
+  - Dat
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - Theme
+  - Experiencer
+  - Measure
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] обойтись [iobj NP-Dat] [obl [case в] NumCrd-Acc] [obl NP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Новая] сумка] [iobj мне] обошлась [obl [case в] тысячу] [obl рублей].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - городу
+  - бюджету
+  - стране
+  - компании
+  - мне
+  - ему
+  - рублей
+  - долларов
+  - евро
+references:
+  - |
+    No references
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Money
+family:
+  - |
+    ""

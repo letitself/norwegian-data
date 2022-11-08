@@ -1,0 +1,60 @@
+---
+record: 73
+name: 'время от времени Cl'
+UD_name: 'время от времени Cl'
+illustration: 'Время от времени я перестаю что-либо успевать.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторая ситуация]Situation имеет место многократно, но реже, чем ожидается, не часто, иногда.
+  - english: |
+       This construction indicates that a given [situation]Situation will occur multiple times, but not as often as expected, only sometimes.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt situasjon]Situation inntreffer flere ganger, men sjeldnere enn antatt, ikke ofte, bare av og til.
+examples:
+  - |
+       Время от времени [появляются издатели]Situation, готовые потратить большую сумму денег на очередной новый проект.
+  - |
+       Не забудьте время от времени [помешивать фондю]Action.
+  - |
+       Время от времени [мне снился Вадим.]Situation Сон повторялся в течение многих лет, однообразный, явственный: я шел по Невскому и встречал Вадима.
+  - |
+       Короче говоря, познакомилась я с одним человеком, стали мы время от времени [встречаться]Action, болтали на разные темы, ходили в театры.
+  - |
+       Везде нужен порядок, в любой организации время от времени [нужно проводить инвентаризацию.]Situation
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl время [nmod [case от] времени]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl Время [nmod [case от] времени]] [nsubj я] перестаю [xcomp [obj что-либо] успевать].]'
+comment: |
+    'Эта конструкция не несет смысла граудального развития действия и обозначает 'иногда', в отличие от конструкции 927.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Raritive
+family:
+  - |
+    ""

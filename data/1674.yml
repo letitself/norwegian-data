@@ -1,0 +1,66 @@
+---
+record: 1674
+name: 'NP-Nom завершиться/закончиться NP-Ins'
+UD_name: 'NP-Nom завершиться/закончиться NP-Ins'
+illustration: 'День закончился ужином в дорогом ресторане.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое действие или событие является [результатом]Result (примеры 1, 2), финальной стадией (пример 3) или [последним мероприятием]Result (примеры 4, 5) [более продолжительного события]Event.
+examples:
+  - |
+       [Встреча]Event закончилась [победой испанцев]Result со счетом 5: 0.
+  - |
+       [Полуторачасовая беседа]Event завершилась [подписанием соглашений]Result о создании филиалов российских вузов в некоторых других странах.
+  - |
+       [Семинар]Event завершился [свободной дискуссией участников]Result по обсуждаемой теме.
+  - |
+       [Торжественная церемония]Event закончилась [роскошным банкетом]Result.
+  - |
+       [Фестиваль]Event завершился [финальным концертом лауреатов и членов жюри]Result.
+morphology:
+  - NP
+  - Nom
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Result
+  - Event
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] завершиться [iobj NP-Ins]]'
+  - '[root [nsubj NP-Nom] закончиться [iobj NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj День] закончился [iobj ужином [nmod [case в] [amod дорогом] ресторане]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - встреча
+  - война
+  - битва
+  - беседа
+  - церемония
+  - победа
+  - провал
+  - поражение
+  - ничья
+  - аплодисменты
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Terminative
+family:
+  - |
+    ""

@@ -1,0 +1,57 @@
+---
+record: 1284
+name: 'Cl, поскольку Cl'
+UD_name: 'Cl, поскольку Cl'
+illustration: 'Поскольку английский я знаю недостаточно хорошо, приходится писать по-русски.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что одно [действие или ситуация]Cause является причиной другого [действия]Action, [ситуации]Situation или [мнения участника]Evaluation.
+  - norwegian: |
+       Konstruksjonen betyr at én [handling eller situasjon]Cause er årsak til en annen [handling]Action, [situasjon]Situation eller [mening deltakeren har]Evaluation.
+examples:
+  - |
+       [За качество можно не беспокоиться]Situation, поскольку [оборудование и дизайн - итальянского происхождения]Cause.
+  - |
+       [После проверки в нескольких домах лифты были остановлены]Action, поскольку [у них закончился срок службы]Cause.
+  - |
+       [Это суждение не вполне правильно]Evaluation, поскольку [отражает только один аспект данного понятия]Cause.
+  - |
+       [Я люблю возвращаться в Россию]Evaluation, поскольку [на родине, как известно, всегда лучше]Cause.
+  - |
+       [Сила давления воды на дно сосуда не изменится]Situation, посколько [после таяния льда не изменится вес содержимого в сосуде]Cause.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Action
+  - Cause
+  - Evaluation
+  - Situation
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [mark поскольку] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Поскольку] [obj английский] [nsubj я] знаю [advmod [advmod недостаточно] хорошо]], приходится [csubj писать [advmod по-русски]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

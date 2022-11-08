@@ -1,0 +1,48 @@
+---
+record: 1596
+name: 'эпизодически VP'
+UD_name: 'эпизодически VP'
+illustration: 'Эпизодически это лицо появляется на телеэкране.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое событие]Event происходит нерегулярно и нечасто, реже, чем ожидается.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt hendelse]Event inntreffer uregelmessig og sjelden, sjeldnere enn forventet.
+examples:
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - Event
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root [advmod эпизодически] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Эпизодически] [nsubj [det это] лицо] появляется [obl [case на] телеэкране].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Raritive
+  - type: Quantification
+    subtypes:
+      - type: Existential
+family:
+  - |
+    ""

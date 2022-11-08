@@ -1,0 +1,56 @@
+---
+record: 854
+name: 'верно, Cl'
+UD_name: 'верно, Cl'
+illustration: 'Верно, что-то такое случилось в Москве, чего никто ещё не знает.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная. Слово "верно" может находиться в начале, середине или конце предложения.
+examples:
+  - |
+       В университет он поступил без сдачи вступительных экзаменов. Верно, [помогла ему в этом мама-преподаватель]ContentOfSpeech.
+  - |
+       Ведите скорей домой, их, верно, [ищут]ContentOfSpeech.
+  - |
+       Ты, верно, [забыла, что я просил без меня не выходить]ContentOfSpeech.
+  - |
+       У вас, верно, [есть какие-то пособия]ContentOfSpeech?
+  - |
+       Вам, верно, [странно слышать такое]ContentOfSpeech: как это ― текст стал говорить?
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root [parataxis верно]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Верно], [nsubj что-то [det такое]] случилось [obl [case в] Москве], [acl:relcl [obj чего] [nsubj никто] [advmod ещё] [advmod не] знает].]'
+comment: |
+    'См. близкую конструкцию 2139.'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Strong assumption
+family:
+  - |
+    ""

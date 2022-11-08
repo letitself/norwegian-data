@@ -1,0 +1,74 @@
+---
+record: 131
+name: 'NP-Nom Cop здоров VP-Inf'
+UD_name: 'NP-Nom Cop здоров VP-Inf'
+illustration: 'Он здоров врать.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция характеризует некоторого [участника]Agent как ловкого, искусного, неутомимого в определенной [деятельности.]Activity Способности участника оцениваются высоко и положительно, даже если сам род деятельности может оцениваться иначе. Слово «здоров» используется здесь только в краткой форме. Слот VP-Inf чаще заполняется глаголами несовершенного вида, но встречается и совершенный вид (пример 4).
+  - english: |
+       This construction describes a [participant]Agent as agile, skillful and hardworking in a [specific activity]Activity. The participant's abilities are regarded highly and positively, even when this type of activity can be regarded otherwise. The word "здоров" 'healthy' is only used in the short form here. The VP-Inf slot is most often filled by an imperfective verb, but perfective verbs can also occur (example 4).
+  - norwegian: |
+       Konstruksjonen karakteriserer en gitt [deltaker]Agent som smidig, flink og utholdende i [en bestemt aktivitet.]Activity Deltakerens evner vurderes høyt og positivt, også når selve typen virksomhet kan vurderes annerledes. Ordet "здоров" brukes her kun i kortform. Sloten VP-Inf fylles oftest av verb i imperfektivt aspekt, men perfektivt aspekt forekommer også (eksempel 4).
+examples:
+  - |
+       Ну, давай подерёмся, если [ты]Agent так же здоров [драться]Activity, как здоров [ругаться!]Activity
+  - |
+       Я кому своего попугая ни предлагал ― не берут: не прокормить, [жрать]Activity был здоров, яблоко дай, морковку дай, маковых зерен, рацион у него такой, мы так и до перестройки сами не питались.
+  - |
+       Да, прапрадедушка здоров [сочинять!]Activity Барон Мюнхгаузен по сравнению с ним жалкий враль.
+  - |
+       Да [он]Agent, голландец был, ветеринар, но [выпить]Activity здоров! Три стакана — и ничего.
+  - |
+       ― Ну, ты здоров [дрыхнуть!]Activity ― сказал Валюшок, присаживаясь рядом с кроватью.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Agent
+  - Activity
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] здоров VP-Inf]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] здоров [xcomp врать].]'
+comment: |
+    'См. близкую конструкцию 181.'
+common_fillers:
+  - жрать
+  - поесть
+  - выпить
+  - поспать
+  - спать
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    "Capacity/Intellect"

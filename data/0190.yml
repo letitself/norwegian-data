@@ -1,0 +1,49 @@
+---
+record: 190
+name: 'надо же, Cl'
+UD_name: 'надо же, Cl'
+illustration: 'Надо же, уже приготовили обед.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает удивление говорящего [некоторым событием или состоянием]Event .
+examples:
+  - |
+       Ванина бывшая жена решила неожиданно уехать во Францию, хотя денег совсем не было. Надо же, [как бывает в жизни]Event.
+  - |
+       Надо же, [начало февраля, а у вас еще дома ёлка стоит]Event.
+  - |
+       ― Паша? Это ты? ― спросил Николай Иванович. ― Надо же, [узнал]Event! По голосу узнал! Ну, и память у тебя, Николай Иванович! А ведь столько лет прошло…
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis надо [advmod же]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Надо [advmod же]], [advmod уже] приготовили [obj обед].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Mirative
+family:
+  - |
+    ""

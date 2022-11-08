@@ -1,0 +1,46 @@
+---
+record: 2205
+name: 'NP-Nom набраться NP-Gen'
+UD_name: 'NP-Nom набраться NP-Gen'
+illustration: 'Набралась храбрости, позвонила Гале и всё ей высказала.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Gen
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root набраться [obj NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root Набралась [obj храбрости], [conj позвонила [iobj Гале] [conj [cc и] [obj всё] [iobj ей] высказала]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    См. также Зализняк А. А., Шмелев А.Д. 2000. Введение в русскую аспектологию. Москва. Издательство «Языки русской культуры». С. 114.
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Cumulative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

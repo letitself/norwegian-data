@@ -1,0 +1,62 @@
+---
+record: 1527
+name: 'Adj как чёрт'
+UD_name: 'Adj как чёрт'
+illustration: 'Он страшный как чёрт!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает высокую степень проявления некоторого [свойства]Property у участника ситуации. Как правило, конструкция имеет негативный оттенок, и слот прилагательного Adj заполняется словами «злой», «голодный» и т. д. Иногда конструкция может выражать и положительную оценку (пример 4).
+  - norwegian: |
+       Konstruksjonen betegner at en gitt [egenskap]Property er svært fremtredende hos en deltaker i situasjonen. Som regel har konstruksjonen et negativt anstrøk, og sloten for adjektivet Adj fylles av ord som "злой", "голодный" o.l. Av og til kan konstruksjonen også uttrykke en positiv vurdering (eksempel 4).
+examples:
+  - |
+       Тимоша сидел на террасе с бутылкой пива, явно [злой]Property как черт.
+  - |
+       Я в ресторане с человеком, [голодная]Property как черт.
+  - |
+       Надо бы арестовать, да боязно: бандит-то опасный и наверняка вооружен, да к тому же [силен]Property, как черт, при желании может в окно выкинуть.
+  - |
+       Я приехала из маленького городка в этот большой миллионный город, красивая и [умная]Property, как черт, поступила на филфак.
+  - |
+       Я [упряма]Property, как черт: когда мне с силой и жаром говорят о бессмертии, я уверена, что с этой жизнью все кончается, и наоборот.
+morphology:
+  - Adj
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+semantic_roles:
+  - Property
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[amod Adj [obl [case как] чёрт]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] страшный [obl [case как] чёрт]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - злой
+  - страшный
+  - грязный
+  - голодный
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

@@ -1,0 +1,65 @@
+---
+record: 389
+name: 'я PronPers-Dat VP-Fut!'
+UD_name: 'я PronPers-Dat VP-Fut!'
+illustration: 'Я тебе поору!'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает запрет на [некоторое действие]Action, которое другой участник уже выполняет или собирается выполнять в будущем. Запрет является командой с оттенком угрозы, которую отдает говорящий [собеседнику или группе лиц]Addressee безапелляционным тоном. Как правило, участник, устанавливающий запрет, имеет более высокий статус в социальной иерархии, чем тот, к кому запрет обращен (например, отношения начальник vs подчиненный, взрослый vs ребенок). Обычно такой запрет используется только в устной форме и обращен к собеседнику. Часто слот VP-Fut заполняется глаголом с приставкой по-.
+examples:
+  - |
+       ― Эй, кто там балуется с часами? ― донесся крик Гуна. ― Я [тебе]Addressee [побалуюсь]Action! Слезай!
+  - |
+       Учиться не хочешь, хочешь только вкусно жрать, гулять и смотреть телевизор. Так я [тебе]Addressee [погуляю]Action! Месяц из дому не выйдешь!
+  - |
+       ― Пойдем, отец. Дай Валентине с Серегой поговорить. ― Я [ей]Addressee [поговорю]Action!
+  - |
+       ― Мы его не достанем. Неужели ты не видишь, что он с нами играет? ― Я [ему]Addressee [поиграю]Action! ― В лучшем случае он просто издевается. В худшем ― заманивает в ловушку.
+  - |
+       Валек вскарабкался по небольшому выступу и заглянул в окно первого этажа обычной кирпичной пятиэтажки, в котором, как ему показалось, только что мелькнул обнаженный женский силуэт…Неизвестно, как еще долго он мог любоваться этим зрелищем, но тут, словно вой милицейской сирены, раздался голос дворничихи тети Фаи: ― Ты чего это, окаянный, задумал, я [тебе]Addressee сейчас [залезу]Action в форточку, я [тебе]Addressee [залезу]Action! Эта фраза тотчас возымела свое отрезвляющее действие ― Валек спрыгнул на землю.
+morphology:
+  - PronPers
+  - Dat
+  - VP
+  - Fut
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - Action
+  - Addressee
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj я] [iobj PronPers-Dat] VP-Fut!]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [iobj тебе] поору!]'
+comment: |
+    'См. близкие конструкции 614, 652'
+common_fillers:
+  - тебе
+  - вам
+  - ему
+  - поору
+  - побалуюсь
+references:
+  - |
+    Letuchiy, A. B. (2007). Russkij “ugrozativ” i ego rodstvenniki [Russian construction of threat and its relatives]. Komp’juternaja lingvistika i intellektual’nye texnologii [Computational Linguistics and Intellectual Technologies], 375-381; Мельчук И.А. Об одном словообразовательном аффиксе и об одной синтаксической фраземе современного русского языка // Мельчук И. А. Русский язык в модели «СмыслÛТекст». М.–Вена, «Языки русской культуры», 1995: 325-346.
+semantic_types:
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Non-standard subject marking
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+  - type: Threat
+family:
+  - |
+    ""

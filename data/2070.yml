@@ -1,0 +1,43 @@
+---
+record: 2070
+name: 'изволь(те) VP-Inf'
+UD_name: 'изволь(те) VP-Inf'
+illustration: 'Использовал компьютер без спроса – изволь отвечать.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root изволить-Imp [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Использовал [obj компьютер] [obl [case без] спроса] – [parataxis изволь [xcomp отвечать]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Request
+family:
+  - |
+    ""

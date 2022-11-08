@@ -1,0 +1,59 @@
+---
+record: 1669
+name: 'NP-Nom как VP-Pfv.Imp.Sg'
+UD_name: 'NP-Nom как VP-Perf.Imper.Sing'
+illustration: 'А Маша как поскользнись и упала на спину.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое мгновенное [действие]Action было совершено крайне внезапно и неожиданно для других участников. Часто конструкция используется в нарративе, когда говорящий пересказывает некоторую ситуацию, как если бы она случилась прямо в момент речи.
+examples:
+  - |
+       А она как [ляпни глупость]Action, вот и испортила о нас все впечатление.
+  - |
+       Он как [стегни]Action коня ― и помчался прямиком в лес.
+  - |
+       И тут чайник как [опрокинься]Action! Ошпарило и меня, и сестру мою.
+  - |
+       Страна мирно спала — а тут как [приди]Action солдаты, да как [пожги]Action деревни!
+  - |
+       Разлили шампанское, включили телевизор и гирлянды на елке — и тут провода как [бахни]Action, как [задымись]Action! Пришлось вместо Нового года тушить пожар.
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Imp
+  - Pfv
+  - Sg
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - Action
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [mark как] VP-Imp]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj Маша] [mark как] поскользнись [conj [cc и] упала] [obl [case на] спину].]'
+comment: |
+    'См. близкую конструкцию 511 NP-Nom (как) давай VP-Inf (Он как давай петь.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Mirative
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+family:
+  - |
+    ""

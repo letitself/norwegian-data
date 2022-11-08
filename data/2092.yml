@@ -1,0 +1,43 @@
+---
+record: 2092
+name: 'VP вопреки NP-Dat'
+UD_name: 'VP вопреки NP-Dat'
+illustration: 'Вопреки всем прогнозам, на улице была хорошая погода.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Dat
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [case вопреки] NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [advmod [case Вопреки] [det всем] прогнозам], [case на] улице [cop была] [nsubj [amod хорошая] погода].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+family:
+  - |
+    ""

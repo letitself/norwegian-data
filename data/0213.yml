@@ -1,0 +1,67 @@
+---
+record: 213
+name: 'не VP ни NP-Gen'
+UD_name: 'не VP ни NP-Gen'
+illustration: 'За день он не прочитал ни страницы.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального [кванта]Theme. Указание на минимальное количество может подчеркиваться с помощью числительного "один" (примеры 4-5).
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og betegner en kategorisk (fullstendig) avvisning av en [handling]Action ved å avvise dens minste [bestanddel]Theme.
+examples:
+  - |
+       За эти месяцы в газете я не [написал]Action ни [строки]Theme.
+  - |
+       Я ни [звука]Theme не [услышал]Action из зала и тогда, когда песня закончилась.
+  - |
+       За свои 47 лет он ни [дня]Theme не [работал]Action на обычной работе.
+  - |
+       Граждане, не [трогайте]Action ни [одного камня]Theme, охраняйте памятники, здания, старые вещи, документы ― всё это ваша история, ваша гордость.
+  - |
+       Он не [сделал]Action ни [одного домашнего задания]Theme за полгода.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] VP [advmod ни] [obj NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case За] день] [nsubj он] [advmod не] прочитал [advmod ни] [obj страницы].]'
+comment: |
+    'См. близкие конструкции 1157 ни черта́ не VP, 1158 ни шагу не VP, 1159 ни крошки не VP, 1160 ни глотка не VP, 1161 ни копейки/гроша не VP, 2346 ни минуты/секунды не VP, 1777 ни слова не VP, 2345 ни капли не VP; 229 (у NP-Gen) ни капли NP-Gen нет'
+common_fillers:
+  - страница
+  - строка
+  - день
+  - грамм
+  - звук
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+family:
+  - |
+    ""

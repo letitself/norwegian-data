@@ -1,0 +1,92 @@
+---
+record: 1662
+name: 'VP NumCrd NP (тому) назад'
+UD_name: 'VP NumCrd NP (тому) назад'
+illustration: 'Он закончил университет три года назад.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation имела место в прошлом, после неё до момента речи прошло некоторое [количество]Quantity [лет]Measure или, реже, [других промежутков времени (часов, дней, недель и т.п.)]Measure. В нарративе конструкция может указывать на ситуацию, которая имела место до другого события в прошлом. В современном русском языке вариант без слова «тому» преобладает, вариант со словом «тому» встречается реже. Слово «тому» чаще встречается в конструкции с обозначением длинных периодов времени (год, век),  а не коротких (час, минута, секунда). Числительное «один» на месте NumCrd используется редко, обычно оно опускается и остается только единица измерения времени («год тому назад» значит ‘один год тому назад’, см. примеры 3, 4).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation fant sted i fortiden og at det etter dette og frem til taleøyeblikket har gått et gitt [antall]Quantity [år]Measure eller, sjeldnere, [andre tidsavsnitt (timer, dager, uker o.l.)]Measure. I teksten kan konstruksjonen vise til en situasjon i fortiden som fant sted før en annen hendelse. I moderne russisk er versjonen uten ordet «тому» dominerende, og versjonen med ordet «тому» forekommer sjeldnere. Ordet «тому» forekommer oftest i konstruksjoner som betegner lange tidsavsnitt (år, århundre), og ikke korte (time, minutt, sekund). Tallordet «один» på plassen NumCrd brukes sjelden; vanligvis utelates det, og bare tidsenheten står igjen («год тому назад» betyr 'for ett år siden', jf. eksempel 3 og 4).
+examples:
+  - |
+       [Восемь]Quantity [лет]Measure назад [я переехал в Гамбург и с удивлением открыл для себя то, что и на севере Германии то же самое положение]Situation.
+  - |
+       В 1928 г. ([три четверти]Quantity [века]Measure тому назад) [Н. А. Рыбников обозначил]Situation термином "акмеология" тот раздел возрастной психологии, предметной областью которого являются возрасты зрелости и взрослости.
+  - |
+       [Неделю]Measure тому назад, неожиданно вернувшись из командировки, [он оставил]Situation свой "Виллис" в начале улицы и к даче подошёл пешком.
+  - |
+       [Год]Measure назад [я приехал]Situation на филфак читать лекцию минут на двадцать раньше, чем следовало.
+  - |
+       [Письмо Гольдберга к сыновьям пришло]Situation [несколько]Quantity [дней]Measure тому назад.
+morphology:
+  - VP
+  - NumCrd
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - Measure
+  - Situation
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [nummod NumCrd-Acc] год(а) [advmod [obl тому] назад]]]'
+  - '[root VP [obl [nummod NumCrd-Acc] год(а) [advmod назад]]]'
+  - '[root VP [obl [nummod NumCrd-Acc] лет [advmod [obl тому] назад]]]'
+  - '[root VP [obl [nummod NumCrd-Acc] лет [advmod назад]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] закончил [obj университет] [obl [nummod:gov три] года [advmod назад]].]'
+comment: |
+    'См. близкую конструкцию 1537, которая обозначает приблизительный, а не конкретный интервал между ситуацией и моментом речи. В конструкции 1537 чаще возникает слово "тому", чем в конструкции 1662.'
+common_fillers:
+  - года
+  - лет
+  - год
+  - секунды
+  - секунд
+  - секунду
+  - минуты
+  - минут
+  - минуту
+  - часа
+  - часов
+  - час
+  - дня
+  - дней
+  - день
+  - недели
+  - недель
+  - неделю
+  - месяца
+  - месяцев
+  - месяц
+  - века
+  - веков
+  - век
+  - полгода
+  - полвека
+references:
+  - |
+    См. также статью Сай С.С. Динамика развития обстоятельств времени со значением предшествования на интервал в русском языке // М.Д. Воейкова (ред.). Избыточность в грамматическом строе языка [Acta Linguistica Petropolitana. Труды Института лингвистических исследований РАН, том VI, часть 2]. СПб.: Наука, 2010. С. 131–183.
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+  - type: Timeline
+    subtypes:
+      - type: Past
+family:
+  - |
+    ""

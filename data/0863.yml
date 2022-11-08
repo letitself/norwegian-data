@@ -1,0 +1,53 @@
+---
+record: 863
+name: 'NP вкупе с NP-Ins'
+UD_name: 'NP вкупе с NP-Ins'
+illustration: 'Сижу изучаю расписание электричек вкупе с картой Подмосковья.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme вовлечен в определенное действие одновременно с другим [объектом.]Theme
+examples:
+  - |
+       Ныне и вся [поэзия]Theme вкупе с [остальной художественной литературой]Theme уже не пользуется прежней популярностью.
+  - |
+       [Высокий рост, аккуратный вид]Theme вкупе с [его умом]Theme производили впечатление на японских одноклассников.
+  - |
+       Утренняя [прогулка]Theme вкупе с [купанием]Theme даёт  ощущение наполненности, здоровья и сил.
+  - |
+       [Танцы]Theme до упаду вкупе с [хорошим настроением]Theme ― великолепный способ сжечь лишние калории.
+  - |
+       [Вопрос о приватности]Theme нужно рассматривать, конечно, вкупе с [вопросом о публичности]Theme.
+morphology:
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[dep NP [nmod [advmod вкупе] [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root Сижу [parataxis изучаю] [obj расписание [nmod электричек]] [advmod вкупе [obl [case с] картой [nmod Подмосковья]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ним
+  - возможностью
+references:
+  - |
+    No references
+semantic_types:
+  - type: Additive
+family:
+  - |
+    ""

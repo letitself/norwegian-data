@@ -1,0 +1,54 @@
+---
+record: 2013
+name: 'Cl/NP-Nom NP-Gen не касаться'
+UD_name: 'Cl/NP-Nom NP-Gen не касаться'
+illustration: 'Чем я занимаюсь по ночам, тебя не касается!'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - Cl
+  - NP
+  - Nom
+  - Gen
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [csubj Cl] [obj NP-Gen] [advmod не] касаться]'
+  - '[root [nsubj NP-Nom] [obj NP-Gen] [advmod не] касаться]'
+dependency_structure_of_illustration:
+  - '[root [advcl [obj Чем] [nsubj я] занимаюсь [obl [case по] ночам]], [obj тебя] [advmod не] касается!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Concern
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Concern, Discontent"

@@ -1,0 +1,64 @@
+---
+record: 173
+name: 'куда (там) NP-Dat Cop до NP-Gen'
+UD_name: 'куда (там) NP-Dat Cop до NP-Gen'
+illustration: 'Куда Оле до моей дочки. Она ведь такая красивая!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает, что [некоторый участник]Comparee не способен достигнуть уровня [другого участника]Standard, которого говорящий считает эталоном в некоторой сфере. Говорящий относится с недоверием и некоторым пренебрежением к сравниваемому [участнику]Comparee ситуации.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at [en gitt deltaker]Comparee ikke er i stand til å nå nivået til [en annen deltaker]Standard som taleren anser for å være et forbilde på et gitt felt. Taleren forholder seg mistroisk og noe ringeaktende til den [deltakeren]Comparee som blir sammenlignet.
+examples:
+  - |
+       У нас многие девчонки отлично бегали на коньках, но куда [им]Comparee было до [Иры!]Standard
+  - |
+       Ольга уже выполнила первый юношеский разряд в одиночном катании. Куда [мне]Comparee было до [нее]Standard с моим третьим?
+  - |
+       Нет, дочка, куда [мне]Comparee до [героя]Standard!
+  - |
+       Мне скажут: куда [нам]Comparee до [Штатов]Standard с нашей бедностью. И с какой стати помогать другим, когда самим есть нечего.
+  - |
+       Говорят, королева Елизавета II прикупила себе за городом огород, будет там рассаду высаживать. Но куда [ей]Comparee до [нашей дачи]Standard!
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - Comparee
+  - Standard
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root куда [advmod там] [iobj NP-Dat] [cop Cop] [obl [case до] NP-Gen]]'
+  - '[root куда [iobj NP-Dat] [cop Cop] [obl [case до] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root Куда [iobj Оле] [obl [case до] [det моей] дочки].] [root [nsubj Она] [advmod ведь] [det такая] красивая!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 468
+name: 'NP-Nom привлекать NP-Acc в NP-Loc'
+UD_name: 'NP-Nom привлекать NP-Acc в NP-Loc'
+illustration: 'Женщин привлекают в богачах их деньги.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Acc
+  - Loc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] привлекают [obj NP-Acc] [obl [case в] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [obj Женщин] привлекают [obl [case в] богачах] [nsubj [det их] деньги].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Specific emotions
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Specific emotions"

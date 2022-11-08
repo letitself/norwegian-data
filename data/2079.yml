@@ -1,0 +1,58 @@
+---
+record: 2079
+name: 'Разрешите/позвольте представиться, NP-Nom'
+UD_name: 'Разрешите/позвольте представиться, NP-Nom'
+illustration: 'Позвольте представиться, Александр Георгиевич.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция является стандартным способом выражения вежливости со стороны говорящего в ситуации знакомства. Конструкция обозначает, что говорящий проявляет инициативу познакомиться и назвать свое [имя]Name. Конструкция используется в официальной речи, поэтому говорящий кроме имени часто указывает свою должность или статус.
+examples:
+  - |
+       ― Ищу вас по всему театру, ― заговорил новый знакомый, ― позвольте представиться ― режиссёр [Фома Стриж]Name.
+  - |
+       ― Позвольте представиться ― [Жора Авдеенко]Name, моряк дальнего плавания.
+  - |
+       Разрешите представиться, – церемонно обратился он к Татьяне, – майор [Селуянов]Name, в быту [Николай]Name, можно просто [Коля.]Name
+  - |
+       ― В таком случае позвольте представиться, ― сказал мой собеседник, слегка приподнимаясь: ― [Иван Ильич Шамохин]Name
+  - |
+       ― Разрешите представиться, баронесса [Макмайер]Name, приехала из Парижа.
+morphology:
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root разрешите [xcomp представиться], [parataxis NP-Nom]]'
+  - '[root позвольте [xcomp представиться], [parataxis NP-Nom]]'
+dependency_structure_of_illustration:
+  - '[root Позвольте [xcomp представиться], [parataxis Александр [flat:name Георгиевич]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Greeting
+  - type: Salient property
+    subtypes:
+      - type: Naming
+family:
+  - |
+    ""

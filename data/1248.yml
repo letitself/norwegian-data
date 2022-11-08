@@ -1,0 +1,72 @@
+---
+record: 1248
+name: 'по́лно PronPers-2.Dat VP-Ipfv.Inf!'
+UD_name: 'по́лно PronPers-2.Dat VP-Imp.Inf!'
+illustration: 'По́лно тебе плакать!'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий хочет, чтобы [собеседник]Participant прекратил выполнять [некоторое действие]Action, которое происходит в данный момент. Говорящий оценивает это действие отрицательно, так как оно причиняет ему дискомфорт или кажется слишком длительным. Как правило, речь идет о негативно оцениваемом поведении (врать, ссориться, спорить, примеры 1, 2) либо о негативном эмоциональном состоянии (грустить, горевать, обижаться, пример 3). В редких случаях речь идет о положительном или нейтральном действии, которое в данной ситуации интерпретируется как неуместное (пример 4). Конструкция произносится с дружеским тоном утешения или снисхождения к собеседнику. В ситуации утешения говорящий часто является старше по возрасту, чем собеседник (примеры 3). Побуждение может быть обращено к одному лицу или к группе лиц, которая не включает говорящего. В обоих случаях уместно слово «по́лно». Иногда вместо слова «по́лно» можно встретить уважительную форму «по́лноте» (пример 5), которая имеет еще более устаревший характер и может также использоваться при обращении как к одному лицу, так и к группе лиц.
+  - english: |
+       This construction is used when the speaker wants the [interlocutor]Participant to stop carrying out an [action]Action that is ongoing. The speaker evaluates this action negatively, as it causes them discomfort or seems too long. As a rule, the construction refers to negatively regarded behaviors  (lying, disputing, arguing, examples 1,2) or about a negative emotional state (being sad, grieving, being offended, example 3). In rare cases it refers to a positive or neutral action, that is regarded as inappropriate in the given situation (example 4). The construction is spoken in a friendly tone of comfort or leniency towards the interlocutor. In the context of comfort the speaker is often older than the interlocutor (example 3). The speaker may address an individual person or a group of people that does not include the speaker. In both cases the word "по́лно" is appropriate. Sometimes the word "по́лно" is replaced with the word "по́лноте" (example 5), which sounds more old fashioned and can be used when addressing both one person or a group of people.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren vil at [samtalepartneren]Participant skal slutte å utføre en pågående [handling]Action. Taleren har et negativt syn på handlingen fordi den volder ubehag eller synes å vare for lenge. Som regel dreier det seg om en type atferd som betraktes som negativ (lyve, krangle, strides, eksempel 1 og 2) eller en negativ humørtilstand (sørge, gremmes, bli fornærmet, eksempel 3). I sjeldne tilfeller kan det være tale om en positiv eller nøytral handling som i den konkrete situasjonen betraktes som upassende (eksempel 4). Konstruksjonen fremføres i en vennskapelig tone av trøst eller overbærenhet overfor samtalepartneren. I en trøstende kontekst er taleren ofte eldre enn samtalepartneren (eksempel 3). Anmodningen kan rettes til én person eller en gruppe personer som ikke inkluderer taleren. I begge tilfeller er ordet 'по́лно' på sin plass. Av og til er ordet 'по́лно' erstattet av ordet 'по́лноте' (eksempel 5), som har et noe foreldet preg og likeledes kan brukes overfor så vel én person som en gruppe personer.
+examples:
+  - |
+       ― Конечно, вы, товарищ лейтенант. И полно [вам]Participant [ругаться]Action. Ешьте суп, а то совсем холодный будет.
+  - |
+       ― Да полно [вам]Participant [ссориться]Action, девицы! ― Петь лучше давайте!
+  - |
+       К удивлению матери, Иринка, хотя и извинилась за сломанную куклу и за то, что она была такою злою и скверною девочкой, тем не менее сама отказалась идти на именины к бабушке и объявила, что желает остаться дома. ― Ну ладно, ладно, уж полно [тебе]Participant [грустить-то]Action! ― уговаривала теперь девочку сама Дарья Михайловна. ― Мало что было да прошло, и поминать не следует, пойдем-ка лучше со мной к бабушке, она, наверное, ждет нас.
+  - |
+       — Ну, полно [тебе]Participant [скромничать]Action, Яновский! — вступился Прокопович. — У него, господа, я знаю, есть тоже и стихи и проза, и очень недурные.
+  - |
+       ― Полноте [вам]Participant [трусить]Action, Антониночка, глядите, какое море нынче!.. С вышки террасы оно было видно как на ладони. Спокойный, тихий, голубовато-серый залив казался неподвижным, роскошным зеркалом. (1907)
+morphology:
+  - PronPers
+  - 2
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root полно [iobj PronPers-2.Dat] [csubj VP-Ipfv.Inf]!]'
+dependency_structure_of_illustration:
+  - '[root Полно [iobj тебе] [csubj плакать]!]'
+comment: |
+    'Частотными заполнителями являются глаголы, обозначающие поведение, оцениваемое отрицательно; глаголы, обозначающие действия, связанные с негативными эмоциями, жалобами, плохим настроением; глаголы, обозначающие неуместное бездействие. Ограничение на заполнение местоимения: тебе, вам, Вам. Синонимы: хватит, достаточно.'
+common_fillers:
+  - тебе
+  - вам
+  - врать
+  - ссориться
+  - зубоскалить
+  - грустить
+  - горевать
+  - убиваться
+  - оправдываться
+  - скромничать
+references:
+  - |
+    См. также статью Рахилина Е. В. Кондуктор, нажми на тормоза... // Компьютерная лингвистика и интеллектуальные технологии: По материалам ежегодной Международной конференции «Диалог» (2013). Т. 1. М.: Изд-во Российского государственного гуманитарного университета. 2013. С. 665–673.
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+family:
+  - |
+    "Family of prohibitive constructions Quantitative constructions 'enough of doing X' , milder tone that that of the standard prohibition"

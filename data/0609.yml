@@ -1,0 +1,45 @@
+---
+record: 609
+name: 'PronPers-Dat NP-Dat Cop Pred'
+UD_name: 'PronPers-Dat NP-Dat Cop Praedic'
+illustration: 'Мне ушам холодно.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - PronPers
+  - Dat
+  - NP
+  - Cop
+  - Pred
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj PronPers-Dat] [obl NP-Dat] [cop Cop] Pred]'
+dependency_structure_of_illustration:
+  - '[root [iobj Мне] [obl ушам] холодно.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

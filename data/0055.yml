@@ -1,0 +1,64 @@
+---
+record: 55
+name: 'NP весом/массой (в) NumCrd NP'
+UD_name: 'NP весом/массой (в) NumCrd NP'
+illustration: 'баржа весом в шесть тонн'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется при измерении большой тяжести / веса [объекта]Theme в стандартных [единицах]Quantity меры тяжести / веса, прежде всего килограммах, пудах, тоннах. Если использовано числительное «один» или «одна», то [единица измерения]Measure [объекта]Theme после предлога «в» стоит в винительном падеже, в остальных случаях после предлога «в» в родительном падеже. Если нет предлога «в», то числительное стоит в именительном падеже.
+  - english: |
+       This construction is used when measuring a massive or heavy [object]Theme using standard [units]Quantity of weight or mass, usually in kilograms, poods (1 pood = 36 lb or 16.38 kg), or tons. If the numeral ‘one’ is used, then the [unit of measure]Measure of the [object]Theme after the preposition в ‘in’ is in the Accusative case, whereas otherwise the preposition в ‘in’ is followed by the Locative case. If the preposition в ‘in’ is not used, the numeral is in the Nominative case.
+  - norwegian: |
+       Konstruksjonen anvendes i forbindelse med at [et objekt]Theme med stor tyngde/vekt måles i standardiserte [målenheter]Quantity for tyngde/vekt, først og fremst i kilo, pud og tonn. Hvis tallordet er 'один', står [objektets]Theme [målenhet]Measure i akkusativ kasus.
+examples:
+  - |
+       Мускульная сила каждого работника позволяет ему поднять и перетащить [камень]Theme весом в [пять]Quantity [килограмм]Measure.
+  - |
+       Материалы собрали в [770 контейнеров]Theme общим весом в [десять]Quantity [тонн]Measure.
+  - |
+       [Один домашний торт]Theme весом в [два]Quantity [килограмма]Measure обходился нам не очень дорого.
+  - |
+       Сконструированный Джоулем электромагнит поднимал [груз]Theme весом в [одну тысячу триста]Quantity [килограммов.]Measure
+  - |
+       Вот уже почти два десятилетия исследователи экспериментируют с небольшими космическими аппаратами. Важной вехой на этом пути стало появление [спутника]Theme  CubeSat с длиной стороны 10 сантиметров и массой [один]Quantity [килограмм.]Measure
+morphology:
+  - NP
+  - NumCrd
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - Theme
+  - Measure
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod весом [nmod [case в] [nummod NumCrd-Acc] NP]]]'
+  - '[dep NP [nmod весом [nmod [nummod NumCrd-Nom] NP]]]'
+  - '[dep NP [nmod массой [nmod [case в] [nummod NumCrd-Acc] NP]]]'
+  - '[dep NP [nmod массой [nmod [nummod NumCrd-Nom] NP]]]'
+dependency_structure_of_illustration:
+  - '[obj Баржа [nmod весом [nmod [case в] [nummod:gov шесть] тонн]]]'
+comment: |
+    'См. близкие конструкции 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP (Велодорожка длиной шесть километров), 1546 NP объёмом (в) NumCrd-Acc NP (Книга объёмом в сто страниц).'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Weight
+family:
+  - |
+    "A family of constructions also describe physical parameters of an object, such as size, length or weight."

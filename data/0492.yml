@@ -1,0 +1,67 @@
+---
+record: 492
+name: '(NP-Dat) Cop в лом VP-Inf'
+UD_name: '(NP-Dat) Cop в лом VP-Inf'
+illustration: 'Маше вставать с кровати было в лом.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает наивысшую степень нежелания [участника]Experiencer выполнять некоторое [действие]Action. Отрицательное отношение к действию заключается в отсутствии энтузиазма, состоянии лени и апатии. Используется исключительно в разговорной речи между равными по статусу участниками.
+  - norwegian: |
+       Konstruksjonen uttrykker den høyeste grad av en [deltakers]Experiencer motvilje mot å utføre en gitt [handling]Action. Den negative holdningen til handlingen består i mangel på entusiasme og en tilstand av kjedsomhet og apati. Brukes utelukkende i dagligtale mellom deltakere med lik status.
+examples:
+  - |
+       А теперь пару десятков километров [вам]Experiencer [пройти]Action в лом?
+  - |
+       Mы поражались тому, что [ему]Experiencer в лом было [нанять ассистента]Action, который бы за три ночи снял все фактические ошибки в любом его романе.
+  - |
+       И не ты ли отправляла парней за дровами, когда [самой]Experiencer [ходить]Action было в лом.
+  - |
+       С Исаевым теперь у них договор ― как только назревает необходимость, он ей сигналит, и Катя программку инсталлирует, [ей]Experiencer не в лом. Тем более, для финансового директора.
+  - |
+       Просто [народу]Experiencer в лом [тащиться куда-то, да ещё в субботу]Action.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Experiencer
+  - Action
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] [case в] лом [csubj VP-Inf]]'
+  - '[root [cop Cop] [case в] лом [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Маше] [csubj вставать [obl [case с] кровати]] [cop было] [case в] лом.]'
+comment: |
+    'Отрицательная частица "не" ставится перед словам "в лом": "не в лом".'
+common_fillers:
+  - NA
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Volition
+family:
+  - |
+    "Willingness"

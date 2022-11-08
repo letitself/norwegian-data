@@ -1,0 +1,57 @@
+---
+record: 1110
+name: 'как знать, Cl'
+UD_name: 'как знать, Cl'
+illustration: 'Как знать, может ещё встретимся.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает неуверенность говорящего в некотором [утверждении]ContentOfSpeech. У говорящего недостаточно оснований, чтобы точно говорить о каком-либо действии или ситуации. Ситуация оценивается как маловероятная.
+examples:
+  - |
+       Как знать, [может, нам и повезёт]ContentOfSpeech.
+  - |
+       Как знать, [может я по-прежнему буду здесь]ContentOfSpeech. Куплю квартиру, женюсь...
+  - |
+       Как знать, [вдруг это оружие]ContentOfSpeech.
+  - |
+       И как знать, [возможно, обработанные машиной данные подскажут новые способы лечения]ContentOfSpeech.
+  - |
+       Как знать, [не исключено, что неожиданный и громкий успех определил творческое кредо Николая Томского]ContentOfSpeech.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [advmod как] знать]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [advmod Как] знать], [parataxis может] [advmod ещё] встретимся.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Missing source of information
+family:
+  - |
+    ""

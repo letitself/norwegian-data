@@ -1,0 +1,65 @@
+---
+record: 485
+name: '(NP-Dat) стоить VP-Inf'
+UD_name: 'NP-Dat стоить VP-Inf'
+illustration: 'Повару стоит научиться готовить.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и нужным в определенной ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at taleren oppfordrer en annen [deltaker eller seg selv]Causee til å utføre en gitt [handling]Action som taleren mener er på sin plass og påkrevd i en bestemt situasjon.
+examples:
+  - |
+       [Нашим товарищам]Causee стоит [поработать среди таких людей]Action, полезно будет.
+  - |
+       ― Как вы думаете, [молодым]Causee стоит [учиться идти на компромисс]Action?
+  - |
+       [Учащимся и преподавателям]Causee стоит [посмотреть данное кино]Action, возможно, найдут ответы на свои проблемные вопросы.
+  - |
+       Тут нужна помощь, возможно, [государству]Causee стоит [вмешаться]Action.
+  - |
+       Для начала стоило [разобраться]Action, в чем причина болезни.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] стоить [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Повару] стоит [csubj научиться [xcomp готовить]].]'
+comment: |
+    'См. близкую по значению конструкцию 18 (NP-Dat) не мешало бы/не мешает VP-Pfv.Inf (Нам не мешало бы подкрепиться).'
+common_fillers:
+  - NA
+references:
+  - |
+    См. степени облигаторности в статье Цейтлин С. Н. Необходимость // А. В. Бондарко (отв. ред.). Теория функциональной грамматики. Темпоральность. Модальность. Л.: Наука, 1990. С.142–155.
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation as recommendation
+family:
+  - |
+    ""

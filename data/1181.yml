@@ -1,0 +1,75 @@
+---
+record: 1181
+name: 'NP-Nom с NP-Ins Cop одно лицо'
+UD_name: 'NP-Nom с NP-Ins Cop одно лицо'
+illustration: 'Вася с папой одно лицо.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает сильное [внешнее]Parameter сходство [человека]Comparee с [членом его семьи или известной личностью или персонажем с узнаваемой внешностью]Standard. Как если бы они действительно имели одно и то же лицо. Если в слоте NP-Nom существительное или местоимение стоит в единственном числе, то оно называет того участника, которого сравнивают (Вася с папой = Вася и папа). Если в слоте NP-Nom стоит местоимение во множественном числе, то оно называет тех двоих участников, которые сравниваются друг с другом (мы с папой = я и папа).
+  - english: |
+       This construction expresses a comparison and emphasizes a strong [physical]Parameter resemblance between a [person]Comparee and [a member of their family, a famous person, or a person of recognizable appearance]Standard. As if they really had the same face. If the NP-Nom slot contains a singular noun or pronoun, it denotes the participant who is being compared (Вася с папой ‘Vasya with dad’ = Вася и папа ‘Vasya and dad’). If the NP-Nom slot contains a plural pronoun, it denotes the two participants who are being compared to one another (мы с папой - lit. ‘we with dad’ = я и папа ‘me and dad’).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever den sterke [utseendemessige]Parameter likheten mellom [en person]Comparee og [et familiemedlem, en kjent person eller en figur med et gjenkjennelig ytre]Standard. Det er som om de virkelig har ett og samme ansikt. Hvis substantivet eller pronomenet i sloten NP-Nom står i entall, betegner det den deltakeren som blir sammenlignet (Вася с папой = Вася и папа). Hvis det står et pronomen i flertall i sloten NP-Nom, betegner det de to deltakerne som sammenlignes med hverandre (мы с папой = я и папа).
+examples:
+  - |
+       ― [Я]Comparee с [мамой]Standard ― одно лицо.
+  - |
+       На меня? Да ты что… Он вообще на меня не похож… [Он]Comparee скорее с [девушкой своей]Standard одно лицо.
+  - |
+       У меня [сын]Comparee с [дочкой]Standard в новорожденном возрасте тоже были одно лицо.
+  - |
+       «Все-таки [мы]Set с [Павлом]Standard ― одно лицо», ― подумал невольно Николай, но тут же эта мысль была захлестнута водопадом других мыслей.
+  - |
+       Но всё же я от отца достаточно отличаюсь и понимаю, что люди, утверждающие: «Да [вы]Set с [ним]Standard одно лицо!», скорее выдают желаемое за действительное.
+morphology:
+  - NP
+  - Nom
+  - Ins
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - Set
+  - Comparee
+  - Parameter
+  - Standard
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom [nmod [case с] NP-Ins]] [cop Cop] [det одно] лицо]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вася [nmod [case с] папой]] [det одно] лицо.]'
+comment: |
+    'См. близкую по структуре конструкцию 1267.'
+common_fillers:
+  - мы
+  - они
+  - вы
+  - ты
+  - папой
+  - мамой
+  - братом
+  - сестрой
+  - сыбом
+  - дочерью
+  - дочкой
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

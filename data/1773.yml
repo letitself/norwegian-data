@@ -1,0 +1,46 @@
+---
+record: 1773
+name: 'навскидку NumCrd NP-Gen'
+UD_name: 'навскидку NumCrd NP-Gen'
+illustration: 'Получилось навскидку тридцать страниц текста.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NumCrd
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [advmod навскидку] [nummod NumCrd] NP]'
+dependency_structure_of_illustration:
+  - '[root Получилось [advmod навскидку] [nsubj [nummod:gov тридцать] страниц [nmod текста]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

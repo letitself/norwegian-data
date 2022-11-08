@@ -1,0 +1,57 @@
+---
+record: 1307
+name: 'Cl так, чтобы Cl'
+UD_name: 'Cl так, чтобы Cl'
+illustration: 'Уроки мы обычно делаем под музыку так, чтобы гремело на весь дом.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция указывает на [цель]Purpose, ради которого происходит некоторое [событие]Event. Эта цель как бы объясняет, каким образом необходимо выполнять действие, чтобы ее достичь.
+  - norwegian: |
+       Konstruksjonen angir [målet]Purpose med at en gitt [hendelse]Event pågår. Målet forklarer liksom på hvilken måte handlingen må utføres for at målet skal bli nådd.
+examples:
+  - |
+       [Тебе нужно выражать свои мысли педагогически]Event, то есть так, чтобы [эти мысли были понятны даже детям]Purpose.
+  - |
+       [Колесо в этом станке надо постваить ближе к центру]Event, так, чтобы [скоорость вращения со временем увеличилась]Purpose.
+  - |
+       [Консервные банки мы закрываем максимально плотно]Event, так, чтобы [воздух не мог проникнуть внутрь]Purpose.
+  - |
+       [Темы для сочинений мы подбирали максимально разнообразные]Event так, чтобы [каждый студент мог найти в списке интересующую его тему]Purpose.
+  - |
+       [Нам удалось сделать каждый зал и каждый этаж отеля самодостаточным]Event, так, чтобы [музыкальная площадка не была похожа на ресторан, а лобби на гардероб]Purpose.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - Event
+  - Purpose
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [advmod так'
+  - '[advcl [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [obj Уроки] [nsubj мы] [advmod обычно] делаем [obl [case под] музыку] [advmod так, [advcl [mark чтобы] гремело [obl [case на] [det весь] дом]]].]'
+comment: |
+    'См. близкие конструкции 1311 VP с целью VP-Inf (Необходимо произвести дополнительную семантическую проверку с целью установить, могло ли одно значение развиться из другого.), 1312 VP в целях NP-Gen (Лучше сделать инъекцию в целях профилактики.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+  - type: Purpose
+family:
+  - |
+    ""

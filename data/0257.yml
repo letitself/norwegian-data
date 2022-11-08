@@ -1,0 +1,68 @@
+---
+record: 257
+name: 'VP от имени NP-Gen'
+UD_name: 'VP от имени NP-Gen'
+illustration: 'От имени министерства поздравляю вас с юбилеем!'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent [говорит или действует]Action вместо [группы людей или организации]Counteragent, по их поручению или с их согласия.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent [snakker eller handler]Action i stedet for [en gruppe personer eller en organisasjon]Counteragent, på oppdrag fra dem eller med deres samtykke.
+examples:
+  - |
+       От имени [всех мужчин]Counteragent [я]Agent [поздравляю с 8 марта]Action наших дорогих женщин!
+  - |
+       [Выражаю]Action от имени [всего российского народа]Counteragent огромную благодарность за ваш исторический подвиг.
+  - |
+       [Апелляции будут поданы]Action от имени [спортсменок]Counteragent.
+  - |
+       Хочу [выразить]Action Вам от имени [театра]Counteragent и от себя лично большое признание за Ваше участие в спектаклях.
+  - |
+       Не выглядит ли это так, как будто [лжеволонтеры]Agent [собирают пожертвования]Action от имени [фонда]Counteragent?
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Agent
+  - Counteragent
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root VP [obl [case от] имени [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] имени [nmod министерства]] поздравляю [obj вас] [obl [case с] юбилеем]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - действовать
+  - говорить
+  - выступать
+  - благодарить
+  - все
+  - народ
+  - государство
+  - правительство
+  - руководство
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Subject substitution
+family:
+  - |
+    "Subject substitution"

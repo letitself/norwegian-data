@@ -1,0 +1,62 @@
+---
+record: 1359
+name: 'VP в продолжение NP-Gen'
+UD_name: 'VP в продолжение NP-Gen'
+illustration: 'В продолжение дня состоялось несколько серьёзных переговоров.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action длилось [определённое количество времени]Measure. Это количество может быть измерено при помощи стандартных единиц времени (примеры 1-2) или [некоторой продолжительной ситуации]Situation (примеры 3-5).
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt handling]Action har vart [i en viss mengde tid]Measure. Denne mengden kan være målt ved hjelp av vanlige tidsenheter (eksempel 1 og 2) eller [en gitt, langvarig situasjon]Situation (eksempel 3-5).
+examples:
+  - |
+       В продолжение [двадцати лет]Measure он [писал]Action трагедии, комедии и другие произведения.
+  - |
+       В продолжение [месяца]Measure он [успел отлично ознакомиться]Action со всем городом, так как с утра до вечера бродил по улицам.
+  - |
+       В продолжение [последующего разговора]Situation Павел и Иван [не замечают]Action присутствия Валентины.
+  - |
+       И уборщицы в продолжение [дежурства]Situation мучительно [боролись со сном]Action.
+  - |
+       Снова наступило молчание, в продолжение [которого]Situation я [слышал]Action только учащённые вздохи разговаривающих.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root VP [obl [case в] продолжение [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] продолжение [nmod дня]] состоялось [nsubj [nummod:gov несколько] [amod серьёзных] переговоров].]'
+comment: |
+    'См. близкие конструкции 827, 911, 1365'
+common_fillers:
+  - часа
+  - года
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

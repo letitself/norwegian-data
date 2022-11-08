@@ -1,0 +1,54 @@
+---
+record: 903
+name: 'Не всё ли Cop равно (NP-Dat), Sconj Cl?'
+UD_name: 'Не все ли Cop равно (NP-Dat), SCONJ Cl?'
+illustration: 'Тебе не всё ли равно, что они думают?'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cop
+  - NP
+  - Dat
+  - Sconj
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Pronoun
+  - Particle
+  - Predicative
+semantic_roles:
+  - Action
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] всё [advmod ли] [fixed равно] [cop Cop] [iobj NP-Dat], [csubj [dep PronInt] Cl]?]'
+  - '[root [advmod не] всё [advmod ли] [fixed равно] [cop Cop], [csubj [dep PronInt] Cl]?]'
+dependency_structure_of_illustration:
+  - '[root [iobj Тебе] [advmod не] всё [advmod ли] [fixed равно], [csubj [obj что] [nsubj они] думают]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Concern
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Concern"

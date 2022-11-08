@@ -1,0 +1,55 @@
+---
+record: 627
+name: 'VP же NP-Nom!'
+UD_name: 'VP же NP-Nom!'
+illustration: 'Живут же некоторые!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает некоторую зависть говорящего по отношению к другому участнику, который добился определенных успехов, удачлив или счастлив.
+examples:
+morphology:
+  - VP
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [advmod же] [nsubj NP-Nom]!]'
+dependency_structure_of_illustration:
+  - '[root Живут [advmod же] [nsubj некоторые]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior"

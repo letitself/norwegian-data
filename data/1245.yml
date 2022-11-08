@@ -1,0 +1,65 @@
+---
+record: 1245
+name: '(NP-Dat) не следует VP-Ipfv.Inf'
+UD_name: '(NP-Dat) не следует VP-Imp.Inf'
+illustration: 'Не следует расслабляться при отсутствии полицейских на дороге.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий вежливо побуждает [участника]Participant ситуации не выполнять некоторое [действие]Action. Это действие может произойти в будущем либо уже произошло и говорящий не хочет его повторения. Говорящий считает, что выполнение действия не оправдано разумными причинами. Побуждение говорящего звучит в форме совета или рекомендации. Часто участник, к которому совет призыв, не упоминается, и конструкция используется как безличное предложение. Если участник назван, то он может быть представлен целой группой лиц или отдельным лицом, в том числе и собеседником говорящего. Кроме того, говорящий может обращаться к самому себе.
+  - english: |
+       This construction is used when the speaker prompts the participant of the situation to not carry out an [action]Action. This action may occur in the future or it is ongoing. The speaker condemns carrying out this action, and since they regard it so negatively, the action may anger the speaker. The construction sounds like a rhetoric question that expresses the speaker's lack of understanding of other participants, who do not share the same view as the speaker (example 1: как можно бросить = нельзя бросать; example 3: как можно не думать = надо думать). The participant who is being addressed is often not mentioned and the construction is used as an impersonal sentence. Usually the construction is used in dialogue and expresses the speaker's reaction to the actions of the interlocutor. The construction can also be found in expressing the speaker's inner speech, which appears in the form of a dialogue the speaker has with themself (example 5), where the speaker criticizes themself. The speaker may also address the prohibition to themself.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren høflig anmoder [en deltaker]Participant i situasjonen om ikke å utføre [en gitt handling]Action. Handlingen kan inntreffe i fremtiden eller har allerede inntruffet, og taleren vil ikke at den skal gjenta seg. Taleren mener det ikke finnes fornuftige grunner til å utføre denne handlingen. Talerens anmodning fremstår som et råd eller en anbefaling. Deltakeren som rådet er rettet til, er ofte ikke nevnt, og konstruksjonen brukes da som en upersonlig setning. Når deltakeren nevnes, kan det være i egenskap av en gruppe personer eller en enkeltperson, herunder talerens samtalepartner. Dessuten kan taleren henvende seg til seg selv.
+examples:
+  - |
+       [Создавать малышу особые привилегии]Action также не следует ― постарайтесь не ограничивать его, а также свою свободу.
+  - |
+       Я прочитал твое письмо и отвечаю тебе, что пока ты учишься в школе, [тебе]Participant не следует [рассуждать о политике]Action.
+  - |
+       Козерогам понадобится собрать в кулак всю свою волю для того, чтобы противостоять неприятностям, которые принесет с собой эта неделя. Но хотя удача от Козерогов отвернулась, [им]Participant не следует [опускать руки]Action.
+  - |
+       Однако [водителям]Participant не следует [расслабляться]Action из-за отсутствия полицейских на загородных шоссе. На дорогах используются радары и компьютерное наблюдение.
+  - |
+       Мне много раз предлагали профессионально заняться горным туризмом, но я не соглашался. Никогда не следует [смешивать призвание и работу]Action.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] следует [csubj VP-Inf]]'
+  - '[root [advmod не] следует [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] следует [csubj расслабляться] [obl [case при] отсутствии [nmod полицейских] [nmod [case на] дороге]].]'
+comment: |
+    'См. близкие по значению конструкции NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам), NP-Dat не подобает VP-Inf (Не подобает московскому царю кланяться польскому королю), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не нужно/надо VP-Ipfv.Inf (Не нужно опекать детей до безрассудства).'
+common_fillers:
+  - смешивать
+  - расслабляться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Attenuated prohibitive
+family:
+  - |
+    ""

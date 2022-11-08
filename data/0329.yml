@@ -1,0 +1,62 @@
+---
+record: 329
+name: 'то VP, то VP'
+UD_name: 'то VP, то VP'
+illustration: 'Он то плакал, то угрожал.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает чередование двух, как правило, противоположных [ситуаций]Situation во времени (пример 1) или двух [действий]Activity одного [участника]Agent (примеры 2-5). Ситуаций и действий может быть больше двух (примеры 2, 3, 5). Между ситуациями проходит нефиксированный промежуток времени, который оценивается говорящим как краткий, причем иногда интервал настолько краткий, что ситуации могут следовать друг за другом мгновенно.
+  - norwegian: |
+       Konstruksjonen betegner alterneringen mellom to, som regel motsatte, [situasjoner]Situation i tiden (eksempel 1) eller to [handlinger]Activity, utført av samme [deltaker]Agent (eksempel 2-5). Flere enn to situasjoner og handlinger forekommer også (eksempel 2, 3 og 5). Mellom situasjonene er det et udefinert tidsintervall som taleren vurderer som kort, og av og til er intervallet så kort at situasjonene kan avløse hverandre i samme øyeblikk.
+examples:
+  - |
+       И кашель то [прекращался]Situation, то снова [нападал]Situation.
+  - |
+       Её ужаснула бедность, грязь и, главное, трудность ежедневной жизни, в которой [она]Agent должна была не отдыхать, как отдыхала бы с Таней на даче, а с утра до вечера то [кормить поросят]Activity, то [нянчить]Activity Фенину трехмесячную дочку, то [стирать]Activity в холодной воде грязные тряпки…
+  - |
+       [Он]Agent то [басит]Activity, то [срывается на визг]Activity, а то [говорит голосом мультяшного персонажа]Activity.
+  - |
+       Мама говорит, что он начинал какие-то странные разговоры, [она]Agent его совсем не понимала, ― то [плакала]Activity, то [принималась утешать]Activity.
+  - |
+       Сын постоянно что-то требует: то [катай его на спине]Activity, то [учи уроки]Activity, то [играй в прятки]Activity.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Agent
+  - Situation
+  - Activity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [cc то] VP'
+  - '[conj [cc то] VP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [cc то] плакал, [conj [cc то] угрожал].]'
+comment: |
+    'См. близкие конструкции 303 сегодня ХP, (а) завтра XP (Зима в Москве суровая. Сегодня здоров, завтра – болен.), 965 Noun XP, ~Noun XP (Он час работает, час отдыхает.), 1585 иногда XP, иногда XP (Иногда дождь, иногда снег.), 1586 когда XP, когда XP (Когда вовремя придёт, когда опоздает.), 1587 один (Noun) XP, другой XP (Один день строит, другой ломает.), 1588 NP-Nom на ~NP-Acc не приходится (День на день не приходится: то работы много, то сижу без дела.). При этом для конструкции 303 более характерными являются контексты однократной смены ситуации, и повторное наступление первой ситуации маловероятно, тогда как для остальных конструкций характерным является многократное повторение чередующихся ситуаций.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также статью Рахилина Е.В., Ладыгина А.С. Русские конструкции со значением чередования ситуаций // М.В. Ляпон (ред.). Язык: поиски, факты, гипотезы. Сборник статей к 100-летию со дня рождения акад. Н. Ю. Шведовой. М.: Лексрус, 2016, 320-335.
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Pluractionality
+    subtypes:
+      - type: Alternation
+family:
+  - |
+    ""

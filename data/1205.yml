@@ -1,0 +1,59 @@
+---
+record: 1205
+name: 'NP-Nom притворяться NP-Ins'
+UD_name: 'NP-Nom притворяться NP-Ins'
+illustration: 'Он притворялся спящим.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Agent имитирует некоторое [состояние]State, которое не имеет места в действительности. Его целью является ввести другого участника ситуации в заблуждение своим поведением или внешним видом.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i situasjonen]Agent imiterer en gitt [tilstand]State som ikke finner sted i virkeligheten. Deltakerens mål er å føre en annen deltaker i situasjonen på villspor med sin atferd eller sitt utseende.
+examples:
+  - |
+       Сестра подталкивает жука карандашом, [тот]Agent переворачивается на спину и притворяется [мертвым]State.
+  - |
+       [Он]Agent притворялся [кузнечиком]State, притворялся [рысью]State, а кем ещё притвориться, чтобы любили?
+  - |
+       Чего [ты]Agent притворяешься [дурочкой]State?
+  - |
+       Я пришел освободить вас, [я]Agent только притворяюсь [вашим врагом]State.
+  - |
+       [Треть опрошенных]Agent вообще признались, что притворяются [больными]State, чтобы не выходить на работу.
+morphology:
+  - NP
+  - Nom
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Agent
+  - State
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] притворяться [xcomp NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] притворялся [xcomp спящим].]'
+comment: |
+    'См. близкую конструкцию 1206 NP-Nom прикидываться NP-Ins (Ты дурачком-то не прикидывайся!)'
+common_fillers:
+  - мертвый
+  - спящий
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+family:
+  - |
+    ""

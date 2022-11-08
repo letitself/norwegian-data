@@ -1,0 +1,68 @@
+---
+record: 464
+name: 'VP NP-Acc за NP-Ins'
+UD_name: 'VP NP-Acc за NP-Ins'
+illustration: 'Он курит сигарету за сигаретой.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает [действие]Action, которое распределяется на порции. Порции действия обозначаются через [объекты]Theme, которые последовательно сменяют друг друга. Конструкция подчёркивает длительность и интенсивность действия.
+  - norwegian: |
+       Konstruksjonen betegner [en handling]Action som fordeler seg på flere porsjoner. Porsjonene av handlingen markeres av [objekter]Theme som suksessivt avløser hverandre. Konstruksjonen fremhever at handlingen er langvarig og intensiv.
+examples:
+  - |
+       Шура будет ходить из угла в угол и вздыхать, а я [читать]Action [книгу]Theme за [книгой]Theme, до головной боли.
+  - |
+       Очень жарко, хочется [пить]Action [стакан]Theme за [стаканом]Theme.
+  - |
+       Варенья у нас много, бабушка [шлет]Action из деревни [банку]Theme за [банкой]Theme.
+  - |
+       [Шаг]Theme за [шагом]Theme можно [добиться успеха]Action.
+  - |
+       Красивым почерком он [писал]Action [строку]Theme за [строкой]Theme.
+morphology:
+  - VP
+  - NP
+  - Acc
+  - Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obj NP-Acc [nmod [case за] NP-Ins]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] курит [obj сигарету [nmod [case за] сигаретой]].]'
+comment: |
+    'Не путать с конструкцией 962.'
+common_fillers:
+  - стакан
+  - рюмка
+  - шаг
+  - строка
+  - книга
+references:
+  - |
+    No references
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    ""

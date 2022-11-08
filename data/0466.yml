@@ -1,0 +1,48 @@
+---
+record: 466
+name: 'NP-Acc не проведёшь'
+UD_name: 'NP-Acc не проведёшь'
+illustration: 'Почтальона не проведёшь.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obj NP-Acc] [advmod не] проведёшь]'
+dependency_structure_of_illustration:
+  - '[root [obj Почтальона] [advmod не] проведёшь.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Capacity/Intellect"

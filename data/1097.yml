@@ -1,0 +1,53 @@
+---
+record: 1097
+name: 'к чести NP-Gen (надо VP-Pfv.Inf, что) Cl'
+UD_name: 'к чести NP-Gen (надо VP-Perf.Inf, что) Cl'
+illustration: 'К чести Аннушки надо сказать, что она была любознательна.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+  - VP
+  - Pfv
+  - Inf
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root [obl [case к] чести [nmod NP-Gen]] надо [csubj VP-Pfv.Inf, [ccomp [mark что] Cl]]]'
+  - '[root [parataxis [obl [case к] чести [nmod NP-Gen]]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case К] чести [nmod Аннушки]] надо [csubj сказать, [ccomp [mark что] [nsubj она] [cop была] любознательна]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of a proposition
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Assessment of a proposition"

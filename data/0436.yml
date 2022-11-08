@@ -1,0 +1,49 @@
+---
+record: 436
+name: 'Noun-Nom PronPers-3.Nom и есть ~Noun-Nom'
+UD_name: 'N-Nom PronPers-3.Nom и есть N-Nom'
+illustration: 'Мужик он и есть мужик.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - Noun
+  - Nom
+  - PronPers
+  - 3
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [dislocated Noun-Nom] [nsubj PronPers-3.Nom] [advmod и] [cop есть] Noun-Nom]'
+dependency_structure_of_illustration:
+  - '[root [dislocated Мужик] [nsubj он] [advmod и] [cop есть] мужик.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

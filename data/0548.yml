@@ -1,0 +1,44 @@
+---
+record: 548
+name: 'NP-Nom пребывать в NP-Loc'
+UD_name: 'NP-Nom пребывать в NP-Loc'
+illustration: 'Он все это время пребывал в неведении.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Loc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] пребывать [obl [case в] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [det все] [det это] время] пребывал [obl [case в] неведении].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

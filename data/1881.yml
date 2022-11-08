@@ -1,0 +1,63 @@
+---
+record: 1881
+name: 'XP/Cl в такой/той же мере, как (и) XP/Cl'
+UD_name: 'XP/Cl в такой/той же мере, как (и) XP/Cl'
+illustration: 'Спорт в такой же мере определяет культуру нации, как и духовная культура.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект, участник или ситуация]Comparee обладает некоторой характеристикой так же, как и [другой объект, участник или ситуация]Standard (примеры 1-3). Конструкция также может обозначать, что [некоторое свойство]Comparee присуще объекту или участнику в той же степени, что и [другое свойство]Standard (примеры 4, 5). Второй слот XP может заполняться именной группой или прилагательным.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [оbjekt, deltaker eller situasjon]Comparee besitter et gitt trekk i likhet med [et annet objekt, deltaker eller situasjon]Standard (eksempel 1-3). Konstruksjonen kan også bety at [en gitt egenskap]Comparee er like karakteristisk for objektet eller deltakeren som [en annen egenskap]Standard (eksempel 4 og 5). Den andre sloten XP kan fylles av en nominalfrase eller et adjektiv.
+examples:
+  - |
+       [Успехи Департамента Темных сил]Comparee в той же мере, как и [его неудачи]Standard, зависели от работы возглавляемой им Службы тайных операций
+  - |
+       [Пороки]Comparee были свойственны гениальным людям в такой же мере, как и [добродетели]Standard…
+  - |
+       [Мысли о смерти заботят меня]Comparee в той же мере, как [режиссера ― кульминация его произведения]Standard.
+  - |
+       Ты был [поэт]Comparee в той же мере, как и [мыслитель]Standard.
+  - |
+       Он был [красив]Comparee в такой же мере, как и [глуп]Standard.
+morphology:
+  - Cl
+  - NP
+  - Adj
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Particle
+  - Noun
+  - Conjunction
+semantic_roles:
+  - Comparee
+  - Standard
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root Cl [obl [case в] [det такой [advmod же]] мере], [obl [case как] Cl]'
+  - '[root Cl [obl [case в] [det той [advmod же]] мере], [obl [case как] Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Спорт] [obl [case в] [det такой [advmod же]] мере] определяет [obj культуру [nmod нации]], [obl [case как] [advmod и] [amod духовная] культура].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

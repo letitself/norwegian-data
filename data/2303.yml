@@ -1,0 +1,48 @@
+---
+record: 2303
+name: 'Сам подумать-Imp, Cl'
+UD_name: 'Сам подумать-Imper, Cl'
+illustration: 'Сам подумай, зачем взрослому человеку это нужно?'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает вопрос говорящего к собеседнику. Говорящий апеллирует к логическому мышлению и здравому смыслу собеседника в оценке некоторой [информации]ContentOfSpeech. Конструкция часто используется, когда говорящий хочет указать на нелогичность ситуации. В конструкции часто встречаются вопросительные местоимения (например, "какой", "зачем", "как").
+  - norwegian: |
+       Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren appellerer til samtalepartnerens logiske tenkemåte og sunne fornuft i vurderingen av en gitt [informasjon]ContentOfSpeech. Konstruksjonen brukes ofte når taleren vil vise til noe ulogisk i situasjonen. I konstruksjonen forekommer ofte spørrepronomen (for eksempel "какой", "зачем" og "как").
+examples:
+morphology:
+  - Imp
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [acl сам] подумать-Imp'
+  - '[ccomp Cl]]'
+dependency_structure_of_illustration:
+  - '[root [acl Сам] подумай, [ccomp [advmod зачем] [iobj [amod взрослому] человеку] [nsubj это] нужно]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Asking for opinion
+family:
+  - |
+    ""

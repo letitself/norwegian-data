@@ -1,0 +1,69 @@
+---
+record: 1862
+name: '(квадратный) корень из NumCrd-Gen – (это) NumCrd-Nom/равен NumCrd-Dat'
+UD_name: '(квадратный) корень из NumCrd-Gen – (это) NumCrd-Nom/равен NumCrd-Dat'
+illustration: 'Корень из девяти равен трём.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция формулирует математическую операцию извлечения квадратного корня из [некоторого числа]Quantity и определяет [результат]Result. Результат выражен формой дательного падежа в случае, если используется слово «равен» (примеры 1, 2). Со словом «это» или если оно опущено, результат всегда выражен формой именительного падежа (примеры 3, 4).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å trekke ut kvadratroten av [et tall]Quantity og angir [svaret]Result. Ved bruk av ordet 'равeн', står svaret i dativ (eksempel 1 og 2). Sammen med ordet 'это', eller dersom det er utelatt, står svaret alltid i nominativ kasus (eksempel 3 og 4).
+examples:
+  - |
+       ― Ну, робот, [чему]Result равен квадратный корень из [двадцати пяти]Quantity?
+  - |
+       Корень из [двадцати семи]Quantity равен [трем]Result.
+  - |
+       В школе мы выучили, что квадратный корень из [девяти]Quantity ― это [три]Result.
+  - |
+       Какой глупец посмеет оспаривать, что квадратный корень из [шестнадцати]Quantity ― [четыре]Result!
+  - |
+       ―  Корень из [числа две тысячи пятьсот восемьдесят девять]Quantity? ―  [Пятьдесят целых, восемьсот восемьдесят две тысячных]Result … э-э-э… примерно.
+morphology:
+  - NumCrd
+  - Gen
+  - Nom
+  - Dat
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+  - Preposition
+  - Particle
+  - Adjective
+semantic_roles:
+  - Result
+  - Quantity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj корень [nmod [case из] NumCrd-Gen]] – равен [xcomp NumCrd-Dat]]'
+  - '[root [nsubj корень [nmod [case из] NumCrd-Gen]] – [xcomp NumCrd-Dat]]'
+  - '[root [nsubj корень [nmod [case из] NumCrd-Gen]] – [expl это] NumCrd-Nom]'
+  - '[root [nsubj [amod квадратный] корень [nmod [case из] NumCrd-Gen]] – равен [xcomp NumCrd-Dat]]'
+  - '[root [nsubj [amod квадратный] корень [nmod [case из] NumCrd-Gen]] – [xcomp NumCrd-Dat]]'
+  - '[root [nsubj [amod квадратный] корень [nmod [case из] NumCrd-Gen]] – [expl это] NumCrd-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Корень [nmod [case из] девяти]] равен [nummod трём].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Extraction of a root
+family:
+  - |
+    "CALCULATION constructions"

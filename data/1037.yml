@@ -1,0 +1,61 @@
+---
+record: 1037
+name: 'VP за спиной (у NP-Gen)'
+UD_name: 'VP за спиной (у NP-Gen)'
+illustration: 'Он обсуждал проект за спиной у руководителя.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent выполняет некоторое [действие]Action, о котором [другой участник]Maleficiary не знает. При этом совершаемое [действие]Action затрагивает интересы [другого участника]Maleficiary и ему правильнее было бы знать об этом. Говорящий не одобряет это действие.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent utfører en gitt [handling]Action som [en annen deltaker]Maleficiary ikke vet om. Samtidig berører den aktuelle [handlingen]Action [den andre deltakerens]Maleficiary interesser, og det ville vært mer korrekt om vedkommende hadde visst om det. Taleren bifaller ikke handlingen.
+examples:
+  - |
+       При Пете [Маша]Agent делала вид, что она печальна, а за спиной у [него]Maleficiary [веселилась и все время смеялась]Action.
+  - |
+       [Мать]Agent [покрестила ребёнка]Action за спиной у [отца]Maleficiary, кроторый этого не хотел.
+  - |
+       В чём смысл [критиковать картины художника]Action у [него]Maleficiary за спиной?
+  - |
+       [Мужчины]Agent любят [выпить]Action за спиной у [своих жён]Maleficiary.
+  - |
+       [Соседи]Agent [будут шептаться]Action за спиной у [мамы]Maleficiary: "Непутёвый был мальчишка, этот Димка".
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Maleficiary
+  - Agent
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case за] спиной [nmod [case у] NP-Gen]]]'
+  - '[root VP [obl [case за] спиной]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] обсуждал [obj проект] [obl [case за] спиной [nmod [case у] руководителя]].]'
+comment: |
+    'См. синонимичную конструкцию 1028 VP за глаза (Он за глаза называет ее глупой.) и антонимичную конструкцию 767 VP в лоб (Он спросил его в лоб: "Где деньги?")'
+common_fillers:
+  - шептаться
+  - обсуждать
+  - говорить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

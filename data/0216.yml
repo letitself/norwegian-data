@@ -1,0 +1,66 @@
+---
+record: 216
+name: 'невесть PronInt'
+UD_name: 'невесть PronInt'
+illustration: 'Невесть откуда он пришел вчера.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящему неизвестны или непонятны [объект действия, участник действия или обстоятельства ситуации (как, где, когда, почему)]Theme. Конструкция как правило несет негативную оценку.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke kjenner til eller ikke forstår [objektet for handlingen, en deltaker i handlingen eller omstendighetene rundt situasjonen (hvordan, hvor, når og hvorfor)]Theme. Konstruksjonen er som regel negativt ladet.
+examples:
+  - |
+       Они сказали невесть [что]Theme, а вы повторяете.
+  - |
+       Старшие сестры жили далеко, а брат находился невесть [где]Theme.
+  - |
+       Огромная тарелка супа невесть [как]Theme оказалась на обеденном столе.
+  - |
+       Невесть [почему]Theme я вспомнила песню про коричневую пуговку, которую мы распевали в детском саду.
+  - |
+       Они же думают, что это просто ничего не значащие слова, которые невесть [кто]Theme и [когда]Theme придумал.
+morphology:
+  - PronInt
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root [dep [advcl невесть] PronInt]]'
+dependency_structure_of_illustration:
+  - '[root [advmod [advcl Невесть] откуда] [nsubj он] пришел [advmod вчера].]'
+comment: |
+    'См. близкие конструкции 35 бог весть PronInt (Они принесли в пакете бог весть что), 217 незнамо PronInt (Незнамо как я вернулся домой).'
+common_fillers:
+  - как
+  - кто
+  - что
+  - где
+  - почему
+  - когда
+  - откуда
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+        subtypes:
+          - type: Unknown
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Unknown"

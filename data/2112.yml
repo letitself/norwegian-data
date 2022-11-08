@@ -1,0 +1,61 @@
+---
+record: 2112
+name: 'VP вместо NP-Gen'
+UD_name: 'VP вместо NP-Gen'
+illustration: 'Маша пришла вместо сестры.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent  осуществляет [действие]Action, которое, согласно ожиданиям, должен осуществлять [другой участник]Deputy.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent utfører [en handling]Action som det er forventet at [en annen deltaker]Counteragent skal utføre.
+examples:
+  - |
+       На трон вместо [королевы]Deputy [прыгнул]Action [обаятельный лягушонок]Agent.
+  - |
+       ― Почему вы не отвечаете? ― не отставал Матвей. Вместо [Глинки]Deputy [ответил]Action [Юра]Agent.
+  - |
+       Девочка капризничала и требовала, чтобы вместо [бабушки]Deputy её [баюкал]Action [Димка]Agent.
+  - |
+       Но [подготовить диссертацию]Action вместо [Дмитриева]Deputy [Лена]Agent, к сожалению, не могла.
+  - |
+       Вместо [романов]Deputy [меня провожают ко сну]Action [мемуары, дневники, письма, стенографические отчёты]Agent.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Agent
+  - Deputy
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case вместо] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Маша] пришла [obl [case вместо] сестры].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - отвечать
+  - быть
+  - стать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Subject substitution
+family:
+  - |
+    "Subject substitution"

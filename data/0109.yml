@@ -1,0 +1,74 @@
+---
+record: 109
+name: 'NP-Nom держать NP-Acc при себе'
+UD_name: 'NP-Nom держать NP-Acc при себе'
+illustration: 'Он держит мысли при себе.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция имеет прямое и переносное значение. В прямом значении конструкция обозначает, что некоторый [участник]Possessor имеет в зоне своего ближайшего доступа некоторый [предмет.]Possessed Предмет находится среди личных вещей [участника]Possessor (обычно в кармане одежды или сумке), при перемещении участник берет его с собой, чтобы при необходимости воспользоваться им (пример 1) или чтобы уберечь от других участников (пример 2). Конструкция может также обозначать, что [участник]Possessor имеет в своем ближайшем окружении нужного для него [человека]Participant, услугами, знаниями или поддержкой которого он может воспользоваться при необходимости (пример 3). В переносном значении конструкция обозначает, что участник намеренно не привлекает внимание к своим [мыслям, чувствам, мнению]Theme (примеры 4, 5).
+  - english: |
+       This construction carries both a direct and figurative meaning. In its direct meaning this construction indicates that a [participant]Possessor has an [item]Possessed that is nearby and accessible. The item is amongst the [participant's]Possessor personal belongings (usually in their clothes pockets or a bag), and when moving the participant takes the item with them to use it if necessary (example 1) or to hide it from other participants (example 2). This construction can also indicate that the [participant]Possessor has a close relationship to a useful [person]Participant, whose services, knowledge or loyalty can be used by the participant when necessary (example 3). In its figurative meaning the construction indicates that the participant deliberately does not draw attention to their [thoughts, feelings or opinions]Theme (examples 4, 5).
+  - norwegian: |
+       Konstruksjonen har direkte og overført betydning. I direkte betydning betyr den at en gitt [deltaker]Possessor har en gitt [gjenstand]Possessed nært og lett tilgjengelig. Gjenstanden befinner seg blant [deltakerens]Possessor personlige eiendeler (vanligvis i lommene på klærne eller i veska), og ved forflytninger tar deltakeren den med seg for å bruke den ved behov (eksempel 1) eller for å skjule den fra andre deltakere (eksempel 2). Konstruksjonen kan også bety at [deltakeren]Possessor i sine nære omgivelser har en nyttig person, hvis tjenester, kunnskaper eller lojalitet deltakeren kan benytte seg av ved behov (eksempel 3). I overført betydning betyr konstruksjonen at deltakeren med hensikt ikke henleder oppmerksomheten på sine [tanker, følelser eller meninger]Theme (eksempel 4 og 5).
+examples:
+  - |
+       Все это Зайцев тщательно записывал в толстый блокнот, [который]Possessed [он]Possessor всегда держал при себе.
+  - |
+       [Больные]Possessor много говорят о воровстве у них вещей или денег, стараются держать при себе [все ценные вещи]Possessed, убирая их под матрас или подушку.
+  - |
+       [Правители]Possessor России всегда держали при себе [советников]Participant и даже [иностранных философов]Participant.
+  - |
+       Некоторые [чувства]Theme трудно держать при себе, они так или иначе прорываются наружу.
+  - |
+       До официального расследования [полицейский]Agent предпочитает держать [свое мнение]Theme при себе.
+morphology:
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - Theme
+  - Possessor
+  - Agent
+  - Possessed
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] держать [obj NP-Acc] [obl [case при] себе]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] держит [obj мысли] [obl [case при] себе].]'
+comment: |
+    'См. близкую конструкцию 1948.'
+common_fillers:
+  - деньги
+  - ценные вещи
+  - документы
+  - оружие
+  - паспорт
+  - ребенок
+  - охрана
+  - мысли
+  - чувства
+  - мнение
+references:
+  - |
+    No references
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

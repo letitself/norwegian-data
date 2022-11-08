@@ -1,0 +1,65 @@
+---
+record: 556
+name: 'NP-Nom слыть NP-Ins'
+UD_name: 'NP-Nom слыть NP-Ins'
+illustration: 'Она слыла отличницей.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник ситуации]Participant имеет определенную репутацию, известен окружающим своим [статусом]Status или [качеством]Property.
+  - english: |
+       This construction indicates that a [participant in the situation]Participant has a certain reputation, or is known by those around them for their [status]Status or [qualities]Property.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker i situasjonen]Participant har et bestemt omdømme eller er kjent i miljøet for å ha en viss [status]Status eller [egenskap]Property.
+examples:
+  - |
+       Ян Вермеер был счастлив в законном браке: eго [жена]Participant слыла [красавицей]Property, выступала моделью для многих картин мужа.
+  - |
+       [Макаров]Participant слыл [человеком умным, образованным, опытным]Property.
+  - |
+       [Хрусталева]Participant слыла [женщиной не бедной]Property.
+  - |
+       В народном сознании [Шахназаров]Participant слывет [режиссером доброго и смешного кино]Status.
+  - |
+       [Дима и его приятели]participant слыли [авторитетными хулиганами]Status среди подростков.
+morphology:
+  - NP
+  - Nom
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Participant
+  - Property
+  - Status
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root [nsubj NP-Nom] слыть [xcomp NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] слыла [xcomp отличницей].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - оптимистом
+  - отличницей
+  - красавицей
+  - хулиганом
+  - специалистом
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

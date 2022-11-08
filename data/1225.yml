@@ -1,0 +1,46 @@
+---
+record: 1225
+name: 'NP-Nom заставить/вынудить NP-Acc VP-Inf'
+UD_name: 'NP-Nom заставить/вынудить NP-Acc VP-Inf'
+illustration: 'Он вынудил партнёра подписать договор.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Acc
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] заставить [obj NP-Acc] [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] вынудить [obj NP-Acc] [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] вынудил [obj партнёра] [xcomp подписать [obj договор]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+family:
+  - |
+    ""

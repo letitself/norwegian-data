@@ -1,0 +1,62 @@
+---
+record: 1286
+name: 'волей/по воле NP-Gen Cl'
+UD_name: 'волей/по воле NP-Gen Cl'
+illustration: 'Волею обстоятельств он оказался в стане противников.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что причиной [ситуации]Situation является желание некоторой [высшей инстанции]Causer. В роли такой инстанции может выступать человек или группа людей (примеры 4, 5), однако, как правило, речь идет о недоступной для понимания высшей силе (судьба, Бог, случай и др., примеры 1-3). Конструкция подразумевает, что участник ситуации не может повлиять на ход событий.
+  - norwegian: |
+       Konstruksjonen betyr at en viss [høyere instans']Causer ønske har forårsaket [en situasjon]Situation. En slik høyere instans kan være en person eller en gruppe personer (eksempel 4 og 5), skjønt det som regel dreier seg om høyere makter som er utilgjengelige for forstanden (skjebnen, Gud, tilfeldighetene m.m., eksempel 1-3). Konstruksjonen lar det være underforstått at deltakeren i situasjonen ikke kan påvirke begivenhetenes gang.
+examples:
+  - |
+       [Через год волею [судьбы]Causer Александр оказался в Красноярске]Situation.
+  - |
+       Волей [Божией]Causer [остался мой дедушка в живых]Situation.
+  - |
+       По воле [случая]Causer [наши команды должны были играть друг против друга]Situation.
+  - |
+       [Своё нынешнее имя Новосибирск получил по воле [советской власти]Causer в 1926 г.]Situation
+  - |
+       [Лёня стал ювелиром поневоле]Situation, то есть по воле [его родителей]Causer, отдавших мальчика в 14 лет на обучение к ювелиру, чтобы парень получил денежную профессию, и самого Лёню тогда никто не спросил.
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Causer
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl волей [nmod NP-Gen]] Cl]'
+  - '[root [obl [case по] воле [nmod NP-Gen]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl Волею [nmod обстоятельств]] [nsubj он] оказался [obl [case в] стане [nmod противников]].]'
+comment: |
+    'В конструкции допускается вариативность формы Творительного падежа слова "воля": волей или волею.'
+common_fillers:
+  - судьба
+  - обстоятельства
+  - рок
+  - случай
+  - провидение
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

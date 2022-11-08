@@ -1,0 +1,62 @@
+---
+record: 1008
+name: 'если (только) ещё раз VP-Fut, Cl'
+UD_name: 'если (только) ещё раз VP-Fut, Cl'
+illustration: 'Если ты ещё раз это сделаешь, я с тобой перестану разговаривать.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает угрозу говорящего, обращенную к собеседнику или другому участнику. Говорящий просит его не совершать [некоторое действие]Condition, которое тот совершал ранее. Конструкция произносится резким, категоричным, безапелляционным тоном. В случае невыполнения команды, собеседника или участника ждут [негативные последствия]Result. Обычно конструкция используется только в устной форме.
+examples:
+  - |
+       Если еще раз это [повторится]Condition, [я обращусь в суд.]Result
+  - |
+       Если еще раз [попытаешься украсть тетрадь с моего стола]Condition, [сразу поставлю двойку.]Result
+  - |
+       Если он еще раз [провинится]Condition ― [уволю]Result.
+  - |
+       Если еще раз [попадешься на воровстве]Condition, [поедешь в детскую исправительную колонию.]Result
+  - |
+       Если еще раз [позволишь себе заговорить со мной в таком тоне]Condition, [то я здесь больше никогда не появлюсь.]Result
+morphology:
+  - VP
+  - Fut
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subordinator
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+  - Adverb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advcl [mark если] [advmod ещё] [obl раз] VP-Fut], Cl]'
+  - '[root [advcl [mark если] [advmod только] [advmod ещё] [obl раз] VP-Fut], Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] [nsubj ты] [advmod ещё] [obl раз] [obj это] сделаешь], [nsubj я] [obl [case с] тобой] перестану [xcomp разговаривать].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+  - type: Threat
+family:
+  - |
+    ""

@@ -1,0 +1,61 @@
+---
+record: 80
+name: 'всё равно VP'
+UD_name: 'всё равно VP'
+illustration: 'Всё равно убегу.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник вне зависимости от обстоятельств ситуации намерен выполнить запланированное [действие]Action. Слот VP заполняется глаголами обоих видов.
+  - english: |
+       This construction indicates that the participant intends to carry out a planned [action]Action regardless of the circumstances of the situation. The slot VP is filled by both perfective and imperfective verbs.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker har til hensikt å utføre en planlagt [handling]Action uavhengig av omstendighetene i situasjonen. Sloten VP fylles av verb i begge aspekter.
+examples:
+  - |
+       Наверное, где-то на форуме есть уже такой рецепт, но я всё равно [напишу]Action, нравится мне этот салат, потому что быстро и вкусно.
+  - |
+       Он кричит: я всё равно [буду летать]Action, я космонавт.
+  - |
+       Я считаю, что хотя этот праздник не имеет ничего общего с культурным наследием нашей страны, он всё равно [будет отмечаться]Action; и культ его будет возрастать с каждым годом.
+  - |
+       Oднажды я забыла слова гениальной грузинской песни "Сулико"! Это был уже второй концерт за один день, мы очень устали. Я понимала, что зал всё равно [ничего не заметит]Action, даже если я все слова перевру.
+  - |
+       Ребёнок, которого положение в рейтинг-листе будет травмировать, рано или поздно всё равно [уйдёт из шахмат.]Action
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Adjective
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod всё [fixed равно]] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Всё [fixed равно]] убегу.]'
+comment: |
+    'Не путать с конструкцией 472 NP-Dat Cop всё равно.'
+common_fillers:
+  - убежать
+  - уйти
+  - написать
+  - позвонить
+  - посмотреть
+  - возьмет
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+family:
+  - |
+    ""

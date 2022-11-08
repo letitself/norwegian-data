@@ -1,0 +1,72 @@
+---
+record: 1192
+name: 'тот же (самый) NP, (что и XP)'
+UD_name: 'тот же (самый) NP, (что и XP)'
+illustration: 'Это был тот же самый врач.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественность нескольких [объектов]Theme, [участников]Participant или [ситуаций]Situation. Конструкция обозначает, что объект или участник является тем же, с которым говорящий взаимодействовал ранее или что некоторая ситуация практически повторяет ту, что уже ранее происходила с говорящим.
+  - english: |
+       This construction expresses a comparison and emphasizes the equality of several [objects]Theme, [participants]Participant, or [situations]Situation. It means that the object or participant is the same as an object or participant the speaker has previously interacted with, or that some situation known to the speaker is practically repeated.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at flere [objekter]Theme, [deltakere]Participant eller [situasjoner]Situation er identiske. Konstruksjonen betyr at et objekt eller en deltaker er den samme som taleren samhandlet med tidligere, eller at en gitt situasjon praktisk talt er en gjentakelse av en situasjon taleren har vært i tidligere.
+examples:
+  - |
+       На ней было то же самое [платье]Theme.
+  - |
+       И снова ей ответил тот же самый [голос]Theme.
+  - |
+       Когда мы приехали, на плите стояла та же самая [кастрюля]Theme с супом.
+  - |
+       Та же самая [история]Situation произошла и со мной.
+  - |
+       Опять я видел тот же самый [сон]Comparee, что и [в поезде]Standard.
+morphology:
+  - NP
+  - XP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Discourse Particle
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Conjunction
+semantic_roles:
+  - Theme
+  - Participant
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [det тот [advmod же] [amod самый]] NP [nmod [mark что [fixed и]] XP]]'
+  - '[dep [det тот [advmod же]] NP [nmod [mark что [fixed и]] XP]]'
+  - '[dep [det тот [advmod же] [amod самый]] NP]'
+  - '[dep [det тот [advmod же]] NP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [cop был] [det тот [advmod же] [amod самый]] врач.]'
+comment: |
+    'См. похожую конструкцию 1178.'
+common_fillers:
+  - история
+  - человек
+  - голос
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

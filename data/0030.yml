@@ -1,0 +1,80 @@
+---
+record: 30
+name: 'ай да NP-Nom!'
+UD_name: 'ай да NP-Nom!'
+illustration: '– Ай да герой! – крикнул директор в восторге.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает одобрение, позитивную эмоциональную оценку, которую говорящий дает участнику на основе действий последнего. Слот NP-Nom заполняется [оценочными существительными]Evaluation (молодец, умница и др.), [нейтральными номинациями участника]Participant (парень, помощник, сестра и др.) или [именами собственными]Name (Ирина, Иванов и др.).
+  - english: |
+       This construction expresses the speaker’s positive emotional evaluation of a participant on the basis of the participant’s actions. The NP-slot can be filled with an [evaluative noun]Evaluation (молодец 'fine fellow', умница 'clever person', etc.), a [neutral title of the participant]Participant (парень 'fellow', помощник 'assistant', сестра 'sister', etc.), or [proper names]Name (Ирина, Иванов, etc.).
+  - norwegian: |
+       Konstruksjonen uttrykker at taleren gir deltakeren sitt bifall og reagerer med positive følelser på noe deltakeren har gjort. Sloten NP-Nom fylles av [vurderende substantiver]Evaluation (молодец, умница m.m.),  [nøytrale navn på deltakeren]Participant (парень, помощник, сестра m.m.) eller [egennavn]Name (Ирина, Иванов m.m.).
+examples:
+  - |
+       ― Ай да [молодцы]Evaluation! ― хвалили ребята немецкую работу и немецкую заботу.
+  - |
+       Доктор унес мою болезнь с собой в своем волшебном саквояже. Ай да [доктор]Participant! Да, да, слова и вера лечат. Врач сказал ― болезни нет, я абсолютно поверил, и болезнь исчезла.
+  - |
+       Затаив дыхание, Сараев наблюдал за появлением рисунка, радуясь и изумляясь точности каждого старательно выведенного изгиба, верности каждой поставленной цифры. Ай да [помощник]Participant! И что за твердая рука! Ни единой ошибки, ни малейшей помарки!..
+  - |
+       Он принялся смотреть листки вчерашних расчетов, и у него вдруг сладко замлело сердце. Ай да [Малянов]Name! Ай да [молодец]Evaluation! Наконец-то что-то у тебя получилось. Причем это, брат, настоящее.
+  - |
+       ― Ай да [Элиза]Name! Все точно предсказала, даже вас описала.
+morphology:
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Interjection
+  - Particle
+semantic_roles:
+  - Evaluation
+  - Participant
+  - Name
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [discourse ай [fixed да]] NP-Nom!]'
+dependency_structure_of_illustration:
+  - '[root – [discourse Ай] [fixed да] герой!– [parataxis крикнул] [nsubj директор] [obl [case в] восторге].]'
+comment: |
+    'См. другие конструкции с междометиями: 31, 136, 2163, 2164.'
+common_fillers:
+  - молодец
+  - молодчина
+  - умница
+  - хитрец
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology); Шведова Н. Ю. Очерки по синтаксису русской разговорной речи. — М. : АН СССР, 1960.
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Constructions with interjections
+      - type: Assessment specific to people
+        subtypes:
+          - type: Constructions with interjections
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Constructions with interjections
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Constructions with interjections
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Constructions with interjections"

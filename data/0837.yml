@@ -1,0 +1,62 @@
+---
+record: 837
+name: 'VP в целости (и сохранности)'
+UD_name: 'VP в целости (и сохранности)'
+illustration: 'Посылку доставили в целости и сохранности.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme, несмотря на проведенные над ним [манипуляции]Action, сохранил исходное состояние, не получив никаких повреждений.
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme, til tross for den [behandlingen]Action det er blitt utsatt for, har bevart sin opprinnelige tilstand, uskadet.
+examples:
+  - |
+       Приехал разносчик к вечеру ― а [книги]Theme [лежат]Action, почти все в целости и сохранности.
+  - |
+       Чтобы [мозг]Theme [оставался]Action в целости, он должен работать.
+  - |
+       [Кошелёк и деньги]Theme были [доставлены]Action в службу забытых вещей в целости и сохранности.
+  - |
+       Вместо останков убитых хоронили жилища: засыпали галькой и песком здания и пирамиды, делая археологам удивительный подарок ― [настоящий древний город]Theme в целости и сохранности.
+  - |
+       Шартрский собор ― единственный, [сохранивший]Action почти в целости [свои витражи]Theme.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - Action
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] целости [conj [cc и] сохранности]]]'
+  - '[root VP [obl [case в] целости]]'
+dependency_structure_of_illustration:
+  - '[root [obj Посылку] доставили [obl [case в] целости [conj [cc и] сохранности]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - оставаться
+  - остаться
+  - оставить
+  - сохраниться
+  - сохранить
+  - вернуть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

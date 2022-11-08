@@ -1,0 +1,63 @@
+---
+record: 90
+name: 'вследствие NP-Gen Cl'
+UD_name: 'вследствие NP-Gen Cl'
+illustration: 'Вследствие такого поведения наш договор аннулируется.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция указывает на [причину]Cause возникновения некоторой [ситуации.]Situation Причиной могут быть как внешние обстоятельства (процессы, события, физические феномены), так и внутренние (например, черты характера человека). Слот NP-Gen часто заполняется отглагольными существительными. Конструкция характерна для письменных текстов.
+  - english: |
+       This construction indicates the [reason]Cause of a [situation]Situation. The reason can be both external circumstances (processes, events, physical phenomena) and internal (e.g. a person's character traits). The NP-Gen slot is often filled by deverbal nouns. This construction is typical for written texts.
+  - norwegian: |
+       Konstruksjonen peker på [årsaken]Cause til en gitt [situasjon]Situation. Årsaken kan være så vel ytre omstendigheter (prosesser, hendelser, fysiske fenomener) som indre (f.eks. en persons karaktertrekk). Sloten NP-Gen fylles av verbalavledede substantiver. Konstruksjonen er karakteristisk for skriftlige tekster.
+examples:
+  - |
+       В основном [сокращение расходов произошло]Situation вследствие [сокращения численности персонала агенства.]Cause
+  - |
+       [Многие из них нуждаются в медицинской помощи]Situation как раз вследствие [потребления спиртных напитков.]Cause
+  - |
+       Ещё клептомания проявляется у тех, кто хочет привлечь к себе внимание. Например, [этим отличаются девочки-подростки в возрасте 14-15 лет]Situation вследствие [недополучения внимания и любви в семье.]Cause
+  - |
+       Вследствие [трения о воздух]Cause и [удара о землю]Cause [камень нагревается на 1,5° C.]Situation
+  - |
+       Вследствие своей [торопливости]Cause [он часто попадал в смешные ситуации.]Situation
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Cause
+  - Situation
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [obl [case вследствие] NP-Gen] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Вследствие] [det такого] поведения] [nsubj [det наш] договор] аннулируется.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - введения
+  - сокращения
+  - развития
+  - аварии
+  - нарушения
+  - трения
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

@@ -1,0 +1,86 @@
+---
+record: 122
+name: 'Cl/XP, (так/да) ещё и Cl/XP!'
+UD_name: 'Cl/XP, (так/да) ещё и Cl/XP!'
+illustration: 'Он не поздравил меня с днём рождения, ещё и хочет, чтобы я его любила.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий добавляет к ранее сказанному [новую негативную информацию]Theme об участнике или ситуации. Эта информация противоречит нормальному, ожидаемому порядку вещей и усугубляет отрицательную оценку ситуации, осуждение участника или его действий. Слот XP заполняется именной, глагольной и предложной группой.
+  - english: |
+       This construction indicates that the speaker is adding [new negative information]Theme about the participant or situation to something that was mentioned earlier. This information contradicts the normal, expected order of things and aggravates the negative evaluation of the situation, condemnation of the participant or their actions. The XP slot is filled by a noun phrase, verb phrase or prepositional phrase.
+  - norwegian: |
+       Konstruksjonen betyr at taleren tilføyer [ny negativ informasjon]Theme om en deltaker eller situasjon til det som er sagt tidligere. Denne informasjonen strider mot den vanlige, forventede tingenes tilstand og skjerper den negative vurderingen av situasjonen, fordømmelsen av deltakeren eller dennes handlinger. Sloten XP fylles av en nominalfrase, en verbalfrase eller et preposisjonsledd.
+examples:
+  - |
+       Мало того, что вы [трус]Evaluation, [нахал]Evaluation, так ещё и [драчун.]Evaluation
+  - |
+       Кроме [навалившейся работы,]Situation меня ещё и [пересадили в комнату к начальству,]Situation чтоб общаться было удобнее. И теперь монитор мой доступен для обзора сразу аж трем начальникам.
+  - |
+       Самой Алле я тоже сочуствую, но всё равно не понимаю как она могла [не любить малыша]Action да ещё и [от любимого человека.]
+  - |
+       [У меня товарищ головой шлагбаум снёс]Situation, так ему ещё и [счёт выставили на 300 евро,]Situation материалисты проклятые.
+  - |
+       [Женя и Лиля тоже страдают бронхиальной астмой,]Situation а у Жени ещё и [энурез,]Situation и она тоже имеет инвалидность.
+morphology:
+  - Cl
+  - VP
+  - NP
+  - PP
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - Evaluation
+  - Theme
+  - Situation
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl, [conj [advmod ещё] [advmod и] Cl]!]'
+  - '[root Cl, [conj [advmod ещё] [advmod и] XP]!]'
+  - '[root Cl, [conj [cc так] [advmod ещё] [advmod и] Cl]!]'
+  - '[root Cl, [conj [cc так] [advmod ещё] [advmod и] XP]!]'
+  - '[root Cl, [conj [cc да] [advmod ещё] [advmod и] Cl]!]'
+  - '[root Cl, [conj [cc да] [advmod ещё] [advmod и] XP]!]'
+  - '[root XP, [conj [advmod ещё] [advmod и] Cl]!]'
+  - '[root XP, [conj [advmod ещё] [advmod и] XP]!]'
+  - '[root XP, [conj [cc так] [advmod ещё] [advmod и] Cl]!]'
+  - '[root XP, [conj [cc так] [advmod ещё] [advmod и] XP]!]'
+  - '[root XP, [conj [cc да] [advmod ещё] [advmod и] Cl]!]'
+  - '[root XP, [conj [cc да] [advmod ещё] [advmod и] XP]!]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod не] поздравил [obj меня] [obl [case с] днём [nmod рождения]], [conj [advmod ещё] [advmod и] хочет, [ccomp [mark чтобы] [nsubj я] [obj его] любила]]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Not matching the norm
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Not matching the norm
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Not matching the norm"

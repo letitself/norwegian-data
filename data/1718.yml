@@ -1,0 +1,62 @@
+---
+record: 1718
+name: 'Cl там/туда/оттуда, где/куда/откуда Cl'
+UD_name: 'Cl там/туда/оттуда, где/куда/откуда Cl'
+illustration: 'Мы попали туда, где раньше не были.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает пространственную связь между двумя ситуациями. Место действия [одной ситуации]Circumstance совпадает с местом, где происходит другая [ситуация.]Situation
+examples:
+  - |
+       [Чисто]Situation там, где не [сорят.]Circumstance
+  - |
+       [Помощь пришла]Situation оттуда, откуда [её мало кто ждал.]Circumstance
+  - |
+       [Я увезу тебя]Situation туда, где [огромные крокодилы выплывают из реки и греются на солнце.]Circumstance
+  - |
+       [Машина стояла]Situation там, где [он ее и оставил позавчера.]Circumstance
+  - |
+       [И мы пошли]Situation туда, куда [показывала стрелка.]Circumstance
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [advmod там, [advcl [advmod PronInt] Cl]]]'
+  - '[root Cl [advmod туда, [advcl [advmod PronInt] Cl]]]'
+  - '[root Cl [advmod оттуда, [advcl [advmod PronInt] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] попали [advmod туда, [advcl [advmod где] [advmod раньше] [advmod не] были]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+      - type: Path
+        subtypes:
+          - type: Goal
+      - type: Path
+        subtypes:
+          - type: Source
+family:
+  - |
+    ""

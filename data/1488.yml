@@ -1,0 +1,68 @@
+---
+record: 1488
+name: 'Adv-Cmp/Adj-Cmp (всех) остальных'
+UD_name: 'Adv-Cmp/Adj-Cmp (всех) остальных'
+illustration: 'Она прибежала к финишу быстрее остальных.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [производимое ими действие]Action (примеры 4, 5). У [одного объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [всех других элементов некоторого множества]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1-3) eller [handlingen de utfører]Action (eksempel 4 og 5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [det ene objektet eller deltakeren]Comparee enn hos [alle andre elementer i en gitt mengde]Standard.
+examples:
+  - |
+       [Эта комната]Comparee была [больше]Parameter остальных.
+  - |
+       Там считают, что если человеку поручили высокий пост, и он сдавал экзамены, а значит, овладел необходимыми знаниями, то [он]Comparee [умнее]Parameter остальных.
+  - |
+       А в том, что [его перевод]Comparee, когда он его закончит, будет [лучше]Parameter всех остальных, Печигин и подавно не сомневался.
+  - |
+       [Мы]Comparee [живем]State [не хуже]Parameter остальных.
+  - |
+       Эта профессия порождает в нас стремление [подняться]Action [выше]Theme всех остальных.
+morphology:
+  - Adv
+  - Cmp
+  - Adj
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Pronoun
+semantic_roles:
+  - Action
+  - Comparee
+  - Parameter
+  - Standard
+  - State
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[advmod Adv-Cmp [obl остальных]]'
+  - '[advmod Adv-Cmp [obl [det всех] остальных]]'
+  - '[root Adj-Cmp [obl остальных]]'
+  - '[root Adj-Cmp [obl [det всех] остальных]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] прибежала [obl [case к] финишу] [advmod быстрее] [obl остальных].]'
+comment: |
+    'См. близкую конструкцию 393 Adj-Cmp/Adv-Cmp всех (Ты был лучше всех)'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

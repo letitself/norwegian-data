@@ -1,0 +1,62 @@
+---
+record: 462
+name: 'NP NP-Ins'
+UD_name: 'NP NP-Ins'
+illustration: 'У него голова тыквой.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [определенная часть тела участника]Comparee имеет или повторяет форму [некоторого предмета]Standard.
+  - english: |
+       This construction denotes that [a certain body part]Comparee has or resembles the shape of [some object]Standard.
+  - norwegian: |
+       Konstruksjonen betyr at formen på [en bestemt kroppsdel hos deltakeren]Comparee er helt eller nesten lik formen på [en gitt gjenstand]Standard.
+examples:
+  - |
+       У настоящих слонов [ноги]Comparee [столбами]Standard, [уши]Comparee [лопухами]Standard.
+  - |
+       В Кате, хоть ей было под сорок, действительно было что-то от цыпленка: [длинный нос]Comparee [клювиком]Standard.
+  - |
+       Низкий, без единой морщинки лоб, жёлтые кустики бровей, [ротик]Comparee [бантиком]Standard ― всё это придавало его физиономии важное качество внешности вора: незаметность.
+  - |
+       У нее был маникюр, седенькие тоненькие [косички]Comparee [кулечком]Standard на макушке и [брови]Comparee [полумесяцем]Standard.
+  - |
+       Одна тихоня, другая оторва, один на двоих [смешной нос]Comparee [картошкой]Standard.
+morphology:
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Comparee
+  - Standard
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep NP [nmod NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [case У] него [nsubj голова [nmod тыквой]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Salient property
+    subtypes:
+      - type: Sensory property
+family:
+  - |
+    ""

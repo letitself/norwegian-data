@@ -1,0 +1,42 @@
+---
+record: 401
+name: 'Cl без того, чтобы Cl'
+UD_name: 'Cl без того, чтобы Cl'
+illustration: 'Ни одна ночь не проходила без того, чтобы Сережа не играл на скрипке.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [obl [case без] того'
+  - '[acl [mark чтобы] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [advmod Ни] [nummod:gov одна] ночь] [advmod не] проходила [obl [case без] того, [acl [mark чтобы] [nsubj Сережа] [advmod не] играл [obl [case на] скрипке]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    И-И, У. Конструкции без того, чтобы в русском языке // Russian Language Journal, 1992. Т. 46, № 153/155. С. 3-9.
+semantic_types:
+  - type: Condition
+family:
+  - |
+    ""

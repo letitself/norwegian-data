@@ -1,0 +1,55 @@
+---
+record: 1061
+name: 'NP-Nom и сам знать, что Cl'
+UD_name: 'NP-Nom и сам знать, что Cl'
+illustration: 'Паша и сам знает, что виноват.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [advmod и] сам] знать'
+  - '[ccomp [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Паша] [obl [advmod и] сам] знает, [ccomp [mark что] виноват].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental attitude
+        subtypes:
+          - type: Confidence
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Confidence"

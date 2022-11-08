@@ -1,0 +1,55 @@
+---
+record: 440
+name: 'NP-Nom Cop не ахти (какой-Nom/какой Adj-Nom/какой Noun-Nom)'
+UD_name: 'NP-Nom Cop не ахти (какой-Nom/какой Adj-Nom/какой N-Nom)'
+illustration: 'Из-за ветра скорость была не ахти.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Adj
+  - Noun
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Interjection
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod [advmod не] ахти [det какой]] Adj-Nom]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] ахти [det какой]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [amod [advmod не] ахти [det какой]] Noun-Nom]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] ахти]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Из-за] ветра] [nsubj скорость] [cop была] [advmod не] ахти.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Assessment of an entity"

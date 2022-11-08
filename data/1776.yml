@@ -1,0 +1,48 @@
+---
+record: 1776
+name: 'VP NP-Nom в ~NP-Acc'
+UD_name: 'VP NP-Nom в NP-Acc'
+illustration: 'Я цитирую слово в слово, записывайте!'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl NP-Nom [nmod [case в] NP-Acc]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] цитирую [obl слово [nmod [case в] слово]], [conj записывайте]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - дверь
+  - слово
+  - день
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Exact
+  - type: Manner
+family:
+  - |
+    ""

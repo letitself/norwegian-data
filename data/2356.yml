@@ -1,0 +1,59 @@
+---
+record: 2356
+name: '(Cl), (а) вдруг VP-Fut'
+UD_name: '(Cl), (а) вдруг VP-Fut'
+illustration: 'Можно попробовать, вдруг получится.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие участника]Action может приблизить наступление [некоторой желательной ситуации]Situation. Как правило, участник не может контролировать эту ситуацию.
+examples:
+  - |
+       [Возьми фонарик]Action, вдруг [захочешь что-нибудь найти в темноте]Situation.
+  - |
+       Но ты все-таки [подумай]Action, вдруг [вспомнишь]Situation.
+  - |
+       ― Вот я и читаю, всё [читаю и читаю]Action… Думала ― вдруг [пойму]Situation…
+  - |
+       Иногда она [включала телевизор]Action в надежде увидеть его: вдруг [мелькнёт]Situation.
+  - |
+       Она испытала дикий страх, какой испытывает ребёнок, потерявший мать в вокзальной толпе… Она [постояла, подождала]Action: вдруг [пройдёт]Situation…
+morphology:
+  - Cl
+  - VP
+  - Fut
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [case а] [advmod вдруг] VP-Fut]]'
+  - '[root Cl, [parataxis [advmod вдруг] VP-Fut]]'
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'Не путать с конструкцией 2150.'
+common_fillers:
+  - возьми
+  - получится
+  - пригодится
+  - понадобится
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Mirative
+family:
+  - |
+    ""

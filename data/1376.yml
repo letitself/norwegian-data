@@ -1,0 +1,65 @@
+---
+record: 1376
+name: 'VP под руководством NP-Gen'
+UD_name: 'VP под руководством NP-Gen'
+illustration: 'Работа ведётся под руководством директора.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция указывает на [участника]Agent, который контролирует выполнение [действия]Action другим участником, направляет этого участника, помогает ему и учит его.
+  - norwegian: |
+       Konstruksjonen angir [en deltaker]Agent som kontrollerer en annen deltakers utførelse av [en handling]Action og som veileder, hjelper og instruerer vedkommende.
+examples:
+  - |
+       Под руководством [Платонова]Agent на Олимпиаде в Атланте сборная России [заняла четвёртое место]Action.
+  - |
+       Одну из курсовых я потом [писал]Action именно по «Упанишадам» под руководством [Арсения Чанышева]Agent.
+  - |
+       Под руководством [менторов]Agent две команды [обсуждают острые научно-социальные вопросы]Action.
+  - |
+       Археологические раскопки [возобновились в 2000 году]Action под руководством [Николая Овчарова]Agent.
+  - |
+       А какие победы [одерживали]Action они под руководством [великого полководца]Agent!
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Agent
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] руководством [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Работа] ведётся [obl [case под] руководством [nmod директора]].]'
+comment: |
+    'См. близкую конструкцию 1168 VP под эгидой NP-Gen (Конференция пройдёт под эгидой ООН.'
+common_fillers:
+  - работать
+  - профессор
+  - доктор
+  - учитель
+  - тренер
+  - взрослые
+  - президент
+  - начальник
+  - отец
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

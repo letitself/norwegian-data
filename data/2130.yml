@@ -1,0 +1,58 @@
+---
+record: 2130
+name: 'зуб даю, (что) Cl'
+UD_name: 'зуб даю, (что) Cl'
+illustration: 'Зуб даю, что никто в комнату не заходил.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности (примеры 1-3). Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему. Конструкция также может обозначать, что говорящий заверяет собеседника в правдивости своих слов (примеры 4-5). Как бы если говорящий был настолько уверен в ситуации, что готов был бы отдать свой зуб.
+examples:
+  - |
+       Зуб даю, [историю ты придумала на ходу]ContentOfSpeech.
+  - |
+       Лев Ильич, я вам зуб даю, что [вы заводу еще понадобитесь]ContentOfSpeech.
+  - |
+       Зуб даю, что [Ваганетов не знал значения этого слова, но употребил его очень к месту]ContentOfSpeech.
+  - |
+       Зуб даю, [это именно та женщина, ради которой он приоделся]ContentOfSpeech.
+  - |
+       Не был я там! Зуб даю, [не был]ContentOfSpeech…
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb and Object
+part_of_speech_of_anchor:
+  - Noun
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obj зуб] даю'
+  - '[ccomp [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [obj Зуб] даю, [ccomp [mark что] [nsubj никто] [obl [case в] комнату] [advmod не] заходил].]'
+comment: |
+    'См. похожие конструкции 110 держу пари, (что) Cl (Держу пари, что ты в него влюблена), 2128 бьюсь об заклад, (что) Cl (Бьюсь об заклад, что вы проиграете) и 2129 готов поспорить, что Cl (Готов поспорить, что нас обманывают).'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Betting on a sure thing
+family:
+  - |
+    ""

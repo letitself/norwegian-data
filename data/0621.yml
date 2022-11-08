@@ -1,0 +1,45 @@
+---
+record: 621
+name: 'VP в качестве NP-Gen'
+UD_name: 'VP в качестве NP-Gen'
+illustration: 'Она не рассматривала его в качестве конкурента.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] качестве [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] [advmod не] рассматривала [obj его] [obl [case в] качестве [nmod конкурента]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

@@ -1,0 +1,46 @@
+---
+record: 425
+name: 'Cl, если (PronPers-2.Dat) Cop не Pred'
+UD_name: 'Cl, если (PronPers-2.Dat) Cop не Praedic'
+illustration: 'Прочитай мой рассказ, если тебе не трудно.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Cl
+  - PronPers
+  - 2
+  - Dat
+  - Cop
+  - Pred
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [advcl [mark если] [iobj PronPers-2.Dat] [cop Cop] [advmod не] Pred]]'
+  - '[root Cl, [advcl [mark если] [cop Cop] [advmod не] Pred]]'
+dependency_structure_of_illustration:
+  - '[root Прочитай [obj [det мой] рассказ], [advcl [mark если] [iobj тебе] [advmod не] трудно].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Request
+family:
+  - |
+    ""

@@ -1,0 +1,70 @@
+---
+record: 134
+name: 'Cl из-за NP-Gen'
+UD_name: 'Cl из-за NP-Gen'
+illustration: 'Это всё из-за тебя.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция указывает на [причину]Cause возникновения некоторой [ситуации]Situation. Причиной может быть конкретный человек (иллюстрация конструкции, пример 2) или внешние обстоятельства (примеры 1, 3, 4) и объекты (пример 5). Кострукция как правило называет причины нежелательных событий (примеры 1, 2, 3), но встречается также при описании желаемых (пример 5) или нейтральных событий (пример 4). Так, причиной покупки дома является ценность объекта для участника ситуации (пример 5). Другой подтип употребления описывает невозможность или затрудненность действий с объектом (пример 4).
+  - english: |
+       This construction indicates the [cause]Cause of a certain [situation]Situation. The reason can be a specific person (see the construction illustration and example 2), or external circumstances (examples 1, 3, 4) and objects (example 5). As a rule, this construction indicates the causes of undesired events (examples 1, 2, 3), but it may also occur when describing desired (example 5) or neutral events (example 4). So, the reason for buying a house is the object's value for the participant in the situation (example 5). Another subtype of its use describes the impossibility or difficulty of actions with an object (example 4).
+  - norwegian: |
+       Konstruksjonen angir [årsaken]Cause til at en gitt [situasjon]Situation har oppstått. Årsaken kan være en konkret person (illustrasjonen til konstruksjonen og eksempel 2) eller ytre omstendigheter (eksempel 1, 3 og 4) og objekter (eksempel 5). Som regel angir konstruksjonen årsakene til uønskede hendelser (eksempel 1, 2 og 3), men den forekommer også når ønskede (eksempel 5) eller nøytrale hendelser (eksempel 4) beskrives. Årsaken til huskjøpet er således objektets verdi for deltakeren i situasjonen (eksempel 5). En annen undertype av bruken beskriver umuligheten av eller vanskene forbundet med å omgås objektet (eksempel 4).
+examples:
+  - |
+       [Мы опоздали]Situation из-за [дождя]Cause.
+  - |
+       [Я тоже школу не люблю]Situation из-за [учителей]Causer.
+  - |
+       [Я очень переживала]Situation из-за [несправедливости, жёсткости и унижения]Cause.
+  - |
+       Примерно 200 лет назад была открыта новая планета, назвали ее Церерой. [До этого Церера не была замечена]Situation из-за [малых размеров]Cause.
+  - |
+       [Дом она купила]Situation из-за [старых вишен, росших на участке]Cause.
+morphology:
+  - Cl
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Cause
+  - Causer
+  - Situation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [obl [case из-за] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [advmod всё] [case из-за] тебя.]'
+comment: |
+    'См. близкую конструкцию 1258 VP по вине NP-Gen, 1259 Cl из-за того, что Cl.'
+common_fillers:
+  - болезни
+  - плохого поведения
+  - погоды
+  - дождя
+  - тебя
+  - него
+  - этого
+  - купить
+  - выбрать
+  - привязаться
+  - разводить
+  - привлекать
+references:
+  - |
+    Всеволодова, М. В., Ященко Т. А. Причинно-следственные отношения в современном русском языке. 2-е издание. 2008. М. Издательство ЛКИ. С. 84, 90.
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

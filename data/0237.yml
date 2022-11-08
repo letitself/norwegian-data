@@ -1,0 +1,64 @@
+---
+record: 237
+name: 'никогда не VP'
+UD_name: 'никогда не VP'
+illustration: 'Я никогда не был в Африке.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action не было или не будет совершено в течение всего времени до или после момента речи или другого ориентира во времени.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action verken er eller vil bli utført i løpet av all tid før eller etter taleøyeblikket eller et annet tidspunkt.
+examples:
+  - |
+       Я, например, тоже не курю, никогда не [курил]Action, выступаю за здоровый образ жизни и всех к этому призываю.
+  - |
+       Никогда не [откажусь выпить]Action с хорошим другом.
+  - |
+       Я больше никогда не [поверю]Action твоим обещаниям.
+  - |
+       Именно в этот период работы «в стол» я был, как бы это сказать ― наиболее писателем, что ли. Никогда после не [ощущал я такой радости от самого процесса работы.]Action
+  - |
+       Несмотря на разницу во взглядах, личные связи Мейерхольда со Станиславским никогда с тех пор не [прерывались.]Action
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod никогда] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod никогда] [advmod не] [cop был] [case в] Африке.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - пил
+  - курил
+  - откажусь
+  - поверю
+  - верил
+  - соглашусь
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected generally
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

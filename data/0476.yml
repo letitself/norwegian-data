@@ -1,0 +1,63 @@
+---
+record: 476
+name: 'NP-Dat ли Cop не VP-Inf'
+UD_name: 'NP-Dat ли Cop не VP-Inf'
+illustration: 'Тебе ли не радоваться!'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod ли] [cop Cop] [advmod не] VP-Inf]'
+dependency_structure_of_illustration:
+  - '[root [iobj Тебе] [advmod ли] [advmod не] радоваться!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+      - type: Mental attitude
+        subtypes:
+          - type: Perplexity
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Non-standard subject marking
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior, Perplexity"

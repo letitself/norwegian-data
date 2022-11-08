@@ -1,0 +1,75 @@
+---
+record: 984
+name: 'NP до NP-Gen'
+UD_name: 'NP до NP-Gen'
+illustration: 'Юбка до пят'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [объект]Theme (обычно, волосы или одежда) имеет длину, которая ограничена снизу [уровнем]Limit одной из частей тела человека (плечи, локти, пояс, колени, пятки и др.).
+  - norwegian: |
+       Konstruksjonen betyr at et gitt [objekt]Theme (vanligvis hår eller klær) har en lengde som er avgrenset nederst av [høyden] på en av personens kroppsdeler (skuldrene, albuene, midjen, knærne, hælene mm.).
+examples:
+  - |
+       ― Была у нас фельдшер, женщина, лет тридцати с небольшим. Симпатичная женщина, фигуристая, с [косой]Theme до [пояса]Limit.
+  - |
+       Она была коротко подстрижена и в [юбке]Theme до [колен]Limit.
+  - |
+       Александра вышла провожать брата, простоволосая, в одном платье с [рукавами]Theme до [локтя]Limit, в туфлях на босу ногу.
+  - |
+       Ещё больше стало видно, что он красив ― длинные, до [плеч]Limit, тёмные [волосы]Theme почти сходились в овал.
+  - |
+       Друзей было семь или восемь, все в узких чёрных брюках, с [чёлками]Theme до [бровей]Limit под Брюса Ли.
+morphology:
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Limit
+  - Theme
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep NP [nmod [case до] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep Юбка [nmod [case до] пят]]'
+comment: |
+    'См. переносное употребление этой конструкции в 572 NP-Nom Cop Adj-Nom до NP-Gen (Родители религиозные до фанатизма). Ограничение сверху передается конструкцией с предлогом "по" в 1516 NP Cop/VP по NP-Acc (Воды было по колено).'
+common_fillers:
+  - локтя
+  - пояса
+  - колен
+  - бровей
+  - носа
+  - плеч
+  - земли
+  - пят
+  - волосы
+  - челка
+  - платье
+  - юбка
+  - трусы
+  - шорты
+  - рубашка
+  - рукава
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

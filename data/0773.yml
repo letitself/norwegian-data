@@ -1,0 +1,63 @@
+---
+record: 773
+name: 'VP в нарушение NP-Gen'
+UD_name: 'VP в нарушение NP-Gen'
+illustration: 'Они в нарушение всех правил дали согласие на строительство.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Action (случившееся или потенциальное) противоречит [ограничениям]Limit, которые накладывает известный участникам ситуации источник. Ограничения на это [действие]Action могут быть полными или частичными, формальными (правила, законы, технические нормы, инструкции) или неформальными (традиции, социальные нормы, устои, договорённости).
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Action (som har foregått eller kan komme til å inntreffe) strider mot [noen begrensninger]Limit som er innført av en kilde som deltakerne i situasjonen er kjent med. Begrensningene av [handlingen]Action kan være fullstendige eller avgrensede, formelle (regler, lover, tekniske standarder, retningslinjer) eller uformelle (tradisjoner, sosiale normer, vaner, overenskomster).
+examples:
+  - |
+       Любопытно, что алтарь главного католического собора в нарушение [канонов]Limit [обращён на запад]Action.
+  - |
+       Посовещался с дамами, получил одобрение Васькянина, замахал руками рязанцам, чтоб те, в нарушение [всех правил]Limit, [пустили в поле другой комбайн]Action.
+  - |
+       В нарушение [отцовского наказа не продавать заводы никому, кроме братьев]Limit, он почти сразу же [продал их Савве Яковлеву]Action.
+  - |
+       В нарушение [астрономической традиции, требующей брать названия для планет и спутников из мифологических сюжетов разных народов]Limit, спутники [получили имена персонажей из произведений английских литераторов]Action ― Шекспира и Попа.
+  - |
+       Нельзя признать допустимым положение, когда договор [заключается в устной форме]Action в нарушение [требований действующего законодательства]Limit.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Limit
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] нарушение [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] [obl [case в] нарушение [nmod [det всех] правил]] дали [obj согласие [nmod [case на] строительство]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - правил
+  - требований
+  - традиции
+  - закона
+  - договоренностей
+  - инструкций
+  - устава
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

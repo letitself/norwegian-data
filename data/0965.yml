@@ -1,0 +1,73 @@
+---
+record: 965
+name: 'Noun XP, ~Noun XP'
+UD_name: 'N XP, N XP'
+illustration: 'Он час работает, час отдыхает.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает чередование двух, как правило, противоположных [ситуаций]Situation, при этом вторая ситуация длится [столько же]Measure, сколько длится первая. Слот Noun заполняется названиями различных промежутков времени, которые могут соотноситься с днями или часами, но не с более короткими временными интервалами. Особенно часто слот заполняется существительными, начинающимися на пол- (полчаса, полдня, полгода и т.д.). Слот XP может заполняться глагольной группой (примеры 1, 4), предложной группой (пример 3), наречием (примеры 3, 5).
+  - norwegian: |
+       Konstruksjonen betegner en alternering mellom to, som regel motsatte [situasjoner]Situation, der den andre situasjonen varer [like lenge]Measure som den første. Sloten Noun fylles av navn på forskjellige tidsintervaller som kan relateres til dager eller timer, men ikke kortere tidsintervaller. Særlig ofte fylles sloten av substantiver som begynner på пол- (полчаса, полдня, полгода osv.). Sloten XP kan fylles av en verbalfrase (eksempel 1 og 4), et preposisjonsledd (eksempel 3) eller et adverb (eksempel 3 og 5).
+examples:
+  - |
+       По субботам у них был банный день. [Полдня]Measure [готовились]Situation, [полдня]Measure [мылись]Situation.
+  - |
+       Лекарств ему не дали, зато сразу же расписали трехмесячный курс добавок: [месяц]Measure [одни]Theme, [месяц]Measure [другие]Theme и т. п.
+  - |
+       Полюбилась ему кочевая жизнь: [полгода]Measure [дома]Location, [полгода]Measure [в дороге]Location.
+  - |
+       Он и раньше бросал, не пил месяц, два, три, потом срывался в запой, [неделю]Measure [пил]Situation, [неделю]Measure [отлеживался]Situation…
+  - |
+       Когда я работал юрисконсультом, то постоянно ходил пешком на работу по парку «Сокольники» ― [полчаса]Measure [туда]Direction, [полчаса]Measure [назад]Direction.
+morphology:
+  - Noun
+  - XP
+  - VP
+  - Adv
+  - PP
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Theme
+  - Location
+  - Direction
+  - Measure
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [dep Noun] XP'
+  - '[conj [dep Noun] XP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obj час] работает, [conj [obl час] отдыхает].]'
+comment: |
+    'См. близкие конструкции 303 сегодня ХP, (а) завтра XP (Зима в Москве суровая. Сегодня здоров, завтра – болен.), 329 то VP, то VP (Он то плакал, то угрожал.), 1585 иногда XP, иногда XP (Иногда дождь, иногда снег.), 1586 когда XP, когда XP (Когда вовремя придёт, когда опоздает.), 1587 один (Noun) XP, другой XP (Один день строит, другой ломает.), 1588 NP-Nom на ~NP-Acc не приходится (День на день не приходится: то работы много, то сижу без дела.). При этом для конструкции 303 более характерными являются контексты однократной смены ситуации, и повторное наступление первой ситуации маловероятно, тогда как для остальных конструкций характерным является многократное повторение чередующихся ситуаций.'
+common_fillers:
+  - час
+  - день
+  - месяц
+  - год
+  - полчаса
+  - полдня
+  - полгода
+references:
+  - |
+    См. также статью Рахилина Е.В., Ладыгина А.С. Русские конструкции со значением чередования ситуаций // М.В. Ляпон (ред.). Язык: поиски, факты, гипотезы. Сб. статей к 100-летию со дня рождения акад. Н. Ю. Шведовой. М.: Лексрус, 2016, 320-335.
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Pluractionality
+    subtypes:
+      - type: Alternation
+family:
+  - |
+    ""

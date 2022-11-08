@@ -1,0 +1,70 @@
+---
+record: 25
+name: '(NP-Dat) VP-Inf Cop нечего'
+UD_name: '(NP-Dat) VP-Inf Cop нечего'
+illustration: 'Есть было нечего.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает отсутствие у [участника]Experiencer объекта, необходимого для осуществления некоторого [действия]Action. Ударение в «нечего» стоит на не-.
+  - english: |
+       This construction means that the [participant]Experiencer lacks something necessary for the fulfillment of some [action]Action. The stress in “нечего” is on “не-”.
+  - norwegian: |
+       Konstruksjonen betegner fraværet av et objekt [deltakeren]Experiencer må ha for å kunne utføre en gitt [handling]Action. Trykket i "нечего" ligger på не-.
+examples:
+  - |
+       [Мне]Experiencer было нечего [терять]Action, поэтому я не боялся.
+  - |
+       Спрашивайте, о чем хотите, [скрывать]Action [нам]Experiencer нечего, мы работаем по прозрачным схемам, самыми современными технологиями.
+  - |
+       В последнее время [удивляться]Action было нечему.
+  - |
+       А скоро [чинить]Action будет нечего: сломался двигатель, ты его выкинул и поставил новый.
+  - |
+       Он не сомневался, что Арнольд найдёт в его работе недостатки ― и [возразить]Action ему будет нечего.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Inf
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Predicative
+semantic_roles:
+  - Experiencer
+  - Action
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [csubj VP-Inf] [cop Cop] нечего]'
+  - '[root [csubj VP-Inf] [cop Cop] нечего]'
+dependency_structure_of_illustration:
+  - '[root [cop Есть] [cop было] нечего.]'
+comment: |
+    'См. похожие конструкции 20, 22, 23, 24.'
+common_fillers:
+  - делать
+  - бояться
+  - сказать
+  - терять
+  - скрывать
+  - бояться
+  - читать
+references:
+  - |
+    1) Апресян Ю. Д., Иомдин Л. Л. Конструкции типа НЕГДЕ СПАТЬ: синтаксис, семантика, лексикография // Семиотика и информатика. 1989. В. 29. С. 34–92. 2) Падучева Е. В. Отрицательные местоимения-предикативы // Материалы к корпусной грамматике русского языка. 3) Avgustinova, Tania. Forthcoming. Russian infinitival existential constructions from HPSG perspective. To appear in the Proceedings of the 4th European conference on Formal Description of Slavic Languages (FDSL-4).
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+family:
+  - |
+    ""

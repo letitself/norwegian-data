@@ -1,0 +1,62 @@
+---
+record: 232
+name: 'нигде не VP'
+UD_name: 'нигде не VP'
+illustration: 'Таких вкусных сыров уже нигде не купишь.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action невозможно совершить ни в каком месте. Слот VP заполняется глаголами обоих видов.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action ikke kan utføres noe som helst sted. Sloten VP fylles av verb av begge aspekter.
+examples:
+  - |
+       Столько цветов, растущих вместе в естественных условиях, я больше нигде не [видела.]Action
+  - |
+       Она нигде не [могла распечатать диплом.]Action
+  - |
+       После ночного дождя снега почти нигде не [осталось.]Action
+  - |
+       Он нигде не [встречал]Action таких отзывчивых людей, как на новой работе.
+  - |
+       Вы такого сюжета больше нигде не [найдете.]Action
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod нигде] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [obj [det Таких] [amod вкусных] сыров] [advmod уже] [advmod нигде] [advmod не] купишь.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - видеть
+  - говорить
+  - достать
+  - купить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected generally
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

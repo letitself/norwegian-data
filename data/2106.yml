@@ -1,0 +1,67 @@
+---
+record: 2106
+name: 'VP (NP-Acc) с нуля'
+UD_name: 'VP (NP-Acc) с нуля'
+illustration: 'Катя построила бизнес с нуля.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action нужно начинать с начала, заново, не имея предварительной подготовки, капитала, начальных ресурсов, которые могли бы облегчить процесс.
+  - norwegian: |
+       Konstruksjonen betyr at det er nødvendig å sette i gang [en handling]Action helt fra starten, på nytt igjen, uten foranstaltninger, kapital eller startmidler som ville gjort prosessen lettere.
+examples:
+  - |
+       Для подготовки конференции каждый год нужно всё [начинать]Action с нуля: приглашать докладчиков, изыскивать возможности выпускать сборник.
+  - |
+       Мне повезло в том, что немецкий язык я с нуля [учила]Action  в Германии.
+  - |
+       Значит, он потеряет все свои деньги и ему придётся опять с нуля [копить]Action на старость.
+  - |
+       Практически, он [выучился этой профессии]Action с нуля.
+  - |
+       Все пришлось [отстраивать]Action с нуля.
+morphology:
+  - VP
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obj NP-Acc] [obl [case с] нуля]]'
+  - '[root VP [obl [case с] нуля]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Катя] построила [obj бизнес] [obl [case с] нуля].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - начинать
+  - делать
+  - строить
+  - копить
+  - учить
+  - учиться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Temporary characteristics
+    subtypes:
+      - type: Transformation
+family:
+  - |
+    "Конструкции с семантикой качественного изменения, трансформации объекта."

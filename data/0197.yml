@@ -1,0 +1,44 @@
+---
+record: 197
+name: 'не кто/что иной, как NP'
+UD_name: 'не кто/что иной, как NP'
+illustration: 'Это был не кто иной, как директор школы.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Pronoun
+  - Adjective
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nmod [advmod не] кто [det иной], [fixed как]] NP]'
+  - '[root [nmod [advmod не] что [det иной], [fixed как]] NP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [cop был] [advmod не] кто [amod иной], [obl [case как] директор [nmod школы]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Exclusive
+family:
+  - |
+    ""

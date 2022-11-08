@@ -1,0 +1,44 @@
+---
+record: 350
+name: 'хоть PronInt'
+UD_name: 'хоть PronInt'
+illustration: 'Встретимся хоть когда.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - PronInt
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [advmod хоть] advmod PronInt]'
+dependency_structure_of_illustration:
+  - '[root Встретимся [advmod [advmod хоть] когда].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Options
+  - type: Quantification
+    subtypes:
+      - type: Universal
+        subtypes:
+          - type: Free Choice
+family:
+  - |
+    ""

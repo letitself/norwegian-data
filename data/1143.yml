@@ -1,0 +1,64 @@
+---
+record: 1143
+name: 'NP-Dat на вид Cop лет NumCrd'
+UD_name: 'NP-Dat на вид Cop лет NumCrd'
+illustration: 'Ему на вид лет сорок.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает предположение говорящего относительно [приблизительного возраста]Quantity [участника]Participant, основанное на его внешнем виде. На приблизительность названного числового значения указывает инверсия («лет сорок» вместо «сорок лет»). В случаях, когда говорящему известен точный возраст участника, конструкция может использоваться для того, чтобы подчеркнуть соответствие или несоответствие внешнего вида реальному возрасту (примеры 4, 5). В конструкции, как правило, используются круглые числа (30, 40 и т. д.).
+  - norwegian: |
+       Konstruksjonen betegner talerens antakelse om [en deltakers]Participant [omtrentlige alder]Quantity, basert på utseendet. Omtrentligheten ved den oppgitte tallverdien angis vha. inversjon ("лет сорок" i stedet for "сорок лет"). I de tilfellene der taleren kjenner deltakerens eksakte alder, kan konstruksjonen brukes for å fremheve samsvaret eller mangelen på samsvar mellom utseendet og den reelle alderen (eksempel 4 og 5). Tallene i konstruksjonen er som regel runde (30, 40 osv.).
+examples:
+  - |
+       Катя знает Бориса Леонидовича двадцать лет, самой [ей]Participant на вид лет [сорок]Quantity.
+  - |
+       Среди присутствующей на перроне многочисленной публики находилась одна дама небольшого роста, [которой]Participant на вид лет [тридцать]Quantity.
+  - |
+       [Деду]Participant на вид лет [восемьдесят с небольшим]Quantity, и ему уже, наверное, лет двадцать никто из молодых и незнакомых так запросто не звонил.
+  - |
+       Сейчас ему тридцать, а знаем мы его с 1984 года, когда [ему]Participant было двенадцать, а на вид ― лет [восемь]Quantity.
+  - |
+       [Ей]Participant было на вид лет [восемнадцать]Quantity, на деле ― лет на пять больше.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - NumCrd
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Participant
+  - Quantity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [obl [case на] вид] [cop Cop] лет [nummod NumCrd]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ему] [obl [case на] вид] лет [nummod сорок].]'
+comment: |
+    'См. близкую конструкцию 1142 на вид Adj (Он на вид спокойный).'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 1800
+name: 'Adv-овато/-евато'
+UD_name: 'Adv-овато/-евато'
+illustration: 'После переезда в доме было пустовато.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция понижает степень интенсивности [признака]Property действия или объекта. Как правило, имеет негативную коннотацию.
+  - norwegian: |
+       Konstruksjonen gjør at [et kjennetegn]Property ved en handling eller et objekt blir mindre intensivt. Som regel har den en negativ konnotasjon.
+examples:
+  - |
+       Придется выкрасить «Антилопу» в желтый цвет. Будет [ярковато]Property, но красиво.
+  - |
+       Маше было уже лет тринадцать – [поздновато]Property спортивную карьеру начинать.
+  - |
+       Но [дороговато]Property для среднестатистического родителя оплачивать подобные языковые курсы.
+morphology:
+  - Adv
+syntactic_type_of_construction:
+  - Morphological Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Property
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[advmod Adv-овато]'
+  - '[advmod Adv-евато]'
+dependency_structure_of_illustration:
+  - '[root [obl [case После] переезда] [obl [case в] доме] [aux:pass было] пустовато.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - пустовато
+  - глуповато
+references:
+  - |
+    About morphological markers of attenuativity see Makarova, Anastasia. 2014. Makarova, Anastasia. 2014. Rethinking diminutives: a case study of Russian verbs. Doctoral Dissertation. UiT: The Arctic University of Norway.
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+family:
+  - |
+    "Attenuative family"

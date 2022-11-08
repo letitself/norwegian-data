@@ -1,0 +1,69 @@
+---
+record: 1732
+name: 'VP NP-Ins на NP-Loc'
+UD_name: 'VP NP-Ins на NP-Loc'
+illustration: 'Йоги могут лежать спиной на гвоздях.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция указывает на местоположение человека (или, реже, животного) в пространстве: конструкция обозначает [место]Location, с которым участник [соприкасается]State [частью своего тела]Theme.
+  - norwegian: |
+       Konstruksjonen angir et menneskes (eller, sjeldnere, et dyrs) plassering i rommet. Konstruksjonen betegner [et sted]Location deltakeren [er borti]State [med en kroppsdel]Theme.
+examples:
+  - |
+       За время сна Петров успел сдвинуть подушку в сторону и [лежал]State [головой]Theme на [простыне]Location.
+  - |
+       Он [лежал]State [щекой]Theme на [холодном бетоне]Location и слышал собственный голос.
+  - |
+       ― Ры-ы-ба, ― говорил Алеша благоговейно, [стоя]State [коленями]Theme на [стуле]Location и придвинув нос к самому стеклу аквариума.
+  - |
+       Он [распластался]State [спиной]Theme на [двери]Location, расставил руки и ноги в упор.
+  - |
+       Санька не отвечал, [висел]State [животом]Theme на [срубе колодца]Location, сталкивал вниз гнилые щепочки.
+morphology:
+  - VP
+  - NP
+  - Ins
+  - Loc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - State
+  - Theme
+  - Location
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl NP-Ins] [obl [case на] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Йоги] могут [xcomp лежать [obl спиной] [obl [case на] гвоздях]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - лежать
+  - стоять
+  - висеть
+  - спиной
+  - животом
+  - головой
+  - щекой
+  - грудью
+  - коленями
+references:
+  - |
+    См. также Рахилина Е.В. Когнитивный анализ пред­метных имен: семантика и сочетаемость. М.: Азбуковник, 2010, 2-e издание. С. 266.
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

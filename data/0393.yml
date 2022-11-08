@@ -1,0 +1,64 @@
+---
+record: 393
+name: 'Adj-Cmp/Adv-Cmp всех'
+UD_name: 'Adj-Cmp/Adv-Cmp всех'
+illustration: 'Ты был лучше всех.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1, 2) или характеризовать [производимое ими действие]Action (примеры 3-5). У [одного объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [всех других элементов некоторого множества]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1 og 2) eller [handlingen de utfører]Action (eksempel 3-5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [ett objekt eller én deltaker]Action enn hos [alle de andre elementene i en gitt mengde]Standard.
+examples:
+  - |
+       [Ее дочь]Comparee в ослепительном малиновом платье, [выше и стройнее]Parameter всех.
+  - |
+       Да, [он]Comparee был [сильнее]Parameter всех не только в классе, но и во всем мыслимом, учитывая наш возраст, мире.
+  - |
+       [Ее дети]Comparee [учились]Activity [лучше]Parameter всех, ее дети самые дисциплинированные и талантливые.
+  - |
+       [Чаще]Parameter всех [появлялась]Action давно знакомая, давно лечившая его [участковый врач Людмила Егоровна]Comparee.
+  - |
+       Долго считалось, что телевидение как жанр иллюзионисту противопоказано. [Блистательнее]Parameter всех [обратное доказал]Action [господин Копперфильд]Comparee, ставший иллюзионистом с международным именем именно благодаря телевидению.
+morphology:
+  - Adj
+  - Cmp
+  - Adv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - Action
+  - Comparee
+  - Parameter
+  - Standard
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root Adj-Cmp [obl всех]]'
+  - '[advmod Adv-Cmp [obl всех]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [cop был] лучше [obl всех].]'
+comment: |
+    'См. близкие конструкции 1162 Adv-Cmp всего VP (Эти бусы подходят к платью лучше всего) и 1488 Adv-Cmp/Adj-Cmp (всех) остальных (Она прибежала к финишу быстрее остальных)'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

@@ -1,0 +1,44 @@
+---
+record: 1746
+name: 'VP за город'
+UD_name: 'VP за город'
+illustration: 'Хочется поехать за город на выходные.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] город]]'
+dependency_structure_of_illustration:
+  - '[root Хочется [xcomp поехать [obl [case за] город] [obl [case на] выходные]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

@@ -1,0 +1,66 @@
+---
+record: 571
+name: 'NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom'
+UD_name: 'NP-Nom Cop Adj-Cmp, чем NP-Nom/VP Adv-Cmp, чем NP-Nom'
+illustration: 'Она старше, чем ты.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [производимое ими действие]Action (примеры 4, 5). У [первого объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [второго]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1-3) eller [handlingen de utfører]Action (eksempel 4 og 5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [det første objekt eller deltakeren]Action enn hos [det andre]Standard.
+examples:
+  - |
+       Я считаю, что [она]Comparee [умнее]Parameter, чем [её сестра]Standard.
+  - |
+       [Она]Comparee [выше]Parameter, чем [все женщины нашей семьи]Standard вместе взятые.
+  - |
+       Смотрела на семьи подружек и с гордостью осознавала, что [мой папа]Comparee [веселее]Parameter, чем [дядя Вова]Standard, [красивее]Parameter, чем [наш сосед]Standard, [добрее]Parameter, чем [Анин папа]Standard.
+  - |
+       А вот [Моргунов]Comparee, который [сыграл]Action [не хуже]Parameter, чем [остальные]Standard, не снимался вообще.
+  - |
+       [Книги Джейн Остин]Comparee [выглядят]State [современнее]Parameter, чем [романы многих ее современников]Standard вроде Вальтера Скотта.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Adj
+  - Cmp
+  - VP
+  - Adv
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Action
+  - Comparee
+  - Parameter
+  - Standard
+  - State
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] Adj-Cmp, [obl [case чем] NP-Nom]]'
+  - '[root VP [advmod Adv-Cmp, [obl [case чем] NP-Nom]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] старше, [obl [case чем] ты].]'
+comment: |
+    'См. близкие конструкции 1125 NP-Nom Cop Adj-Cmp, нежели NP-Nom/VP Adv-Cmp, нежели NP-Nom (Пустые стеллажи лучше, нежели тележки в коридорах) и 1163 более/менее Adj, чем NP-Nom (Петя более общительный, чем Вася)'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+family:
+  - |
+    ""

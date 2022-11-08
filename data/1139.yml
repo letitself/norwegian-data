@@ -1,0 +1,59 @@
+---
+record: 1139
+name: 'VP на берегу'
+UD_name: 'VP на берегу'
+illustration: 'О таких вещах нужно договариваться на берегу, то есть заранее.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторая договоренность]Action между участниками должна быть достигнута перед тем, как приступить к действию, заранее.
+examples:
+  - |
+       Мы ― адвокаты, привыкли правильно структурировать сделки. В отношениях с партнерами все очень просто, самое важное ― обо всем [договориться]Action на берегу.
+  - |
+       Нужно [оговорить]Action всё на берегу.
+  - |
+       Есть вопросы, которые нужно [обсудить]Action на берегу, до отношений.
+  - |
+       Нанимая няню, — что не забыть [обсудить]Action на берегу? Что важно не упустить?
+  - |
+       Очень важно [решать]Action все вопросы еще на берегу, чтобы потом не было неудобно за свою работу
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case на] берегу]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case О] [det таких] вещах] нужно [csubj договариваться] [obl [case на] берегу, [conj [mark то [fixed есть]] заранее]].]'
+comment: |
+    'См. близкую конструкцию 1616.'
+common_fillers:
+  - договариваться
+  - обсудить
+  - проговаривать
+  - обговорить
+  - решать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Taxis
+    subtypes:
+      - type: Preceding action
+family:
+  - |
+    "Precedence"

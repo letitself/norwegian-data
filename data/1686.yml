@@ -1,0 +1,44 @@
+---
+record: 1686
+name: 'NP-Nom пытаться VP-Inf'
+UD_name: 'NP-Nom пытаться VP-Inf'
+illustration: 'Его долго пытались поймать.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] пытаться [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [obj Его] [advmod долго] пытались [xcomp поймать].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Conative
+family:
+  - |
+    ""

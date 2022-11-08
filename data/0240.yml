@@ -1,0 +1,53 @@
+---
+record: 240
+name: 'ничего себе (такой) NP'
+UD_name: 'ничего себе (такой) NP'
+illustration: 'Ничего себе машина. Она слишком большая!'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root ничего [iobj себе] [nsubj NP]]'
+  - '[root ничего [iobj себе] [nsubj [det такой] NP]]'
+dependency_structure_of_illustration:
+  - '[root Ничего [iobj себе] [nsubj машина].] [root [nsubj Она] [advmod слишком] большая!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Deviation from the norm
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Deviations from the norm"

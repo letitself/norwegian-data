@@ -1,0 +1,68 @@
+---
+record: 148
+name: 'NP-Nom как начать VP-Ipfv.Inf!'
+UD_name: 'NP-Nom как начать VP-Imp.Inf!'
+illustration: 'А он как начал кричать!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent ситуации неожиданно начинает выполнять некоторое интенсивное [действие]Action.
+  - english: |
+       This construction indicates that the [participant]Agent in the situation unexpectedly starts carrying out an intensive [action]Action.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent i situasjonen uventet begynner å utføre en gitt intensiv [handling]Action.
+examples:
+  - |
+       Я спросил его о любимых книгах. И тут [он]Agent как начнет [перечислять!]Action
+  - |
+       [Маша]Agent как начала [хохотать]Action, да так, что не может остановиться!
+  - |
+       Объявили выступления детей у елки. Кто песню спел, кто стишок продекламировал. А потом [все ребята]Agent как начали [кричать]Action: «Пусть Крылов фокусы покажет!»
+  - |
+       Мы вышли на улицу. Дождь кончился, небо чистое, звездное. Думаю: «Хорошо, что здесь звезды настоящие». Тут [они]Agent как начали [падать]Action!..
+  - |
+       Тут как обступят Кузьму [помощники]Agent, как начнут [трясти]Action: и то им покажи, и это объясни...
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Adverb
+  - Verb
+semantic_roles:
+  - Agent
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod как] начать [xcomp VP-Inf]!]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj он] [advmod как] начал [xcomp кричать]!]'
+comment: |
+    'Ср. близкую конструкцию 525.'
+common_fillers:
+  - кричать
+  - петь
+  - хохотать
+  - хихикать
+  - заливать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Mirative
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+family:
+  - |
+    ""

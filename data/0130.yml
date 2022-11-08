@@ -1,0 +1,72 @@
+---
+record: 130
+name: 'NP-Nom за-Verb VP-Pfv.Inf'
+UD_name: 'NP-Nom за-V VP-Perf.Inf'
+illustration: 'Я зашел поговорить.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник ситуации]Agent ненадолго [посетил]Action определенное место или другого участника с определенной [целью]Purpose, отклонившись для этого от своей основной траектории движения. Цель посещения названа в слоте VP-Pfv.Inf и представлена как менее значимая по сравнению с конечной целью пути. Набор глаголов в слоте за-Verb сильно ограничен. Значение отклонения от основной траектории наблюдается только у нескольких глаголов с приставкой за-, образованных от некоторых глаголов направленного движения: зайти, забежать, заехать, заскочить.
+  - english: |
+       This construction indicates that some [participant in the situation]Agent briefly [visited]Action a certain place or another participant with a certain [purpose]Purpose and by doing so has deviated away from their main initial trajectory. The aim of the visit is mentioned in the VP-Pfv slot and is presented as being less significant than the journey's final goal. The set of verbs in the за-Verb slot is very limited. The meaning of deviating away from the main path of movement is observed only on some verbs with the prefix за-, formed by certain verbs of unidirectional motion: зайти 'ZA-walk', забежать 'ZA-run', заехать 'ZA-drive', заскочить 'ZA-jump', all meaning 'stop by'.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker i situasjonen]Agent for et kort tidsrum [har besøkt]Action et bestemt sted eller en annen deltaker med et bestemt [formål]Purpose og dermed har avveket fra sitt vanlige bevegelsesmønster. Formålet med besøket er nevnt i sloten VP-Pfv.Inf og er fremstilt som mindre betydningsfullt enn reisens endelige formål. Mengden verb som kan stå i sloten за-Verb er sterkt begrenset. Betydningen av avvik fra det vanlige bevegelsesmønsteret er til stede kun hos enkelte verb med forstavelsen за-, dannet av visse bestemte bevegelsesverb: зайти, забежать, заехать, заскочить.
+examples:
+  - |
+       И только через много, много лет я его встретил в ресторане "Амра", куда [я]Agent [зашёл]Action [выпить кофе.]Purpose
+  - |
+       После обеда я отправился к своему дружку командиру вертолетчиков Николаю Ледяхову. В магазин [заехал]Action [конфет девчонкам купить.]Purpose Ледяхов был женат и имел двух девчонок-хохотушек пяти и шести лет. Дом у него был большой.
+  - |
+       Теперь надо [заскочить]Action на базар [купить мед, фрукты, лимоны,]Purpose [заехать]Action домой, взять бульон и отвезти все матери в больницу.
+  - |
+       Третьего июня [Нина]Agent [забежала]Action [попрощаться]Purpose, попрощалась и ушла.
+  - |
+       13 мая мне позвонила Софа и сказала, чтобы я после студии пришла. [Я]Agent [забежала]Action домой [привести себя в порядок.]Purpose Когда я пришла к Ольге Леонардовне, все уже ужинали.
+morphology:
+  - NP
+  - Nom
+  - Verb
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Action
+  - Agent
+  - Purpose
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] за-Verb [xcomp VP-Pfv.Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] зашел [xcomp поговорить].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - зайти
+  - забежать
+  - заехать
+  - заскочить
+  - выпить кофе
+  - пообедать
+  - попрощаться
+  - купить
+  - поболтать
+  - проведать
+references:
+  - |
+    Sokolova, Svetlana and Anna Endresen. 2017. “The Return of the Prefix ZA-, or What Determines the Prototype.” In: Anastasia Makarova, Stephen M. Dickey and Dagmar S. Divjak (eds.) Each Venture a New Beginning: Studies in Honor of Laura A. Janda. Bloomington, IN: Slavica Publishers. 241-258. ISBN 978-0-89357-478-9.
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    "This construction means that someone visits someone or somewhere because of a particular [errand]goal, e.g. поговорить ‘have a little talk’. The construction is used specifically about short visits and can often be translated as ‘drop by to [do something]Goal. зайти 'ZA-go', забежать 'ZA-run', заехать 'ZA-drive', заскочить 'ZA-jump'. Konstruksjonen betyr at noen besøker en person eller et sted for å få gjort et spesfikt [ærend]Goal, f.eks. поговорить ‘slå av en prat’. Besøket er relativt kortvarig, og зайти kan dermed ofte oversettes som ‘stikke innom’. Merk at det relevante [ærendet]Goal uttrykkes vha. et perfektivt verb."

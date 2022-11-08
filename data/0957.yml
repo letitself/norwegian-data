@@ -1,0 +1,59 @@
+---
+record: 957
+name: '(только) дать-Imp PronPers-Dat повод, Cl'
+UD_name: '(только) дать-Imper PronPers-Dat повод, Cl'
+illustration: 'Ему только дай повод, сразу придет просить.'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - Imp
+  - PronPers
+  - Dat
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Object
+syntactic_structure_of_anchor:
+  - Verb and Object
+part_of_speech_of_anchor:
+  - Particle
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advcl [advmod только] дать-Imp [iobj PronPers-Dat] [obj повод]], Cl]'
+  - '[root [advcl дать-Imp [iobj PronPers-Dat] [obj повод]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [iobj Ему] [advmod только] дай [obj повод]], [advmod сразу] придет [xcomp просить].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Condition
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior"

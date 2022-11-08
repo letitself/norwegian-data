@@ -1,0 +1,67 @@
+---
+record: 2346
+name: 'ни минуты/секунды не VP'
+UD_name: 'ни минуты/секунды не VP'
+illustration: 'Не теряйте ни минуты.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его [минимального кванта]Time, которым представляется единица времени (минута или секунда).
+examples:
+  - |
+       Я не [спал]Action ни [минуты]Measure, но удача окрыляла.
+  - |
+       Ваня не [молчал]Action ни [минуты]Measure, он с любым найдет о чем поговорить.
+  - |
+       А вот в том, что Борис Абрамович уж точно просчитал все варианты, я не [сомневаюсь]Action ни [минуты]Measure.
+  - |
+       Наталья Сергеевна не [раздумывала]Action ни [секунды]Measure: «Я согласна. Делайте все, что считаете нужным.»
+  - |
+       В их искренность она не [верила]Action ни [секунды]Measure.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Measure
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'No comment yet'
+common_fillers:
+  - терять
+  - медлить
+  - колебаться
+  - раздумывать
+  - сомневаться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

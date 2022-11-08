@@ -1,0 +1,61 @@
+---
+record: 85
+name: 'всё VP-Ipfv'
+UD_name: 'всё VP-Imp'
+illustration: 'С самого приезда в Пекин он всё грустил.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает продолжительное [действие]Action, которое началось в прошлом. Ожидалось, что это действие должно было уже закончиться, но оно продолжается.
+  - english: |
+       This construction expresses an ongoing [action]Action that started in the past. It was expected that the action had ended, but it is still ongoing.
+  - norwegian: |
+       Konstruksjonen uttrykker en vedvarende [handling]Action som startet i fortiden. Det var forventet at handlingen ville ha ta slutt, men den fortsetter.
+examples:
+  - |
+       И кто-то сверху всё [кричал]Action: «У-у!»
+  - |
+       А Захар всё [искал]Action лазейку к сердцу главного хранителя, что давал разрешение на копирование.
+  - |
+       А он всё [сидел]Action и писал это сочинение по Достоевскому.
+  - |
+       А Ёжик всё [плясал]Action, Медвежонок [играл]Action, и они даже не заметили, что, кроме них, в доме никого нет.
+  - |
+       Но что же вы всё [ругаете]Action нас, мы ведь не только плохое делаем.
+morphology:
+  - VP
+  - Ipfv
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod всё] VP-Ipfv]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] [amod самого] приезда [nmod [case в] Пекин]] [nsubj он] [advmod всё] грустил.]'
+comment: |
+    'Всё is similar to intensifier but rather tells about time (~constantly). Семья континуативных конструкций с семантикой For a long time (непрерывность) - Verbs with intensifiers так, все'
+common_fillers:
+  - кричать
+references:
+  - |
+    Zhukova, Valentina. 2020. Intensifying constructions in Russian based on data from Russian Constructicon. Moscow: National Research University Higher School of Economics, MA Thesis.
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    "Continuativity: For a long time"

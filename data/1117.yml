@@ -1,0 +1,60 @@
+---
+record: 1117
+name: 'VP как попало'
+UD_name: 'VP как попало'
+illustration: 'Он писал как попало.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Action осуществляется небрежно. Конструкция может также обозначать, что заранее не был распланирован ход [действия]Action или у участника не было времени, сил или желания к нему подготовиться.
+  - norwegian: |
+       Konstruksjonen betyr at [en handling]Action utføres skjødesløst. Konstruksjonen kan også bety at gangen i [handlingen]Action ikke har vært planlagt på forhånd eller at deltakeren ikke har hatt tid, krefter eller ønske om å forberede seg til den.
+examples:
+  - |
+       Футболисты быстро поняли, что лучше вообще не бить, чем [бить]Action как попало: ударишь неправильно и мяч попадет к сопернику.
+  - |
+       [Одевается]Action он как попало. Чаще всего он появлялся в нашем доме в каких-то старых спортивных обносках, в лыжных штанах, рваных куртках, кедах.
+  - |
+       Если что, могут спать где придется, [есть]Action как попало, без особых претензий и сетований.
+  - |
+       Когда же в коридоре зазвенел звонок, он с досадой [сложил газету]Action как попало, заломав углы.
+  - |
+       Наш дом не распланированный и [строится]Action как попало.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [advcl [mark как] попало]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] писал [advcl [mark как] попало].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - лежать
+  - валяться
+  - есть
+  - делать
+  - расставить
+  - разложить
+  - одеваться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

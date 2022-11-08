@@ -1,0 +1,68 @@
+---
+record: 2329
+name: 'NP-Nom Cop не прочь VP-Inf'
+UD_name: 'NP-Nom Cop не прочь VP-Inf'
+illustration: 'Я не прочь жениться.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает желание и готовность [участника]Experiencer выполнить [некоторое действие]Action. Слово "прочь" является разговорным вариантом слова "против".
+examples:
+  - |
+       [Игорь]Agent тоже подумал, что не прочь [выкурить сигарету]Action и [выпить кофе]Action.
+  - |
+       Ладно, и [я]Agent не прочь [вздремнуть]Action, пока народ собирается.
+  - |
+       [Остальные]Agent, включая Стеклова, тоже были не прочь [поработать]Action.
+  - |
+       [Марин]Agent не прочь [повторить]Action, а то и улучшить результат отца.
+  - |
+       Тут, под звездами, [он]Agent не прочь [порассуждать о времени и о себе]Action.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] прочь [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod не] прочь [csubj жениться].]'
+comment: |
+    'Не путать с конструкциями 1802 и 1803.'
+common_fillers:
+  - перекусить
+  - вздремнуть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+      - type: Acceptance
+        subtypes:
+          - type: Support
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Volition
+family:
+  - |
+    "Willingness, Support"

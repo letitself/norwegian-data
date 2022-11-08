@@ -1,0 +1,56 @@
+---
+record: 2217
+name: 'чего ради Cl?'
+UD_name: 'чего ради VP?'
+illustration: 'Чего ради я буду вам помогать?'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий не понимает причины и целесообразности некоторого [действия.]Action Конструкция часто выражает недоумение или недовольство говорящего. Слова «к чему» означают 'для чего, почему'. Конструкция может также обозначать отказ говорящего выполнять действие, и в таких случаях она представляет собой риторический вопрос (примеры 1, 3). Действие обычно названо личной формой глагола (примеры 1, 2) или инфинитивом глагола, при котором участник выражен формой дательного падежа местоимения или существительного (примеры 3, 4). Иногда действие выражено отглагольным существительным (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke forstår årsaken til og poenget med en gitt [handling.]Action Ofte uttrykker konstruksjonen talerens villrede eller misnøye. Ordene "к чему" betyr 'i hvilken hensikt, hvorfor'. Konstruksjonen kan også betegne talerens vegring mot å utføre en handling og fremstår da som et retorisk spørsmål (eksempel 1 og 3). Handlingen betegnes vanligvis av et personbøyd verb (eksempel 1 og 2) eller av et verb i infinitiv, der deltakeren er uttrykt av et pronomen eller substantiv i dativ (eksempel 3 og 4). Av og til uttrykkes handlingen av et verbalsubstantiv (eksempel 5).
+examples:
+  - |
+       Так я ж атеист. Чего ради я [стану молиться]Action?
+  - |
+       Ну и чего ради они [затеяли эту драку]Action?
+  - |
+       Чего ради мне [о тебе заботиться]Action, я ж не мать тебе родная!
+  - |
+       Чего ради государству [тратить бюджет на такие мелочи]Action, когда вот-вот война?
+  - |
+       А то возникает вопрос: чего ради [такая адская работа]Action, если полученные за нее деньги не приносят удовлетворения?
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - Action
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [obl чего [case ради]] VP?]'
+dependency_structure_of_illustration:
+  - '[root [obl Чего [case ради]] [nsubj я] [aux буду] [iobj вам] помогать?]'
+comment: |
+    'См. близкую конструкцию 138.'
+common_fillers:
+  - помогать
+  - рисковать
+references:
+  - |
+    См. о выражении внешней причины в монографии Всеволодова, М. В., Ященко Т. А. 2008. Причинно-следственные отношения в современном русском языке. Изд. 2. М. Издательство ЛКИ.
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

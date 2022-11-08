@@ -1,0 +1,61 @@
+---
+record: 1723
+name: 'VP в голове NP-Gen'
+UD_name: 'VP в голове NP-Gen'
+illustration: 'Танк идёт в голове колонны.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает [расположение]State в передней части [длинного объекта]Theme (часто транспорта), в начале [списка]Theme или [направленного движения]Theme. Как если бы этот длинный объект был телом животного с головой впереди.
+examples:
+  - |
+       Его вагон [был]State в голове [поезда.]Theme
+  - |
+       Паровоз [находился]State в голове [состава.]Theme
+  - |
+       А в голове [колонны]Theme на большом джипе «Чероки» [ехал]Action его брат.
+  - |
+       В голове [упряжки]Theme обычно [запрягались]State две наиболее выносливые и смышленые собаки.
+  - |
+       В голове [процессии,]Theme делая гигантские шаги, [бежал]Action начальник.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] голове [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Танк] идёт [obl [case в] голове [nmod колонны]].]'
+comment: |
+    'См. близкие конструкции 1723 и 1749. Не путать с конструкцией 1734 VP во главе NP-Gen.'
+common_fillers:
+  - поезд
+  - состав
+  - колонна
+  - очередь
+  - процессия
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

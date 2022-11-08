@@ -1,0 +1,59 @@
+---
+record: 1870
+name: '(да) и вообще, Cl'
+UD_name: '(да) и вообще, Cl'
+illustration: 'Да и вообще, я слишком занят.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Эта информация подается как заключительный и наиболее веский аргумент в ряду аргументов или причин, которые приводит говорящий для убеждения собеседника.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. This information is presented as final and the most  weighty argument among those arguments or reasons that the speaker used in order to persuade the conversation partner.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere. Informasjonen presenteres som det endelige og vektigste argumentet av en rekke argumenter eller forklaringer som taleren anfører for å overbevise samtalepartneren.
+examples:
+  - |
+       ― Давайте я вас довезу на машине! ― Нет, спасибо, я не устал. И вообще, [мой дом за поворотом.]ContentOfSpeech
+  - |
+       Нет, костюмов у нас нет. Да и вообще, [зачем вам костюм?]ContentOfSpeech
+  - |
+       ― Я не хочу туда идти, ― не соглашалась Снежана. ― И вообще, [это не твоё дело!]ContentOfSpeech
+  - |
+       Если Вы не получили от меня ответ, напишите мне на мой адрес на сайте. Да и вообще, [все личные вопросы лучше направляйте мне через мой сайт.]ContentOfSpeech
+  - |
+       Пилоты не имеют права отвлекаться на посторонние разговоры. И вообще, [кабина самолета ― это не место, где можно расслабиться.]ContentOfSpeech
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [cc да] [advmod и] вообще], Cl]'
+  - '[root [parataxis [advmod и] вообще], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [cc Да] [advmod и] вообще], [nsubj:pass я] [advmod слишком] занят.]'
+comment: |
+    'См. близкую конструкцию 732 больше/более того, Cl.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive
+family:
+  - |
+    ""

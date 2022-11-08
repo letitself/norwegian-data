@@ -1,0 +1,50 @@
+---
+record: 2196
+name: 'XP – это мысль!'
+UD_name: 'XP – это мысль!'
+illustration: 'Прогулка на свежем воздухе – это мысль!'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [dep XP] – [expl это] мысль!]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Прогулка [nmod [case на] [amod свежем] воздухе]] – [expl это] мысль!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+family:
+  - |
+    "Assessment of an entity"

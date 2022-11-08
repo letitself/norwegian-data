@@ -1,0 +1,55 @@
+---
+record: 372
+name: 'что это NP-Nom VP?!'
+UD_name: 'что это NP-Nom VP?!'
+illustration: 'Что это вы молчите?!'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod что] [expl это] [nsubj NP-Nom] VP?!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Что] [discourse это] [nsubj вы] молчите?!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+      - type: Mental attitude
+        subtypes:
+          - type: Perplexity
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Discontent, Perplexity"

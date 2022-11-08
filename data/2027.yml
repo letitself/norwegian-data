@@ -1,0 +1,61 @@
+---
+record: 2027
+name: 'PronPers-Nom у меня до-Verb-ся!'
+UD_name: 'PronPers-Nom у меня до-V-ся!'
+illustration: 'Они у меня допрыгаются!'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция выражает [угрозу]Action говорящего, обращенную к собеседнику. Говорящий не одобряет действия собеседника и намеревается его наказать. Говорящий может также использовать эту конструкцию, чтобы остановить нежелательное действие собеседника. Слот до-Verb-ся в конструкции является глаголом в будущем времени.
+  - norwegian: |
+       Konstruksjonen uttrykker en [trussel]Action taleren fremsetter mot samtalepartneren. Taleren bifaller ikke samtalepartnerens handlinger og har til hensikt å straffe vedkommende. Taleren kan også bruke konstruksjonen for å stanse en uønsket handling fra samtalepartnerens side. Sloten до-Verb-ся i konstruksjonen er et verb i fremtid.
+examples:
+  - |
+       Алёна у меня ещё [допляшется]Action!
+  - |
+       Ты что, самая умная? Ты у меня [доотвечаешься]Action, из школы выгоню!
+  - |
+       «Ну, погоди. Ты у меня [добалуешься]Action !..» — обозлился Николай
+  - |
+       – Мы специально ничего тебе не говорили, чтобы ты не поехала в аэропорт меня встречать. – Ну, вы у меня [доиграетесь!]Action – пригрозила она.
+  - |
+       Он у него [допоётся!]Action
+morphology:
+  - PronPers
+  - Nom
+  - Verb
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj PronPers-Nom] [obl [case у] меня] до-Verb-ся]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] [obl [case у] меня] допрыгаются!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - допрыгаться
+  - доиграться
+  - добаловаться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+  - type: Threat
+family:
+  - |
+    "Глагол целиком в будущем времени"

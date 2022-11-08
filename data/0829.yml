@@ -1,0 +1,44 @@
+---
+record: 829
+name: 'Cl в тылу NP-Gen'
+UD_name: 'Cl в тылу NP-Gen'
+illustration: 'Их участие в проекте объясняется партизанскими действиями в тылу конкурентов.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - Cl
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [nmod [case в] тылу [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Их] участие [nmod [case в] проекте]] объясняется [iobj [amod партизанскими] действиями [nmod [case в] тылу [nmod конкурентов]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

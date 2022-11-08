@@ -1,0 +1,73 @@
+---
+record: 915
+name: 'NP-Nom так и VP-Ipfv.Fut/про-Verb?'
+UD_name: 'NP-Nom так и VP-Imp.Fut/про-V?'
+illustration: 'Вы так и будете стоять здесь?'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent совершает продолжительное [действие]Action, которое началось в прошлом. Говорящий ожидал, что это действие должно было закончиться, но оно продолжается. Говорящий выражает недовольство сложившейся ситуацией.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent utfører en vedvarende [handling]Action som ble påbegynt i fortiden. Taleren hadde forventet at handlingen ville ta slutt, men den pågår fortsatt. Taleren uttrykker misnøye med den inntrufne situasjonen.
+examples:
+  - |
+       Или тебе все равно? Так и [будешь молчать, глядя в чашку]Action?
+  - |
+       Но хотя бы имя у него есть? Или [вы]Agent так и [будете называть его местоимением «он»]Action?
+  - |
+       Так и [будете сидеть голодные]Action?
+  - |
+       Светлана покрылась холодным потом и не могла заставить себя взять телефон в руки. ― Ты ответишь или [мы]Experiencer так и [будем слушать этот трезвон]Action?
+  - |
+       И [календарь]Agent, который он повесил на стенку, так и [провисел]Action у меня весь 2000 год.
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Ipfv
+  - Fut
+  - Verb
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+semantic_roles:
+  - Action
+  - Experiencer
+  - Agent
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod так] [advmod и] VP-Ipfv.Fut?]'
+  - '[root [nsubj NP-Nom] [advmod так] [advmod и] про-Verb?]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вы] [advmod так] [advmod и] [aux будете] стоять [advmod здесь]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - присидишь
+  - простоишь
+  - прождешь
+  - просидел
+  - просидят
+  - провисит
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    "Continuativity: For a long time"

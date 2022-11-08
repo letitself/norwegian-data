@@ -1,0 +1,57 @@
+---
+record: 1616
+name: 'VP заранее/загодя/заблаговременно'
+UD_name: 'VP заранее/загодя/заблаговременно'
+illustration: 'Этот вопрос надо решить заранее.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается раньше, чем необходимо или ожидается. У участника есть опасения, что осуществление действия в более позднее время может быть сложнее или иметь негативные последствия.
+examples:
+  - |
+       Всё получилось так, как я и [предполагал]Action заранее.
+  - |
+       [Выехали]Action на вокзал заранее, прокатились через центр Москвы ― устроили обзорную экскурсию для Кости.
+  - |
+       Соус можно [приготовить]Action заблаговременно и держать его в холодильнике или морозильнике.
+  - |
+       Они заблаговременно [подготовились]Action к сезону и запаслись посадочным материалом.
+  - |
+       У меня всего один шкаф, и я загодя [освободила]Action для вещей подруги две нижние полки.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod заранее]]'
+  - '[root VP [advmod загодя]]'
+  - '[root VP [advmod заблаговременно]]'
+dependency_structure_of_illustration:
+  - '[root [obj [det Этот] вопрос] надо [csubj решить [advmod заранее]].]'
+comment: |
+    'См. близкую конструкцию 1617.'
+common_fillers:
+  - планировать
+  - предполагать
+  - выехать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Preceding action
+family:
+  - |
+    "Precedence"

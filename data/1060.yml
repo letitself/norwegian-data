@@ -1,0 +1,67 @@
+---
+record: 1060
+name: '(и) раз NP-Nom не возражать, Cl'
+UD_name: '(и) раз NP-Nom не возражать, Cl'
+illustration: 'И раз Костя не возражает, устроим вечеринку у него дома.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает что некоторое [действие]Action можно совершить, поскольку [участник ситуации]Participant не высказывает своего несогласия.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action kan utføres, ettersom [deltakeren i situasjonen]Participant ikke erklærer seg uenig.
+examples:
+  - |
+       Раз [Вы]Participant не возражаете насчёт русского языка, [перейду на него]Action, учитывая, что я не очень владею английским.
+  - |
+       Ну, ладно, раз [ты]Participant не возражаешь, я грузчикам [звоню]Action, и мы [все к тебе таскаем]Action!
+  - |
+       Ну, раз [никто]Participant не возражает, [давайте придумаем четкий план действий и распределим силы]Action.
+  - |
+       И раз [ты]Participant не возражаешь, я [еду с тобой]Action!
+  - |
+       И раз [вы]Participant не возражаете, мы [продолжим]Action.
+morphology:
+  - NP
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [cc и] [advcl [mark раз] [nsubj NP-Nom] [advmod не] возражать], Cl]'
+  - '[root [advcl [mark раз] [nsubj NP-Nom] [advmod не] возражать], Cl]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [advcl [mark раз] [nsubj Костя] [advmod не] возражает], устроим [obj вечеринку] [advmod [obl [case у] него] дома].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+  - type: Condition
+  - type: Root modality
+    subtypes:
+      - type: Permission
+        subtypes:
+          - type: Giving permission
+family:
+  - |
+    "A family of constructions asking for permission to carry out an action."

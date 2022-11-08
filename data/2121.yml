@@ -1,0 +1,62 @@
+---
+record: 2121
+name: '(NP-Dat) нужно Cop, чтобы Cl'
+UD_name: '(NP-Dat) нужно Cop, чтобы Cl'
+illustration: 'Нужно, чтобы на столе была чистая скатерть.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторый участник]Participant считает [некоторую ситуацию]Situation необходимой. Когда участник не назван, конструкция интерпретируется как мнение говорящего о том, как правильно поступать (примеры 3-5).
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Participant mener [en gitt situasjon]Situation er nødvendig. Når deltakeren ikke er nevnt, forstås konstruksjonen som talerens mening om hvordan det er riktig å opptre (eksempel 3-5).
+examples:
+  - |
+       [Нам]Participant нужно, чтобы [нас выслушали]Situation.
+  - |
+       [Маме]Participant нужно было, чтобы [я окончил институт]Situation.
+  - |
+       Нужно, чтобы [педагоги были заинтересованы в работе]Situation.
+  - |
+       Нужно, чтобы [кто-то был в доме]Situation.
+  - |
+       Нужно, чтобы [люди стремились на Север]Situation, а не уезжали оттуда.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] нужно [cop Cop], [csubj [mark чтобы] Cl]]'
+  - '[root нужно [cop Cop], [csubj [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Нужно, [csubj [mark чтобы] [case на] столе [cop была] [nsubj [amod чистая] скатерть]].]'
+comment: |
+    'См. близкую конструкцию 2116 (NP-Dat) Cop надо/нужно VP-Inf (Мне нужно бежать, извините).'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: Internal
+family:
+  - |
+    ""

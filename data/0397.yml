@@ -1,0 +1,49 @@
+---
+record: 397
+name: '(NP-Nom поздравлять) c NP-Ins (NP-Acc)'
+UD_name: '(NP-Nom поздравлять) c NP-Ins (NP-Acc)'
+illustration: 'С Новым годом!'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Ins
+  - Acc
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] поздравлять [obl [case с] NP-Ins] [obj NP-Acc]!]'
+  - '[root [nsubj NP-Nom] поздравлять [obl [case с] NP-Ins]!]'
+  - '[root [case с] NP-Ins [obj NP-Acc]!]'
+  - '[root [case с] NP-Ins!]'
+dependency_structure_of_illustration:
+  - '[root [case С] [amod Новым] годом!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+family:
+  - |
+    ""

@@ -1,0 +1,72 @@
+---
+record: 2118
+name: 'NP-Nom должный-Short/обязанный-Short Cop VP-Inf'
+UD_name: 'NP-Nom должный-Short/обязанный-Short Cop VP-Inf'
+illustration: 'Михаил должен перевести книгу к марту.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторому участнику]Participant требуется выполнить [некоторое действие]Action. Совершение действия обычно мотивируется правилами, законами (примеры 1-3), этическими нормами или чувством долга (примеры 4-5).
+  - norwegian: |
+       Konstruksjonen betyr at det kreves at [en gitt deltaker]Participant utfører [en gitt handling]Action. Utførelsen av handlingen er vanligvis motivert med regler, lover (eksempel 1-3), etiske normer eller pliktfølelse (eksempel 4 og 5).
+examples:
+  - |
+       [Водители]Participant обязаны [пропускать пешеходов]Action.
+  - |
+       [Ты]Participant обязан [проверить не менее трех работ]Action.
+  - |
+       [Я]Participant должен [представить справку]Action.
+  - |
+       [Учитель]Participant должен быть [объективным]State.
+  - |
+       [Мы]Participant обязаны [сделать все необходимое]Action.
+morphology:
+  - NP
+  - Nom
+  - Short
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Participle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] должный-Short [cop Cop] [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] обязанный-Short [cop Cop] [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Михаил] должен [xcomp перевести [obj книгу] [obl [case к] марту]].]'
+comment: |
+    'См. похожую конструкцию 2127 NP-Nom обязываться VP-Inf (Банк обязуется оплачивать услуги в срок).'
+common_fillers:
+  - быть
+  - сделать
+  - представить
+  - помогать
+  - предотвращать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation per se
+family:
+  - |
+    ""

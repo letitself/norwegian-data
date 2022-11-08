@@ -1,0 +1,42 @@
+---
+record: 543
+name: 'NP от NP-Gen'
+UD_name: 'NP от NP-Gen'
+illustration: 'Ключ от двери'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep Ключ [nmod [case от] двери]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Functionality
+family:
+  - |
+    ""

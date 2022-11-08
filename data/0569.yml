@@ -1,0 +1,63 @@
+---
+record: 569
+name: 'чуть (было) не VP-Pfv.Pst'
+UD_name: 'чуть (было) не VP-Perf.Past'
+illustration: 'Он чуть было не забыл про экзамен.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action, обычно нежелательное, было близко к осуществлению, но не произошло. Как правило, слот VP-Pfv.Pst заполняется глаголами, которые обозначают неконтролируемые действия (забыть, упасть, умереть и др.), а контролируемые действия интерпретируются как происходящие спонтанно, без контроля участника (пример 5).
+examples:
+  - |
+       ― Я сегодня чуть не [опоздал на конференцию]Action.
+  - |
+       ― Слушай меня, Малинин!… ― от волнения я чуть было не [задохнулся]Action.
+  - |
+       Мы ехали в этот момент по ночному Парижу, и я чуть не [заплакала]Action.
+  - |
+       Однажды он пошутил со мной, так я чуть не [лишилась сознания]Action.
+  - |
+       Рома с неохотой, поддавшись моему давлению, сказал, что хочет наконец иметь нормальную обычную семью… "Так женись на мне!" ― чуть не [закричала]Action я.
+morphology:
+  - VP
+  - Pfv
+  - Pst
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod [advmod чуть [fixed было]] не] VP-Pfv.Pst]'
+  - '[root [advmod [advmod чуть] не] VP-Pfv.Pst]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod [advmod чуть [fixed было]] не] забыл [obl [case про] экзамен].]'
+comment: |
+    'Не путать с 384.'
+common_fillers:
+  - забыть
+  - упасть
+  - умереть
+  - опоздать
+references:
+  - |
+    См. Плунгян В. А. Антирезультатив: до и после результата // Ред. В. А. Плунгян. Исследования по
+теории грамматики. Вып. 1. Глагольные категории. М.: Русские словари, 2001. С. 50—88.
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Antiresultative
+family:
+  - |
+    ""

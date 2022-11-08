@@ -1,0 +1,60 @@
+---
+record: 2155
+name: 'не VP-Pfv.Inf бы (NP-Dat)!'
+UD_name: 'не VP-Perf.Inf бы (NP-Dat)!'
+illustration: 'Не опоздать бы к обеду!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает опасение говорящего относительно того, что может произойти некоторая нежелательная для него или другого участника ситуация. Эта ситуация связана с [действием]Action, которое [участник]Participant или [говорящий]Speaker не может контролировать.
+examples:
+  - |
+       Главная его мысль ― не [забыть]Action бы слова.
+  - |
+       Не [поскользнуться]Action бы [мне]Speaker в этой проклятой ванне.
+  - |
+       Я притрагиваюсь к ней, как к тонкому хрустальному цветку, ― не [сломать]Action бы, не [повредить]Action.
+  - |
+       Не [сглазить]Action бы, но спектакль, кажется, получился хорошим.
+  - |
+       Таня уже приближалась, поглядывала на щиты, не [пропустить]Action бы своего поворота.
+morphology:
+  - VP
+  - Pfv
+  - Inf
+  - Dat
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] VP-Pfv.Inf [aux бы] [iobj NP-Dat]!]'
+  - '[root [advmod не] VP-Pfv.Inf [aux бы]!]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] опоздать [aux бы] [obl [case к] обеду]!]'
+comment: |
+    'См. близкую конструкцию 2156.'
+common_fillers:
+  - забыть
+  - сглазить
+references:
+  - |
+    См. Сай С.С. О статусе сочетаний нефинитных форм русского глагола с частицей бы // Глагольные и именные категории в системе функциональной грамматики. Сб. материалов конференции 9-12 апреля 2013 г. СПб: Нестор-История. 2013. С. 266–273; Добрушина Н. Р. Инфинитивные конструкции с частицей бы // Русский язык в научном освещении. 2012. № 2(24).
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+  - type: Volition
+family:
+  - |
+    ""

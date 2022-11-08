@@ -1,0 +1,52 @@
+---
+record: 530
+name: 'на-Verb-ся (NP-Ins)'
+UD_name: 'на-V-ся (NP-Ins)'
+illustration: 'Земля напиталась водой.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает накопительный характер [действия]Action, в процессе которого некоторый [объект]Container наполняется [веществом]Contained.
+examples:
+morphology:
+  - Verb
+  - NP
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root на-Verb-ся [iobj NP-Ins]]'
+  - '[root на-Verb-ся]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Земля] напиталась [iobj водой].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    См. также Зализняк А. А., Шмелев А.Д. 2000. Введение в русскую аспектологию. Москва. Издательство «Языки русской культуры». С. 114.
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Saturative
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+family:
+  - |
+    ""

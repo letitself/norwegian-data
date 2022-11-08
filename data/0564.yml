@@ -1,0 +1,47 @@
+---
+record: 564
+name: 'NP-Nom только и делать, что Cl'
+UD_name: 'NP-Nom только и делать, что Cl'
+illustration: 'Он только и делает, что ходит в кино.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod только] [advmod и] делать'
+  - '[ccomp [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod только] [advmod и] делает, [ccomp [mark что] ходит [obl [case в] кино]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Exclusive
+  - type: Pluractionality
+    subtypes:
+      - type: Frequentative
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 1710
+name: 'VP под дверью'
+UD_name: 'VP под дверью'
+illustration: 'Кот уже давно ждёт под дверью.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [действие]Action происходит снаружи, перед входом в дом или комнату, у нижней части двери (примеры 1, 2) или просто у двери (о человеке, примеры 3-5).
+examples:
+  - |
+       Он пошел к лифту, а собака не идет ― [сидит]Action под дверью и скулит.
+  - |
+       Он [оставляет]Action молоко под дверью и уходит.
+  - |
+       Я [сидела]Action под дверью, все слышала, но он меня не видел.
+  - |
+       Мы с братом [стоим]Action под дверью и подслушиваем.
+  - |
+       Я уже долго тут под дверью [мерзну]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] дверью]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Кот] [advmod [advmod уже] давно] ждёт [obl [case под] дверью].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - сидеть
+  - стоять
+  - ждать
+  - скулить
+  - мяукать
+references:
+  - |
+    См. о предлоге ПОД Плунгян В.А., Рахилина Е.В. По поводу «локалистской» концепции значения: предлог ПОД // Исследования по семантике предлогов. М., 2000. С. 115-133; Плунгян В.A., Рахилина E.В., 2014. Семантико-синтаксические свойства русских конструкций с предлогом под. Прямые (пространственные) и переносные (временные) употребления, Die Welt der Slaven. Internationale Halbjahresschrifr fur Slavistik. T. 59. № 1. 22–56.
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

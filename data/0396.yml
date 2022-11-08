@@ -1,0 +1,63 @@
+---
+record: 396
+name: 'Adv-Cmp/Adj-Cmp NP-Gen'
+UD_name: 'Adv-Cmp/Adj-Cmp NP-Gen'
+illustration: 'Олень бежит быстрее лани.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает различие между участниками или объектами по некоторому признаку. Этот признак может быть характеристикой самого участника или объекта (примеры 1-3) или характеризовать [некоторое состояние]State (примеры 4, 5). У [первого объекта или участника]Comparee [данный признак]Parameter проявляется в большей степени, чем у [второго]Standard.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1-3) eller [en gitt tilstand]Action (eksempel 4 og 5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [det første objekt eller deltakeren]Action enn hos [det andre]Standard.
+examples:
+  - |
+       Жили в доме и русские, [все]Comparee [старше]Parameter [Георгия Иванова]Standard.
+  - |
+       [Никита]Comparee был [крупнее]Parameter [отца]Standard.
+  - |
+       [Оплата]Comparee для них [важнее]Parameter [содержания самой работы]Standard.
+  - |
+       [Баранина]Comparee [готовится]State [не дольше]Parameter [говядины]Standard .
+  - |
+       [Лошадь]Comparee [стоит]State [дороже]Parameter [автомобиля]Standard .
+morphology:
+  - Adv
+  - Cmp
+  - Adj
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - Comparee
+  - Parameter
+  - Standard
+  - State
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[advmod Adv-Cmp [obl NP-Gen]]'
+  - '[amod Adj-Cmp [obl NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Олень] бежит [advmod быстрее] [obl лани].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+family:
+  - |
+    ""

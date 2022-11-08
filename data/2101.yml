@@ -1,0 +1,68 @@
+---
+record: 2101
+name: 'Cl, XP же VP'
+UD_name: 'Cl, XP же VP'
+illustration: 'Петя и Таня ушли, Маша же осталась нас поддержать.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает противопоставление двух объектов или участников. В фокусе внимания говорящего второй участник или объект. В отличие от первого [объекта]Theme или [участника]Participant, [второй]Associated выполняет другое [действие]Action. Слот XP может быть заполнен именной группой (примеры 1, 2), прилагательным (пример 3), предложной группой (пример 4) или глаголом в инфинитиве (пример 5).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to objekter eller deltakere stilles opp som motsetninger. Talerens oppmerksomhet er rettet mot den andre deltakeren eller objektet. [Den andre]Associated utfører en annen [handling]Action enn den første [deltakeren]Participant eller [objektet]Theme. Sloten XP kan fylles av en nominalfrase (eksempel 1 og 2), et adjektiv (eksempel 3), et preposisjonsledd (eksempel 4) eller et verb i infinitiv (eksempel 5).
+examples:
+  - |
+       [Старшие классы]Participant будут доучиваться здесь, в гостинице, [остальных]Associated же [распределят]Action по двум другим школам города.
+  - |
+       Когда вы приходите в магазин и покупаете кучу всего, это [кто-то]Participant хорошо просчитал ваше экономическое поведение. [Государство]Associated же [опирается на экономические знания меньше]Action, чем хотелось бы.
+  - |
+       [Внутренние зоны]Theme кристаллов окрашены в травянисто-зеленый цвет, [внешние]Associated же зоны [имеют серовато-белую окраску]Situation.
+  - |
+       [Там, где глубокий океан и неровный рельеф, высота волны не очень велика ― 3-5 метров]Situation, [на мелководье]Associated же [формируются очень большие волны]Action.
+  - |
+       Претенденты на премию могут [называться]Action всеми желающими по интернету, [отбираться]Associated же они будут комитетом, который составлен из первых девяти получателей этой премии.
+morphology:
+  - Cl
+  - XP
+  - NP
+  - VP
+  - PP
+  - Adj
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - Theme
+  - Action
+  - Associated
+  - Situation
+  - Participant
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl'
+  - '[conj [dep NP] [cc же] VP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петя [conj [cc и] Таня]] ушли, [conj [nsubj Маша] [cc же] осталась [xcomp [obj нас] поддержать]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+family:
+  - |
+    ""

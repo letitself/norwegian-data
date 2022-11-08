@@ -1,0 +1,70 @@
+---
+record: 54
+name: 'NP-Nom велеть NP-Dat (не) VP-Inf'
+UD_name: 'NP-Nom велеть NP-Dat (не) VP-Inf'
+illustration: 'Мать велела сыну учиться.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent, который имеет более высокий статус, приказывает другому [участнику]Participant совершить (примеры 1, 2, 3, 4) или не совершать (пример 5) некоторое [действие]Action.
+  - english: |
+       This construction means that a [participant]Agent who is of higher status commands another [participant]Participant either to carry out (examples 1, 2, 3, 4) or not to carry out (example 5) a certain [action]Action.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Agent med høyest status gir en annen [deltaker]Participant ordre om å utføre (eksempel 1, 2, 3 og 4) eller ikke utføre (eksempel 5) en gitt [handling]Action.
+examples:
+  - |
+       [Полицейские]Agent велели [им]Addressee [остановиться]Action, однако подростки не отреагировали на это требование и попытались скрыться.
+  - |
+       Наши [экологи]Agent велели [вырубить девятнадцать больных деревьев]Action.
+  - |
+       [Касымов]Agent остановился, потом велел [водителю]Addressee [идти к машине]Action и [ждать там]Action.
+  - |
+       Нам хотелось схватить щенка в охапку и бежать с ним поскорее до самого нашего дома. Но нас усадили и велели [слушать]Action.
+  - |
+       [Он]Agent запер их в пещере и велел не [шевелиться]Action.
+morphology:
+  - NP
+  - Nom
+  - Dat
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Addressee
+  - Agent
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] велеть [iobj NP-Dat] [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] велеть [iobj NP-Dat] [xcomp [advmod не] VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мать] велела [iobj сыну] [xcomp учиться].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - идти
+  - ждать
+  - отвечать
+  - принести
+  - купить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+family:
+  - |
+    "A family of causative constructions"

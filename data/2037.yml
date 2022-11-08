@@ -1,0 +1,61 @@
+---
+record: 2037
+name: 'NumCrd-Nom делится на NumCrd-Acc с остатком (NumCrd-Nom)'
+UD_name: 'NumCrd-Nom делится на NumCrd-Acc с остатком (NumCrd-Nom)'
+illustration: 'Семь делится на три с остатком один.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что в результате математической операции деления [одного числа]Quantity (делимого) на [другое]Quantity (делитель) получается целое число с [остатком]Quantity. Числовое значение остатка может называться или опускаться.
+  - norwegian: |
+       Konstruksjonen betyr at man som svar på regneoperasjonen å dele [et tall]Quantity (dividend) med [et annet]Quantity (divisor) får et helt tall med [rest]Quantity. Restens tallverdi kan være nevnt eller utelatt.
+examples:
+  - |
+       [Семнадцать]Quantity делится на [пять]Quantity с остатком [два]Quantity.
+  - |
+       Число [36784]Quantity на [десять]Quantity делится с остатком, так как последняя цифра — 4, а не 0.
+  - |
+       Число [100002]Quantity делится на [три]Quantity с остатком или без остатка?
+  - |
+       Затем берем число [восемь]Quantity, оно делится на [три]Quantity с остатком [два]Quantity.
+  - |
+       Если [Ваш год рождения]Quantity делится на [три]Quantity с остатком, обратитесь в Центр здоровья, где проведут необходимые обследования.
+morphology:
+  - NumCrd
+  - Nom
+  - Acc
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Modifier
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - Quantity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NumCrd-Nom] делится [obl [case на] NumCrd-Acc] [obl [case с] остатком [nmod NumCrd-Nom]]]'
+  - '[root [nsubj NumCrd-Nom] делится [obl [case на] NumCrd-Acc] [obl [case с] остатком ]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Семь] делится [obl [case на] три] [obl [case с] остатком [nmod один]].]'
+comment: |
+    'См. близкую конструкцию 2036 NumCrd-Nom (не) делится (нацело) на NumCrd-Acc (Семь не делится нацело на два).'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Division
+family:
+  - |
+    "CALCULATION constructions"

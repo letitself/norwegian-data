@@ -1,0 +1,54 @@
+---
+record: 914
+name: 'NP-Nom маху дать-Pst'
+UD_name: 'NP-Nom маху дать-Past'
+illustration: 'Вот уж, можно сказать, вы маху дали.'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Pst
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obj маху] дать-Pst]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] [advmod уж], [parataxis можно [csubj сказать]], [nsubj вы] [obj маху] дали.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior"

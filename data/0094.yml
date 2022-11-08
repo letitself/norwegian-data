@@ -1,0 +1,76 @@
+---
+record: 94
+name: 'готовность NP-Gen VP-Inf'
+UD_name: 'готовность NP-Gen VP-Inf'
+illustration: 'Готовность родителей бороться поразила всех.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации]Agent способен или согласен выполнять некоторое [действие]Action.
+  - english: |
+       This construction indicates that the [participant in the situation]Agent is capable of or willing to carry out an [action]Action.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren i situasjonen]Agent er i stand til eller villig til å utføre en gitt [handling]Action.
+examples:
+  - |
+       Каждая женщина подошла к новому союзу по-своему, но все моментально оценили готовность [Ольги]Agent [принять их детей как своих внуков]Action.
+  - |
+       Готовность [финансовых групп]Experiencer [оплатить избирательную кампанию кандидата]Action оценивается скептически.
+  - |
+       А отношение ребенка к бабушке можно улучшить только неизменной доброжелательностью и готовностью [бабушки]Agent [общаться]Action.
+  - |
+       Инвестиции на внутреннем рынке в значительной степени пострадали из-за снижения готовности [инвесторов]Agent [принимать риски]Action.
+  - |
+       Подобные здания ― это грандиозные символы силы, богатства и могущества. Они демонстрируют готовность [людей]Agent [добиваться немыслимого]Action, [одерживать успехи во всем]Action, за что бы они ни взялись. Небоскребы ― залог грядущих достижений, «индекс величия» цивилизации.
+morphology:
+  - NP
+  - Gen
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Argument
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - Action
+  - Experiencer
+  - Agent
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root готовность [nmod NP-Gen] [nmod VP-Inf]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Готовность [nmod родителей] [nmod бороться]] поразила [obj всех].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - бороться
+  - учиться
+  - сотрудничать
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    "Willingness"

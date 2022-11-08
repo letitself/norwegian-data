@@ -1,0 +1,71 @@
+---
+record: 1140
+name: 'VP на бегу'
+UD_name: 'VP на бегу'
+illustration: 'На бегу поговорили с Петром Ивановичем.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается быстро, в спешке. Конструкция упоребляется в прямом и переносном смысле. В прямом значении, участник совершает действие во время своего быстрого передвижения бегом, по дороге к месту назначения (примеры 1-3). При переносном употреблении речь идет не о том, что участник бежит, а подчеркивает, что у него мало времени на совершение действия (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action utføres raskt og skyndsomt. Konstruksjonen brukes i direkte og overført betydning. I direkte betydning utfører deltakeren handlingen under rask forflytning i form av løping, på veien til bestemmelsesstedet (eksempel 1–3). I overført bruk er det ikke tale om at deltakeren løper, men det fremheves at deltakeren har lite tid på seg til å få handlingen utført (eksempel 4 og 5).
+examples:
+  - |
+       ― Монсеньёр! ―кричу я. Он [оборачивается]Action на бегу, но ничего не отвечает. Я тоже перехожу на бег.
+  - |
+       Она промчалась через приёмную, [схватила]Action на бегу свою сумку и, торопливо добежав до лифта, нажала кнопку.
+  - |
+       ― Мама, я иду! ― [закричала]Action на бегу Татьяна, спускаясь вниз по лестнице.
+  - |
+       Мужчины часто выбирают высокоуглеводную еду или много мяса, [едят]Action на бегу, особенно если живут одни. Это приводит к проблемам с желудком.
+  - |
+       О психологии и грамотной организации управления он знал лишь понаслышке, из [прочитанных]Action на бегу учебников, переведенных с английского.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case на] бегу]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] бегу] поговорили [obl [case с] Петром] [flat:name Ивановичем].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - надевать
+  - стрелять
+  - кричать
+  - обернуться
+  - оглянуться
+  - подпрыгивать
+  - задыхаться
+  - подхватить
+  - споткнуться
+  - схватить
+  - есть
+  - перекусить
+  - позавтракать
+  - обмениваться
+  - решать вопросы
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
+family:
+  - |
+    "Simultaneity"

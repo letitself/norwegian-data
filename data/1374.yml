@@ -1,0 +1,59 @@
+---
+record: 1374
+name: 'VP по секрету'
+UD_name: 'VP по секрету'
+illustration: 'Он рассказал мне о повышении по секрету.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [говорящий]Speaker [сообщает]Action [собеседнику]Addressee [некоторую информацию]ContentOfSpeech и при этом рассчитывает, что собеседник никому ее не передаст.
+  - norwegian: |
+       Konstruksjonen betyr at [taleren]Speaker [meddeler]Action [samtalepartneren]Addressee [en gitt informasjon]ContentOfSpeech og samtidig regner med at samtalepartneren ikke vil bringe den videre til andre.
+examples:
+  - |
+       [Ты]Speaker как-то ещё до армии по секрету [мне]Addressee [признался]Action, [что тебе нравится Шарипова дочка]ContentOfSpeech.
+  - |
+       [Вы]Speaker [мне]Addressee по секрету [расскажите]Action, я никому не выдам.
+  - |
+       [Я]Speaker [сказала]Action [дедушке]Addressee по секрету, [что Катя часто плачет]ContentOfSpeech.
+  - |
+       Потом [расскажу]Action по секрету, может быть.
+  - |
+       Впрочем, [сознаюсь]Action [Вам]Addressee по секрету, [что в итоге Вы прекрасно отвлекли меня тогда]ContentOfSpeech.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Addressee
+  - Speaker
+  - ContentOfSpeech
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] секрету]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] рассказал [iobj мне] [obl [case о] повышении] [obl [case по] секрету].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - сказать
+  - рассказать
+  - признаться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

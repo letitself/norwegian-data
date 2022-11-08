@@ -1,0 +1,65 @@
+---
+record: 788
+name: 'в отличие от NP-Gen Cl'
+UD_name: 'в отличие от NP-Gen Cl'
+illustration: 'В отличие от Пети, Миша всегда говорил правду.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает противопоставление двух объектов или участников. [Один объект или участник]Comparee [устроен]Property или [ведет себя]Situation не так, как [другой]Standard, и поэтому выделяется на его фоне.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to objekter eller deltakere stilles opp som motsetninger.[Det ene objektet eller deltakeren]Comparee er ikke [innrettet]Property eller [ter seg]Situation ikke slik som [det andre]Standard og skiller seg derfor ut på bakgrunn av det.
+examples:
+  - |
+       В отличие от [многих шпионских фильмов]Standard, [здесь]Comparee [очень большое внимание уделено раскрытию характера главного героя]Situation.
+  - |
+       Олег тоже работал над диссертацией, лингвистической. Но в отличие от [меня]Participant [он]Comparee [сделался]Situation за эти годы солидным человеком.
+  - |
+       [Отечественные переписи населения]Comparee с этой точки зрения, в отличие от [большинства стран]Standard, [оказались недостаточно эффективными]Situation.
+  - |
+       В отличие от [большинства кошек]Standard [Мэси]Comparee [не боялся воды]Situation и дважды в месяц с удовольствием [купался]Situation.
+  - |
+       В отличие от [барбитуратов]Standard и [бензодиазепина]Standard, [этот препарат]Comparee [можно купить без рецепта и использовать самостоятельно]Situation.
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Property
+  - Standard
+  - Situation
+  - Comparee
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case в] отличие [nmod [case от] NP-Gen]] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] отличие [nmod [case от] Пети]], [nsubj Миша] [advmod всегда] говорил [obj правду].]'
+comment: |
+    'См. близкие конструкции 803, 1201, 1235'
+common_fillers:
+  - тебя
+  - меня
+  - него
+  - нее
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+family:
+  - |
+    ""

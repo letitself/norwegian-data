@@ -1,0 +1,66 @@
+---
+record: 344
+name: 'хватит (PronPers-2.Dat) VP-Ipfv.Inf!'
+UD_name: 'хватит (PronPers-2.Dat) VP-Imp.Inf!'
+illustration: 'Хватит ругаться!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает [собеседника]Addressee прекратить выполнять [некоторое действие]Action. Говорящий оценивает это действие отрицательно, так как оно кажется ему слишком длительным или надоедливым. Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником. Конструкция может также использоваться говорящим по отношению к самому себе.
+examples:
+  - |
+       Пристегнись, говорю, и хватит [болтать]Action. Ты меня отвлекаешь.
+  - |
+       И поэтому вы все врете ― про войну. Хватит [врать]Action. Пора уже иметь совесть.
+  - |
+       ― Хватит [вам]Addressee [спорить]Action! ― перебила их Баба-Яга. ― Садитесь к столу, у меня как раз ужин готов, ― пригласила она всех к столу.
+  - |
+       Хватит [тебе]Addressee [пить]Action, ― сказал Игорю Виктор Михайлович. Эти слова звучали с оскорбительной самоуверенностью хотя бы потому, что Виктор Михайлович выглядел гораздо пьянее Игоря.
+  - |
+       Ну, садитесь уже! Хватит [вам]Addressee [знакомиться]Action! В процессе познакомитесь.
+morphology:
+  - PronPers
+  - 2
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Action
+  - Addressee
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root хватит [iobj PronPers-2.Dat] [xcomp VP-Ipfv.Inf]!]'
+  - '[root хватит [xcomp VP-Ipfv.Inf]!]'
+dependency_structure_of_illustration:
+  - '[root Хватит [xcomp ругаться]!]'
+comment: |
+    'Не путать с конструкцией 1274. См. близкие конструкции 114, 1247'
+common_fillers:
+  - болтать
+  - спорить
+  - трындеть
+  - ныть
+  - ссориться
+  - спать
+  - дрыхнуть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+family:
+  - |
+    ""

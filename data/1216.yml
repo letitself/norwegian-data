@@ -1,0 +1,65 @@
+---
+record: 1216
+name: '(NP-Dat) Cop надо/нужно VP-Inf'
+UD_name: '(NP-Dat) Cop надо/нужно VP-Inf'
+illustration: 'Мне нужно бежать, извините.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [говорящий или другой участник]Participant считает необходимым выполнить [некоторое действие]Action (примеры 1-3). Когда участник не назван, конструкция интерпретируется как мнение говорящего о том, как правильно поступать (пример 4). Кроме того, конструкция может выражать мягкое побуждение по отношению к собеседнику: говорящий считает, что выполнение действия будет иметь положительные последствия для собеседника (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at [taleren eller en annen deltaker]Participant mener det er nødvendig å utføre [en gitt handling]Action (eksempel 1-3). Når deltakeren ikke er nevnt, forstås konstruksjonen som talerens mening om hvordan det er riktig å opptre (eksempel 4). Dessuten kan konstruksjonen uttrykke en mild oppfordring til samtalepartneren: Taleren mener at det å utføre handlingen vil ha positive følger for samtalepartneren (eksempel 5).
+examples:
+  - |
+       Почему я должна ждать? [Мне]Participant нужно [начинать ремонт]Action!
+  - |
+       [Ему]Participant надо было [везти дочку домой]Action.
+  - |
+       Я считаю, что [творческому человеку]Participant нужно обязательно [иметь семью]Action.
+  - |
+       Надо [бороться за свою мечту]Action.
+  - |
+       [Вам]Participant нужно [серьёзно учиться]Action.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] надо [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [cop Cop] нужно [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Мне] нужно [csubj бежать], [parataxis извините].]'
+comment: |
+    'См. близкую конструкцию 2121 (NP-Dat) нужно Cop, чтобы Cl (Нужно, чтобы на столе была чистая скатерть).'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: Internal
+family:
+  - |
+    ""

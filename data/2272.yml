@@ -1,0 +1,49 @@
+---
+record: 2272
+name: 'какой/какое (там) Adv/Adj!'
+UD_name: 'какой/какое (там) Adv/Adj!'
+illustration: 'Какое там быстро!'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - Adv
+  - Adj
+syntactic_type_of_construction:
+  - Discourse "Echo" Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root какой [advmod там] [advmod Adv]!]'
+  - '[root какой [advmod там] [advmod Adj]!]'
+  - '[root какое [advmod там] [advmod Adv]!]'
+  - '[root какое [advmod там] [advmod Adj]!]'
+  - '[root какой [advmod Adv]!]'
+  - '[root какой [advmod Adj]!]'
+  - '[root какое [advmod Adv]!]'
+  - '[root какое [advmod Adj]!]'
+dependency_structure_of_illustration:
+  - '[root Какое [advmod там] [advmod быстро]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 167
+name: 'когда бы NP-Nom ни VP-Pst, Cl'
+UD_name: 'когда бы NP-Nom ни VP-Past, Cl'
+illustration: 'Когда бы я ни зашёл, вы всегда на месте.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Pst
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advcl [mark когда] [aux бы] [nsubj NP-Nom] [advmod ни] VP-Pst]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Когда] [aux бы] [nsubj я] [advmod ни] зашёл], [nsubj вы] [advmod всегда] [case на] месте.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Condition
+  - type: Pluractionality
+    subtypes:
+      - type: Habitual
+family:
+  - |
+    ""

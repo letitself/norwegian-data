@@ -1,0 +1,59 @@
+---
+record: 1129
+name: 'Можно не сомневаться, (что) Cl'
+UD_name: 'Можно не сомневаться, (что) Cl'
+illustration: 'Можно не сомневаться, что он разбогател.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий оценивает некоторое [утверждение]ContentOfSpeech как бесспорное, не подлежащее сомнению. Говорящий полностью в нем уверен.
+examples:
+  - |
+       Он - следующий, [можно не сомневаться]ContentOfSpeech.
+  - |
+       Они, можно не сомневаться, [вернутся из леса с полными корзинками]ContentOfSpeech.
+  - |
+       Предрассудки, пережившие столько веков, можно не сомневаться, [переживут и следующее столетие]ContentOfSpeech.
+  - |
+       [Со мной шутки плохи]ContentOfSpeech, можно не сомневаться
+  - |
+       Сайты знакомств располагают большой базой пользователей, можно не сомневаться, что [каждая девушка найдет для себя подходящего избранника сердца]ContentOfSpeech.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Predicative
+  - Negation Marker
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root можно [csubj [advmod не] сомневаться], [ccomp [mark что] Cl]]'
+  - '[root можно [csubj [advmod не] сомневаться], [parataxis Cl]]'
+dependency_structure_of_illustration:
+  - '[root Можно [csubj [advmod не] сомневаться], [ccomp [mark что] [nsubj он] разбогател].]'
+comment: |
+    'См. похожие конструкции 2055 без сомнения, Cl (Без сомнения, он лучший среди сотрудников) и 2056 вне всякого сомнения, Cl (Вне всякого сомнения, он невиновен).'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Competely obvious and clear
+family:
+  - |
+    ""

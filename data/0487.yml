@@ -1,0 +1,62 @@
+---
+record: 487
+name: 'только/лишь/хоть бы (NP-Dat) VP-Pfv.Inf'
+UD_name: 'только бы/лишь/хоть (NP-Dat) Cop VP-Perf.Inf'
+illustration: 'Мне только бы увидеть ее.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает пожелание [говорящего]Speaker о том, чтобы в будущем реализовалось [некоторое событие]Event. Это желание на момент произнесения высказывания является наиболее сильным среди всех желаний говорящего.
+examples:
+  - |
+       Я проснусь. Только бы [проснутьcя]Event! Я больше не могу.
+  - |
+       Только бы [добраться до спасительного водоёма]Event…
+  - |
+       Так всегда уходят из больницы: лишь бы [не возвращаться]Event.
+  - |
+       Лишь бы [нам]Speaker [встретить их]Situation, лишь бы [не разминуться]Event!
+  - |
+       Туман какой, хоть бы [улететь нормально]Event.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod только [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod лишь [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod хоть [fixed бы]] [iobj NP-Dat] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod только [fixed бы]] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod лишь [fixed бы]] [cop Cop] VP-Pfv.Inf]'
+  - '[root [advmod хоть [fixed бы]] [cop Cop] VP-Pfv.Inf]'
+dependency_structure_of_illustration:
+  - '[root [iobj Мне] [advmod только] [aux бы] увидеть [obj ее].]'
+comment: |
+    'См. близкие конструкции 1304, 1305, 2157.'
+common_fillers:
+  - NA
+references:
+  - |
+    См. Сай С.С. О статусе сочетаний нефинитных форм русского глагола с частицей бы // Глагольные и именные категории в системе функциональной грамматики. Сб. материалов конференции 9-12 апреля 2013 г. СПб: Нестор-История. 2013. С. 266–273; Добрушина Н. Р. Инфинитивные конструкции с частицей бы // Русский язык в научном освещении. 2012. № 2(24).
+semantic_types:
+  - type: Exclusive
+  - type: Volition
+family:
+  - |
+    ""

@@ -1,0 +1,62 @@
+---
+record: 2051
+name: 'NP-Nom пользоваться услугами NP-Gen'
+UD_name: 'NP-Nom пользоваться услугами NP-Gen'
+illustration: 'Если детей не с кем оставить, мама может воспользоваться услугами няни.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent по какой-то причине не может выполнить действие самостоятельно и прибегает к профессиональной помощи другого [участника]Participant, обычно более квалифицированного в данной области. Участником может быть представитель определенной профессии (примеры 1, 2), учреждение (примеры 3, 4 ) или интернет (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent av en eller annen grunn ikke kan utføre en handling selv og tyr til profesjonell bistand fra en annen [deltaker]Participant, vanligvis bedre kvalifisert på det aktuelle feltet. Deltakeren kan være en yrkesutøver (eksempel 1 og 2), en institusjon (eksempel 3 og 4) eller internettet (eksempel 5).
+examples:
+  - |
+       Обратившись в суд, [граждане]Agent могут пользоваться услугами [адвокатов.]Participant
+  - |
+       Чтобы не заблудиться, можно воспользоваться услугами [горного гида]Participant, который проложит оптимальный маршрут.
+  - |
+       В Нижегородской области [ряд крупных предприятий]Agent все чаще пользуются услугами [известных компьютерных фирм.]Theme
+  - |
+       Количество [канадцев]Agent, пользующихся услугами [онлайновых банков]Theme, увеличилось почти вдвое.
+  - |
+       [Сто процентов опрошенных]Agent пользуются услугами [Интернета.]Theme
+morphology:
+  - NP
+  - Nom
+  - Gen
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Government
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - Theme
+  - Agent
+  - Participant
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root [nsubj NP-Nom] пользоваться [iobj услугами [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] [obj детей] не [obl [case с] кем] [csubj оставить]], [nsubj мама] может [xcomp воспользоваться [iobj услугами [nmod няни]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - адвокатов
+  - переводчика
+  - банка
+  - фирмы
+references:
+  - |
+    No references
+semantic_types:
+  - type: Instrument
+family:
+  - |
+    ""

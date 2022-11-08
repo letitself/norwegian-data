@@ -1,0 +1,60 @@
+---
+record: 1207
+name: 'NP-Nom напоминать NP-Acc NP-Ins'
+UD_name: 'NP-Nom напоминать NP-Acc NP-Ins'
+illustration: 'Формой он напоминает тыкву.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник ситуации или объект]Comparee внешними или внутренними [чертами]Parameter похож на некоторый [прототип]Standard.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker i situasjonen eller et objekt]Comparee i kraft av sine ytre eller indre [trekk]Parameter likner på en gitt [prototyp]Standard.
+examples:
+  - |
+       Это скорее даже притча, а не просто [фильм]Comparee. [Юмором]Parameter напоминает [произведения Стивенсона]Standard.
+  - |
+       Напоминает [чем-то]Parameter [сказку из детства]Standard?
+  - |
+       [Курган]Comparee лишен растительности и напоминает [очертаниями]Parameter [силуэт сидящего человека]Standard.
+  - |
+       Очень понравилась [Рождественская церковь]Comparee, [чем-то]Parameter напоминающая [собор Павла Блаженного]Standard в Москве.
+  - |
+       Он вернулся к напоминавшему [размером]Parameter [футбольное поле]Standard [столу]Comparee и нажал кнопку устройства внутренней связи.
+morphology:
+  - NP
+  - Nom
+  - Acc
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Comparee
+  - Parameter
+  - Standard
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] напоминать [obj NP-Acc] [obl NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [obl Формой] [nsubj он] напоминает [obj тыкву].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также статью В. В. Туровский. Как, похож, напоминать, творительный сравнения: Толкования для группы квазисинонимов // Референция и проблемы текстообразования. М., 1988.
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

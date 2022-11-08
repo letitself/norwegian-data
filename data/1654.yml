@@ -1,0 +1,61 @@
+---
+record: 1654
+name: 'в ближайшем/обозримом/недалёком будущем VP'
+UD_name: 'в ближайшем/обозримом/недалёком будущем VP'
+illustration: 'В ближайшем будущем всех нас ждут перемены.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation будет иметь место в скором времени. Этот момент времени не имеет чётких рамок и зависит от конкретной ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [situasjon]Situation vil finne sted i nær fremtid. Tidspunktet har ingen klare rammer og vil avhenge av den konkrete situasjonen.
+examples:
+  - |
+       В обозримом будущем [мир не столкнется с этой проблемой]Situation.
+  - |
+       Не думаю, что [мы полетим на Марс]Situation в обозримом будущем.
+  - |
+       Уже в недалеком будущем [нам грозят экологические катастрофы]Situation.
+  - |
+       Он верит, что [его изобретение в недалеком будущем завоюет все банки мира]Situation.
+  - |
+       В ближайшем будущем эти правила изменятся еще сильнее[Situation].
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - Situation
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root [obl [case в] [amod ближайшем] будущем] VP]'
+  - '[root [obl [case в] [amod обозримом] будущем] VP]'
+  - '[root [obl [case в] [amod недалёком] будущем] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod ближайшем] будущем] [obj [det всех] нас] ждут [nsubj перемены].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - не предвидится
+  - не планируется
+  - ситуация может измениться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

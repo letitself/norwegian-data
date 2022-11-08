@@ -1,0 +1,64 @@
+---
+record: 611
+name: 'ещё (у меня) VP-Pfv.Fut'
+UD_name: 'ещё (мне/у меня) VP-Perf.Fut'
+illustration: 'Ты у меня еще попляшешь!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает угрозу говорящего, обращенную к некоторому участнику ситуации, обычно к собеседнику. Говорящий считает, что этот участник нанёс ему вред и в будущем пожалеет об этом. Говорящий обещает, что заставит собеседника выполнять неприятное для собеседника [действие]Action.
+  - norwegian: |
+       Konstruksjonen uttrykker en trussel taleren fremsetter mot en deltaker i situasjonen, vanligvis samtalepartneren. Taleren mener deltakeren har påført taleren skade og senere vil angre på det. Taleren lover å få samtalepartneren til å utføre en [handling]Action som er ubehagelig for samtalepartneren.
+examples:
+  - |
+       Я позову службу безопасности! Вы у меня еще [поплачете]Action!!!
+  - |
+       Я своего добьюсь. Они у меня еще [попляшут]Action. Это я вам точно говорю.
+  - |
+       Ну ничего. Ты меня еще [вспомнишь]Action!
+  - |
+       О, вы меня еще [узнаете]Action!
+  - |
+       Подожди, ты у меня еще [попоешь]Action!
+morphology:
+  - VP
+  - Pfv
+  - Fut
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod ещё] [obj меня] VP-Pfv.Fut]'
+  - '[root [advmod ещё] [iobj мне] VP-Pfv.Fut]'
+  - '[root [advmod ещё] [obl [case у] меня] VP-Pfv.Fut]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [obj меня] [advmod ещё] вспомнишь!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - вспомнишь
+  - вспомните
+  - попляшешь
+  - попляшете
+  - узнаешь
+  - узнаете
+references:
+  - |
+    No references
+semantic_types:
+  - type: Threat
+family:
+  - |
+    ""

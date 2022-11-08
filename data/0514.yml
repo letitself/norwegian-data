@@ -1,0 +1,71 @@
+---
+record: 514
+name: '(у NP-Gen) NP-Nom занять/занимать NumCrd-Acc NP'
+UD_name: '(у NP-Gen) NP-Nom занять/занимать NumCrd-Acc NP'
+illustration: 'У меня это заняло десять минут.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает [количество]Quantity [единиц времени]Measure, которое требуется для выполнения определённого [действия]Event [участником]Agent (примеры 1-4). Конструкция также может обозначать заполнение [объектом]Theme [некоторого объёма]Measure (пример 5). Если использовано числительное «один», «одна» или «одно», то и числительное, и [единица времени]Measure стоят в винительном падеже (например, одну неделю). В остальных случаях числительное стоит в винительном падеже, а [единица времени]Measure в родительном падеже (например, две недели, двадцать дней).
+  - norwegian: |
+       Konstruksjonen betegner [antallet]Quantity [tidsenheter]Measure som skal til for at [en deltaker]Agent skal få utført en bestemt [handling]Event (eksempel 1-4). Konstruksjonen kan også betegne at [et gitt volum]Measure fylles av [et objekt]Theme (eksempel 5). Hvis tallordet som benyttes, er "один", "одна" eller "одно", står tallordet og [tidsenheten]Measure i akkusativ (for eksempel одну неделю). I de øvrige tilfellene står tallordet i akkusativ og [tidsenheten]Measure i genitiv (for eksempel две недели, двадцать дней).
+examples:
+  - |
+       [Наше путешествие]Event от Томска до Москвы заняло [десять]Quantity [дней]Measure.
+  - |
+       Вся эта [сцена]Event заняла [несколько]Quantity [секунд]Measure, не больше.
+  - |
+       [Oформление визы]Event занимает [21]Quantity [день]Measure.
+  - |
+       [Сколько]Quantity [времени]Measure займёт у [вас]Agent [пробежка до магазина и обратно]Event?
+  - |
+       [Эпилог]Theme занимает [64]Quantity [страницы]Measure.
+morphology:
+  - NP
+  - Gen
+  - Nom
+  - NumCrd
+  - Acc
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Preposition
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj NP-Nom] занять [obj [nummod NumCrd-Acc] NP]]'
+  - '[root [nsubj NP-Nom] занять [obj [nummod NumCrd-Acc] NP]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] меня] [nsubj это] заняло [obj [nummod:gov десять] минут].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - работа
+  - дорога
+  - меня
+  - неё
+  - несколько
+  - недель
+  - месяцев
+  - страниц
+references:
+  - |
+    No references
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

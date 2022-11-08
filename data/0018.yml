@@ -1,0 +1,78 @@
+---
+record: 18
+name: '(NP-Dat) не мешало бы/не мешает VP-Pfv.Inf'
+UD_name: '(NP-Dat) не мешало бы/не мешает VP-Perf.Inf'
+illustration: 'Нам не мешало бы подкрепиться.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает другого [участника или самого себя]Causee выполнить некоторое [действие]Action, которое говорящий считает уместным и желательным в определенной ситуации.
+  - english: |
+       This construction means that the speaker would consider it appropriate or wise to perform a certain [action]Action in a given situation.
+  - norwegian: |
+       Konstruksjonen betyr at taleren anmoder en annen [deltaker eller seg selv]Experiencer om å utføre en gitt [handling]Action som taleren finner passende og påkrevd i en bestemt situasjon.
+examples:
+  - |
+       Пиво не мешало бы [подержать в холодильнике]Action.
+  - |
+       Время уже позднее, [вам]Causee не мешало бы [отдохнуть.]Action
+  - |
+       Она сказала, что есть очень интересная диссертация, с которой и [мне]Causee не мешало бы [ознакомиться]Action, только она не помнит, кто автор, зато название знает.
+  - |
+       ― Вечер наш, что будем делать? ― Как скажешь, ― говорю, ― не мешает [отметить встречу.]Action ― Тогда приглашаю тебя в "Селигер", поужинаем.
+  - |
+       ― И [мне]Causee не мешает [побриться]Action, ― добавил Адам.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Particle
+semantic_roles:
+  - Experiencer
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] мешало [aux бы] [csubj VP-Pfv.Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] мешает [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] мешало [aux бы] [csubj VP-Pfv.Inf]]'
+  - '[root [advmod не] мешает [csubj VP-Pfv.Inf]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Нам] [advmod не] мешало [aux бы] [csubj подкрепиться].]'
+comment: |
+    'См. близкую по значению конструкцию 485 (NP-Dat) стоить VP-Inf (Повару стоит научиться готовить).'
+common_fillers:
+  - вспомнить
+  - напомнить
+  - посоветоваться
+  - отметить
+references:
+  - |
+    См. степени облигаторности в статье Цейтлин С. Н. Необходимость // А. В. Бондарко (отв. ред.). Теория функциональной грамматики. Темпоральность. Модальность. Л.: Наука, 1990. С.142–155.
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation as recommendation
+  - type: Volition
+family:
+  - |
+    ""

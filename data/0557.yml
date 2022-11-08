@@ -1,0 +1,57 @@
+---
+record: 557
+name: 'Cl, чтобы Cl'
+UD_name: 'Cl, чтобы Cl'
+illustration: 'Я сообщил другу номер поезда, чтобы он меня встретил.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации совершает некоторое [действие]Action с определенной [целью]Purpose.
+  - english: |
+       This construction indicates that the participant in the situation is carrying out an [action]Action with a certain [purpose]Purpose.
+  - norwegian: |
+       Konstruksjonen betyr at en deltaker i situasjonen utfører en gitt [handling]Action med et bestemt [mål]Purpose.
+examples:
+  - |
+       В вечных пробках города забываешь, что автомобиль [создан]Action, чтобы [на нем ездить…]Purpose
+  - |
+       Я взял фонарик и [осветил лестницу]Action, чтобы [можно было найти упавший браслет.]Purpose
+  - |
+       Порежьте хлеб на кубики и [оставьте]Action, чтобы [он немного подсох.]Purpose
+  - |
+       Виталий [приехал]Action, чтобы [я помог ему подготовиться к экзамену.]Purpose
+  - |
+       Чтобы [у нас не было безработных]Purpose, нужно [создать новые рабочие места.]Action
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Action
+  - Purpose
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] сообщил [iobj другу] [obj номер [nmod поезда]], [advcl [mark чтобы] [nsubj он] [obj меня] встретил].]'
+comment: |
+    'См. близкую по значению конструкцию 559.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

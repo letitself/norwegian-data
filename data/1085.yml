@@ -1,0 +1,53 @@
+---
+record: 1085
+name: 'NP-Nom иметь (Adj) значение'
+UD_name: 'NP-Nom иметь (Adj) значение'
+illustration: 'А какое это имеет значение, ждали эту юную леди или не ждали?'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Adj
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] иметь [obj [amod Adj-Acc] значение]]'
+  - '[root [nsubj NP-Nom] иметь [obj значение]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [det какое] [nsubj это] имеет [obj значение], [acl ждали [obj [det эту] [amod юную] леди] [conj [cc или] [advmod не] ждали]]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+      - type: Assessment specific to people
+        subtypes:
+          - type: Importance/Power
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Importance/Worth, Importance/Power"

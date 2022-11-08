@@ -1,0 +1,66 @@
+---
+record: 2127
+name: 'NP-Nom обязываться VP-Inf'
+UD_name: 'NP-Nom обязываться VP-Inf'
+illustration: 'Банк обязуется оплачивать услуги в срок.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторому участнику]Participant требуется выполнить [некоторое действие]Action, это входит в его обязанности. Как правило, эти обязанности закреплены юридически (например, прописаны в договоре).
+  - norwegian: |
+       Konstruksjonen betyr at det kreves at [en deltaker]Participant utfører [en gitt handling]Action og at dette inngår i deltakerens forpliktelser. Som regel er forpliktelsene juridisk forankret (for eksempel nedfelt i en avtale).
+examples:
+  - |
+       [Муж]Participant обязуется [содержать супругу]Action.
+  - |
+       [Агентство]Participant обязуется [обеспечить подготовку договора]Action.
+  - |
+       [Правительства]Participant обязуются [обеспечивать соблюдение соглашения]Action.
+  - |
+       [Поставщик]Participant обязуется [передать товары заказчику]Action.
+  - |
+       [Все подданные]Participant обязывались [доносить императору о преступлениях]Action.
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root [nsubj NP-Nom] обязываться [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Банк] обязуется [xcomp оплачивать [obj услуги] [obl [case в] срок]].]'
+comment: |
+    'См. похожую конструкцию 2118 NP-Nom должный-Short/обязанный-Short Cop VP-Inf (Михаил должен перевести книгу к марту).'
+common_fillers:
+  - обеспечить
+  - уплатить
+  - предоставить
+  - выполнить
+  - возвратить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Root modality
+    subtypes:
+      - type: Necessity
+        subtypes:
+          - type: External
+            subtypes:
+              - type: Obligation per se
+family:
+  - |
+    ""

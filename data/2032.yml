@@ -1,0 +1,67 @@
+---
+record: 2032
+name: 'VP без всякого NP-Gen'
+UD_name: 'VP без всякого NP-Gen'
+illustration: 'Мы попрощались с ним без всякого сожаления.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action осуществляется так, что в нем отсутствует некоторый ожидаемый [компонент]Theme (например, эмоция, усилия и пр.), который как правило выражен абстрактным существительным. При этом говорящий акцентирует внимание на том, что этот [компонент]Theme никаким образом, абсолютно не участвует в ситуации.
+  - norwegian: |
+       Konstruksjonen betyr at en [handling]Action utføres på en slik måte at en forventet [komponent]Theme ikke er med (f.eks. en emosjon, en kraftanstrengelse e.l.), som regel uttrykt av et abstrakt substantiv. Samtidig gjør taleren oppmerksom på at denne [komponenten]Theme ikke på noen måte, absolutt ikke, deltar i situasjonen.
+examples:
+  - |
+       Таня [уволилась с работы]Action без всякого [сожаления]Theme.
+  - |
+       Вы [сможете найти на этой картинке тигра]Action без всякого [труда]Theme.
+  - |
+       Дима [явился в гости]Action без всякого [приглашения]Theme.
+  - |
+       Он [размышлял о смерти]Action без всякого [страха].
+  - |
+       Он [пел]Action без всякого [выражения]Theme, как будто думал в этот момент о чём-то другом.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - Action
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] [det всякого] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] попрощались [obl [case с] ним] [obl [case без] [det всякого] сожаления].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - сожаление
+  - смущение
+  - радость
+  - сомнения
+  - труд
+  - усилие
+  - повод
+references:
+  - |
+    No references
+semantic_types:
+  - type: Caritive
+  - type: Manner
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    "Caritive constructions with the preposition BEZ"

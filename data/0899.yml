@@ -1,0 +1,61 @@
+---
+record: 899
+name: 'впрочем, Cl'
+UD_name: 'впрочем, Cl'
+illustration: 'Фильм получил высокие оценки. Впрочем, он получился затянутым.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция вводит [сообщение]ContentOfSpeech, которое частично противоречит предшествующему утверждению и таким образом его ограничивает. Слово "впрочем" может стоять в начале или в середине предложения и означает 'однако, тем не менее, все-таки'.
+  - english: |
+       This construction introduces a [statement]ContentOfSpeech that partly contradicts a previously made statement and thus delimits it. The word "впрочем" can be in the beginning or in the middle of a sentence and denotes 'however, nevertheless'.
+  - norwegian: |
+       Konstruksjonen introduserer [en meddelelse]ContentOfSpeech som er delvis i strid med foregående påstand og dermed innskrenker den. Ordet "впрочем" kan stå i begynnelsen eller midten av setningen og betyr 'imidlertid, ikke desto mindre, likevel'.
+examples:
+  - |
+       Ещё где-то год назад я совершенно не умел пользоваться фотоаппаратом. Впрочем, [я и сейчас не знаю многих его возможностей.]ContentOfSpeech
+  - |
+       В 1723 году в Лейпциге открылась первая фабрика пряжи; впрочем, [успех её был невелик.]ContentOfSpeech
+  - |
+       Он был высокий, худой, длинноволосый и мрачный. [Насчёт последнего, впрочем, я не вполне уверен.]ContentOfSpeech
+  - |
+       У нас на удивление дружный коллектив, мы никогда не ссоримся. Впрочем, [теперь всё это в прошлом.]ContentOfSpeech
+  - |
+       Многие проекты реализуются лишь частично. Впрочем, [эти выводы ― не повод для пессимизма.]Content OfSpeech
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis впрочем]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Впрочем], [nsubj кино] получилось [xcomp затянутым].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Other
+  - type: Discourse structure
+    subtypes:
+      - type: Sequence
+family:
+  - |
+    ""

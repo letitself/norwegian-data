@@ -1,0 +1,65 @@
+---
+record: 1077
+name: 'NP из среды NP-Gen'
+UD_name: 'NP из среды NP-Gen'
+illustration: 'постоянные читатели из среды ученых'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Participant принадлежит или раньше принадлежал к [некоторой социальной группе]Set.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Participant tilhører eller tidligere har tilhørt [en gitt samfunnsgruppe]Set.
+examples:
+  - |
+       Есть у меня [друзья]Participant из среды [военных]Set.
+  - |
+       В зрелые годы число [новых друзей]Theme, как правило, не увеличивается. Тем более, [из среды иностранцев]Set.
+  - |
+       В любой стране [люди этой профессии]Participant не подбираются из среды [интеллектуалов]Set.
+  - |
+       Среди участников демонстрации 25 августа было [два человека]Participant из среды [«структурных лингвистов»]Set.
+  - |
+       Ещё когда мама была совсем маленькой, её [крестная мать]Participant из среды [сельской интеллигенции]Set и священник сказали дедушке с бабушкой: "Учите девочку".
+morphology:
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Theme
+  - Set
+  - Participant
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[dep NP [nmod [case из] среды [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[nsubj [amod Постоянные] читатели [nmod [case из] среды [nmod ученых]]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - выходцы
+  - люди
+  - интеллигенция
+  - рабочие
+  - народ
+  - предприниматели
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+  - type: Subset
+family:
+  - |
+    ""

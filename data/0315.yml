@@ -1,0 +1,65 @@
+---
+record: 315
+name: 'стать-Fut NP-Nom VP-Inf!'
+UD_name: 'стать-Fut NP-Nom VP-Inf!'
+illustration: 'Станет он посуду мыть!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что, по мнению говорящего, [некоторый участник или сам говорящий]Agent не будет выполнять [определенное действие]Action. Говорящий полностью в этом уверен. Как правило, это действие оценивается как недостойное участника или противоречащее его интересам.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker eller taleren selv]Agent, etter talerens mening, ikke vil komme til å utføre [en bestemt handling]Action. Som regel vurderes handlingen å være under deltakerens verdighet eller i strid med deltakerens interesser.
+examples:
+  - |
+       Стану [я]Agent [размениваться на такие мелочи, как репортаж]Action!
+  - |
+       Ой, ну не будьте наивной! Станут [они]Agent [вас слушать]Action!
+  - |
+       ― Это правда? ― Стану [я]Agent [врать]Action, ― вздохнул Потапов.
+  - |
+       Станет [он]Agent [тебя брать в такое путешествие]Action!
+  - |
+       Стану [я]Agent [кокетничать перед этим противным стариком]Action!
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root стать-Fut [nsubj NP-Nom] [xcomp VP-Inf]!]'
+dependency_structure_of_illustration:
+  - '[root Станет [nsubj он] [xcomp [obj посуду] мыть]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - слушать
+  - размениваться
+  - заниматься ерундой
+references:
+  - |
+    См. также Сай С.С., Короткова Н. Глагол стать в русском языке: семантика, синтаксис, грамматикализация. Доклад на III Конференции по типологии и грамматике для молодых исследователей, ИЛИ РАН, Санкт-Петербург, 2-4 ноября 2006 г.
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Convincing the addressee
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

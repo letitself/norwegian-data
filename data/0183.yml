@@ -1,0 +1,61 @@
+---
+record: 183
+name: 'NP-Nom мочь-Pst бы и не VP-Ipfv.Inf'
+UD_name: 'NP-Nom мочь-Past бы и не VP-Imp.Inf'
+illustration: 'Мог бы и не спрашивать о моём настроении.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Pst
+  - VP
+  - Inf
+  - Ipfv
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] мочь-Pst [aux бы] [xcomp [advmod и] [advmod не] VP-Inf.Ipfv]]'
+dependency_structure_of_illustration:
+  - '[root Мог [aux бы] [xcomp [advmod и] [advmod не] спрашивать [obl [case о] [det моём] настроении]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Usefulness
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior, Usefulness"

@@ -1,0 +1,46 @@
+---
+record: 1151
+name: '(Cl,) как-никак (а) Cl'
+UD_name: '(Cl,) как-никак (а) Cl'
+illustration: '– Что это ты вино покупаешь, тебе же нельзя? – Серебряная свадьба завтра, как-никак.'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+  - Reduplication
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl, [parataxis [parataxis как-никак] Cl]]'
+  - '[root Cl, [parataxis как-никак, [conj [case а] Cl]]]'
+  - '[root [parataxis как-никак] Cl]'
+  - '[root как-никак, [conj [case а] Cl]]'
+dependency_structure_of_illustration:
+  - '[root – [advmod Что] [expl это] [nsubj ты] [obj вино] покупаешь, [conj [iobj тебе [advmod же]] нельзя]?] [root – [amod Серебряная] свадьба [advmod завтра], [parataxis как-никак].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+family:
+  - |
+    ""

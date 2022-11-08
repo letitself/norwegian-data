@@ -1,0 +1,42 @@
+---
+record: 681
+name: 'а если б и XP?'
+UD_name: 'а если б и XP?'
+illustration: 'А если б и приказал?'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [cc а] [mark если] [aux б] [advmod и] XP?]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [mark если] [aux б] [advmod и] приказал?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
+family:
+  - |
+    ""

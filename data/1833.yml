@@ -1,0 +1,63 @@
+---
+record: 1833
+name: 'XP, а именно XP'
+UD_name: 'XP, а именно XP'
+illustration: 'Он мне подарил книгу, а именно энциклопедию о динозаврах.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами «а именно», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. Слот XP может заполняться именной, предложной или глагольной группой. Подтипом этой конструкции является «не (просто) XP, а именно XP» (пример 5), с помощью которой говорящий подбирает более точное слово в своем описании ситуации, как бы поправляя сам себя.
+  - english: |
+       This construction introduces [an explanation]Theme of a certain [phrase]Content. The speaker tries to make their message more comprehensible by providing an additional statement of their meaning using other words. The part that follows after the words "а именно" explains, defines, or simplifies the information that the speaker has already communicated. The XP slot can be filled by a noun phrase, a prepositional phrase, or a verb phrase. There is a subtype of this construction: "не (просто) XP, а именно XP" (see example 5), in which the speaker chooses a more precise word in their description of the situation, as if correcting themself.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Сontent. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som står etter ordene 'а именно', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Sloten XP kan fylles av en nominalfrase, preposisjonsfrase eller en verbalfrase.  En undertype av denne konstruksjonen er 'не (просто) ХР, а именно ХР' (eksempel 5), som taleren bruker for å lete frem et ord som beskriver situasjonen mer presist, som om vedkommende korrigerer seg selv.
+examples:
+  - |
+       Стивен Спилберг многое сделал для того, чтобы кинематограф стал [тем, чем является сейчас]Topic, а именно [живой сказкой, воплощением мечты миллионов людей]Theme.
+  - |
+       Коллектив отдела пытается [разгадать «секрет» микобактерии]Topic, а именно [ответить на вопрос, чем же отличается бактерия, выращенная в лаборатории, от той, которая «живет» в человеческом организме]Theme.
+  - |
+       Основная масса картофеля производится [в средней полосе]Topic, а именно [в Белгородской, Новгородской областях и Республике Чувашия]Theme.
+  - |
+       И тогда мы, чтобы не нервничать, стали говорить [о другом]Topic. А именно [о жизни]Theme.
+  - |
+       При феноменальной памяти на лица и фамилии это позволяло не просто [привлекать]Topic, а именно [влюблять в себя]Theme собеседника, учащегося, подчинённого. Юные кадеты и молодые юнкера не просто обожали великого князя, а боготворили до фанатизма и исступления.
+morphology:
+  - XP
+  - NP
+  - PP
+  - VP
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - Content
+  - Topic
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root XP'
+  - '[appos [cc а [fixed именно]] XP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [iobj мне] подарил [obj книгу, [appos [cc а [fixed именно]] энциклопедию [nmod [case о] динозаврах]]].]'
+comment: |
+    'См. другие конструкции со словом "именно" 135 и 1813.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также О.И. Юнькова, А. С. Гурьев. К вопросу о категории пояснения в русской грамматике. // Русский язык в научном освещении, 1 (35). 2018. С. 46-73.
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+family:
+  - |
+    "Clarification via rephrasing"

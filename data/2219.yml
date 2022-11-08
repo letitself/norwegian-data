@@ -1,0 +1,55 @@
+---
+record: 2219
+name: 'через силу VP'
+UD_name: 'через силу VP'
+illustration: 'Он через силу улыбнулся.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent выполняет некоторое [действие]Action c большим трудом, усилием и напряжением воли. Конструкция может также обозначать, что у участника не было желания выполнять некоторое действие, но он его всё равно выполнил, пересилив себя (примеры 4, 5). Как если бы участник сопротивлялся некоторой силе, которая пытается не дать ему выполнить действие.
+examples:
+  - |
+       Утром он через силу [поднялся]Action и пошёл в больницу.
+  - |
+       Женя через силу [старалась улыбаться]Action, наклоняясь к огню.
+  - |
+       Через силу Катя [позавтракала]Action ― надо есть, надо!
+  - |
+       [Говорил]Action он все это через силу, без всякого увлечения, посматривая на часы и думая, казалось мне, о чем-то другом, постороннем и неприятном.
+  - |
+       Хозяин кабинета едва ли не через силу [сделал шаг]Action навстречу, протянул оказавшуюся на удивление сильной руку.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case через] силу] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [case через] силу] улыбнулся.]'
+comment: |
+    'См. близкие конструкции 1463, 1464.'
+common_fillers:
+  - улыбнуться
+  - сказать
+  - говорить
+  - встать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

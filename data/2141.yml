@@ -1,0 +1,66 @@
+---
+record: 2141
+name: '(NP-Dat) кажется/казалось, (что) Cl'
+UD_name: '(NP-Dat) кажется/казалось, (что) Cl'
+illustration: 'Мне кажется, что мы с вами встречались раньше.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает неуверенность [говорящего или другого участника]Experiencer в сообщаемой им [информации.]Evaluation. Нередко конструкция смягчает категоричность высказывания. Сообщение говорящего звучит как предположение. Конструкция также может обозначать, что говорящий или другой участник склонен считать, что некоторая ситуация не является реальной, а лишь представляется его воображению, мысли (пример 5).
+examples:
+  - |
+       [Мне]Experiencer кажется, что [вы должны поехать с нами]Evaluation.
+  - |
+       А третью часть я когда-то пыталась посмотреть, но [осилила минут 10-15]Evaluation, кажется.
+  - |
+       Были большие сомнения, казалось, что [шансов победить мало]Evaluation.
+  - |
+       Как [ему]Experiencer казалось, [иного пути у него не было]Evaluation…
+  - |
+       По школе не скучаю. Кажется, что [это было очень давно]Evaluation.
+morphology:
+  - NP
+  - Dat
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+semantic_roles:
+  - Experiencer
+  - Evaluation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] кажется, [ccomp [mark что] Cl]]'
+  - '[root [iobj NP-Dat] казалось, [ccomp [mark что] Cl]]'
+  - '[root [iobj NP-Dat] кажется, [parataxis Cl]]'
+  - '[root [iobj NP-Dat] казалось, [parataxis Cl]]'
+  - '[root кажется, [ccomp [mark что] Cl]]'
+  - '[root казалось, [ccomp [mark что] Cl]]'
+  - '[root кажется, [parataxis Cl]]'
+  - '[root казалось, [parataxis Cl]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Мне] кажется, [ccomp [mark что] [nsubj мы] [obl [case с] вами] встречались [advmod раньше]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+        subtypes:
+          - type: Epistemic (metaphorical) distance
+family:
+  - |
+    ""

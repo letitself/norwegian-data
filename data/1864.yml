@@ -1,0 +1,65 @@
+---
+record: 1864
+name: 'Cl (не) равно/равняется NumCrd-Dat/NumCrd-Nom'
+UD_name: 'Cl (не) равно/равняется NumCrd-Dat/NumCrd-Nom'
+illustration: 'Два плюс один не равно пяти.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция описывает математическое равенство или неравенство [двух величин]Quantity.
+  - norwegian: |
+       Konstruksjonen beskriver matematisk likhet eller ulikhet [mellom to størrelser]Quantity.
+examples:
+  - |
+       [Семь]Quantity не равно [восьми]Quantity.
+  - |
+       [Два]Quantity больше одного, а не меньше и не равняется [одному]Quantity.
+  - |
+       [Одна вторая плюс одна третья, минус игрек,]Quantity равно [пять зет]Quantity.
+  - |
+       [Два в степени три]Quantity не равно [три в степени два]Quantity.
+  - |
+       Хотя «Мы» никогда не существовало, [я плюс я]Quantity не равно [любовь]Quantity, но [я]Quantity равно [любовь]Quantity.
+morphology:
+  - Cl
+  - NumCrd
+  - Dat
+  - Nom
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adjective
+  - Verb
+semantic_roles:
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [csubj Cl] [advmod не] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj Cl] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj Cl] равняется [xcomp NumCrd-Nom]]'
+  - '[root [csubj Cl] [advmod не] равно [xcomp NumCrd-Dat]]'
+  - '[root [csubj Cl] равно [xcomp NumCrd-Dat]]'
+  - '[root [csubj Cl] равняется [xcomp NumCrd-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Два [nmod [case плюс] один]] [advmod не] равно [xcomp пяти].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Equation
+family:
+  - |
+    "CALCULATION constructions"

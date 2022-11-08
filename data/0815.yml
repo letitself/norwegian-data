@@ -1,0 +1,58 @@
+---
+record: 815
+name: 'VP в свое время'
+UD_name: 'VP в свое время'
+illustration: 'Ты всё поймешь в своё время.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Activity или [событие]Event имело место в прошлом во время, актуальное для некоторой ситуации (примеры 1, 2, 3) или произойдет в будущем в некоторый надлежащий, специально предназначенный для этого момент (примеры 4, 5). Как если бы определенный период во времени принадлежал, но не человеку, а действию или событию, которое произошло или произойдет в будущем.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action eller  [hendelse]Event fant sted på et tidspunkt i fortiden som var aktuelt for en gitt situasjon (eksempel 1, 2 og 3) eller at den vil inntreffe i fremtiden på et tidspunkt som vil være passende og spesielt forutbestemt for dette (eksempel 4 og 5). Det er som om en bestemt tidsperiode tilhører ikke en person, men en tilbakelagt eller fremtidig handling eller hendelse.
+examples:
+  - |
+       Они-то молодые, а мне уже 40, и я в своё время [всем этим глубоко интересовался]Activity, 20-25 лет назад.
+  - |
+       В свое время, когда мы запускали радио «Вера», мы [проводили исследование]Activity, каковы основные запросы у людей.
+  - |
+       Нобелевский комитет в своё время [не отметил Чехова]Event. И сейчас этот прокол очевиден.
+  - |
+       Я однажды спросил маму, кто мой отец, и она сказала резко, что [всё расскажет]Event в своё время.
+  - |
+       ― Есть коньяк и немного шампанского. Я целую ее и Серегу. [О Сереге скажу]Event в своё время. Обо всем ― в свое время. А пока, чтобы как-то начать: мы приехали...
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+semantic_roles:
+  - Event
+  - Activity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [det своё] время]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [obj всё] поймешь [obl [case в] [det своё] время].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    См. "несобственно-притяжательные значения" слова "свой" в статье Падучева Е.В. Возвратное местоимение с косвенным антецедентом и семантика рефлексивности // Семиотика и информатика. М. 1983. Вып. 23. 3–32. [Переизд. в: Падучева Е.В. Статьи разных лет. М.: «Языки славянских культур». 2009. 181–203.]
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Future
+family:
+  - |
+    ""

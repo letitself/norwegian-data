@@ -1,0 +1,52 @@
+---
+record: 524
+name: '(это Cop) Noun-Nom как ~Noun-Nom'
+UD_name: '(это Cop) N-Nom как N-Nom'
+illustration: 'Хлеб как хлеб.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - Cop
+  - Noun
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj это] [cop Cop] Noun-Nom [nmod [case как] Noun-Nom]]'
+  - '[dep Noun-Nom [nmod [case как] Noun-Nom]]'
+dependency_structure_of_illustration:
+  - '[root Хлеб [nmod [case как] хлеб].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Standard exemplar
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+  - type: Salient property
+    subtypes:
+      - type: Paragon
+family:
+  - |
+    "Standard exemplar"

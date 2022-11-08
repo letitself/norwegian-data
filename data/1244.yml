@@ -1,0 +1,67 @@
+---
+record: 1244
+name: '(NP-Dat) не нужно/надо VP-Ipfv.Inf'
+UD_name: '(NP-Dat) не нужно/надо VP-Imp.Inf'
+illustration: 'Не нужно опекать детей до безрассудства.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция используется, когда говорящий вежливо побуждает [участника]Participant ситуации не выполнять [некоторое действие]Action. Это действие может произойти в будущем или происходит в данный момент. Говорящий считает, что выполнение действия не оправдано разумными причинами. Побуждение часто звучит как совет или рекомендация. Часто участник, к которому обращено высказывание, не упоминается, и конструкция используется как безличное предложение. Если участник назван, то он может быть представлен целой группой лиц или отдельным лицом, в том числе и собеседником говорящего. Кроме того, говорящий может обращаться к самому себе.
+  - english: |
+       This construction is used when the speaker politely prompts the [participant]Participant in a situation to not carry out an [action]Action. This action may occur in the future or is ongoing. The speaker does not see any sensible reason to carry out the action. The prompting often sounds like advice or a recommendation. The participant who is being addressed is often not mentioned and the construction is used as an impersonal sentence. If the participant is mentioned, it can be a whole group or an individual person as well as the interlocutor. The speaker may also address the prohibition to themself.
+  - norwegian: |
+       Konstruksjonen anvendes når taleren høflig anmoder [en deltaker]Participant i situasjonen om ikke å utføre [en handling]Action. Handlingen kan inntreffe i fremtiden, eller den pågår i øyeblikket. Taleren mener det ikke finnes fornuftige grunner til å utføre denne handlingen. Anmodningen fremstår som et råd eller en anbefaling. Deltakeren som anmodningen er rettet til, er ofte ikke nevnt, og konstruksjonen brukes da som en upersonlig setning. Når deltakeren nevnes, kan det være i egenskap av en gruppe personer eller en enkeltperson, herunder talerens samtalepartner. Dessuten kan taleren henvende seg til seg selv.
+examples:
+  - |
+       Поверь мне. [Тебе]Participant не нужно [этого видеть]Action.
+  - |
+       Не нужно [забивать голову школьников словами вроде "структурализм" или описанием заслуг его основателей]Action.
+  - |
+       Не нужно [стоять в сторонке]Action и [ждать, пока кто-то к тебе подойдёт и предложит дружбу]Action. Нужно самой идти навстречу людям.
+  - |
+       [Интеллигенции]Participant не надо [впадать в отчаяние]Action.
+  - |
+       Месяц назад на день рождения внуку (ему исполнилось 10 лет) подарили фирменные часы с браслетом из белого металла. А через две недели вокруг левого запястья появилась сыпь, которая сильно чешется. Говорю: не надо [надевать часы]Action, но внуку они так нравятся, что он без них отказывается идти в школу.
+morphology:
+  - NP
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Predicative
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] нужно [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] надо [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] нужно [csubj опекать [obj детей] [obl [case до] безрассудства]].]'
+comment: |
+    'См. близкие по значению конструкции NP-Dat не пристало VP-Inf (тебе не пристало ходить по дискотекам), NP-Dat не подобает VP-Inf (Не подобает московскому царю кланяться польскому королю), (NP-Dat) не стоит VP-Inf (не стоит разговаривать с ним), (NP-Dat) не следует VP-Inf (не следует расслабляться при отсутствии полицейских на дороге).'
+common_fillers:
+  - говорить
+  - ездить
+  - молчать
+  - надоедать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Attenuated prohibitive
+family:
+  - |
+    ""

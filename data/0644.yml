@@ -1,0 +1,83 @@
+---
+record: 644
+name: 'VP NP-Gen через NumCrd-Acc'
+UD_name: 'VP NP-Gen через NumCrd-Acc'
+illustration: 'Он хочет купить машину года через два.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что между точкой отсчета и последующим [событием]Event проходит некоторое [количество]Quantity [времени]Time, которое говорящий указывает приблизительно, неточно. Значение неточности передается инверсионным порядком слов (NP через NumCrd-Acc) вместо прямого порядка слов (через NumCrd-Acc NP). Точкой отсчета времени может быть момент речи (примеры 1, 2) или другое событие (примеры 3, 4). Конструкция также употребляется при указании на приблизительное [расстояние]Distance (пример 5). Числительное NumCrd «один» в этой конструкции не употребляется.
+  - norwegian: |
+       Konstruksjonen betyr at det mellom startpunktet og påfølgende [hendelse]Event går en gitt [mengde]Quantity [tid]Time som taleren angir på en omtrentlig, upresis måte. Omtrentligheten fremgår av at ordene står i omvendt rekkefølge (NP через NumCrd-Acc) i stedet for i vanlig rekkefølge (через NumCrd-Acc NP). Startpunktet for tidsregningen kan være taleøyeblikket (eksempel 1 og 2) eller en annen hendelse (eksempel 3 og 4). Konstruksjonen brukes også til å angi omtrentlig [avstand]Distance (eksempel 5). Tallordet NumCrd "один" brukes ikke i denne konstruksjonen.
+examples:
+  - |
+       Я думаю, что [лет]Time через [пятнадцать]Quantity максимум [дети будут учить не по одному, а по несколько языков в школах.]Action
+  - |
+       [Встретимся]Action [дня]Time через [два]Quantity ― в любом случае, независимо от моих успехов.
+  - |
+       [Она позвонила мне]Action [дня]Time через [три]Quantity после похорон и попросила заехать.
+  - |
+       [Пиццу доставят]Action [минут]Time через [двадцать]Quantity после заказа в удобных коробках, еще теплой.
+  - |
+       [Метров]Distance через [сто]Quantity слонёнок [добрался до конца тоннеля]Action.
+morphology:
+  - VP
+  - NP
+  - Gen
+  - NumCrd
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Inversion
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Event
+  - Time
+  - Action
+  - Quantity
+  - Distance
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl NP-Gen [case через] [nummod:gov NumCrd-Acc]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] хочет [xcomp купить [obj машину]] [obl года [case через] [nummod:gov два]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - года
+  - лет
+  - часа
+  - часов
+  - минуты
+  - минут
+  - недели
+  - недель
+  - месяца
+  - месяцев
+  - века
+  - веков
+  - метров
+  - метра
+  - километров
+  - километра
+  - шагов
+  - шага
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Timeline
+    subtypes:
+      - type: Future
+family:
+  - |
+    "Temporal approximation"

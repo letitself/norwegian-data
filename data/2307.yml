@@ -1,0 +1,61 @@
+---
+record: 2307
+name: 'Похоже Cop (на то), (что) Cl'
+UD_name: 'Похоже Cop (на то), (что) Cl'
+illustration: 'Похоже на то, что дела у нас плохи.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему. Как если бы говорящий сравнивал реальную и предполагаемую ситуации и утверждал, что между ними есть сходство.
+examples:
+  - |
+       Ладно, похоже, [мы тут застряли]ContentOfSpeech.
+  - |
+       Похоже на то, что [это было спланировано]ContentOfSpeech.
+  - |
+       А вы, похоже, [и есть папа Ваня]ContentOfSpeech?
+  - |
+       Очень похоже на то, что [речь идет о школьных оценках]ContentOfSpeech.
+  - |
+       На всякий случай весь день прождали его ― вдруг вернется к привычному месту, где его любят и заботятся, но было похоже на то, что [Борька исчез окончательно]ContentOfSpeech.
+morphology:
+  - Cop
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Predicative
+  - Preposition
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root похоже [cop Cop] [obl [case на] то, [acl [mark что] Cl]]]'
+  - '[root похоже [cop Cop] [csubj [mark что] Cl]]]'
+  - '[root похоже [cop Cop], [parataxis Cl]]]'
+dependency_structure_of_illustration:
+  - '[root Похоже [obl [case на] то, [acl [mark что] [nsubj дела] [obl [case у] нас] плохи]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Inference
+family:
+  - |
+    ""

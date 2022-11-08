@@ -1,0 +1,65 @@
+---
+record: 147
+name: 'как насчёт XP?'
+UD_name: 'как насчёт XP?'
+illustration: 'Как насчёт выпить?'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий предлагает собеседнику совершить какое-то [действие]Action, чаще всего совместное. Это действие может быть выражено как глагольной группой, так и именной группой, подразумевающей выполнение действия (примеры 1, 2). Конструкция имеет второе значение: говорящий предлагает новую [тему]Topic, которая непосредственно связана с тем, что только что обсуждалось (примеры 3, 4, 5).
+  - english: |
+       This construction indicates that the speaker is suggesting that the interlocutor performs an [action]Action, most often together with the speaker. The action can be expressed by both a verb phrase and a noun phrase with the meaning of an action (examples 1, 2). This construction also has another meaning: the speaker suggests a new [topic]Topic, which is directly related to what had just been discussed (examples 3, 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at taleren foreslår overfor samtalepartneren å utføre en eller annen [handling]Action, oftest i fellesskap. Handlingen kan være uttrykt så vel av en verbalfrase som av en nominalfrase med handlingsbetydning (jf. eksempel 1 og 2). Konstruksjonen har også en annen betydning: Taleren lanserer et nytt [tema]Topic som er direkte forbundet med det som nettopp er blitt diskutert (eksempel 3, 4 og 5).
+examples:
+  - |
+       А как насчёт [поздороваться]Action?
+  - |
+       Как насчёт [чайку]Theme?
+  - |
+       Вы уже сказали о развитии сельского хозяйства. А как насчёт [поддержки автомобильной промышленности республики]Topic?
+  - |
+       С деньгами вроде Петр Петрович уладит, а вот как насчёт [веры]Topic?
+  - |
+       Двадцать лет назад я был молод, а через двадцать лет буду стар; как насчёт [двух лет]Topic? А десяти? А пятнадцати?
+morphology:
+  - XP
+  - VP
+  - NP
+  - NumCrd
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - Action
+  - Topic
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root как [csubj [case насчёт] XP]?]'
+dependency_structure_of_illustration:
+  - '[root Как [csubj [case насчёт] выпить]?]'
+comment: |
+    'Не путать с конструкциями 6 (а/так) что насчёт XP? (Что насчёт пятницы? Какие у тебя планы?); 687 (а) насчёт NP-Gen – Cl (А насчёт папы – он уехал на рыбалку).'
+common_fillers:
+  - поздороваться
+  - выпить
+  - сходить в кино
+references:
+  - |
+    No references
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Volition
+family:
+  - |
+    ""

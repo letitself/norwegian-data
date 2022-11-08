@@ -1,0 +1,64 @@
+---
+record: 1159
+name: 'ни крошки не VP'
+UD_name: 'ни крошки не VP'
+illustration: 'Он так и не съел ни крошки.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта, которым представляется крошка хлеба. Можно использовать как в прямом значении (с глаголами «есть/съесть», «проглотить», «просыпать», «уронить»), так и в переносном (с глаголами «остаться», «достаться», «вложить» и др).
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og uttrykker en kategorisk (fullstendig) avvisning av [en handling]Action ved å avvise dens minste bestanddel, representert ved en brødsmule. Kan brukes så vel i direkte betydning (med verbene 'есть/съесть', 'проглотить', 'просыпать', 'уронить') som i overført (med verbene 'остаться', 'достаться', 'вложить' m.fl.).
+examples:
+  - |
+       Но вы же за сутки ни крошки не [съели]Action!
+  - |
+       Директор на себя все денежки потратит, и детям ни крошки не [достанется]Action.
+  - |
+       Сколько ни пытался, [проглотить]Action ни крошки не [смог]Action.
+  - |
+       Никто Люсио не ждет, все съели, ни крошки бедному не [оставили]Action…
+  - |
+       Тем не менее через четверть часа разыгрался волчий аппетит, но в буфете не [оказалось]Action ни крошки.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obj [advmod ни] крошки] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod так [fixed и]] [advmod не] съел [obj [advmod ни] крошки].]'
+comment: |
+    'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
+common_fillers:
+  - есть
+  - съесть
+  - быть
+  - достаться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+family:
+  - |
+    "Non-existense of action/activity, which is presented as not-affecting even the tiniest piece/portion of the object. Not a single small portion, two negation markers NE and NI"

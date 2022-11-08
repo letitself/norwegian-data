@@ -1,0 +1,60 @@
+---
+record: 465
+name: 'NP-Acc звать-Inf NP-Ins/NP-Nom'
+UD_name: 'NP-Acc звать NP-Ins/NP-Nom'
+illustration: 'Мальчика звать Юрой.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что у [некоторого участника]Participant есть конкретное [имя]Property.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltaker]Participant har et konkret [navn]Property.
+examples:
+  - |
+       Кот вдруг сказал: ― [Меня]Participant звать  [Мельхиор]Property. А вас?
+  - |
+       Маша говорит, что вспомнила, что он ― Журавлев и что звать [Юрием]Property. А там и адрес домашний нашла, и все остальное.
+  - |
+       Подходите в управление к начальнику отдела. [Его]Participant звать [Виталием Афанасьевичем Ивановым]Property. Я буду там.
+  - |
+       [Меня]Participant звать [Мариетта Ивановна]Property.
+  - |
+       Значит, [матроса]Participant звать [Костик]Property, команда преимущественно русская,
+morphology:
+  - NP
+  - Acc
+  - Ins
+  - Nom
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Property
+  - Participant
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obj NP-Acc] звать [xcomp NP-Ins]]'
+  - '[root [obj NP-Acc] звать [xcomp NP-Nom]]'
+dependency_structure_of_illustration:
+  - '[root [obj Мальчика] звать [xcomp Юрой].]'
+comment: |
+    'См. близкую конструкцию 1944 NP-Acc зовут NP-Nom (Мою дочку зовут Маша).'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Naming
+family:
+  - |
+    ""

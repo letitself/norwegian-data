@@ -1,0 +1,68 @@
+---
+record: 2040
+name: 'от NumCrd-Gen отнять NumCrd-Acc равно/VP NumCrd-Nom/NumCrd-Dat'
+UD_name: 'от NumCrd-Gen отнять NumCrd-Acc равно/VP NumCrd-Nom/NumCrd-Dat'
+illustration: 'От восьми отнять три будет пять.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами «будет», «получится» или «равняется». Результат может быть выражен формой именительного или дательного падежа в случае, если используются слова «равно» или «равняется» (примеры 4, 5). Со словами «будет» и «получится» или если они опущены, результат всегда выражен формой именительного падежа (примеры 1, 2, 3).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет', 'получится' eller 'равняется'. Ved bruk av ordene 'равно' eller 'равняется' står svaret i nominativ eller dativ (eksempel 4 og 5). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 1, 2 og 3).
+examples:
+  - |
+       Они-то всегда считали, что если от [шестидесяти]Quantity отнять [пятьдесят]Quantity, то получится [десять]Result, а никак не семьдесят и даже не двенадцать.
+  - |
+       Сколько будет два и два? ― Три, ваше величество. ― А от [пяти]Quantity отнять [один]Quantity? ― [Три]Result, ваше величество.
+  - |
+       Сколько будет, если от [тысячи]Quantity отнять [девятьсот девяносто девять]Quantity? Воцарилась тишина. Получится [один]Result.
+  - |
+       От [шести]Quantity отнять [три]Quantity — равняется [четырем]Result.
+  - |
+       Благодаря сочетанию формально тождественных, но семантически различных понятий, получается искомый результат, т. е. от [восьми]Quantity отнять [пять]Quantity равно [нулю]Result.
+morphology:
+  - NumCrd
+  - Gen
+  - Acc
+  - Nom
+  - Dat
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+  - Verb Predicate
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Preposition
+  - Verb
+  - Adjective
+semantic_roles:
+  - Result
+  - Quantity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] равно [xcomp NumCrd-Nom]]'
+  - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] равно [xcomp NumCrd-Dat]]'
+  - '[root [csubj [obl [case от] NumCrd-Gen] отнять [obj NumCrd-Acc]] VP [xcomp NumCrd]]'
+dependency_structure_of_illustration:
+  - '[root [csubj [obl [case От] восьми] отнять [obj три]] [cop будет] пять.]'
+comment: |
+    'См. близкие конструкции 1857 NumCrd-Nom минус NumCrd-Nom – (равно/будет/получится/выйдет) NumCrd-Nom/NumCrd-Dat (Пять минус три будет два) и 2039 из NumCrd-Gen вычесть NumCrd-Acc равно/будет/получится/выйдет NumCrd-Nom (Из семи вычесть два получится пять).'
+common_fillers:
+  - будет
+  - получится
+references:
+  - |
+    No references
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Subtraction
+family:
+  - |
+    "CALCULATION constructions"

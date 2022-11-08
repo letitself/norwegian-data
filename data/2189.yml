@@ -1,0 +1,58 @@
+---
+record: 2189
+name: 'Так PronPers-Nom и думать-Pst/знать-Pst, (что) Cl'
+UD_name: 'Так PronPers-Nom и думать-Past/знать-Past, (что) Cl'
+illustration: 'Так я и думал, что ты меня обманешь.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - PronPers
+  - Nom
+  - Pst
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod так] [nsubj PronPers-Nom] [advmod и] думать-Pst, [ccomp [mark что] Cl]]'
+  - '[root [advmod так] [nsubj PronPers-Nom] [advmod и] знать-Pst, [ccomp [mark что] Cl]]'
+  - '[root [advmod так] [nsubj PronPers-Nom] [advmod и] думать-Pst, [parataxis Cl]]'
+  - '[root [advmod так] [nsubj PronPers-Nom] [advmod и] знать-Pst, [parataxis Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Так] [nsubj я] [advmod и] думал, [ccomp [mark что] [nsubj ты] [obj меня] обманешь].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental attitude
+        subtypes:
+          - type: Confidence
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+family:
+  - |
+    "Confidence"

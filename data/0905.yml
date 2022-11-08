@@ -1,0 +1,72 @@
+---
+record: 905
+name: 'один и тот же NP'
+UD_name: 'один и тот же NP'
+illustration: 'Они учат одно и то же стихотворение.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественность нескольких [объектов]Theme или [участников]Participant.
+  - english: |
+       This construction expresses a comparison and emphasizes the equality of several [objects]Theme or [participants]Participant.
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at flere [оbjekter]Theme eller [deltakere]Participant er identiske.
+examples:
+  - |
+       Миллионы пользователей задают один и тот же [вопрос]Theme: на какие сайты мне следует отправиться, чтобы получить наиболее ценный документ по интересующей меня теме.
+  - |
+       Я жила там 6 месяцев. Училась и работала в одно и то же [время]Theme! Было очень интересно, но трудно!
+  - |
+       В костюме Деда Мороза он просто преображался, Марина просто не могла поверить, что Дед Мороз и Саша ― это один и тот же [человек]Participant.
+  - |
+       Этот процесс происходит во многих странах мира практически по одному и тому же [сценарию]Theme.
+  - |
+       ― Мы совершаем одни и те же [ошибки]Theme, снова и снова.
+morphology:
+  - NP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Conjunction
+  - Particle
+  - Pronoun
+semantic_roles:
+  - Theme
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [det одно [conj [cc и] то [advmod же]]] NP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] учат [obj [det одно [conj [cc и] то [advmod же]]] стихотворение].]'
+comment: |
+    'Ср. похожую конструкцию 648.'
+common_fillers:
+  - лицо
+  - значение
+  - чувство
+  - время
+  - мгновение
+  - алгоритм
+  - сценарий
+  - вопрос
+  - ошибки
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

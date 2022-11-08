@@ -1,0 +1,69 @@
+---
+record: 574
+name: 'NP-Nom NP-Dat Cop не NP-Nom'
+UD_name: 'NP-Nom NP-Dat Cop не NP-Nom'
+illustration: 'Я вам не сын.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme не обладает ожидаемым от него [статусом]Status в отношении другого [участника]Experiencer (примеры 1, 2, 5) или только что утратил этот статус (примеры 3, 4).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Participant eller [et objekt]Theme ikke har den forventede [status]Status i forhold til en annen [deltaker]Experiencer (eksempel 1, 2 og 5), eventuelt nettopp har mistet denne statusen (eksempel 3 og 4).
+examples:
+  - |
+       Уровень шума работающего телевизора всегда очень важен. Если [шум]Theme [вам]Experiencer не [помеха]Status, работу можно продолжать.
+  - |
+       На берегу в плаще сидел одинокий рыбак. И [дождь]Theme [ему]Experiencer не [помеха]Status. Сидит и курит.
+  - |
+       Дочка начинает рыдать, кричать: «[Ты]Participant [мне]Experiencer не [друг]Status!» А мама ей сказала: «Конечно, [я]Participant [тебе]Experiencer не [друг]Status ― я тебе [мама]Status».
+  - |
+       [Ты]Participant [мне]Experiencer больше не [дочь]Status, этого поступка я никогда не забуду и не прощу.
+  - |
+       В нашу жизнь входят и через нее проходят бесчисленные люди; [они]Participant [нам]Experiencer не [враги]Status, [они]Participant [нам]Experiencer не [друзья]Status.
+morphology:
+  - NP
+  - Nom
+  - Dat
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+semantic_roles:
+  - Experiencer
+  - Theme
+  - Participant
+  - Status
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] [advmod не] NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [iobj вам] [advmod не] сын.]'
+comment: |
+    'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого стоит в именительном или творительном падеже в зависимости от места отрицательной частицы "не". Если отрицание идет перед связкой, то используется творительный падеж (Он мне не был другом). Если отрицание идет после связки и перед существительным, то используется именительный падеж (Он мне был не друг). Это правило не является строгим (возможно, например Дождь не был помехой; Возраст был не помеха vs. Разница в возрасте была не помехой).'
+common_fillers:
+  - сын
+  - дочь
+  - отец
+  - мать
+  - мама
+  - враг
+  - друг
+  - помеха
+  - игрушка
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

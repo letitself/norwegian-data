@@ -1,0 +1,57 @@
+---
+record: 1263
+name: 'С какого (такого) перепуга Cl?'
+UD_name: 'С какого (такого) перепуга Cl?'
+illustration: 'С какого перепуга я должен туда идти?'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий не понимает, почему происходит некоторая [ситуация]Situation, и испытывает удивление, недоумение и раздражение. Слова «с какого перепуга» означают «почему». Конструкция может также обозначать отказ говорящего выполнять действие, и в таких случаях она представляет собой риторический вопрос (примеры 4, 5). Может использоваться форма «перепуга» или «перепугу». Конструкция звучит грубо и невежливо по отношению к малознакомым людям.
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke forstår hvorfor en gitt [situasjon]Situation pågår og kjenner seg forundret, forbløffet og irritert. Ordene "c какого перепуга" betyr 'hvorfor'. Konstruksjonen kan også betegne talerens vegring mot å utføre handlingen. Konstruksjonen fremstår i slike tilfeller som et retorisk spørsmål (eksempel 4 og 5). Man kan bruke formen "перепуга" eller "перепугу". Konstruksjonen klinger grovt og uhøflig overfor personer en kjenner dårlig.
+examples:
+  - |
+       С какого перепуга [он вдруг решил стать программистом]Situation?
+  - |
+       С какого такого перепугу, непредвиденно и неоправданно, [Гриша оказался бы в Италии в начале фильма]Situation?!
+  - |
+       Остается только понять, с какого перепуга [ты приписываешь мне то, что я не писал и не выражаю]Situation.
+  - |
+       – Я вас совсем не знаю. С какого перепугу [я потащусь в дом к первому встречному]Situation? Вы вообще ведете себя так, что я не знаю, чего от вас ждать в следующую секунду. ― Ох, вижу, что выменя боитесь.
+  - |
+       Это с какого перепугу [я вдруг тебя забуду]Situation?!
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+semantic_roles:
+  - Situation
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case с] [det какого] перепуга] Cl?]'
+  - '[root [obl [case с] [det какого [det такого]] перепуга] Cl?]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] [det какого] перепуга] [nsubj я] должен [xcomp [advmod туда] идти]?]'
+comment: |
+    'См. близкие конструкции 1264 и 293.'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

@@ -1,0 +1,67 @@
+---
+record: 1834
+name: 'XP/Cl, точнее/вернее (сказать), XP/Cl'
+UD_name: 'XP/Cl, точнее/вернее (сказать), XP/Cl'
+illustration: 'Никто не воспринимает этот сайт как хороший ресурс, точнее, о нём вообще не знают.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция вводит в текст [пояснение]Theme некоторой [формулировки]Content. Говорящий стремится сделать свое высказывание более понятным, дополнительно выразив его смысл другими словами. То, что следует за словами «точнее сказать», «вернее сказать», «точнее» или «вернее», разъясняет, уточняет или упрощает информацию, которую говорящий уже сообщил. С помощью этой конструкции говорящий как бы поправляет свою первоначальную формулировку как не совсем точную, предлагая альтернативную формулировку. Слот XP может заполняться именной, предложной или глагольной группой.
+  - english: |
+       This construction introduces [an explanation]Theme of a certain [phrase]Content. The speaker tries to make their message more comprehensible by providing an additional statement of their meaning using other words. The part that follows after the words "точнее сказать", "вернее сказать", "точнее", or "вернее" explains, defines, or simplifies the information that the speaker has already communicated. It is as if the speaker is correcting their original formulation because it was not entirely precise, and suggesting an alternative phrasing. The XP slot can be filled by a noun phrase, a prepositional phrase, or a verb phrase.
+  - norwegian: |
+       Konstruksjonen tilfører teksten en [klargjøring]Theme av en gitt [formulering]Content. Taleren forsøker å gjøre sitt utsagn mer forståelig ved i tillegg å uttrykke utsagnets mening med andre ord. Det som kommer etter ordene 'точнее сказать', 'вернее сказать', 'точнее' eller 'вернее', forklarer, presiserer eller forenkler informasjonen taleren allerede har meddelt. Det er som om taleren ved hjelp av denne konstruksjonen korrigerer sin opprinnelige, noe upresise, formulering ved å foreslå en alternativ formulering. Sloten XP kan fylles av en nominalfrase, en preposisjonsfrase eller en verbalfrase.
+examples:
+  - |
+       Анна ― глава семьи.  Все они живут [за её счёт]Topic, точнее, [за счёт её дедушки]Theme. Вся недвижимость: квартира, дача, мебель, картины, ― всё богатство ― это наследство Анны.
+  - |
+       Она [высадила]Topic, точнее сказать, [вытолкала]Theme нас из вагона на остановку раньше.
+  - |
+       ― А мне кажется, это ты сейчас [понтуешься]Topic. Вернее сказать, [ведешь себя как дурак]Theme.
+  - |
+       Рада этого не любит. Да и некогда ей, она [в последнее время]Topic (вернее сказать ― [последние годы]Theme) увлеклась Интернетом, и не просто увлеклась, для нее это теперь вторая жизнь, если не первая.
+  - |
+       [Но я действительно стала меньше прощать]Topic. Вернее, [мне тяжело простить и отпустить человека в душе, как раньше]Theme.
+morphology:
+  - XP
+  - NP
+  - PP
+  - VP
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Verb
+semantic_roles:
+  - Content
+  - Topic
+  - Theme
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep XP, [nmod [parataxis [advmod точнее] сказать], XP]]'
+  - '[root XP, [nmod [parataxis [advmod вернее] сказать], XP]]'
+  - '[root XP, [nmod [parataxis точнее], XP]]'
+  - '[root XP, [nmod [parataxis вернее], XP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Никто] [advmod не] воспринимает [obj [det этот] сайт] [obl [case как] [amod хороший] ресурс], [parataxis [parataxis точнее], [obl [case о] нём] [advmod вообще] [advmod не] conj знают].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также О.И. Юнькова, А. С. Гурьев. К вопросу о категории пояснения в русской грамматике. // Русский язык в научном освещении, 1 (35). 2018. С. 46-73.
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+family:
+  - |
+    "Clarification via rephrasing"

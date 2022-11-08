@@ -1,0 +1,67 @@
+---
+record: 1063
+name: '(как) только (на NP-Acc) Verb-Pfv.Pst, как/так и Cl'
+UD_name: '(как) только (на NP-Acc) V-Perf.Past, как/так и Cl'
+illustration: 'Только на минуточку присела, как сразу уснула.'
+cefr_level: C2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action совершается сразу после другого [действия]Event. Как правило, первое действие происходит очень быстро, но за это короткое время успевает произойти второе действие, неожиданно для говорящего. Слот NP-Acc обычно заполняется названиями отрезков времени, часто в диминутиве (например, "на секундочку, на минуточку, на минутку, на часок").
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action finner sted rett etter en annen [handling]Event. Som regel skjer den første handlingen svært raskt, men på denne korte tiden rekker den andre handlingen å inntreffe, uventet for taleren. Sloten NP-Acc fylles vanligvis av navn på tidsrom, ofte i diminutiv (for eksempel "на секундочку, на минуточку, на минутку, на часок").
+examples:
+  - |
+       И он стал подробно рассказывать, какие замечательные у него дети. Я терпеливо слушал, но, как только он на [минуту]Measure [сделал паузу]Event, я [спросил]Action: ― «Ну, как?.. Книжечку мою прочитали?»
+  - |
+       Но, как только больной на [секунду]Measure [остановился]Event, профессор [встал]Action, показывая, что процедура окончена.
+  - |
+       Он хотел сесть, но только [оторвал голову от подушки]Event, как [опять сильно заболела голова]Situation.
+  - |
+       Только мама [начала засыпать]Event, как [папа ее разбудил]Action.
+  - |
+       Как только [появятся]Event деньги, так и [отдам долг]Action.
+morphology:
+  - NP
+  - Acc
+  - Verb
+  - Pfv
+  - Pst
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+  - Preposition
+  - Conjunction
+semantic_roles:
+  - Action
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [mark как [fixed только]] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark так [fixed и]] Cl]]'
+  - '[root [mark только] [obl [case на] NP-Acc] Verb-Pfv.Pst, [advcl [mark как] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [mark Только] [obl [case на] минуточку] присела, [advcl [mark как] [advmod сразу] уснула].]'
+comment: |
+    'См. похожие конструкции 316, 1623, 1624, 2011. Не путать с конструкцией 1503.'
+common_fillers:
+  - минуточку
+  - секунду
+  - минутку
+references:
+  - |
+    No references
+semantic_types:
+  - type: Consequence
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    "Immediate consecution"

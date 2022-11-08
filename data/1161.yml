@@ -1,0 +1,72 @@
+---
+record: 1161
+name: 'ни копейки/гроша не VP'
+UD_name: 'ни копейки/гроша не VP'
+illustration: 'Он ни копейки не потратил.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта, которым представляется одна копейка. Используется в прямом значении с глаголами «тратить»/«потратить», «заплатить», «получить», «заработать», «дать»/«давать», «брать»/«взять» и др.
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og uttrykker en kategorisk (fullstendig) avvisning av [en handling]Action ved å avvise dens minste bestanddel, representert ved en kopek. Brukes i direkte betydning med verbene 'тратить'/'потратить', 'заплатить', 'получить', 'заработать', 'дать'/'давать', 'брать'/'взять' m.fl.
+examples:
+  - |
+       Утром-то я поел хлеба с солью и запил его сладким чаем, а теперь был уже пятый час, и есть хотелось ужасно. Только денег ни копейки не [осталось]Action.
+  - |
+       Опомнившись, она заявила: ― Ни копейки не [получите]Action! И в доказательство разорвала договор на мелкие клочки.
+  - |
+       Могу сказать только одно, я ни копейки не [платила]Action и не собираюсь платить.
+  - |
+       Я сказала, что ни копейки не [потрачу]Action на ремонт и покупки в дом.
+  - |
+       Из этих денег нам ни копейки не [достается]Action, все забирают.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obj [advmod ни] копейки] [advmod не] VP]'
+  - '[root [obj [advmod ни] гроша] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obj [advmod ни] копейки] [advmod не] потратил.]'
+comment: |
+    'См. близкие конструкции ни черта́ не VP, ни шагу не VP, ни крошки не VP, ни глотка не VP, не VP ни NP-Gen'
+common_fillers:
+  - платить
+  - заплатить
+  - потратить
+  - достаться
+  - украсть
+  - получить
+  - заработать
+  - дать
+  - давать
+  - брать
+  - взять
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+family:
+  - |
+    "Non-existense of action/activity, which is presented as not-affecting even the tiniest piece/portion of the object. Not a single small portion, two negation markers NE and NI"

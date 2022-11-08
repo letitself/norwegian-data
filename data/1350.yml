@@ -1,0 +1,60 @@
+---
+record: 1350
+name: 'всё время VP'
+UD_name: 'всё время VP'
+illustration: 'Почему ты всё время жалуешься?'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что, по мнению говорящего, [некоторое действие]Action выполняется регулярно. Кроме того, конструкция может обозначать, что [некоторое состояние]State длится на протяжении долгого времени (примеры 3, 4).
+examples:
+  - |
+       Мы с Анной всё время [смеёмся]Action, когда вспоминаем наше детство.
+  - |
+       ― Ты всё время [играешь в компьютер]Action, но ведь он не только для этого, правда?
+  - |
+       Если уголок сада всё время [находится в тени]State, то не надо сажать там цветы.
+  - |
+       Старая собака мало бегает и почти всё время [лежит у машины]State.
+  - |
+       Анна всё время [ссорится со мной из-за Ивана]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl [det всё] время] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Почему] [nsubj ты] [obl [det всё] время] жалуешься?]'
+comment: |
+    'См. близкие конструкции 620, 851, 857, 911.'
+common_fillers:
+  - забываю
+  - кричит
+  - жил
+  - меняются
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

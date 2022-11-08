@@ -1,0 +1,56 @@
+---
+record: 1134
+name: 'NP-Nom Cop с NP-Ins на "вы"'
+UD_name: 'NP-Nom Cop с NP-Ins на "вы"'
+illustration: 'Я с техникой на "вы".'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Ins
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case с] NP-Ins] [case на] "вы"]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obl [case с] техникой] [case на] "вы".]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Attitude
+    subtypes:
+      - type: Capacity/Preferences
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    "Capacity/Preferences, Capacity/Intellect"

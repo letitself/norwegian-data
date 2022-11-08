@@ -1,0 +1,41 @@
+---
+record: 1600
+name: 'VP наскоками'
+UD_name: 'VP наскоками'
+illustration: 'В последнее время мы работаем наскоками.'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl наскоками]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod последнее] время] [nsubj мы] работаем [obl наскоками].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Discontinuative
+family:
+  - |
+    ""

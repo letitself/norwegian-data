@@ -1,0 +1,44 @@
+---
+record: 2288
+name: '(И) что теперь, Cl?'
+UD_name: '(И) что теперь, Cl?'
+illustration: 'И что теперь, обратно в общежитие возвращаться?'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [cc и] [nsubj что] [advmod теперь], Cl?]'
+  - '[root [nsubj что] [advmod теперь], Cl?]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [nsubj что] [advmod теперь], [obl [advmod обратно] [case в] общежитие] возвращаться?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

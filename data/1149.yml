@@ -1,0 +1,43 @@
+---
+record: 1149
+name: 'NP-Nom стать NP-Ins'
+UD_name: 'NP-Nom стать NP-Ins'
+illustration: 'Вчера он стал отцом.'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] стать [xcomp NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вчера] [nsubj он] стал [xcomp отцом].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

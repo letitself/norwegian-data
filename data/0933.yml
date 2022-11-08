@@ -1,0 +1,62 @@
+---
+record: 933
+name: 'VP-Inf Cop некому'
+UD_name: 'VP-Inf Cop некому'
+illustration: 'Гостей принять некому.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает отсутствие [участника]Agent, который мог бы выполнить некоторое [действие]Action. Ударение в «некому» стоит на не-.
+  - norwegian: |
+       Konstruksjonen betegner fraværet av [en deltaker]Agent som kunne ha utført en gitt [handling]Action. Trykket i "некому" ligger på не-.
+examples:
+  - |
+       И эти женщины-воспитатели с радостью отказались бы от второй ставки, просто [работать]Action некому.
+  - |
+       Урожай был богатый, но рабочих не хватало и [убирать его]Action было некому.
+  - |
+       Дефицит молодых кадров приведёт к нехватке лётчиков-профессионалов, и [на высокотехнологичных машинах летать]Action  будет некому.
+  - |
+       Я подумала о том, что скрипка стоит таких денег, каких у нас никогда не было и не будет, [купить эту скрипку]Action нам некому.
+  - |
+       И, похоже, риэлтора с ними нет рядом, некому [сказать]Action им, что нужно делать…
+morphology:
+  - VP
+  - Inf
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Predicative
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Agent
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [csubj VP-Inf] [cop Cop] некому]'
+dependency_structure_of_illustration:
+  - '[root [csubj [obj Гостей] принять] некому.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - помочь
+  - работать
+  - делать
+  - подсказать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+family:
+  - |
+    ""

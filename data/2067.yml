@@ -1,0 +1,46 @@
+---
+record: 2067
+name: 'сделать-Imp (PronPers-1.Dat) одолжение, VP-Imp'
+UD_name: 'сделать-Imper (PronPers-1.Dat) одолжение, VP-Imper'
+illustration: 'Сделай одолжение, принеси мою сумку!'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - Imp
+  - PronPers
+  - 1
+  - Dat
+  - VP
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+  - Verb and Object
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root сделать-Imp [obj одолжение], [parataxis VP-Imp]]'
+  - '[root сделать-Imp [iobj PronPers-1.Dat] [obj одолжение], [parataxis VP-Imp]]'
+dependency_structure_of_illustration:
+  - '[root Сделай [obj одолжение], [parataxis принеси [obj [det мою] сумку]]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Request
+family:
+  - |
+    ""

@@ -1,0 +1,63 @@
+---
+record: 1857
+name: 'NumCrd-Nom минус NumCrd-Nom – (равно/VP) NumCrd-Nom/NumCrd-Dat'
+UD_name: 'NumCrd-Nom минус NumCrd-Nom – (равно/VP) NumCrd-Nom/NumCrd-Dat'
+illustration: 'Пять минус три будет два.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция формулирует математическую операцию вычитания [одного числа]Quantity из [другого]Quantity с указанием [результата]Result (разности). Слот VP заполняется глагольными формами «будет» и «получится». Результат может быть выражен формой именительного или дательного падежа в случае, если используется слово «равно» (пример 1). Со словами «будет» и «получится» или если они опущены, результат всегда выражен формой именительного падежа (пример 3, 4).
+  - norwegian: |
+       Konstruksjonen formulerer regneoperasjonen å subtrahere [et tall]Quantity fra [et annet]Quantity og angir [svaret]Result (differansen). Sloten VP fylles av verbformene 'будет' og 'получится'. Ved bruk av ordet 'равно' kan svaret stå i nominativ eller dativ (eksempel 1). Sammen med ordene 'будет' og 'получится', eller dersom de er utelatt, står svaret alltid i nominativ kasus (eksempel 3 og 4).
+examples:
+  - |
+       [Двадцать]Quantity минус [три]Quantity равно [семнадцати]Result.
+  - |
+       Я лихорадочно подсчитывал в уме: Ирина зарабатывает $650 в месяц; квартира с газом и светом будет стоить $ 425, значит, получится [650]Quantity минус [425]Quantity ― [около 200]Result долларов нам на проживание в месяц.
+  - |
+       [Двадцать восемь]Quantity минус [девять]Quantity ― это будет… Это будет [девятнадцать]Result лет.
+  - |
+       Если ты настоящий русский художник, то ты по определению пьяница! Это так же верно, как [ноль]Quantity минус [четыре]Quantity будет опять же [ноль]Result.
+  - |
+       А [сорок шесть]Quantity минус [девять]Quantity ― [тридцать семь]Result.
+morphology:
+  - NumCrd
+  - Nom
+  - VP
+  - Dat
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+  - Adjective
+semantic_roles:
+  - Result
+  - Quantity
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NumCrd-Nom [nmod [case минус] NumCrd-Nom]] – равно [xcomp NumCrd-Nom]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case минус] NumCrd-Nom]] – равно [xcomp NumCrd-Dat]]'
+  - '[root [nsubj NumCrd-Nom [nmod [case минус] NumCrd-Nom]] VP [xcomp NumCrd]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Пять [nmod [case минус] три]] [cop будет] два.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - будет
+  - получится
+references:
+  - |
+    No references
+semantic_types:
+  - type: Calculation
+    subtypes:
+      - type: Subtraction
+family:
+  - |
+    "CALCULATION constructions"

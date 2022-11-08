@@ -1,0 +1,70 @@
+---
+record: 1980
+name: 'NP-Nom добираться/ехать/лететь/плыть NP-Ins'
+UD_name: 'NP-Nom добираться/ехать/лететь NP-Ins'
+illustration: 'Из Варшавы в Москву нужно ехать поездом всю ночь.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что [участник]Agent перемещается в пространстве с помощью [транспортного средства]Theme (по земле, по воде или по воздуху). Слот NP-Ins может называть тип транспортного средства (примеры 1, 2, 3) или транспортную компанию (примеры 4, 5) или класс обслуживания (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at [en deltaker]Agent forflytter seg i rommet ved hjelp av [et fremkomstmiddel]Theme (til lands, til vanns eller gjennom luften). Sloten NP-Ins kan angi typen fremkomstmiddel (eksempel 1, 2 og 3), transportselskapet (eksempel 4 og 5) eller serviceklassen (eksempel 5).
+examples:
+  - |
+       Этот полёт был для меня тоже своего рода дебютом ― [я]Agent впервые летела [самолётом]Theme.
+  - |
+       Самолеты летали не так хорошо, как раньше, вот и пришлось добираться [поездом]Theme.
+  - |
+       Вовкина мать рассказала, как и с какого вокзала ехать на электричке, как потом добираться [автобусом]Theme.
+  - |
+       [Я]Agent летела [«Аэрофлотом»]Theme из Нью-Йорка в Тель-Авив через Москву.
+  - |
+       Я боялся, что будет безумно дорого, оказалось вполне по средствам. Если лететь [экономом]Instrument [«Туркменскими авиалиниями»]Instrument с долгой пересадкой в Ашхабаде.
+morphology:
+  - NP
+  - Nom
+  - Ins
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - Instrument
+  - Theme
+  - Agent
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] добираться [iobj NP-Ins]]'
+  - '[root [nsubj NP-Nom] ехать [iobj NP-Ins]]'
+  - '[root [nsubj NP-Nom] лететь [iobj NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Из] Варшавы [nmod [case в] Москву]] нужно [csubj ехать [iobj поездом] [obl [det всю] ночь]].]'
+comment: |
+    'См. похожую по значению конструкцию 2012 VP на NP-Loc (До библиотеки можно добраться на троллейбусе или на автобусе).'
+common_fillers:
+  - поездом
+  - автобусом
+  - эшелоном
+  - автомобилем
+  - трамваем
+  - общественным транспортом
+  - самолётом
+  - пароходом
+  - машиной
+  - Аэрофлотом
+  - экономом
+references:
+  - |
+    No references
+semantic_types:
+  - type: Instrument
+  - type: Manner
+family:
+  - |
+    ""

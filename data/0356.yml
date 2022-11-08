@@ -1,0 +1,77 @@
+---
+record: 356
+name: 'чем бы VP-Inf, VP (бы)'
+UD_name: 'чем бы VP-Inf, VP (бы)'
+illustration: 'Чем бы учиться, он гуляет.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий выражает свое недовольство тем, что участник не совершил какое-либо [действие]Action, а совершает или совершил [другое]Action. Выражение «чем бы» соответствует союзу «вместо того, чтобы». Возможны два варианта употребления: 1) После «чем бы» называется ненужное действие, имеющее место в реальности, а после запятой называется альтернативное нужное действие, которое нужно предпочесть с точки зрения говорящего (пример 1); 2) После «чем бы» называется нужное действие, которое следует предпочесть, а после запятой называется ненужное действие, имеющее место в реальности (примеры 2, 3, 4). Пример 5 иллюстрирует еще один вариант: после «чем бы» называется ненужное, но ожидаемое действие, а после запятой называется альтернативное нужное действие, которое имеет место в реальности.
+  - english: |
+       The construction indicates that the speaker expresses dissatisfaction with the fact that the interlocutor has not taken a given [action]Action or is undertaking or has undertaken a different [action]Action.
+  - norwegian: |
+       Konstruksjonen betyr at taleren uttrykker sin misnøye med at deltakeren ikke har utført en eller annen [handling]Action, men heller utfører eller har utført [en annen]Action. Uttrykket "чем бы" tilsvarer konjunksjonen "вместо того, чтобы". Konstruksjonen kan brukes på to måter: 1) Etter "чем бы" kommer den uønskede handlingen, som er en realitet, mens den alternative, ønskede handlingen, som etter talerens mening er å foretrekke, kommer etter kommaet (eksempel 1); 2) Etter "чем бы" kommer den ønskede handlingen som er å foretrekke, mens den uønskede handlingen, som er en realitet, kommer etter kommaet (eksempel 2, 3 og 4). Eksempel 5 illustrerer enda en variant: Etter "чем бы" kommer en uønsket, men forventet handling, og etter kommaet kommer den alternative, ønskede handlingen, som er en realitet.
+examples:
+  - |
+       Чем бы по улицам [болтаться]Action, [почитал]Action бы книжку.
+  - |
+       Чем бы [пойти]Action на работу, [лежит]Action целый день на диване.
+  - |
+       Чем бы [работать]Action, так он [лодырничает]Action.
+  - |
+       Чем бы [уделить его старому отцу немного денег из своих достатков]Action, он [пьянствует]Action.
+  - |
+       К тому же и жизнь ее после этого, чем бы [ухудшиться и омрачиться]Action, [изменилась к лучшему]Action.
+morphology:
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subordinator
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+semantic_roles:
+  - Action
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root [advcl [mark чем] [aux бы] VP], VP]'
+  - '[root [advcl [mark чем] [aux бы] VP], VP [aux бы]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Чем] [aux бы] учиться], [nsubj он] гуляет.]'
+comment: |
+    'См. близкие по значению конструкции 223 нет чтобы/бы VP-Inf, Cl (Нет чтобы подождать, он ушел без нас!); 222 нет бы (NP-Dat) VP-Inf (Нет бы сделать домашнее задание пораньше).'
+common_fillers:
+  - работать
+  - поработать
+  - помочь
+  - учиться
+  - гуляет
+  - отдыхает
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Options
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Disapproval, Ethics/Behavior"

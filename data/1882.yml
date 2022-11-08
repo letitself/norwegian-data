@@ -1,0 +1,60 @@
+---
+record: 1882
+name: 'с таким/тем же успехом Cl'
+UD_name: 'с таким/тем же успехом Cl'
+illustration: 'С таким же успехом мы можем поехать и на поезде.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает сравнение и подчеркивает тождественный результат двух ситуаций. Говорящий сравнивает две альтернативы хода событий. Одна альтернатива является реальной, а другая гипотетической, либо обе альтернативы являются гипотетическими (при обсуждении плана будущих действий). [Вторая альтернатива]Standard оказывается не хуже [первой]Comparee по опреденному критерию (выгодность, скорость, удобство и др.).
+  - norwegian: |
+       Konstruksjonen uttrykker sammenligning og fremhever at to situasjoner har identisk resultat. Taleren sammenligner to alternative hendelsesforløp. Det ene alternativet er reelt og det andre hypotetisk, eller begge alternativene er hypotetiske (når man diskuterer hva man planlegger å gjøre). [Det andre alternativet]Standard viser seg å ikke stå tilbake for [det første]Comparee når det gjelder et bestemt kriterium (fordelaktighet, hurtighet, bekvemmelighet m.m.).
+examples:
+  - |
+       Какой смысл [жить в Москве, если обитаешь в районе Братеево]Comparee? С таким же успехом [можно жить в Тамбове и в Туле]Standard…
+  - |
+       На семейном совете было решено, что [парень пойдет на журфак МГУ]Comparee. Андрей не сопротивлялся, он с тем же успехом [мог отправиться на истфак или филфак]Standard.
+  - |
+       [Я старалась говорить как можно мягче, чтобы не обидеть ее]Comparee. Излишняя предосторожность! С тем же успехом [можно было орать и топать ногами]Standard.
+  - |
+       [Бог знает, о чём она думала, но мои слова не проникали в её маленькую красивую голову]Comparee ― с таким же успехом [я мог бы говорить с диваном, на котором она сидела]Standard.
+  - |
+       [Нужно двадцать тысяч. Ради бога, выручайте! Дайте взаймы, я верну… Постепенно…]Comparee С таким же успехом [я могла попросить у перекупщика кусок луны]Standard. Да он и десятки не даст нищей смотрительнице музея.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+  - Particle
+semantic_roles:
+  - Comparee
+  - Standard
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case с] [det таким [advmod же]] успехом] Cl]'
+  - '[root [obl [case с] [det тем [advmod же]] успехом] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] [det таким [advmod же]] успехом] [nsubj мы] можем [xcomp поехать [obl [advmod и] [case на] поезде]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

@@ -1,0 +1,68 @@
+---
+record: 1073
+name: 'что ни день/год, то XP'
+UD_name: 'что ни день/год, то XP'
+illustration: 'Что ни день, то грозы.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [событие]Event происходит регулярно, причем с более высокой частотой, чем могло бы ожидаться.
+examples:
+  - |
+       На эту тему что ни день, то [новость]Event.
+  - |
+       Это у тебя что ни день, то [праздник]Event.
+  - |
+       Сейчас что ни день, то [объявляется]Event новая партия.
+  - |
+       А её сестра что ни день – то [пьяная]Event.
+  - |
+       А потом началось: что ни год ― то [повышение налога]Event.
+morphology:
+  - XP
+  - NP
+  - VP
+  - Adj
+  - Cl
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advcl [mark что] [advmod ни] день], [cc то] XP]'
+  - '[root [advcl [mark что] [advmod ни] год], [cc то] XP]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Что] [advmod ни] день], [cc то] грозы.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - праздник
+  - новость
+references:
+  - |
+    No references
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Pluractionality
+    subtypes:
+      - type: Frequentative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

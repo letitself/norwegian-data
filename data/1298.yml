@@ -1,0 +1,62 @@
+---
+record: 1298
+name: 'VP на NP-Acc'
+UD_name: 'VP на NP-Acc'
+illustration: 'Все обернулись на её смех.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция указывает на [внешний раздражитель]Stimulus, который является причиной того, что [участник]Experiencer совершает [движение или иное действие]Action в его направлении. Как правило, таким раздражителем выступает резкий свет, звук или запах.
+  - norwegian: |
+       Konstruksjonen angir [en ytre trigger]Stimulus som er årsaken til at [en deltaker]Experiencer utfører [en bevegelse eller en annen handling]Action i retning av denne. Triggerne er som regel skarpt lys, lyd eller lukt.
+examples:
+  - |
+       На [шум]Stimulus [в палату пришел]Action [санитар]Experiencer.
+  - |
+       [Настя]Experiencer [кинулась]Action на [голос]Stimulus и увидела Лизу у двери гостиной.
+  - |
+       На незнакомой терриории я чувствую себя [древним человеком]Experiencer, который [вылез из пещеры]Action на [свет]Stimulus и увидел вместо привычного леса  улицу в горящих неоновых вывесках.
+  - |
+       На газете разложили зеленый лук, хлеб, немного сала, на [запах которого]Stimulus [пришла, робко мяукая]Action, [серая кошка]Experiencer.
+  - |
+       На [лай собаки]Stimulus [вышел]Action [старик]Experiencer и начал рассматривать меня.
+morphology:
+  - VP
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Experiencer
+  - Stimulus
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Все] обернулись [obl [case на] [det её] смех].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - идти
+  - выйти
+  - сбежаться; запах
+  - свет
+  - шум
+  - крик
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

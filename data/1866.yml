@@ -1,0 +1,61 @@
+---
+record: 1866
+name: 'в довершение всего/ко всему, Cl'
+UD_name: 'в довершение всего/ко всему, Cl'
+illustration: 'В довершение всего у меня угнали машину.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция вводит [информацию]ContentOfSpeech, которая дополняет сказанное ранее. Конструкция описывает некоторую негативную [ситуацию,]Situation которая усугубляет положение дел, сложившееся в результате другой предшествующей ей негативной ситуации.
+  - english: |
+       This construction introduces [an additional piece of information]ContentOfSpeech that elaborates what has been previously said. This construction describes a negative [situation]Situation that exacerbates the state of affairs that resulted from a preceding negative situation.
+  - norwegian: |
+       Konstruksjonen introduserer [informasjon]ContentOfSpeech som supplerer noe som er sagt tidligere. Konstruksjonen beskriver en negativ [situasjon]Situation som forverrer tingenes tilstand, som er en følge av en annen negativ situasjon som utspant seg forut for denne.
+examples:
+  - |
+       Меня тошнило, голова болела, и, в довершение всего, [кажется, начала подниматься температура.]ContentOfSpeech
+  - |
+       По несколько раз в день ей становится плохо. В довершение ко всему [она стала очень раздражительной.]ContentOfSpeech
+  - |
+       Собаке диагностировали целый «букет» болезней: пневмония, плеврит, нефрит и в довершение ко всему ― [«свежий» инфаркт.]ContentOfSpeech
+  - |
+       Был такой шум, что я не слышала собственного голоса. В довершение всего, [я еще и упала.]ContentOfSpeech
+  - |
+       На спектакле всё шло не так: у одного актера парик свалился, у другого актера костюм порвался. И в довершение всего [упала часть декорации.]ContentOfSpeech
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case в] довершение [nmod этого]], Cl]'
+  - '[root [obl [case в] довершение [nmod всего]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] довершение [nmod всего]] [obl [case у] меня] угнали [obj машину].]'
+comment: |
+    'Конструкция близка по значению 1874 (Так) мало того – Cl.'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Discourse additive
+family:
+  - |
+    ""

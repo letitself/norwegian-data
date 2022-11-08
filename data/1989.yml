@@ -1,0 +1,53 @@
+---
+record: 1989
+name: 'Cl исключая NP-Acc'
+UD_name: 'Cl исключая NP-Acc'
+illustration: 'Пришли все, исключая Петю.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая информация приводится для определенного [множества элементов]Set, но не верна для [части]Element этого множества. Эта часть отличается от других элементов множества по некоторoму признаку и не является релевантной с точки зрения говорящего. Эта часть множества обычно представлена конкретным объектом или участником.
+examples:
+  - |
+       Никита так говорит [со всеми]Set, исключая, конечно, [Кристину]Element.
+  - |
+       [Все]Set ее сыновья, исключая [младшего]Element, рано пошли работать.
+  - |
+       Из [всех континентов]Set, исключая [Антарктиду]Element, Южная Америка была заселена человеком позже всего.
+  - |
+       [Никакая другая профессия]Set, исключая только [юристов]Element, не может сравниться по уровню зарплаты с докторами.
+  - |
+       Народу в храме на службе [всегда]Set было немного, исключая большие [праздники]Element ― Пасху, Рождество.
+morphology:
+  - Cl
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Converb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [nmod [case исключая] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root Пришли [nsubj все, [nmod [case исключая] Петю]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Exceptive
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 1756
+name: '(а) (вот) тут/здесь PronPers-Nom VP!'
+UD_name: '(а) (вот) тут/здесь PronPers-Nom VP!'
+illustration: 'А вот тут ты ошибаешься! Предела нет и быть не может!'
+cefr_level: A2
+definitions:
+examples:
+morphology:
+  - PronPers
+  - Nom
+  - VP
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [cc а] [advmod вот] [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [cc а] [advmod вот] [advmod здесь] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod вот] [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod вот] [advmod здесь] [nsubj PronPers-Nom] VP!]'
+  - '[root [cc а] [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [cc а] [advmod здесь] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod тут] [nsubj PronPers-Nom] VP!]'
+  - '[root [advmod здесь] [nsubj PronPers-Nom] VP!]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [advmod вот] [advmod тут] [nsubj ты] ошибаешься!] [root [nsubj Предела] нет [conj [cc и] [xcomp быть] [advmod не] может]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

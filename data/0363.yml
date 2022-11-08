@@ -1,0 +1,65 @@
+---
+record: 363
+name: 'что до NP-Gen, то Cl'
+UD_name: 'что до NP-Gen, то Cl'
+illustration: 'Что до нового руководителя, то я не хочу о нем говорить.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция вводит [тему]Topic, по которой говорящий высказывает своё [мнение]Evaluation или приводит [фактическую информацию]ContentOfSpeech. Эта тема обычно уже упоминалась ранее самим говорящим или его собеседником (примеры 1, 2, 3). Бывает и так, что эта тема упоминается впервые, но тесно связана с уже сказанным (примеры 4, 5). Темой может быть предмет, человек или абстрактное понятие.
+  - english: |
+       This construction introduces a [topic]Topic, and in this connection the speaker expresses their [opinion]Evaluation or provides [factual information]ContentOfSpeech. The topic has usually been addressed previously by the same speaker or their interlocutor (see examples 1, 2, and 3). Sometimes it happens that the topic is mentioned here for the first time, but it is closely related to something that was said previously (examples 4 and 5). The topic can be an object, a person, or an abstract concept.
+  - norwegian: |
+       Konstruksjonen introduserer et [tema]Topic som taleren uttrykker sin [mening]Evaluation om eller kommer med [faktisk informasjon]ContentOfSpeech om. Vanligvis har temaet vært omtalt tidligere av taleren selv eller av talerens samtalepartner (eksempel 1, 2 og 3). Det kan også være at temaet omtales for første gang, men er nært forbundet med noe det allerede har vært snakk om (eksempel 4 og 5). Temaet kan være en gjenstand, et menneske eller et abstrakt begrep.
+examples:
+  - |
+       Из своих актёров они наградили Клода Риша и гораздо более знаменитую в России Анук Эме. Из иностранцев был поощрён Джереми Айронс. Вероятно, ещё и за то, что когда-то сыграл в фильме "Женщина французского лейтенанта". Что до ["Амели"]Topic, то [у фильма будет шанс взять дополнительные призы в конце марта.]ContentOfSpeech
+  - |
+       ― Вам легко совмещать работу и материнство? Мне кажется, трудно: не случайно из-за рождения сына у вас был двухлетний перерыв в съемках. ― Ну, я еще потратила время на творческую мастерскую в Швейцарии, играла на сцене в Лондоне…  Что до [материнства]Topic, то [я считаю это занятие крайне важным.]Evaluation
+  - |
+       Я учился в закрытом учебном заведении, ужасно дорогом и престижном. Родители выложили немалые деньги. Считалось, что там я получаю бесценное образование и рациональное питание. Насчет образования ― возможно. Что до [питания]Topic, то [нас кормили все той же сосиской с макаронами.]Evaluation
+  - |
+       Что до [вокала]Topic, то [в массовых сценах "Отелло" блеснул хором и не разочаровал сольными партиями.]Evaluation
+  - |
+       Это все из-за тревожности, связанной с пограничными временами года. Что до [меня]Topic, то [мое любимое время года ― конец августа, когда время замирает в равновесии на вершине.]ContentOfSpeech
+morphology:
+  - NP
+  - Gen
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ContentOfSpeech
+  - Theme
+  - Topic
+  - Evaluation
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [dislocated что [obl [case до] NP-Gen]]'
+  - '[mark то] Cl]'
+dependency_structure_of_illustration:
+  - '[root [dislocated Что [obl [case до] [amod нового] руководителя]], [mark то] [nsubj я] [advmod не] хочу [xcomp [obl [case о] нем] говорить].]'
+comment: |
+    'См. близкую конструкцию 365.'
+common_fillers:
+  - меня
+references:
+  - |
+    Грудева Е.В. Способы введения темы в русском языке. // Компьютерная лингвистика и интеллектуальные технологии. Труды международной конференции Диалог 2006. 2006. Москва. Издательство РГГУ. С. 124-124.
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic
+family:
+  - |
+    "Introducing a topic for discussion"

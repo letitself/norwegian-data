@@ -1,0 +1,72 @@
+---
+record: 2012
+name: 'VP на NP-Loc'
+UD_name: 'VP на NP-Loc'
+illustration: 'До библиотеки можно добраться на троллейбусе или на автобусе.'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник [перемещается]Action в пространстве с помощью [транспортного средства]Theme (по земле, по воде или по воздуху).
+  - norwegian: |
+       Konstruksjonen betyr at deltakeren [forflytter seg]Action i rommet ved hjelp av [et transportmiddel]Theme (til lands, til vanns eller gjennom luften).
+examples:
+  - |
+       –  Я в гимназии учусь, можно на [автобусе]Theme две остановки [проехать]Action, а можно через парк пешком пройти.
+  - |
+       Туда надо было [ехать]Action на [машине]Theme 40 километров.
+  - |
+       Ему тридцать семь лет, он на [лыжах]Theme [бегает]Action, как эскимос, а на [велосипеде]Theme [гоняет]Action по шоссе ― как истинный гонщик.
+  - |
+       Они долго [ехали]Action на [метро]Theme, потом на [троллейбусе]Theme.
+  - |
+       Она долго думала, как лучше [добираться]Action ― на [самолете]Theme или на [корабле]Theme.
+morphology:
+  - VP
+  - NP
+  - Loc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Theme
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case До] библиотеки] можно [csubj добраться [obl [case на] троллейбусе [conj [cc или] [case на] автобусе]]].]'
+comment: |
+    'См. похожую по значению конструкцию 1980 NP-Nom добираться/ехать/лететь NP-Ins (Из Варшавы в Москву нужно ехать поездом всю ночь). Не путать с конструкцией 1978 VP на NP-Loc (Считать на калькуляторе).'
+common_fillers:
+  - автобусе
+  - троллейбусе
+  - трамвае
+  - самолете
+  - метро
+  - вертолете
+  - самокате
+  - велосипеде
+  - лыжах
+  - санках
+  - ледянке
+  - лодке
+  - корабле
+  - пароходе
+  - транспорте
+  - поезде
+references:
+  - |
+    No references
+semantic_types:
+  - type: Instrument
+  - type: Manner
+family:
+  - |
+    ""

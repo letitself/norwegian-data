@@ -1,0 +1,84 @@
+---
+record: 1136
+name: 'NP-Nom Cop на PronPoss-Loc стороне/на стороне NP-Gen'
+UD_name: 'NP-Nom Cop на PronPoss-Loc стороне/на стороне NP-Gen'
+illustration: 'В этом споре я на вашей стороне.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция выражает положительное отношение [участника]Agent к [одному]Participant из участников, которые находятся в противостоянии друг другу. Подразумевается, что есть ряд альтернатив, и участник ясно высказывает одобрение и поддержку одного из возможных кандидатов. Таким участником, который занимает сторону одного из конкурентов, может быть как человек, так и [абстрактная сила (например, закон, удача, симпатии и др.) или организация (суд)]Theme, которая персонифицируется в данной конструкции.
+  - norwegian: |
+       Konstruksjonen uttrykker [en deltakers]Agent positive innstilling til [én]Participant av flere deltakere som er i opposisjon til hverandre. Det er underforstått at det finnes en rekke alternativer, og deltakeren gir klart uttrykk for sin anerkjennelse og støtte til én av kandidatene. Deltakeren som tar en av konkurrentenes parti, kan være såvel en person som en [abstrakt kraft (for eksempel en lov, medgang, sympati o.a) eller en organisasjon (retten)]Theme, som personifiseres i denne konstruksjonen.
+examples:
+  - |
+       Альфред Нобель был шведским гражданином, но большую часть жизни провёл во Франции, Германии и России, где находились сотни его заводов. [Французский суд]Theme был на стороне [родственников Нобеля]Participant, тогда как шведский был готов уважить последнюю волю завещателя.
+  - |
+       В деревне мы часто дрались с переселенцами, в школе ― класс на класс или "за мальчиков" и "за девочек". [Я]Agent почему-то всегда был на стороне [девочек]Participant.
+  - |
+       Но неужели вам не приходило в голову, что в случае смерти вашего мужа [закон]Theme будет на стороне [Семена Семеновича]Participant, а никак не Оленьки?
+  - |
+       Но если бы у генерала Деникина был даже один солдат, то и тогда [симпатии наши]Theme будут всё-таки на [его]Participant стороне: он был одним из немногих генералов, который при невероятно трудныхусловиях остался верным идее союза…
+  - |
+       Потом началась битва волков с кабанами.  Упрямые кабаны отчаянно сопротивлялись, защищая себя и своё потомство, но [удача]Theme была не на [их]Participant стороне.
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - PronPoss
+  - Loc
+  - Gen
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Agent
+  - Participant
+  - Theme
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [det PronPoss-Loc] стороне]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] стороне [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det этом] споре] [nsubj я] [case на] [det вашей] стороне.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - его
+  - ее
+  - их
+  - вашей
+  - нашей
+  - твоей
+  - моей
+  - удача
+  - симпатии
+  - поддержка
+  - суд
+  - закон
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Support
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Temporary characteristics
+    subtypes:
+      - type: Context
+      - type: Behavior
+family:
+  - |
+    "Support"

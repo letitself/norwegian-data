@@ -1,0 +1,65 @@
+---
+record: 195
+name: '(NP-Dat) не грех Cop и VP-Pfv.Inf'
+UD_name: '(NP-Dat) не грех Cop и VP-Perf.Inf'
+illustration: 'Теперь не грех нам и отдохнуть.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник ситуации считает, что какое-то [действие]Action разрешено и не оценивается негативно. Конструкция обозначает, что говорящий считает, что неплохо было бы совершить некоторое [действие]Action, воспользовавшись подходящей ситуацией.
+examples:
+  - |
+       Ради такого случая не грех и пораньше [встать]Action.
+  - |
+       Но прежде не грех и [поучиться]Action у профессионалов.
+  - |
+       Я устал, поэтому не грех и [поспать]Action немножко.
+morphology:
+  - NP
+  - Dat
+  - Cop
+  - VP
+  - Pfv
+  - Inf
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Predicative
+  - Particle
+semantic_roles:
+  - Action
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] грех [cop Cop] [csubj [advmod и] VP-Pfv.Inf]]'
+  - '[root [advmod не] грех [cop Cop] [csubj [advmod и] VP-Pfv.Inf]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Теперь] [advmod не] грех [iobj нам] [csubj [advmod и] отдохнуть].]'
+comment: |
+    'В прошедшем времени используется форма связочного глагола "было", которая не согласуется по роду со словом "грех". Не путать с конструкцией с противоположным значением 16 (NP-Dat) грех Cop VP-Inf (Грех обижаться на взрослых).'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of a proposition
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Assessment of a proposition, Ethics/Behavior"

@@ -1,0 +1,60 @@
+---
+record: 1292
+name: 'VP в награду (за NP-Acc)'
+UD_name: 'VP в награду (за NP-Acc)'
+illustration: 'В награду за смелость Феде дали медаль.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие или качество участника]Cause стало причиной благоприятной для него [ситуации]Situation. Эта ситуация служит поощрением для участника.
+  - norwegian: |
+       Konstruksjonen betyr at [en deltakers handling eller egenskap]Cause har forårsaket en [situasjon]Situation som er gunstig for deltakeren. Situasjonen fungerer som en belønning for deltakeren.
+examples:
+  - |
+       В награду за [терпение]Cause [она вновь обрела счастье в новом доме с любимым человеком и детьми]Situation.
+  - |
+       Некоторым в награду за [академические успехи]Cause [Уколов даже выписывал бальные платья прямо из Парижа]Situation.
+  - |
+       [Люди отдают последнее]Situation в награду за [улыбку на лице больного ребенка]Cause.
+  - |
+       В награду за [наше усердие]Cause [нам за счет театра «Ла Скала» полагались поездки по городам Италии]Situation.
+  - |
+       А затем в награду [полицейские подарили герою пуленепробиваемый жилет]Situation.
+morphology:
+  - VP
+  - NP
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Cause
+  - Situation
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] награду [nmod [case за] NP-Acc]]]'
+  - '[root VP [obl [case в] награду]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] награду [nmod [case за] смелость]] [iobj Феде] дали [obj медаль].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - труд
+  - усердие
+  - терпение
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

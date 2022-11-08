@@ -1,0 +1,50 @@
+---
+record: 2294
+name: 'XP (никуда) не годиться'
+UD_name: 'XP (никуда) не годиться'
+illustration: 'Эта машина никуда не годится.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - XP
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [dep XP] [advmod никуда] [advmod не] годиться]'
+  - '[root [dep XP] [advmod не] годиться]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эта] машина] [advmod никуда] [advmod не] годится.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Usefulness
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Usefulness"

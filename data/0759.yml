@@ -1,0 +1,63 @@
+---
+record: 759
+name: 'в заключение VP/Cl'
+UD_name: 'в заключение, Cl'
+illustration: 'В заключение я хочу поблагодарить президента Узбекистана.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция используется для завершения речи, вводит [заключительную часть высказывания]Theme.
+  - english: |
+       This construction is used to conclude a statement, providing [the concluding portion of a statement]Theme.
+  - norwegian: |
+       Konstruksjonen brukes for å runde av en talesekvens og innleder [et utsagns avsluttende del]Theme.
+examples:
+  - |
+       — В заключение повторю, что это мои личные идеалы и судить меня за это не стоит.
+  - |
+       В заключение хочется сказать, что книга оставила довольно неровное и смутное впечатление.
+  - |
+       В заключение хотелось бы отметить, что безвыходных ситуаций не бывает, так что, уважаемые родители, будьте внимательны к проблемам своих детей
+  - |
+       В заключение, можно сделать следующие общие выводы.
+  - |
+       В заключение, я желаю Вам активного творческого пути.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [parataxis [case в] заключение]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [case В] заключение] [nsubj я] хочу [xcomp поблагодарить [obj президента [nmod Узбекистана]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - сказать
+  - отметить
+  - пожелать
+  - повторить
+  - хотелось бы
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Sequence
+family:
+  - |
+    ""

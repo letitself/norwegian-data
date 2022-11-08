@@ -1,0 +1,66 @@
+---
+record: 747
+name: 'NP-Nom Cop сам не свой'
+UD_name: 'NP-Nom Cop сам не свой'
+illustration: 'Папа сегодня сам не свой.'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция характеризует эмоциональное состояние [участника ситуации]Experiencer как сильное отклонение от его нормального состояния. Конструкция обозначает, что участник взволнован, растерян, испуган или огорчен до такой степени, что перемена в нем заметна говорящему и окружающим людям. Внешние проявления этого состояния включают медлительность, задумчивость, необщительность, неестесвенное поведение или странный внешний вид. Как если бы этот человек больше не принадлежал самому себе, потеряв душевное спокойствие и равновесие. Причина такого состояния участника, как правило, негативная, может быть выражена именной группой с предлогом «от». Конструкция используется в единственном числе, а во множественном числе встречается реже (пример 5).
+  - norwegian: |
+       Konstruksjonen beskriver at den emosjonelle tilstanden til [en deltaker i situasjonen]Experiencer avviker sterkt fra det som er vanlig for denne personen. Konstruksjonen betyr at deltakeren er så oppskaket, forvirret, skremt eller skuffet at den indre forandringen er merkbar for taleren og folk omkring. I det ytre kan tilstanden gi seg til kjenne i sendrektighet, ettertenksomhet, innesluttethet, unaturlig opptreden eller rart utseende. Det er som om personen ikke lenger tilhører seg selv, etter å ha mistet sinnsroen og likevekten. Tilstandens årsak, som vanligvis er noe negativt, kan være uttrykt av en nominalfrase med preposisjonen "от". Konstruksjonen brukes i entall og forekommer sjeldnere i flertall (eksempel 5).
+examples:
+  - |
+       – Что-то случилось? [Ты]Experiencer стал сам не свой. – Ничего, Люленька, не обращай внимания.
+  - |
+       Всю среду [я]Experiencer был сам не свой. Иногда встретишь кого-нибудь, вроде и знаком тебе, а не вспомнишь. И под этим впечатлением ходишь весь день.
+  - |
+       Между прочим, [кот]Experiencer по тебе скучает, два дня был сам не свой, все ходил, искал.
+  - |
+       [Аська]Experiencer с утра была сама не своя, что называется — как на иголках. Каждые пять минут хваталась за телефон и чего-то ждала. Смотреть на неё было больно и страшно, и мы все за неё переживали.
+  - |
+       Сегодня [мои дети]Experiencer сами не свои: плаксивые, вредные. До обеда успели довести меня до истерики (почти).
+morphology:
+  - NP
+  - Nom
+  - Cop
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - Experiencer
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [amod сам] [advmod не] свой]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Папа] [advmod сегодня] [amod сам] [advmod не] свой.]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Emotion/Psychological state
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    "Emotion/Psychological state"

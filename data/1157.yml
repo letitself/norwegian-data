@@ -1,0 +1,70 @@
+---
+record: 1157
+name: 'ни черта́ не VP'
+UD_name: 'ни черта́ не VP'
+illustration: 'Я ни черта не вижу.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция с двойным отрицанием передает значение категорического (полного) отрицания [действия]Action через отрицание его минимального кванта. Конструкция отличается экспрессивностью. Конструкция является негативно окрашенным синонимом слова «ничего». Выражает негативное отношение говорящего к действию, его результату или несогласие с собеседником или используется в качестве интенсификатора.
+  - norwegian: |
+       Konstruksjonen har dobbel nektelse og uttrykker en kategorisk (fullstendig) avvisning av [en handling]Action ved å avvise dens minste bestanddel. Konstruksjonen har et ekspressivt preg. Konstruksjonen er et negativt ladet synonym til ordet 'ничего'. Den uttrykker at taleren forholder seg negativt til handlingen eller handlingens resultat eller er uenig med samtalepartneren, eller den brukes som intensifikator.
+examples:
+  - |
+       Что ты хочешь этим сказать?! Что я ни черта не [делала]Action?
+  - |
+       На самом деле я ни черта не [понимаю в современных дамских романах]Action.
+  - |
+       Те, кто кричит о гибели репертуарного театра и идеях Станиславского, ни черта в них не [понимают]Action.
+  - |
+       ― Я так и знал, ― расстроенно проговорил Леня. ― Ни черта не [увидим]Action.
+  - |
+       Я иду! Ни черта не [вижу]Action, ни черта не [слышу]Action.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod ни] [obj черта] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod ни] [obj черта] [advmod не] вижу.]'
+comment: |
+    'См. близкие конструкции ни шагу не VP, ни крошки не VP, ни глотка не VP, ни копейки/гроша не VP, не VP ни NP-Gen'
+common_fillers:
+  - видеть
+  - понять
+  - понимать
+  - слышать
+  - смыслить
+  - делать
+  - знать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected generally
+  - type: Routine
+    subtypes:
+      - type: Swearing
+family:
+  - |
+    "SWEARING constructions, Family Intensity, Non-existense of action/activity, which is presented as not-affecting even the tiniest piece/portion of the object. Not a single small portion, two negation markers NE and NI"

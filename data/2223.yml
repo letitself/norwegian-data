@@ -1,0 +1,45 @@
+---
+record: 2223
+name: 'было время, (когда) Cl'
+UD_name: 'было время, (когда) Cl'
+illustration: 'Было время, когда её стихи очень любили.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root было [nsubj время, [acl [mark когда] Cl]]]'
+  - '[root было [nsubj время], [parataxis Cl]]'
+dependency_structure_of_illustration:
+  - '[root Было [nsubj время, [acl [mark когда] [det её] [obj стихи] [advmod очень] любили]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Distant past
+family:
+  - |
+    ""

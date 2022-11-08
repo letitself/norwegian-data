@@ -1,0 +1,57 @@
+---
+record: 2310
+name: '(Ну) и ладно, (что) Cl'
+UD_name: '(Ну) и ладно, (что) Cl'
+illustration: 'Ну и ладно, что так вышло!'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Predicative
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [discourse ну] [cc и] ладно, [csubj [mark что] Cl]]'
+  - '[root [cc и] ладно, [csubj [mark что] Cl]]'
+  - '[root [discourse ну] [cc и] ладно, [parataxis Cl]]'
+  - '[root [cc и] ладно, [parataxis Cl]]'
+dependency_structure_of_illustration:
+  - '[root [discourse Ну] [cc и] ладно, [csubj [mark что] [advmod так] вышло]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Reconciliation
+  - type: Concession
+    subtypes:
+      - type: Other
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+family:
+  - |
+    "Reconciliation; Forced agreement"

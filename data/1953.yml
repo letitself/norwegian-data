@@ -1,0 +1,66 @@
+---
+record: 1953
+name: 'VP/NP в сопровождении NP-Gen'
+UD_name: 'VP/NP в сопровождении NP-Gen'
+illustration: 'Директор вошёл в сопровождении секретаря.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Agent [перемещается из одного места в другое]Action, и другой [участник]Associated, его спутник, перемещается вместе с ним. Конструкция также может обозначать категорию [участников]Participant, участие которых в действии зависит от наличия ответственного за них спутника (примеры 4, 5).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Agent [forflytter seg fra et sted til et annet]Action og at en annen [deltaker]Associated, en ledsager, forflytter seg sammen med deltakeren. Konstruksjonen kan også betegne en kategori [deltakere]Participant, hvis deltakelse i handlingen avhenger av tilstedeværelsen av en ledsager som tar ansvar for dem (eksempel 4 og 5).
+examples:
+  - |
+       Вскоре [она]Agent [вернулась]Action в сопровождении [официанта]Associated, который нес на тарелочках колбасу и сыр.
+  - |
+       [Ульяна]Agent тем временем [осматривала]Action яхту в сопровождении [инженера-механика]Associated.
+  - |
+       Мы сидели за столиком, когда в зал [вошла]Action сногсшибательная [дама]Agent в сопровождении очень интеллигентного [мужчины]Associated.
+  - |
+       В отделении санаторно-курортную терапию получают как дети без родителей, так и [дети]Participant в сопровождении [взрослых]Associated.
+  - |
+       В загородных лагерях побывали 5358 московских школьников, а на базах отдыха — 5663 человека (это [дети]Participant в сопровождении [взрослых]Associated).
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Agent
+  - Associated
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root XP [obl [case в] сопровождении [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Директор] вошёл [obl [case в] сопровождении [nmod секретаря]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - идти
+  - вернуться
+  - войти
+  - посещать
+  - гида
+  - взрослых
+  - друзей
+  - подруги
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comitative
+family:
+  - |
+    "Collective action"

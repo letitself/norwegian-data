@@ -1,0 +1,66 @@
+---
+record: 114
+name: 'довольно (PronPers-2.Dat) VP-Ipfv.Inf!'
+UD_name: 'довольно (PronPers-2.Dat) VP-Imp.Inf!'
+illustration: 'Довольно жаловаться!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий побуждает [собеседника или другого участника]Participant прекратить выполнять [некоторое действие]Action. Говорящий оценивает это действие отрицательно, так как оно кажется ему слишком длительным. Конструкция представляет собой категорическое требование говорящего и подразумевает немедленное выполнение этого требования собеседником. Конструкция может также использоваться говорящим по отношению к самому себе.
+  - english: |
+       This construction indicates that the speaker is telling an [interlocutor or other participant]Participant to stop engaging in an action. The speaker has a negative evaluation of the action because they think it lasts too long. The construction is an absolute requirement for the speaker, and it is implied that the interlocutor fulfills this requirement immediately. The speaker may use this construction to address themself.
+  - norwegian: |
+       Konstruksjonen betyr at taleren anmoder [samtalepartneren eller en annen deltaker]Participant om å slutte å utføre [en viss handling]Action. Taleren har et negativt syn på handlingen fordi den fortoner seg som altfor langvarig. Konstruksjonen fremstår som et absolutt krav fra taleren, og det er underforstått at samtalepartneren må innfri det umiddelbart. Taleren kan også bruke konstruksjonen om seg selv.
+examples:
+  - |
+       Ну, ладно, довольно [плакать и рыдать.]Action
+  - |
+       Он протянул руку к стакану со спиртом, но Беляков быстро опрокинул его стакан: ― Довольно [пить]Action…
+  - |
+       Ну, господа, садитесь… Кошкин, довольно [спорить]Action… ей-богу, надоело слушать!..
+  - |
+       Он дрожал как осиновый лист и все время стучал зубами. ― Довольно [тебе]Participant [зубами стучать]Action! ― ворчал Ворчун. ― Тут и так холодно, а он еще зубами стучит!
+  - |
+       Довольно [нам всем]Participant [вести себя так, будто живем вечно!]Action
+morphology:
+  - PronPers
+  - 2
+  - Dat
+  - VP
+  - Ipfv
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root довольно [iobj PronPers-Dat] [csubj VP-Ipfv.Inf]!]'
+  - '[root довольно [csubj VP-Ipfv.Inf]!]'
+dependency_structure_of_illustration:
+  - '[root Довольно [csubj жаловаться]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - спорить
+  - жаловаться
+  - ныть
+references:
+  - |
+    No references
+semantic_types:
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+family:
+  - |
+    ""

@@ -1,0 +1,60 @@
+---
+record: 2153
+name: 'не дай Бог/Боже, чтобы Cl'
+UD_name: 'не дай Бог/Боже, чтобы Cl'
+illustration: 'Не дай Бог, чтобы пришлось переезжать!'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция выражает опасение говорящего относительно того, что в будущем может произойти некоторое нежелательное для него или другого участника [событие]Event. Говорящий выражает пожелание и надежду на то, что это событие не произойдет. Как если бы говорящий обращался к Богу и просил его этого не допустить.
+examples:
+  - |
+       Не дай бог, чтобы [люди без премии остались]Event.
+  - |
+       ― Не дай бог, чтобы [этот год когда-нибудь повторился]Event…
+  - |
+       Не дай бог, чтобы [когда-нибудь нам это пригодилось]Event, но понимание, как действовать в такой ситуации, должно быть.
+  - |
+       Я вцепилась в Наташу, она в меня, не дай бог, чтобы [одна из нас убежала быстрее]Event.
+  - |
+       Не дай Бог, чтобы [тебя запомнили]Event.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] дай [nsubj Бог], [csubj [mark чтобы] Cl]]'
+  - '[root [advmod не] дай [nsubj Боже], [csubj [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] дай [nsubj Бог], [csubj [mark чтобы] пришлось [csubj переезжать]]!]'
+comment: |
+    'См. близкие конструкции 2151 и 2152. См. также конструкцию с противоположным значением 954.'
+common_fillers:
+  - случиться
+  - повториться
+  - пригодиться
+references:
+  - |
+    No references
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+family:
+  - |
+    ""

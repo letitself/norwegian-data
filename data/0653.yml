@@ -1,0 +1,46 @@
+---
+record: 653
+name: 'VP-Imp не ~VP-Imp, а Cl'
+UD_name: 'VP-Imper не VP-Imper, а Cl'
+illustration: 'Плачь-не плачь, а прошлого не вернуть.'
+cefr_level: B2
+definitions:
+examples:
+morphology:
+  - VP
+  - Imp
+  - Cl
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP-Imp [conj [advmod не] VP-Imp]'
+  - '[conj [cc а] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Плачь - [conj [advmod не] плачь], [conj [cc а] [obj прошлого] [advmod не] вернуть].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Imitative agreement
+family:
+  - |
+    ""

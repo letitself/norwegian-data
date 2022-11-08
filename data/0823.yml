@@ -1,0 +1,68 @@
+---
+record: 823
+name: 'в среднем NumCrd NP-Gen'
+UD_name: 'в среднем NumCrd NP-Gen'
+illustration: 'В среднем дорога до работы занимает у меня два часа.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция используется для обозначения среднего арифметического значения (число, равное сумме всех чисел множества, делённой на их количество). В неформальном контексте конструкция называет неточное, приблизительное [количество]Quantity [объектов]Theme или [единиц измерения]Measure.
+  - norwegian: |
+       Konstruksjonen brukes for å angi en gjennomsnittlig tallverdi (det tallet som er lik summen av alle tallene i en mengde, delt på antall tall). I en uformell kontekst betegner konstruksjonen en upresis, omtrentlig [mengde]Quantity [objekter]Theme eller [måleenheter]Measure.
+examples:
+  - |
+       Сила укуса человека составляет в среднем [890]Quantity [ньютонов]Measure.
+  - |
+       Один час тренировки стоит в среднем [три тысячи]Quantity [рублей]Measure, которые приходится делить на всех игроков.
+  - |
+       Неудивительно, что на создание одного полнометражного мультика уходит в среднем [четыре]Quantity [года]Measure.
+  - |
+       Ежегодно в мире при землетрясениях гибнут в среднем [50 тысяч]Quantity [человек]Theme.
+  - |
+       Женщины оказались выносливее ― они живут в среднем [семьдесят два]Quantity [года]Measure.
+morphology:
+  - NumCrd
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+semantic_roles:
+  - Theme
+  - Measure
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [obl [case в] среднем] [nummod NumCrd] NP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] среднем] [nsubj дорога [nmod [case до] работы]] занимает [obl [case у] меня] [obj [nummod:gov два] часа].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - год
+  - лет
+  - занимает
+  - составляет
+  - стоит
+  - уходит
+references:
+  - |
+    No references
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    "The family of MEASURE constructions that express approximation"

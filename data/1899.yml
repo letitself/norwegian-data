@@ -1,0 +1,55 @@
+---
+record: 1899
+name: 'Cl помимо NP-Gen'
+UD_name: 'Cl помимо NP-Gen'
+illustration: 'Помимо продуктов на ужин мы купили бутылку вина.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый дополнительный участник или объект вовлечен в то же [действие]Action, что и [участник]Participant или [объект]Theme, которые были ранее упомянуты.
+examples:
+  - |
+       Помимо [дебютантов]Participant, свои новые работы [представят]Action и некоторые знаменитые режиссёры.
+  - |
+       Помимо [Плющенко]Participant свою олимпийскую программу впервые [представили]Action и другие спортсмены.
+  - |
+       У нас, помимо [спектакля]Theme, всегда можно [посмотреть]Action выставку, экспозиция постоянно обновляется.
+  - |
+       Помимо [проведения исследовательской работы]Theme, в задачу участников сети [входит]Action и внедрение полученных результатов в практику.
+  - |
+       Помимо [прессы]Theme интерес к этой постановке на сцене античного амфитеатра [проявило]Action и французское кино.
+morphology:
+  - Cl
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl [obl [case помимо] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Помимо] продуктов] [obl [case на] ужин] [nsubj мы] купили [obj бутылку [nmod вина]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - содержать
+  - люди
+  - работа
+references:
+  - |
+    No references
+semantic_types:
+  - type: Additive
+family:
+  - |
+    ""

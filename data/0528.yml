@@ -1,0 +1,53 @@
+---
+record: 528
+name: 'NP-Nom на то и ~NP-Nom, чтобы VP-Inf'
+UD_name: 'NP-Nom на то и NP-Nom, чтобы VP-Inf'
+illustration: 'Муж на то и муж, чтобы работать.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция указывает на некоторый [род деятельности]Purpose как основу существования и действительное предназначение некоторого [типа участников]Participant или [объектов]Theme. Существительное называет не конкретного участника или объект, а целый класс или абстрактного образцового представителя класса.
+examples:
+  - |
+       [Договор]Object на то и [договор]Object , чтобы [описывать правила]Purpose.
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Particle
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [nmod [case на] то] [advmod и] NP-Nom'
+  - '[advcl [mark чтобы] VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Муж] [nmod [case на] то] [advmod и] муж, [advcl [mark чтобы] работать].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Purpose
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

@@ -1,0 +1,57 @@
+---
+record: 860
+name: 'видно/видимо/очевидно, Cl'
+UD_name: 'видно/видимо/очевидно, Cl'
+illustration: 'Видно, он сегодня уже не придёт.'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция выражает [предположение говорящего о некоторой ситуации]ContentOfSpeech, которое он делает с большой степенью уверенности. Ситуация оценивается как вероятная или очень вероятная. Предположение основывается на некоторых фактах, известных говорящему. Как если бы говорящий видел ситуацию своими глазами. Слова "видно/видимо/очевидно" могут находиться в начале, середине или конце предложения.
+examples:
+  - |
+       Прошу прощения, видимо, [произошла ошибка]ContentOfSpeech.
+  - |
+       За рулём никого не было. Очевидно, [он приехал один]ContentOfSpeech.
+  - |
+       Николай синхронно с поэтом читал его стихи. Видимо, [он знал их наизусть]ContentOfSpeech.
+  - |
+       В комнате шёл ремонт. Видно, [забыли погасить свет]ContentOfSpeech.
+  - |
+       Те же результаты, очевидно, [может дать и массовый социологический опрос]ContentOfSpeech.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis видно], Cl]'
+  - '[root [parataxis видимо], Cl]'
+  - '[root [parataxis очевидно], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Видно], [nsubj он] [advmod сегодня] [advmod уже] [advmod не] придёт.]'
+comment: |
+    'См. близкие конструкции 2131 и 2134.'
+common_fillers:
+  - NA
+references:
+  - |
+    No references
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Inference
+family:
+  - |
+    ""

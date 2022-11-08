@@ -1,0 +1,69 @@
+---
+record: 938
+name: '(да) (и) с чего бы (это) Cl?'
+UD_name: '(да) (и) с чего бы (это) Cl?'
+illustration: 'Да и с чего бы ему радоваться?'
+cefr_level: C1
+definitions:
+  - russian: |
+       Конструкция обозначает, что говорящий не понимает причины и целесообразности некоторого реального или потенциального [действия]Action [участника]Participant ситуации. Говорящий считает, что таких причин нет либо он не согласен с существующей причиной, не считает ее состоятельной и достаточной для совершения действия. Конструкция выражает недоумение и часто недовольство говорящего. Конструкция также может обозначать сомнение говорящего в вероятности совершения некоторого действия другим участником или им самим. Слова «с чего бы» означают 'почему, по какой причине?'. Действие обычно названо инфинитивом глагола, при котором участник выражен формой дательного падежа местоимения или существительного (примеры 1, 2, 3). Иногда действие выражено личной формой глагола (пример 4) или существительным (пример 5).
+  - norwegian: |
+       Konstruksjonen betyr at taleren ikke forstår foranledningen eller poenget med en gitt reell eller potensiell [handling]Action, utført av [en deltaker]Participant i situasjonen. Taleren mener at det ikke finnes noen foranledning eller er uenig i den eksisterende foranledningen, regner den som ubegrunnet og ikke god nok til at handlingen kan utføres. Konstruksjonen uttrykker talerens forbløffelse og ofte misnøye. Konstruksjonen kan også bety at taleren tviler på om en annen deltaker eller taleren selv vil komme til å utføre en gitt handling. Ordene "с чего бы" betyr 'hvorfor, av hvilken grunn?'. Handlingen angis vanligvis av verbets infinitivform, mens deltakeren uttrykkes av et pronomen eller substantiv i dativ (eksempel 1, 2 og 3). Av og til er handlingen uttrykt av en personform av verbet (eksempel 4) eller et substantiv (eksempel 5).
+examples:
+  - |
+       Она просто сидела и пила на чай, но не выронила ни слезинки из глаз. Впрочем, с чего бы ей [плакать]Action? Почему я решил, что она должна это делать?
+  - |
+       С чего бы [ему про меня такие вещи говорить]Action, у нас ведь совсем по-другому заведено!
+  - |
+       ― Да с чего бы это [мне врать-то?]Action
+  - |
+       По Балтике тоже много вопросов, например, с чего бы это адмирал Кузнецов так [сгустил краски]Action?
+  - |
+       Говорят, будем приплачивать. С чего бы этакая [щедрость]Action?
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Pronoun
+  - Particle
+semantic_roles:
+  - Action
+  - Participant
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [cc да [fixed и]] [obl [case с] чего] [aux бы] Cl?]'
+  - '[root [cc да] [obl [case с] чего] [aux бы] Cl?]'
+  - '[root [cc и] [obl [case с] чего] [aux бы] Cl?]'
+  - '[root [obl [case с] чего] [aux бы] Cl?]'
+dependency_structure_of_illustration:
+  - '[root [cc Да [fixed и]] [obl [case с] чего] [aux бы] [iobj ему] радоваться?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - мне
+  - тебе
+  - ему
+  - врать
+  - притворятъся
+  - радоваться
+  - обманывать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    "Formula should be changed ? (да) (и) с чего бы (это) NP-Dat VP-Inf? Experiencer tebe or Agent?"

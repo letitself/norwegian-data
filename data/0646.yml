@@ -1,0 +1,63 @@
+---
+record: 646
+name: 'VP NP-Nom наконец/ в конце концов (или нет)?'
+UD_name: 'VP NP-Nom наконец/ в конце концов (или нет)?'
+illustration: 'Починит он наконец компьютер?'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - VP
+  - NP
+  - Nom
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+  - Coordinator
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Preposition
+  - Noun
+  - Conjunction
+  - Predicative
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [nsubj NP-Nom] [advmod наконец] [conj [cc или] нет]?]'
+  - '[root VP [nsubj NP-Nom] [advmod наконец]?]'
+  - '[root VP [nsubj NP-Nom] [obl [case в] конце [nmod концов]] [conj [cc или] нет]?]'
+  - '[root VP [nsubj NP-Nom] [obl [case в] конце [nmod концов]]?]'
+dependency_structure_of_illustration:
+  - '[root Починит [nsubj он] [advmod наконец] [obj компьютер]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Discontent"

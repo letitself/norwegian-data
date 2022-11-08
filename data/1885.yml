@@ -1,0 +1,71 @@
+---
+record: 1885
+name: 'NP-Nom Cop заодно с NP-Ins'
+UD_name: 'NP-Nom Cop заодно с NP-Ins'
+illustration: 'Я знал, что ты с ними заодно!'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant создательно действует вместе с другим [участником или группой участников]Associated, которые обычно являются враждебно настроенными противниками говорящего. Говорящий негативно оценивает эту ситуацию, потому что ранее считал [участника]Participant своим сторонником.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [deltaker]Participant bevisst samhandler med en annen [deltaker eller gruppe deltakere]Associated, som vanligvis er fiendtlig innstilte motstandere av taleren. Taleren vurderer situasjonen negativt fordi vedkommende tidligere har regnet [deltakeren]Participant som sin medspiller.
+examples:
+  - |
+       Значит, [ты]Participant был заодно с моими [врагами]Associated?
+  - |
+       Как же мне быть ― не могу [я]Participant быть заодно с его [врагами]Associated.
+  - |
+       На вопрос, как она оказалась вовлеченной в эту историю, она коротко объяснила, что нашла работу секретарем в одной фирме, а хозяин оказался мошенником. Забрал деньги и убежал. А клиенты решили, что [она]Agent заодно с [хозяином]Associated.
+  - |
+       Он был человек непростой, разносторонний. Но не настолько же, чтобы подкладывать бомбы! Ни одной минуты я не верю в то, что [он]Agent был заодно с [террористами!]Associated
+  - |
+       Как много в этом мире желающих быть заодно с [Великим Вампиром]Associated. Как много людей старается сделать правильный выбор, оказаться на верной стороне баррикады ― а не заодно с [кафирами, кощуницами и прочими гоями…]Associated
+morphology:
+  - NP
+  - Nom
+  - Cop
+  - Ins
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Associated
+  - Agent
+  - Participant
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] заодно [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] знал, [ccomp [mark что] [nsubj ты] [obl [case с] ними] заодно]!]'
+comment: |
+    'Не путать с конструкцией 1873 VP, заодно VP (Сходи за хлебом, заодно мусор вынесешь).'
+common_fillers:
+  - врагами
+  - врагом
+  - ними
+  - мошенниками
+  - террористами
+  - предателями
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Discontent
+  - type: Comitative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Discontent, Collective participant"

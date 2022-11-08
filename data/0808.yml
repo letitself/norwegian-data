@@ -1,0 +1,61 @@
+---
+record: 808
+name: 'VP в результате NP-Gen'
+UD_name: 'VP в результате NP-Gen'
+illustration: 'Несколько человек пострадало в результате взрыва.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action или [событие]Event приводит к [определенной ситуации]Result. Конструкция характерна прежде всего для книжных письменных текстов.
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action eller [hendelse]Event fører til [en bestemt situasjon]Result. Konstruksjonen er karakteristisk først og fremst for boklige, skrevne tekster.
+examples:
+  - |
+       Хотелось бы, чтобы в результате [встречи]Event [родилась общая идея, общий проект]Result.
+  - |
+       В результате [сочетания противоположных по смыслу понятий]Event [возникает новое смысловое качество]Result.
+  - |
+       В результате [исследования]Action [определяют объём и методы реставрационных работ, разрабатывают методику их выполнения]Result.
+  - |
+       В результате [урагана]Event [в Москве и Подмосковье 29 мая погибли как минимум 11 человек, более 50 получили травмы; повреждены сотни автомобилей и объекты инфраструктуры]Result.
+  - |
+       В результате [изменения государственной политики в отношении культурных ценностей, а также политики в экономической сфере в целом]Event [создаются предпосылки для развития антикварного рынка]Result.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Result
+  - Event
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] результате [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nummod:gov Несколько] [nsubj человек] пострадало [obl [case в] результате [nmod взрыва]].]'
+comment: |
+    'См. близкую конструкцию 1682 в результате VP (В результате он оказался прав).'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Cause
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+family:
+  - |
+    ""

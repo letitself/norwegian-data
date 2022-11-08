@@ -1,0 +1,62 @@
+---
+record: 1722
+name: 'VP в хвосте NP-Gen'
+UD_name: 'VP в хвосте NP-Gen'
+illustration: 'В хвосте поезда была прицеплена цистерна.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает [расположение]State в задней части [длинного объекта]Theme (часто транспорта), в конце [списка]Theme или [направленного движения]Theme. Как если бы этот длинный объект был животным с хвостом.
+examples:
+  - |
+       Я быстро шагал по перрону. Тепловоз [стоял]State в хвосте [поезда.]Theme
+  - |
+       Нас [разместили]State в хвосте [самолета]Theme, расстояние между сиденьями маленькое, колени согнуты.
+  - |
+       Маша и Старыгин [пристроились]State в хвосте [экскурсии.]Theme
+  - |
+       В хвосте [очереди]Theme я заметил Петьку.
+  - |
+       По уровню продовольственной безопасности Япония [оказалась]State в хвосте [списка]Theme развитых стран.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] хвосте [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] хвосте [nmod поезда]] [aux:pass была] прицеплена [nsubj:pass цистерна].]'
+comment: |
+    'См. близкие конструкции 1723 и 1749.'
+common_fillers:
+  - поезд
+  - самолет
+  - список
+  - колонна
+  - очередь
+  - состав
+references:
+  - |
+    No references
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

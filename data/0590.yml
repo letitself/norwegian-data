@@ -1,0 +1,45 @@
+---
+record: 590
+name: 'NP-Nom VP NP-Acc NP-Ins'
+UD_name: 'NP-Nom VP NP-Acc NP-Ins'
+illustration: 'Он назначил своего ученика помощником.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Acc
+  - Ins
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] VP [obj NP-Acc] [xcomp NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] поставил [obj [det своего] ученика] [xcomp подсобником].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

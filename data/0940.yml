@@ -1,0 +1,59 @@
+---
+record: 940
+name: 'да как NP-Nom Verb-Pst VP-Inf?'
+UD_name: 'да как NP-Nom V-Past VP-Inf?'
+illustration: 'Да как он позволил сказать тебе такое?'
+cefr_level: C2
+definitions:
+examples:
+morphology:
+  - NP
+  - Nom
+  - Verb
+  - Pst
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [cc да] [advmod как] [nsubj NP-Nom] Verb-Pst [xcomp VP-Inf]?]'
+dependency_structure_of_illustration:
+  - '[root [cc Да] [advmod как] [nsubj он] позволил [xcomp сказать [iobj тебе] [det такое]]?]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - позволил
+  - посмел
+  - осмелился
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+      - type: Mental attitude
+        subtypes:
+          - type: Perplexity
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    "Perplexity, Disapproval"

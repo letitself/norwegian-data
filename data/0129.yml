@@ -1,0 +1,67 @@
+---
+record: 129
+name: 'NP/VP за NumCrd-Acc рубль'
+UD_name: 'NP/VP за NumCrd-Acc рубль'
+illustration: 'Открытка за пять рублей'
+cefr_level: A1
+definitions:
+  - russian: |
+       Конструкция обозначает, что при [покупке]Action некоторый [товар или услуга]Theme имеет цену, которая выражена [количеством]Quantity [денежных единиц.]Measure Кроме рублей, в конструкции используются названия других денежных единиц и валют: копейка, крона, евро, доллар, и др. Если использовано числительное «один», «одна» или «одно», то [денежная единица]Measure стоит в винительном падеже, в остальных случаях в родительном падеже.
+  - english: |
+       This construction indicates that some [item or service]Theme that is purchased, has a price that is expressed by a [quantity]Quantity of [monetary units]Measure. Apart from roubles other monetary units and currencies are used in this construction: kopeks, krones, euros, dollars etc. If the number "один", "одна" or "одно" (all meaning 'one') is used, the [monetary unit] is in the nominitive case. Otherwise it is in the genitive case.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt vare eller tjeneste]Theme som kjøpes, har en pris som er uttrykt i [en mengde]Quantity av en [pengeenhet.]Measure Foruten rubler brukes det i konstruksjonen også andre pengeenheter og valutaer: kopek, krone, euro, dollar m.fl. Hvis tallet "один", "одна" eller "одно" brukes, står [pengeenheten]Measure i nominativ kasus. Hvis ikke, står den i genitiv.
+examples:
+  - |
+       Шестнадцатилетняя дочь однажды заявляет маме: «Себе ты [купила]Action [босоножки]Theme за [две тысячи]Quantity, а мне всего за [пятьсот]Quantity [рублей!»]Measure
+  - |
+       Они оказываются милыми людьми и за [два]Quantity [франка]Measure готовы [сторожить мою машину]Action часа три.
+  - |
+       Главный издатель учебников Pearson [продал]Action за [один миллиард]Quantity [долларов]Measure [часть издательства Penguin Random House]Theme своему партнеру по бизнесу.
+  - |
+       Я подарил ей хорошую [сумку]Theme за [шестьдесят]Quantity [долларов.]Measure
+  - |
+       Другие продавцы так рекламируют товар: «Арахис: один стакан 20 рублей, для экономных ― [семь стаканов]Theme за [100]Quantity [рублей».]Measure
+morphology:
+  - NP
+  - VP
+  - NumCrd
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Theme
+  - Measure
+  - Quantity
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] [nummod NumCrd-Acc] рублей]]'
+  - '[dep NP [nmod [case за] [nummod NumCrd-Acc] рублей]]'
+dependency_structure_of_illustration:
+  - '[obj Открытка [nmod [case за] [nummod:gov пять] рублей]]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - купить
+  - приобрести
+  - продать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Money
+family:
+  - |
+    ""

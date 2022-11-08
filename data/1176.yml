@@ -1,0 +1,61 @@
+---
+record: 1176
+name: 'VP под предлогом NP-Gen'
+UD_name: 'VP под предлогом NP-Gen'
+illustration: 'Он ушёл с работы под предлогом болезни.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action совершается по [вымышленной причине]Cause.
+  - norwegian: |
+       Konstruksjonen betyr at det er [en oppdiktet årsak]Cause til at [en gitt handling]Action utføres.
+examples:
+  - |
+       Комиссия [не допустила его до конкурса]Action под предлогом [неправильно оформленных документов]Cause.
+  - |
+       Мне надоели наши [тайные встречи]Action под предлогом [твоих командировок]Cause.
+  - |
+       Под предлогом [головной боли]Cause она [ушла с этой вечеринки]Action.
+  - |
+       В середине дня я [их покинул]Action под предлогом [неотложных дел]Cause.
+  - |
+       [Всё это делалось]Action под предлогом [повышения экономической эффективности]Cause.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+  - Cause
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] предлогом [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] ушёл [obl [case с] работы] [obl [case под] предлогом [nmod болезни]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - болезнь
+  - усталость
+  - нездоровье
+references:
+  - |
+    No references
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+family:
+  - |
+    ""

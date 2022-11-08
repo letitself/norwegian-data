@@ -1,0 +1,49 @@
+---
+record: 707
+name: 'Аdj-Nom Cop NP-Nom!'
+UD_name: 'Аdj-Nom Cop NP-Nom!'
+illustration: 'Модный наряд!'
+cefr_level: A1
+definitions:
+examples:
+morphology:
+  - Adj
+  - Nom
+  - Cop
+  - NP
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root Аdj-Nom [cop Cop] [nsubj NP-Nom]!]'
+dependency_structure_of_illustration:
+  - '[root Модный [nsubj наряд]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    "Assessment of an entity"

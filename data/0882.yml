@@ -1,0 +1,44 @@
+---
+record: 882
+name: 'вот и всё, что Cl'
+UD_name: 'вот и всё, что Cl'
+illustration: 'Вот и всё, что я могу сказать по этому поводу.'
+cefr_level: B1
+definitions:
+examples:
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root вот [advmod и] [nsubj всё'
+  - '[acl [obj что] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root Вот [advmod и] [nsubj всё], [acl:relcl [obj что] [nsubj я] могу] [xcomp сказать [obl [case по] [det этому] поводу]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+family:
+  - |
+    ""

@@ -1,0 +1,64 @@
+---
+record: 802
+name: 'Cl, в противном случае Cl'
+UD_name: 'Cl, в противном случае Cl'
+illustration: 'Им придется вернуть деньги в банк, в противном случае им грозит тюрьма.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает опасение говорящего и указывает на два взаимоисключающих варианта развития [ситуации]Situation. Оборот «в противном случае Cl» вводит неблагоприятный [исход]Result. Предложение перед ним часто содержит указание к [действию]Action, выполнение которого позволит избежать этого неблагоприятного исхода. Конструкция может быть использована как угроза, где говорящий, указывая на неблагоприятный исход, побуждает собеседника выполнить или не выполнять некоторое действие (пример 5).
+  - norwegian: |
+       Konstruksjonen betegner talerens bekymring og peker på to gjensidig utelukkende måter [situasjonen]Situation kan utvikle seg på. Vendingen "в противном случае Сl" introduserer et uheldig [utfall]Result. Den foregående setningen inneholder ofte en ordre om [å handle]Action, som når den blir utført, kan gjøre det mulig å unngå det uheldige utfallet. Konstruksjonen kan benyttes som en trussel, idet taleren under henvisning til det uheldige utfallet anmoder samtalepartneren om å utføre eller ikke utføre en gitt handling (eksempel 5).
+examples:
+  - |
+       [Если есть возможность по старой доверенности продлить договор, это очень хорошо]Situation, ведь в противном случае [нам нужно будет ехать в Познань и оформлять новую доверенность]Result, это очень долго и хлопотно.
+  - |
+       Но если не забывать о том, что дети― это наше будущее, то надо принимать как аксиому то, что [телевидение нужно делать именно в том формате, который им требуется]Situation. В противном случае [дети начинают жить в Интернете]Result.
+  - |
+       [Только придется постараться, чтобы муж ничего не узнал]Situation, в противном случае [будет страшный скандал]Result.
+  - |
+       [Каждый пилот обязан проехать хотя бы один круг в одной сессии]Situation, в противном случае [к участию в гонке он не допускается]Result.
+  - |
+       Будьте любезны, [проявите уважение к другим игрокам]Action. В противном случае [я буду вынужден поставить на голосование вопрос о том, чтобы вас забанить на длительный срок]Result.
+morphology:
+  - Cl
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - Action
+  - Result
+  - Situation
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root Cl'
+  - '[conj [obl [case в] [amod противном] случае] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Им] придется [csubj вернуть [obj деньги] [obl [case в] банк]], [conj [obl [case в] [amod противном] случае] [iobj им] грозит [nsubj тюрьма]].]'
+comment: |
+    'См. синонимичную конструкцию 1184 Cl, или/а иначе/иначе VP-Fut/можно VP-Inf (Извинись, иначе я перестану с тобой разговаривать.) и близкие конструкции 690 Cl, а/но скорее всего – Cl (Он собирался пойти в театр, а скорее всего – просидит дома.), 1185 Cl, или/и того лучше/хуже/хлеще, XP/Cl (Произошло событие, именуемое по науке саботажем, или – того хлеще – экономической контрреволюцией.), 2102 правда, Cl, но Cl (Он человек, правда, не деловой, но честный.)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    No references
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Preventive
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Threat
+family:
+  - |
+    ""

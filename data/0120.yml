@@ -1,0 +1,65 @@
+---
+record: 120
+name: 'едва не VP-Pst'
+UD_name: 'едва не VP-Past'
+illustration: 'Иван Иванович едва не умер после такого розыгрыша.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый [участник]Participant или [объект]Theme был очень близок к выполнению некоторого [действия]Action, но в итоге не выполнил его. Обычно речь идет о негативных действиях, причиняющих урон участнику или вред его здоровью. Чаще слот VP-Pst заполняется глаголами совершенного вида.
+  - english: |
+       This construction indicates that a [participant]Participant or [object]Theme was close to carrying out an [action]Action, but ended up not doing so. Normally it refers to negative actions that cause damage to the participant or harm their health. More often the slot VP-Pst is filled by a perfective verb.
+  - norwegian: |
+       Konstruksjonen betyr at [deltakeren]Participant eller [objektet]Theme var svært nær ved å utføre [en gitt handling]Action, men endte med å ikke utføre den. Vanligvis er det tale om negative handlinger som påfører deltakeren tap eller helseskade. Som oftest fylles sloten VP-Pst av verb i perfektivt aspekt.
+examples:
+  - |
+       Самолету пришлось снизить высоту, из-за чего он едва не [упал]Action в воду.
+  - |
+       В войну он оказался в оккупации и едва не [умер]Action от тифа в родной деревне.
+  - |
+       Когда я вошла в квартиру, мама едва не [расплакалась.]Action
+  - |
+       Родители Тимура легко отстояли сына, а вот Ивана тогда едва не [выгнали из школы.]Action
+  - |
+       ― Когда он оказался в центре публичного скандала, то едва не [рыдал]Action, ― вспоминает Олег.
+morphology:
+  - VP
+  - Pst
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - Action
+  - Theme
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [advmod едва [fixed не]] VP-Pst]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Иван] [flat:name Иванович] [advmod едва [fixed не]] умер [obl [case после] [det такого] розыгрыша].]'
+comment: |
+    'Не путать с конструкциями 118 и 119.'
+common_fillers:
+  - умер
+  - упал
+  - сошел с ума
+  - выронила
+  - погибли
+references:
+  - |
+    No references
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Antiresultative
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 2154
+name: 'NP-Nom рисковать VP-Inf'
+UD_name: 'NP-Nom рисковать VP-Inf'
+illustration: 'Вы рискуете остаться без работы!'
+cefr_level: A2
+definitions:
+  - russian: |
+       Конструкция обозначает, что действия [некоторого участника]Agent могут иметь для него [негативные последствия]Result. По мнению говорящего, участнику следует опасаться таких последствий.
+examples:
+  - |
+       [Вы]Agent легко рискуете [попасть в смешное положение]Result.
+  - |
+       Низкие цены на лекарства в маленьких аптечных киосках ― повод насторожиться: [вы]Agent рискуете [купить подделку]Result!
+  - |
+       Даже [самая дорогая модель телефона]Theme к концу нынешнего года рискует [устареть]Result.
+  - |
+       [Человек, никогда не посещавший кинотеатры]Agent, рисковал [прослыть странным]Result в глазах других людей.
+  - |
+       [Я]Agent рискую [показаться скучным]Result, но лучше быть скучным, чем глупым, правда ведь?
+morphology:
+  - NP
+  - Nom
+  - VP
+  - Inf
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] рисковать [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вы] рискуете [xcomp остаться [obl [case без] работы]]!]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - вы
+  - показаться
+  - получить
+references:
+  - |
+    No references
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+family:
+  - |
+    ""

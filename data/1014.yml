@@ -1,0 +1,66 @@
+---
+record: 1014
+name: 'Если NP-Nom сказать-Pst XP – значит, Cl/~XP'
+UD_name: 'Если NP-Nom сказать-Past XP – значит, Cl/XP'
+illustration: 'Если Петя сказал красивая, – значит, красивая.'
+cefr_level: B1
+definitions:
+  - russian: |
+       Конструкция обозначает, что по мнению говорящего [слова]ContentOfSpeech [некоторого участника]Agent являются правдивыми, весомыми и не подлежат сомнению. Говорящий приводит слова этого участника и либо снова дословно повторяет их во втором слоте XP (примеры 1, 2), либо использует эквивалентное по смыслу выражение (пример 3), либо описательно подтверждает смысл этих слов (примеры 4, 5). Обычно конструкция оформляет реакцию на сомнение собеседника.
+  - norwegian: |
+       Konstruksjonen betyr at [en gitt deltakers]Agent [ord]ContentOfSpeech, etter talerens mening, er sanne, tungtveiende og ikke kan betviles. Taleren anfører deltakerens ord og gjentar dem deretter i den andre sloten XP, enten ordrett (eksempel 1 og 2), ved å bruke et uttrykk med ekvivalent betydning (eksempel 3) eller ved å bekrefte dem med en beskrivelse (eksempel 4 og 5). Vanligvis utformer konstruksjonen en reaksjon på samtalepartnerens tvil.
+examples:
+  - |
+       Если Родзянко сказал, что [так надо]ContentOfSpeech, значит, уж [так надо]ContentOfSpeech.
+  - |
+       Я хотя и женщина, но никогда не говорю на ветер, и если я сказала: [могу]ContentOfSpeech, значит [могу…]ContentOfSpeech
+  - |
+       Если я сказал [«нет»]ContentOfSpeech, значит, [тому не бывать.]ContentOfSpeech
+  - |
+       Если Уткин сказал [«без проблем»]ContentOfSpeech, значит, [так и будет.]ContentOfSpeech
+  - |
+       Если я сказал, что [ты виноват]ContentOfSpeech, значит, [так оно и есть.]ContentOfSpeech
+morphology:
+  - NP
+  - Nom
+  - Pst
+  - XP
+  - Cl
+syntactic_type_of_construction:
+  - Discourse "Echo" Construction
+syntactic_function_of_anchor:
+  - Subordinator
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+  - Particle
+semantic_roles:
+  - ContentOfSpeech
+  - Agent
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advcl [mark если] [nsubj NP-Nom] сказал XP] – [parataxis значит]'
+  - 'XP]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] [nsubj Петя] сказал [parataxis красивая]], – [parataxis значит], красивая.]'
+comment: |
+    'См. близкую конструкцию 1439 XP значит ~XP (Диета – значит диета!)'
+common_fillers:
+  - Not applicable
+references:
+  - |
+    См. также статью Вилинбахова Е. Л. Статья значит статья: об одном классе тавтологических конструкций в русском языке // Компьютерная лингвистика и интеллектуальные технологии, 2015. Вып. 14 (21). Т. 1. С. 626-637.
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+        subtypes:
+          - type: Confidence in someone's competence
+family:
+  - |
+    ""

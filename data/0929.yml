@@ -1,0 +1,49 @@
+---
+record: 929
+name: 'у NP-Gen голова варить'
+UD_name: 'у NP-Gen голова варить'
+illustration: 'У Пети голова варит – с ним можно иметь дело.'
+cefr_level: C1
+definitions:
+examples:
+morphology:
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj голова] варить]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] Пети] [nsubj голова] варит – [parataxis [obl [case с] ним] можно [csubj иметь [obj дело]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    Endresen, Anna, Laura A. Janda. 2020. “Taking Construction Grammar One Step Further: Families, Clusters, and Networks of Evaluative Constructions in Russian”. In: Mike Putnam, Matthew Carlson, Antonio Fábregas, Eva Wittenberg, eds. Defining Construction: Insights into the Emergence and Generation of Linguistic Representations (special issue of Frontiers in Psychology).
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    "Capacity/Intellect"

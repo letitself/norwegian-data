@@ -1,0 +1,72 @@
+---
+record: 789
+name: 'VP/NP в отношении NP-Gen'
+UD_name: 'VP/NP в отношении NP-Gen'
+illustration: 'Недавно ввели новые штрафы в отношении автомобилистов.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторое [действие]Action направлено на [участника]Addressee или [группу участников]Addressee (примеры 1, 2, 3). Конструкция может также указывать на [участника или объект]Parameter, о котором высказывается [определенное суждение]Evaluation (в этом употреблении слова «в отношении» синонимичны словам «относительно», «насчет») (примеры 4, 5).
+  - english: |
+       This construction indicates that an [action]Action is directed toward a [participant]Addressee or [group of participants]Addressee (see examples 1, 2, and 3). The construction can also indicate a [participant or object]Parameter, for which an [assessment]Evaluation is expressed (in this usage the words “в отношении” have the same meaning as “относительно” and “насчет” (examples 4 and 5)).
+  - norwegian: |
+       Konstruksjonen betyr at en gitt [handling]Action er rettet mot [en deltaker]Addressee eller [en gruppe deltakere]Addressee (eksempel 1, 2 og 3). Konstruksjonen kan også vise til [den deltakeren eller det objektet]Parameter som [et gitt utsagn]Evaluation dreier seg om. (Brukt på denne måten er ordene 'в отношении' synonyme med ordene 'относительно' og 'насчёт') (eksempel 4 og 5).
+examples:
+  - |
+       В отношении [родителей]Addressee запрещается [проявлять даже малейшую грубость или недовольство]Action.
+  - |
+       Никаких кадровых [решений]Action в отношении [Кудрина]Addressee не последует.
+  - |
+       Собственно, после истории с Крымом и начались [санкции]Action в отношении [России]Addressee.
+  - |
+       [Ошибся]Evaluation Крымов и в отношении своего [собеседника Боголеева]Parameter.
+  - |
+       Наличие жилья является одной из основных причин возвращения иногородних студентов на родину, несмотря на [отсутствие перспектив]Evaluation в отношении [работы и заработной платы]Parameter.
+morphology:
+  - VP
+  - NP
+  - Gen
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Evaluation
+  - Theme
+  - Action
+  - Addressee
+  - Topic
+  - Participant
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] отношении [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case в] отношении [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Недавно] ввели [obj [amod новые] штрафы] [obl [case в] отношении [nmod автомобилистов]].]'
+comment: |
+    'См. близкую конструкцию 687 (а) насчёт NP-Gen – Cl (А насчет папы – он уехал на рыбалку).'
+common_fillers:
+  - уголовное дело
+  - репрессии
+  - санкции
+  - решение
+references:
+  - |
+    No references
+semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Core Addressee
+  - type: Salient property
+    subtypes:
+      - type: Domain
+family:
+  - |
+    "Reference to relevant area"

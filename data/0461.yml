@@ -1,0 +1,52 @@
+---
+record: 461
+name: 'NP Adj/Noun'
+UD_name: 'NP Adj/N'
+illustration: 'У нее была юбка мини и платье-футляр.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция описывает некоторый [материал или покрой]Set, свойственный [какому-либо предмету]Theme. Конструкция обычно используется при описании одежды.
+examples:
+  - |
+       [Джинсы]Theme [клеш]Set снова в моде!
+  - |
+       [Платье]Theme [футляр]Set помогает создать элегантный и безупречный образ.
+  - |
+       Красивые [джинсы]Theme [стретч]Set подойдут любой девушке.
+morphology:
+  - NP
+  - Adj
+  - Noun
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Not Applicable
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep NP [appos Adj]'
+  - '[dep NP [appos Noun]'
+dependency_structure_of_illustration:
+  - '[root [case У] нее [cop была] [nsubj юбка [nmod мини] [conj [cc и] платье-[appos футляр]]].]'
+comment: |
+    'No comment yet'
+common_fillers:
+  - ~
+references:
+  - |
+    No references
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Sensory property
+family:
+  - |
+    ""
