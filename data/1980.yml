@@ -47,9 +47,6 @@ dependency_structure_of_illustration:
   - '[root [obl [case Из] Варшавы [nmod [case в] Москву]] нужно [csubj ехать [iobj поездом] [obl [det всю] ночь]].]'
 comment: |
     'См. похожую по значению конструкцию 2012 VP на NP-Loc (До библиотеки можно добраться на троллейбусе или на автобусе).'
-equivalents:
-  - norwegian: |
-       reise/fly/seile med X
 common_fillers:
   - поездом
   - автобусом

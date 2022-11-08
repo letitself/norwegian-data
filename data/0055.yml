@@ -50,11 +50,6 @@ dependency_structure_of_illustration:
   - '[obj Баржа [nmod весом [nmod [case в] [nummod:gov шесть] тонн]]]'
 comment: |
     'См. близкие конструкции 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP (Велодорожка длиной шесть километров), 1546 NP объёмом (в) NumCrd-Acc NP (Книга объёмом в сто страниц).'
-equivalents:
-  - english: |
-       X weighing Y kilograms
-  - norwegian: |
-       X som veier NumCrd Y / X som har en vekt på NumCrd Y / X med vekt på NumCrd / en NumCrd grams Y
 common_fillers:
   - ~
 references:
