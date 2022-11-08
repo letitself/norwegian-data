@@ -50,9 +50,6 @@ dependency_structure_of_illustration:
   - '[root [nsubj Дерево] имеет [obj ствол [nmod [nummod:gov три] метра [nmod [case в] обхвате]]].]'
 comment: |
     'No comment yet'
-equivalents:
-  - norwegian: |
-       X er NumCrd Y i omkrets, f.eks. Eiketreet er tolv meter i omkrets. / X med en omkrets på NumCrd Y / X er NumCrd Y i diameter
 common_fillers:
   - сантиметр
   - метр
