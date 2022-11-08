@@ -55,6 +55,9 @@ dependency_structure_of_illustration:
   - '[obj Велодорожка [nmod длиной [nmod [nummod:gov шесть] километров]].]'
 comment: |
     'См. близкие конструкции 55 NP весом/массой (в) NumCrd-Acc NP (Баржа весом в шесть тонн), 1546 NP объёмом (в) NumCrd-Acc NP (Книга объёмом в сто страниц).'
+equivalents:
+  - norwegian: |
+       X er Y lang/høy/bred/tykk, f.eks. Steinene skal ha vært over 11 meter lange, fem meter brede og tre meter høye.
 common_fillers:
   - метр
   - километр

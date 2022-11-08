@@ -97,12 +97,12 @@ def write_record(row, record):
             f.write("comment: |\n")
             f.write(f"    '{entry}'\n")
 
-        # f.write("equivalents:\n")
-        # for e in ['English', 'Norwegian']:
-        #     entry = row[f"{e} equivalent"].strip()
-        #     if entry != "":
-        #         f.write(f"  - {e.lower()}: |\n")
-        #         f.write(f"       {entry}\n")
+        f.write("equivalents:\n")
+        for e in ['English', 'Norwegian']:
+            entry = row[f"{e} equivalent"].strip()
+            if entry != "":
+                f.write(f"  - {e.lower()}: |\n")
+                f.write(f"       {entry}\n")
 
         f.write("common_fillers:\n")
         f.write(

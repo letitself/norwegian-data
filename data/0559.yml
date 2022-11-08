@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] лег [xcomp отдохнуть].] [root [nsubj Все] сели [xcomp смотреть [obj телевизор]].]'
 comment: |
     'В лингвистической литературе инфинитив в данной конструкции называется "целевой инфинитив" (Infinitive of purpose). См. близкую по значению конструкцию 557.'
+equivalents:
+  - norwegian: |
+       å X for å Y
 common_fillers:
   - идти
   - пойти

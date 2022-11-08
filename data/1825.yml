@@ -30,6 +30,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj [det Все] дети [nmod [case в] садике]] переболели [iobj гриппом].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       alle X Y, f.eks. alle barna har hatt meslinger
 common_fillers:
   - ~
 references:

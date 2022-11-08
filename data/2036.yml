@@ -52,6 +52,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Семь] [advmod не] делится [advmod нацело] [obl [case на] два].]'
 comment: |
     'См. близкую конструкцию 2037 NumCrd-Nom делится на NumCrd-Acc с остатком (NumCrd-Nom) (Семь делится на три с остатком один).'
+equivalents:
+  - norwegian: |
+       X er delelig med Y, f.eks. Sju er ikke delelig med tre. / X går opp i Y Z ganger, f.eks. Tre går opp i ni tre ganger.
 common_fillers:
   - Not applicable
 references:

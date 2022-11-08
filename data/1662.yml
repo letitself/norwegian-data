@@ -50,6 +50,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] закончил [obj университет] [obl [nummod:gov три] года [advmod назад]].]'
 comment: |
     'См. близкую конструкцию 1537, которая обозначает приблизительный, а не конкретный интервал между ситуацией и моментом речи. В конструкции 1537 чаще возникает слово "тому", чем в конструкции 1662.'
+equivalents:
+  - norwegian: |
+       for Num X sider
 common_fillers:
   - года
   - лет

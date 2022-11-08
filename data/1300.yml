@@ -39,6 +39,9 @@ dependency_structure_of_illustration:
   - '[root [advmod Отныне] [obj специалистов [nmod [case по] [amod японскому] языку]] [aux будут] готовить [obl [advmod только] [case в] [det этом] университете].]'
 comment: |
     'Не путать с конструкцией 867.'
+equivalents:
+  - norwegian: |
+       å gjøre X fra nå av
 common_fillers:
   - подчиняется
   - считается

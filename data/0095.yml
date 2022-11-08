@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root Грех [csubj [advmod не] выпить]!]'
 comment: |
     'В прошедшем времени используется форма связочного глагола "было", которая не согласуется по роду со словом "грех". Не путать с конструкцией с противоположным значением 16 (NP-Dat) грех Cop VP-Inf (Грех обижаться на взрослых).'
+equivalents:
+  - english: |
+       It's a sin not to X (e.g. It's a sin not to grab what's lying about)
+  - norwegian: |
+       vi bør gjøre X!
 common_fillers:
   - выпить
   - покормить

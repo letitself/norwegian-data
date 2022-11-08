@@ -53,6 +53,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Спортсмен] бежал [advmod [advmod всё] быстрее [conj [cc и] быстрее]].]'
 comment: |
     'См. близкую конструкцию всё Adv-Cmp/Adj-Cmp (Шум становился всё сильнее.) In English, comparatives are used to form a similar construction, e.g. “X ran faster and faster”. I norsk brukes komparativer til å danne en lignende konstruksjon, f.eks. ‘X løp raskere og raskere’.'
+equivalents:
+  - english: |
+       more and more X / increasingly X / ever-more-X
+  - norwegian: |
+       X Y-Cmp og ~Y-Cmp, f.eks. ‘X løp raskere og raskere’
 common_fillers:
   - бежал
   - летел

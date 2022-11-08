@@ -68,6 +68,11 @@ dependency_structure_of_illustration:
   - '[root [advmod Вот] [advmod уже] [nummod:gov три] месяца [acl [mark как] [nsubj она] уехала].]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       X years have passed since Y
+  - norwegian: |
+       X etter Z, f.eks. Tre måneder etter skolen og han finner ikke en jobb?
 common_fillers:
   - лет
   - года

@@ -49,6 +49,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Иван] [obl [case из] милости] забрал [obl [case к] себе] [obj кота].]'
 comment: |
     'Не путать с конструкцией 1070.'
+equivalents:
+  - english: |
+       out of X for (e.g. out of love for)
+  - norwegian: |
+       av X til Y / å X av Y, f.eks. jeg gikk med ham av nysgjerrighet
 common_fillers:
   - милости
   - уважения

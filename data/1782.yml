@@ -34,6 +34,11 @@ dependency_structure_of_illustration:
   - '[root [discourse Ну], [parataxis правда], [amod красивый] я.] [root [obj Этого] [obl [case у] меня] [advmod не] отнимешь.]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       One cannot take X's Y from X
+  - norwegian: |
+       man kan ikke frakjenne X Y
 common_fillers:
   - ~
 references:

@@ -29,6 +29,9 @@ dependency_structure_of_illustration:
   - '[root [advmod [case Вопреки] [det всем] прогнозам], [case на] улице [cop была] [nsubj [amod хорошая] погода].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       i strid med X / på tross av X / mot X / til tross for X
 common_fillers:
   - ~
 references:

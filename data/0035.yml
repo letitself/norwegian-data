@@ -44,6 +44,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Они] принесли [obl [case в] пакете] [obj [advcl [nsubj бог] весть] что].]'
 comment: |
     'См. близкиe конструкции 359 чёрт знает PronInt (Чёрт знает как решать эту задачу); 5 (а) Noun-Nom/кто (же) (PronPers-3.Acc) знает, Cl (Кто его знает, почему она так поступила).'
+equivalents:
+  - english: |
+       God only knows who/why/where / Heaven knows who/why/where
+  - norwegian: |
+       bare Gud vet...
 common_fillers:
   - что
   - где

@@ -30,6 +30,11 @@ dependency_structure_of_illustration:
   - '[root [det Его] счастье, [csubj [mark что] [obj рейс] задержали], [conj [cc иначе] [aux бы] [advmod не] попал] [obl [case на] самолет].]'
 comment: |
     'No comment yet'
+equivalents:
+  - english: |
+       X was lucky that ...
+  - norwegian: |
+       heldigvis for X, ...
 common_fillers:
   - ~
 references:

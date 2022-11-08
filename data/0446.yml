@@ -42,6 +42,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Журнал] [obl [case за] ноябрь] [advmod скоро] выйдет [obl [case из] печати].]'
 comment: |
     'Кроме того, частотными заполнителями являются названия месяцев. Не путать с конструкциями 582 и 1635.'
+equivalents:
+  - norwegian: |
+       X for Y, f.eks. bladet for desember
 common_fillers:
   - плату
   - отчёт

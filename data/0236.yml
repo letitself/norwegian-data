@@ -50,6 +50,11 @@ dependency_structure_of_illustration:
   - '[root [det Никакой] [nsubj он] [advmod не] гений.]'
 comment: |
     'При глаголе-связке в прошедшем и будущем времени, существительное в позиции сказуемого в этой конструкции может иметь форму именительного или творительного падежа.'
+equivalents:
+  - english: |
+       not an X at all (e.g. He is not a genius at all)
+  - norwegian: |
+       X er ikke Y
 common_fillers:
   - он
   - она

@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj [det Эти] бусы] подходят [obl [case к] платью] [advmod лучше [obl всего]].]'
 comment: |
     'См. близкую конструкцию 393 Adj-Cmp/Adv-Cmp всех (Ты был лучше всех)'
+equivalents:
+  - norwegian: |
+       X-st, f.eks. Den passer best.
 common_fillers:
   - чаще
   - лучше

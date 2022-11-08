@@ -50,6 +50,9 @@ dependency_structure_of_illustration:
   - '[root [csubj [obl [case К] четырём] прибавить [obj два] [cop будет] шесть.]'
 comment: |
     'См. близкую конструкцию 1856 NumCrd-Nom плюс/и NumCrd-Nom – (равно/равняется/будет/получится/выйдет) NumCrd-Nom/NumCrd-Dat (Два плюс два равно четыре).'
+equivalents:
+  - norwegian: |
+       Når noen legger X til Y får noen Z
 common_fillers:
   - будет
   - получится
