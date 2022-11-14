@@ -43,6 +43,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Ты] [advmod ещё] [advmod не] готов, [parataxis [mark насколько] [nsubj я] понимаю].]'
 comment: |
     'См. похожие конструкции 1019 если PronPers-1 правильно понять/понимать, Cl (Если я правильно понимаю, он уже не придет) и 2004 насколько PronPers-1 знать/PronPers-1.Dat Cop известно, Cl (Насколько я знаю, Вася отлично играет в футбол).'
+equivalents:
+  - norwegian: |
+       etter hva jeg vet... / så vidt X forstår, ...
 common_fillers:
   - я
 references:

@@ -60,6 +60,9 @@ dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case о] [det каких] [amod компьютерных] играх] [advmod тут] [advmod и] [nsubj речи] [xcomp быть] [advmod не] может.]'
 comment: |
     'См. конструкции о NP-Loc (тут/здесь/сейчас) и речи быть не может (О присутствии адвоката и речи быть не может), о том, чтобы Cl, (тут/здесь/сейчас) и речи быть не может (О том, чтобы поехать отдыхать, и речи быть не может).'
+equivalents:
+  - norwegian: |
+       X er utelukket
 common_fillers:
   - помощь
   - доверие

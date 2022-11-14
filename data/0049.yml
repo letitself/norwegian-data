@@ -46,6 +46,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Уровень [nmod зарплаты]] определяется [obl [case в] зависимости [nmod [case от] опыта [nmod работы]]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       avhengig av X
+  - english: |
+       depending on X
 common_fillers:
   - ситуации
   - условий

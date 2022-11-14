@@ -50,6 +50,11 @@ dependency_structure_of_illustration:
   - '[root [cc А] [nsubj он] возьми [conj [cc и] купи [obj [amod новую] машину]]!]'
 comment: |
     'См. 57 NP-Nom взять и VP-Pfv (Он взял и увез меня в деревню).'
+equivalents:
+  - norwegian: |
+       å gå bort og X
+  - english: |
+       to up and X
 common_fillers:
   - скажи
   - согласись

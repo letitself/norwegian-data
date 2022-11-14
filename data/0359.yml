@@ -42,6 +42,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Чёрт] знает [ccomp [advmod как] решать [obj [det эту] задачу]]!]'
 comment: |
     'См. близкую конструкцию 35 бог весть PronInt (Они принесли в пакете бог весть что).'
+equivalents:
+  - norwegian: |
+       faen vet X / pokker vet X
 common_fillers:
   - что
   - кто

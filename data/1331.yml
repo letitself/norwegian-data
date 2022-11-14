@@ -30,6 +30,9 @@ dependency_structure_of_illustration:
   - '[obj Фильм [nmod [case из] разряда [nmod тех, [acl:relcl [obl [case на] которые] [nsubj дети] должны [xcomp водить [obj [det своих] родителей]]]]].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       en av de som ...
 common_fillers:
   - ~
 references:

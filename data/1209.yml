@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [iobj Мне] лень [csubj готовить].]'
 comment: |
     'Отрицательная частица "не" ставится перед словом "лень": "не лень".'
+equivalents:
+  - norwegian: |
+       X gidder ikke Y
+  - english: |
+       not feel like X-ing
 common_fillers:
   - вставать
   - идти

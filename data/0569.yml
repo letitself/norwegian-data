@@ -45,6 +45,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod чуть [fixed было]] не] забыл [obl [case про] экзамен].]'
 comment: |
     'Не путать с 384.'
+equivalents:
+  - norwegian: |
+       nesten X
 common_fillers:
   - забыть
   - упасть

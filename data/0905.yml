@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Они] учат [obj [det одно [conj [cc и] то [advmod же]]] стихотворение].]'
 comment: |
     'Ср. похожую конструкцию 648.'
+equivalents:
+  - norwegian: |
+       samme X / det samme X
 common_fillers:
   - лицо
   - значение

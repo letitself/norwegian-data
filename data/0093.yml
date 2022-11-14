@@ -47,6 +47,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Дом] [advmod гораздо] просторнее [obl квартиры].]'
 comment: |
     'См. близкую конструкцию значительно Adj-Cmp/Adv-Cmp (Ресторан значительно дороже кафе.)'
+equivalents:
+  - norwegian: |
+       langt X
+  - english: |
+       far more X / by far more X
 common_fillers:
   - умнее
   - дороже

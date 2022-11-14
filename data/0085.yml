@@ -44,6 +44,11 @@ dependency_structure_of_illustration:
   - '[root [obl [case С] [amod самого] приезда [nmod [case в] Пекин]] [nsubj он] [advmod всё] грустил.]'
 comment: |
     'Всё is similar to intensifier but rather tells about time (~constantly). Семья континуативных конструкций с семантикой For a long time (непрерывность) - Verbs with intensifiers так, все'
+equivalents:
+  - norwegian: |
+       å X hele tiden / stadig / hele tida
+  - english: |
+       to X constantly / to X all the time
 common_fillers:
   - кричать
 references:

@@ -50,6 +50,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Михаил] должен [xcomp перевести [obj книгу] [obl [case к] марту]].]'
 comment: |
     'См. похожую конструкцию 2127 NP-Nom обязываться VP-Inf (Банк обязуется оплачивать услуги в срок).'
+equivalents:
+  - norwegian: |
+       X må gjøre Y / X skal gjøre Y
 common_fillers:
   - быть
   - сделать

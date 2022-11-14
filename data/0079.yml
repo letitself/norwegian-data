@@ -49,6 +49,11 @@ dependency_structure_of_illustration:
   - '[root [cc А] [nsubj мы] [advmod всё] [case без] молока [conj [cc и] [case без] молока].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       alltid uten X
+  - english: |
+       constantly without X
 common_fillers:
   - вода
   - хлеб

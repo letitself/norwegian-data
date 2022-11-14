@@ -54,6 +54,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Вася] прыгает [obj [nummod:gov два] метра [nmod [case в] длину]].]'
 comment: |
     'Эта конструкция похожа на конструкцию 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP-Gen (Велодорожка длиной шесть километров), но может описывать характеристики не только объекта, но и действия.'
+equivalents:
+  - norwegian: |
+       NumCrd X lang/tykk/høy, f.eks. Patmos er knapt 13 kilometer lang.
 common_fillers:
   - иметь
   - составлять

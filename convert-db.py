@@ -97,6 +97,13 @@ def write_record(row, record):
             f.write("comment: |\n")
             f.write(f"    '{entry}'\n")
 
+        f.write("equivalents:\n")
+        for language in ["Norwegian", "English"]:
+            entry = row[f"{language} equivalent"].strip()
+            if entry != "":
+                f.write(f"  - {language.lower()}: |\n")
+                f.write(f"       {entry}\n")
+
         f.write("common_fillers:\n")
         f.write(
             print_as_yaml_list(

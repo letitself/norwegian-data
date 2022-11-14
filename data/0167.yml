@@ -35,6 +35,11 @@ dependency_structure_of_illustration:
   - '[root [advcl [mark Когда] [aux бы] [nsubj я] [advmod ни] зашёл], [nsubj вы] [advmod всегда] [case на] месте.]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       hver gang X, Y
+  - english: |
+       whenever X, Y
 common_fillers:
   - ~
 references:

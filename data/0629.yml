@@ -40,6 +40,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Отец] готовил [obj яичницу] [advcl [mark как] надо].]'
 comment: |
     'См. похожую конструкцию 426 VP, как положено/подобает (NP-Dat)/принято (Мы собрали посуду со стола, как положено).'
+equivalents:
+  - norwegian: |
+       å X skikkelig
+  - english: |
+       to X just right / to X properly
 common_fillers:
   - делать
   - пройти

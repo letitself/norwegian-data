@@ -47,6 +47,9 @@ dependency_structure_of_illustration:
   - '[obj Книга [nmod объёмом [nmod [case в] [nummod:gov сто] страниц]]]'
 comment: |
     'См. близкие конструкции 55 NP весом/массой (в) NumCrd-Acc NP (Баржа весом в шесть тонн), 1547 NP длиной/шириной/толщиной/высотой/глубиной (в) NumCrd-Acc NP (Велодорожка длиной шесть километров).'
+equivalents:
+  - norwegian: |
+       X på NumCrd Y, f.eks. Et internasjonalt magasin på 200 sider hadde nylig over 80 helsides annonser.
 common_fillers:
   - кубометр
   - страница

@@ -57,6 +57,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Кто] [obj его] знает, [advmod почему] [nsubj она] [advmod так] [ccomp поступила].]'
 comment: |
     'Не путать с другими конструкциями, которые содержат глагол "знать": 335, 359, 1061, 2300.'
+equivalents:
+  - norwegian: |
+       Gudene vet, ...
+  - english: |
+       God knows why X did Y
 common_fillers:
   - бог
   - чёрт

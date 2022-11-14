@@ -51,6 +51,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Он] делает [obj вид, [acl [mark что] слушает]].]'
 comment: |
     'См. близкую конструкцию 1179 NP-Nom притворяться, что Cl (Он притворялся, что не понимает меня)'
+equivalents:
+  - norwegian: |
+       X later som Y
+  - english: |
+       be making an impression that ...
 common_fillers:
   - слушать
   - работать

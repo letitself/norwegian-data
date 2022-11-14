@@ -52,6 +52,11 @@ dependency_structure_of_illustration:
   - '[root [nsubj Мать] велела [iobj сыну] [xcomp учиться].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       X ber Y om Z
+  - english: |
+       to order X do Y
 common_fillers:
   - идти
   - ждать

@@ -60,6 +60,11 @@ dependency_structure_of_illustration:
   - '[root [advcl [obj Чего] [nsubj дочь] [advmod не] сделала], [mark так] [expl это] [advmod не] conj убралась.]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       den eneste X som Y er Z, f.eks. Det eneste som kan hindre ham, er om noe skjer med våpnene.
+  - english: |
+       The only thing that X didn't Y is Z
 common_fillers:
   - ~
 references:

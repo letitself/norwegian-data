@@ -44,6 +44,9 @@ dependency_structure_of_illustration:
   - '[root [nsubj Я] прочитаю [obj [det эту] книгу] [advmod [advmod когда-нибудь] потом].]'
 comment: |
     'См. близкую конструкцию 1650 VP через NP-Acc.Pl (Этот подвиг будут вспоминать через века.)'
+equivalents:
+  - norwegian: |
+       noen gang / noensinne
 common_fillers:
   - поймёшь
   - узнаешь

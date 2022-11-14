@@ -42,6 +42,9 @@ dependency_structure_of_illustration:
   - '[root [advmod [advmod Не] сегодня [conj завтра]] [nsubj мы] [obj всё] узнаем.]'
 comment: |
     'В текстах встречается написание "не сегодня-завтра", однако современной орфографической норме такое написание не соответствует.'
+equivalents:
+  - norwegian: |
+       en av de nærmeste dagene
 common_fillers:
   - быть
   - мочь

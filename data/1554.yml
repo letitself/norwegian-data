@@ -51,6 +51,9 @@ dependency_structure_of_illustration:
   - '[root [obl [case В] радиусе [nmod [nummod двух] километров [nmod [case от] дома]]] нет [nsubj связи].]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       innenfor en radius på NumCrd X / innen en radius på NumCrd X / i en radius på NumCrd X
 common_fillers:
   - километр
   - метр

@@ -46,6 +46,9 @@ dependency_structure_of_illustration:
   - '[root [parataxis [mark Насколько] [nsubj я] знаю], [nsubj Вася] [advmod отлично] играет [obl [case в] футбол].]'
 comment: |
     'См. похожие конструкции 1019 если PronPers-1 правильно понять/понимать, Cl (Если я правильно понимаю, он уже не придет) и 2005 насколько PronPers-1 понимать, Cl (Ты ещё не готов, насколько я понимаю).'
+equivalents:
+  - norwegian: |
+       så vidt jeg vet, ...
 common_fillers:
   - я
   - мне

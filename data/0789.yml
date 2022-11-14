@@ -52,6 +52,9 @@ dependency_structure_of_illustration:
   - '[root [advmod Недавно] ввели [obj [amod новые] штрафы] [obl [case в] отношении [nmod автомобилистов]].]'
 comment: |
     'См. близкую конструкцию 687 (а) насчёт NP-Gen – Cl (А насчет папы – он уехал на рыбалку).'
+equivalents:
+  - norwegian: |
+       mot X, f.eks. Oppførselen hans mot meg var uklandelig / med hensyn til X / når det gjelder X / hva angår X
 common_fillers:
   - уголовное дело
   - репрессии

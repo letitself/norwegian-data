@@ -38,6 +38,9 @@ dependency_structure_of_illustration:
   - '[root [cc А] [advmod вот] [advmod тут] [nsubj ты] ошибаешься!] [root [nsubj Предела] нет [conj [cc и] [xcomp быть] [advmod не] может]!]'
 comment: |
     'No comment yet'
+equivalents:
+  - norwegian: |
+       Og det er der X Y
 common_fillers:
   - ~
 references:
