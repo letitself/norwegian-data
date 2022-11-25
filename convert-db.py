@@ -98,7 +98,7 @@ def write_record(row, record):
             f.write(f"    '{entry}'\n")
 
         f.write("equivalents:\n")
-        for language in ["Norwegian", "English"]:
+        for language in ["English", "Norwegian"]:
             entry = row[f"{language} equivalent"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
