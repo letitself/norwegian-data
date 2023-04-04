@@ -5,7 +5,19 @@ UD_name: 'V-V, но так и не VP'
 illustration: 'Он писал-писал свой роман, но так и не закончил его.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает продолжительное [действие]Action, которое вопреки ожиданиям не привело к нужному [результату.]Event
 examples:
+  - |
+       Мы [искали-искали]Action подходящего музыканта, но так и не [нашли.]Event
+  - |
+       Наташа [смотрела-смотрела]Action на окна дома, но так и не [решилась]Event крикнуть.
+  - |
+       Гости [ждали-ждали]Action, когда же Иван наконец придет, но так и не [дождались.]Event
+  - |
+       Я [стояла-стояла]Action перед крутящейся этажеркой с открытками, но так и не [смогла выбрать]Event ни одной.
+  - |
+       Станислава [обещала-обещала]Action, но так и не [приехала.]Event
 morphology:
   - Verb
   - VP
@@ -34,12 +46,16 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] писал - [conj писал] [obj [det свой] роман], [conj [cc но] [advmod так [fixed и]] [advmod не] закончил [obj его]].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 85, 86.'
 equivalents:
   - norwegian: |
        NA
 common_fillers:
-  - ~
+  - искать
+  - обещать
+  - писать
+  - смотреть
+  - звать
 references:
   - |
     No references

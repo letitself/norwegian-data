@@ -1,11 +1,13 @@
 ---
 record: 770
-name: 'NP в массе (своей) XP'
-UD_name: 'NP в массе (своей) XP'
+name: 'NP в общей массе/в массе (своей) XP'
+UD_name: 'NP в общей массе/в массе (своей) XP'
 illustration: 'Избиратели в массе своей консервативны.'
 cefr_level: C1
 definitions:
 examples:
+  - |
+       У нас в стране люди в общей массе [чрезвычайно дурно воспитаны]State.
 morphology:
   - NP
 syntactic_type_of_construction:
@@ -27,6 +29,7 @@ usage_label: ~
 dependency_structure:
   - '[dep NP [nmod [case в] массе] [det своей]]'
   - '[dep NP [nmod [case в] массе]]'
+  - '[dep NP [nmod [case в] [amod общей] массе]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Избиратели] [obl [case в] массе] [det своей] консервативны.]'
 comment: |

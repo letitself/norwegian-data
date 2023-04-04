@@ -5,7 +5,19 @@ UD_name: 'Cl, пока (не) Cl'
 illustration: 'Он читал, пока не стемнело.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что некоторая [ситуация]Situation протекает до момента, в который произойдёт [определённое действие]Action (примеры 1-2). Конструкция также может обозначать, что некоторая ситуация протекает параллельно с другой, фоновой, [ситуацией]BackgroundSituation и закончится одновременно с ней (примеры 3-5).
 examples:
+  - |
+       Смешать крахмал с 1 ст. л. растопленного сливочного масла, влить в кипящий сок и [готовить]Situation, пока смесь [не загустеет]Action.
+  - |
+       [После этого еще 14 лет книга хранилась в архиве университета города Осло]Situation, пока [не была передана в библиотеку]Action.
+  - |
+       [Он подождал]Situation, пока утки [поравняются с мысом]Action, выделил пару и выстрелил.
+  - |
+       Пока бабушка [готовит обед]BackgroundSituation, [внук раскладывает по полу железную дорогу]Situation.
+  - |
+       [Паук укусил 30-летнего Николая в голову]Situation, пока тот [спал]BackgroundSituation.
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -28,12 +40,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] читал, [advcl [mark пока] [advmod не] стемнело].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 406, 407. Не путать с конструкцией 408.'
 equivalents:
   - norwegian: |
        ..., helt til...
 common_fillers:
-  - ~
+  - Not applicable
 references:
   - |
     No references

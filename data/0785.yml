@@ -1,11 +1,15 @@
 ---
 record: 785
-name: 'VP в одну минуту'
-UD_name: 'VP в одну минуту'
+name: 'VP в (одну) минуту'
+UD_name: 'VP в (одну) минуту'
 illustration: 'Печаль моя прошла в одну минуту.'
 cefr_level: A1
 definitions:
 examples:
+  - |
+       Мне даже не пришлось напрягать голос ― всё [выключили]Action в минуту.
+  - |
+       Дождь [усилился]Action в минуту, смыл собачьи голоса с улицы.
 morphology:
   - VP
 syntactic_type_of_construction:

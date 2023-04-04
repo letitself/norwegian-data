@@ -1,7 +1,7 @@
 ---
 record: 707
-name: 'Аdj-Nom Cop NP-Nom!'
-UD_name: 'Аdj-Nom Cop NP-Nom!'
+name: 'Adj-Nom Cop NP-Nom!'
+UD_name: 'Adj-Nom Cop NP-Nom!'
 illustration: 'Модный наряд!'
 cefr_level: A1
 definitions:
@@ -25,7 +25,7 @@ intonation:
   - Exclamatory
 usage_label: ~
 dependency_structure:
-  - '[root Аdj-Nom [cop Cop] [nsubj NP-Nom]!]'
+  - '[root Adj-Nom [cop Cop] [nsubj NP-Nom]!]'
 dependency_structure_of_illustration:
   - '[root Модный [nsubj наряд]!]'
 comment: |

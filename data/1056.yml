@@ -1,0 +1,61 @@
+---
+record: 1056
+name: 'VP из стороны в сторону'
+UD_name: 'VP из стороны в сторону'
+illustration: 'Грузовик трясло и швыряло из стороны в сторону.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что участник [движется]Action в пределах определенной территории то в одну, то в другую (как правило, противоположную) часть пространства (пример 1). Как правило, это движение не имеет конкретной цели или естественного предела. Кроме того, конструкция может обозначать, что участник отклоняется от траектории, если находится в движении (пример 2), или что положение участника в пространстве отклоняется от нейтрального, если участник неподвижен (примеры 3-5).
+examples:
+  - |
+       Он увидел сквозь пыльное стекло, как Кайзер озабоченно [расхаживает]Action по подоконнику из стороны в сторону.
+  - |
+       Водитель ехал просто безобразно, [вилял]Action из стороны в сторону.
+  - |
+       Бегемот схватил меня за ногу в районе колена и начал [трясти]Action под водой из стороны в сторону.
+  - |
+       Деревья [раскачиваются]Action из стороны в сторону, того и гляди ветви обломятся.
+  - |
+       Старшая Комарова зажигает две свечи, ставит их на стол: два огонька [дергаются]Action из стороны в сторону.
+morphology:
+  - VP
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - Action
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'См. близкие конструкции 1078, 1748, 1062, 1066, 1067. Не путать с конструкцией 1076.'
+equivalents:
+common_fillers:
+  - качаться
+  - раскачиваться
+  - шататься
+  - кидать
+  - мотать
+  - прыгать
+references:
+  - |
+    No references
+semantic_types:
+  - type: Manner
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
+family:
+  - |
+    ""

@@ -5,7 +5,19 @@ UD_name: 'Только VP-Imper, Cl'
 illustration: 'Только скажи, я сразу приду на помощь.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторая ситуация]Situation наступит, если непосредственно перед ней произойдёт [определённое действие]Condition. Одного этого действия достаточно для немедленного наступления ситуации. Конструкция используется для обозначения гипотетических ситуаций, таких как обещания (примеры 1-2) и угрозы (примеры 3-4).
 examples:
+  - |
+       Только [заплати деньги]Condition, [мы всё сделаем как надо]Situation.
+  - |
+       [Здесь тебе что угодно организуют]Situation, только [попроси]Condition.
+  - |
+       Только [попробуй уйти]Condition, [сразу всё расскажу]Situation.
+  - |
+       Только [пикни]Condition — [опубликуем фото в соцсетях]Situation.
+  - |
+       Только [свистни]Condition — [он появится]Situation!
 morphology:
   - VP
   - Imp
@@ -29,12 +41,15 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [advmod Только] скажи, [parataxis [nsubj я] [advmod сразу] приду [obl [case на] помощь]].]'
 comment: |
-    'No comment yet'
+    'Не путать с конструкциями 1063, 2011. См. близкую конструкцию 2010.'
 equivalents:
   - norwegian: |
        bare X, ... , f.eks. bare ring...
 common_fillers:
-  - ~
+  - сказать
+  - приказать
+  - попробовать
+  - дать
 references:
   - |
     No references
@@ -44,8 +59,6 @@ semantic_types:
     subtypes:
       - type: Subsequent action
   - type: Threat
-    subtypes:
-      - type: Threat
 family:
   - |
     ""

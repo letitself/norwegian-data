@@ -5,6 +5,8 @@ UD_name: 'NP-Nom Cop не за NP-Acc, а/но за NP-Acc'
 illustration: 'Они были не за капитализм, а за демократию.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция выражает положительное отношение [участника]Experiencer к другому [участнику, политической партии, общественному строю, идее или потенциальной ситуации]Stimulus. Подразумевается, что есть две, скорее противоположные, альтернативы, и участник ясно высказывает одобрение и поддержку одной из них.
 examples:
 morphology:
   - NP
@@ -31,7 +33,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - ~
 comment: |
-    'См. конструкции 1804, 43'
+    'См. конструкции 1804, 43, 842. В отличие от конструкции 1804, в этой конструкции присутствует отрицание, которое возможно только при наличии противопоставления.'
 equivalents:
   - norwegian: |
        X er ikke for Y, men for Z
@@ -46,6 +48,9 @@ semantic_types:
       - type: Acceptance
         subtypes:
           - type: Support
+  - type: Comparison
+    subtypes:
+      - type: Contrast
 family:
   - |
     ""

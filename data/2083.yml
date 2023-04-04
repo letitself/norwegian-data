@@ -24,8 +24,10 @@ morphology:
   - Cl
 syntactic_type_of_construction:
   - Clause
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
+  - Matrix predicate
 syntactic_structure_of_anchor:
   - Light Verb Construction
   - Verb and Object
@@ -47,7 +49,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Прошу [obj прощения] [obl [case за] опоздание].]'
 comment: |
-    'См. близкую по значению конструкцию 2082.'
+    'См. близкие по значению конструкции 985, 986, 2082.'
 equivalents:
   - norwegian: |
        unnskyld at ... / beklager at ... / beklager X, f.eks. beklager forsinkelsen / unnskyld for X

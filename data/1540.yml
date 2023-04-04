@@ -25,9 +25,9 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[obl [advmod примерно] [case Prep] NumCrd [NP-Gen]]'
+  - '[obl [advmod примерно] [case Prep] [nummod NumCrd] NP-Gen]'
   - '[obl [advmod примерно] [case Prep] NumCrd]'
-  - '[obl [advmod приблизительно] [case Prep] NumCrd [NP-Gen]]'
+  - '[obl [advmod приблизительно] [case Prep] [nummod NumCrd] NP-Gen]'
   - '[obl [advmod приблизительно] [case Prep] NumCrd]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj приготовить [obj супа [nmod [advmod примерно] [case на] [nummod:gov восемь] порций]]].]'

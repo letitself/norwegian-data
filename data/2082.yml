@@ -23,13 +23,17 @@ morphology:
   - Acc
   - Cl
 syntactic_type_of_construction:
-  - Biclausal Construction
+  - Clause
+  - Matrix and Sentential Complement Construction
 syntactic_function_of_anchor:
   - Verb Predicate
+  - Matrix predicate
 syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:
   - Verb
+  - Preposition
+  - Pronoun
   - Conjunction
 semantic_roles:
   - ~
@@ -44,7 +48,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Извините [obj меня], [ccomp [mark что] [nsubj я] опоздала].]'
 comment: |
-    'См. близкую по значению конструкцию 2083.'
+    'См. близкие по значению конструкции 985, 986, 2083.'
 equivalents:
   - norwegian: |
        Unnskyld at ... / beklager at ...

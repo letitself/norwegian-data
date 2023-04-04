@@ -52,12 +52,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [case за] то, [acl [mark чтобы] [nsubj ты] [obl [case у] нас] жил].]'
 comment: |
-    'См. похожую конструкцию 1804 NP-Nom Cop за NP-Acc (Я за революцию).'
+    'См. похожие конструкции 1804 NP-Nom Cop за NP-Acc (Я за революцию), 842, 2347.'
 equivalents:
-  - norwegian: |
-       X er for å Y
   - english: |
        X is in favor of Y-ing / X supports Y-ing
+  - norwegian: |
+       X er for å Y
 common_fillers:
   - Not applicable
 references:

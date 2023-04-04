@@ -1,11 +1,15 @@
 ---
 record: 1747
-name: 'VP туда и обратно/туда-обратно'
-UD_name: 'VP туда и обратно/туда-обратно'
+name: 'VP туда и обратно/туда-обратно/туда и назад/туда-назад'
+UD_name: 'VP туда и обратно/туда-обратно/туда и назад/туда-назад'
 illustration: 'Взять билеты туда и обратно.'
 cefr_level: A2
 definitions:
 examples:
+  - |
+       Мы ждали их час, хотя [езды]Activity туда и назад минут двадцать было.
+  - |
+       Раз в год можно туда-назад бесплатно [слетать]Action в любой конец как супруге работника Аэрофлота.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -24,8 +28,10 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[root взять [obj билеты] [advmod туда [conj [cc и] обратно]]]'
-  - '[root взять [obj билеты] [advmod туда-[conj обратно]]]'
+  - '[root VP [advmod туда [conj [cc и] обратно]]]'
+  - '[root VP [advmod туда-[conj обратно]]]'
+  - '[root VP [advmod туда [conj [cc и] назад]]]'
+  - '[root VP [advmod туда-[conj назад]]]'
 dependency_structure_of_illustration:
   - '[root Взять [obj билеты] [advmod туда [conj [cc и] обратно]].]'
 comment: |

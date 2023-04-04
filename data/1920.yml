@@ -1,11 +1,17 @@
 ---
 record: 1920
-name: 'ни в коем случае не VP'
-UD_name: 'ни в коем случае не VP'
+name: 'ни в коем случае/разе не VP'
+UD_name: 'ни в коем случае/разе не VP'
 illustration: 'Ни в коем случае не отправлю ребёнка в детский сад.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Он зачем-то пошел за книгой в архив, как раз туда, куда утром решил [не идти]Action ни в коем разе.
+  - |
+       В милицию [не ходи]Action ни в коем разе.
+  - |
+       Она отчетливо понимала, что Петра ни в коем разе [нельзя]State выпускать из России.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -26,7 +32,8 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[root [obl [advmod ни] [case в] [det коем] случае] [advmod не] VP]'
+  - '[root [obl [advmod ни] [case в] [det коем] случае] [advmod не] VP]
+[root [obl [advmod ни] [case в] [det коем] разе] [advmod не] VP]'
 dependency_structure_of_illustration:
   - '[root [obl [advmod Ни] [case в] [det коем] случае] [advmod не] отправлю [obj ребёнка] [obl [case в] [amod детский] сад].]'
 comment: |

@@ -45,12 +45,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Я] [case за] революцию!]'
 comment: |
-    'См. похожую конструкцию 43 NP-Nom Cop за то, чтобы Cl/VP-Inf (Я за то, чтобы ты у нас жил).'
+    'См. похожие конструкции 43 NP-Nom Cop за то, чтобы Cl/VP-Inf (Я за то, чтобы ты у нас жил), 842. При введении отрицания в эту конструкцию необходимо также ввести противопоставление с помощью союзов "а" или "но", см. конструкцию 2347.'
 equivalents:
-  - norwegian: |
-       X er for Y
   - english: |
        to support the idea of X
+  - norwegian: |
+       X er for Y
 common_fillers:
   - идею
   - социализм

@@ -5,7 +5,19 @@ UD_name: 'VP вовремя'
 illustration: 'Петя сдал задание вовремя.'
 cefr_level: A2
 definitions:
+  - russian: |
+       Конструкция обозначает, что [некоторое действие]Action выполняется до заранее определённого момента времени.
 examples:
+  - |
+       Большинство клиентов очень аккуратны и [платят]Action вовремя.
+  - |
+       Если вы [не сделаете прививку]Action вовремя, то рискуете своим здоровьем.
+  - |
+       Мама [забыла]Action вовремя выключить компьютер.
+  - |
+       На следующий день самолет [вылетел в Москву]Action вовремя.
+  - |
+       В ряде регионов России многие школы вовремя [не начинали занятия]Action.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -26,12 +38,17 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Петя] сдал [obj задание] [advmod вовремя].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 824.'
 equivalents:
   - norwegian: |
        i rette tid / i tide / tidsnok
 common_fillers:
-  - ~
+  - успел
+  - приехали
+  - вылетел
+  - притормозил
+  - найти
+  - понять
 references:
   - |
     No references

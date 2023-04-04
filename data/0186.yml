@@ -1,11 +1,13 @@
 ---
 record: 186
-name: 'на что NP-Dat Cop NP-Nom?'
-UD_name: 'на что NP-Dat Cop NP-Nom?'
+name: 'на что NP-Dat Cop NP-Nom (нужный-Short)?'
+UD_name: 'на что NP-Dat Cop NP-Nom (нужный-Short)?'
 illustration: 'На что мне эти книги?'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       А мне мужика не надо. На что [мне]Recipient [мужик]Theme? От него грязь одна.
 morphology:
   - NP
   - Dat

@@ -43,12 +43,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] [advmod [advmod уже] давно] взял [obl [case у] меня] [obj [det эту] книгу], [conj [cc и] привет]!] [root Уехал [obl [case в] отпуск].]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1972.'
 equivalents:
-  - norwegian: |
-       ...og X forsvante uventet
   - english: |
        ... and suddenly disappeared
+  - norwegian: |
+       ...og X forsvante uventet
 common_fillers:
   - Not applicable
 references:

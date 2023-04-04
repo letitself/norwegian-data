@@ -1,11 +1,15 @@
 ---
 record: 1562
-name: 'VP во весь опор/во всю прыть'
-UD_name: 'VP во весь опор/во всю прыть'
+name: 'VP во весь опор/во всю прыть/во весь дух'
+UD_name: 'VP во весь опор/во всю прыть/во весь дух'
 illustration: 'Он бежал во весь опор.'
 cefr_level: C2
 definitions:
 examples:
+  - |
+       Перепуганные животные [мчались от пса]Action во весь дух к себе во двор.
+  - |
+       Они тоже [побежали]Action во весь дух и что-то кричали.
 morphology:
   - VP
 syntactic_type_of_construction:

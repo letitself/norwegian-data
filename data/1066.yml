@@ -1,0 +1,73 @@
+---
+record: 1066
+name: 'VP от NP-Gen к ~NP-Dat'
+UD_name: 'VP от NP-Gen к NP-Dat'
+illustration: 'Поезда ездят от станции к станции и сигналят.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник неоднократно [перемещается]Action между несколькими пространствами одного типа, как правило, не попадая внутрь или не задерживаясь внутри этих пространств на долгое время (примеры 1-2). Конструкция также может обозначать перемещение участника между несколькими объектами одного типа (примеры 3-5). Слот NP-Gen обозначает [начальную точку]Source перемещения, а слот NP-Dat — [конечную точку]Goal.
+examples:
+  - |
+       Ким [шел]Action от [дома]Source к [дому]Goal, поднимаясь по темным лестницам, стучал в двери.
+  - |
+       Утопая в снегу, я [брела]Action от [ларька]Source к [ларьку]Goal, от [магазина]Source к [магазину]Goal.
+  - |
+       Девушки [ходили]Action от [стола]Source к [столу]Goal с выражением смертельной скуки на лицах.
+  - |
+       Откуда-то появляется белый голубь, он [летает]Action от [стены]Source к [стене]Goal.
+  - |
+       Мы будем [лететь]Action от [звезды]Source к [звезде]Goal на ракете.
+morphology:
+  - VP
+  - NP
+  - Gen
+  - Dat
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Source
+  - Goal
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'См. близкие конструкции 1056, 1062, 1067, 1078, 1748.'
+equivalents:
+common_fillers:
+  - ходить
+  - брести
+  - ездить
+  - станция
+  - дом
+  - станции
+  - ларьку
+references:
+  - |
+    No references
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Source
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

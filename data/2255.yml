@@ -1,11 +1,15 @@
 ---
 record: 2255
-name: 'NP-Gen Cop (хоть) завались'
-UD_name: 'NP-Gen (хоть) завались'
+name: 'NP-Gen Cop (хоть) завались/залейся'
+UD_name: 'NP-Gen (хоть) завались/залейся'
 illustration: 'Лимонаду было – хоть завались!'
 cefr_level: B2
 definitions:
 examples:
+  - |
+       [Цветов]Possessed у нас хоть залейся, сам видишь.
+  - |
+       В Москве [праздников]Theme ― хоть залейся.
 morphology:
   - NP
   - Gen

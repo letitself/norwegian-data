@@ -5,7 +5,19 @@ UD_name: 'друг (Prep) дружку VP'
 illustration: 'Дети весело бегали друг за дружкой.'
 cefr_level: B1
 definitions:
+  - russian: |
+       Конструкция обозначает взаимное [действие]Action, то есть действие, которое участники выполняют одновременно и симметрично, являясь и субъектом и объектом этого действия. Ударение в слове "дружку" стоит на первом слоге, а падеж зависит от предлога: помнить друг о дружке, и пр.
 examples:
+  - |
+       Два человеческих голоса ругались где-то в темноте, не [понимая]Action друг дружку.
+  - |
+       А черепашки толкают одна другую, друг у дружки капустные листья [отбирают.]Action
+  - |
+       Мы сидели, тесно [прижавшись]Action друг к дружке.
+  - |
+       При этом старухи были вредные и вспыльчивые, всё [спорили]Action друг с дружкой.
+  - |
+       Голуби [гонялись]Action друг за дружкой, тряся головами.
 morphology:
   - Prep
   - VP
@@ -22,19 +34,27 @@ semantic_roles:
   - ~
 intonation:
   - Not applicable
-usage_label: ~
+usage_label: Colloquial
 dependency_structure:
   - '[root [obl друг [fixed Prep] [fixed дружки]] VP]'
   - '[root [obl друг [fixed дружки]] VP]'
 dependency_structure_of_illustration:
   - '[root [nsubj Дети] [advmod весело] бегали [obl друг [fixed за] [fixed дружкой]].]'
 comment: |
-    'No comment yet'
+    'В отличие от конструкции ID2269, "друг дружку" является более маркированным выражением, употребляется реже и передает неформальность беседы или отношений участиков действия.'
 equivalents:
+  - english: |
+       one another, each other, mutually
   - norwegian: |
        hverandre
 common_fillers:
-  - ~
+  - любить
+  - прижаться
+  - жаться
+  - лезть
+  - ссориться
+  - ворчать
+  - орать
 references:
   - |
     No references

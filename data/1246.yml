@@ -1,7 +1,7 @@
 ---
 record: 1246
-name: 'прекратить/перестать-Imp VP-Ipfv.Inf!'
-UD_name: 'прекратить/перестать-Imper VP-Imp.Inf!'
+name: 'прекратить-Imp/перестать-Imp VP-Ipfv.Inf!'
+UD_name: 'прекратить-Imper/перестать-Imper VP-Imp.Inf!'
 illustration: 'Прекрати капризничать!'
 cefr_level: B2
 definitions:
@@ -48,10 +48,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. конструкции бросить-Imper VP-Imp.Inf (брось спорить), кончать-Imper VP-Imp.Inf (― Кончайте паниковать! ― строго сказал он нам с мамой.)'
 equivalents:
-  - norwegian: |
-       slutt å X
   - english: |
        Stop X-ing!
+  - norwegian: |
+       slutt å X
 common_fillers:
   - морочить голову
   - издеваться

@@ -45,23 +45,23 @@ intonation:
   - Not applicable
 usage_label: Colloquial
 dependency_structure:
-  - '[root [obl [case у] NP-Gen] [всё advmod] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [obl [case у] NP-Gen] [advmod всё] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
   - '[root [obl [case у] NP-Gen] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
-  - '[root [всё advmod] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
+  - '[root [advmod всё] [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
   - '[root [nsubj руки] [advmod не] доходить [xcomp VP-Inf]]'
-  - '[root [obl [case у] NP-Gen] [всё advmod] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [advmod всё] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
   - '[root [obl [case у] NP-Gen] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
-  - '[root [всё advmod] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
+  - '[root [advmod всё] [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
   - '[root [nsubj руки] [advmod не] доходить [obl [case до] NP-Gen]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Руки] [advmod не] доходят [xcomp [obj крышу] починить].]'
 comment: |
     'No comment yet'
 equivalents:
-  - norwegian: |
-       rekker ikke / har ikke tid til å / tiden strekker ikke til
   - english: |
        X did not get around to Y-ing / not to have got down to Y-ing
+  - norwegian: |
+       rekker ikke / har ikke tid til å / tiden strekker ikke til
 common_fillers:
   - купить
   - заняться

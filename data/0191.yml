@@ -1,7 +1,7 @@
 ---
 record: 191
-name: 'наи-Аdj-ший из NP-Gen.Pl'
-UD_name: 'наи-Аdj-ший из NP-Gen.Plur'
+name: 'наи-Adj-ший из NP-Gen.Pl'
+UD_name: 'наи-Adj-ший из NP-Gen.Plur'
 illustration: 'Наименьшее из зол'
 cefr_level: B1
 definitions:
@@ -35,7 +35,7 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[amod наи-Аdj-ший [nmod [case из] NP-Gen.Pl]]'
+  - '[amod наи-Adj-ший [nmod [case из] NP-Gen.Pl]]'
 dependency_structure_of_illustration:
   - '[amod Наименьшее [nmod [case из] зол]]'
 comment: |

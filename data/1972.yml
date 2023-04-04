@@ -5,7 +5,21 @@ UD_name: 'Cl – и тю-тю/и тютю!'
 illustration: 'Он забрал машину – и тю-тю! Больше мы не встречались.'
 cefr_level: C1
 definitions:
+  - russian: |
+       Конструкция обозначает, что важный участник ситуации неожиданно для говорящего исчез (уехал, ушел, перестал звонить), получил травму или умер. Конструкция передает удивление и недовольство говорящего по этому поводу. Описано [событие]Event, которое предшествует исчезновению и часто является его причиной. Слово «тю-тю» обозначает отсутствие объекта и часто используется в детской речи.
+  - norwegian: |
+       Konstruksjonen betyr at en viktig deltaker i situasjonen, uventet for taleren er forsvunnet (har reist bort, gått sin vei, sluttet å ringe), er skadet eller er død. Konstruksjonen gjengir talerens overraskelse og misnøye i den anledning. Det beskrives en [hendelse]Event som gikk forut for forsvinningen og ofte er dens årsak.
 examples:
+  - |
+       А поезд тоже ждать не будет, [опоздай хоть на минуту]Situation ― и тю-тю, прибудет в столицу пустое место.
+  - |
+       [Они с Лопатиным вчера ушли из ресторана, сели в машину]Situation и тю-тю.
+  - |
+       ― Как сбежала? ― Очень просто. ― В чем же это ваше «очень просто»? ― [За два месяца не заплатила]Situation и… тю-тю.
+  - |
+       Значит, кинул он меня, что ли? Наверное, [проскочил через черный ход гостиницы]Situation ― и тю-тю!
+  - |
+       [Они сняли все деньги со счета]Situation и тютю!
 morphology:
   - Cl
 syntactic_type_of_construction:
@@ -29,12 +43,12 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [nsubj Он] забрал [obj машину]– [conj [cc и] тю-тю]!] [root [advmod Больше] [nsubj мы] [advmod не] встречались.]'
 comment: |
-    'No comment yet'
+    'См. близкую конструкцию 1971.'
 equivalents:
-  - norwegian: |
-       ...og X forsvante uventet
   - english: |
        ... and suddenly disappeared
+  - norwegian: |
+       ...og X forsvante uventet
 common_fillers:
   - ~
 references:

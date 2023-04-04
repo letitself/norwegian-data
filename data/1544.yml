@@ -1,7 +1,7 @@
 ---
 record: 1544
-name: 'VP за (Аdj) копейки'
-UD_name: 'VP за (Аdj) копейки'
+name: 'VP за (Adj) копейки'
+UD_name: 'VP за (Adj) копейки'
 illustration: 'Я купил машину за сущие копейки.'
 cefr_level: B2
 definitions:
@@ -37,7 +37,7 @@ intonation:
   - Not applicable
 usage_label: Colloquial
 dependency_structure:
-  - '[root VP [obl [case за] [amod Аdj] копейки]]'
+  - '[root VP [obl [case за] [amod Adj] копейки]]'
   - '[root VP [obl [case за] копейки]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Я] купил [obj машину] [obl [case за] [amod сущие] копейки].]'

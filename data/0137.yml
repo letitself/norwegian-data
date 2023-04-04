@@ -1,6 +1,6 @@
 ---
 record: 137
-name: 'к ужасу/счастью NP-Gen, Cl'
+name: 'к ужасу/счастью NP-Gen, Cl/на счастье NP-Gen, Cl'
 UD_name: 'к ужасу/счастью NP-Gen, Cl'
 illustration: 'К счастью мамы, все пришли домой рано.'
 cefr_level: A2
@@ -19,7 +19,7 @@ examples:
   - |
        Как рассказывает папин товарищ Виктор Селезнев, фельетон набрали, но, к счастью [отца]Beneficiary, [не опубликовали]Situation: нашлись в редакции порядочные люди.
   - |
-       ― Ух, я бы ему показал… ― горячился Вовка. Толя снисходительно улыбнулся: ― К счастью [директора]Beneficiary, ты ему ничего сделать не можешь.
+       На счастье [Марины]Beneficiary, во время того, как Юрий Михайлович увел ее из зала, [поздравить бухгалтера зашли депутаты]Situation, и про них с Сорокиным все быстро забыли.
   - |
        Когда допущен заводской брак, вся партия лекарства изымается со всех складов и розничных точек. К счастью [фармкомпаний]Beneficiary, [такое случается достаточно редко.]Situation
 morphology:
@@ -50,10 +50,10 @@ dependency_structure_of_illustration:
 comment: |
     'No comment yet'
 equivalents:
-  - norwegian: |
-       heldigvis for X / til Xs forferdelse
   - english: |
        much to the horror of X / мuch to the X’s delight / fortunately
+  - norwegian: |
+       heldigvis for X / til Xs forferdelse
 common_fillers:
   - мамы
   - жены

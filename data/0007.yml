@@ -49,7 +49,7 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc].]'
+  - '[root [nsubj NP-Nom] [cop Cop] похож [obl [case на] NP-Acc].]'
   - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc] [obl[case по] NP-Dat].]'
   - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc] [iobj NP-Ins].]'
 dependency_structure_of_illustration:
@@ -57,10 +57,10 @@ dependency_structure_of_illustration:
 comment: |
     'См. похожие конструкции 13, 1180, 1181.'
 equivalents:
-  - norwegian: |
-       X ser ut som Y / X er lik Y
   - english: |
        X looks like Y / X resembles Y
+  - norwegian: |
+       X ser ut som Y / X er lik Y
 common_fillers:
   - ~
 references:

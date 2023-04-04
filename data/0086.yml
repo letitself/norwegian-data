@@ -15,7 +15,7 @@ examples:
   - |
        [Наталья]Participant рассказывала истории и всё [наливала]Action да [наливала]Action чай.
   - |
-       Старик переехал в наш район. С тех пор [ [он]Participant всё [строит]Action [строит]Action себе дом.
+       Старик переехал в наш район. С тех пор [он]Participant всё [строит]Action и [строит]Action себе дом.
   - |
        ― Вот [я]Participant вам всё [рассказываю]Action да [рассказываю]Action, ― спохватился Иван, ― а теперь, друзья, расскажите вы что-нибудь из своей жизни.
   - |
@@ -49,10 +49,10 @@ dependency_structure_of_illustration:
 comment: |
     'Семья континуативных конструкций с семантикой For a long time (непрерывность) - Verbs with intensifiers так, все'
 equivalents:
-  - norwegian: |
-       å gjøre X stadig / X Y og Y, f.eks. Og det regnet og regnet og regnet – inntil vannet oversvømte hele jorden.
   - english: |
        to keep X-ing
+  - norwegian: |
+       å gjøre X stadig / X Y og Y, f.eks. Og det regnet og regnet og regnet – inntil vannet oversvømte hele jorden.
 common_fillers:
   - наливать
 references:

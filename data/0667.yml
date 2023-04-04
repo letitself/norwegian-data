@@ -5,10 +5,25 @@ UD_name: 'XP не XP, (а) Cl'
 illustration: 'Дождь не дождь, а на работу он придёт.'
 cefr_level: B2
 definitions:
+  - russian: |
+       Конструкция обозначает, что, несмотря на [неблагоприятные или нежелательные условия]Concession, [некоторая ситуация]Situation всё равно осуществляется или должна осуществиться. Конструкция обычно используется в диалоге с целью убедить собеседника в необходимости принять ситуацию или в монологической речи говорящего, которая конструируется как диалог говорящего с самим собой. Слот XP очебно заполняется глаголом, существительным, прилагательным или наречием.
 examples:
+  - |
+       [Нравится ― не нравится]Concession, а [работу надо делать]Situation.
+  - |
+       [Жарко ― не жарко]Concession, предложили ― [должен ехать]Situation.
+  - |
+       [Хочешь не хочешь]Concession, а [надо было строить железную дорогу]Situation.
+  - |
+       [Веришь не веришь]Concession, а [я рад встрече]Situation.
+  - |
+       [Много не много]Concession, а [рублей сто пятьдесят было]Situation.
 morphology:
   - XP
   - Cl
+  - NP
+  - VP
+  - Adv
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
@@ -31,12 +46,15 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root Дождь [conj [advmod не] дождь], [conj [cc а] [obl [case на] работу] [nsubj он] придёт].]'
 comment: |
-    'No comment yet'
+    'См. близкие конструкции 58, 1916. Не путать с конструкцией 668.'
 equivalents:
   - norwegian: |
        X spiller ingen rolle, ...
 common_fillers:
-  - ~
+  - нравится
+  - хочешь
+  - веришь
+  - много
 references:
   - |
     No references

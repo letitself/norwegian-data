@@ -40,7 +40,7 @@ intonation:
 usage_label: Colloquial
 dependency_structure:
   - '[root хотеть-Pst [aux бы] [nsubj PronPers-Nom]'
-  - '[ccomp [mark чтобы] [Cl]]'
+  - '[ccomp [mark чтобы] Cl]]'
 dependency_structure_of_illustration:
   - '[root Хотела [aux бы] [nsubj она], [ccomp [mark чтобы] [nsubj ты] обратил [obl [case на] нее] [obj внимание]].]'
 comment: |

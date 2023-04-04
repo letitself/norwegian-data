@@ -1,0 +1,77 @@
+---
+record: 1067
+name: 'VP с NP-Gen на ~NP-Acc'
+UD_name: 'VP с NP-Gen на NP-Acc'
+illustration: 'Лягушка прыгает с кочки на кочку и квакает.'
+cefr_level: B2
+definitions:
+  - russian: |
+       Конструкция обозначает, что некоторый участник неоднократно [перемещается]Action между несколькими поверхностями одного типа. Слот NP-Gen обозначает [начальную точку]Source перемещения, а слот NP-Acc — [конечную точку]Goal.
+examples:
+  - |
+       С [дерева]Source на [дерево]Goal [перелетали]Action вороны и каркали.
+  - |
+       Он [перепрыгивал]Action с [крыши]Source на [крышу]Goal, протягивал мне руку.
+  - |
+       Я [шагал вниз по лестнице]Action со [ступеньки]Source на [ступеньку]Goal, вышел из подъезда, был солнечный день.
+  - |
+       Он старательно [двигал]Action с [места]Source на [место]Goal тяжелую мебель.
+  - |
+       Пчёлка Зоя [перелетала]Action с [цветка]Source на [цветок]Goal в поисках нектара.
+morphology:
+  - VP
+  - NP
+  - Gen
+  - Acc
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - Action
+  - Source
+  - Goal
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'См. близкие конструкции 1052, 1062, 1066, 1078, 1748.'
+equivalents:
+common_fillers:
+  - перелетать
+  - переезжать
+  - прыгать
+  - дерева
+  - крыши
+  - кочки
+  - улицы
+  - дерево
+  - крышу
+  - кочку
+  - улицу
+references:
+  - |
+    No references
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Source
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

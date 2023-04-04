@@ -45,16 +45,16 @@ usage_label: ~
 dependency_structure:
   - '[root [nsubj что] [case насчёт] XP?]'
   - '[root [cc а] [nsubj что] [case насчёт] XP?]'
-  - '[root [part так] [nsubj что] [case насчёт] XP?]'
+  - '[root [advmod так] [nsubj что] [case насчёт] XP?]'
 dependency_structure_of_illustration:
   - '[root [nsubj Что] [case насчёт] пятницы?] [root Какие у тебя планы?]'
 comment: |
     'См. не путать с конструкциями 147 как насчёт XP? (Как насчёт выпить?); 687 (а) насчёт NP-Gen – Cl (А насчёт папы – он уехал на рыбалку).'
 equivalents:
-  - norwegian: |
-       Hva gjør du på X?
   - english: |
        What about X? / How about X-ing?
+  - norwegian: |
+       Hva gjør du på X?
 common_fillers:
   - завтра
   - сегодня

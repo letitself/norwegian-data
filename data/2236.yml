@@ -1,11 +1,13 @@
 ---
 record: 2236
-name: 'VP на всякий случай'
-UD_name: 'VP на всякий случай'
+name: 'VP на всякий (пожарный) (случай)'
+UD_name: 'VP на всякий случай/пожарный'
 illustration: 'Возьми зонт на всякий случай.'
 cefr_level: A1
 definitions:
 examples:
+  - |
+       [Можно сделать]Action для себя на всякий пожарный дубликаты ключей.
 morphology:
   - VP
 syntactic_type_of_construction:
