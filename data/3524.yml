@@ -1,0 +1,58 @@
+---
+record: 3524
+name: 'это (для NP-Gen) не Cop новость/новостью'
+UD_name: ''
+illustration: 'Для меня это была не новость, я об этом знал в тот день, когда это произошло.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       То, что из нашего района уезжают семьи, — это не новость.
+  - |
+       Впрочем, для [физиков]Experiencer это не оказалось новостью.
+  - |
+       Для [жителей столицы]Experiencer это уже не новость, а вот в Нижнем Новгороде такая интеллектуальная система появилась впервые.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj это] [obl [case для] NP-Gen] [advmod не] [cop Cop] новостью]'
+  - '[root [nsubj это] [advmod не] [cop Cop] новостью]'
+  - '[root [nsubj это] [obl [case для] NP-Gen] [advmod не] [cop Cop] новость]'
+  - '[root [nsubj это] [advmod не] [cop Cop] новость]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Для] меня] [nsubj это] [cop была] [advmod не] новость, [conj [nsubj я] [obl [case об] этом] знал [obl [case в] [det тот] день, [acl:relcl [advmod когда] [nsubj это] произошло]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       that's not news/this is nothing new
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Objectivity
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Self-evidence
+family:
+  - |
+    ""

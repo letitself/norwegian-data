@@ -1,0 +1,55 @@
+---
+record: 2421
+name: 'NP-Nom/NP-Gen Cop (у NP-Gen) в избытке'
+UD_name: ''
+illustration: 'Зимовка в горах требует упорства, и у рысей этого качества в избытке.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       У [Вас]Possessor [все эти качества]Possessed тоже есть в избытке.
+  - |
+       [Времени]Possessed у [нас]Possessor не в избытке.
+  - |
+       [Еды]Possessed в доме было в избытке.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] избытке]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case у] NP-Gen] [case в] избытке]'
+  - '[root [nsubj NP-Gen] [cop Cop] [case в] избытке]'
+  - '[root [nsubj NP-Gen] [cop Cop] [obl [case у] NP-Gen] [case в] избытке]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Зимовка [nmod [case в] горах]] требует [obl упорства], [conj [cc и] [obl [case у] рысей] [nsubj [det этого] качества] [case в] избытке].]'
+equivalents:
+  - english: |
+       in surplus
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

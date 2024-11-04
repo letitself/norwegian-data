@@ -1,0 +1,52 @@
+---
+record: 3070
+name: 'NP-Nom Cop в своём репертуаре/VP в своём репертуаре'
+UD_name: ''
+illustration: 'Миша в своём репертуаре, опять опаздывает.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Кристина]Agent в своем репертуаре: обиделась на меня и молчит.
+  - |
+       На требование развода он [отреагировал]Action в своём репертуаре.
+  - |
+       Как всегда, в своем репертуаре, [папа]Agent ворчит без повода.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [det своём] репертуаре]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] [det своём] репертуаре]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Миша] [case в] [det своём] репертуаре, [conj [advmod опять] опаздывает].]'
+equivalents:
+  - english: |
+       X’s usual self
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Repeatedly the same
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

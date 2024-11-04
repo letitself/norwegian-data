@@ -1,0 +1,53 @@
+---
+record: 3973
+name: 'бешенный Noun'
+UD_name: ''
+illustration: 'бешенный успех'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       На этой работе ей платили бешенные [деньги]Theme.
+  - |
+       Он ехал по шоссе на бешенной [скорости]Theme.
+  - |
+       Андрей уже несколько лет живёт в бешеном [ритме постоянных поездок]Theme, исколесил уже десятки стран.
+  - |
+       Гумилев действовал с бешеным [натиском]Theme.
+  - |
+       Несмотря на бешеные [цены]Theme, народ хватает билеты с жадностью, залы и поляны заполнены до отказа.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod бешенный] N]'
+dependency_structure_of_illustration:
+  - '[dep [amod бешенный] успех]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1494, 1495, 1496, 1497, 1498, 1499, 1500, 3967, 3968, 3969, 3970, 3971, 3972, 3974, 3975, 3976, 3977'
+equivalents:
+common_fillers:
+  - скорость
+  - успех
+  - деньги
+  - популярность
+  - ритм
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

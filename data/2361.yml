@@ -1,0 +1,53 @@
+---
+record: 2361
+name: 'VP без души'
+UD_name: ''
+illustration: 'Работают-то без души, где нет искренности, там нет творчества.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       В готовке главное ― желание. Без души и [борща не сваришь]Result.
+  - |
+       Песню без души [петь]Activity нельзя, иначе зачем вообще петь?
+  - |
+       Эти полотна все одинаковые, [написанные]Result без души.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] души]]'
+dependency_structure_of_illustration:
+  - '[root Работают-то [obl [case без] души], [parataxis [advmod где] нет [nsubj искренности], [conj [advmod там] нет [nsubj творчества]]].]'
+equivalents:
+  - english: |
+       with no soul
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

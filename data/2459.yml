@@ -1,0 +1,50 @@
+---
+record: 2459
+name: 'VP/NP в розницу'
+UD_name: ''
+illustration: 'В розницу журнал «Наука и жизнь» продаётся в Москве и Санкт-Петербурге.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Покупатель, приобретающий товар в кредит, пользуется теми же правами, что и при [покупке товаров]Action в розницу.
+  - |
+       Всюду взрослым помогают мальчишки: разносят воду и [торгуют]Activity в розницу всякой мелочью.
+  - |
+       Так, например, газета «Труд» [поступает]Action в розницу в количестве всего 500 экземпляров.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] розницу]]'
+  - '[dep NP [nmod [case в] розницу]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] розницу] [nsubj журнал [appos «Наука [conj [cc и] жизнь»]]] продаётся [obl [case в] Москве [conj [cc и] Санкт-Петербурге]].]'
+equivalents:
+  - english: |
+       in retail
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

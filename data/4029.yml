@@ -1,0 +1,47 @@
+---
+record: 4029
+name: 'NP по-своему Adj-short'
+UD_name: ''
+illustration: 'В этой ситуации каждый по-своему прав'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       К тому же [этот горож]Theme был ему по-своему [дорог]Property.
+  - |
+       [Он]Theme, наверное, в каждый из моментов был по-своему [прав]Property.
+  - |
+       Хотя, казалось бы, у каждого давно уж [биография]Theme по-своему [достойна]Property уважения.
+  - |
+       [Каждый из них]Theme по-своему [чужероден]Property советской власти, но именно она делает их существование возможным.
+  - |
+       «Широкому кругу» известны лишь несколько самых ходовых минералов, тогда как их — сотни, и [каждый]Theme по-своему [интересен]Property.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] [advmod по-своему] Adj-short]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det этой] ситуации] [nsubj каждый] [advmod по-своему] прав]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

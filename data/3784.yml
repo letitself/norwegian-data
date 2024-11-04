@@ -1,0 +1,48 @@
+---
+record: 3784
+name: 'NP-Nom дневать и ночевать Prep NP-Loc'
+UD_name: ''
+illustration: 'Сколько можно уже дневать и ночевать на работе? Ну хоть на неделю отпуск возьми!'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Мальчишка]Agent дневал и ночевал [в офисе]Location, ездил в машине с председателем и в доме был своим.
+  - |
+       Они предполагали, что [Ведерников]Agent теперь будет дневать и ночевать [в палате у Журавлевой]Location.
+  - |
+       [Зрители]Agent буквально днюют и ночуют [у включённых едва ли не круглосуточно телевизоров]Location.
+  - |
+       [Этот выдающийся саперный командир]Agent буквально дневал и ночевал [на минных полях]Location и погиб на одном из них в 1943 году.
+  - |
+       Да и [Наполеон]Agent буквально дневал и ночевал [с Копьем Власти]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] дневать [conj [cc и] ночевать][obl [case Prep] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Сколько] можно [xcomp [advmod уже] дневать [conj [cc и] ночевать [obl [case на] работе]]]? [root [discourse Ну] [advmod хоть] [obl [case на] неделю] [obj отпуск] возьми]!'
+equivalents:
+common_fillers:
+  - на работе
+references:
+  - |
+    Баранов, Добровольский 2052
+semantic_types:
+family:
+  - |
+    ""

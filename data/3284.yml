@@ -1,0 +1,52 @@
+---
+record: 3284
+name: 'обидно до слёз(,) Cl'
+UD_name: ''
+illustration: 'Новые джинсы, между прочим, порвались, обидно до слез!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Это было]Situation не то чтобы больно, но обидно до слез.
+  - |
+       [Мама сказала, что я ей завидую.]Situation Было обидно до слез.
+  - |
+       [Пришла сегодня домой с разодранной коленкой.]Situation Новые джинсы, между прочим, обидно до слез!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis обидно [obl [case до] слез]], Cl]'
+  - '[root [advmod обидно [obl [case до] слез]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Новые] джинсы], [parataxis [case между] прочим], порвались, [parataxis обидно [obl [case до] слез]]!]'
+equivalents:
+  - english: |
+       X is so upset X could cry
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

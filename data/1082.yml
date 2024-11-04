@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker en trussel taleren fremsetter mot samtalepartneren. Det er underforstått at det foreligger et krav som samtalepartneren må oppfylle. Taleren meddeler [hvilke planer]Action taleren har til hensikt å iverksette i fall samtalepartneren ikke oppfyller kravet. I noen tilfeller betegner ikke konstruksjonen en trussel, men brukes for å gi større betydning til [et gitt faktum]Situation som samtalepartneren må handle ut fra (eksempel 4 og 5). Det er som om taleren ber taleren om å ha sine planer i synsfeltet.
 examples:
   - |
-       Имей в виду, [буду на тебя жаловаться]Action.
+       [Тридцать первого декабря репетиция]Situation, имей в виду.
   - |
        Имей в виду ― [я буду капризничать]Action.
   - |
-       Проси, что хочешь, но имей в виду, [для твоего соседа я сделаю это же вдвое]Action.
+       Проси, что хочешь, но имей в виду, [для твоего соседа я ничего не сделаю]Action.
   - |
-       Имей в виду, [ты должен себя показать как толковый, исполнительный и ответственный работник]Situation.
+       Имей в виду, [ты должен себя показать как исполнительный и ответственный работник]Situation.
   - |
-       [Тридцать первого декабря репетиция]Situation, имей в виду.
+       Имей в виду, [буду на тебя жаловаться]Action.
 morphology:
   - Imp
   - Cl

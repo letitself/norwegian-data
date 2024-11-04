@@ -1,0 +1,49 @@
+---
+record: 3015
+name: 'NP-Nom/Vp-inf Cop (не) в новинку  (для) NP-Dat/(у) Np-Gen/PP'
+UD_name: ''
+illustration: 'У нас в Ленинграде такие вещи в новинку.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Каналы, которые соединяют крупные речные бассейны или водоёмы,]Theme на Урале были не в новинку.
+  - |
+       [Такая ситуация]Theme для [нашей страны]Addressee в новинку.
+  - |
+       [Зине]Addressee [чувствовать боль]State было не в новинку, но обезболивающее ещё не подействовало, и потому она довольно остро переживала волны боли.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

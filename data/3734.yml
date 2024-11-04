@@ -1,0 +1,49 @@
+---
+record: 3734
+name: 'NP-Dat (NP-Nom) до лампочки'
+UD_name: ''
+illustration: 'Они ничего не читают, им эта классика до лампочки.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Политика]Stimulus всегда была [им]Experiencer до лампочки.
+  - |
+       Я этого не боюсь, [мне]Experiencer до лампочки.
+  - |
+       И хотя женщины разделись, [мужчинам]Experiencer до лампочки.
+  - |
+       [Музыка]Stimulus, любая музыка, была [ему]Experiencer до лампочки.
+  - |
+       Власти пребывают между состояниями полного бессилия и когда [всё]Stimulus до лампочки.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] [nsubj NP-Nom] [case до] лампочки]'
+  - '[root [iobj NP-Dat] [case до] лампочки]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] [obj ничего] [advmod не] читают, [parataxis [iobj им] [nsubj [det эта] классика] [case до] лампочки].]'
+equivalents:
+common_fillers:
+  - всё
+references:
+  - |
+    Баранов, Добровольский 2014
+semantic_types:
+family:
+  - |
+    ""

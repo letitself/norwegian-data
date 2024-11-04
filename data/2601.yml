@@ -1,0 +1,50 @@
+---
+record: 2601
+name: 'VP-Ipfv за обе щеки'
+UD_name: ''
+illustration: 'Уплетает она, по правде сказать, за обе щеки'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Четыре дня я за обе щеки [вкушал уже подзабытые горячие яства с семейного стола]Activity.
+  - |
+       Еще вчера мы [паштет ели]Activity за обе щеки, а сейчас вдруг говорим, что я его ненавижу.
+  - |
+       Валерий сидел на кухне в расстегнутой рубахе и за обе щеки [уплетал жареную цветную капусту с грибами]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP-Ipfv [obl [case за] [nummod обе] щеки]]'
+dependency_structure_of_illustration:
+  - '[root Уплетает [nsubj она], [parataxis [obl [case по] правде] сказать], [obl [case за] [nummod обе] щеки]]'
+equivalents:
+  - english: |
+       stuff X’s face
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

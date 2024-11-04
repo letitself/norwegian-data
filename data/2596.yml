@@ -1,0 +1,59 @@
+---
+record: 2596
+name: 'VP/NP-Nom Cop за каждым углом'
+UD_name: ''
+illustration: 'А опасность караулила буквально за каждым углом'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Осознание того, что опасность [подстерегает тебя]Action за каждым углом является причиной постоянного подсознательного напряжения.
+  - |
+       За каждым углом мог кто-то [прятаться]Action, каждую минуту могло что-то случиться ― непредвиденное и ужасное.
+  - |
+       Как тут не вспомнить о [смерти]Theme? ― думал Фома, плетясь за Доктором. ― Да [она]Theme тут за каждым углом!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] [det каждым] углом]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case за] [det каждым] углом]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj опасность] караулила [obl [advmod буквально] [case за] [det каждым] углом]]'
+equivalents:
+  - english: |
+       around every corner
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Frequentative
+  - type: Quantification
+    subtypes:
+      - type: Universal
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 2933
+name: 'VP со всех ног'
+UD_name: ''
+illustration: 'Из глаз Веры хлынули слезы, она со всех ног бросилась к матери.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Когда пса звала Мария, он [летел к ней]Action со всех ног, а если его подзывал Антуан, шел к нему не спеша.
+  - |
+       А теперь [беги]Activity со всех ног, свинья, пока я тебя не убил.
+  - |
+       Шахматная королева из «Алисы в Зазеркалье» говорит, что в их стране, чтобы оставаться на месте, нужно [бежать]Activity со всех ног.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [det всех] ног]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       at full pelt
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

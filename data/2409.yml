@@ -1,0 +1,51 @@
+---
+record: 2409
+name: 'NP-Nom Cop в долгу (у NP-Gen/перед NP-Ins)'
+UD_name: ''
+illustration: 'Я в долгу у отца вашего мужа.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Я]Participant не люблю быть в долгу.
+  - |
+       Общество тебя использовало и выкинуло, и [мы]Participant за это перед [тобой]Beneficiary в долгу.
+  - |
+       Дайте мне все записи, и [я]Participant буду у [вас]Beneficiary в долгу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] долгу]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] долгу [obl [case у] NP-Gen]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] долгу [obl [case перед] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [case в] долгу [obl [case у] отца [nmod [det вашего] мужа]].]'
+equivalents:
+  - english: |
+       to owe X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

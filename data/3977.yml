@@ -1,0 +1,45 @@
+---
+record: 3977
+name: 'славный NP'
+UD_name: ''
+illustration: 'славный корабль'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Повар наш]Theme славный, кормит хорошо.
+  - |
+       Роксолан был весьма сему рад, ибо он имел у себя славного [богатырского коня,]Theme на котором сам не мог ездить и который остался ему после отца его
+  - |
+       Ваше пианино
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[dep [amod славный] N]'
+dependency_structure_of_illustration:
+  - '[dep [amod славный] корабль]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1494, 1495, 1496, 1497, 1498, 1499, 1500, 3967, 3968, 3969, 3970, 3971, 3972, 3973, 3974, 3975, 3976'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Рахилина Е. В., Рыжова Д. А. Славный корабль - омулевая бочка... К микро-истории семантических переходов // Труды института русского языка им. В.В. Виноградова. 2019. № 20. С. 241-256.
+semantic_types:
+family:
+  - |
+    ""

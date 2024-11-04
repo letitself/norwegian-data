@@ -1,0 +1,64 @@
+---
+record: 3412
+name: 'NP-Nom Cop на очереди (Adj-Nom)'
+UD_name: ''
+illustration: 'Ваня уже зашел в кабинет, следующей на очереди была я.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Теперь на очереди самое страшное — [экзамен]Situation.
+  - |
+       Полицейский опросил всех жителей района, на очереди был [Никита]Theme.
+  - |
+       Теперь на очереди стоит [выполнение второй задачи]Action.
+  - |
+       На очереди стоял [вопрос распределения обязанностей]Action.
+  - |
+       На очереди ― [доказательство знаменитой теоремы Пифагора на шахматной доске]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case на] очереди] Adj-Nom]'
+  - '[dep [nsubj NP-Nom] [cop Cop] [case на] очереди]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ваня] [advmod уже] зашел [obl [case в] кабинет], [conj следующей [obl [case на] очереди] [cop была] [nsubj я]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       in line
+common_fillers:
+  - первый
+  - следующий
+  - стоять
+references:
+  - |
+    
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

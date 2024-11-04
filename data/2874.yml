@@ -1,0 +1,55 @@
+---
+record: 2874
+name: 'VP с чужих слов'
+UD_name: ''
+illustration: 'Маша узнала о случившемся с чужих слов.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Все это я в общем-то [знаю]State с чужих слов, а вот что я помню сам.
+  - |
+       Всё это я, конечно, [рассказываю]Action с чужих слов, может быть, в действительности это было не совсем так, а как-нибудь по-другому.
+  - |
+       Сам я книгу не читал и на презентации не был, поэтому [пишу]Activity с чужих слов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] [amod чужих] слов]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from other people's words
+common_fillers:
+  - расказывать
+  - говорить
+  - писать
+  - передать
+  - знать
+references:
+  - |
+    
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+  - type: Source of information
+family:
+  - |
+    ""

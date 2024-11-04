@@ -1,0 +1,57 @@
+---
+record: 3528
+name: 'NP-Nom ещё не Cop NP-Nom'
+UD_name: ''
+illustration: 'Школьные занятия ещё не работа, а только лишь подготовка к ней.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Как часто повторял Сахаров, «[нереализованная идея]Comparee – ещё не [идея]Standard».
+  - |
+       Но [это]Comparee ещё не [всё]Standard. До вершины скалы три-четыре метра подъёма.
+  - |
+       [Замужество]Cause ещё не станет [поводом ограничивать своё общение с противоположным полом]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod еще] [advmod не] [cop Cop] NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod школьные] занятия] [advmod ещё] [advmod не] работа, [conj [cc а] [advmod [advmod только] лишь] подготовка [nmod [case к] ней]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is not yet Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Phase of action
+    subtypes:
+      - type: Cunctative
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3846
+name: 'VP со своей колокольни'
+UD_name: ''
+illustration: 'Каждый, что называется, судит со своей колокольни.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Я [подходила]Activity со своей колокольни, у нас есть до 800 минут бесплатных, поэтому меня лично не грузит если дочка пользуется только мобильником.
+  - |
+       Нельзя на все [смотреть]Activity со своей колокольни.
+  - |
+       Большинство выступающих [рассматривали проблему]Activity, что называется, со своей колокольни: если дадут что-то, то сделаю вдвое больше.
+  - |
+       Когда будете [судить меня]Activity со своей колокольни, смотрите, не упадите с неё сами…
+  - |
+       Все верно, я [несу пургу]Activity со своей колокольни, если так ты называешь собственное мнение.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case со] [dep своей] колокольни]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Каждый], [parataxis [mark что] называется], судит [obl [case со] [det своей] колокольни]].'
+equivalents:
+common_fillers:
+  - судить
+  - смотреть
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

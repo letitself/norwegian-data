@@ -1,11 +1,21 @@
 ---
 record: 1766
-name: 'я/мы не Verb-Prs и не Verb-Prs/Verb-Fut VP-Inf'
+name: 'NP-Nom не Verb-Prs и не Verb-Prs/Verb-Fut VP-Inf'
 UD_name: 'я/мы не V-Pres и не V-Pres/V-Fut VP-Inf'
 illustration: 'Я не хочу и не буду об этом говорить.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Не [хочу]State и не [буду]State [я]Participant [делать то, что вы от меня хотите.]Activity
+  - |
+       [Пить с вами]Activity [я]Participant не [хочу]State и не [буду.]State
+  - |
+       [Рассказывать об этом]Action [я]Participant не [хочу]State и не [стану.]Event
+  - |
+       А [я]Participant не [хочу]State и не [стану]Event [обращать внимания.]State
+  - |
+       [Я]Participant лично [так жить]State не [хочу]State и не [буду.]State
 morphology:
   - Verb
   - Prs

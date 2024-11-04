@@ -1,0 +1,48 @@
+---
+record: 3034
+name: '(каждый) NP-Nom Cop на счету (у NP-Gen)'
+UD_name: ''
+illustration: 'Денег мало ― и каждый цент будет на счету.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Вот у [генерала]Participant Гиндина на стройке ― [каждый кирпич]Theme на счету, ― сказал Скворцов.
+  - |
+       Мы пошли в фруктовый сад, и там этот гость оборвал какую-то редкостную сливу, [плоды]Theme которой были у [дяди]Participant на счету.
+  - |
+       Давай, Костя, гони, [каждая минута]Theme на счету!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 3920
+name: 'вращаться в кругу/круге NP-Gen / Adj кругах'
+UD_name: ''
+illustration: 'Он вращался в кругу местной интеллигенции, где и познакомился со своей будущей женой.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Отзывы были весьма различны, но по мере того, как сведения становились многочисленнее и точнее, заключения ученых джентльменов начинали вращаться в круге [все более ограниченном]Status.
+  - |
+       Вращаясь в кругу [ингушской интеллигенции]Status, он и увидел однажды на чьей-то свадьбе Макку и влюбился в нее с первого взгляда.
+  - |
+       Было непостижимо, как в уральском городе обычный инженер смог так изучить язык, бытовую культуру, немецкий военный обиход, что свободно вращался в кругу [офицеров третьего рейха]Status и не попался.
+  - |
+       Даже нашей компании, несмотря на то, что я достаточно долго вращаюсь в [деловых]Status кругах, пришлось весь первый год барахтаться самостоятельно, без средств, пока не нашелся инвестор.
+  - |
+       Наталья Михайловна вращалась в [интеллектуальных]Status кругах, которые критически относились к брежневскому режиму.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root вращаться [obl [case в] кругу [nmod NP-Gen]]]'
+  - '[root вращаться [obl [case в] круге [nmod NP-Gen]]]'
+  - '[root вращаться [obl [case в] [amod Adj] кругах]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] вращался [obl [case в] кругу [nmod [amod местной] интеллигенции], [acl [mark где] [cc и] познакомился [obl [case со] [det своей] [amod будущей] женой]]].]'
+comment: |
+    'дочка 1727 VP в кругу NP-Gen - Провести вечер в кругу семьи'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

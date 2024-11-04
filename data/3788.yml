@@ -1,0 +1,51 @@
+---
+record: 3788
+name: 'VP NP-Acc как сидорову козу'
+UD_name: ''
+illustration: 'Гоняет меня отец как сидорову козу.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Послала мальчиков, они ее в гараж привели, юбчонку задрали, и я сама [ее]Maleficiary [выдрала]Action как сидорову козу.
+  - |
+       Шура [ее]Maleficiary трое суток [драл]Activity, как сидорову козу!
+  - |
+       В начале его карьеры еще можно было [его]Maleficiary [выпороть]Action как Сидорову козу!
+  - |
+       Вообще плотные повязки бинтовые на лапы и [драть]Activity как сидорову козу, если опять асфальт копать будет!
+  - |
+       — Да, если увижу, что ты куришь — [выпорю]Action, как Сидорову козу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - conjunction
+  - noun
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [obj NP-Acc][obl [mark как][amod сидорову] козу]]'
+dependency_structure_of_illustration:
+  - '[root Гоняет [obj меня] [nsubj отец] [obl [mark как] [amod сидорову] козу]].'
+equivalents:
+common_fillers:
+  - выпороть
+  - выдрать
+  - гонять
+references:
+  - |
+    Баранов, Добровольский 2056
+semantic_types:
+family:
+  - |
+    ""

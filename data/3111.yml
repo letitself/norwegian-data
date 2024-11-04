@@ -1,0 +1,53 @@
+---
+record: 3111
+name: 'VP в минусе'
+UD_name: ''
+illustration: 'Зарплаты не было. Он был в минусе - денег не хватало даже на еду.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Хозяин штрафовал. Саша постоянно [оказывался]Event в минусе.
+  - |
+       Самую большую зарплату получила Лариса. Многие вообще ничего не получили, более того ― [оказались]Event в минусе.
+  - |
+       Рынок в данном сегменте пока [находится]State в минусе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] минусе]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [cop был] [case в] минусе - [conj [nsubj денег] [advmod не] хватало [obl [advmod даже] [case на] еду]].]'
+equivalents:
+  - english: |
+       be in the red
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Measure
+    subtypes:
+      - type: Money
+family:
+  - |
+    ""

@@ -6,6 +6,16 @@ illustration: 'Я разволновалась. –  А вот это зря. П
 cefr_level: B2
 definitions:
 examples:
+  - |
+       А вот это [ты]Addressee зря, [на нас не надо было показывать.]ContentOfSpeech
+  - |
+       Вот это [я]Speaker зря сделал... [Теперь меня ждёт наказание.]ContentOfSpeech
+  - |
+       Вот это [он]Addressee зря сказал ― [что разговор окончен.]ContentOfSpeech
+  - |
+       А вот это [он]Addressee зря маме рассказал.
+  - |
+       А вот это [ты]Addressee зря ее позвал на вечеринку.
 morphology:
   - PronPers
   - Cl

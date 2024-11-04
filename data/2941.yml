@@ -1,0 +1,50 @@
+---
+record: 2941
+name: 'NP-Dat Cop сто лет в обед'
+UD_name: ''
+illustration: 'Между делом, он объяснил мне вполголоса, что этой белокурой Мерилин Монро ― сто лет в обед.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Ей]Participant уже сто лет в обед, а она шепотом спрашивает у семидесятилетней подруги: «Ты не дашь ли мне немножко ваты?»
+  - |
+       Да что вы, [этой шляпе]Theme сто лет в обед, вы каждый день ее видите, только внимания не обращали.
+  - |
+       У кого ж ты собрался взять этот учебник, [которому]Theme сто лет в обед?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       for ages
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Age
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 2634
+name: 'VP/NP-Nom Cop на автопилоте'
+UD_name: ''
+illustration: 'Лекцию, конечно, уже никто не слушал, включая преподавателя, явно вещавшего на автопилоте'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Мы с матерью [делали]Activity всё, что требуется, но как-то на автопилоте.
+  - |
+       [Я]Participant был уже на автопилоте и хотел одного ― закрыть глаза.
+  - |
+       Когда сын приходит со школы, у него столько впечатлений, что [всё делается]Activity на автопилоте.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] автопилоте]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] автопилоте]'
+dependency_structure_of_illustration:
+  - '[root [obj Лекцию], [parataxis конечно], [advmod уже] [nsubj никто] [advmod не] слушал, [advcl включая [obj преподавателя, [acl [advmod явно] вещавшего [obl [case на] автопилоте]]]]]'
+equivalents:
+  - english: |
+       on autopilot
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

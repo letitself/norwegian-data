@@ -1,0 +1,53 @@
+---
+record: 2737
+name: 'VP не переводя дыхания/дыхание'
+UD_name: ''
+illustration: 'Казалось, она могла говорить, не переводя дыхания'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Дети отвечают так, будто весь предыдущий урок [слушали]Activity, не переводя дыхания.
+  - |
+       Потом, не переводя дыхания, Валера [изложил свою точку зрения на существующий порядок вещей]Action.
+  - |
+       В ужасе она вырвала руку и [бросилась бежать до самой гимназии]Action, не переводя дыхания.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Converb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advcl [advmod не] переводя [obj дыхания]]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Казалось], [nsubj она] могла [xcomp говорить, [advcl [advmod не] переводя [obj дыхания]]]]'
+equivalents:
+  - english: |
+       without taking a breath
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

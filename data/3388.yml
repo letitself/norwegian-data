@@ -1,0 +1,51 @@
+---
+record: 3388
+name: 'VP на себе/ с себя груз/бремя NP-Gen'
+UD_name: ''
+illustration: 'Женщины вышли на работу, продолжая нести на себе груз забот по дому.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Вся земная биота, [несет]State на себе груз [вредоносного влияния токсикантов и аллергенов.]Theme
+  - |
+       Он был потрясен, он снова [чувствовал]State на себе груз [проклятия и отверженности.]Theme
+  - |
+       Хорошо, конечно, что я [сбросил]Action с себя груз [привязанностей.]Theme
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] себе] [obj груз [nmod NP-Gen]]]'
+  - '[root VP [obl [case с] себя] [obj груз [nmod NP-Gen]]]'
+  - '[root VP [obl [case на] себе] [obj бремя [nmod NP-Gen]]]'
+  - '[root VP [obl [case с] себя] [obj бремя [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Женщины] вышли [obl [case на] работу], [advcl продолжая [xcomp нести [obl [case на] себе] [obj груз [nmod забот [nmod [case по] дому]]]]].]'
+equivalents:
+  - english: |
+       chitchat
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

@@ -1,0 +1,64 @@
+---
+record: 3420
+name: 'это Cop не похоже на Х-Acc'
+UD_name: ''
+illustration: 'Да, на меня это не похоже. Но вдруг так всё опротивело, что ничего не хочется.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       С ума она, что ли, сошла? На [неё]Standard это не похоже.
+  - |
+       И это не похоже на [немцев]Standard, которые умели предусмотреть все мелочи.
+  - |
+       Согласитесь, что это не похоже на [катастрофу]Standard
+  - |
+       ― Что-то это не похоже на [пожар]Standard, ― говорит Иван, Пашкин отец.
+  - |
+       ― Это на [тебя]Standard не похоже, ― согласился Иван.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Constuction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Negation
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj это] [cop Cop] [advmod не] похоже [obl [case на] X-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Да], [obl [case на] меня] [nsubj это] [advmod не] похоже.]'
+comment: |
+    'См. близкую конструкцию 7.'
+equivalents:
+  - english: |
+       that's unlike X/that's out of character for X
+common_fillers:
+  - как
+  - совсем
+  - так
+  - него
+  - тебя
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

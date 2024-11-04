@@ -1,0 +1,54 @@
+---
+record: 2546
+name: 'VP из рук вон плохо'
+UD_name: ''
+illustration: 'Свою работу он делал из рук вон плохо.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Мы, конечно, не совсем опозорились, но [станцевали]Action из рук вон плохо.
+  - |
+       В последние дни [дела у Виолетты шли]Action из рук вон плохо.
+  - |
+       Он говорит, что [разработка этой операции произведена]Result из рук вон плохо.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod [obl [case из] рук] вон] плохо]]'
+dependency_structure_of_illustration:
+  - '[root [obj [det Свою] работу] [nsubj он] делал [advmod [advmod [obl [case из] рук] вон] плохо].]'
+equivalents:
+  - english: |
+       abominable
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3215
+name: 'на NP-Loc лица нет'
+UD_name: ''
+illustration: 'Что с тобой? На тебе лица нет.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Ее, бедную, всю трясло ― пуховик порван, на самой лица нет…
+  - |
+       На мэре города Диабали господине Умаре Диаките просто лица нет.
+  - |
+       На Роналду лица не было, его команда проиграла 0: 4 в матче, в котором все складывалось против португальцев.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case на] NP-Loc] [nsubj лица] нет]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] тебе] [nsubj лица] нет.]'
+equivalents:
+  - english: |
+       X is as white as a sheet
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

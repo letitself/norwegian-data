@@ -6,6 +6,14 @@ illustration: 'Нам две чашки чая.'
 cefr_level: A2
 definitions:
 examples:
+  - |
+       Вы уже получили [два]Quantity [кило]Measure [колбасы!]Theme
+  - |
+       За презентацией последуют [15]Quantity [минут]Measure [вопросов.]Theme
+  - |
+       В выходные дни на дорогах города действовало [155]Quantity [единиц]Measure [автотранспорта.]Theme
+  - |
+       Используйте букет трав: [3]Quantity [веточки]Measure [петрушки,]Theme [2]Quantity [веточки]Measure [тимьяна,]Theme [1 ]Quantity [лист]Measure [сельдерея,]Theme 1 лавровый лист, связанные вместе.
 morphology:
   - NumCrd
   - NP

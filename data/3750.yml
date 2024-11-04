@@ -1,0 +1,53 @@
+---
+record: 3750
+name: 'браться/взяться за NP-Acc'
+UD_name: ''
+illustration: 'Во время войны даже мирные люди берутся за оружие.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Надо было только открыть томик Пушкина и прочитать, прежде чем браться за [постановку]Patient.
+  - |
+       Спорщики браться за [меч]Patient не решались.
+  - |
+       А так как с первым поделать ничего нельзя, то решили взяться за [второе]Patient.
+  - |
+       Впервые в жизни взялся за [подобную работу]Patient и сразу вышло дважды за месяц.
+  - |
+       Власти всерьёз решили взяться за [реализацию этой идеи]Patient.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root взяться [obl [case за] NP-Acc]]'
+  - '[root браться [obl [case за] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Во] время [nmod войны]] [advmod даже] [nsubj [amod мирные] люди] берутся [obl [case за] оружие].]'
+equivalents:
+common_fillers:
+  - дело
+  - работу
+  - оружие
+  - мечи
+references:
+  - |
+    Баранов, Добровольский 2025
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3369
+name: 'VP/NP сквозь/через призму NP-Gen'
+UD_name: ''
+illustration: 'Западный мир сквозь призму российского телевидения.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Гамлет [смотрит на жизнь]State сквозь призму [своей мечты о прекрасном.]Theme
+  - |
+       До тех пор мир будет [ощущаться]State сквозь призму [эгоистической погрешности.]Theme
+  - |
+       Они [рассматривают все происходящее]State сквозь призму [творчества.]Theme
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case сквозь] призму [nmod NP-Gen]]]'
+  - '[root VP [obl [case через] призму [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case сквозь] призму [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case через] призму [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [amod западный] мир [nmod [case сквозь] призму [nmod [amod российского] телевидения]].]'
+equivalents:
+  - english: |
+       to shine as
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    ""

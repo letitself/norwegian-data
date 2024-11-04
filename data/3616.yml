@@ -1,0 +1,56 @@
+---
+record: 3616
+name: 'VP, что NP-Dat причитаться-3Sg/полагаться-3Sg'
+UD_name: ''
+illustration: 'Он хочет получить сполна все, что ему причитается.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       При увольнении работник [получит все]Result, что [ему]Beneficiary причитается.
+  - |
+       Врачи, которые рискуют своим здоровьем, [должны получить все]Result, что [им]Beneficiary полагается.
+  - |
+       Чиновник [берет то]Activity, что [ему]Beneficiary причитается при данном хозяйственном строе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subject
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP, [acl:relcl [nsubj что] [iobj NP-Dat] причитаться-3Sg]]'
+  - '[root VP, [acl:relcl [nsubj что] [iobj NP-Dat] полагаться-3Sg]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] хочет [xcomp получить [advmod сполна] [obj все, [acl:relcl [nsubj что] [iobj ему] причитается]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       P that I’m owed
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Inclusive
+  - type: Possession
+  - type: Temporary characteristics
+    subtypes:
+      - type: Appropriateness
+family:
+  - |
+    ""

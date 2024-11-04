@@ -1,0 +1,53 @@
+---
+record: 2897
+name: 'VP с прохладцей'
+UD_name: ''
+illustration: 'Горячие дискуссии шли иногда в присутствии Паули, но тот слушал с прохладцей.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Слишком велика конкуренция, слишком много желающих попасть на твое место, чтобы ты мог работать с прохладцей.
+  - |
+       Поэтому в образованной Европе к рису относятся с прохладцей.
+  - |
+       До встречи, ― с прохладцей ответил ему галерист.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] прохладцей]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       coldly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2890
+name: 'VP с первых шагов (NP-Gen/PP)'
+UD_name: ''
+illustration: 'С первых шагов она показала, что готова советоваться с гражданским обществом.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Но, с другой стороны, я с первых шагов [не имел права на ошибки]State.
+  - |
+       Так с первых шагов [в чужом городе]Location [нашлась у меня родственная душа]Event.
+  - |
+       Добавлю, что с первых шагов [работы в институте]Activity он [поддерживал самые тесные научные и личные контакты с академиком Варгой]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from the very beginning
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3326
+name: 'под маркой NP-Gen'
+UD_name: ''
+illustration: 'Теперь надо под маркой спасения журнала уволить ещё и Петю.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я все больше склоняюсь перед обаянием французских ресторанов. Парижские радуют демократизмом цен, провинциальные ― неторопливостью обслуживания. И все, ну абсолютно все, ― тем, что знаменито в мире под маркой ["французская кухня".]Rephrasing
+  - |
+       В сорок восьмом году под маркой [борьбы с космополитизмом]Rephrasing началось гонение на всё иностранное.
+  - |
+       Как уж там удается в США или Западной Европе под маркой [«национальных интересов»]Rephrasing непротиворечиво соединить интересы правящего класса и остального общества, вопрос отдельный.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep obl [case под] маркой [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Теперь] надо [xcomp [obl [case под] маркой [nmod спасения [nmod журнала]]] уволить [obj [advmod ещё] [advmod и] Петю]].]'
+equivalents:
+  - english: |
+       under surveillance
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+  - type: Salient property
+    subtypes:
+      - type: Naming
+family:
+  - |
+    ""

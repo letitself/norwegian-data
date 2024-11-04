@@ -1,0 +1,51 @@
+---
+record: 3147
+name: 'NP-Nom выеденного яйца не стоить'
+UD_name: ''
+illustration: 'Да это задание выеденного яйца не стоит - сделать пять минут..'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Да, факс получил, [вопрос]Theme выеденного яйца не стоит, сегодня вечером он согласует с шефом ответ и завтра передаст в редакцию ― "ровно пятнадцать строк, как вы и просили".
+  - |
+       Какие слухи, если все понятно и [дело]Theme не стоит выеденного яйца?
+  - |
+       Изначально [конфликт]Theme выеденного яйца не стоил ― издатель не указал оригинальных переводчиков книги, чьи кустарные творения (может быть, и более точные в каких-то отношениях) обработал Мандельштам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obj [amod выеденного] яйца] [advmod не] стоить]'
+dependency_structure_of_illustration:
+  - '[root [cc Да] [nsubj [det это] задание] [obj [amod выеденного] яйца] [advmod не] стоит - [parataxis сделать [obl [nummod:gov пять] минут]].]'
+equivalents:
+  - english: |
+       isn’t worth a damn
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

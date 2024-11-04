@@ -1,0 +1,50 @@
+---
+record: 3515
+name: 'VP ведь'
+UD_name: ''
+illustration: 'Ведь литература гораздо богаче кино.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Перспектива новой гонки вооружений совершенно ясная, а я ведь [видел старую]Action.
+  - |
+       Ведь [растут же цветы в оранжереях и живут птицы в клетках]Situation!
+  - |
+       Она не говорит мне, что ей это не нравится, но я ведь [чувствую, вижу]State…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod ведь]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Ведь] [nsubj литература] [advmod гораздо] богаче [obl кино].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       in fact/surely
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+family:
+  - |
+    ""

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker [en deltakers]Agent positive innstilling til [én]Participant av flere deltakere som er i opposisjon til hverandre. Det er underforstått at det finnes en rekke alternativer, og deltakeren gir klart uttrykk for sin anerkjennelse og støtte til én av kandidatene. Deltakeren som tar en av konkurrentenes parti, kan være såvel en person som en [abstrakt kraft (for eksempel en lov, medgang, sympati o.a) eller en organisasjon (retten)]Theme, som personifiseres i denne konstruksjonen.
 examples:
   - |
-       Альфред Нобель был шведским гражданином, но большую часть жизни провёл во Франции, Германии и России, где находились сотни его заводов. [Французский суд]Theme был на стороне [родственников Нобеля]Participant, тогда как шведский был готов уважить последнюю волю завещателя.
+       [Французский суд]Theme был на стороне [родственников Нобеля]Participant, тогда как шведский был готов уважить последнюю волю завещателя.
   - |
        В деревне мы часто дрались с переселенцами, в школе ― класс на класс или "за мальчиков" и "за девочек". [Я]Agent почему-то всегда был на стороне [девочек]Participant.
   - |
-       Но неужели вам не приходило в голову, что в случае смерти вашего мужа [закон]Theme будет на стороне [Семена Семеновича]Participant, а никак не Оленьки?
-  - |
-       Но если бы у генерала Деникина был даже один солдат, то и тогда [симпатии наши]Theme будут всё-таки на [его]Participant стороне: он был одним из немногих генералов, который при невероятно трудныхусловиях остался верным идее союза…
-  - |
        Потом началась битва волков с кабанами.  Упрямые кабаны отчаянно сопротивлялись, защищая себя и своё потомство, но [удача]Theme была не на [их]Participant стороне.
+  - |
+       Но если бы у генерала был даже один солдат, то и тогда [симпатии наши]Theme были бы всё-таки на [его]Participant стороне.
+  - |
+       В случае смерти вашего мужа [закон]Theme будет на стороне [Семена]Participant, а никак не Оли?
 morphology:
   - NP
   - Nom

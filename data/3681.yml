@@ -1,0 +1,53 @@
+---
+record: 3681
+name: 'VP по накатанной (схеме/колее/дорожке)'
+UD_name: ''
+illustration: 'Дальше все пойдет по накатанной.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Наш бизнес [развивался]Activity по накатанной.
+  - |
+       Вам нужно помириться, а дальше уже всё [пойдет]Activity по накатанной.
+  - |
+       День, начавшийся так удачно, [покатился]Activity по накатанной колее.
+  - |
+       После этого у Васи дела [пошли]Activity по накатанной дорожке.
+  - |
+       Кажется, что пресс-конференция срежиссирована и [катится]Activity по накатанной колее.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Participle
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] накатанной]]'
+  - '[root VP [obl [case по] [amod накатанной] схеме]]'
+  - '[root VP [obl [case по] [amod накатанной] колее]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Дальше] [nsubj всё] пойдёт [obl [case по] накатанной]]'
+equivalents:
+common_fillers:
+  - идти
+  - катиться
+  - двигаться
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

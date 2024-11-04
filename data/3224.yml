@@ -1,0 +1,52 @@
+---
+record: 3224
+name: 'NP-Acc можно Cop пересчитать по пальцам (одной руки)'
+UD_name: ''
+illustration: 'Философов, обладавших литературным даром, в истории можно пересчитать по пальцам.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Сейчас в Москве по пальцам можно перечесть многопрофильные клиники.
+  - |
+       Ресторанный бизнес здесь вообще довольно странный: хорошие рестораны можно пересчитать по пальцам одной руки.
+  - |
+       Перед отъездом он устроил вечеринку для самих близких, которых, как оказалось, можно было пересчитать по пальцам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obj NP-Acc] можно [cop Cop] [csubj пересчитать [obl [case по] пальцам]]]'
+  - '[root [obj NP-Acc] можно [cop Cop] [csubj пересчитать [obl [case по] пальцам [nmod [nummod одной] руки]]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Философов, [acl обладавших [obl [amod литературным] даром]], [obl [case в] истории] можно [csubj пересчитать [obl [case по] пальцам]].]'
+equivalents:
+  - english: |
+       can be counted on the fingers of one hand
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

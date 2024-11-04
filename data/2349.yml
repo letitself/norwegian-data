@@ -43,10 +43,10 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - '[root [parataxis скажем]'
-  - 'Cl]'
+  - '[parataxis скажем], [dep XP]'
+  - '[root [parataxis скажем], Cl]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root [obl Вариантов] предлагается [nsubj множество].] [root [parataxis Скажем], рассматривается [nsubj [amod китайская] модель [nmod образования]].]'
 comment: |
     'No comment yet'
 equivalents:

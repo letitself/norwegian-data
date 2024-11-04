@@ -1,0 +1,45 @@
+---
+record: 3986
+name: 'XP — не NP-Gen ума дело'
+UD_name: ''
+illustration: 'А где и с кем я по вечерам встречаюсь - это уже не твоего ума дела.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Уж [где он там работу нашел, какую]Theme — это не [вашего]Participant ума дело.
+  - |
+       [Прививки]Theme - не [вашего]Participant ума дело, это медицинский вопрос и его я решила с медиками.
+  - |
+       Мы только отмахивались: не [твоего]Participant ума дело, мал еще, отстань!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj XP] — [advmod не] [nmod [nmod NP-Gen] ума] дело]'
+dependency_structure_of_illustration:
+  - '[root [csubj [cc А] [advmod где [conj [cc и] [case с] кем]] [nsubj я] [obl [case по] вечерам] встречаюсь] - [expl это] [advmod уже] [nmod [advmod не] [amod твоего] ума] дело.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

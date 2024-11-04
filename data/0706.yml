@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren gir [en vurdering]Evaluation av [en annen deltaker]Participant eller [et objekt]Theme og spør om samtalepartneren er enig i denne vurderingen. Taleren forventer at samtalepartneren er enig.
 examples:
+  - |
+       [Вкусный]Property [торт]Topic, правда?
+  - |
+       [Ужасная]Property [погода]Topic, правда?
+  - |
+       [Очень милая]Property [кошка]Topic, правда?
+  - |
+       [Слишком громкая]Property [музыка]Topic, правда?
+  - |
+       [Прекрасный]Property [вид из окна]Topic, правда?
 morphology:
   - Adj
   - Nom

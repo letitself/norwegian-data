@@ -1,0 +1,59 @@
+---
+record: 3628
+name: 'NP-Nom/Pronpers-Nom (Adv/PrepP-Loc) Cop только NP'
+UD_name: ''
+illustration: 'Ты здесь только гостья.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       А [любовь]Theme [здесь]Location только [повод, спусковой крючок]Evaluation.
+  - |
+       Мне кажется, что [остроумие]Theme [здесь]Location только [побочный продукт]Evaluation.
+  - |
+       Но ведь я знаю, что [высочайшее повеление]Theme [тут]Location только [слова]Evaluation, что делается это вовсе не тем царем, который номинально управляет нами, а делается это г-ном Победоносцевым, Рихтером, Муравьевым и т. п.
+  - |
+       У меня [«переход на личности»]Theme всегда только [шутка]Evaluation!
+  - |
+       [Удача]Theme, в конце концов, была только [стечением обстоятельств]Evaluation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: colloquial
+dependency_structure:
+  - '[root [nsubj Pronpers-Nom] [advmod PrepP-Loc] [cop Cop] [advmod только] NP]'
+  - '[root [nsubj Pronpers-Nom] [advmod Adv] [cop Cop] [advmod только] NP]'
+  - '[root [nsubj Pronpers-Nom] [cop Cop] [advmod только] NP]'
+  - '[root [nsubj Pronpers-Nom] [advmod PrepP-Loc] [cop Cop] [advmod только] NP]'
+  - '[root [nsubj NP-Nom] [advmod Adv] [cop Cop] [advmod только] NP]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod только] NP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod здесь] [advmod только] гостья.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is only (a guest here)
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

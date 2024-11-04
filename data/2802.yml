@@ -1,0 +1,49 @@
+---
+record: 2802
+name: 'VP-Ipfv по временам'
+UD_name: ''
+illustration: 'По временам сильные порывы ветра обдавали нас пылью'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Лиза долго огорчалась, даже [плакала]Activity по временам на кухне, особенно когда радио играло.
+  - |
+       Мягкий ветерок [шевелил]Activity по временам мои волосы.
+  - |
+       В разговор мы не вмешивались и только [переглядывались]Activity по временам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from time to time
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Raritive
+family:
+  - |
+    ""

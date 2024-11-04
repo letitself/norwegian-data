@@ -1,0 +1,55 @@
+---
+record: 3907
+name: 'NP-Gen/Adv Cop не счесть'
+UD_name: ''
+illustration: 'У неё родинок не счесть'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       А у Верки подружек — не [счесть]Set.
+  - |
+       Не счесть [алмазов]Set в каменных пещерах!
+  - |
+       Этому островку [лет]Set не счесть, в стороне от его главной дороги сохранился старинный монастырь
+  - |
+       Индия, Китай, Япония — [подобных примеров]Set не счесть.
+  - |
+       Я снова ехал в Ковалец — уже не счесть,[ в который раз:]Manner пятый? шестой?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Gen]/Adv [cop Cop] [advmod не] счесть]'
+  - '[root [advmod Adv] [cop Cop] [advmod не] счесть]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] неё] [nsubj родинок] [advmod не] счесть]'
+comment: |
+    'См. др. количественные конструкции 3851- 3921'
+equivalents:
+common_fillers:
+  - Алмазов
+  - жемчужин
+  - людей
+  - вариантов
+  - примеров
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

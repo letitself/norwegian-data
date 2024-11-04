@@ -1,0 +1,54 @@
+---
+record: 2679
+name: 'VP на краю земли/света'
+UD_name: ''
+illustration: 'Нет, городишко наш затхлый, на краю земли живём, не проникнет сюда луч сознания'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Он и она [жили]Activity на краю земли.
+  - |
+       Мы летим, чтобы своими глазами увидеть, как [работают]Activity пермские нефтяники на краю земли.
+  - |
+       Этот [город]Theme на краю земли дал ему приют и последнюю надежду.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] краю [nmod земли]]]'
+  - '[root VP [obl [case на] краю [nmod света]]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Нет], [nsubj городишко [det наш]] затхлый, [conj [obl [case на] краю [nmod земли]] живём], [conj [advmod не] проникнет [advmod сюда] [nsubj луч [nmod сознания]]]]'
+equivalents:
+  - english: |
+       at the edge of the world
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

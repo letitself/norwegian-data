@@ -6,6 +6,16 @@ illustration: 'Нужно приготовить супа примерно на 
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Люди, посмотревшие этот фильм, разделятся приблизительно на [два]Quantity [лагеря.]Measure
+  - |
+       Каждый из них сделал приблизительно по [100]Quantity [выстрелов.]Measure
+  - |
+       Собрано было 200 экземпляров млекопитающих, группирующихся приблизительно по [20]Quantity [видам.]Measure
+  - |
+       В прошлом году мы перечислили в бюджет РФ более двух миллиардов [рублей,]Measure примерно по [полтора миллиона]Quantity на каждого работающего человека.
+  - |
+       Доля же Соединенных Штатов и Европейского союза составляют примерно по [одной пятой.]Quantity
 morphology:
   - Prep
   - NumCrd
@@ -25,9 +35,9 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[obl [advmod примерно] [case Prep] [nummod NumCrd] NP-Gen]'
+  - '[obl [advmod примерно] [case Prep] NumCrd [NP-Gen]]'
   - '[obl [advmod примерно] [case Prep] NumCrd]'
-  - '[obl [advmod приблизительно] [case Prep] [nummod NumCrd] NP-Gen]'
+  - '[obl [advmod приблизительно] [case Prep] NumCrd [NP-Gen]]'
   - '[obl [advmod приблизительно] [case Prep] NumCrd]'
 dependency_structure_of_illustration:
   - '[root Нужно [csubj приготовить [obj супа [nmod [advmod примерно] [case на] [nummod:gov восемь] порций]]].]'

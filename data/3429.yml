@@ -1,0 +1,55 @@
+---
+record: 3429
+name: 'VP кто где'
+UD_name: ''
+illustration: 'Народу так много, что стульев не хватает, и все сидят кто где.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Все остальные [уселись]Action кто где ― на завалинке, на ступеньках крыльца, на перевернутом ведре и на тачке.
+  - |
+       Дети [плюхались на сиденья]Activity кто где. Только мне с Васей и Дашей оставляли первое сиденье.
+  - |
+       Я спросил об университете ― для нее это была далекое прошлое. Все благополучно окончили, [работают]Activity кто где.
+  - |
+       Я их толком-то и не знаю. [Уснули]Action кто где, притомились...
+  - |
+       Они входили в комнату, [рассаживались]Activity кто где, закуривали сигары.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [advmod кто [advmod где]]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Народу] [advmod так] много, [advmod [mark что] [nsubj стульев] [advmod не] хватает], [conj [cc и] [nsubj все] сидят [advmod кто [advmod где]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       some here, some there/in various places
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3304
+name: 'для NP-Gen/NP-Dat пара пустяков VP-Inf'
+UD_name: ''
+illustration: 'Для меня пара пустяков сочинить на иврите рассказик с заданным набором глаголов'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Забросить камень на крышу]Action ― пара пустяков.
+  - |
+       [Добраться до аэропорта]Action было пара пустяков.
+  - |
+       С упражнениями по ивриту я уже справляюсь одной левой. Для [меня]Agent пара пустяков [сочинить на иврите целый рассказ.]Action
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case для] NP-Gen] пара [nmod пустяков] [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] пара [nmod пустяков] [csubj VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case для] меня] пара [nmod пустяков] [csubj сочинить [obl [case на] иврите] [obj рассказик [nmod [case с] [amod заданным] набором [nmod глаголов]]]].]'
+equivalents:
+  - english: |
+       piece of cake
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    ""

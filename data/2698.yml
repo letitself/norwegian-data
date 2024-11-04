@@ -1,0 +1,55 @@
+---
+record: 2698
+name: 'VP/NP-Nom Cop на очереди'
+UD_name: ''
+illustration: 'На очереди было понимание структуры и функции индивидуальных генов'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       На очереди [покупка уже третьего автомобиля]Theme и делаем мы это в лизинг посредством местного банка.
+  - |
+       На очереди уже стояла [другая задача]Theme ― создание правительства, которому бы доверяло общество.
+  - |
+       На очереди были [допросы сотрудников родильного дома]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] очереди]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] очереди]'
+dependency_structure_of_illustration:
+  - '[root [case На] очереди [cop было] [nsubj понимание [nmod структуры [conj [cc и] функции [nmod [amod индивидуальных] генов]]]]]'
+equivalents:
+  - english: |
+       next
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

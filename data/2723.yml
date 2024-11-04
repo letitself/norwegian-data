@@ -1,0 +1,55 @@
+---
+record: 2723
+name: 'VP на практике'
+UD_name: ''
+illustration: 'Однако на практике всё происходит совсем не так, как в учебнике'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Насколько [эту идею удаётся реализовать]Result на практике?
+  - |
+       [Выполнить]Result на практике данное требование оказывается не очень сложно.
+  - |
+       На практике [получается]Result, что в присяжные идут только те, кто может себе позволить бросить работу и полтора-два месяца сидеть в суде.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] практике]]'
+dependency_structure_of_illustration:
+  - '[root [cc Однако] [obl [case на] практике] [nsubj всё] происходит [advmod [advmod совсем] [advmod не] так], [advcl [mark как] [case в] учебнике]]'
+equivalents:
+  - english: |
+       in practice
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+  - type: Salient property
+    subtypes:
+      - type: Experience
+family:
+  - |
+    ""

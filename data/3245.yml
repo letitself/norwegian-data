@@ -1,0 +1,54 @@
+---
+record: 3245
+name: 'на худой конец, XP/Cl'
+UD_name: ''
+illustration: 'Она хотела свой дом или, на худой конец, квартиру в центре города.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я всегда мечтал быть поэтом или, на худой конец, гидом.
+  - |
+       Хотелось чего-нибудь горячего: мясного бульона или, на худой конец, чая с конфеткой.
+  - |
+       На худой конец, всегда можно было поехать отдыхать в Сочи.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [case на] [amod худой] конец], Cl]'
+  - '[dep [parataxis [case на] [amod худой] конец], XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] хотела [obj [det свой] дом [conj [cc или], [parataxis [case на] [amod худой] конец], квартиру [nmod [case в] центре [nmod города]]]].]'
+equivalents:
+  - english: |
+       at the worst
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+        subtypes:
+          - type: Deviation form the norm
+  - type: Concession
+    subtypes:
+      - type: At least
+family:
+  - |
+    ""

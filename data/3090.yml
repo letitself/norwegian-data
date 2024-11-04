@@ -1,0 +1,49 @@
+---
+record: 3090
+name: 'храни бог/господь NP-Acc'
+UD_name: ''
+illustration: 'Храни Бог вас, ваших родных и близких.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Храни Бог [Россию!]Patient
+  - |
+       Храни Господь [других]Patient от опыта, полученного русским Православием за годы советской власти!
+  - |
+       Что же, будь счастлива, Пиджи. Храни Господь [тебя]Patient от всех напастей.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root храни [nsubj бог] [obj NP-Acc]]'
+  - '[root храни [nsubj господь] [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root Храни [nsubj Бог] [obj вас, [conj [det ваших] родных [conj [cc и] близких]]].]'
+equivalents:
+  - english: |
+       god forbid
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+family:
+  - |
+    ""

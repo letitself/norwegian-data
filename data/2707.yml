@@ -1,0 +1,57 @@
+---
+record: 2707
+name: 'VP/NP-Nom Cop на перепутье/распутье'
+UD_name: ''
+illustration: 'В последние 7 лет страна несколько раз оказывалась на перепутье'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Я [оказался]Event на перепутье этих двух поэтических школ, двух разных традиций.
+  - |
+       Для того дается нам сердце, чтобы на перепутье [прислушаться к его голосу]Action.
+  - |
+       Путник [застигнут сумерками]Event на перепутьи многих дорог, из которых он не знает, какая приведет его домой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] перепутье]]'
+  - '[root VP [obl [case на] распутье]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] перепутье]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] распутье]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod последние] [nummod 7] лет] [nsubj страна] [obl [nummod несколько] раз] оказывалась [obl [case на] перепутье]]'
+equivalents:
+  - english: |
+       on the crossroads
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

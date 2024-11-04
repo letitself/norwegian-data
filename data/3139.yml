@@ -1,0 +1,51 @@
+---
+record: 3139
+name: 'VP все до последний-Gen NP-Gen'
+UD_name: ''
+illustration: 'Деньги, все до последней копейки, были потрачены.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Так хотелось, чтобы хоть немного крема осталось, но мама [истратила]Situation всё до последней [капли.]Theme
+  - |
+       Конечно, я [слышала]Situation все, до последнего [слова,]Theme ― стенка между школьной и жилой половинами была тонкая.
+  - |
+       На радостях мы купили домой большой арбуз, сели вчетвером вокруг стола и [съели его]Situation весь до последнего [ломтика.]Theme
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [dep все [nmod [case до] [amod последний-Gen] NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass Деньги, [appos все [nmod [case до] [amod последней] копейки]]], [aux:pass были] потрачены.]'
+equivalents:
+  - english: |
+       every single one
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3686
+name: 'Cl — и поминай как звали'
+UD_name: ''
+illustration: 'Тебя по голове кто-нибудь ударит — и поминай как звали!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Я его всю ночь развлекал разговорами, а то [заснул бы, попал в аварию]Situation — и поминай как звали!
+  - |
+       [Получит паспорт, разберётся с армией]Situation — и поминай как звали.
+  - |
+       [Да на следующий день меня подстрелят, как воробья]Situation, и поминай, как звали...
+  - |
+       [Ещё бы минут двадцать]Situation, как мне потом объяснил врач, и поминай, как звали.
+  - |
+       [Он вскочил в поезд метро]Situation — и поминай как звали.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root Cl — [parataxis [cc и] поминай [advcl [mark как] звали]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Тебя] [obl [case по] голове] [nsubj кто-нибудь] ударит — [parataxis [cc и] поминай [advcl [mark как] звали]]!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

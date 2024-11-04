@@ -1,0 +1,50 @@
+---
+record: 3959
+name: 'поднять NP-Acc'
+UD_name: ''
+illustration: 'Кто-то из соседей поднял крик, они испугались и убежали.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       В прошлом году в Мали туареги подняли [восстание]Activity и взяли под контроль большую часть страны.
+  - |
+       Они подняли [крик и хохот]Activity вслед убегающему медведю.
+  - |
+       Вернувшиеся к вечеру хозяева квартиры подняли [ор]Activity после того, как увидели похабную надпись у себя на двери.
+  - |
+       Вчера в этой тюрьме заключённые подняли [бунт]Activity.
+  - |
+       Подросток поднял [шум]Activity, на который сбежались его сверстники.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root поднять [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Кто-то [nmod [case из] соседей] поднял [obj крик], [conj [nsubj они] испугались [conj [cc и] убежали]].]'
+equivalents:
+common_fillers:
+  - бунт
+  - восстание
+  - крик
+  - шум
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

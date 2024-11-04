@@ -1,0 +1,49 @@
+---
+record: 3242
+name: 'VP на сон грядущий'
+UD_name: ''
+illustration: 'Хочешь, я тебе почитаю на сон грядущий?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он выпил на сон грядущий рюмку коньяка.
+  - |
+       Она всегда целовала детей на сон грядущий.
+  - |
+       На сон грядущий мы прогуливаемся по аллее с собачкой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP  [obl [case на] сон [amod грядущий]]]'
+dependency_structure_of_illustration:
+  - '[root Хочешь, [conj [nsubj я] [iobj тебе] почитаю [obl [case на] сон [amod грядущий]]].]'
+equivalents:
+  - english: |
+       for a nightcap
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Taxis
+    subtypes:
+      - type: Preceding action
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3837
+name: 'ни/без стыда (и) ни/без совести (у NP-Gen)'
+UD_name: ''
+illustration: 'Ей было чётко сказано: звать только самых главных, самых близких. А она же, похоже, всю деревню позвала. Ни стыда ни совести у проклятой старухи!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Сил моих больше нет! Ни стыда, ни совести у тебя нет!
+  - |
+       Как только люди могут животных бросать? Летом кормят, ласкают. А осенью в город уезжают ― и оставляют здесь одних. Ни стыда ни совести!
+  - |
+       А сами за полторы тыщи продают, ни стыда ни совести.
+  - |
+       Все слова, как об стену горох. Ни стыда, ни совести. И вот, как, как себя с ним вести?!
+  - |
+       У людей, кто это сделал, ни стыда ни совести!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [advmod ни] стыда [conj [advmod ни] совести] [obl [case у] NP-Gen]]'
+  - '[dep [advmod ни] стыда [conj [advmod ни] совести]]'
+  - '[dep [case без] стыда [conj [cc и] [obl [case без] совести]]]'
+  - '[dep [advmod ни] стыда [conj [cc и] [advmod ни] совести]]'
+  - '[dep [advmod ни] стыда [conj [cc и] [advmod ни] совести] [obl [case у] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ей] [aux было] [advmod чётко] сказано: [parataxis звать [advmod только] [obj [det самых] главных, [conj [det самых] близких]]].] [root [cc А] она [advmod же], [parataxis похоже], [obj [det всю] деревню] позвала.] [root [advmod Ни] стыда [conj [advmod ни] совести] [obl [case у] [amod проклятой] старухи]!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2034
+semantic_types:
+family:
+  - |
+    ""

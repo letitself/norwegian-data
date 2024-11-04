@@ -1,0 +1,49 @@
+---
+record: 3804
+name: 'NP превзойти (все) ожидания (NP-Gen)'
+UD_name: ''
+illustration: 'Мероприятие превзошло все ожидания!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Дороги]Stimulus превзошли ожидания — образцовые.
+  - |
+       В 1658 г. заключено было Валиесарское перемирие со Швецией, [условия которого]Stimulus превзошли ожидания [самого царя Алексея]Experiencer.
+  - |
+       Однако [реакция на статью]Stimulus превзошла ожидания [редакции газеты]Experiencer — и полностью изменила жизнь журналиста.
+  - |
+       [Результаты]Stimulus превзошли ожидания, хотя это был далеко не творческий предел Кодзимы.
+  - |
+       В первом туре зимних игр [ребята]Stimulus превзошли все ожидания – одолели две команды за раз.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] превзойти [obj [det все] ожидания]]'
+  - '[root [nsubj NP] превзойти [obj [det все] ожидания] [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мероприятие] превзошло [obj [det все] ожидания]]!'
+equivalents:
+common_fillers:
+  - результаты
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

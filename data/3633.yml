@@ -1,0 +1,53 @@
+---
+record: 3633
+name: 'не стоит (и) говорить, Sconj Cl'
+UD_name: ''
+illustration: 'Думаю, не стоит говорить, насколько эта игра была важна для обоих соперников.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Наверное, не стоит говорить , что [я все равно долго не мог заснуть]ContentOfSpeech.
+  - |
+       В Москве наблюдается рост числа занятых; не стоит говорить, что [будет резкое сокращение рабочих мест]ContentOfSpeech.
+  - |
+       Еще в школе Наташа влюбилась в одноклассника, не стоит и говорить, что [парень потерял голову от любви такой принцессы]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation marker
+  - Verb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] стоит [csubj [advmod и] говорить, [ccomp [dep Sconj] Cl]]]'
+  - '[root [advmod не] стоит [csubj говорить, [ccomp [dep Sconj] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Думаю], [advmod не] стоит [csubj говорить, [ccomp [advmod насколько] [nsubj [det эта] игра] [cop была] важна [obl [case для] [nummod обоих] соперников]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       it doesn’t need to be mentioned
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Self-evidence
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 2559
+name: 'VP как завороженный'
+UD_name: ''
+illustration: 'Когда Оля читала стихи, Петя слушал как завороженный.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Медленно, как завороженный, Саша [обходит машину вокруг]Activity.
+  - |
+       Паша [стоит]Activity как завороженный; узнать бы хоть имя этой красавицы!
+  - |
+       Я и вам кричал, чтобы вы также надели маски, но вы все [были]State как завороженные.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] завороженный]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Когда] [nsubj Оля] читала [obj стихи]], [nsubj Петя] слушал [obl [mark как] завороженный].]'
+equivalents:
+  - english: |
+       enchanted
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

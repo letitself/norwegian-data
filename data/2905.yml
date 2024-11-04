@@ -1,0 +1,52 @@
+---
+record: 2905
+name: 'с течением времени Cl'
+UD_name: ''
+illustration: 'С течением времени его идеи обретали всё большую и большую поддержку.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Многие обиды с течением времени [теряли смысл и актуальность]Event.
+  - |
+       Стратегические ошибки, возможно не всегда заметные сразу, с течением времени [могут иметь масштабные последствия системного характера]Event.
+  - |
+       Нет сомнения, что они с течением времени [обратят внимание на размещение информации на сайтах страховщиков]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with time
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Gradual development
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2363
+name: 'VP без зазрения совести'
+UD_name: ''
+illustration: 'Были и давние приятели ― те, кто в тяжелые для меня дни без зазрения совести с легкостью вычеркнули меня из памяти.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Своих детей Регина без зазрения совести [оставляет одних]Action в любое время суток.
+  - |
+       На гастролях за каждое свое выступление она без зазрения совести [требовала более 3 тысяч рублей]Action.
+  - |
+       После проверки оказалось, что [врал]Action старший лейтенант без зазрения совести.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] зазрения [nmod совести]]]'
+dependency_structure_of_illustration:
+  - '[root Были [nsubj [advmod и] [amod давние] приятели] ― [det те, [acl [nsubj кто] [obl [case в] [amod тяжелые [obl [case для] меня]] дни] [obl [case без] зазрения [nmod совести]] [obl [case с] легкостью] вычеркнули [obj меня] [obl [case из] памяти]]].]'
+equivalents:
+  - english: |
+       shamelessly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

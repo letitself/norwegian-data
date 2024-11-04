@@ -1,0 +1,56 @@
+---
+record: 3771
+name: 'так/такой/столько XP, что/— глаза разбегаются'
+UD_name: ''
+illustration: 'Вокруг так много невест, что глаза разбегаются.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Столько [сувениров]Stimulus, что глаза разбегаются…
+  - |
+       Сколько [имен, названий, соблазнов]Stimulus, что у меня глаза разбегаются.
+  - |
+       [Красок в природе]Stimulus здесь так много, что у художников глаза разбегаются.
+  - |
+       [Выбор]Stimulus такой, что глаза разбегаются.
+  - |
+       Причем их такое [количество]Stimulus, что глаза разбегаются.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod так] XP, [ccomp [mark что] [nsubj глаза] разбегаются]]'
+  - '[root [det такой] XP, [ccomp [mark что] [nsubj глаза] разбегаются]]'
+  - '[root [advmod столько] XP, [ccomp [mark что] [nsubj глаза] разбегаются]]'
+  - '[root [advmod так] XP, [parataxis [nsubj глаза] разбегаются]]'
+  - '[root [det такой] XP, [parataxis [nsubj глаза] разбегаются]]'
+  - '[root [advmod столько] XP, [parataxis [nsubj глаза] разбегаются]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вокруг] [advmod так] [nummod:gov много] невест, [ccomp [mark что] [nsubj глаза] разбегаются].]'
+comment: |
+    'См. также 3769 (у NP-Gen) глаза разбегаются (от NP-Acc) - Вокруг так много невест, у меня аж глаза разбегаются от выбора; 3770 NP-Gen Cop ((столько,) что) (у NP-GEN) глаза разбегаться - Вокруг так много невест, у меня аж глаза разбегаются от выбора.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2039
+semantic_types:
+family:
+  - |
+    ""

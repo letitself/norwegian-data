@@ -1,0 +1,50 @@
+---
+record: 3865
+name: 'океан NP-Gen'
+UD_name: ''
+illustration: 'В 21 веке мы ежедневно сталкиваемся с океаном информации.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Автор останавливается, потрясенный открывшимся ему океаном [информации]Set.
+  - |
+       Я все три с лишним часа провела в океане [чувств]Set, которые родом из детства.
+  - |
+       Зато поэзию заменили целым океаном [патетики и пафоса]Set.
+  - |
+       Казалось, что эта толпа поглотит горы закусок и океан [выпивки]Set.
+  - |
+       Тело не может солгать, как лгут сознание и язык, нагромождая горы [мусора]Set и океаны лжи.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep океан [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [nummod 21 веке] [nsubj мы] [advmod ежедневно] сталкиваемся [obl [case с] океаном [nmod информации]].]'
+comment: |
+    'Значительно менее продуктивен, чем море (1487 море NP-Gen). Заметим, что как квантификаторы море и океан встречаются в статичных, а не динамических контекстах (свойственных именам поток, река, лавина — см. след. раздел) См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - информации
+  - алкоголя
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

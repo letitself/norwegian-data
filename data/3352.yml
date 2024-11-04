@@ -1,0 +1,50 @@
+---
+record: 3352
+name: 'VP с бору/бора по сосенке'
+UD_name: ''
+illustration: 'Автор насобирала "с бора по сосенке", единой картины мира не получилось.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       И остальной состав партии, как оказалось, был [укомплектован]Action «с бору по сосенке» ― людьми новыми, незнакомыми между собою ранее.
+  - |
+       Ученики [собраны]Action с бору по сосенке, многие пришли из детдома, из окружающих деревень.
+  - |
+       Мы [собрали,]Action как говорится, с бору по сосенке, наскребли людей, винтовок и организовали очень слабенькую оборону.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] бора] [obl [case по] сосенке]]'
+  - '[root VP [obl [case с] бору] [obl [case по] сосенке]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Автор] насобирала "[obl [case с] бора] [obl [case по] сосенке]", [conj [nsubj [amod единой] картины [nmod мира]] [advmod не] получилось].]'
+equivalents:
+  - english: |
+       with god’s help
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Multiplicative
+  - type: Measure
+family:
+  - |
+    ""

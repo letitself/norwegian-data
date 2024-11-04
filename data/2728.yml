@@ -1,0 +1,50 @@
+---
+record: 2728
+name: 'VP на радостях'
+UD_name: ''
+illustration: 'Андрей почти не пил, я на радостях принял пару рюмок'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       На радостях он [бросился в гардероб, нашел в кармане куртки визитку Арбузова и тут же позвонил]Action.
+  - |
+       На радостях Саша  [раздобыл пару бутылок водки]Action, и с друзьями они ее выпили.
+  - |
+       Сказал, что на радостях в конторе все женщины его [обнимали и целовали]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] радостях]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Андрей] [advmod почти] [advmod не] пил, [conj [nsubj я] [obl [case на] радостях] принял [obj пару [nmod рюмок]]]]'
+equivalents:
+  - english: |
+       in one's joy / from sheer joy
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

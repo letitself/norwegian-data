@@ -1,0 +1,51 @@
+---
+record: 4077
+name: 'NP-Nom Cop ни бе ни ме (ни кукареку) в NP-Prep/по--Adj-cки'
+UD_name: ''
+illustration: 'Он в математике ни бе ни ме.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Маша]Cognizer всегда в [точных науках]Parameter [была]State ни бе, ни ме, ни кукуреку.
+  - |
+       Завтра экзамен, а [ты]Cognizer ни бе, ни ме в [математике]Parameter.
+  - |
+       Может, и правда потому, что [по-русски]Parameter ни бе ни ме ни кукареку?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Onomatopoeia
+  - Negation Marker
+  - Onomatopoeia
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] бе [conj [advmod ни] ме]] [conj [advmod ни] кукареку] [obl [case в] NP-Prep]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] бе [conj [advmod ни] ме]] [obl [case в] NP-Prep]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] бе [conj [advmod ни] ме]] [conj [advmod ни] кукареку] [advmod по--Adj-cки]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] бе [conj [advmod ни] ме]] [advmod по--Adj-cки]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [case в] математике] [advmod ни] бе [conj [advmod ни] ме].]'
+comment: |
+    'См. также синонимичные конструкции 4073-4076, 4078'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

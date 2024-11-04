@@ -6,6 +6,16 @@ illustration: 'Номер с видом на море'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       [Квартира]Theme на набережной с [прекрасным]Property видом на [реку.]Location
+  - |
+       [Окно в комнате]Theme с [превосходным]Property видом на [залив.]Location
+  - |
+       [Столик на двоих]Theme с видом на [город.]Location
+  - |
+       [Балкон]Theme с видом на [порт.]Location
+  - |
+       [Дом]Theme с видом на [озеро.]Location
 morphology:
   - NP
   - Adj

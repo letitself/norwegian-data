@@ -1,0 +1,60 @@
+---
+record: 3462
+name: 'NP-Nom Cop ни разу не NP-Nom/Adj-Nom, (но Cl)'
+UD_name: ''
+illustration: 'Это ни разу не реклама.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Я]Theme ни разу не [психолог]Property, но меня всегда смущало, что дети могут чему-то научиться от детей.
+  - |
+       [Вы]Theme что, ни разу не [грамотный]Property?
+  - |
+       [Он]Theme вообще ни разу не [мастер]Property и не [бизнесмен]Property.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [advmod ни] разу] [advmod не] NP-Nom]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [advmod ни] разу] [advmod не] NP-Nom, [conj [cc но] Cl]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [advmod ни] разу] [advmod не] Adj-Nom]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [advmod ни] разу] [advmod не] Adj-Nom, [conj [cc но] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [obl [advmod ни] разу] [advmod не] реклама.]'
+comment: |
+    'См. близкие конструкции 1690, 1921, 236.'
+equivalents:
+  - english: |
+       X never (once) Y/not a single time
+common_fillers:
+  - я
+  - гомофоб
+  - специалист
+  - конкурент
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected generally
+family:
+  - |
+    ""

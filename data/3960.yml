@@ -1,0 +1,48 @@
+---
+record: 3960
+name: 'принять форму NP-Gen/Adj форму'
+UD_name: ''
+illustration: 'Её болезнь приняла почти необратимую форму.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       В зависимости от обстоятельств отношения между Молдовой и Евросоюзом могут принять форму [как тесного партнерства, так и полного членства в ЕС]Result.
+  - |
+       У Пети случилась вспышка агрессии, принявшая форму [какого-то почти безумия]Result.
+  - |
+       Я заболела депрессией лет в пятнадцать, и с тех пор болезнь эта приняла [хроническую]Result форму.
+  - |
+       Борьба за власть при стареющем вожде вновь приняла формы [кровавого террора]Result.
+  - |
+       Сама по себе идея хорошая, но в нашей стране она приняла [уродливую]Result форму.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root принять [obj форму [nmod NP-Gen]]]'
+  - '[root принять [obj [amod Adj] форму]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Её] болезнь] приняла [obj [amod [advmod почти] необратимую] форму]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

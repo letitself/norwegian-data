@@ -1,0 +1,59 @@
+---
+record: 3605
+name: 'Cl, и всё попусту/впустую'
+UD_name: ''
+illustration: 'А я так старался, и всё впустую.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [В попытках образумить власть мы провели десятки, сотни встреч с премьерами и министрами]Situation. И всё впустую.
+  - |
+       [Сумасшедшие дни, бессонные ночи]Situation ― и всё впустую.
+  - |
+       [Потратил битый час]Situation и всё попусту.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [cc и] [nsubj всё] впустую]]'
+  - '[root Cl, [conj [cc и] [nsubj всё] попусту]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj я] [advmod так] старался, [conj [cc и] [nsubj всё] впустую].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X for nothing
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

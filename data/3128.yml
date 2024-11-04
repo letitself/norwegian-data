@@ -1,0 +1,49 @@
+---
+record: 3128
+name: 'VP во всей (своей) красе'
+UD_name: ''
+illustration: 'С причёской и в нарядном платье, она предстала перед гостями во всей своей красе.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Осень во всей красе [показывала капризный характер:]Situation лил дождь, сбивал с ног резкий ветер.
+  - |
+       На берегу Байкала во всей своей красе [возникло необычное сооружение]Situation ― Большой солнечный вакуумный телескоп.
+  - |
+       Через микроскоп можно во всей красе [увидеть грязь на лапках мух и посмотреть в глаза смертоносному пауку.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det всей] [det своей] красе]]'
+  - '[root VP [obl [case во] [det всей] красе]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] причёской [conj [cc и] [case в] [amod нарядном] платье]], [nsubj она] предстала [obl [case перед] гостями] [obl [case во] [det всей] [det своей] красе].]'
+equivalents:
+  - english: |
+       in all X's splendour
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

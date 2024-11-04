@@ -1,0 +1,49 @@
+---
+record: 3802
+name: 'у NP-Gen (VP) ком/комок в горле (от ХР)'
+UD_name: ''
+illustration: 'У меня ком в горле от этих новостей.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       У [тебя самого]Experiencer от [страха]Stimulus ком в горле.
+  - |
+       Представьте: я понимаю, что должна говорить свою реплику, — и не могу, потому что у [меня]Experiencer ком в горле [стоит]State.
+  - |
+       Кобзон действительно поет эту песню потрясающе пронзительно: от [того, что плачет мужчина]Stimulus, ком в горле...
+  - |
+       Я смотрю на нее и нифига не рад. Только комок в горле [стоит]State. Она не понимает, понимаете?
+  - |
+       Комок в горле, слезы, капающие сами собой, и безумная гордость за свою страну!!!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Object
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen]] ком [nmod [case в] горле [nmod [case от] ХР]]])'
+  - '[root [obl [case у] NP-Gen]] комок [nmod [case в] горле [nmod [case от] ХР]]])'
+dependency_structure_of_illustration:
+  - '[root [nmod [case У] меня] ком [nmod [case в] горле] [nmod [case от] [det этих] новостей]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2070
+semantic_types:
+family:
+  - |
+    ""

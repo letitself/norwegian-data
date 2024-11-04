@@ -1,0 +1,51 @@
+---
+record: 3036
+name: 'VP на трезвую голову'
+UD_name: ''
+illustration: 'Он вообще не любил высказываться вслух на трезвую голову.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Письму лучше дать полежать, а потом на трезвую голову [проверить]Action: стоит его отправлять или нет.
+  - |
+       Как часто, и даже почти всегда, у меня бывает, то, что на трезвую голову [вызывало отвращение]Event, на пьяную начинает веселить
+  - |
+       На трезвую голову [такую глупость не сочинишь]Action!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod трезвую] голову]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Temporary characteristics
+    subtypes:
+      - type: Mental state
+family:
+  - |
+    ""

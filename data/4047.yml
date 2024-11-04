@@ -1,0 +1,54 @@
+---
+record: 4047
+name: 'VP на Adj манер'
+UD_name: ''
+illustration: 'Денниса Тито у нас называли на русский манер — ​Денис Титов.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Он полюбил корейскую культуру всей душой и даже [иранские блюда готовил]Activity на [корейский]Property манер.
+  - |
+       Прежде [вертолёты называли]State на [французский]Property манер — геликоптерами.
+  - |
+       Подмосковный Версаль [и посетителей теперь встречает]Activity на [западный]Property манер.
+  - |
+       Все дома на острове строго не выше четырех этажей и [выстроены]State на [старинный]Property манер.
+  - |
+       Они регулярно использовали англицизмы и [коверкали]Activity на [иностранный]Property манер слова русского языка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod Adj] манер]]'
+dependency_structure_of_illustration:
+  - '[root [obj Денниса [flat Тито]] [obl [case у] нас] называли [obl [case на] [amod русский] манер] — [obl ​Денис [flat Титов]].]'
+comment: |
+    'См. также синонимичную 1203 NP/VP на манер NP-Gen - Рубашка на манер униформы'
+equivalents:
+common_fillers:
+  - русский
+  - западный
+  - иностранный
+  - американский
+  - французский
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

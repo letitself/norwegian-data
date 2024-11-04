@@ -1,0 +1,58 @@
+---
+record: 3659
+name: '(только) VP, а тут XP'
+UD_name: ''
+illustration: 'Я только вошел в кабинет, а тут вы звоните…'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Несколько месяцев [не было матчей]Situation, а тут [сразу два турнира подряд]Situation.
+  - |
+       [Приехала на дачу]Action, а тут [дождь целый день]Situation.
+  - |
+       Только [привыкнешь]State, а тут [приходится уезжать]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP, [conj [cc а] [advmod тут] XP]]'
+  - '[root [advmod только] VP, [conj [cc а] [advmod тут] XP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod только] вошел [obl [case в] кабинет], [conj [cc а] [advmod тут] [nsubj вы] звоните]...]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       just did P1, but P2
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    ""

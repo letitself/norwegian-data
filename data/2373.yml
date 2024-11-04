@@ -1,0 +1,50 @@
+---
+record: 2373
+name: 'VP/NP без намерения (VP-inf)'
+UD_name: ''
+illustration: 'В его любезности сквозило понимание: визитеры пришли из любознательности, без намерения что-либо приобрести.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он не хотел меня унизить, он [причинял мне зло]Action без намерения.
+  - |
+       Я не помню больше подобного случая в моей жизни, чтобы я [уснул]Action нечаянно, без намерения [уснуть]Action.
+  - |
+       [Покаяние]Action без намерения [исправиться]Result называется лицемерным.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] намерения]]'
+  - '[dep NP [nmod [case без] намерения]]'
+  - '[root VP [obl [case без] намерения [csubj VP-Inf]]]'
+  - '[dep NP [nmod [case без] намерения [csubj VP-Inf]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det его] любезности] сквозило [nsubj понимание]: [parataxis [nsubj визитеры] пришли [obl [case из] любознательности], [obl [case без] намерения [csubj [obj что-либо] приобрести]]].]'
+equivalents:
+  - english: |
+       without intention
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

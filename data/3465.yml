@@ -1,0 +1,57 @@
+---
+record: 3465
+name: 'NP-Gen нет дома.'
+UD_name: ''
+illustration: 'Оказалось, что мамы нет дома уже третий день.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Он беспокоится, если [кого-нибудь]Theme нет дома.
+  - |
+       Что делают кошки когда [хозяев]Theme  нет дома?
+  - |
+       ― [Никого]Theme  нет дома, ― крикнул хозяин.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Gen] нет [advmod дома]]'
+dependency_structure_of_illustration:
+  - '[root оказалось, [ccomp [mark что] [nsubj мамы] нет [advmod дома] [obl [amod [advmod уже] третий] день]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is not at home
+common_fillers:
+  - никого
+  - родителей
+  - меня
+  - мамы
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

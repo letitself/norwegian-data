@@ -1,0 +1,50 @@
+---
+record: 3772
+name: 'NP-Acc голыми руками не возьмёшь'
+UD_name: ''
+illustration: 'Слишком уж хитрый этот свидетель, его голыми руками не возьмешь.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Здесь нужна была стратегия, Сонька хоть и сумасшедшая, но [её]Patient голыми руками не возьмешь.
+  - |
+       Но Алексей Федорович ― человек самостоятельных и независимых взглядов, [его]Patient голыми руками не возьмешь.
+  - |
+       ― Зато Виташа предмет знает свой. [Его]Patient голыми руками не возьмёшь.
+  - |
+       Но [Питера и Дэвида]Patient голыми руками не возьмешь: в конце концов, они находят общий язык с маленькими разбойниками.
+  - |
+       Дьяк у места — что кошка у теста. [Его]Patient голыми руками не возьмешь. Его как за смертью посылать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Negative Marker
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obj NP-Acc] [obl [amod голыми] руками] [advmod не] возьмёшь]'
+dependency_structure_of_illustration:
+  - '[root [advmod Слишком] [advmod уж] хитрый [nsubj [det этот] свидетель], [conj [obj его] [obl [amod голыми] руками] [advmod не] возьмешь].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2040
+semantic_types:
+family:
+  - |
+    ""

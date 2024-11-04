@@ -1,0 +1,44 @@
+---
+record: 4005
+name: 'одно время Cl'
+UD_name: ''
+illustration: 'Я одно время ходил в спортзал, но потом забросил это дело.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Помню, как одно время (кажется, еще до войны) [были очень популярны джазовые произведения замечательного пианиста Александра Цфасмана]Situation.
+  - |
+       Вот буквально пару дней назад позвонил приятель, с которым мы одно время [вместе ходили в зал]Situation
+  - |
+       На собрании заговорили о прошлом родного города, одно время [бывшего театральной столицей всего края]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl [det одно] время] Cl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obl [det одно] время] ходил [obl [case в] спортзал], [conj [cc но] [advmod потом] забросил [obj [det это] дело]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

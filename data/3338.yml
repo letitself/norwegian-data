@@ -1,0 +1,51 @@
+---
+record: 3338
+name: 'VP почём зря'
+UD_name: ''
+illustration: '― Остынь, батюшка, не ругайси почем зря!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Не наговаривай на моих детей]Action почем зря!
+  - |
+       Жаль Сашу, с его способностями [пропадает]Action почем зря.
+  - |
+       Так что не нужно [очернять]Action почём зря достойного человека, защищавшего свою страну.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod почем] зря]]'
+dependency_structure_of_illustration:
+  - '[― root Остынь, [vocative батюшка], [conj [advmod не] ругайси [advmod [advmod почем] зря]]!]'
+equivalents:
+  - english: |
+       with X's sweat and blood
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

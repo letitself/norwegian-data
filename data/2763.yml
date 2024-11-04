@@ -1,0 +1,52 @@
+---
+record: 2763
+name: 'VP/NP нос к носу (с NP-Ins)'
+UD_name: ''
+illustration: 'Химин с Филиппом поднялись на третий этаж и тут же нос к носу столкнулись с невысокой, очень стройной и очень яркой молодой женщиной'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По сути, люди впервые за долгое время [столкнулись]Action нос к носу с [опасностью]Theme, которая есть в городе, и получается, никто от нее не застрахован.
+  - |
+       Та [прошлогодняя встреча]Event нос к носу с [медведем]Participant случилась в полукилометре отсюда.
+  - |
+       В странные девяностые годы на улицах города можно было запросто [встретиться]Action нос к носу с [эльфом, гномом или пещерным троллем]Participant.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl нос] [obl [case к] носу]]'
+  - '[root VP [obl нос] [obl [case к] носу] [obl [case с] NP-Ins]]'
+  - '[dep NP [nmod нос] [nmod к носу]]'
+  - '[dep NP [nmod нос] [nmod к носу] [nmod [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Химин [nmod [case с] Филиппом]] поднялись [obl [case на] [amod третий] этаж] [conj [cc и] [advmod тут [advmod же]] [obl нос] [obl [case к] носу] столкнулись [obl [case с] [amod невысокой, [conj [advmod очень] стройной] [conj [cc и] [advmod очень] яркой] [conj молодой]] женщиной]]]'
+equivalents:
+  - english: |
+       face to face
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

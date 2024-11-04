@@ -1,0 +1,55 @@
+---
+record: 3669
+name: 'Noun/PronPers-то и VP'
+UD_name: ''
+illustration: 'Как оказалось, Вася-то и был организатором преступления.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       У вас установлен неправильный двигатель. [Он-то]Theme и [может оказаться причиной всех ваших неприятностей]Situation.
+  - |
+       Одной из пострадавших удалось спастись, [она-то]Participant и [дала описание преступника]Action.
+  - |
+       Ручку крышки надо опустить до щелчка: [она-то]Theme и [нажимает на кнопку пуска]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj Noun [det -то]] [advmod и] VP]'
+  - '[root [nsubj PronPers [det -то]] [advmod и] VP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [mark Как] оказалось], [nsubj Вася [det -то]] [advmod и] [cop был] организатором [nmod преступления]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X was exactly who Y
+common_fillers:
+  - он
+  - она
+  - оно
+  - они
+references:
+  - |
+    
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Accentuation
+family:
+  - |
+    ""

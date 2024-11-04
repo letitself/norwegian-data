@@ -1,0 +1,52 @@
+---
+record: 3590
+name: 'не Cop место NP-Dat'
+UD_name: ''
+illustration: 'Синхронное плавание ― тяжелейший вид спорта, где нет места слабым.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Это был мир чудовищ, в котором нет места [человеку]Participant с его представлениями о порядочности и непорядочности, о зле и добре.
+  - |
+       Это царство любви, в котором нет и не может быть места [насилию]Theme.
+  - |
+       В его учительской душе не осталось места [светлым чувствам]Theme, он негодовал на то, что ему приходится за какие-то ничтожные сто рублей расходовать свой безмерный гений.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] [cop Cop] место [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Синхронное] плавание] ― [amod тяжелейший] вид [nmod спорта], [acl:relcl [advmod где] нет [nsubj места] [iobj слабым]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       no place for X
+common_fillers:
+  - подвигу
+  - счастью
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+family:
+  - |
+    ""

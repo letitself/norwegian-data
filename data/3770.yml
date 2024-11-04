@@ -1,0 +1,51 @@
+---
+record: 3770
+name: 'NP-Gen Cop ((столько,) что) (у NP-GEN) глаза разбегаться'
+UD_name: ''
+illustration: 'Невест вокруг на выданье - глаза разбегаются.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       У них [экспонатов]Set столько, что глаза разбегаются: свои достижения демонстрировали физики и программисты, технари и биологи, филологи и математики.
+  - |
+       На полках [еды]Set лежало столько,что глаза разбегались.
+  - |
+       [Подарков]Set - глаза разбегаются.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root NP-Gen [cop Cop] [advmod столько], [ccomp [mark что] [obl [case у] NP-GEN] [nsubj глаза] разбегаться]]'
+  - '[root NP-Gen [cop Cop], [ccomp [mark что] [obl [case у] NP-GEN] [nsubj глаза] разбегаться]]'
+  - '[root NP-Gen [cop Cop], [parataxis [nsubj глаза] разбегаться]]'
+  - '[root NP-Gen [cop Cop] [advmod столько], [ccomp [mark что] [nsubj глаза] разбегаться]]'
+  - '[root NP-Gen [cop Cop], [parataxis [nsubj глаза] разбегаться]]'
+dependency_structure_of_illustration:
+  - '[root Невест [advmod вокруг] [obl [case на] выданье] - [parataxis [nsubj глаза] разбегаются].]'
+comment: |
+    'См. также 3769 (у NP-Gen) глаза разбегаются (от NP-Acc) - Вокруг так много невест, у меня аж глаза разбегаются от выбора; 3771 NP-Gen Cop ((столько,) что) (у NP-GEN) глаза разбегаться - Невест вокруг на выданье - глаза разбегаются.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2038
+semantic_types:
+family:
+  - |
+    ""

@@ -13,6 +13,8 @@ definitions:
        Konstruksjonen uttrykker sammenligning og fremhever at flere [objekter]Theme, [deltakere]Participant eller [situasjoner]Situation er identiske. Konstruksjonen betyr at et objekt eller en deltaker er den samme som taleren samhandlet med tidligere, eller at en gitt situasjon praktisk talt er en gjentakelse av en situasjon taleren har vært i tidligere.
 examples:
   - |
+       Опять я видел тот же самый [сон]Comparee, что и [в поезде]Standard.
+  - |
        На ней было то же самое [платье]Theme.
   - |
        И снова ей ответил тот же самый [голос]Theme.
@@ -20,8 +22,6 @@ examples:
        Когда мы приехали, на плите стояла та же самая [кастрюля]Theme с супом.
   - |
        Та же самая [история]Situation произошла и со мной.
-  - |
-       Опять я видел тот же самый [сон]Comparee, что и [в поезде]Standard.
 morphology:
   - NP
   - XP

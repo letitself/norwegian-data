@@ -1,0 +1,48 @@
+---
+record: 3739
+name: 'VP (и) то и сё'
+UD_name: ''
+illustration: 'Зашла в одно место, такая голодная! Заказала и то, и сё…'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Говорили]Activity и то и сё, приводили примеры, но чётко никто так и не смог сказать.
+  - |
+       Она захотела [узнать]Action то и сё, почему он там работает, и чем он занимается дома.
+  - |
+       У нас и то и сё: и гастрит, и колит, и бронхит, и еще чёрт знает что.
+  - |
+       Муж ей и то, и сё в лавке [накупит]Action.
+  - |
+       Я не вез прямой антисоветской литературы, но зато там [были]State и Булгаков, и Библия, и Флоренский, и то, и сё.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obj [cc и] то [conj [cc и] сё]]]'
+dependency_structure_of_illustration:
+  - '[root Зашла [obl [case в] [nummod одно] место], [xcomp [det такая] голодная]!] [root Заказала [obj [cc и] то, [conj [cc и] сё]]…]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2019
+semantic_types:
+family:
+  - |
+    ""

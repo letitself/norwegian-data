@@ -1,0 +1,52 @@
+---
+record: 2871
+name: 'VP/NP под крылом/крылышком NP-Gen/ у NP-Gen'
+UD_name: ''
+illustration: 'Пока вы остаетесь под крылом государства, вам гарантирована максимальная сохранность сбережений и в лучшем случае ― покрытие инфляции'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я [работал]Activity под крылом [Алексея Румянцева,]Agent создателя института социологии.
+  - |
+       [Существование]State под крылом у [богатых родственников]Participant идиллию нисколько не напоминало.
+  - |
+       Долгие годы институт этот [находился]State под крылом [Министерства]Participant.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       under X’s wing
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

@@ -1,0 +1,57 @@
+---
+record: 3586
+name: 'ни малейший NP'
+UD_name: ''
+illustration: 'Результат его устроил, и он стал есть, хотя я видел, что еда не доставляет ему ни малейшего удовольствия.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Нет, я не знал, кто мне позвонит. Не имел ни малейшего [представления]Stimulus.
+  - |
+       В этом нет ни малейшего [смысла]Stimulus. Вот ты видишь в этом смысл?
+  - |
+       Я не чувствую ни малейшей [вины]Stimulus за то, что мы поступили так, а не иначе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [amod [advmod ни] малейший] NP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Результат] [obj его] устроил, [conj [cc и] [nsubj он] стал [xcomp есть] [advcl [mark хотя] [nsubj я] видел [ccomp [mark что] [nsubj еда] [advmod не] доставляет [iobj ему] [obl [amod [advmod ни] малейшего] удовольствия]]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       not a slightest X
+common_fillers:
+  - вреда
+  - подозрений
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+family:
+  - |
+    ""

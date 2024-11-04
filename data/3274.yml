@@ -1,0 +1,53 @@
+---
+record: 3274
+name: 'NP-Nom не стоить ни Noun-Gen'
+UD_name: ''
+illustration: 'Человеческая жизнь не стоит ни гроша.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Само [создание сайта]Theme не стоило сенату ни [копейки.]Measure
+  - |
+       У нас в большинстве фирм [это]Theme не стоит ни [цента.]Measure
+  - |
+       Студентам скульптурного факультета разрешается ставить свои работы во дворах домов ― городу [это]Theme не стоит ни [гроша,]Measure а молодые ваятели получают возможность профессионально самоутвердиться.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] стоить [obl [advmod ни] Noun-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Человеческая] жизнь] [advmod не] стоит [obl [advmod ни] гроша].]'
+equivalents:
+  - english: |
+       can’t hold a candle to
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

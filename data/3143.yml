@@ -1,0 +1,51 @@
+---
+record: 3143
+name: 'NP-Gen Cop всего ничего'
+UD_name: ''
+illustration: 'У нас в холодильнике фруктов всего ничего.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Ещё сложнее с джазовыми музыкантами ― в Москве [их]Possessed всего ничего.
+  - |
+       Тем более, и [оружия]Possessed было всего ничего.
+  - |
+       Она очень худая,  [веса]Possessed в ней ― всего ничего.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Gen] [advmod всего] ничего]'
+dependency_structure_of_illustration:
+  - '[root [obl [case у] нас] [obl [case в] холодильнике] [nsubj фруктов] [advmod всего] ничего.]'
+equivalents:
+  - english: |
+       X is hardly anything
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Low
+  - type: Measure
+family:
+  - |
+    ""

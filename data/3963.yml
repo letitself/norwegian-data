@@ -1,0 +1,52 @@
+---
+record: 3963
+name: 'дать NP-Acc'
+UD_name: ''
+illustration: 'Врач дал своё согласие на проведение операции.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Папа был человеком, способным дать [ответ на любой вопрос]ContentOfSpeech.
+  - |
+       Мэр города дал [добро на установку нового памятника]ContentOfSpeech.
+  - |
+       Начальник дал [установку Петру «готовиться» к выборам в парламет таким образом, чтобы тудапрошли только «свои люди»]ContentOfSpeech.
+  - |
+       Он не может дать [разьяснения по этому вопросу]ContentOfSpeech.
+  - |
+       Однако [на такое выступление]ContentOfSpeech ему не дал [разрешение]ContentOfSpeech директор.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root дать [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Врач] дал [obj [det своё] согласие [nmod [case на] проведение [nmod операции]]].]'
+equivalents:
+common_fillers:
+  - разрешение
+  - добро
+  - ответ
+  - комментарий
+  - разъяснение
+  - позволение
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

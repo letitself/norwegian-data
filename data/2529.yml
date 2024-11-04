@@ -1,0 +1,49 @@
+---
+record: 2529
+name: 'VP для отвода/отводу глаз'
+UD_name: ''
+illustration: 'Картошку он сажал для отвода глаз. На самом деле нужно было найти закопанные на участке вещи.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Может быть, Марк [был]State лишь для отводу глаз, подставное лицо.
+  - |
+       Именно для отвода глаз [затеян]Event скандал по поводу прогулки.
+  - |
+       Про охоту он вообще [заговорил]Action для отвода глаз.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] отвода [nmod глаз]]]'
+  - '[root VP [obl [case для] отводу [nmod глаз]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Картошку] [nsubj он] сажал [obl [case для] отвода [nmod глаз]].] [root [obl [case На] [amod самом] деле] нужно [cop было] [csubj найти [obj [acl закопанные [obl [case на] участке] вещи]]].]'
+equivalents:
+  - english: |
+       as a cover
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

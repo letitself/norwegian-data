@@ -1,0 +1,49 @@
+---
+record: 3017
+name: 'VP в ноги NP-Dat/Np-Gen'
+UD_name: ''
+illustration: 'Он кинулся ей в ноги и попросил разрешения жить с ней.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       В пыльном коридоре в ноги [мне]Possessor [проскользнул]Action серый полосатый котенок.
+  - |
+       Все эти мальчики, которые уходят, потом приходят и [бросаются]Action [мне]Possessor в ноги: «Ты самая лучшая, как человек хорошая».
+  - |
+       Хочется [поклониться]Action в ноги практически [каждому человеку, который принимал участие в создании этого Фильма]Possessor.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

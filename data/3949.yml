@@ -1,0 +1,58 @@
+---
+record: 3949
+name: 'фиг/хрен знает PronInt'
+UD_name: ''
+illustration: 'До этого мы долгое время жили фиг знает как и на что, отчего у меня начался жуткий авитаминоз.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Когда искал рассол в подвале в магазине? — Она еще раз потянула носом. — А от него несет фиг знает [чем]Stimulus!
+  - |
+       Никто не собирался ехать на похороны хрен знает [куда]Goal, хотя фейсбучек и модные сайты были полны прочувствованными некрологами.
+  - |
+       — Ну какие уж тут шутки, девочка моя, если ребенок ходит в мороз хрен знает [в чем]Patient.
+  - |
+       Позвонила я по их номеру, отвечать особо желающих не было, [куда бежать]Action и [что делать]Action, а хрен знает.
+  - |
+       Потому что хрен знает, [что выкинет тот или иной собеседник]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj фиг] знает [dep PronInt]]'
+  - '[root [nsubj хрен] знает [dep PronInt]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case До] этого] [nsubj мы] [obl [amod долгое] время] жили [advcl [nsubj фиг] знает [advmod как [conj [cc и] [case на] что]]], [advcl [mark отчего] [obl [case у] меня] начался [nsubj [amod жуткий] авитаминоз]].]'
+comment: |
+    'См. также синонимичную конструкцию 3403 чёрт знает/чёрт-те сколько NP-Gen (Adv/у NP-Gen) - Я не видет его черт знает сколько лет; Также, помимо слов "фиг" и "хрен" возможны употребления матерных слов аналогичного содержания.'
+equivalents:
+common_fillers:
+  - что
+  - чем
+  - куда
+  - откуда
+  - зачем
+  - почему
+  - кто
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

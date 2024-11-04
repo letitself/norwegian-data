@@ -1,0 +1,55 @@
+---
+record: 2581
+name: 'Adj как стеклышко'
+UD_name: ''
+illustration: 'Маша трезва как стёклышко.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Зачем мне нужен ваш Митя, когда у меня есть Фёдор. Он [трезв]Property как стёклышко. Пусть он и гребёт.
+  - |
+       Спокойной ночи. И завтра на службе чтоб как стеклышко!
+  - |
+       Я не выпил ни капли, хотел прийти домой как стеклышко.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep Adj [obl [mark как] стеклышко]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Маша] трезва [obl [mark как] стёклышко].]'
+equivalents:
+  - english: |
+       stone-cold sober
+common_fillers:
+  - резвый
+  - чистый
+  - прозрачный
+  - ясный
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

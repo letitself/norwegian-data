@@ -1,0 +1,48 @@
+---
+record: 4055
+name: 'V-~V, Cl/— не ~V'
+UD_name: ''
+illustration: 'Тушат-тушат, — не потушат.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Дергали-дергали]Activity они дверь, [совсем из сил выбились.]Result
+  - |
+       Человек [собирал-собирал,]Activity старался, [а ты всё взяла, да и выкинула]Result.
+  - |
+       [Думал-думал,]Activity [а ничего хорошего так и не придумал.]Result
+  - |
+       [Шел-шел,]Activity пол-Москвы прошел, [а пришел, получается, не туда?]Result
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root V-~V, — [conj [advmod не] ~V]]'
+  - '[root V-~V, [conj Cl]]'
+dependency_structure_of_illustration:
+  - '[root Тушат-тушат, — [conj [advmod не] потушат].]'
+comment: |
+    'Также см. 86  всё VP-Ipfv да/и ~VP-Ipfv - Мальчик всё шёл да шёл. Не путать с 4056 (ну) VP и ~VP — Я довольно холодно отреагировала — ну прислал и прислал.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

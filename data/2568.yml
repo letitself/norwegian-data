@@ -1,0 +1,56 @@
+---
+record: 2568
+name: 'NP-Nom Cop как об стенку горох/как к стене горох/как от стенки горох'
+UD_name: ''
+illustration: 'Сколько раз уже просил его так не делать и все как об стенку горох!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Не раз уже это говорил им, и всегда [речи]Theme, как к стене горох.
+  - |
+       [Тебе мое доверие]Theme как об стенку горох, что ли?
+  - |
+       [Все уверения мои и успокоения]Theme отскакивали как от стены горох.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Noun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [mark как] [obl [case об] стенку] горох]'
+  - '[root [nsubj NP-Nom] [cop Cop] [mark как] [obl [case к] стене] горох]'
+  - '[root [nsubj NP-Nom] [cop Cop] [mark как] [obl [case от] стенки] горох]'
+dependency_structure_of_illustration:
+  - '[root [obl [nummod Сколько] раз] [advmod уже] просил [obj его] [xcomp [advmod так] [advmod не] делать] [conj [cc и] [nsubj все] [mark как] [obl [case об] стенку] горох]!]'
+equivalents:
+  - english: |
+       like talking to a brick wall
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

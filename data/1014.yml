@@ -11,13 +11,13 @@ definitions:
        Konstruksjonen betyr at [en gitt deltakers]Agent [ord]ContentOfSpeech, etter talerens mening, er sanne, tungtveiende og ikke kan betviles. Taleren anfører deltakerens ord og gjentar dem deretter i den andre sloten XP, enten ordrett (eksempel 1 og 2), ved å bruke et uttrykk med ekvivalent betydning (eksempel 3) eller ved å bekrefte dem med en beskrivelse (eksempel 4 og 5). Vanligvis utformer konstruksjonen en reaksjon på samtalepartnerens tvil.
 examples:
   - |
-       Если Родзянко сказал, что [так надо]ContentOfSpeech, значит, уж [так надо]ContentOfSpeech.
+       Если Вася сказал, что [так надо]ContentOfSpeech, значит, [так надо]ContentOfSpeech.
   - |
-       Я хотя и женщина, но никогда не говорю на ветер, и если я сказала: [могу]ContentOfSpeech, значит [могу…]ContentOfSpeech
+       Я никогда не преувеличиваю, и если я сказала: [могу]ContentOfSpeech, значит [могу…]ContentOfSpeech
   - |
-       Если я сказал [«нет»]ContentOfSpeech, значит, [тому не бывать.]ContentOfSpeech
+       Если я сказал [«нет»]ContentOfSpeech, значит, [так и будет.]ContentOfSpeech
   - |
-       Если Уткин сказал [«без проблем»]ContentOfSpeech, значит, [так и будет.]ContentOfSpeech
+       Все депо знает ― если я сказал «нет», значит, тому не бывать.
   - |
        Если я сказал, что [ты виноват]ContentOfSpeech, значит, [так оно и есть.]ContentOfSpeech
 morphology:

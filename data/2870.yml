@@ -1,0 +1,54 @@
+---
+record: 2870
+name: 'VP под крыло/крылышко (NP-Gen/ к NP-Dat)'
+UD_name: ''
+illustration: 'Выход находят либо в поддержке университета, если он достаточно богат, либо в переходе под крыло крупных компаний'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Не могу же я трусливо прятать голову под крыло и надеяться, что когда-нибудь все просто забудут про Андрея.
+  - |
+       Я буду твоим наставником, возьму тебя как молодого специалиста под крыло.
+  - |
+       Петр переходит из под крыла отца сразу под крыло Наташи.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       under X’s wing
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

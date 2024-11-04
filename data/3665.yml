@@ -1,0 +1,56 @@
+---
+record: 3665
+name: 'NP-Nom NP-Dat Cop нипочем'
+UD_name: ''
+illustration: 'Метели, ветры и град этой черепице нипочем.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Мороз]Force [им]Experiencer нипочем. Минус сорок пять, а они ведут беседу посреди улицы!
+  - |
+       [Людям с железной волей]Experiencer [все]Force нипочем
+  - |
+       Гнездо надежно защищено, и [непогода]Force [ему]Theme нипочем.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] нипочем]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Метели, [conj ветры] [conj [cc и] град]] [iobj [det этой] черепице] нипочем.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       To X Y is like nothing at all
+common_fillers:
+  - ему
+  - мне
+  - тебе
+  - всё
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

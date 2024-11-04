@@ -1,0 +1,51 @@
+---
+record: 2767
+name: 'VP один на один (с NP-Ins)'
+UD_name: ''
+illustration: 'Они отплыли поближе к берегу, и мы с ним остались один на один'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Системы помощи бездомным у нас нет ― и человек [оказывается с этой ситуацией]State один на один.
+  - |
+       Ее мать умерла после родов, и [первые три месяца своей жизни Нора провела]Activity один на один со своим «психически больным отцом».
+  - |
+       [Общаться с Мариной]Activity один на один Глебу было как-то тяжко.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl один] [obl [case на] один]]'
+  - '[root VP [obl один] [obl [case на] один] [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] отплыли [obl [advmod поближе] [case к] берегу], [conj [cc и] [nsubj мы [nmod [case с] ним]] остались [obl один] [obl [case на] один]]]'
+equivalents:
+  - english: |
+       one on one/alone with
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Witnesses
+family:
+  - |
+    ""

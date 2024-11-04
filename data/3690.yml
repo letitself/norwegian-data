@@ -1,0 +1,49 @@
+---
+record: 3690
+name: 'Cl, и всё, (Cl)'
+UD_name: ''
+illustration: 'Один раз купит ― и всё, он будет ваш на века.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Эх, [осталось мне 5 курс отучиться]Situation, и всё.
+  - |
+       "[Я эту актрису совсем недавно видел в одном фильме...]Situation" И всё... [Кино уже не смотришь, а пытаешься вспомнить, где же эта актриса играла]Result.
+  - |
+       Пропорции такие: [на столовую ложку масла столько же сухого ингредиента]Situation — и всё, [мягкий пилинг готов]Result!
+  - |
+       [Просто зайдите вот на эту страничку, кликните мышкой]Situation... и всё.
+  - |
+       [Он так, поворчит немножко]Situation, — и всё.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [cc и] всё]]'
+  - '[root Cl, [conj [cc и] всё], [conj Cl]]'
+dependency_structure_of_illustration:
+  - '[root [obl [nummod Один] раз] купит ― [conj [cc и] всё], [conj [nsubj он] [cop будет] ваш [nmod [case на] века]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

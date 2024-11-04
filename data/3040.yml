@@ -1,0 +1,49 @@
+---
+record: 3040
+name: 'VP на NP-Gen/Adj-Gen/Adj хлебах'
+UD_name: ''
+illustration: 'Я у тетки живу, на своих хлебах.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Его всё время мучило, что он [живёт]Activity, ничем не занимаясь, на [моих]Possessor хлебах.
+  - |
+       Они [жируют]Activity на [государственных]Possessor хлебах - пора укоротить их аппетиты.
+  - |
+       И у всех была одна главная мечта: разбогатеть и сладко [пожить]Activity на [американских]Possessor хлебах.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2377
+name: 'VP без очереди'
+UD_name: ''
+illustration: 'Женщина на почте пропустила меня без очереди, дай Бог ей здоровья.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Иван [проходит]Action без очереди, потому что его тут все знают.
+  - |
+       Я объяснила ему, что мастер только что [принял женщину]Action без очереди.
+  - |
+       Там с ребенком кто-то? ― спрашивает женщина из регистратуры. ― [Проходите]Action без очереди.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] очереди]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Женщина [nmod [case на] почте]] пропустила [obj меня] [obl [case без] очереди], [parataxis дай [nsubj Бог] [iobj ей] [obj здоровья]].]'
+equivalents:
+  - english: |
+       jump the line
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

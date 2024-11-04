@@ -1,0 +1,68 @@
+---
+record: 3649
+name: 'это PrepP-Loc (что) называется/называют NP-Nom/NP-Ins/VP-Inf'
+UD_name: ''
+illustration: 'Это у нас называется гостеприимством!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Это [у них]Source называлось [«выпить перед сном чашечку лунного света»]Name.
+  - |
+       Все это [в правительстве]Source называют [налоговой реформой]Name.
+  - |
+       Это [в логике]Source называется [«принцип взрыва»]Name.
+  - |
+       Как это [у вас]Source называется ― [эксклюзивное интервью]Name!
+  - |
+       Это [у старшего поколения]Source называлось [«поднимать детей на ноги»]Name.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: colloquial
+dependency_structure:
+  - '[root [nsubj это] [obl PrepP-Loc] называют [obl NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] называют [nsubj NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] называют [xcomp VP-Inf]]'
+  - '[root [nsubj это] [obl PrepP-Loc] называется [obl NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] называется [nsubj NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] называется [xcomp VP-Inf]]'
+  - '[root [nsubj это] [obl PrepP-Loc] [nsubj что] называют [obl NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] [obl что] называют [nsubj NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] [nsubj что] называют [xcomp VP-Inf]]'
+  - '[root [nsubj это] [obl PrepP-Loc] [nsubj что] называется [obl NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] [obl что] называется [nsubj NP-Ins]]'
+  - '[root [nsubj это] [obl PrepP-Loc] [nsubj что] называется [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [obl [case у] нас] называется [obl гостеприимством].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       This is what we call X!
+common_fillers:
+  - у вас
+  - в
+  - у нас
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Naming
+family:
+  - |
+    ""

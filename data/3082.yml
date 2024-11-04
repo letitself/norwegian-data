@@ -1,0 +1,50 @@
+---
+record: 3082
+name: 'VP с минуты на минуту'
+UD_name: ''
+illustration: 'Она должна прийти с минуты на минуту.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       С минуты на минуту жизнь моя [необратимо изменится.]Situation
+  - |
+       Во дворе с минуты на минуту [должен был появиться]Situation Мишка.
+  - |
+       Фильм [должен начаться]Situation с минуты на минуту.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] минуты [nmod [case на] минуту]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] должна [xcomp прийти [obl [case с] минуты [nmod [case на] минуту]]].]'
+comment: |
+    'См. близкую конструкцию 2916'
+equivalents:
+  - english: |
+       at any moment
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Near Future
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3325
+name: 'под занавес NP-Gen'
+UD_name: ''
+illustration: 'Под занавес 2017-го нам показали видео «Розово-малиновое вино».'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       А под занавес [дня]BackgroundSituation приключились еще две незадачи.
+  - |
+       Под занавес [сезона]BackgroundSituation спортсмен и вовсе стал занимать четвёртые-шестые места и предпочёл не позориться, приехав в Париж только в качестве зрителя.
+  - |
+       В воскресенье, под занавес [чемпионата,]BackgroundSituation планируется показательное выступление спортсменов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [case под] занавес [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case под] занавес [nmod 2017-го]] [iobj нам] показали [obj видео «[nmod [amod [compound Розово] малиновое] вино]»].]'
+equivalents:
+  - english: |
+       up to X’s neck
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

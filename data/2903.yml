@@ -1,0 +1,50 @@
+---
+record: 2903
+name: 'VP/NP с Adj-Gen ракурса'
+UD_name: ''
+illustration: 'Петров никогда здесь не был и никогда не смотрел на город с этого ракурса.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Их задача ― научиться [видеть себя]State с [другого]Property ракурса, иначе, неординарно.
+  - |
+       С [определенного]Property ракурса этот палец [выглядит так, как будто он вовсе и не палец]State.
+  - |
+       Эти материалы, как правило, более полно и с [неожиданного]Property ракурса [отражают эпоху, в которой жили их авторы и современники]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from a viewpoint
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

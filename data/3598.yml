@@ -1,0 +1,56 @@
+---
+record: 3598
+name: '(хорошо) Cl, а дальше что?'
+UD_name: ''
+illustration: 'Ну вот, я приехал в больницу ― а дальше что?'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Ну [соберет Москва всю способную молодежь]Situation, а дальше что?
+  - |
+       Хорошо, положим, [в квартиру ты войдешь]Situation. А дальше что?
+  - |
+       Ну, [день или два так можно протянуть]Situation. А дальше что?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [cc а] дальше [nsubj что]]?]'
+  - '[root Хорошо, [conj Cl], [conj [cc а] дальше [nsubj что]]?]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [discourse Ну] вот], [nsubj я] приехал [obl [case в] больницу] ― [conj [cc а] дальше [nsubj что]]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Well, X, what’s next?
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic change
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
+family:
+  - |
+    ""

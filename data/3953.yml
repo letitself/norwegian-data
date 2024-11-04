@@ -1,0 +1,53 @@
+---
+record: 3953
+name: 'какого фига/чёрта/хрена NP-Nom VP?'
+UD_name: ''
+illustration: 'Какого чёрта ты сюда пришёл?'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ну какого хрена [ты]Agent [все время лезешь на рожон]Action!
+  - |
+       Какого черта [он]Agent [должен торопиться читать его роман]Action?
+  - |
+       Какого хрена [ты]Agent [здесь забыл]Action?!
+  - |
+       Внучка, я еще понимаю, почему собирает, но какого хрена [внук]Agent [это делает]Activity ― без понятия.
+  - |
+       Какого фига [ты]Agent [орёшь]Activity? Ты даже не знаешь, как меня зовут»
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [det какого] фига] [nsubj NP-Nom] VP?]'
+  - '[root [obl [det какого] чёрта] [nsubj NP-Nom] VP?]'
+  - '[root [obl [det какого] хрена] [nsubj NP-Nom] VP?]'
+dependency_structure_of_illustration:
+  - '[root [obl [det Какого] чёрта] [nsubj ты] [advmod сюда] пришёл?]'
+comment: |
+    'Не путать с 1156 какого черта Cl! - Какого черта здесь так грязно! Также, помимо слов "фиг" и "хрен", возможны употребления матерных слов аналогичного содержания.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

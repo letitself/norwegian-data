@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen betegner [en deltakers]Participant positive holdning til en gitt [handling]Action og et samtykke til å utføre den. Fra talerens ståsted er handlingen lett å iverksette. Taleren har ingen innvendinger mot handlingen.
 examples:
+  - |
+       [Одолжить денег]Action – не вопрос.
+  - |
+       Для меня [испечь торт]Action – не вопрос, приноси ингредиенты.
+  - |
+       [Сшить платье]Action – да вообще не вопрос, выбирай цвет.
+  - |
+       [Найти работу по профессии]Action – не вопрос, главное эту профессию иметь.
+  - |
+       Для Васи [прыгнуть с парашютом]Action – вообще не вопрос, он ничего не боится.
 morphology:
   - VP
   - Inf

@@ -1,0 +1,54 @@
+---
+record: 3258
+name: 'NP-Nom NP-Dat не давать рта раскрыть'
+UD_name: ''
+illustration: 'Вечером она не давала мне рта раскрыть, рассказывала всякие истории.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Начальник не дал никому даже рта раскрыть.
+  - |
+       Он хотел что-то возразить, но бабка не дала ему рта раскрыть.
+  - |
+       Ты же мне не даешь рта раскрыть!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [advmod не] давать [xcomp [obl рта] раскрыть]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вечером] [nsubj она] [advmod не] давала [iobj мне] [xcomp [obl рта] раскрыть], [conj рассказывала [obj [det всякие] истории]].]'
+equivalents:
+  - english: |
+       to button up X's mouth
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+      - type: Capacity/Preferences
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 2609
+name: 'VP/NP Cop за тридевять земель'
+UD_name: ''
+illustration: 'Я обрадовалась: большая удача приехать за тридевять земель и сразу найти человека из нашей республики!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Крематорий]Theme есть только за тридевять земель в Кентербери, где заседает англиканский архиепископ.
+  - |
+       Так Мария в 1932 г. [оказалась]State за тридевять земель от родины, в сердце перуанских Анд.
+  - |
+       Люди [живут] не за тридевять земель друг от друга, а прямо в одной парадной.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Construction
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] [nummod тридевять] земель]]'
+  - '[dep NP [nmod [case за] [nummod тридевять] земель]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] обрадовалась: [parataxis [amod большая] удача [xcomp приехать [obl [case за] [nummod тридевять] земель] [conj [cc и] [advmod сразу] найти [obj человека [nmod [case из] [det нашей] республики]]]]]!]'
+equivalents:
+  - english: |
+       to distant lands
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Spatial characteristics
+family:
+  - |
+    ""

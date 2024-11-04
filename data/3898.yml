@@ -1,0 +1,49 @@
+---
+record: 3898
+name: 'легион NP-Gen'
+UD_name: ''
+illustration: 'Легион голосов повторяет: «Ничего подобного!»'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Зато объявился целый легион [«популяризаторов»]Set, готовых сколько угодно спекулировать на интересе широкого читателя к загадке внеземных цивилизаций.
+  - |
+       Легион [мелочей]Set, в свое время ничтожных или отрывочных, блеснул в памяти.
+  - |
+       Если верить этому дневнику, у него был легион [друзей]Set.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[dep легион [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Легион [nmod голосов]] повторяет: [parataxis «Ничего [amod подобного]]!»]'
+comment: |
+    'См. др. количественные конструкции 3851- 3919'
+equivalents:
+common_fillers:
+  - Бесов
+  - мальчишек
+  - чертей
+  - докторов
+  - голосов
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

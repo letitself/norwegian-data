@@ -1,0 +1,57 @@
+---
+record: 2823
+name: 'VP/NP-Nom Cop по нраву NP-Dat'
+UD_name: ''
+illustration: 'Верблюды сами по себе не слишком хорошие скакуны, им больше по нраву спокойное пересечение пустыни размеренным шагом'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Зарплаты на его предприятии оставались невысокими, и тех, кто [не приходился]Event [ему]Experiencer по нраву он безжалостно увольнял.
+  - |
+       Мамы юношей часто способствуют тому, чтобы сын расстался с невестой, если она [не пришлась]Event [маме жениха]Experiencer по нраву.
+  - |
+       Никто его не в силах заставить приобрести тот товар, [который]Theme [ему]Experiencer не по нраву.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       to X's liking
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Capacity/Preferences
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Non-standard subject marking
+  - type: Salient property
+    subtypes:
+      - type: Personal interests
+family:
+  - |
+    ""

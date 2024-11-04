@@ -1,0 +1,57 @@
+---
+record: 3541
+name: 'NP/VP по пустякам'
+UD_name: ''
+illustration: 'У стариков часто меняется настроение, они тревожатся по пустякам.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Это было забавно ― наши [глупые ссоры]State по пустякам и бурные примирения.
+  - |
+       Маша довольна жизнью и [не растраивается]State по пустякам.
+  - |
+       Мне работать надо, а ты по пустякам меня [отвлекаешь]Activity!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] пустякам]]'
+  - '[dep NP [nmod [case по] пустякам]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] стариков] [advmod часто] меняется [nsubj настроение], [conj [nsubj они] тревожатся [obl [case по] пустякам]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       to X over nothing
+common_fillers:
+  - отвлекаться
+  - расстраиваться
+  - тревожиться
+references:
+  - |
+    
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
+  - type: Temporary characteristics
+    subtypes:
+      - type: Appropriateness
+family:
+  - |
+    ""

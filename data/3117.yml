@@ -1,0 +1,51 @@
+---
+record: 3117
+name: 'NP в теле'
+UD_name: ''
+illustration: 'Рядом с ней сидел мужчина в теле.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Она была [женщина]Participant в теле, но спала тихо и никогда не храпела.
+  - |
+       Часам к трем дня появляется сам Семен Леонидович — приземистый [мужчина]Participant в теле.
+  - |
+       Зрители действительно беспощадны по отношению к [девушке]Participant в теле.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case в] теле]]'
+dependency_structure_of_illustration:
+  - '[root [advmod рядом [obl [case с] ней]] сидел [nsubj мужчина [nmod [case в] теле]].]'
+equivalents:
+  - english: |
+       on the plump side
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Sensory property
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

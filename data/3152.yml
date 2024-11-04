@@ -1,0 +1,49 @@
+---
+record: 3152
+name: 'за NP-Ins Cop (нужен) глаз да глаз'
+UD_name: ''
+illustration: 'За этим ребенком нужен глаз да глаз.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       За [доктором]Stimulus был нужен глаз да глаз.
+  - |
+       За [газом]Stimulus — глаз да глаз.
+  - |
+       Перед праздничными каникулами за [кафе, ресторанами и клубами]Stimulus глаз да глаз.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case за] NP-Ins] [cop Cop] нужен [nsubj глаз [conj [cc да] глаз]]]'
+  - '[root [nmod [case за] NP-Ins] [cop Cop] глаз [conj [cc да] глаз]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case За] [det этим] ребенком] нужен [nsubj глаз [conj [cc да] глаз]].]'
+equivalents:
+  - english: |
+       X must keep a sharp eye on Y
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at årsaken til en gitt [handling]Action er [en følelse eller emosjon]Cause som deltakeren har. Substantivet i den andre sloten NP-Gen konkretiserer denne [følelsen eller emosjonen]Theme (for eksempel "из чувства сострадания") eller navngir [en situasjon]Goal som deltakeren føler et psykologisk behov for (for eksempel "из жажды мести", "из желания популярности") eller, tvert imot, [som deltakeren frykter og vil unngå]Stimulus (for eksempel "из страха одиночества").
 examples:
   - |
-       Я вообще [старался не думать]Action ― из [чувства]Cause [самосохранения]Theme, поскольку прекрасно понимал, что лишние раздумья только отберут силы.
-  - |
-       Выходец из России попросил установить подлинность попавшего к нему полотна Венецианова. Видимо, из [чувства]Cause [благодарности]Theme за проведенную экспертизу он в итоге [завещал «Сенокос» Третьяковке ]Action.
-  - |
-       А художник [ищет новую землю.]Action Не из [желания]Cause [новизны]Goal, а просто потому, что невозможно жить по инерции.
-  - |
        Eще недавно все урны в городе [были убраны]Action из [страха]Cause [терактов]Stimulus.
   - |
+       Видимо, из [чувства]Cause [благодарности]Theme за проведенную экспертизу он в итоге [подарил картину музею ]Action.
+  - |
+       Виновных боятся называть из страха мести.
+  - |
        Венецианских окон никогда [не отворяли]Action из [боязни]Cause [сквозняка.]Stimulus
+  - |
+       Я вообще [старался не думать]Action ― из [чувства]Cause [самосохранения]Theme, поскольку прекрасно понимал, что лишние раздумья только отберут силы.
 morphology:
   - VP
   - NP

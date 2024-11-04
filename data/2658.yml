@@ -1,0 +1,53 @@
+---
+record: 2658
+name: 'VP на голом месте'
+UD_name: ''
+illustration: 'Он ведь этот музей на голом месте сделал'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Господин Иванов считает, что [создать полноценный завод]Result на голом месте слишком трудно, чтобы это было рациональной стратегией.
+  - |
+       Он себя красавцем считает, и не на голом месте это убеждение [появилось]Result.
+  - |
+       В 1996 году мы на голом месте [начали строить деревню]Action, в одном километре от села Ключевка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod голом] месте]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod ведь] [obj [det этот] музей] [obl [case на] [amod голом] месте] сделал]'
+equivalents:
+  - english: |
+       from scratch
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Temporary characteristics
+    subtypes:
+      - type: Transformation
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3675
+name: 'отродясь не VP-Pst'
+UD_name: ''
+illustration: 'Бабушка и слов-то таких отродясь не знала; по крайней мере, никогда не употребляла.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он отродясь не [занимался никаким общественно полезным трудом]Activity, жил как бы в свое удовольствие, как бы в забавах все время. [Виктор Астафьев. Пролетный гусь (2000)]
+  - |
+       Таких больших денег он отродясь не [видел]State.
+  - |
+       Ни на зрение, ни на слух Ольга отродясь не [жаловалась]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Converb
+  - Negation
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod отродясь] [advmod не] VP-Pst]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Бабушка]  [obj [advmod и] слов [det -то] [det таких]] [advmod отродясь] [advmod не] знала; [conj [parataxis [case по] [amod крайней] мере], [advmod никогда] [advmod не] употребляла].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Since the beginning of time X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+  - type: Timeline
+    subtypes:
+      - type: Distant past
+family:
+  - |
+    ""

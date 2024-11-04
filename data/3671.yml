@@ -1,0 +1,51 @@
+---
+record: 3671
+name: 'VP сгоряча/сдуру/спьяну'
+UD_name: ''
+illustration: 'Не слушай Васю, это он сгоряча сказал.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я сдуру [рассказал свой секрет]Action.
+  - |
+       Петя сгоряча [написал в письме что-то непонятное]Action.
+  - |
+       Иван спьяну [ничего не понял]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod сгоряча]]'
+  - '[root VP [advmod сдуру]]'
+  - '[root VP [advmod спьяна]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] слушай [obj Васю], [conj [obj это] [nsubj он] [advmod сгоряча] сказал].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X doesn't mean Y
+common_fillers:
+  - рассказал
+  - проболтался
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

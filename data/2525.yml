@@ -1,0 +1,48 @@
+---
+record: 2525
+name: 'VP/NP-Nom Cop для красоты'
+UD_name: ''
+illustration: 'Я сшила себе платье, а на него для красоты нашила эти бусины.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Я таких зверей не знаю, у которых [хвост]Theme ― для красоты.
+  - |
+       Танки и артиллерию мы украшали ветками с деревьев, но это было [украшение]Theme не для красоты.
+  - |
+       Для красоты [подняли парус]Action, хотя он был совершенно бесполезен и лишь тормозил наше движение.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] красоты]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case для] красоты]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] сшила [iobj себе] [obj платье], [conj [cc а] [obl [case на] него] [obl [case для] красоты] нашила [obj [det эти] бусины]].]'
+equivalents:
+  - english: |
+       for decoration
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

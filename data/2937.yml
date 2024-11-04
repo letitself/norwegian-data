@@ -1,0 +1,52 @@
+---
+record: 2937
+name: 'VP со страшной силой/силою'
+UD_name: ''
+illustration: 'Солнце жарило со страшной силой, тень от палатки не спасала.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Нора может со страшной силой [ударить по самолюбию]Action, а сама этого даже не заметит.
+  - |
+       У меня волосы и так не очень густые, а сейчас еще и [выпадают]Situation со страшной силой.
+  - |
+       Чувство обиды за свой родной двор [закипело во мне]Event со страшной силою.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [amod страшной] силой]]'
+  - '[root VP [obl [case со] [amod страшной] силою]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       like crazy
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

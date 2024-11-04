@@ -1,0 +1,49 @@
+---
+record: 3863
+name: 'ливень NP-Gen'
+UD_name: ''
+illustration: 'ливень заказов'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Пришел домой — ливень [пощечин]Set, лавина презрения.
+  - |
+       На уральские заводы пролился животворный ливень [заказов]Set на рельсы.
+  - |
+       На землю посыпался зеленый ливень [орехов]Set.
+  - |
+       На меня обрушился ливень [писем]Set и корреспонденции
+  - |
+       Она вдруг расплакалась, но слезы оказались притворными — они быстро высохли, и вместо них разразился настоящий ливень [слов]Set.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep ливень [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep ливень [nmod заказов]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

@@ -6,6 +6,12 @@ illustration: 'Даром мы, что ли, это писали?'
 cefr_level: C1
 definitions:
 examples:
+  - |
+       Даром [мы]Agent что ли [работали?]Activity Работа выполнена - давай деньги.
+  - |
+       Даром [я]Agent, что ли, [дал слово Жене?!]Action Если уж дал слово, то надо его держать.
+  - |
+       Но нельзя же так: даром [он,]Agent что ли, [зарплату получает?]Activity
 morphology:
   - PronPers
   - VP

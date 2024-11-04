@@ -1,0 +1,50 @@
+---
+record: 3402
+name: 'VP через пень(-)колоду'
+UD_name: ''
+illustration: 'Хотя, конечно, все получалось уже через пень-колоду.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       В ее многодетной выпивающей семье ребятишки [учились]Activity через пень колоду.
+  - |
+       [Понимал]State я немцев плохо, через пень-колоду: баварский диалект все-таки, но запоминал все словечки и доосмысливал их.
+  - |
+       Транспортное средство через пень-колоду таки [пропыхтело]Action до откупного.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case через] [compound пень] - колоду]]'
+  - '[root VP [obl [case через] [compound пень] колоду]]'
+dependency_structure_of_illustration:
+  - '[root [mark Хотя], [parataxis конечно], [nsubj все] получалось [obl [advmod уже] [case через] [compound пень] - колоду].]'
+equivalents:
+  - english: |
+       through
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Negative
+  - type: Manner
+family:
+  - |
+    ""

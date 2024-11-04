@@ -1,0 +1,53 @@
+---
+record: 2383
+name: 'VP/NP без руля и без ветрил'
+UD_name: ''
+illustration: 'Впечатление, что Церковь и христианство как-то суетятся, но без руля и без ветрил.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Как правило, это образ действий невоспитанных детей, которые [растут сами]Action без руля и без ветрил.
+  - |
+       Он утрачивает душевное равновесие, [плывет по жизни]Action без руля и без ветрил.
+  - |
+       Страна в начале войны имела во главе своей [правительство]Theme без руля и без ветрил.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] руля [conj [cc и] [case без] ветрил]]]'
+dependency_structure_of_illustration:
+  - '[root Впечатление, [acl [mark что] [nsubj Церковь [conj [cc и] христианство]] [advmod как-то] суетятся, [conj [cc но] [case без] руля [conj [cc и] [case без] ветрил]]].]'
+equivalents:
+  - english: |
+       X is like a ship without a rudder
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

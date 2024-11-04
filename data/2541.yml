@@ -1,0 +1,54 @@
+---
+record: 2541
+name: 'NP (вплоть) до седьмого колена'
+UD_name: ''
+illustration: 'Ни один твой предок до седьмого колена не отказывался от службы в армии!'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Такими же нехорошими людьми являлись [все его родственники]Participant до седьмого колена.
+  - |
+       Я врач, в своем поселке я знаю [всех]Participant до седьмого колена.
+  - |
+       Мы до всех доберемся и [потомков]Participant вспомним до седьмого колена.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case до] [amod седьмого] колена]]'
+  - '[dep NP [nmod [advmod вплоть] [case до] [amod седьмого] колена]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [nummod [advmod Ни] один] [det твой] предок] [obl [case до] [amod седьмого] колена] [advmod не] отказывался [obl [case от] службы [nmod [case в] армии]]!]'
+equivalents:
+  - english: |
+       through many generations
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

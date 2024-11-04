@@ -1,0 +1,44 @@
+---
+record: 4015
+name: 'Cl отсюда и NP'
+UD_name: ''
+illustration: 'Ной вскрикнул: "Еревац! " — что в переводе с армянского означает: "Виднеется, показалась земля! " Отсюда и название Ереван — "видение ".'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Переводимые авторы присылали сделанные своими же руками подстрочники.]Event Отсюда и [наше благодушное отношение к курсам перевода]Result.
+  - |
+       [Фадеев был прежде всего человеком долга.]Situation Отсюда — и [то самое «властолюбие»]Result.
+  - |
+       [Ценностью является коллектив]Situation. Отсюда и [девиз: ты должен отдать все другому, себе ничего]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root Cl [parataxis [advmod отсюда] [advmod и] NP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ной] вскрикнул: [parataxis "Еревац! " — [parataxis [nsubj что] [obl [case в] переводе [nmod [case с] армянского]] означает: [ccomp "Виднеется, [conj показалась] [nsubj земля!]]"]]] [root [advmod Отсюда] [advmod и] название [flat Ереван] — [parataxis "видение "].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

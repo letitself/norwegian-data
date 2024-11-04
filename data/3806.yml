@@ -1,0 +1,48 @@
+---
+record: 3806
+name: 'VP с треском'
+UD_name: ''
+illustration: 'Проект с треском провалился.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Да за такие фокусы у нас с экзамена любой [вылетел]Action бы с треском!!!
+  - |
+       Собаки с треском [съели]Action мясо.
+  - |
+       Его с треском [выгнали]Action из университета.
+  - |
+       Или система тихо бы загнивала, или [разлетелась]Action бы с треском и грохотом.
+  - |
+       Воронежцам ли напоминать, как их команда в 2001 году стала «чемпионом межсезонья», а потом с треском [покинула]Action высший дивизион?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] треском]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj проект] [obl [case с] треском] провалился]'
+equivalents:
+common_fillers:
+  - провалиться
+references:
+  - |
+    Баранов, Добровольский 2025
+semantic_types:
+family:
+  - |
+    ""

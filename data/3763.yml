@@ -1,0 +1,54 @@
+---
+record: 3763
+name: 'VP все соки (из NP-Gen)'
+UD_name: ''
+illustration: 'Эта проклятая работа высосала из меня все соки.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Он поклялся [высосать]Action все мои соки!
+  - |
+       Кругом я обложен корректурами, которые так и [тянут]Activity из [меня]Maleficiary все здоровые соки и взамен дают геморрой.
+  - |
+       Ей, буржуазии, наплевать на интеллигенцию, из [которой]Maleficiary [выжали]Action уже все соки.
+  - |
+       Как [вытаскивать]Action все соки из [франшизы]Patient?
+  - |
+       Дрянной зажравшийся мир, истекающий жиром и [выпивающий]Action все соки из [земли]Patient.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root VP [obj [det все] соки] [obl [case из] NP-Gen]]'
+  - '[root VP [obj [det все] соки]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эта] [amod проклятая] работа] высосала [obl [case из] меня] [obj [det все] соки].]'
+equivalents:
+common_fillers:
+  - выжать
+  - жать
+  - вытянуть
+  - тянуть
+  - высосать
+references:
+  - |
+    Баранов, Добровольский 2031
+semantic_types:
+family:
+  - |
+    ""

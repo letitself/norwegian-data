@@ -1,0 +1,60 @@
+---
+record: 3411
+name: 'VP/NP любой ценой'
+UD_name: ''
+illustration: 'Он хотел любой ценой добиться признания.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [От волны надо было избавиться]Purpose любой ценой.
+  - |
+       Перед врачами была поставлена задача любой ценой [спасти жизнь]Purpose этой женщине.
+  - |
+       [Берегите голову]Purpose любой ценой, удар о ступеньку очень опасен.
+  - |
+       Он пытался любой ценой [получить образование]Purpose: читал книжки, ходил на танцы.
+  - |
+       Злодеи видели, что быстрой победы уже не будет, а [победа]Purpose любой ценой в их планы не входила.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - not applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP [obl [det любой] ценой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] хотел [xcomp [obl [det любой] ценой] добиться [obl признания]].]'
+comment: |
+    'См. близкие конструкции 660, 2093.'
+equivalents:
+  - english: |
+       at any cost
+common_fillers:
+  - добиться
+  - победить
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

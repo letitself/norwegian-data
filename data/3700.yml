@@ -1,0 +1,52 @@
+---
+record: 3700
+name: 'VP по поводу и без (повода)/по любому поводу'
+UD_name: ''
+illustration: 'Наша собака часто лает по поводу и без.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Она [смеялась]Activity по любому поводу.
+  - |
+       Я считаю, никогда не нужно стоять над душой у ребёнка, [кричать]Activity по поводу и без повода.
+  - |
+       Ира [умничала]Activity по поводу и без, постоянно бросалась цитатами.
+  - |
+       Врачи сейчас [выписывают таблетки]Action по любому поводу.
+  - |
+       Офицеры [напивались]Action по любому поводу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] поводу [conj [cc и] без]]'
+  - '[root VP [obl [case по] поводу [conj [cc и] без] повода]]'
+  - '[root VP [obl [case по] [amod любому] поводу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Наша] собака] [advmod часто] лает [obl [case по] поводу [conj [cc и] без]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

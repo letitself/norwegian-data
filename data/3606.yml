@@ -1,0 +1,58 @@
+---
+record: 3606
+name: 'NP-Nom Cop Adj-Cmp всякий-Gen NP-Gen'
+UD_name: ''
+illustration: 'Хорошая мать в тысячу раз лучше всякой няни.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Главная проблема в том, что промышленной и финансовой аристократии в России нет, и [это]Comparee [хуже]Parameter всяких [силовиков]Standard.
+  - |
+       [Его молчание]Comparee порой [красноречивее]Parameter всяких [слов]Standard.
+  - |
+       [Их игра с «Ливерпулем»]Comparee была [выше]Parameter всяких [похвал]Standard.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Adjective
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] Adj-Cmp [obl [det всякий-Gen] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Хорошая] мать] [obl [case в] [nummod:gov тысячу] раз] лучше [obl [det всякой] няни].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is better tthan any Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3688
+name: 'Раз VP, два ~VP, (и/а) потом Cl'
+UD_name: ''
+illustration: 'Я ему раз сказала, два сказала, а потом обиделась и ушла.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Если вас ударить шлангом вы конечно вскрикнете. Раз [ударить]Action, два [ударить]Action, а потом [привыкнете]Result.
+  - |
+       Раз [отказался]Action, два [отказался]Action, а потом [ему и предлагать перестали]Result.
+  - |
+       Раз [удрали]Action, два [удрали]Action, а потом [им как всыпали]Result.
+  - |
+       Раз [объяснил]Action, два [объяснил]Action, потом [рявкнул]Result.
+  - |
+       Если вас трамвай задавит, вы тихонько вскрикнете. Раз [задавит]Action, два [задавит]Action, а потом [привыкнете]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Numeral
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod Раз] VP, [conj [advmod два] ~VP], [conj [advmod потом] Cl]]'
+  - '[root [advmod Раз] VP, [conj [advmod два] ~VP], [conj [cc и] [advmod потом] Cl]]'
+  - '[root [advmod Раз] VP, [conj [advmod два] ~VP], [conj [cc а] [advmod потом] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [iobj ему] [advmod раз] сказала, [conj [advmod два] сказала], [conj [cc а] [advmod потом] обиделась [conj [cc и] ушла]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

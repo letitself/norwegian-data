@@ -1,0 +1,53 @@
+---
+record: 2938
+name: 'XP со школьной скамьи'
+UD_name: ''
+illustration: 'Подготовка будущего учёного начинается со школьной скамьи.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Со школьной скамьи [нам известно, что компас изобретен в Китае]Situation.
+  - |
+       Неизбежно возникают образы великих испанцев, [знакомые]Property еще со школьной скамьи ― это и Сервантес, это Веласкес и Гойя, Пикассо и Эль Греко.
+  - |
+       Был у меня большой [друг]Possessed ещё со школьной скамьи ― в одном классе четыре года учились, за одной партой сидели.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from school days
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

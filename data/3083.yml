@@ -1,0 +1,48 @@
+---
+record: 3083
+name: 'VP только так'
+UD_name: ''
+illustration: 'Бабушкины пироги дети ели только так.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Ребёнок [болтал на двух языках]Action только так.
+  - |
+       Москвичей он [не любил]State только так!
+  - |
+       Не расслабляйся, она [тебя обманет]Action только так.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod только] так]]'
+dependency_structure_of_illustration:
+  - '[root [obj [amod Бабушкины] пироги] [nsubj дети] ели [advmod [advmod только] так].]'
+equivalents:
+  - english: |
+       NA
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3988
+name: 'VP, и дело с концом'
+UD_name: ''
+illustration: 'Убить его, придурка, да и дело с концом!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Даже посуду можно не мыть: [сгрузил в посудомоечную машину]Action, и дело с концом.
+  - |
+       [Примите как данность]Action — и дело с концом.
+  - |
+       [Выбросить всю эту чушь из головы]Action — и дело с концом!
+  - |
+       Сейчас [ляжет на боковую]Action, и дело с концом
+  - |
+       Да, может, и лучше было бы — убили и убили, ничего не поделаешь: [поплакали бы, похоронили]Action, да и дело с концом!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP'
+  - '[conj [cc и] дело [nmod [case с] концом]]'
+dependency_structure_of_illustration:
+  - '[root Убить [obj его, [parataxis придурка]], [conj [cc да [fixed и]] дело [nmod [case с] концом]]!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

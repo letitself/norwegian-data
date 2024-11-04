@@ -1,0 +1,60 @@
+---
+record: 2770
+name: 'VP один-Ins NP-Ins'
+UD_name: ''
+illustration: 'Вот был бы папа, он бы меня одной левой поднимал и приемчикам бы учил'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Этот товарищ мог одним [росчерком пера]Manner [назначать и увольнять руководителей театров,]Action главных дирижеров филармоний и директоров консерваторий.
+  - |
+       А вот во что легко поверить, так это в то, что одним [росчерком пера]Manner можно [решить все проблемы своего родного завода]Result.
+  - |
+       Одним [росчерком пера]Manner ты хочешь [погубить все,]Result что я сделала для тебя!
+  - |
+       Хрупкая семейка, которую ничего не стоит [раздавить]Action одним [пальцем]Manner.
+  - |
+       ― Андрей, ― сказал я угрожающе, ― я тебя [нокаутирую]Action одним [пальцем]Manner.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [nummod один-Ins] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] был [aux бы] [nsubj папа], [conj [nsubj он] [aux бы] [obj меня] [obl [amod одной] левой] поднимал [conj [cc и] [iobj приемчикам] [aux бы] учил]]]'
+comment: |
+    'См. также VP одним махом'
+equivalents:
+  - english: |
+       with a single stroke of a pen
+common_fillers:
+  - удар
+  - палец
+  - мизинец
+  - левая
+  - рука
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2660
+name: 'VP на голубом глазу'
+UD_name: ''
+illustration: 'В сочинении мальчик на голубом глазу написал, как, с его точки зрения, следовало поступить с ненавистной одноклассницей'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я хочу понять, какой была сестра Маша, ― [солгала]Action Настя на голубом глазу.
+  - |
+       Появились даже философы, которые на голубом глазу [уверяли]Activity, что коммунизм уже совсем недалек, и восторжествует он в тот день, когда бесплатным станет хлеб!
+  - |
+       Угрозы, которыми пугают народ СМИ, часто противоречат друг другу: например, одно и то же издание может на голубом глазу [прогнозировать и обвал рубля, и крах доллара]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod голубом] глазу]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] сочинении] [nsubj мальчик] [obl [case на] [amod голубом] глазу] написал, [ccomp [mark как], [parataxis [case с] [det его] точки [nmod зрения]], следовало [csubj поступить [obl [case с] [amod ненавистной] одноклассницей]]]]'
+equivalents:
+  - english: |
+       with a straight face
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

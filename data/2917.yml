@@ -1,0 +1,52 @@
+---
+record: 2917
+name: 'VP с честью'
+UD_name: ''
+illustration: 'Вы обязаны сделать всё, чтобы с честью выдержать это испытание.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Наверное, были и трудности, но фирма с честью [справилась с ними]Action и прочно закрепилась в России.
+  - |
+       Пока надо с честью [переносить тяжести военного времени]State.
+  - |
+       Алексей с честью [выходил даже из таких неприятных ситуаций]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] честью]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       honourably
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

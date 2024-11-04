@@ -1,0 +1,58 @@
+---
+record: 2711
+name: 'VP/NP-Nom Cop на повестке дня'
+UD_name: ''
+illustration: 'На повестке дня возобновление работы двух других переговорных групп'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Осенью [вопрос об отставке кабинета министров]Theme может вновь встать на повестке дня.
+  - |
+       Опять на повестке дня [вопрос]Theme, какие религиозные конфессии считать традиционными.
+  - |
+       [Административная реформа]Theme будет на повестке дня во время избирательной кампании, многие партии и политические лидеры уже сейчас о ней говорят.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] повестке [nmod дня]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] повестке [nmod дня]]'
+dependency_structure_of_illustration:
+  - '[root [case На] повестке [nmod дня] [nsubj возобновление [nmod работы [nmod [nummod двух] [amod других] [amod переговорных] групп]]]]'
+comment: |
+    'Также см. VP на повестку дня'
+equivalents:
+  - english: |
+       on the agenda
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

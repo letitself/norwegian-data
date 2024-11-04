@@ -1,0 +1,53 @@
+---
+record: 2975
+name: 'VP все без исключения (NP)'
+UD_name: ''
+illustration: 'Не могу же я всем без исключения сообщить, что мой брат учится в Консерватории.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Почти по всем без исключения [вопросам,]Theme затронутым в данной работе, в настоящее время [ведутся оживлённые научные дискуссии]Activity.
+  - |
+       Однако [просмотреть]Action все без исключения [ученические работы]Theme ― это, согласитесь, подвиг.
+  - |
+       Во всех без исключения [письмах]Location [звучит]State одна и та же мысль: слишком много лжи вокруг истинного положения дел.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       without exception
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

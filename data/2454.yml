@@ -1,0 +1,48 @@
+---
+record: 2454
+name: 'VP в рабочем порядке'
+UD_name: ''
+illustration: 'Большое число документов рассматривалось в рабочем порядке, и по ним принимались решения.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Все уже было в рабочем порядке [оговорено]Result.
+  - |
+       Петров закрыл совещание обещанием [решить наш вопрос]Action в рабочем порядке.
+  - |
+       Я думаю, мы [передадим вам этот документ]Action в рабочем порядке, как и другие материалы.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod рабочем] порядке]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Большое] число [nmod документов]] рассматривалось [obl [case в] [amod рабочем] порядке], [conj [cc и] [obl [case по] ним] принимались [nsubj решения]].]'
+equivalents:
+  - english: |
+       as one goes
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

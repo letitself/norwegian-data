@@ -1,0 +1,55 @@
+---
+record: 2856
+name: 'ХР по чину'
+UD_name: ''
+illustration: 'Только от равных себе по чину он принимал противные его взгляду мнения'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Пока служил в армии, он приветствовал первым [старших]Counteragent по чину.
+  - |
+       Видимо, он посчитал, что менеджеру не по чину [смущать генерального директора разговорами о его властном характере]Activity.
+  - |
+       Прощаясь, он дружески жалуется Павлу, что машина у него не по чину [маломощна,]Property а на достойную нет средств.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       according to rank
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Salient property
+    subtypes:
+      - type: Status
+  - type: Temporary characteristics
+    subtypes:
+      - type: Appropriateness
+family:
+  - |
+    ""

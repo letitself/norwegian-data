@@ -1,0 +1,60 @@
+---
+record: 3199
+name: 'VP PronInt попадётся/попадёт/подвернётся (под руку)'
+UD_name: ''
+illustration: 'На улице ребёнок хватал всё, что попадётся под руку.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Она [питалась]Activity нерегулярно и тем, что попадалось под руку.
+  - |
+       Она уже давно вышла из того возраста, когда ребёнок всё, что подвернётся, [сует в рот.]Activity
+  - |
+       А  иногда мы дурачились и [собирали пазлы]Activity как попадется.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP, [acl:relcl [dep PronInt] попадёт]]'
+  - '[root VP, [acl:relcl [dep PronInt] попадётся]]'
+  - '[root VP, [acl:relcl [dep PronInt] подвернётся]]'
+  - '[root VP, [acl:relcl [dep PronInt] попадёт [obl [case под] руку]]]'
+  - '[root VP, [acl:relcl [dep PronInt] попадётся [obl [case под] руку]]]'
+  - '[root VP, [acl:relcl [dep PronInt] подвернётся [obl [case под] руку]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] улице] [nsubj ребёнок] хватал [obj всё, [acl:relcl [nsubj что] попадётся [obl [case под] руку]]].]'
+equivalents:
+  - english: |
+       whatever
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Indifference to norms/expectations
+  - type: Quantification
+    subtypes:
+      - type: Universal
+        subtypes:
+          - type: Free Choice
+family:
+  - |
+    ""

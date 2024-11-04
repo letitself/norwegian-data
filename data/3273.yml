@@ -1,0 +1,54 @@
+---
+record: 3273
+name: 'не стоить NP-Gen/PronPoss-Gen мизинца'
+UD_name: ''
+illustration: 'Они и твоего мизинца не стоят. Ты умнее всех в этом доме!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Они и [твоего]Possessor мизинца не стоят. Ты умнее всех в этом доме!
+  - |
+       А вы, со всеми вашими достоинствами, не стоите мизинца [этой несчастной девушки, которую вы так обидели.]Possessor
+  - |
+       Как он добр, и я не стою [его]Possessor мизинца…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] стоить [obl [nmod NP-Gen] мизинца]]'
+  - '[root [advmod не] стоить [obl [det PronPoss-Gen] мизинца]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] [obl [advmod и] [det твоего] мизинца] [advmod не] стоят!]'
+equivalents:
+  - english: |
+       can’t hold a candle to
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Importance/Worth
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

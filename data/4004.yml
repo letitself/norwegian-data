@@ -1,0 +1,52 @@
+---
+record: 4004
+name: 'как один/первый/тот (NP) VP, так и другой/второй/этот'
+UD_name: ''
+illustration: 'Как тот парень не справился с поставленной задачей, так и этот.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Как одному [не хотелось безликой жизни]Situation, так и другому.
+  - |
+       И тогда как одни, так и другие [будут только элементами, хотя и разными]Situation.
+  - |
+       Как первый [капитан]Agent требовал надежных мореходных судов]Situation, так и второй.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Numeral
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj [mark как] [nummod один] NP] VP, [conj [cc так [fixed и]] другой]]'
+  - '[root [nsubj [mark как] один] VP, [conj [cc так [fixed и]] другой]]'
+  - '[root [nsubj [mark как] [nummod первый] NP] VP, [conj [cc так [fixed и]] второй]]'
+  - '[root [nsubj [mark как] первый] VP, [conj [cc так [fixed и]] второй]]'
+  - '[root [nsubj [mark как] [det тот] NP] VP, [conj [cc так [fixed и]] другой]]'
+  - '[root [nsubj [mark как] тот] VP, [conj [cc так [fixed и]] другой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [mark Как] [det тот] парень] [advmod не] справился [obl [case с] [amod поставленной] задачей], [conj [cc так [fixed и] этот].]'
+comment: |
+    '"Один" всегда встречается вместе с "другой", "первый" - со "второй", а "тот" - с "этот".'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

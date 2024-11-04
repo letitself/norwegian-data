@@ -1,0 +1,55 @@
+---
+record: 3559
+name: 'NP-Nom чего ждать-Prs?'
+UD_name: ''
+illustration: 'Пора ехать, опаздываем! Вы чего ждете?'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Ольга пихнула меня под бок. ― А [ты]Participant чего ждешь? Вон твоя судьба идет!
+  - |
+       Иван спрятался и тебя прислал? [Он]Participant чего ждет?
+  - |
+       Ехали бы [вы]Participant, чего ждете-то?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl чего] ждать-Prs?]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вы] [obl чего] ждете?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       No time like the present
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Causation
+    subtypes:
+      - type: Indirect
+family:
+  - |
+    ""

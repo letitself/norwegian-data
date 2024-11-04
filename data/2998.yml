@@ -1,0 +1,53 @@
+---
+record: 2998
+name: 'XP в корне'
+UD_name: ''
+illustration: 'Наша задача ― в корне изменить этот подход.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Ставить знак равенства между интеллектом и героизмом, [неправильно]Evaluation в корне.
+  - |
+       Вот качества, которыми японская школа в корне [отличается от всякой европейской]State.
+  - |
+       Эти предложения в корне [не устраивают поставщиков]State.
+  - |
+       Несмотря на в корне несправедливые обвинения прокурора, суд присяжных безоговорочно оправдал обвиняемую.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+  - type: Manner
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

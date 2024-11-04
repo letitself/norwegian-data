@@ -1,0 +1,52 @@
+---
+record: 2948
+name: 'NP-Nom Cop тут как тут'
+UD_name: ''
+illustration: 'Придёт, сядет и зашуршит своим "Сникерсом". А девочка тут как тут.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       В некоторых домах еще супы в горшках не остыли, а [новые хозяева]Participant тут как тут.
+  - |
+       Поэт повеселился ― [злобно дышащие критики]Participant тут как тут: ага, почуял новую конъюнктуру!
+  - |
+       Когда Неля шла в паспортный стол забирать викино свидетельство, [участковый]Participant был тут как тут.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       there in a flash
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

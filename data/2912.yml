@@ -1,0 +1,55 @@
+---
+record: 2912
+name: 'VP с успехом'
+UD_name: ''
+illustration: 'Ряд его блестящих спектаклей с успехом идут и сегодня.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Все дети оценили Анину находку и стали с успехом применять этот метод.
+  - |
+       Потом он всё-таки вернулся на сцену и работал с успехом.
+  - |
+       Я привыкла, что работу нужно искать, и с успехом находила ее.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] успехом]]'
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'см. также 1882 с таким/тем же успехом Cl'
+equivalents:
+  - english: |
+       with success
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

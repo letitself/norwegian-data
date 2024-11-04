@@ -6,6 +6,12 @@ illustration: 'С чего ты взял, что у меня плохое нас
 cefr_level: B2
 definitions:
 examples:
+  - |
+       Ну почему индус? С чего [ты]Speaker взял, что [он индус?]ContentOfSpeech
+  - |
+       С чего [вы]Speaker взяли, что [Катя прогуляла школу?]ContentOfSpeech
+  - |
+       С чего [я]Speaker взял, что [он станет отвечать на мои вопросы]ContentOfSpeech ― бог весть.
 morphology:
   - NP
   - Nom

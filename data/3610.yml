@@ -1,0 +1,56 @@
+---
+record: 3610
+name: 'NP-Nom просто VP-Pst.Pfv'
+UD_name: ''
+illustration: 'В последние месяцы все просто с ума посходили!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Миша]Experiencer преследовал Катю, ждал возле работы, просто [с ума сошел]State.
+  - |
+       Когда я прочитал эту книгу, [я]Experiencer просто [умер от смеха]State!
+  - |
+       С появлением Альберта [семья]Experiencer просто [ожила]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod просто] VP-Pst.Pfv]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod последние] месяцы] [nsubj все] [advmod просто] [obl [case с] ума] посходили!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X went crazy
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

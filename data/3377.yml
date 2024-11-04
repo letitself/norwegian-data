@@ -1,0 +1,48 @@
+---
+record: 3377
+name: 'NP-Nom спасать PronPoss шкуру'
+UD_name: ''
+illustration: 'Ты спасал свою шкуру, а не Родину'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Человек]Agent ухватится за соломинку, чтобы спасти [свою]Possessor шкуру.
+  - |
+       [Старшие мальчики]Agent поддерживали строгую дисциплину, чтобы спасти [свою]Possessor шкуру.
+  - |
+       [Ты]Agent упрямо игнорируешь очевидное, только чтобы спасти [свою]Possessor шкуру.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] спасать [obj [det PronPoss] шкуру]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] спасал [obj [det свою] шкуру, [conj [cc а] [advmod не] Родину]].]'
+equivalents:
+  - english: |
+       a sucking sensation in a pot of a stomach
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Beneficiary
+family:
+  - |
+    ""

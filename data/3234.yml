@@ -1,0 +1,47 @@
+---
+record: 3234
+name: 'VP на дорожку'
+UD_name: ''
+illustration: 'Он ласково говорит им на дорожку ещё два слова.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Давайте присядем на дорожку и в путь.
+  - |
+       Давай кофейку выпьем на дорожку!
+  - |
+       Может, чай с тортиком на дорожку?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] дорожку]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod ласково] говорит [iobj им] [obl [case на] дорожку] [obj [nummod:gov [advmod ещё] два] слова].]'
+equivalents:
+  - english: |
+       for the road
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Purpose
+family:
+  - |
+    ""

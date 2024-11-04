@@ -1,0 +1,61 @@
+---
+record: 3466
+name: 'Как же так (получилось/случилось/вышло), Cl?'
+UD_name: ''
+illustration: 'Как же так, терять свою жизнь ради детей.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Как же так получилось, что [эта девочка пришла в мою жизнь]Situation?
+  - |
+       Kак же так [наказывать]Situation, [ребенок ― и вдруг наказывать]Situation!
+  - |
+       Ну, боже мой, как же так [можно пугать отца]Situation?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with Parenthetical
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Non Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod Как [advmod же]] так, [conj Cl]]'
+  - '[root [advmod Как [advmod же]] [advmod так] вышло, [conj Cl]]'
+  - '[root [advmod Как [advmod же]] [advmod так] случилось, [conj Cl]]'
+  - '[root [advmod Как [advmod же]] [advmod так] получилось, [conj Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Как [advmod же]] так, [conj терять [obj [det свою] жизнь] [obl [case ради] детей]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       how did that happen that X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

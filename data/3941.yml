@@ -1,0 +1,53 @@
+---
+record: 3941
+name: 'NP-Nom взять верх (над NP-Ins) (в NP-Loc)'
+UD_name: ''
+illustration: 'В финале наша команда взяла верх над соперниками.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       ― [Политика]Agent снова взяла верх над [экономикой]Counteragent, ― сокрушался он.
+  - |
+       Впервые [наше оружие]Agent взяло верх над [турецким]Counteragent.
+  - |
+       [Во втором туре]Situation [Петербург]Agent взял верх над [«Соколом»]Counteragent, а «Динамо» — над Новгородом.
+  - |
+       В 2006-м [Крамник]Agent взял верх в [матче]Situation с Топаловым и стал абсолютным чемпионом мира.
+  - |
+       Но [Комаров]Agent уже не хотел упустить случая взять верх в [споре]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] взять [obj верх] [obl [case над] NP-Ins] [obl [case в] NP-Loc]]'
+  - '[root [nsubj NP-Nom] взять [obj верх] [obl [case над] NP-Ins]]'
+  - '[root [nsubj NP-Nom] взять [obj верх] [obl [case в] NP-Loc]]'
+  - '[root [nsubj NP-Nom] взять [obj верх]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] финале] [nsubj [det наша] команда] взяла [obj верх] [obl [case над] соперниками].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,62 @@
+---
+record: 2536
+name: 'NP-Nom Cop/Adj до кончиков/конца/концов ногтей'
+UD_name: ''
+illustration: 'Она же честная до кончиков ногтей.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Они [развращены]Property до конца ногтей; ты не знаешь, на что они способны!
+  - |
+       Он [честен, правдив и демократ]Property до кончиков ногтей.
+  - |
+       Самолюбие мое [было обижено]State до конца ногтей.
+  - |
+       Софья увольняется ― несокрушимая в своих принципах, [профессиональная]Property до кончиков ногтей.
+  - |
+       Он прекрасный семьянин и [аристократ]Status до кончиков ногтей.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP-Nom [nmod [case до] кончиков [nmod ногтей]]]'
+  - '[dep NP-Nom [nmod [case до] конца [nmod ногтей]]]'
+  - '[dep NP-Nom [nmod [case до] концов [nmod ногтей]]]'
+  - '[dep Adj [obl [case до] кончиков [nmod ногтей]]]'
+  - '[dep Adj [obl [case до] конца [nmod ногтей]]]'
+  - '[dep Adj [obl [case до] концов [nmod ногтей]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] [advmod же] честная [obl [case до] кончиков [nmod ногтей]].]'
+equivalents:
+  - english: |
+       to the tips of X's toes
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Salient property
+    subtypes:
+      - type: Matching the standard
+family:
+  - |
+    ""

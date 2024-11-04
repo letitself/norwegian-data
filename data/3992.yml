@@ -1,0 +1,48 @@
+---
+record: 3992
+name: 'XP (— это вам) не хухры-мухры'
+UD_name: ''
+illustration: 'Работать врачом в сельской поликлинике - это вам не хухры-мухры. Надо очень много знать.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       [Две тысячи кубиков добыли на дюжину человек]ContentOfSpeech. Это не хухры-мухры.
+  - |
+       Хорошо бы еще пионерский значок достать, тогда всем будет ясно, что [я]Theme не просто так, не хухры-мухры, а настоящий пионер.
+  - |
+       И, видно вспомнив, что [она]Participant все же не хухры-мухры, все же староста класса, уже строго, со взрослым достоинством продолжила свою речь.
+  - |
+       Ты, брат, помни, [журналистика]ContentOfSpeech ― это тебе не хухры-мухры.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+  - Reduplication
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Not applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [csubj XP] [advmod не] хухры-мухры]'
+  - '[root [csubj XP] - [expl это] [iobj вам] [advmod не] хухры-мухры]'
+dependency_structure_of_illustration:
+  - '[root [csubj Работать [obl врачом] [obl [case в] [amod сельской] поликлинике]] - [expl это] [iobj вам] [advmod не] хухры-мухры.] [root Надо [xcomp [advmod очень [advmod много]] знать].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3193
+name: 'NP-Nom Cop/VP как огурчик'
+UD_name: ''
+illustration: 'Мать тогда не болела, и отец тоже был как огурчик – крепкий, здоровый.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Иди искупайся в реке, будешь как огурчик.
+  - |
+       [Я]Agent заснул часа в три ночи, но в пять уже был как огурчик.
+  - |
+       [Я]Agent проспала до полуночи и теперь [чувствую себя]State как огурчик.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case как] огурчик]'
+  - '[root [nsubj NP-Nom] VP [obl [case как] огурчик]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мать] [advmod тогда] [advmod не] болела, [conj [cc и] [nsubj отец] [advmod тоже] [cop был] [case как] огурчик - [parataxis крепкий, [conj здоровый]]].]'
+equivalents:
+  - english: |
+       never better
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Appearance
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

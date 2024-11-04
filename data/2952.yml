@@ -1,0 +1,55 @@
+---
+record: 2952
+name: 'Cl и хоть бы хны/что'
+UD_name: ''
+illustration: 'Недавно она бутылку виски выпила ― и хоть бы что.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Он ежедневно выпивает по бутылке водки]Situation ― и хоть бы хны!
+  - |
+       [Я вчера танцевала весь вечер напролет]Situation ― и хоть бы что!
+  - |
+       [Люди пьют сырую воду из речки]Situation ― и хоть бы хны!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+  - Interjection
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       couldn’t care less
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

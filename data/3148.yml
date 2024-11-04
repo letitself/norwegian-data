@@ -1,0 +1,54 @@
+---
+record: 3148
+name: 'NP-Nom Cop на первом плане (у NP-Gen)'
+UD_name: ''
+illustration: 'Безопасность должна быть на первом плане.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Сейчас у [всех аэропортов]Theme на первом плане [проблема восстановления пассажиропотока.]Theme
+  - |
+       На первом плане в [Chanel]Theme всегда [фигура модельера.]Theme
+  - |
+       [Для одних художников]Participant на первом плане было [искусство,]Theme другие же относились к заказам сугубо потребительски.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod первом] плане]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod первом] плане [obl [case у] NP-Gen]]'
+  - '[root [nsubj NP-Nom] XP [obl [case на] [amod первом] плане]]'
+  - '[root [nsubj NP-Nom] XP [obl [case на] [amod первом] плане] [obl [case у] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Безопасность] должна [cop быть] [obl [case на] [amod первом] плане].]'
+equivalents:
+  - english: |
+       come to the fore
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

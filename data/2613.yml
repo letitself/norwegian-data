@@ -1,0 +1,57 @@
+---
+record: 2613
+name: 'VP-Ipfv (и) зимой и летом/летом и зимой'
+UD_name: ''
+illustration: 'Ходит по ночам зимой и летом в кальсонах и майке'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       И зимой и летом семья [просыпалась от холода]Action.
+  - |
+       Всё его имущество составляла ветхая, потрёпанная одежда, которую он [носил]Activity и зимой, и летом.
+  - |
+       Эти окна в хорошую погоду и зимой и летом [держались открытыми]State, чтобы температура на чердаке равнялась уличной.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP-Ipfv [obl зимой [conj [cc и] летом]]]'
+  - '[root VP-Ipfv [obl летом [conj [cc и] зимой]]]'
+  - '[root VP-Ipfv [obl [cc и] зимой [conj [cc и] летом]]]'
+  - '[root VP-Ipfv [obl [cc и] летом [conj [cc и] зимой]]]'
+dependency_structure_of_illustration:
+  - '[root Ходит [obl [case по] ночам] [obl зимой [conj [cc и] летом]] [obl [case в] кальсонах [conj [cc и] майке]]]'
+comment: |
+    'см. похожую конструкцию "VP днём и ночью".'
+equivalents:
+  - english: |
+       the year round
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Habitual
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

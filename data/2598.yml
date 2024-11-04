@@ -1,0 +1,53 @@
+---
+record: 2598
+name: 'VP за кулисами (NP-Gen)'
+UD_name: ''
+illustration: 'За кулисами следствия и в ходе суда действовали и личные мотивы и факторы церковной политики'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Многие просто [живут себе тихо]Action за кулисами и наблюдают.
+  - |
+       Но что [происходило]Action за кулисами видимых для всех событий и слышимых всеми речей?
+  - |
+       Вместо этого мы видим [много суеты и истерик]Theme за кулисами этой проблемы.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] кулисами]]'
+  - '[root VP [obl [case за] кулисами [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case За] кулисами [nmod следствия] [conj [cc и] [case в] [fixed ходе] суда]] действовали [nsubj [advmod и] [amod личные] мотивы [conj [cc и] факторы [nmod [amod церковной] политики]]]]'
+equivalents:
+  - english: |
+       behind-the-scenes
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Witnesses
+family:
+  - |
+    ""

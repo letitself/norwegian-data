@@ -11,9 +11,9 @@ definitions:
        Konstruksjonen betyr at en gitt [handling]Action finner sted rett etter en annen [handling]Event. Som regel skjer den første handlingen svært raskt, men på denne korte tiden rekker den andre handlingen å inntreffe, uventet for taleren. Sloten NP-Acc fylles vanligvis av navn på tidsrom, ofte i diminutiv (for eksempel "на секундочку, на минуточку, на минутку, на часок").
 examples:
   - |
-       И он стал подробно рассказывать, какие замечательные у него дети. Я терпеливо слушал, но, как только он на [минуту]Measure [сделал паузу]Event, я [спросил]Action: ― «Ну, как?.. Книжечку мою прочитали?»
+       Я терпеливо слушал, но, как только он на [минуту]Measure [сделал паузу]Event, я [спросил]Action: ― «Ну, как?.. Книжечку мою прочитали?»
   - |
-       Но, как только больной на [секунду]Measure [остановился]Event, профессор [встал]Action, показывая, что процедура окончена.
+       Как только больной на [секунду]Measure [остановился]Event, как профессор [встал]Action, показывая, что процедура окончена.
   - |
        Он хотел сесть, но только [оторвал голову от подушки]Event, как [опять сильно заболела голова]Situation.
   - |

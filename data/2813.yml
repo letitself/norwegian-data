@@ -1,0 +1,52 @@
+---
+record: 2813
+name: 'VP по закону подлости'
+UD_name: ''
+illustration: 'Три дня, прошедшие до его отъезда, по закону подлости были так полны дел, что они почти не виделись'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Если вас случайно обрызгал с ног до головы пролетевший мимо автомобиль или глупая птичка по закону подлости [«облегчилась» именно на вас,]Action то лучше сразу же обратиться к специалистам, работающим в нашей химчистке.
+  - |
+       Николай Михайлович приезжал сюда на автобусе ― машина, по закону подлости, [оказалось серьезно сломана]Event.
+  - |
+       Три дня, прошедшие до его отъезда, по закону подлости [были так полны дел,]State что они почти не виделись.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       by Murphy's law
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

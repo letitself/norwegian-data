@@ -1,0 +1,51 @@
+---
+record: 4009
+name: 'скажем так, Cl'
+UD_name: ''
+illustration: 'На это было интересно посмотреть. Скажем так, очень необычно.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Мне хотелось пожить некоторый период, скажем так, [в мире и согласии с собой]Situation.
+  - |
+       Извини, но я не верю, что ты, ну, скажем так, [не полюбопытствовала]Situation.
+  - |
+       Скажем так, [я нигде этому не учился]Situation.
+  - |
+       Скажем так: [это будет история о двух художниках, о вечном конфликте между традиционным и концептуальным искусством]Situation.
+  - |
+       А если изгнанный волк забрёл на территорию стаи, которая, скажем так, [укомплектована]Situation, ― его убивают?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis скажем [advmod так]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] это] [cop было] интересно [xcomp посмотреть]]. [root [parataxis Скажем [advmod так]], [advmod очень] необычно.]'
+comment: |
+    'Не путать с 2349 скажем, XP/Cl --Вариантов предлагается множество. Скажем, рассматривается китайская модель образования.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

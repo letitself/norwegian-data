@@ -1,0 +1,55 @@
+---
+record: 2389
+name: 'бог знает PronInt'
+UD_name: ''
+illustration: 'Бог знает как он выживает.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Ты столько дней пропадал бог знает [где]Location!
+  - |
+       Мы придем снова Бог знает [когда]Circumstance.
+  - |
+       Бог знает [почему]Cause, ни ей, ни ему не хотелось начинать разговора.
+  - |
+       Что говорить, приятно когда ради тебя летят Бог знает откуда.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - т
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj бог] знает [advmod PronInt]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Бог] знает [ccomp [advmod как] [nsubj он] выживает].]'
+equivalents:
+  - english: |
+       God knows where
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3962
+name: 'вести NP-Acc'
+UD_name: ''
+illustration: 'В XIII веке Франция вела войну с Англией.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       В палатке уставшие солдаты вели [разговор о своих женах, о плохих и хороших начальниках и о доме]Activity.
+  - |
+       Нужно понять, из какого оружия ведётся [стрельба]Activity.
+  - |
+       Я вообще считаю, что вести [переговоры с этой компанией]Activity бессмысленно.
+  - |
+       Мы ведём [достаточно простую жизнь]Activity
+  - |
+       Они уже несколько дней непрерывно ведут стрельбу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root вести [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [nummod XIII] веке] [nsubj Франция] вела [obj войну [nmod [case с] Англией]].]'
+equivalents:
+common_fillers:
+  - стрельба
+  - бой
+  - война
+  - разговор
+  - переговоры
+  - жизнь
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3336
+name: 'потрясти/поразить NP-Acc до глубины души (NP-Ins)'
+UD_name: ''
+illustration: 'Но прежде, чем я снова передам ему слово, хочу рассказать вам о событии, которое лично меня потрясло до глубины души…'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [То, что она увидела,]Stimulus потрясло [её]Experiencer до глубины души.
+  - |
+       [Вас]Experiencer [результат]Stimulus поразит до глубины души, поскольку его нет.
+  - |
+       Тогда отец впервые показал ему [прибор,]Stimulus поразивший [сына]Experiencer до глубины души, ― компас.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root потрясти [obj NP-Acc] [obl [case до] глубины [nmod души]]]'
+  - '[root поразить [obj NP-Acc] [obl [case до] глубины [nmod души]]]'
+  - '[root потрясти [obj NP-Acc] [obl [case до] глубины [nmod души]] [obl NP-Ins]]'
+  - '[root поразить [obj NP-Acc] [obl [case до] глубины [nmod души]] [obl NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [cc Но] [advmod прежде, [advcl [mark чем] [nsubj я] [advmod снова] передам [iobj ему] [obj слово]], хочу [xcomp рассказать [iobj вам] [obl [case о] событии, [acl:relcl [nsubj которое] [obj [advmod лично] меня] потрясло [obl [case до] глубины [nmod души]]]]].]'
+equivalents:
+  - english: |
+       to the very depth of X's soul
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

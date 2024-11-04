@@ -6,6 +6,16 @@ illustration: 'Вася ест три раза в день.'
 cefr_level: A2
 definitions:
 examples:
+  - |
+       [Пей лекарство]Action [2]Quantity раза в [день]Measure и через неделю все пройдет.
+  - |
+       [Сколько]Quantity раз в [день]Measure нужно [гулять]Action и в какое время?
+  - |
+       Как правило, люди [посещают]Action врача [1-2]Quantity раза за [год.]Measure
+  - |
+       Вчера вот [был на работе]State [первый]Quantity раз за [полтора месяца.]Measure
+  - |
+       Иногда это [бывает]Action всего [один]Quantity раз за [зиму!]Measure
 morphology:
   - VP
   - NumCrd

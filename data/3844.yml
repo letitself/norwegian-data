@@ -1,0 +1,51 @@
+---
+record: 3844
+name: 'русским языком VP (NP-Acc PronPers-Dat) / по-русски VP (NP-Acc PronPers-Dat)'
+UD_name: ''
+illustration: 'Я тебе русским языком говорю: уходи отсюда!'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Вам же ясно сказали, русским языком: проходите, пожалуйста!
+  - |
+       Чья это девочка? Я же тебя русским языком спросила
+  - |
+       Ваще ничё не понял. Объясните русским языком, а не юридическим.
+  - |
+       Я написала русским языком. Есть наука вакцинология, ее писала не я, если Вам интересно, изучайте.
+  - |
+       Тебе русским языком написали почему ― срок давности.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [amod русским] языком] VP [obj NP-Acc] [iobj PronPers-Dat]]'
+  - '[root [advmod по-русски] VP [obj NP-Acc] [iobj PronPers-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [iobj тебе] [obl [amod русским] языком] говорю: [parataxis уходи [advmod отсюда]]]!'
+equivalents:
+common_fillers:
+  - говорить
+  - спрашивать
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

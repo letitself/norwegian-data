@@ -1,0 +1,52 @@
+---
+record: 2685
+name: 'NP-Nom Cop на мази'
+UD_name: ''
+illustration: 'Дело вроде бы на мази, но, разумеется, все может сорваться в последнюю секунду'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Всё]Theme было на мази, комитет рекомендовал присудить Арнольду медаль.
+  - |
+       Понимаешь, что случилось: у Ларисы [личная жизнь]Theme опять на мази.
+  - |
+       Создается впечатление, что [дело]Theme уже на мази, остается только нажать кнопку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] мази]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Дело] [advmod вроде [fixed бы]] [case на] мази, [conj [cc но], [parataxis разумеется], [nsubj все] может [xcomp сорваться] [obl [case в] [amod последнюю] секунду]]]'
+equivalents:
+  - english: |
+       a done deal
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

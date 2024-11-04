@@ -1,0 +1,46 @@
+---
+record: 3350
+name: 'VP с боем'
+UD_name: ''
+illustration: 'Товарищи смогли с боем добыть себе расходники из Москвы, а мы решили штурмовать Китай.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Через месяц мы с боем [вырвали у начальства два дня отгулов]Action и поехали.
+  - |
+       Новая музыкальная культура, [пробиваясь]Action с боем, противостоит консерваторам.
+  - |
+       С боем [добытая]Action у тульского рыбхоза рыба не слишком мясиста.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] боем]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Товарищи] смогли [obl [case с] боем] [xcomp добыть [iobj себе] [obj расходники [nmod [case из] Москвы]]], [conj [cc а] [nsubj мы] решили [xcomp штурмовать [obj Китай]]].]'
+equivalents:
+  - english: |
+       with X’s head high
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

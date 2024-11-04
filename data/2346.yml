@@ -36,9 +36,10 @@ intonation:
   - Not applicable
 usage_label: Colloquial
 dependency_structure:
-  - ~
+  - '[root [dep [advmod ни] минуты] [advmod не] VP]'
+  - '[root [dep [advmod ни] секунды] [advmod не] VP]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root [advmod Не] теряйте [obj [advmod ни] минуты].]'
 comment: |
     'No comment yet'
 equivalents:

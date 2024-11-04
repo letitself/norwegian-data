@@ -1,0 +1,54 @@
+---
+record: 3261
+name: 'NP-Nom не делать погоды/погоду'
+UD_name: ''
+illustration: 'Старые политики уже не делают погоду в стране и должны дать дорогу молодым.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Будучи положительным примером, он не делает погоды, не меняет общей картины.
+  - |
+       Даже если деньги доходят до рынка, они не делают погоды российским производителям.
+  - |
+       Пока такие клиенты не делают погоды – в день их бывает не более десятка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] делать [obj погоду]]'
+  - '[root [nsubj NP-Nom] [advmod не] делать [obl погоды]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Старые] политики] [advmod уже] [advmod не] делают [obj погоду] [obl [case в] стране] [conj [cc и] должны [xcomp дать [obj дорогу] [iobj молодым]]].]'
+equivalents:
+  - english: |
+       X puts little rest
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: Little
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

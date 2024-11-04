@@ -1,0 +1,49 @@
+---
+record: 2476
+name: 'VP (о PronPers-Loc) в третьем лице'
+UD_name: ''
+illustration: 'О себе предпочитает говорить в третьем лице'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       На консультации мать и дочь и [говорят]Activity [друг о друге]Topic только в третьем лице.
+  - |
+       Не лучше ли [вести рассказ]Activity в третьем лице, заменив всюду "я" на "он"?
+  - |
+       Мне очень понравилось, что он [пишет]Action [про себя]Topic в третьем лице.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod третьем] лице]]'
+  - '[root VP [obl [case о] PronPers-Loc] [obl [case в] [amod третьем] лице]]'
+dependency_structure_of_illustration:
+  - '[obl [case О] себе] предпочитает [xcomp говорить [obl [case в] [amod третьем] лице]].]'
+equivalents:
+  - english: |
+       in the third person
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,60 @@
+---
+record: 2775
+name: 'VP/NP от/с головы до пят/ног'
+UD_name: ''
+illustration: 'Она вся дрожала от головы до пят, а ее голые ножки стояли на холодной земле'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Лавочница сразу очнулась, оглянулась, и ледяной ужас [охватил]Event ее всю от головы до пят.
+  - |
+       Каждого участника встречи тщательно проверяли специальным прибором, [прослушивая]Activity «от головы до пят».
+  - |
+       Это [римлянин]Participant от головы до пят, он прав лишь в том, что для его Европы закатывается солнце.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] головы] [obl [case до] пят]]'
+  - '[root VP [obl [case от] головы] [obl [case до] ног]]'
+  - '[root VP [obl [case с] головы] [obl [case до] пят]]'
+  - '[root VP [obl [case с] головы] [obl [case до] ног]]'
+  - '[dep NP [nmod [case от] головы] [nmod [case до] пят]]'
+  - '[dep NP [nmod [case от] головы] [nmod [case до] ног]]'
+  - '[dep NP [nmod [case с] головы] [nmod [case до] пят]]'
+  - '[dep NP [nmod [case с] головы] [nmod [case до] ног]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она [det вся]] дрожала [obl [case от] головы] [obl [case до] пят], [conj [cc а] [nsubj [det ее] [amod голые] ножки] стояли [obl [case на] [amod холодной] земле]]]'
+equivalents:
+  - english: |
+       from head to toes
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

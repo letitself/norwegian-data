@@ -1,0 +1,52 @@
+---
+record: 2686
+name: 'NP Cop на месте'
+UD_name: ''
+illustration: 'От пяти проникающих ранений в грудь и живот мужчина умер на месте'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Система образования]Theme не стояла на месте, и сегодня она требует новых педагогических и информационных технологий, современного оборудования и учебных пособий.
+  - |
+       [Помощник]Theme оказался на месте, выслушал срочную редакционную просьбу и попросил прислать ему факс.
+  - |
+       Сделал незаметное движение, карман брюк пощупал ― [бумажник]Theme на месте.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] [cop Cop] [case на] месте]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] [nummod пяти] [amod проникающих] ранений [nmod [case в] грудь [conj [cc и] живот]]] [nsubj мужчина] умер [obl [case на] месте]]'
+equivalents:
+  - english: |
+       in place
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

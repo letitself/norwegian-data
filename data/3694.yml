@@ -1,0 +1,48 @@
+---
+record: 3694
+name: 'Pron-Dat параллельно на NP-Acc'
+UD_name: ''
+illustration: 'Ему параллельно на твои проблемы.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Козе]Experiencer было параллельно на [проходящих мимо людей]Stimulus.
+  - |
+       И [мне]Experiencer уже абсолютно параллельно на [философию]Stimulus.
+  - |
+       [Кириллу]Experiencer параллельно на [бренды]Stimulus, он покупает разную одежду.
+  - |
+       [Мне]Experiencer параллельно на [то, кто виноват в ссоре]Stimulus.
+  - |
+       [Маше]Experiencer параллельно на [тех, кто её оскорбляет]Stimulus.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj Pron-Dat] параллельно [obl [case на] Nom-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ему] параллельно [obl [case на] [det твои] проблемы].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

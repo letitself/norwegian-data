@@ -1,0 +1,52 @@
+---
+record: 2910
+name: 'VP/NP с улицы'
+UD_name: ''
+illustration: 'Новых людей брали буквально с улицы, причем образование и компетенция играли не главную роль.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Банки ужесточили подход к рассмотрению кредитных заявок: сегодня получить заем [клиенту]Beneficiary «с улицы» становится все труднее.
+  - |
+       Вот вы, например, безусловно не с улицы сюда [пришли,]Action а кончили какой-то особый юридический институт.
+  - |
+       Моя дочь-семиклассница учится на юго-западе Москвы в школе, которая считается очень хорошей: с улицы туда [не попадешь]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from streets
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2367
+name: 'VP/NP без копейки (денег)'
+UD_name: ''
+illustration: 'Коля от любовницы возвращался сытый, отстиранный, заштопанный, трезвый и без копейки.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Он [прибыл]Result без копейки денег и с ужасным чувством вины.
+  - |
+       Была такая телепередача ― люди без копейки денег должны были как-то [выжить]Action.
+  - |
+       Для них всегда находилась кружка пива, даже если они [приходили]Action без копейки в кармане!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] копейки]]'
+  - '[dep NP [nmod [case без] копейки]]'
+  - '[root VP [obl [case без] копейки [nmod денег]]]'
+  - '[dep NP [nmod [case без] копейки [nmod денег]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Коля] [obl [case от] любовницы] возвращался [obl сытый, [conj отстиранный], [conj заштопанный], [conj трезвый] [conj [cc и] [case без] копейки]].]'
+equivalents:
+  - english: |
+       with empty pockets
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Caritive
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+family:
+  - |
+    ""

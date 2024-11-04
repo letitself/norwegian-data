@@ -1,0 +1,54 @@
+---
+record: 2368
+name: 'VP без лишних разговоров'
+UD_name: ''
+illustration: 'Осмотр прошел быстро, профессионально и без лишних разговоров.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Глеб умел без лишних разговоров [выполнять сложную техническую работу]Action.
+  - |
+       Заседание комиссии [прошло]Action очень быстро и без лишних разговоров.
+  - |
+       Ребенок должен [съедать свой суп]Action без лишних разговоров.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] [amod лишних] разговоров]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Осмотр] прошел [advmod быстро, [conj профессионально] [conj [cc и] [case без] [amod лишних] разговоров]].]'
+equivalents:
+  - english: |
+       without further ado
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

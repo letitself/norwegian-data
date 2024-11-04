@@ -1,0 +1,54 @@
+---
+record: 2540
+name: 'NP-Nom Cop до обидного Adj'
+UD_name: ''
+illustration: 'Жизнь Геннадия тоже оказалась до обидного короткой.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Она до обидного [холодно поглядывает на двух изящных девушек]Action.
+  - |
+       Дословный и до обидного [неаккуратный]Evaluation перевод.
+  - |
+       Все здесь до обидного [противоречило тому, к чему привыкла Лена]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case до] обидного] Adj]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Жизнь [nmod Геннадия]] [advmod тоже] оказалась [xcomp [obl [case до] обидного] короткой].]'
+equivalents:
+  - english: |
+       frustratingly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Low
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

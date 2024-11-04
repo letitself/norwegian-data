@@ -1,0 +1,55 @@
+---
+record: 3415
+name: 'NP-Nom Cop на подходе'
+UD_name: ''
+illustration: 'На подходе счастливый период вашей жизни, ждать которого остается совсем недолго.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Гости]Theme уже на подходе, нужно поторопиться!
+  - |
+       И погода стояла опять прекрасная, хоть и [осень]Situation уже на подходе.
+  - |
+       Старое поколение ушло, [новое]Situation еще только на подходе.
+  - |
+       Ну вот, скажем, Анатолий выпускает уже двенадцатую книжку, а у Мирона [только первая]Theme на подходе.
+  - |
+       На подходе был [еще один, особенно крупный, проект]Theme ― строительство нефтепровода из Сибири.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] подходе]'
+dependency_structure_of_illustration:
+  - '[root [case На] подходе [nsubj [amod счастливый] период [nmod [det вашей] жизни], [acl:relcl [csubj ждать [obj которого]] остается [advmod [advmod совсем] недолго]]].]'
+comment: |
+    'См. близкую конструкцию 527.'
+equivalents:
+  - english: |
+       on the way to
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

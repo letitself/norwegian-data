@@ -1,0 +1,51 @@
+---
+record: 3037
+name: 'на удивление/удивленье/диво (NP-Gen/NP-Dat) Cl'
+UD_name: ''
+illustration: 'Тогда здесь и рыба была, а лодки, на удивление приезжим, во дворах, у домов всю зиму стояли.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       На удивление, [это обещание почти подействовало на, казалось бы, вконец изнемогших людей]Situation.
+  - |
+       На удивленье [всем,]Experiencer [птичка ничуть не смутилась]Situation.
+  - |
+       На удивление, [электричка была приличной, европейского уровня]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

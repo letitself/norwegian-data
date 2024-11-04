@@ -1,0 +1,50 @@
+---
+record: 4014
+name: 'как по мне, (то) Cl'
+UD_name: ''
+illustration: 'Как по мне, то от скуки лучше всего помогает сериал «Сваты».'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Как по мне, [то книг было многовато]ContentOfSpeech.
+  - |
+       Как по мне — [это не самый худший выход]ContentOfSpeech.
+  - |
+       Как по мне, [этот фильм произведет впечатление на тех, кто сам любил, или способен на это чувство]ContentOfSpeech.
+  - |
+       [Графика у обеих игр]ContentOfSpeech, как по мне, [совершенно приемлемая]ContentOfSpeech.
+  - |
+       Как по мне — [так я ничего героического не сделал]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [advmod как] [case по] мне], [mark то] Cl]'
+  - '[root [parataxis [advmod как] [case по] мне], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [advmod Как] [case по] мне], [mark то] [obl [case от] скуки] [advmod лучше [advmod всего]] помогает [nsubj сериал [flat «Сваты»]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,57 @@
+---
+record: 3668
+name: 'у NP-Gen нет времени XP'
+UD_name: ''
+illustration: 'У меня нет времени с тобой языком чесать.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       У [рабочих]Possessor нет времени [пить кофе за столиком]Activity.
+  - |
+       У [меня]Possessor нет времени [заниматься вашим образованием]Activity.
+  - |
+       Часто у [нас]Possessor нет времени на то, [чтобы просто сказать спасибо или дать понять человеку, как много он значит в нашей жизни]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case У] меня] нет [nsubj времени [acl XP]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] меня] нет [nsubj времени [acl [obl [case с] тобой] [obl языком] чесать]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       There is no time to X
+common_fillers:
+  - объяснять
+  - писать
+  - сказать
+  - сделать
+references:
+  - |
+    
+semantic_types:
+  - type: Caritive
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

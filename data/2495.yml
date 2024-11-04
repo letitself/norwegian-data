@@ -1,0 +1,54 @@
+---
+record: 2495
+name: 'VP/NP-Nom Cop во всем блеске (NP-Gen)'
+UD_name: ''
+illustration: 'В этот город ему пришлось вернуться во всём блеске славы'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Никогда не забуду одной сцены, в которой он [показал себя]Result во всем своем блеске.
+  - |
+       Только от семи часов до поздней ночи Севилья начинает жить полной своей жизнью; она тогда только [является]State во всем своем блеске.
+  - |
+       Тогда гвардейский корпус [был]State во всем своем блеске.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det всем] блеске]]'
+  - '[root VP [obl [case во] [det всем] блеске [nmod NP-Gen]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case во] [det всем] блеске]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case во] [det всем] блеске [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det этот] город] [iobj ему] пришлось [csubj вернуться [obl [case во] [det всём] блеске [nmod славы]]].]'
+equivalents:
+  - english: |
+       in all X's splendour
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

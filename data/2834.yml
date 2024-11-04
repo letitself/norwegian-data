@@ -1,0 +1,55 @@
+---
+record: 2834
+name: 'VP по привычке'
+UD_name: ''
+illustration: 'Ирина по привычке устанавливала свои порядки на чужой территории'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Они по привычке во время тяжелой болезни [просили вызвать к себе священника]Action.
+  - |
+       Горожане по привычке [называли]State её просто Зоей.
+  - |
+       Я сразу же по привычке [прошел]Activity к кабинету своего приятеля.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] привычке]]'
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'Также см. 1252  VP по NP-Dat - Он женился по любви.'
+equivalents:
+  - english: |
+       out of habit
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Pluractionality
+    subtypes:
+      - type: Habitual
+  - type: Salient property
+    subtypes:
+      - type: Repeatedly the same
+family:
+  - |
+    ""

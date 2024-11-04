@@ -1,0 +1,51 @@
+---
+record: 3330
+name: 'показать, где раки зимуют NP-Dat'
+UD_name: ''
+illustration: 'Я тебе покажу, где раки зимуют!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       И я уверен в том, что он обгонит здесь всех, [всем]Addressee покажет, где раки зимуют.
+  - |
+       Вот придет мать, увидит, что ты тут натворил, и покажет [тебе,]Addressee где раки зимуют!
+  - |
+       ― Попробуйте-ка залезть на эти кручи, вступить в бой с горными народами. Они [вам]Addressee покажут, где раки зимуют!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root показать'
+  - '[ccomp [advmod где] [nsubj раки] зимуют]'
+  - '[iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [iobj тебе] покажу, [ccomp [advmod где] [nsubj раки] зимуют]!]'
+equivalents:
+  - english: |
+       stick X’s tongue at
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Threat
+family:
+  - |
+    ""

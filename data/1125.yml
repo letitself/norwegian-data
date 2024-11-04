@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1-3) eller [handlingen de utfører]Action (eksempel 4 og 5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [det første objekt eller deltakeren]Action enn hos [det andre]Standard.
 examples:
   - |
-       [Традиции Тургенева, русского романа в «Платонове»]Comparee [сильнее]Parameter, нежели [традиции модных французских пьес]Standard.
-  - |
-       [Католики]Comparee были [мягче и снисходительнее]Parameter, нежели [истинный православный]Standard.
-  - |
-       [Потеря бумажника, подаренного когда-то любимым человеком]Comparee, будет [чувствительней]Parameter, нежели [потеря соответствующей суммы денег плюс цена аналогичного бумажника]Standard.
-  - |
        [Его будильник]Comparee [тикает]Action [громче]Parameter, нежели [часы отца]Standard и тем более [часики матери]Standard.
   - |
        Но [он]Comparee [серьезнее]Parameter, нежели [его родители]Standard или [бабушки и дедушки]Standard, [задумывается о конкурентной привлекательности своего города]Action.
+  - |
+       [Потеря бумажника, подаренного когда-то любимым человеком]Comparee, будет [чувствительней]Parameter, нежели [потеря соответствующей суммы денега]Standard.
+  - |
+       К сожалению, такой веселой статистики в книге гораздо меньше, нежели трагической.
+  - |
+       Безусловно, керамическая утварь выглядит наряднее и дороже, нежели пластиковая.
 morphology:
   - NP
   - Nom

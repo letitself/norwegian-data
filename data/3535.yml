@@ -1,0 +1,56 @@
+---
+record: 3535
+name: 'Cl, разве нет?'
+UD_name: ''
+illustration: 'Обществознание сейчас проходят в школе, разве нет?'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Ты сам меня позвал]ContentOfSpeech, разве нет?
+  - |
+       [Вы понимаете, о чём я говорю]ContentOfSpeech, разве нет?
+  - |
+       [Женщина должна меняться время от времени]ContentOfSpeech ― разве нет?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Negation marker
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[parataxis [advmod разве] нет]?]'
+dependency_structure_of_illustration:
+  - '[root [obj Обществознание] [advmod сейчас] проходят [obl [case в] школе], [parataxis [advmod разве] нет]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       isn't X?
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+  - type: Source of opinion
+    subtypes:
+      - type: Asking for opinion
+family:
+  - |
+    ""

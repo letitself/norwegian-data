@@ -1,0 +1,48 @@
+---
+record: 3260
+name: 'NP-Nom недалеко уйти от NP-Gen'
+UD_name: ''
+illustration: 'По правде сказать, я и сейчас недалеко ушёл от политических и философских вопросов детства.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я недалеко ушла от того уровня в работе, что был пять лет назад.
+  - |
+       По уровню жизни Гриша недалеко ушёл от консьержа Густава.
+  - |
+       В своём мировоззрении он недалеко ушёл от господствующей системы понятий.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod недалеко] уйти [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [obl [case по] правде] сказать], [nsubj я] [advmod [advmod и] сейчас] [advmod недалеко] ушёл [obl [case от] [amod политических [conj [cc и] философских]] вопросов [nmod детства]].]'
+equivalents:
+  - english: |
+       X is not much better than Y
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

@@ -1,0 +1,47 @@
+---
+record: 2436
+name: 'VP в охапку'
+UD_name: ''
+illustration: 'Если ночью услышим звонок в дверь, то хватаем вещи в охапку и убегаем из дома.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Нянька [схватила меня]Action в охапку и унесла в детскую.
+  - |
+       Пройдя в комнату, она распахнула шкаф, [собрала]Action в охапку все вешалки с одеждой и швырнула на диван.
+  - |
+       Теперь все идём за Лилей, [берем ее]Action в охапку и двигаемся на поиски тронного зала.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] охапку]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] [obl ночью] услышим [obj звонок] [obl [case в] дверь]], [mark то] хватаем [obj вещи] [obl [case в] охапку] [conj [cc и] убегаем [obl [case из] дома]].]'
+equivalents:
+  - english: |
+       in an armful
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

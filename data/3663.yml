@@ -1,0 +1,59 @@
+---
+record: 3663
+name: 'NP-Nom не притронуться-Pst к NP-Dat'
+UD_name: ''
+illustration: 'К салату пока никто не притронулся.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Сам]Agent к [сметане]Theme не притронулся, но лишь наблюдал за трапезой своей невесты.
+  - |
+       К [чаю]Theme [они]Agent так и не притронулись.
+  - |
+       Пока вожак стаи не вонзит зубы в свою долю, [ни один из волков]Agent не притронется к [добыче]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] притронуться [obl [case к] NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case К] салату] [advmod пока] [nsubj никто] [advmod не] притронулся.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X didn’t touch anything
+common_fillers:
+  - еде
+  - завтраку
+  - обеду
+  - добыче
+  - ни к чему
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+  - type: Phase of action
+    subtypes:
+      - type: Cunctative
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 3641
+name: '(у NP-Gen) есть/имеется/NP имеет NP-Acc против NP-Gen'
+UD_name: ''
+illustration: 'У Вас есть возражения против такой демократии, мой читатель?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Скажите, кто имеет [что-нибудь]State против [любви]Theme? Никто!
+  - |
+       У [Васи]Experiencer есть [принципиальные возражения]State против [введения этого налога]Theme.
+  - |
+       Очень редко имеются [какие-нибудь возражения]State против [этого процесса]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root есть [nsubj NP [nmod [case против] NP-Gen]]]'
+  - '[root имеется [nsubj NP [nmod [case против] NP-Gen]]]'
+  - '[root [obl [case у] есть [nsubj NP [nmod [case против] NP-Gen]]]'
+  - '[root [obl [case у] NP-Gen] имеется [nsubj NP [nmod [case против] NP-Gen]]]'
+  - '[root [nsubj NP] имеет [obj NP-Acc [nmod [case против] NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] Вас] есть [nsubj возражения [nmod [case против] [det такой] демократии]], [vocative [det мой] читатель]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       does X have any objections against Y?
+common_fillers:
+  - возражения
+references:
+  - |
+    
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Asking for opinion
+family:
+  - |
+    ""

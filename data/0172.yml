@@ -11,11 +11,11 @@ definitions:
        Konstruksjonen forsterker det som skiller to objekter, deltakere, situasjoner eller handlinger når et gitt [kjennetegn]Parameter ved dem sammenlignes. Ordet "куда" betyr i dette tilfellet 'намного, гораздо, значительно'.
 examples:
   - |
-       Он куда [охотнее]Property [играл с девочками…]Action
+       [Он]Cognizer куда [охотнее]Property [играл с девочками…]Action
   - |
-       Куда [логичнее]Property [предположить]Action, что власти Китая постараются повторить дипломатический успех семидесятых годов.
+       Куда [логичнее]Property [предположить, что власти Китая постараются повторить дипломатический успех семидесятых годов]Action.
   - |
-       [Кресло кажется Михайлову]Action куда [уютнее]Property, чем диван.
+       [Кресло]Comparee [кажется]Action [Михайлову]Cognizer куда [уютнее]Property, [чем диван]Standard.
 morphology:
   - NP
   - Nom

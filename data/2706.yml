@@ -1,0 +1,47 @@
+---
+record: 2706
+name: 'VP на перекладных'
+UD_name: ''
+illustration: 'Ехали на перекладных от одной станции к другой, летом ― жара и пыль, зимой ― снег и холод'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Самолеты до Баку не летали, и нам пришлось [добираться]Action на перекладных.
+  - |
+       Я потерял много крови, пока на перекладных и попутных транспортах [доставили меня в стационарный госпиталь]Action.
+  - |
+       В 2002 году мы с женой и дочерью запаслись водой, продуктами и на перекладных [доехали до монгольской границы]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] перекладных]]'
+dependency_structure_of_illustration:
+  - '[root Ехали [obl [case на] перекладных] [obl [case от] [det одной] станции] [obl [case к] другой], [conj [obl летом] ― жара [conj [cc и] пыль]], [conj [obl зимой] ― снег [conj [cc и] холод]]]'
+equivalents:
+  - english: |
+       by relay
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

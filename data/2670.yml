@@ -1,0 +1,54 @@
+---
+record: 2670
+name: 'XP на закате NP-Gen (NP-Gen)'
+UD_name: ''
+illustration: 'Он хотел, чтобы старики хоть на закате дней своих пожили по-человечески, чтобы мать не отказывала себе в сладком куске, чтобы одевалась почище, как не могла одеваться в молодости'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Старик берег гитару, как сокровище, ― единственное свое [утешение]Theme на закате [дней]Measure и средство для пропитания.
+  - |
+       На закате [дней]Measure историк [сделался замкнутее]Event.
+  - |
+       Не могу забыть эпизода, который [произошел]Action чуть ли не на закате [дней]Measure [отца]Possesor и во многом объясняет моего родителя.
+  - |
+       На закате [лет]Participant [к нему пришла сильная, но безответная любовь к молодой фрейлине королевы]Event.
+  - |
+       Позже, уже на закате [лет]Measure, многие выпускницы, вспоминая свою гимназическую юность, [будут называть это время самым благословенным в своей жизни]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP [obl [case на] закате [nmod NP-Gen]]]'
+  - '[dep XP [obl [case на] закате [nmod NP-Gen [nmod NP-Gen]]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] хотел, [ccomp [mark чтобы] [nsubj старики] [obl [advmod хоть] [case на] закате [nmod дней [det своих]]] пожили [advmod по-человечески], [conj [mark чтобы] [nsubj мать] [advmod не] отказывала [iobj себе] [obl [case в] [amod сладком] куске]], [conj [mark чтобы] одевалась [advmod почище], [advcl [mark как] [advmod не] могла [xcomp одеваться [obl [case в] молодости]]]]]]'
+equivalents:
+  - english: |
+       in X’s old age
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

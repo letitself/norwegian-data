@@ -1,0 +1,47 @@
+---
+record: 3991
+name: 'не бог знает PronInt'
+UD_name: ''
+illustration: 'Он не бог знает как известен.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Вот так жила Шурка ― не бог знает [как]Evaluation весело.
+  - |
+       Не бог знает [как]Evaluation это было приятно, конечно, выходить на публику и, словно под следствием, отвечать на перекрестные вопросы.
+  - |
+       Не хотел он умирать за Бориса, не бог знает [какое]Evaluation тот Борис золото!
+  - |
+       Чего-то она там достигла, не бог знает [чего]Evaluation, но кандидатскую защитила.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root [advmod не] [nsubj бог] знает [obj PronInt]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advcl [advmod не] [nsubj бог] знает [advmod как]] известен.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

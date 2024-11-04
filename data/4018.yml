@@ -1,0 +1,44 @@
+---
+record: 4018
+name: 'по классике жанра Cl'
+UD_name: ''
+illustration: 'По классике жанра молодёжь жаловалась больше всех.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Все уже готовились выходить. По классике жанра, [ждали только одну Машу]Standard.
+  - |
+       И всё по классике жанра: [начал мне говорить, что "кто не рискует"]Situation...
+  - |
+       Всё по классике жанра — [капитализм вновь выращивает своего могильщика]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [case по] классике [nmod жанра]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [case По] классике [nmod жанра]] [nsubj молодёжь] жаловалась [obl [advmod больше] всех].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

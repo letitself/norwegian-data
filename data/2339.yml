@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren gir [en vurdering]Evaluation av [en annen deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation og spør om samtalepartneren er enig i talerens vurdering. Taleren forventer at samtalepartneren vil si seg enig med taleren.
 examples:
+  - |
+       [Располнел я тут немного]Situation, ты не находишь?
+  - |
+       [Солидарность ― это нормально]Situation. Вы не находите?
+  - |
+       Ты не находишь, что [этот деревенский дом подвернулся очень кстати]Situation?
+  - |
+       А вы не находите, что [именно подобная личность опасна для окружающих]Situation?
+  - |
+       Ты не находишь, что [это странное место для объяснения в любви]Situation?
 morphology:
   - PronPers
   - Nom

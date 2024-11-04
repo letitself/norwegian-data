@@ -1,0 +1,46 @@
+---
+record: 3999
+name: 'чего (только) (NP-Dat) стоит VP-Inf'
+UD_name: ''
+illustration: 'Чего только стоило заставить её сесть за домашнюю работу.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Знали бы, чего стоило [выполнить только один — первый пункт задания]Action.
+  - |
+       Ты знаешь, чего будет стоить [вернуть ваших детей]Action?..
+  - |
+       Чего мне стоило [добиться, чтобы ей оставили отдельную палату]Action!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl чего] [advmod только] [iobj NP-Dat] стоит [xcomp VP-Inf]]'
+  - '[root [obl чего] [iobj NP-Dat] стоит [xcomp VP-Inf]]'
+  - '[root [obl чего] [advmod только] стоит [xcomp VP-Inf]]'
+  - '[root [obl чего] стоит [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [obl Чего] [advmod только] стоило [xcomp заставить [obj её] [xcomp сесть [obl [case за] [amod домашнюю] работу]]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 2588
+name: 'VP за бортом'
+UD_name: ''
+illustration: 'Нужно спешить, чтобы к тридцати годам не остаться за бортом'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Выбирая десятку лучших спортсменов, за бортом [приходится оставлять командные виды спорта]Event.
+  - |
+       Но и остальные жители села не должны [оказаться за бортом]Event.
+  - |
+       Историю интересуют только факты, а эмоции [остаются] за бортом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] бортом]]'
+dependency_structure_of_illustration:
+  - '[root Нужно [csubj спешить], [advcl [mark чтобы] [obl [case к] [nummod тридцати] годам] [advmod не] остаться [obl [case за] бортом]]]'
+equivalents:
+  - english: |
+       overboard
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

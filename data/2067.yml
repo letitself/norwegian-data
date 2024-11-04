@@ -6,6 +6,12 @@ illustration: 'Сделай одолжение, принеси мою сумку
 cefr_level: C1
 definitions:
 examples:
+  - |
+       [Переоденьтесь,]Action сделайте [мне]Beneficiary одолжение.
+  - |
+       Тогда сделайте одолжение, [не называйте его преступником.]Activity
+  - |
+       И сделай одолжение, [не советуй мне пробовать писать романы!]Activity
 morphology:
   - Imp
   - PronPers

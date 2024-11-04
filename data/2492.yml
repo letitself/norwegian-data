@@ -1,0 +1,51 @@
+---
+record: 2492
+name: 'VP во все уши'
+UD_name: ''
+illustration: 'Мы стали слушать во все уши, но ничего не услыхали'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Я скромно и молча садился в уголку, ни разу не осмеливался подать совет и [слушал]Activity во все уши.
+  - |
+       [Слушайте меня]Activity во все уши, сказка моя промто так рассказывается.
+  - |
+       Я [прислушивался]Activity во все уши, но, кроме сердца своего, ничего не слышал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det все] уши]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] стали [xcomp слушать [obl [case во] [det все] уши]], [conj [cc но] [obj ничего] [advmod не] услыхали].]'
+equivalents:
+  - english: |
+       X is all ears
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

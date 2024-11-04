@@ -1,0 +1,50 @@
+---
+record: 2449
+name: 'в поте лица VP'
+UD_name: ''
+illustration: 'Трудиться в поте лица.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Я [работал]Activity в поте лица, и у меня даже не оставалось свободного времени, чтобы посидеть вечерком в кафе.
+  - |
+       Греки за пару столетий создали всю геометрию, над изучением которой [трудятся]Activity в поте лица наши старшеклассники.
+  - |
+       Полагаю, что аплодисменты адресованы именно вашему остроумию, а я не хочу выхватывать из ваших рук [заслуженную]Result в поте лица славу!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case в] поте [nmod лица]] VP]'
+dependency_structure_of_illustration:
+  - '[root Трудиться [obl [case в] поте [nmod лица]].]'
+equivalents:
+  - english: |
+       work to the bone
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

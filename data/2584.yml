@@ -1,0 +1,52 @@
+---
+record: 2584
+name: 'VP дорогой ценой'
+UD_name: ''
+illustration: 'Лишних знаний не бывает, а за лень и недостаток информации можно заплатить дорогой ценой'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       В общем, бунт был [подавлен]Result, причем дорогой ценой.
+  - |
+       Многие из нас не видели той войны, но мы знаем, какой дорогой ценой она [досталась нашим отцам и дедам]Result.
+  - |
+       Они не знали и не ожидали, что [за свободу им надо платить]Action дорогой ценой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Aplicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod дорогой] ценой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Лишних] знаний] [advmod не] бывает, [conj [cc а] [obl [case за] лень [conj [cc и] недостаток [nmod информации]]] можно [csubj заплатить [obl [amod дорогой] ценой]]]]'
+equivalents:
+  - english: |
+       a grave cost
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

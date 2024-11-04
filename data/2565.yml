@@ -1,0 +1,51 @@
+---
+record: 2565
+name: 'как нельзя Adj/Adv'
+UD_name: ''
+illustration: 'В Московской области как нельзя хуже обстоит дело с ремонтом школьных зданий.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Утро понедельника началось как нельзя [более спокойно]Evaluation.
+  - |
+       Обращаются с нами здесь как нельзя [хуже]Evaluation.
+  - |
+       Деревенская жизнь пришлась ей как нельзя [более по вкусу]Evaluation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [advmod [advmod как] нельзя] Adj]'
+  - '[advmod [advmod [advmod как] нельзя] Adv]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod Московской] области] [advmod [advmod [advmod как] нельзя] хуже] обстоит [nsubj дело [nmod [case с] ремонтом [nmod [amod школьных] зданий]]].]'
+equivalents:
+  - english: |
+       as well as possible
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Manner
+family:
+  - |
+    ""

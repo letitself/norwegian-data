@@ -1,0 +1,52 @@
+---
+record: 3915
+name: 'плюс минус Adj/NP/Adv/NumCrd'
+UD_name: ''
+illustration: 'Могу оценить стоимость машины плюс-минус две тысячи'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Можно проверить по журналу, но там время пишут приблизительно. Плюс минус [десять]Quantity [минут]Measure.
+  - |
+       Все равно плюс минус [все]Set весь первый класс все складывают и раскрашивают.
+  - |
+       Так бывает после каждой отчаянной вечеринки плюс минус [раз в пару месяцев]Circumstance
+  - |
+       А ведь моим плюс-минус [сверстникам]Participant прививку от оспы не делали.
+  - |
+       Это, увы, сезонная вещь, в смысле, в конце осени я всегда плюс-минус [такой]Property, и это в основном не чинится, а пережидается.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [advmod плюс [compound минус]] Adj]'
+  - '[dep [advmod плюс [compound минус]] NP]'
+  - '[dep [advmod плюс [compound минус]] Adv]'
+  - '[dep [advmod плюс [compound минус]] NumCrd]'
+dependency_structure_of_illustration:
+  - '[root Могу [xcomp оценить [obj стоимость [nmod машины]] [obl [advmod плюс-[compound минус]] [nummod две] тысячи]]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3922'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

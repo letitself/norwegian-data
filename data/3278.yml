@@ -1,0 +1,52 @@
+---
+record: 3278
+name: 'ни в копейку/грош не ставить NP-Acc'
+UD_name: ''
+illustration: 'Ты меня ни в грошь не ставишь!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я, конечно, знаю, что ты [меня]Participant презираешь и ни в грош не ставишь, а зря!
+  - |
+       Маленькая Маша ни в грош не ставила [свою няню]Participant - совсем ее не слушалась.
+  - |
+       Еще вам доказательство, что у меня государенное дело первое и главное, а [мои собственные дела]Theme ни в грош не ставлю.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [advmod ни] [case в] грош] [advmod не] ставить [obj NP-Acc]]'
+  - '[root [obl [advmod ни] [case в] копейку] [advmod не] ставить [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [obj меня] [obl [advmod ни] [case в] грош] [advmod не] ставишь.]'
+equivalents:
+  - english: |
+       doesn’t have a grain of respect
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Unconcern vs. Concern
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

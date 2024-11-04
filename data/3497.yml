@@ -1,0 +1,53 @@
+---
+record: 3497
+name: 'а то как бы не Cl'
+UD_name: ''
+illustration: 'А то как бы чего дурного не случилось.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       А то как бы [соседи полицию не вызвали]Event.
+  - |
+       Пока работать не буду: сына надо воспитывать, а то как бы [беды не вышло]Event.
+  - |
+       Жить надо так, словно и Бог есть, и загробный мир есть, а то как бы [не прогадать]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+  - Pronoun
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [cc а] [mark то] [advmod как [advmod бы]] [advmod не] Cl]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [mark то] [advmod как [advmod бы]] [nsubj чего [amod дурного]] [advmod не] случилось.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       to be afraid that X might
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+family:
+  - |
+    ""

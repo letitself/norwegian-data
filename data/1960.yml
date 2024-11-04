@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen runder av diskusjonen av ett tema og flytter oppmerksomheten over på et annet samtaleemne. Konstruksjonen betyr at [tilstedeværelsen av en eller annen situasjon]Theme ikke må påvirke en hendelse som foregår parallelt.
 examples:
+  - |
+       Это всё [очень интересно]Property, но [к нашему исследованию не относится]Situation.
+  - |
+       Это все, конечно, [прекрасно]Property, но [что теперь делать, как снимать фильм]Situation?
+  - |
+       То, что сейчас стали писать критики, это все [замечательно]Property, но [мы пытались решать совсем другие задачи]Situation
+  - |
+       Это все [хорошо]Property, но [ты лучше делай,]Situation а я потом ошибки твои скажу.
+  - |
+       Это все, конечно, [хорошо]Property, но [почитать книжку и посмотреть хорошее кино, поверь, иногда тоже бывает полезно]Situation.
 morphology:
   - Cop
   - Pred

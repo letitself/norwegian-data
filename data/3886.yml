@@ -1,0 +1,54 @@
+---
+record: 3886
+name: 'сто/сотни NP-Gen'
+UD_name: ''
+illustration: 'сотни людей'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Сотни [пожарных]Set сейчас тушат пожары.
+  - |
+       Польша — страна [супов]Set, здесь их сотни видов.
+  - |
+       Постепенно слуха достиг глухой шум сотни [голосов]Set.
+  - |
+       Они будут ещё по сто раз говорить: "Мы же тебя предупреждали".
+  - |
+       За ним надо следить во сто глаз, а то ещё убежит.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep сто [nmod NP-Gen]]'
+  - '[dep сотни [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root сотни [nmod людей]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3919'
+equivalents:
+common_fillers:
+  - раз
+  - людей
+  - лет
+  - шагов
+  - голосов
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

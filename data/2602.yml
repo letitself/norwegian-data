@@ -1,0 +1,62 @@
+---
+record: 2602
+name: 'VP за/в один присест/подход/раз'
+UD_name: ''
+illustration: 'Условия "конкурса" такие: кто одолеет за один присест двадцать пирожных, может вообще ничего не платить'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ни один взрослый не в состоянии [съесть]Action за один подход килограмм шоколадных конфет!
+  - |
+       Она могла [выпить]Action за один присест чуть ли не двухлитровую бутылку.
+  - |
+       А как ты хочешь, чтобы он выглядел, если он [выкуривает]Action полпачки сигарет за один раз.
+  - |
+       Первые три страницы [написаны]Action по памяти, в один присест, очень быстро.
+  - |
+       Ну, во-первых, книга [пишется]Action не в один присест.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] [nummod один] присест]]'
+  - '[root VP [obl [case в] [nummod один] присест]]'
+  - '[root VP [obl [case за] [nummod один] подход]]'
+  - '[root VP [obl [case в] [nummod один] подход]]'
+  - '[root VP [obl [case за] [nummod один] раз]]'
+  - '[root VP [obl [case в] [nummod один] раз]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Условия [nmod "конкурса"]] такие: [parataxis [nsubj кто] одолеет [obl [case за] [nummod один] присест] [obl [nummod двадцать] пирожных], [conj может [xcomp [advmod вообще] [obj ничего] [advmod не] платить]]]]'
+equivalents:
+  - english: |
+       in one sitting
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

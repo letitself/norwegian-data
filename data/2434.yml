@@ -1,0 +1,55 @@
+---
+record: 2434
+name: 'в некотором отношении XP'
+UD_name: ''
+illustration: 'Я убедился, что вязание ― заманчивое и даже в некотором отношении полезное занятие.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       У меня в некотором отношении [довольно похожая ситуация была]Situation.
+  - |
+       Ты в некотором отношении [всегда будешь в Москве]State, потому что возишь ее в себе.
+  - |
+       Но опять-таки это были две в некотором отношении родственные цивилизации.
+  - |
+       Но опять-таки это были две в некотором отношении родственные цивилизации.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [obl [case в] [det некотором] отношении] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] убедился, [ccomp [mark что] [nsubj вязание] ― [amod заманчивое [conj [cc и] [obl [advmod даже] [case в] [det некотором] отношении] полезное]] занятие].]'
+equivalents:
+  - english: |
+       by a certain point
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+family:
+  - |
+    ""

@@ -6,6 +6,16 @@ illustration: 'Нам всем нужен отдых.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Желаю [им]Set всем [здоровья и успехов в делах!]ContentOfSpeech
+  - |
+       [Привет]ContentOfSpeech [им]Set всем, кого увидите.
+  - |
+       [Нам]Set всем [очень понравилось отдыхать на озере.]Situation
+  - |
+       Большое [им]Set всем за это [спасибо!]ContentOfSpeech
+  - |
+       Это [нам]Set всем [было известно и без научных исследований.]Situation
 morphology:
   - PronPers
   - Pl

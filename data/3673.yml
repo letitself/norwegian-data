@@ -1,0 +1,57 @@
+---
+record: 3673
+name: 'PronPers-Dat/NP-Dat бы только VP-Inf'
+UD_name: ''
+illustration: 'Тебе бы только покрасоваться перед публикой!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Черт, [мне]Participant бы только [разблокировать счета]Action!
+  - |
+       А то [вам]Participant бы только [новых мальцов заводить]Activity, а до прежних ― и дела нет.
+  - |
+       [Ему]Participant бы только [собрания собирать]Activity, чтобы красочно высказаться.
+  - |
+       Мне бы только не сплоховать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [aux бы] [advmod только] VP-Inf]'
+  - '[root [iobjPronPers-Dat] [aux бы] [advmod только] VP-Inf]'
+dependency_structure_of_illustration:
+  - '[root [iobj Тебе] [aux бы] [advmod только] покрасоваться [obl [case перед] публикой]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is only interested in Y
+common_fillers:
+  - вам
+  - мне
+  - ему
+  - тебе
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Volition
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3295
+name: 'VP от и до'
+UD_name: ''
+illustration: 'Список дел на сегодня он обещал выполнить от и до.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Каждое утро у него начиналось с того, что он открывал газету «Правда» и [прочитывал]Action ее от и до.
+  - |
+       Зато «Сердце Данко» и «Песню о соколе» ― [наизусть,]State от и до, не знаю учат ли сейчас.
+  - |
+       Мне надо, чтобы мой студент жил музыкой, [был предан делу]State «от» и «до».
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod от [conj [cc и] до]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Список [nmod дел] [nmod [case на] сегодня]] [nsubj он] обещал [xcomp выполнить [advmod от [conj [cc и] до]]].]'
+equivalents:
+  - english: |
+       to know by heart
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Cumulative
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 2886
+name: 'VP с пелёнок'
+UD_name: ''
+illustration: 'Машу я обожаю с пеленок, она мой кумир, недостижимый идеал, моя радость и мечта.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Принца чуть ли не с пеленок [готовили к роли наследника престола]Activity.
+  - |
+       У Леры с пеленок [раны плохо затягивались]State.
+  - |
+       Удивительно артистичный в каждом жесте и звуке, он, кажется, с пеленок [стал профессиональным актером]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] пеленок]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from the cradle
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

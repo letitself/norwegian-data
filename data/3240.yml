@@ -1,0 +1,51 @@
+---
+record: 3240
+name: 'NP-Nom Cop на седьмом небе от счастья'
+UD_name: ''
+illustration: 'Он был на седьмом небе от счастья.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Через три недели мы узнали, что я забеременела, мы были на седьмом небе от счастья.
+  - |
+       И когда мы собираемся все вместе, то я просто на седьмом небе от счастья.
+  - |
+       Лиля была на  седьмом небе от  счастья — таких эмоций она не  испытывала последние семь лет.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod седьмом] небе [nmod [case от] счастья]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [cop был] [case на] [amod седьмом] небе [nmod [case от] счастья].]'
+equivalents:
+  - english: |
+       in the seventh heaven
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 2794
+name: 'VP/NP-Nom Cop (у NP-Gen) перед глазами'
+UD_name: ''
+illustration: 'Лизино лицо всё время стоит у меня перед глазами'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Некоторые дети лучше усваивают информацию, если [видят её]State перед глазами.
+  - |
+       У меня ведь нет перед глазами текста.
+  - |
+       Барабанила какая-то музыка, и я спокойно разглядывал девушек в зеркале, [которое]Theme было у [меня]Possesor прямо перед глазами.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case перед] глазами]]'
+  - '[root VP [obl [case у] NP-Gen] [obl [case перед] глазами]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case перед] глазами]'
+  - '[root [nsubj NP-Nom] [cop Cop] [nmod [case у] NP-Gen] [case перед] глазами]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Лизино] лицо] [obl [det всё] время] стоит [obl [case у] меня] [obl [case перед] глазами]]'
+equivalents:
+  - english: |
+       before X's eyes
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    ""

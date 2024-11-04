@@ -1,0 +1,51 @@
+---
+record: 3957
+name: '(если/вот) (уж) VP-Pst, так ~VP-Pst'
+UD_name: ''
+illustration: 'Вот уж сказал, так сказал: нечего добавить.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Мы о нем сегодня мало знаем, но мы вообще мало знаем литературу XVIII века: [умерла]Event так [умерла]Event.
+  - |
+       Вот [проголосовала]Action так [проголосовала]Action, конечно.
+  - |
+       Профессору явно не хотелось рассказывать, но раз уж [начал]Action, так [начал]Action.
+  - |
+       ― Нет. Если [кончил]Action, так [кончил]Action. Никаких писем, ― закричал Николай Николаевич.
+  - |
+       Вот только при чём здесь Чехов, Грозный и Путин?! Да уж, [сказанул]Action так [сказанул]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod если] [advmod уж] VP-Pst, [conj [mark так] ~VP-Pst]]'
+  - '[root [advmod вот] [advmod уж] VP-Pst, [conj [mark так] ~VP-Pst]]'
+  - '[root [advmod если] VP-Pst, [conj [mark так] ~VP-Pst]]'
+  - '[root [advmod вот] VP-Pst, [conj [mark так] ~VP-Pst]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] [advmod уж] сказал, [conj [mark так] сказал]: [parataxis [obj нечего] добавить].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

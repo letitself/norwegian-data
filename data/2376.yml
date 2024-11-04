@@ -1,0 +1,50 @@
+---
+record: 2376
+name: 'VP без опаски'
+UD_name: ''
+illustration: 'Тогда и мясо можно будет есть без опаски, как это делали люди каменного века.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Теперь наши дети без опаски [ездят в Москву]Activity.
+  - |
+       Игрушка должна быть такой, чтобы ребенок без опаски мог [засунуть ее в рот]Action.
+  - |
+       В первые годы существования Университета дворянские дети [отдавались туда]Action родителями не без опаски.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] опаски]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Тогда] [advmod и] [obj мясо] можно [cop будет] [csubj есть [obl [case без] опаски]], [advcl [mark как] [obj это] делали [nsubj люди [nmod [amod каменного] века]]].]'
+equivalents:
+  - english: |
+       without fear
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen betyr at et gitt [оbjekt]Theme eller en gitt [deltaker]Participant er den eneste i sitt slag, slik at det ikke finnes noe objekt eller noen deltaker som er identisk. [Å lete]Action etter et slikt objekt eller en slik deltaker vil derfor ikke føre frem. Utvalget av verb som kan fylle sloten VP, er begrenset til: не найти, не найдешь, не сыщешь, не будет, не представится og не знаю.
 examples:
   - |
-       Такая [красавица]Participant была! Другой такой не [сыщешь…]Action
-  - |
-       И дерзкий он, и с приятелями своими дерется, и вино требует, но другого такого не [найти]Action.
+       Такая [красавица]Participant была! Другой такой не [найдешь…]Action
   - |
        Вот она, [решающая минута]Theme, другой такой не [представится.]Action
   - |
-       У тебя может ничего не получиться, но пробовать надо, другой такой [возможности]Theme не [будет.]Action
+       У тебя может ничего не получиться, но пробовать надо, другой такой [возможности]Theme не [будет]Action.
   - |
        Я другой такой [страны]Theme не [знаю]Action, где так счастлив русский человек.
+  - |
+       И дерзкий он, и с приятелями своими дерется, и вино требует, но другого такого не найти.
 morphology:
   - Gen
   - NP

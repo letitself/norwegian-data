@@ -1,0 +1,55 @@
+---
+record: 2766
+name: 'VP один за одним/другим'
+UD_name: ''
+illustration: 'Один за другим прочитанные листы падали на пол'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       На сцену из-за кулисы стали [выходить]Activity участники хора ― один за одним.
+  - |
+       В шесть прибежала акушерка, глянула на меня, что-то сказала сестре ― и мне [сделали три укола]Action один за одним.
+  - |
+       Саша один за другим [тянет со стола пирожки]Activity и кидает их любимой собаке Зине.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl один] [obl [case за] одним]]'
+  - '[root VP [obl один] [obl [case за] другим]]'
+dependency_structure_of_illustration:
+  - '[root [obl один] [obl [case за] другим] [nsubj [amod прочитанные] листы] падали [obl [case на] пол]]'
+comment: |
+    'см. похожую конструкцию 464 VP NP-Acc за NP-Ins (Он курит сигарету за сигаретой.).'
+equivalents:
+  - english: |
+       one by one
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Pluractionality
+    subtypes:
+      - type: Multiplicative
+family:
+  - |
+    ""

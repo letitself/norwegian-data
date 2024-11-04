@@ -6,6 +6,16 @@ illustration: 'Когда бы я ни зашёл, вы всегда на мес
 cefr_level: B2
 definitions:
 examples:
+  - |
+       [Я]Agent знала, что когда бы я ни [пришла в его подвал]Action, [он нальет мне чашку чаю]Situation
+  - |
+       [Я]Agent знала, что когда бы я ни [пришла в его подвал]Action, [он нальет мне чашку чаю]Situation
+  - |
+       Когда бы [я]Agent ни [зашел]Action, [Света и мама хлопотали на кухне]Situation.
+  - |
+       Когда бы [он]Agent ни [приехал]Action, [он застаёт меня дома]Situation.
+  - |
+       Когда ни [заглянешь в библиотеку]Action, [она всегда наполнена студентами]Situation.
 morphology:
   - NP
   - Nom

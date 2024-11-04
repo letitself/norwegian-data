@@ -1,0 +1,51 @@
+---
+record: 3850
+name: 'NP, также известный как/(VP) под именем NP'
+UD_name: ''
+illustration: 'Высокое качество плюс функциональность и комфорт — все, что свойственно любому предмету, выходящему под именем маэстро.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       О помидорах и говорить нечего — после этого лета они узнали, что [тот продукт]Theme, который [продают]Action под именем [помидоров]Name во всех других местах, не имеет к ним никакого отношения.
+  - |
+       Итальянский художник [Бернардо Беллотто]Theme — мастер городского пейзажа, также известный как [гравер]Name.
+  - |
+       Происшествие с участковым Мурашкиным (с) [частный охранник, бывший милиционер]Theme, также известный как [Атаман Косой]Name.
+  - |
+       [Танк на воздушной подушке Советский легкий танк]Theme также известный как [«Земноводное подлетающее устройство»]Name был разработан в 1937 году.
+  - |
+       Жук в коробке [Этот эксперимент]Theme также известный как [Аргумент Индивидуального Языка]Name и он чем-то напоминает Марию нейробиолога.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Adjective
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root NP, [advcl [advmod также] известный [advmod как]]'
+  - '[root VP [obl [case под] именем [nmod NP]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Высокое] качество [nmod [case плюс] функциональность [conj [cc и] комфорт]]] — все, [ccomp [mark что] свойственно [iobj [amod любому] предмету], [acl выходящему [obl [case под] именем [nmod маэстро]]]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

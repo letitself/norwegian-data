@@ -1,0 +1,62 @@
+---
+record: 3651
+name: 'NP-Nom NP-Dat больше не NP-Nom'
+UD_name: ''
+illustration: 'Ты мне больше не друг!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Ты]Topic [нам]Participant больше не [командир]Status, и звать мы тебя будем просто по имени.
+  - |
+       [Ты]Topic [мне]Participant больше не [дочь]Status, этого последнего поступка я никогда не забуду и не прощу.
+  - |
+       Или ты разводишься, или [ты]Topic [нам]Participant больше не [сын]Status!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [advmod больше] [advmod не] NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [iobj мне] [advmod больше] [advmod не] друг!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is not my P anymore
+common_fillers:
+  - друг
+  - сын
+  - дочь
+  - мать
+  - отец
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Phase of action
+    subtypes:
+      - type: Terminative
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

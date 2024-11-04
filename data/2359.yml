@@ -1,0 +1,54 @@
+---
+record: 2359
+name: 'VP без дальних разговоров'
+UD_name: ''
+illustration: 'Милый мой, — сказал он ему без дальних разговоров, — у меня есть для тебя дело…'
+cefr_level: С2
+definitions:
+examples:
+  - |
+       Ждать подходящего случая ей не хотелось, и она без дальних разговоров [рискнула прямо назначить ему свидание]Action.
+  - |
+       Вы можете [ответить]Action мне без дальних разговоров отказом.
+  - |
+       Шеф потребовал бухгалтера, с которым без дальних разговоров и [приступил к делам]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] [amod дальних] разговоров]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Милый [det мой]], — сказал [nsubj он] [iobj ему] [obl [case без] [amod дальних] разговоров], — [parataxis [obl [case у] меня] есть [obl [case для] тебя] [nsubj дело]]…]'
+equivalents:
+  - english: |
+       without further ado
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

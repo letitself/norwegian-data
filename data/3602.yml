@@ -1,0 +1,52 @@
+---
+record: 3602
+name: 'VP-Imp, если не VP-Pres.2'
+UD_name: ''
+illustration: 'Очки наденьте, если без них не видите.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Впрочем, если [ты действительно не видишь разницы]Condition, то [купи любой]Action.
+  - |
+       Вот и [не говори]Action, если [не знаешь]Condition!
+  - |
+       Если [не веришь]Condition, [приезжай вместе с Женей и посмотришь]Action!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP-Imp'
+  - '[advcl [mark если] [advmod не] VP-Pres.2]]'
+dependency_structure_of_illustration:
+  - '[root [obj Очки] наденьте, [advcl [mark если] [obl [case без] них] [advmod не] видите].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X if Y can't
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+family:
+  - |
+    ""

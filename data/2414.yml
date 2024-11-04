@@ -1,0 +1,55 @@
+---
+record: 2414
+name: 'NP-Nom Cop в загоне'
+UD_name: ''
+illustration: 'Что-то физики в почёте, что-то лирики в загоне.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Неплохо побыть для разнообразия не в загоне...
+  - |
+       [Автор письма]Maleficiary ― в загоне, в опале.
+  - |
+       ― [Промышленность области]Maleficiary как была, так и остается в «загоне».
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] загоне]'
+dependency_structure_of_illustration:
+  - '[root [advmod Что-то] [nsubj физики] [case в] почёте, [conj [advmod что-то] [nsubj лирики] [case в] загоне].]'
+equivalents:
+  - english: |
+       in opposition to X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

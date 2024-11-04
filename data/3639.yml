@@ -1,0 +1,53 @@
+---
+record: 3639
+name: 'PronPers-2.Nom не смотреть-Imp, (что) Cl'
+UD_name: ''
+illustration: 'Вы на меня не смотрите, я такая страшная и необразованная, но ваш ребенок будет другим.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Ты не смотри, что кот дружелюбный, он может и поцарапать.
+  - |
+       Вы не смотрите, что Петя своеобразный, он хороший.
+  - |
+       Ты не смотри, что Иван такой молодой, он, между прочим, кандидат наук.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Pronoun
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj PronPers-2.Nom] [advmod не] смотреть-Imp [conj Cl]]'
+  - '[root [nsubj PronPers-2.Nom] [advmod не] смотреть-Imp [advcl [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вы] [obl [case на] меня] [advmod не] смотрите, [conj [nsubj я] [det такая] страшная [conj [cc и] необразованная]], [conj [cc но] [nsubj [det ваш] ребенок] [cop будет] другим].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       don’t look at X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+family:
+  - |
+    ""

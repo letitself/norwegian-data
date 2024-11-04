@@ -1,0 +1,50 @@
+---
+record: 3104
+name: 'VP в девках'
+UD_name: ''
+illustration: 'Девушка долго была в девках, но наконец-то вышла замуж.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Спрашиваю: «Зачем же тогда замуж за меня шла?» ― «Боялась в девках [остаться.»]State
+  - |
+       Таких не любят парни, и [останутся]State они в девках.
+  - |
+       [Засиделись]State мы с Катей в девках, уж обеим за двадцать перевалило, а замуж не вышли.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] девках]]'
+  - '[dep [cop Cop] [case в] девках]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Девушка] [advmod долго] [cop была] [case] девках, [conj [cc но] [advmod наконец [det -то]] вышла [advmod замуж]].]'
+equivalents:
+  - english: |
+       as a spinster
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

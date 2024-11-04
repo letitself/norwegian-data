@@ -1,0 +1,60 @@
+---
+record: 3435
+name: 'XP на почве NP-Gen'
+UD_name: ''
+illustration: 'Это все на почве нервов, усталости и спорта.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Пенсионер на почве [плохих отношений]Cause [бросил гранату в дом своей 75-летней соседки]Situation.
+  - |
+       [Тебя неврозом каким-то накрыло]Situation на почве [последних событий]Cause?
+  - |
+       Официальной версией был [теракт]Situation на почве [ненависти]Cause.
+  - |
+       [Люди объединяются]Situation на почве [ненависти]Cause.
+  - |
+       [Болезнь является синдромом, возникающим]Situation на почве [целого ряда других болезней]Cause.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Formal
+dependency_structure:
+  - '[dep XP [dep [case на] почве [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj это [det все]] [case на] почве [nmod нервов, [conj усталости] [conj [cc и] спорта]].]'
+comment: |
+    'См. близкие конструкции 134, 1260, 1261.'
+equivalents:
+  - english: |
+       on the grounds of X
+common_fillers:
+  - нападений
+  - преступлений
+  - возникло
+  - сошлись
+  - расовой
+  - ненависти
+  - религии
+  - национальной
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

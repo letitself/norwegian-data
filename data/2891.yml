@@ -1,0 +1,50 @@
+---
+record: 2891
+name: 'VP с перепуга/перепугу'
+UD_name: ''
+illustration: 'С перепугу Маша даже не сразу его заметила.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Младшая Комарова с перепугу опять [заплакала,]Event а старшая страшно ругалась.
+  - |
+       Он с перепугу [решает изменить внешность]Event ― не только постричься, но и перекраситься.
+  - |
+       У студента с перепуга [глоток пива застрял в горле,]Event и он разразился продолжительным кашлем.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [amod спокойным] сердцем]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       in fright
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

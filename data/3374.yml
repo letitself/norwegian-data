@@ -1,0 +1,50 @@
+---
+record: 3374
+name: 'VP косо (на NP-Acc)'
+UD_name: ''
+illustration: 'Он косо смотрел на эмигрантов.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Во многих учреждениях на [старые паспорта]Stimulus уже [смотрят]Action косо.
+  - |
+       Соседи стали [смотреть]Action косо, так, будто его стали опасаться.
+  - |
+       И разве на [кого-нибудь]Stimulus начинают из-за этого косо [посматривать]Action или разве ему приходится убеждаться в том, что отсутствие у него номинальной веры ставит его в невыгодное положение в любой гражданской или военной деятельности?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod косо]]'
+  - '[root VP [advmod косо] [obl [case на] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod косо] смотрел [obl [case на] эмигрантов].]'
+equivalents:
+  - english: |
+       to look sullenly at X
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+  - type: Manner
+family:
+  - |
+    ""

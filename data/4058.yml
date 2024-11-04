@@ -1,0 +1,50 @@
+---
+record: 4058
+name: 'Вот это N-Nom, так ~N-Nom'
+UD_name: ''
+illustration: 'Вот это жара — так жара! Вот что значит юг!'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Красота, вот это [жизнь]Comparee так [жизнь]Standard.
+  - |
+       — Я беременна, — беззвучно повторяет Тамара. Вот это [новость]Comparee так [новость]Standard!
+  - |
+       Вот это [табак]Comparee так [табак]Standard! — возликовал старик, потягивая трубку.
+  - |
+       Вот это [начальник]Comparee, так [начальник]Standard... нам такого и нужно...
+  - |
+       Вот это [парень]Comparee так [парень]Standard, ради подружки готов на все, даже в город не поехал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod Вот] [nsubj это] N-Nom'
+  - '[advcl [mark так] ~N-Nom]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вот] [nsubj это] жара — [advcl [mark так] жара]!] [root [advmod Вот] [obj что] значит [nsubj юг]!]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

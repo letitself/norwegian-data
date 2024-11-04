@@ -11,11 +11,15 @@ definitions:
        Konstruksjonen brukes for å betegne et [tidsrom]Time som setter grensene for en [handling]Action, tilstand eller situasjon. [Mengden]Quantity [tid]Time angir taleren omtrentlig og upresist. Omtrentligheten gjengis ved at ordene står i omvendt rekkefølge (NP-Gen на NumCrd-Acc i stedet for den vanlige rekkefølgen на NumCrd-Acc NP-Gen).
 examples:
   - |
-       Мы все [замокли]Action [минут]Time на [пять]Number и слушали, как на кухне работает холодильник.
+       Мы все [замокли]Action [минут]Time на [пять]Number и слушали, как тикают часы.
   - |
        Под утро они [заснули]Action [часа]Time на [три]Number и встали в восемь свеженькие, готовые к работе.
   - |
        Степанов [пришёл]Action к нам в гости [часа]Time на [три]Number.
+  - |
+       У них были свои магазины, мастерские, небольшие фабрики работников на двести.
+  - |
+       Несмотря на то, что мы опоздали минут на двадцать, она встретила нас по-доброму.
 morphology:
   - VP
   - NP

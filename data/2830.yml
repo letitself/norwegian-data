@@ -1,0 +1,57 @@
+---
+record: 2830
+name: 'VP/NP-Nom Cop по плечу NP-Dat'
+UD_name: ''
+illustration: 'Но с детства он был страшно уверен в себе, считал, что любое дело ему по плечу'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Им]Agent по плечу [любые проблемы мировой научной и технической мысли]Theme.
+  - |
+       [Такие сложные задачи]Agent не по плечу [одному коллективу,]Agent решить их реально только совместными усилиями.
+  - |
+       Все эти проблемы [оказались]Event не по плечу [стареющему Ньютону]Agent.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       like a second nature
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Capacity/Preferences
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    ""

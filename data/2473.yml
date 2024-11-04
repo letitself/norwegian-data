@@ -1,0 +1,48 @@
+---
+record: 2473
+name: 'VP в такт (NP-Dat)'
+UD_name: ''
+illustration: 'Елена читала письмо, а Василиса кивала сухой головкой в такт словам.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Толпа радовалась и [двигалась]Activity в такт [музыке]Stimulus.
+  - |
+       Слушатели [подхлопывают]Activity в такт, бросают монетки в раскрытый гитарный футляр.
+  - |
+       Пока я говорил, Игорь сидел, [качал головой]Activity в такт [моей речи]Stimulus.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] такт]]'
+  - '[root VP [obl [case в] такт [nmod NP-Dat]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Елена] читала [obj письмо], [conj [cc а] [nsubj Василиса] кивала [obl [amod сухой] головкой] [obl [case в] такт [nmod словам]]].]'
+equivalents:
+  - english: |
+       in time
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

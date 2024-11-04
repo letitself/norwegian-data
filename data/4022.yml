@@ -1,0 +1,48 @@
+---
+record: 4022
+name: 'размениваться на NP-Acc'
+UD_name: ''
+illustration: 'Сейчас я занимаюсь главным и не размениваюсь на мелочи.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       У него нет желания размениваться на [интрижки]Theme
+  - |
+       Сухонина — классный журналист, вряд ли она будет размениваться на [эту дешевку]Theme.
+  - |
+       Не размениваться на [мелочи]Theme, но твёрдо стоять на своём.
+  - |
+       Стоило бы догадаться, что в своей гордыне Северин не станет размениваться на [мелкую рыбёшку]Theme.
+  - |
+       Размениваться на [мелких чиновников]Theme следователям после поимки министра и губернаторов несолидно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root размениваться [obl [case на] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Сейчас] [nsubj я] занимаюсь [obl главным] [conj [cc и] [advmod не] размениваюсь [obl [case на] мелочи]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

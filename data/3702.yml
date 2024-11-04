@@ -1,0 +1,48 @@
+---
+record: 3702
+name: 'NP-Gen как грязи'
+UD_name: ''
+illustration: 'Народу у вас в приемной как грязи.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       [Денег]Theme у него как грязи.
+  - |
+       [Кокосов, манго, ананасов и авокадо]Theme там — как грязи.
+  - |
+       Сейчас [университетов]Theme в городе, как грязи.
+  - |
+       [Народу]Theme как грязи, я стоял в очереди целый час!
+  - |
+       У этого мальчишки [идей]Theme как грязи.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root NP-Gen [nmod [advmod как] грязи]]'
+dependency_structure_of_illustration:
+  - '[root Народу [nmod [case у] вас [nmod [case в] приемной]] [obl [advmod как] грязи].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

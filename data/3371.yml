@@ -1,0 +1,49 @@
+---
+record: 3371
+name: 'NP-Nom за ~NP-Acc, Cl'
+UD_name: ''
+illustration: 'А потом слово за слово - решили попробовать выступить в переходе.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Слово за слово, плечо за плечо, [столкнулись парни, силами меряются.]Situation
+  - |
+       [Мы должны быть все вместе]Situation - брат за брата.
+  - |
+       [Вам запрещено молиться]Situation друг за друга без нашего разрешения.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP-Nom [obl [case за] ~NP-Acc]'
+  - '[conj Cl]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [advmod потом] слово [obl [case за] слово] - [parataxis решили [xcomp попробовать [xcomp выступить [obl [case в] переходе]]]].]'
+equivalents:
+  - english: |
+       watch over every X
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    ""

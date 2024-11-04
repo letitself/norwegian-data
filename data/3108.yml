@@ -1,0 +1,48 @@
+---
+record: 3108
+name: 'NP в квадрате'
+UD_name: ''
+illustration: 'Учеба была стрессом, а сдача экзаменов – стрессом в квадрате.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Потому что финансовая катастрофа ― это плохо, но неправильная реакция на нее ― [катастрофа]Theme в квадрате.
+  - |
+       Если изобретение телефона в XIX веке называли чудом, то появление мобильной связи можно считать [чудом]Theme в квадрате.
+  - |
+       Это [трагедия]Theme в квадрате, супертрагедия.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case в] квадрате]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Учеба] [cop была] стрессом [conj [cc а] [nsubj сдача [nmod экзаменов]] - стрессом [nmod [case в] квадрате]].]'
+equivalents:
+  - english: |
+       squared
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 2552
+name: 'к PronPoss-Dat стыду, Cl'
+UD_name: ''
+illustration: 'К моему огромному стыду, я никогда не был в Италии.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       К стыду своему [должен сознаться, что я только один раз, и то две недели тому назад, прочитал эту работу]Situation.
+  - |
+       И тут я к стыду своему [заплакал]Action.
+  - |
+       К стыду своему [я не помню имени]Situation, но помню ее саму.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [case к] [det PronPoss-Dat] стыду]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [case К] [det моему] [amod огромному] стыду], [nsubj я] [advmod никогда] [advmod не] был [obl [case в] Италии].]'
+equivalents:
+  - english: |
+       to X’s shame
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+family:
+  - |
+    ""

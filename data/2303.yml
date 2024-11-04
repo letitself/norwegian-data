@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren appellerer til samtalepartnerens logiske tenkemåte og sunne fornuft i vurderingen av en gitt [informasjon]ContentOfSpeech. Konstruksjonen brukes ofte når taleren vil vise til noe ulogisk i situasjonen. I konstruksjonen forekommer ofte spørrepronomen (for eksempel "какой", "зачем" og "как").
 examples:
+  - |
+       Сам подумай, [что мы можем ему дать, чего бы у него не было]Situation?
+  - |
+       А потом, сам подумай, [куда я от тебя такого хорошего денусь]Situation?
+  - |
+       Сами подумайте, [квартиру надо снять на первое время]Situation, а не сразу это удается.
+  - |
+       И куда он пойдет? Вот вы сами подумайте, [обратно во двор]Situation?
+  - |
+       [Откуда она возьмется в лесу]Situation, сам подумай.
 morphology:
   - Imp
   - Cl

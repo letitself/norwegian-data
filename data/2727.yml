@@ -1,0 +1,60 @@
+---
+record: 2727
+name: 'VP/NP-Nom Cop на равных NP-Loc (с NP-Ins)'
+UD_name: ''
+illustration: 'Уборка мест общего пользования должна производиться всеми жильцами поочередно на равных началах…'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Мы оба [будем издателями и редакторами]State на равных [началах]Circumstance.
+  - |
+       Йенсен отказался [работать]Activity со [Свэном]Companion на равных [началах]Circumstance.
+  - |
+       Мужики кричали на митингах, что с [казаками]Companion надо устроить [передел земли]Action на равных [началах]Circumstance .
+  - |
+       Мы с [тобой]Companion ни разу не [поговорили]Action на равных [основаниях]Circumstance, как товарищи по борьбе.
+  - |
+       Каждый гражданин имеет один голос и все граждане [участвуют]State в выборах на равных [основаниях]Circumstance.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod равных] NP-Loc]]'
+  - '[root VP [obl [case на] [amod равных] NP-Loc [nmod [case с] NP-Ins]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod равных] NP-Loc]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod равных] NP-Loc [nmod [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Уборка [nmod мест [nmod [amod общего] пользования]]] должна [xcomp производиться [obl [det всеми] жильцами] [advmod поочередно] [obl [case на] [amod равных] началах]]…]'
+equivalents:
+  - english: |
+       on an equal basis
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

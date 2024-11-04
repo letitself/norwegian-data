@@ -1,0 +1,52 @@
+---
+record: 3731
+name: '(весь/белый) свет не мил NP-Dat'
+UD_name: ''
+illustration: 'Иногда устанешь так, что белый свет не мил.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Без тебя [ему]Experiencer и свет не мил.
+  - |
+       Я живу чуть живой, уж [мне]Experiencer и свет не мил.
+  - |
+       После такой встряски весь свет не мил и космос на время отодвигается на второй план.
+  - |
+       Устанешь так, что белый свет не мил, а выйдешь из дому, оглядишься вокруг — и вся тяжесть с плеч и с души долой.
+  - |
+       Всю кровушку до капельки он из меня выпил, белый свет [мне]Experiencer не мил!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Adjective
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root [nsubj [det весь] свет] [advmod не] мил [iobj NP-Dat]]'
+  - '[root [nsubj [amod белый] свет] [advmod не] мил [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Иногда] устанешь [advmod так], [ccomp [mark что] [obj [amod белый] свет] [advmod не] мил].]'
+equivalents:
+common_fillers:
+  - ему
+  - мне
+references:
+  - |
+    Баранов, Добровольский 2011
+semantic_types:
+family:
+  - |
+    ""

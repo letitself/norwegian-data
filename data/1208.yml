@@ -11,6 +11,8 @@ definitions:
        Konstruksjonen betyr at [en deltaker i situasjonen]Participant eller [et objekt]Theme kan bli oppfattet som et [element i en mengde den ikke tilhører]Status. Som regel er det objektets eller deltakerens utseende eller atferd som medvirker til dette.
 examples:
   - |
+       [Рубашка]Theme была такая длинная и широкая, что могла сойти за [платье]Status.
+  - |
        Я обернулся к ним и подумал, что они выглядят как Васины дети. [Они]Participant могли бы сойти за [его детей]Status.
   - |
        Ее гражданство так и остается для меня загадкой, хотя по фамилии и безупречному английскому [она]Participant сойдет за [шведку]Status или [финку]Status.
@@ -18,8 +20,6 @@ examples:
        [Другая кошка]Participant была дымчато-серой и такой пушистой, что могла сойти за [сибирскую]Status.
   - |
        Надо сколько-то прожить здесь, чтобы сойти за [своих]Status.
-  - |
-       [Рубашка]Theme была такая длинная и широкая, что могла сойти за [платье]Status.
 morphology:
   - NP
   - Nom

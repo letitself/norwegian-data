@@ -6,6 +6,16 @@ illustration: 'Как вы говорите? Коллайдер?'
 cefr_level: A1
 definitions:
 examples:
+  - |
+       Как [вы]Speaker говорите? [Марина Иванова?]Topic Нет, нет у нас таких.
+  - |
+       Как [вы]Speaker говорите ― [клянусь матерью?]ContentOfSpeech
+  - |
+       Как это говорят у вас в Петербурге ― [«паребрик»?]ContentOfSpeech
+  - |
+       Как [ты]Speaker говоришь? [Вышла замуж?]ContentOfSpeech
+  - |
+       Как [ты]Speaker говоришь ― [роскошь?]Topic ― повторила она.
 morphology:
   - PronPers
   - Prs

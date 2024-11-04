@@ -1,0 +1,59 @@
+---
+record: 3677
+name: 'по PronPoss-Dat милость-Dat'
+UD_name: ''
+illustration: 'По вашей милости мы не спали всю ночь!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По [твоей]Causer милости я на новых босоножках каблуки ободрала.
+  - |
+       Иди, конечно, на больничный, я не собираюсь в постели валяться по [твоей]Causer милости под бой курантов.
+  - |
+       Это был Марк, который по [ее]Causer милости подвернул ногу.
+  - |
+       Члены ЦК не простили ему Ходынку, не простили страха, который по [его]Causer милости пережили.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [case По] [det вашей] милости]'
+dependency_structure_of_illustration:
+  - '[root [obl [case По] [det вашей] милости] [nsubj мы] [advmod не] спали [obl [det всю] ночь].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       By X's grace
+common_fillers:
+  - твоей
+  - вашей
+  - моей
+  - её
+  - его
+  - их
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Cause
+family:
+  - |
+    ""

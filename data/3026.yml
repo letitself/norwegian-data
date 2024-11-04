@@ -1,0 +1,47 @@
+---
+record: 3026
+name: 'Cl на склоне (PronPoss) лет/дней (NP-Gen)'
+UD_name: ''
+illustration: 'Даже на склоне лет Лесничий останется грозным воином.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       На склоне лет [человеку свойственно задумываться над вопросами мироздания]Situation.
+  - |
+       И даже совсем на склоне лет [завязались у меня новые знакомства,]Situation состоялись удивительные встречи с яркими, незаурядными личностями.
+  - |
+       По своему характеру я совершенно чужд политической активности и хотел бы только на склоне дней [своих]Possessor [лечить больных]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

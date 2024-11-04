@@ -12,6 +12,8 @@ examples:
        Серёжа [спал]Situation, а Юрий тем временем [размышлял.]Activity
   - |
        [Сначала – налоговая инспекция]Event, [затем – Пенсионный фонд]Event, [потом – Внешэкономбанк]Event, а инфляция тем временем [не дремлет]Situation.
+  - |
+       Тем временем, [дети в Африке голодают]Activity.
 morphology:
   - Cl
 syntactic_type_of_construction:

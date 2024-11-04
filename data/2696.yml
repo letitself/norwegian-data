@@ -1,0 +1,51 @@
+---
+record: 2696
+name: 'VP на общих основаниях'
+UD_name: ''
+illustration: 'Разумеется, я готов был принять участие в кастинге на общих основаниях'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Тогда я поступил в аспирантуру, причём [пошёл]Action на общих основаниях ― сдавал все экзамены.
+  - |
+       Работники милиции также обязаны [приобретать билеты для проезда]Activity на общих основаниях.
+  - |
+       Во всех остальных случаях статистическая информация [предоставляется]Activity на общих основаниях.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod общих] основаниях]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Разумеется], [nsubj я] готов [cop был] [xcomp принять [obj участие [nmod [case в] кастинге]] [obl [case на] [amod общих] основаниях]]]'
+equivalents:
+  - english: |
+       on a general basis
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Cause
+family:
+  - |
+    ""

@@ -1,0 +1,47 @@
+---
+record: 2528
+name: 'VP для острастки'
+UD_name: ''
+illustration: 'Я видел, что медведь рядом, и понимал: нам не устоять. Но все же сделал несколько выстрелов для острастки.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я сделал несколько замечаний, ничто не действовало; тогда я для острастки [записал ее в журнал]Action.
+  - |
+       Это просто для острастки [нас сейчас держат]Action, чтобы помнили лучше.
+  - |
+       Думаю, для острастки [написать на нее рапорт]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] острастки]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] видел, [ccomp [mark что] [nsubj медведь] рядом], [conj [cc и] понимал: [xcomp [iobj нам] [advmod не] устоять]].] [root [cc Но] [advmod все [advmod же]] сделал [obl [nummod несколько] выстрелов] [obl [case для] острастки].]'
+equivalents:
+  - english: |
+       as a warning
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

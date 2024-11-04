@@ -1,0 +1,54 @@
+---
+record: 3243
+name: 'VP/NP-Nom Cop на уровне'
+UD_name: ''
+illustration: 'Компетентность работающих здесь специалистов должна быть на уровне.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       В здании звукоизоляция на уровне.
+  - |
+       Отель хороший, питание на уровне.
+  - |
+       Они всегда стараются провести мероприятие на уровне.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [cop Cop] [case на] уровне]]'
+  - '[dep [nsubj NP-Nom] [cop Cop] [case на] уровне]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Компетентность [nmod [acl работающих] [advmod здесь] специалистов]] должна [obl [cop быть] [case на] уровне].]'
+equivalents:
+  - english: |
+       abreast
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+        subtypes:
+          - type: Matching the norm
+  - type: Salient property
+    subtypes:
+      - type: Matching the standard
+family:
+  - |
+    ""

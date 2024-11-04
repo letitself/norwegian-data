@@ -1,0 +1,56 @@
+---
+record: 3452
+name: 'Не знаю, как насчет NP-Gen, (но) Cl'
+UD_name: ''
+illustration: '― Не знаю, как насчет бананов, но яблоки там наверняка росли, ― подтвердил Рашид.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       ― Ну, я не знаю, как насчет [опасностей]Topic, но [приключения я вам точно обещаю]ContentOfSpeech!
+  - |
+       Не знаю, как насчет [этого человека]Topic, но [я была счастлива в этот вечер]ContentOfSpeech.
+  - |
+       Не знаю, как насчет [ветра]Topic, но [тучи в комнате сгущались явно]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Particle
+  - Verb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] знаю, [obl [advmod как] [case насчет] NP-Gen], [conj [cc но] Cl]]'
+  - '[root [advmod не] знаю, [obl [advmod как] [case насчет] NP-Gen], [conj Cl]]'
+dependency_structure_of_illustration:
+  - '[root ― [advmod Не] знаю, [obl [advmod как] [case насчет] бананов], [conj [cc но] [nsubj яблоки] [advmod там] [advmod наверняка] росли], ― [parataxis подтвердил [nsubj Рашид]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       I don't know aboit Y, but
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Doubt
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 2793
+name: 'первое время VP'
+UD_name: ''
+illustration: 'Первое время он часто заходил ко мне'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Первое время [придётся взять на себя бытовые заботы,]Action чтобы дом опять превратился из временного пристанища в настоящий остров комфорта.
+  - |
+       Первое время в Москве я совсем [мало с ним встречался]Activity.
+  - |
+       Первое время работать [было тяжело]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [amod первое] время] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [amod Первое] время] [nsubj он] [advmod часто] заходил [obl [case ко] мне]]'
+equivalents:
+  - english: |
+       at first
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

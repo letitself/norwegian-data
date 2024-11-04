@@ -1,0 +1,50 @@
+---
+record: 2781
+name: 'VP от полноты чувств'
+UD_name: ''
+illustration: 'От полноты чувств Художник плюнул на пол, попытался растереть, но зашатался и едва не упал'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Кто-то от полноты чувств [кричит]Activity и подбрасывает вверх шапку.
+  - |
+       Он проворно поднялся и отступил к двери, лицо у него [дрожало]State от полноты чувств.
+  - |
+       Спасибо тебе. ― Она от полноты чувств [обняла подругу]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] полноты [nmod чувств]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] полноты [nmod чувств]] [nsubj Художник] плюнул [obl [case на] пол], [conj попытался [xcomp растереть]], [conj [cc но] зашатался [conj [cc и] [advmod [advmod едва] не] упал]]]'
+equivalents:
+  - english: |
+       from an abundance of feelings
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

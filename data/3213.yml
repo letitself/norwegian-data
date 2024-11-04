@@ -1,0 +1,55 @@
+---
+record: 3213
+name: 'NP-Nom лезть на стенку/стену (от NP-Gen)'
+UD_name: ''
+illustration: 'От одиночества я лез на стенку.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я просто лезла на стену от боли.
+  - |
+       Девочка лезла на стену от скуки, не зная, чем себя занять.
+  - |
+       От такого графика даже самые терпеливые футболисты к концу второй недели начинают лезть на стенку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] лезть [obl [case на] стену]]'
+  - '[root [nsubj NP-Nom] лезть [obl [case на] стену] [obl [case от] NP-Gen]]'
+  - '[root [nsubj NP-Nom] лезть [obl [case на] стенку]]'
+  - '[root [nsubj NP-Nom] лезть [obl [case на] стенку] [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] одиночества] [nsubj я] лез [obl [case на] стенку].]'
+equivalents:
+  - english: |
+       X went up the wall
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+      - type: Emotional state
+family:
+  - |
+    ""

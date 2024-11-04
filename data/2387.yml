@@ -1,0 +1,53 @@
+---
+record: 2387
+name: 'VP без труда'
+UD_name: ''
+illustration: 'Я бухнулся в воду и без труда донырнул до дна.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Я уверен, мы без труда [сможем доказать это в суде]Activity.
+  - |
+       Я не без труда [улавливал смысл его долгих монологов]Activity.
+  - |
+       Луна рано поднялась над горами, и можно было без труда [двигаться дальше]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] труда]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] бухнулся [obl [case в] воду] [conj [cc и] [obl [case без] труда] донырнул [obl [case до] дна]].]'
+equivalents:
+  - english: |
+       easily
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3085
+name: 'VP (не) без (всякой) задней мысли'
+UD_name: ''
+illustration: 'Он говорит обидные вещи без задней мысли.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я просто так [спросил,]Action без всякой задней мысли.
+  - |
+       Не без задней мысли [начинала]Action она такие разговоры.
+  - |
+       К новому делу он [присоединился]Action честно, без задней мысли.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] [amod задней] мысли]]'
+  - '[root VP [obl [case без] [det всякой] [amod задней] мысли]]'
+  - '[root VP [advmod не] [obl [case без] [amod задней] мысли]]'
+  - '[root VP [advmod не] [obl [case без] [det всякой] [amod задней] мысли]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] говорит [obj [amod обидные] вещи] [obl [case без] [amod задней] мысли].]'
+equivalents:
+  - english: |
+       without an ulterior thought
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Purpose
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 2968
+name: 'VP чуть свет'
+UD_name: ''
+illustration: 'Утром она просыпалась чуть свет, потому что вечером старалась лечь пораньше.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Тебе завтра [вставать]Action чуть свет, ― ответила Анна.
+  - |
+       Мы [уйдём]Action завтра чуть свет, а Демидов останется тут один.
+  - |
+       Мне не спалось на скамье, и я чуть свет опять [побрёл по посёлку]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Adverb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       at daybreak
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

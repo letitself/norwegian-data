@@ -1,0 +1,54 @@
+---
+record: 2520
+name: 'VP денно и нощно'
+UD_name: ''
+illustration: 'Кофе слишком дорог даже для императора, а он пьет его денно и нощно.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Десять лет я [работал]Activity денно и нощно.
+  - |
+       Не уверен, что поглощенность политикой, о которой [думаю]Activity денно и нощно, плодотворна.
+  - |
+       В России и за границей, почти денно и нощно Юлия [была озабочена одним]State: когда же пойдут они в храм?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod денно [conj [cc и] нощно]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Кофе] [advmod слишком] дорог [obl [advmod даже] [case для] императора], [conj [cc а] [nsubj он] пьет [obj его] [advmod денно [conj [cc и] нощно]]].]'
+equivalents:
+  - english: |
+       day and night
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 2662
+name: 'VP на деле'
+UD_name: ''
+illustration: 'Потом он попросил меня испробовать мыло на деле и пошёл на речку мыть голову'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       На её взгляд, необходимо [реализовать]Action на деле предложенную концепцию.
+  - |
+       Нельзя верить заявлениям и декларациям людей, как бы они ни были эффектны, если они не [подтверждаются]Action на деле.
+  - |
+       Общество должно создавать запас подобных великих «проектов», лишь малой части которых суждено [осуществиться]Result на деле.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] деле]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Потом] [nsubj он] попросил [obj меня] [xcomp испробовать [obj мыло] [obl [case на] деле]] [conj [cc и] пошёл [obl [case на] речку] [xcomp мыть [obj голову]]]]'
+equivalents:
+  - english: |
+       real deal
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3547
+name: 'NP-Acc бы сюда (- Cl)'
+UD_name: ''
+illustration: 'Сюда бы зрителей побольше – и можно деньги собирать.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Местность живописная, вид открывается такой, что дух захватывает, а от свежего воздуха кружится голова. [Туристов]Circumstance бы сюда!
+  - |
+       Саша печально гладит сохнущие листочки: «Сюда бы [дождик]Circumstance в ближайшие три-четыре дня!"
+  - |
+       Сюда бы [всех подруг]Circumstance – [посмеялись бы вместе]Result!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep [obj NP-Acc] [aux бы] сюда]'
+  - '[dep [obj NP-Acc] [aux бы] сюда - [conj Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Сюда] [aux бы] [obj зрителей] побольше - [conj [cc и] можно [csubj [obj деньги] собирать]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       If X and Y can P
+common_fillers:
+  - тебя
+  - его
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

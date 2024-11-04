@@ -1,0 +1,57 @@
+---
+record: 3577
+name: 'стоит NP-Dat пальцем (NP-Acc) поманить'
+UD_name: ''
+illustration: 'Стоит любому из них пальцем поманить, она бросит бедного чекиста и потом никогда не вспомнит.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Вася мог бы получить практически любую женщину, стоило [ему]Agent только пальцем поманить.
+  - |
+       Он готов идти, стоит [мне]Agent пальцем поманить.
+  - |
+       Почему парни думают, что одинокая девушка готова встречаться с кем угодно, стоит [им]Agent только пальцем поманить?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Predicative
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root стоит [csubj [iobj NP-Dat] [obl пальцем] поманить]]'
+  - '[root стоит [csubj [iobj NP-Dat] [obl пальцем] [obj NP-Acc] поманить]]'
+dependency_structure_of_illustration:
+  - '[root стоит [csubj [iobj любому [nmod [case из] них]] [obl пальцем] поманить], [conj [nsubj она] бросит [obj [amod бедного] чекиста] [conj [cc и] [advmod потом] [advmod никогда] [advmod не] вспомнит]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       with a snap of a finger
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Condition
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Taxis
+    subtypes:
+      - type: Subsequent action
+family:
+  - |
+    ""

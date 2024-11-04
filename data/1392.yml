@@ -6,6 +6,16 @@ illustration: 'Он способен на любую подлость.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       [Он]Participant не способен [выполнять эту работу]Activity как следует.
+  - |
+       [Он]Participant не способен на [такую низость.]Evaluation
+  - |
+       [Ты]Participant не способен на [серьезные отношения.]Activity
+  - |
+       Но не похоже что [он]Participant способен на [насилие.]Activity
+  - |
+       Но [ты]Participant способен на [гораздо большее.]Evaluation
 morphology:
   - NP
   - Nom

@@ -1,0 +1,50 @@
+---
+record: 2390
+name: 'VP буква в букву'
+UD_name: ''
+illustration: 'Пророчество гениального поэта сбылось буква в букву.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Просьба [фамилию указывать]Action буква в букву, иначе платёж не пройдет!
+  - |
+       Вы [следуете инструкциям похитителя]Action буква в букву.
+  - |
+       [Понимать его слова]Action нужно скорее символически, нежели буква в букву.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl буква [nmod [case в] букву]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Пророчество [nmod [amod гениального] поэта]] сбылось [obl буква [nmod [case в] букву]].]'
+equivalents:
+  - english: |
+       to the letter
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Exact
+  - type: Manner
+family:
+  - |
+    ""

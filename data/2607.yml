@@ -1,0 +1,49 @@
+---
+record: 2607
+name: 'VP за скобками'
+UD_name: ''
+illustration: 'Политику и экономику оставим за скобками, сосредоточимся только на фактах спортивной истории'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я [оставляю]State за скобками его талант, его индивидуальность ― это и так понятно, но он еще к тому же был профессионалом высочайшего класса.
+  - |
+       Предложение сэкономить более 300 млн. рублей в год на ликвидации трех небольших ведомств [осталось]State за скобками работы комиссии.
+  - |
+       За скобками [осталась]State проблема разрушения естественных экосистем и формирующей их дикой биоты.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] скобками]]'
+dependency_structure_of_illustration:
+  - '[root [obj Политику [conj [cc и] экономику]] оставим [obl [case за] скобками], [conj сосредоточимся [obl [advmod только] [case на] фактах [nmod [amod спортивной] истории]]]]'
+equivalents:
+  - english: |
+       out of the brackets
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

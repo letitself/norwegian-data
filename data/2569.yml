@@ -1,0 +1,55 @@
+---
+record: 2569
+name: 'NP-Nom Cop/VP как обухом по голове'
+UD_name: ''
+illustration: 'Когда зажёгся свет, меня как обухом по голове ударило'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       То, что я увидел, [поразило меня]Event как обухом по голове.
+  - |
+       [Это известие]Event было для меня как обухом по голове после всех моих многодневных мук.
+  - |
+       [Решение столичного правительства]Event было как обухом по голове ― снос.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - NP-Nom Cop
+  - 'VP как обухом по голове
+
+[root VP [obl [mark как] обухом] [obl [case по] голове]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Когда] зажёгся [nsubj свет]], [obj меня] [obl [mark как] обухом] [obl [case по] голове] ударило]'
+equivalents:
+  - english: |
+       out of the blue
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Mirative
+family:
+  - |
+    ""

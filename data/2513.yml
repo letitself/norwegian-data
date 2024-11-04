@@ -1,0 +1,51 @@
+---
+record: 2513
+name: 'PronInt только VP/Pred'
+UD_name: ''
+illustration: 'Я набрал, где только смог, шестьсот рублей'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Егор ― объехал всю заграницу, где только [не был]Activity.
+  - |
+       Во дворе, в коридорах, на чердаке – всюду, где только было возможно, [сидели и стояли люди]Activity.
+  - |
+       Очень предусмотрительным и опасным был неуловимый убийца, так что следовало где только можно [предотвращать утечку информации]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod PronInt] [advmod только] VP]'
+  - '[root [advmod PronInt] [advmod только] Pred]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] набрал, [ccomp [advmod где] [advmod только] смог], [obj [nummod шестьсот] рублей]]'
+equivalents:
+  - english: |
+       where only
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

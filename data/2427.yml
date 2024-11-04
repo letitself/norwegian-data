@@ -1,0 +1,50 @@
+---
+record: 2427
+name: 'NP и NP в одном лице'
+UD_name: ''
+illustration: 'Глава семьи и хозяйка в одном лице.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Набрала номер Ларисы ‒ [администратора]Status и [бухгалтера]Status в одном лице.
+  - |
+       Мы сами драматурги своих снов, их [режиссеры]Status, [художники]Status, [актеры]Status и [зрители]Status, все в одном лице.
+  - |
+       Назовем этого человека [инспектором]Status и [кассиром]Status в одном лице.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP [conj [cc и] NP] [case в] [nummod одном] лице]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Глава [nmod семьи] [conj [cc и] хозяйка]] [case в] [nummod одном] лице.]'
+equivalents:
+  - english: |
+       rolled into one
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

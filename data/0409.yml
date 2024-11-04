@@ -1,11 +1,17 @@
 ---
 record: 409
-name: 'Cl как есть'
+name: 'VP как есть'
 UD_name: 'Cl как есть'
 illustration: 'Отдавайте как есть.'
 cefr_level: C1
 definitions:
 examples:
+  - |
+       Куда пропал? [Он объяснил]Action как есть: [уехал зарабатывать деньги в Москве]Situation.
+  - |
+       Опыта у меня, как уже было сказано, никакого. Пусть [остаётся]Situation, как есть.
+  - |
+       Ну-ка сядьте, Виталий, и [расскажите]Action мне всё как есть.
 morphology:
   - Cl
 syntactic_type_of_construction:

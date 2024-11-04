@@ -1,0 +1,53 @@
+---
+record: 3239
+name: 'NP-Nom Cop на порядок Adj-Cmp/Adv-Cmp/ VP на порядок VP-Inf'
+UD_name: ''
+illustration: 'В этом городе цены были на порядок выше.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Эти проблемы на порядок серьёзнее предыдущих.
+  - |
+       Адаптивные способности человека на порядок больше, чем у прочих животных.
+  - |
+       Новая технология позволила на порядок увеличить объёмы производства.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case на] порядок] Adj-Cmp]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case на] порядок] Adv-Cmp]'
+  - '[root [nsubj NP-Nom] VP [xcomp [obl [case на] порядок] VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det этом] городе] [nsubj цены] [cop были] [obl [case на] порядок] выше.]'
+equivalents:
+  - english: |
+       by an order of magnitude
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

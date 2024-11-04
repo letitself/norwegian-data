@@ -11,8 +11,6 @@ definitions:
        Konstruksjonen uttrykker sammenligning og fremhever likheten mellom [et objekt]Comparee og [et annet]Standard med tanke på [et gitt kjennetegn]Parameter. Objektene kan være gjenstander, deltakere i situasjonen eller hele situasjoner. Kjennetegnet som sammenlignes, kan være nevnt (eksempel 1) eller fremgå av konteksten. Sammenligningen anstilles kun med hypotetiske objekter eller situasjoner, der situasjonen kan være uttrykt av en hel leddsetning (eksempel 3) eller en partisipp- eller gerundiumskonstruksjon (eksempel 4–5). Sloten XP kan fylles av en nominalfrase, et preposisjonsledd, en verbalfrase eller en hel leddsetning. Konstruksjonen brukes sjelden i moderne språk og assosieres med stilen i boklige fremstillinger.
 examples:
   - |
-       Я вспоминаю поля, простор и русский лес с [острым]Parameter, точно [лезвие]Standard, [сердечным чувством]Comparee.
-  - |
        [Плечи и руки]Comparee были у нее точно [мраморные]Standard.
   - |
        [Душа болела]Comparee, точно [жгли её медленным огнём]Standard.
@@ -20,6 +18,8 @@ examples:
        [Белые лилии]Comparee, точно [вылитые из жёлтого воска]Standard, торчали из этих мощных зелёных плит.
   - |
        [Все как-то странно смотрели на меня]Comparee, точно [не узнавая]Standard.
+  - |
+       Я вспоминаю поля, простор и русский лес с [острым]Parameter, точно [лезвие]Standard, [сердечным чувством]Comparee.
 morphology:
   - XP
   - Cl

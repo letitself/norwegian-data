@@ -1,0 +1,51 @@
+---
+record: 4006
+name: 'ставить/поставить NP-Acc в один ряд с NP-Ins'
+UD_name: ''
+illustration: 'Газданова, как уже упоминалось, в тридцатые годы чаще всего ставили в один ряд с Набоковым'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Этого человека]Comparee недаром ставят в один ряд с [Леонардо да Винчи и прочими гениями-универсалами]Standard.
+  - |
+       То же самое можно сказать и о проекте Кандинского, [беспредметное искусство которого]Comparee ставят в один ряд с [литературным футуризмом]Standard.
+  - |
+       [Его]Comparee ставили в один ряд с [Джорджем Баланчиным и Джеромом Роббинсом, Роланом Пети и Мартой Грэм]Standard.
+  - |
+       И когда я начал копаться в архивах, то постепенно пришел к выводу: «История водки» ― [чисто литературное произведение]Comparee, которое можно [поставить в один ряд с «Кодом да Винчи»]Standard.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Formal
+dependency_structure:
+  - '[root ставить [obj NP-Acc] [obl [case в] [nummod один] ряд] [obl [case с] NP-Ins]]'
+  - '[root поставить [obj NP-Acc] [obl [case в] [nummod один] ряд] [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [obj Газданова], [parataxis [mark как] [advmod уже] упоминалось], [obl [case в] [amod тридцатые] годы] [advmod чаще [obl всего]] ставили [obl [case в] [nummod один] ряд] [obl [case с] Набоковым]]'
+comment: |
+    'Не путать с'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

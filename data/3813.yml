@@ -1,0 +1,51 @@
+---
+record: 3813
+name: '(Cl/NP-Acc) ноги не держат'
+UD_name: ''
+illustration: 'Я встаю и чувствую, ноги не держат.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Насчет "вернется " Колюша сомневался: [его]Experiencer ноги не держат, не одолеть ему дороги.
+  - |
+       Ну, [меня]Experiencer тошнит, голова кругом, ноги не держат.
+  - |
+       Ноги не держат [меня]Experiencer, и я опускаюсь на табурет.
+  - |
+       Уже глаза закрываются, ноги не держат [юных книгочеев]Experiencer, но фото с котёнком Шмяком сделать меня попросили.
+  - |
+       После напряженного дня [тебя]Experiencer ноги не держат, но мозг не отключается даже в опасной близости к подушке?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis Cl] [nsubj ноги] [advmod не] держат]]'
+  - '[root [obj NP-Acc] [nsubj ноги] [advmod не] держат]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] встаю [conj [cc и] чувствую], [parataxis [nsubj ноги] [advmod не] держат]].'
+equivalents:
+common_fillers:
+  - меня
+references:
+  - |
+    Баранов, Добровольский 2032
+semantic_types:
+family:
+  - |
+    ""

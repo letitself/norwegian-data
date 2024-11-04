@@ -1,0 +1,47 @@
+---
+record: 4053
+name: 'идти VP-Inf'
+UD_name: ''
+illustration: 'Пора идти обедать.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Мы встречаемся у универа и идем [искать библиотеку]Activity.
+  - |
+       Избиратель должен идти [голосовать за проект]Activity?
+  - |
+       Как только им что-то не нравится, сразу идут [жаловаться]Activity.
+  - |
+       А завтра идем [играть против ребят из другого двора]Activity.
+  - |
+       Сперва предстояло идти [завтракать]Activity, а потом надо было зайти к Марии.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root идти [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Пора [xcomp идти [xcomp обедать.]]]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

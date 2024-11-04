@@ -1,0 +1,50 @@
+---
+record: 3946
+name: 'NP-Nom V своё "фэ/фе/фи"'
+UD_name: ''
+illustration: 'Граждане этой акцией выражают своё "фи" властям.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Зашел [сказать]Agent свое «фэ», ― продолжал Моня, входя в ограду.
+  - |
+       Они пользовались случаем под видом вопросов [выразить]Agent «свое фэ»
+  - |
+       Если вы сейчас скажете, что это Кулькин, [я]Agent [объявлю]Agent вам свое фи!
+  - |
+       Обратили внимание? Свое «фэ» [показывают]Agent.
+  - |
+       И если по какой-то причине [ей]Agent хотелось [высказать]Agent миру свое «фи», она прикрепляла магнитиками к металлической рамке на двери небольшой плакат с надписью «Вход запрещен» и закрывалась в комнате.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Object
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] V [obj [det своё] фэ]]'
+  - '[root [nsubj NP-Nom] V [obj [det своё] фе]]'
+  - '[root [nsubj NP-Nom] V [obj [det своё] фи]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Граждане] [obl [det этой] акцией] выражают [obj [det своё] "фи"] [iobj властям].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

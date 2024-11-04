@@ -1,0 +1,51 @@
+---
+record: 3025
+name: 'VP-Pfv в один момент'
+UD_name: ''
+illustration: 'В один момент банк от валютных операций отказаться не сможет: ему потребуется какой-то переходный период.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Обстоятельства восстановить не представляется возможным… Нет, потеря [произошла]Event не в один момент.
+  - |
+       ― А как все перевернулось, знаете? В один момент. Раз, и всё.
+  - |
+       Нет пилюли, которая в один момент [сделает экономиста дизайнером]Event, нет книги, которая даст ответ на все вопросы.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [nummod один] момент]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+family:
+  - |
+    ""

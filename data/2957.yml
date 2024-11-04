@@ -1,0 +1,53 @@
+---
+record: 2957
+name: 'Cl, хоть плачь'
+UD_name: ''
+illustration: 'Адский холод, потому что печей нет, а снаружи двадцатиградусный мороз, хоть плачь!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Родной, знакомый человек, много лет знакомый ― а имя забыл, и, хоть плачь, [не найдёшь]Situation.
+  - |
+       Тем мартом Полине исполнилось четырнадцать, в движениях появилась плавность, и хотя грудь уже проклюнулась, но [оставалась до обидного плоской,]State хоть плачь.
+  - |
+       [На улице такая мерзкая погода,]Situation хоть плачь.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       enough to make X cry
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

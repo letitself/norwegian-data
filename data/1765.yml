@@ -1,11 +1,19 @@
 ---
 record: 1765
-name: 'PronPers-Dat легко/хорошо говорить, а я Cl'
+name: 'PronPers-Dat легко/хорошо говорить, (а) Cl'
 UD_name: 'PronPers-Dat легко/хорошо говорить, а я Cl'
 illustration: 'Тебе легко говорить, а я пережила эту трагедию, как личную.'
 cefr_level: B2
 definitions:
 examples:
+  - |
+       [Тебе]Addressee легко говорить, а [я страдаю.]ContentOfSpeech
+  - |
+       [Вам]Addressee легко говорить, что все идет прекрасно, а [они по-настоящему влюблены.]ContentOfSpeech
+  - |
+       [Им]Addressee легко говорить, [им не приходится зарабатывать.]ContentOfSpeech
+  - |
+       [Тебе]Addressee легко говорить. [Твоих детей сосчитать ― пальцев не хватит.]ContentOfSpeech
 morphology:
   - PronPers
   - Dat

@@ -1,0 +1,54 @@
+---
+record: 3450
+name: 'проще говоря/сказать, ХP/Cl'
+UD_name: ''
+illustration: 'Петр был плохим политиком. Проще сказать, он совершенно ничего не понимал в политике, особенно внешней.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я уполномоченный или, проще сказать, [начальник местного отделения ФСБ]Rephrasing.
+  - |
+       Исследователи белых пятен мозга включили в свой арсенал такое средство, как вживленные электроды. Проще говоря, [ученые стали использовать электричество]Rephrasing.
+  - |
+       Николай Семенович Киселев был человеком без роду и племени, проще говоря, [без связей]Rephrasing.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Converb/Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [advmod проще] сказать], Cl]'
+  - '[root [parataxis [advmod проще] говоря], Cl]'
+  - '[dep [parataxis [advmod проще] сказать], XP]'
+  - '[dep [parataxis [advmod проще] говоря], XP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [advmod Проще] сказать], [nsubj он] [obl [advmod совершенно] ничего] [advmod не] понимал [obl [case в] политике, [amod [advmod особенно] внешней]].]'
+comment: |
+    'См. близкую конструкцию 1086.'
+equivalents:
+  - english: |
+       put simply
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+family:
+  - |
+    ""

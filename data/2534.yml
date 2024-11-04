@@ -1,0 +1,59 @@
+---
+record: 2534
+name: 'NP-Gen днем с огнем (не) сыщешь/найдешь/сыскать/найти/искать'
+UD_name: ''
+illustration: 'Днем с огнем не сыщешь толковых менеджеров.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он разливал по бокалам [коллекционное шампанское]Theme, какого в этой стране днем с огнем не найдешь.
+  - |
+       Пощадите наши древности! [Их]Theme надо искать по России днем с огнем.
+  - |
+       В Москве [испанского переводчика]Theme днем с огнем тогда было поискать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] сыщешь]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] найдешь]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] сыскать]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] найти]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] искать]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] [advmod не] сыщешь]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] [advmod не] найдешь]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] [advmod не] сыскать]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] [advmod не] найти]'
+  - '[root [obj NP-Gen] [obl днем] [obl [case с] огнем] [advmod не] искать]'
+dependency_structure_of_illustration:
+  - '[root [obl Днем] [obl [case с] огнем] [advmod не] сыщешь [obj [amod толковых] менеджеров].]'
+equivalents:
+  - english: |
+       as a needle in a haystack
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    ""

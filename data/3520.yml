@@ -1,0 +1,56 @@
+---
+record: 3520
+name: 'на NumOrd-Acc/PronDem-Acc раз Cl'
+UD_name: ''
+illustration: 'На этот раз церемония прошла значительно скромнее.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       На [четвертый]Quantity раз [разорился и исчез без следа совхоз «Борьба»]Situation.
+  - |
+       В январе балерина прилетела в Пермь и вскоре снова унеслась. На [сей]Quantity раз [в Петербург]Goal.
+  - |
+       Как всегда бывало с Петровым в метро, [так произошло]Situation и на [этот]Quantity раз.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case на] [det PronDem-Acc] раз] Cl]'
+  - '[root [obl [case на] [amod NumOrd-Acc] раз] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] [det этот] раз] [nsubj церемония] прошла [advmod [advmod значительно] скромнее].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       at this time
+common_fillers:
+  - этот
+  - первый
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
+family:
+  - |
+    ""

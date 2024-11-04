@@ -1,0 +1,48 @@
+---
+record: 3401
+name: 'цены нет Cop NP-Dat'
+UD_name: ''
+illustration: 'А вы посмотрите, я вам ещё швейцарскую куртку принесу ― ей вообще цены нет.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Ну, пророк! Ну, мессия! Да [тебе]Participant ж цены нет!
+  - |
+       Выпущено всего 56 образцов. [Ей]Theme цены нет
+  - |
+       Огромное спасибо, [информации вашей]Theme цены нет, как вы её нашли!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj цены] нет [cop Cop] [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj вы] посмотрите, [ccomp [nsubj я] [iobj вам] [advmod еще] [obj [amod швейцарскую] куртку] принесу ― [conj [iobj ей] [advmod вообще] [nsubj цены] нет]].]'
+equivalents:
+  - english: |
+       X is not worth a penny
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

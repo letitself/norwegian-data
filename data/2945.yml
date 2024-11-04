@@ -1,0 +1,50 @@
+---
+record: 2945
+name: '(и) там и сям/там-сям VP'
+UD_name: ''
+illustration: 'Там и сям были разбросаны ржавые кузова машин, краны.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Все кругом было украшено кудряшками картофельной кожуры, которые [приклеились]Event там и сям и свисали в виде подсыхающих длинных гирлянд.
+  - |
+       У стены там-сям [шлялись]Activity нетрезвые агрессивные парни.
+  - |
+       Теперь на даче только ржавые цепи от велосипедов [валяются]State там и сям.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       here and there
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 2393
+name: 'VP/NP-Nom Cop в беспорядке'
+UD_name: ''
+illustration: 'Вещи в беспорядке валялись на полу: пустые бутылки, грязь, мусор.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Разгромленные правительственные [войска]Theme в беспорядке [отступили]Result.
+  - |
+       [Моя личная жизнь]Theme в беспорядке.
+  - |
+       Сегодня утром [горничная]Theme [оставила мою комнату]Result в беспорядке.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] беспорядке]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] беспорядке]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Вещи] [obl [case в] беспорядке] валялись [obl [case на] полу]: [parataxis [amod пустые] бутылки, [conj грязь], [conj мусор]].]'
+equivalents:
+  - english: |
+       X is a mess
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3187
+name: 'NP-Nom иметь в виду NP-Acc'
+UD_name: ''
+illustration: 'Когда сегодня говорят об искусственном интеллекте, в большинстве случаев имеют в виду прикладные технологии.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Он]Agent всякий раз имеет в виду [науку как корпус совершенного знания.]Theme
+  - |
+       [Мама]Agent спросила, что произошло, имея в виду [ссору.]Theme
+  - |
+       Говоря о двоечнице, [девчонки,]Agent конечно, имели в виду [меня.]Participant
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] иметь [obl [case в] виду] [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Когда] [advmod сегодня] говорят [obl [case об] [amod искусственном] интеллекте]], [obl [case в] большинстве [nmod случаев]] имеют [obl [case в] виду] [obj [amod прикладные] технологии].]'
+equivalents:
+  - english: |
+       have X in mind
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+family:
+  - |
+    ""

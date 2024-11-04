@@ -1,0 +1,54 @@
+---
+record: 2810
+name: 'VP по дороге (Adv / PP)'
+UD_name: ''
+illustration: 'Однажды по дороге домой она нашла пять копеек'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По дороге [домой]Goal я [пытался ему что-то объяснить,]Action но он молчал.
+  - |
+       Однажды отец позвал их к себе, но по дороге братьям [встретилась водная преграда,]Event которую можно было преодолеть на лодке.
+  - |
+       По дороге [туда]Goal я [волновался,]State как мальчик.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       on X's way
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Route
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
+family:
+  - |
+    ""

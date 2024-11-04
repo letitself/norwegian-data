@@ -1,0 +1,58 @@
+---
+record: 2954
+name: 'Cl, хоть лопни/тресни (от NP-Gen)'
+UD_name: ''
+illustration: 'Хоть лопни ― не получилось консенсуса, а виноват, конечно же, был опять Вова.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Опыты нового владельца подвигались медленно, уставали мы чертовски, а новые акционеры, хоть лопни, [не появлялись]Event.
+  - |
+       Все должны посещать кружок и [все будут посещать,]Situation хоть лопни.
+  - |
+       У нас, если у тебя нет денег или связей, то [не пробьешься,]Situation хоть тресни.
+  - |
+       [Но ни в аптеке ее не было, ни в продовольственном магазине ― нигде,]Situation хоть тресни.
+  - |
+       Игорь еще раз оглянулся: [не видно Сони,]Situation хоть тресни!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       come hell or high water
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 2578
+name: 'VP как придется'
+UD_name: ''
+illustration: 'Он выполнял работу как придется, так как пребывал в постояннном состоянии депрессии.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Лара вежливо благодарила за совет, но про себя явно решила [делать]Action как придется.
+  - |
+       Чай по утрам бывает, а вечером как придется.
+  - |
+       Он [жил]Activity, как придется, но умер достойно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advcl [mark как] придется]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] выполнял [obj работу] [advcl [mark как] придется], [advcl [mark так [fixed как]] пребывал [obl [case в] [amod постояннном] состоянии [nmod депрессии]]].]'
+equivalents:
+  - english: |
+       slapdash
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Manner
+family:
+  - |
+    ""

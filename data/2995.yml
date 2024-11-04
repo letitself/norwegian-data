@@ -1,0 +1,52 @@
+---
+record: 2995
+name: 'VP (не знаю) сколько раз'
+UD_name: ''
+illustration: 'Ну сколько раз я ей говорила, что белое отдельно, цветное отдельно.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я [заезжал]Action сколько раз, а тебя никогда дома нету.
+  - |
+       Галя, сколько раз вам нужно [повторять:]Action не можете запомнить ― записывайте.
+  - |
+       У меня до сих пор мурашки по коже, хотя [смотрел фильм]Action не знаю сколько раз.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       how many times
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Frequentative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

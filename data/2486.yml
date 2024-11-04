@@ -1,0 +1,52 @@
+---
+record: 2486
+name: 'VP/NP-Nom Cop вне игры'
+UD_name: ''
+illustration: 'Я предпочитаю оставаться вне игры, когда рынки подвержены значительной изменчивости.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Чтобы вам доказать, что [ваши соперники]Participant совершенно вне игры, я вам обещаю получить отсрочку на один месяц.
+  - |
+       Роскоши остаться вне игры горожане не могли себе позволить.
+  - |
+       Они возбуждены ожиданием и этим непереносимым [состоянием]Theme вне игры.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case вне] игры]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case вне] игры]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] предпочитаю [xcomp оставаться [obl [case вне] игры]], [advcl [mark когда] [nsubj рынки] подвержены [iobj [amod значительной] изменчивости]]].]'
+equivalents:
+  - english: |
+       out of the game
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

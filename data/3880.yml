@@ -1,0 +1,49 @@
+---
+record: 3880
+name: 'крошка NP-Gen'
+UD_name: ''
+illustration: 'Дети молили нас о крошке хлеба.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Во все стороны полетели крошки [еды]Set, бисер и всякий мелкий мусор.
+  - |
+       От нескольких крошек [еды]Set голод только разгорается больше.
+  - |
+       Федор Филатович гордился тем, что у него ни одна крошка [хлеба]Set не пропадала.
+  - |
+       Хочется уйти, но она пытается рассмотреть моё лицо, пытается выудить из омута пропитой памяти крошки [реальности]Set.
+  - |
+       Она ему чаю нальёт и последние крошки [сахара]Set даст с ложки слизать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep крошка [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Дети] молили [obj нас] [obl [case о] крошке [nmod хлеба]].]'
+comment: |
+    'Употребляется в основном в отрицательных и квазиотрицательных контекстах. См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

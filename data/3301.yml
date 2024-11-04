@@ -1,0 +1,47 @@
+---
+record: 3301
+name: 'VP открытым/прямым текстом'
+UD_name: ''
+illustration: 'Он вымогает с меня взятку прямым текстом'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Они открытым текстом [говорят]Action ― договаривайтесь!
+  - |
+       Полная свобода подразумевается, но не [проговаривается]Action прямым текстом.
+  - |
+       Там прямым текстом [написано,]Action что именные консультационные разделы конкретных психологов, про вопросы адресованные к конкретным специалистам…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod прямым] текстом]]'
+  - '[root VP [obl [amod открытым] текстом]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] вымогает [obl [case с] меня] [obj взятку] [obl [amod прямым] текстом].]'
+equivalents:
+  - english: |
+       clearly
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

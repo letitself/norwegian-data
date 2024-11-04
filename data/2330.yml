@@ -1,11 +1,17 @@
 ---
 record: 2330
-name: 'NP-Nom дать слово, что Cl'
+name: 'NP-Nom дать слово, (что) Cl'
 UD_name: 'NP-Nom дать слово, что Cl'
 illustration: 'Даю слово, что ты меня больше никогда не увидишь.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       И [я]Speaker дам слово [никогда больше не встречаться c Петей.]ContentOfSpeech
+  - |
+       [Я]Speaker дала слово Васе [не встречаться с вами.]ContentOfSpeech
+  - |
+       Но после такого происшествия [она]Speaker дала слово, что [заведет именно белого кота и назовет его Снежок.]ContentOfSpeech
 morphology:
   - NP
   - Nom
@@ -27,7 +33,7 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] даю [obj слово'
+  - '[root [nsubj NP-Nom] даю [дать слово'
   - '[acl [mark что] Cl]]]'
 dependency_structure_of_illustration:
   - '[root Даю [obj слово, [acl [mark что] [nsubj ты] [obj меня] [advmod больше] [advmod никогда] [advmod не] увидишь]].]'

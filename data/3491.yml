@@ -1,0 +1,56 @@
+---
+record: 3491
+name: 'видишь/видите ли, Cl'
+UD_name: ''
+illustration: 'Видишь ли, сложилась странная ситуация.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Видишь ли, [герои не сразу понимают, что любят]ContentOfSpeech.
+  - |
+       Видишь ли, [способности к магии проявляются у всех по-разному, но чаще всего неожиданно]ContentOfSpeech.
+  - |
+       Видите ли, [я считаю, что я всё равно занимался не тем]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Particle
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis видишь [advmod ли]], Cl]'
+  - '[root [parataxis видите [advmod ли]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Видишь [advmod ли]], сложилась [nsubj [amod странная] ситуация].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       you see
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+  - type: Routine
+    subtypes:
+      - type: Conversation support
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 2789
+name: 'VP, открыв рот'
+UD_name: ''
+illustration: 'Женька замолчал, чувствуя, что Артем наконец забыл о своем здоровом цинизме и слушает, открыв рот'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Валерка с Петром [слушали]Activity открыв рты ― и Ивану даже не хотелось вставать из-за стола.
+  - |
+       А Рита только и делала, что [смотрела в телевизор,]Activity открыв рот.
+  - |
+       Теперь Андрей [смотрел на нее,]Activity открыв рот от ужаса.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Converb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP'
+  - '[advcl открыв [obj рот]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Женька] замолчал, [advcl чувствуя, [ccomp [mark что] [nsubj Артем] [advmod наконец] забыл [obl [case о] [det своем] [amod здоровом] цинизме] [conj [cc и] слушает, [advcl открыв [obj рот]]]]]]'
+equivalents:
+  - english: |
+       X's mouth open
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3126
+name: 'VP во весь голос (о NP-Loc/NP-Acc)'
+UD_name: ''
+illustration: 'Он честно, во весь голос признал свою вину.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Теперь, когда в нашем обществе набирает обороты гласность, мы должны ответственно и во весь голос [признать:]Action [да, мы совершали ошибки.]ContentOfSpeech
+  - |
+       Теперь настало время во весь голос [говорить]Action о [том, что важно для самой личности, для ее собственного счастья.]ContentOfSpeech
+  - |
+       Нужен кто-то, способный во весь голос [сказать]Action [то, что начальство не желает слышать.]ContentOfSpeech
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det весь] голос]]'
+  - '[root VP [obl [case во] [det весь] голос [obj NP-Acc]]'
+  - '[root VP [obl [case во] [det весь] голос] [obl [case о] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod честно, [conj [case во] [det весь] голос]] признал [obj [det свою] вину].]'
+equivalents:
+  - english: |
+       at the top of X's voice
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Witnesses
+family:
+  - |
+    ""

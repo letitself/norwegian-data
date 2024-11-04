@@ -1,0 +1,52 @@
+---
+record: 3027
+name: 'XP на скорую руку'
+UD_name: ''
+illustration: 'Потом они с Викой на скорую руку приготовили еду.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Продавщица [раскладывает продукты в ящики]Action на скорую руку.
+  - |
+       Это очень важно, потому что на скорую руку [принятое]Action решение может испортить ребенку отдых.
+  - |
+       Поэтому всюду, где возможно, на скорую руку [возводились]Action временные бараки, общежития, пристройки к другим домам без всяких бытовых удобств.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

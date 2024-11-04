@@ -1,0 +1,52 @@
+---
+record: 2464
+name: 'VP/NP в сидячем положении'
+UD_name: ''
+illustration: 'Начальник не мог долго пребывать в сидячем положении из-за травмы'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я слушал его, борясь с дурнотой и слабостью, голова у [меня]Experiencer кружилась даже в сидячем положении.
+  - |
+       Ранним утром нашли его окоченевший [труп]Theme в сидячем положении.
+  - |
+       [Старик]Participant будет изображен в сидячем положении, в Андреевской ленте и в сером фраке.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod сидячем] положении]]'
+  - '[dep NP [nmod [case в] [amod сидячем] положении]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Начальник] [advmod не] мог [xcomp [advmod долго] пребывать [obl [case в] [amod сидячем] положении]] [obl [case из-за] травмы].]'
+equivalents:
+  - english: |
+       in a seated position
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

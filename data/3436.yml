@@ -1,0 +1,57 @@
+---
+record: 3436
+name: 'NP-Nom (Cop/VP) при смерти'
+UD_name: ''
+illustration: 'Он так плохо выглядел, как будто уже был при смерти.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Арестовали бы и жену, да [она]Experiencer при смерти [была]State тогда.
+  - |
+       В новостях сообщили, что [мужчина]Experiencer [находится]State при смерти.
+  - |
+       Не стоит звать врача, [он]Experiencer все равно при смерти и долго не протянет!
+  - |
+       [Она]Experiencer писала, что лежит при смерти и хочет, чтобы сын приехал проститься и похоронить ее.
+  - |
+       После рождения ребенка [Белла]Experiencer [находится]State при смерти.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] VP [obl [case при] смерти]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case при] смерти]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod [advmod так] плохо] выглядел [advcl [mark как [mark будто]] [advmod уже] [cop был] [case при] смерти].]'
+comment: |
+    'См. близкую конструкцию1423.'
+equivalents:
+  - english: |
+       X is near death
+common_fillers:
+  - лежать
+  - находиться
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

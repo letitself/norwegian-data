@@ -1,0 +1,51 @@
+---
+record: 3227
+name: 'мороз по коже (пробирать/продирать/идти/Cop) от NP-Gen'
+UD_name: ''
+illustration: 'У меня мороз по коже от этих воспоминаний.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Всего не процитируешь, но мороз по коже пробирал от слов.
+  - |
+       Меня просто мороз по коже продрал от такого высказывания.
+  - |
+       Иной раз у меня мороз по коже от наших непредсказуемых совпадений.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root мороз [obl [case по] коже] [cop Cop] [obl [case от] NP-Gen]]'
+  - '[root [nsubj мороз] [obl [case по] коже] пробирать [obl [case от] NP-Gen]]'
+  - '[root [nsubj мороз] [obl [case по] коже] продирать [obl [case от] NP-Gen]]'
+  - '[root [nsubj мороз] [obl [case по] коже] идти [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] меня] мороз [obl [case по] коже] [obl [case от] [det этих] воспоминаний].]'
+equivalents:
+  - english: |
+       goosebumps
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

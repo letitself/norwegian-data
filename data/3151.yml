@@ -1,0 +1,55 @@
+---
+record: 3151
+name: 'NP высшей/(самой) высокой пробы'
+UD_name: ''
+illustration: 'Это была ошибка высшей пробы.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Помимо шести [медалей]Theme высшей пробы россияне завоевали четыре бронзы.
+  - |
+       Этот необразованный и малограмотный человек мог с достоинством вести себя в компании [интеллектуалов]Theme самой высокой пробы.
+  - |
+       Архитекторы называют главного архитектора Москвы Александра Кузьмина, который четверг подал в отставку, [профессионалом]Theme высокой пробы.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [amod высшей] пробы]]'
+  - '[dep NP [nmod [amod высокой] пробы]]'
+  - '[dep NP [nmod [amod [amod самой] высокой] пробы]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Это] [cop была] ошибка [nmod [amod высшей] пробы].]'
+equivalents:
+  - english: |
+       of the highest order
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

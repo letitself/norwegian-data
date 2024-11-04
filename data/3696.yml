@@ -1,0 +1,51 @@
+---
+record: 3696
+name: 'VP в свободное время'
+UD_name: ''
+illustration: 'В свободное время мы часто ходили на рыбалку.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       В свободное время Владимир по-прежнему [увлекался музыкой]Activity.
+  - |
+       Она в свободное время [училась играть на скрипке]Activity.
+  - |
+       Я [посмотрю]Action, что ты мне написал, в свободное время.
+  - |
+       А ведь интересно было бы в свободное время [поговорить]Activity с ним о литературе.
+  - |
+       В свободное время он [прогуливался]Activity по набережной.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod свободное] время]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod свободное] время] [nsubj мы] [advmod часто] ходили [obl [case на] рыбалку].]'
+comment: |
+    'См. также синонимичную конструкцию 2240 VP на досуге - Положите эту книжку здесь, я почитаю её на досуге.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

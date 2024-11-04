@@ -1,0 +1,46 @@
+---
+record: 2622
+name: 'VP PronInt Бог послать'
+UD_name: ''
+illustration: 'Это испуганный Филипп принял твердое решение отныне не идти наудачу, куда Бог пошлет, а, прежде чем продвигаться вперед, тщательно разглядывать, куда ставить ногу.'
+cefr_level: В2
+definitions:
+examples:
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [ccomp [advmod PronInt] [nsubj Бог] послать]]'
+dependency_structure_of_illustration:
+  - '[root [expl Это] [nsubj [amod испуганный] Филипп] принял [obj [amod твердое] решение [nmod [advmod отныне] [advmod не] идти [advmod наудачу], [acl [mark куда] [nsubj Бог] пошлет], [conj [cc а], [advcl [mark прежде [fixed чем]] продвигаться [advmod вперед]], [advmod тщательно] разглядывать, [xcomp [advmod куда] ставить [obj ногу]]]].]]'
+equivalents:
+  - english: |
+       God send
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+        subtypes:
+          - type: Free Choice
+family:
+  - |
+    ""

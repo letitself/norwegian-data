@@ -1,0 +1,51 @@
+---
+record: 3327
+name: 'VP под соусом NP-Gen'
+UD_name: ''
+illustration: 'Под соусом какого-то очередного постановления о самоуправлении были назначены и с блеском проведены директорские выборы'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Механизм такой: на человека перекладывают ответственность за то, что другие могут испытывать разные чувства по причине несогласия с чужой точкой зрения. [Подаётся]Action под соусом [«раз они переживают из-за тебя, их переживания принадлежат тебе, сделай так, чтобы они успокоились».]Rephrasing
+  - |
+       Нежелание молодых авторов работать над стихом, [подающееся]Action под соусом [неприятия ограничений в смысле формы,]Rephrasing тоже вызывает вполне понятные эмоции.
+  - |
+       Придется все же беспокоить шефа, [готовить ему показательное спасение жизни]Action под соусом [личной преданности.]Rephrasing
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] соусом [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case под] соусом [nmod [det какого-то] [amod очередного] постановления [nmod [case о] самоуправлении]]] [aux:pass были] назначены [conj [cc и] [obl [case с] блеском] проведены [nsubj:pass [amod директорские] выборы]].]'
+equivalents:
+  - english: |
+       under X’s thumb
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Imitation
+  - type: Temporary characteristics
+    subtypes:
+      - type: Context
+family:
+  - |
+    ""

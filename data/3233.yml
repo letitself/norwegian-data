@@ -1,0 +1,55 @@
+---
+record: 3233
+name: 'NP-Nom на дороге/улице не валяться'
+UD_name: ''
+illustration: 'Люди с таким опытом на дороге не валяются.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Ему срочно нужен был миллион, деньги немалые, на улице не валяются.
+  - |
+       Качественная проза для подростков на дороге не валяется.
+  - |
+       Такая зарплата на дороге не валяется, а семью кормить надо.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [case на] дороге] [advmod не] валяться]'
+  - '[root [nsubj NP-Nom] [obl [case на] улице] [advmod не] валяться]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Люди [nmod [case с] [det таким] опытом]] [obl [case на] дороге] [advmod не] валяются.]'
+equivalents:
+  - english: |
+       won’t just fall into X’s lap
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+      - type: Importance
+family:
+  - |
+    ""

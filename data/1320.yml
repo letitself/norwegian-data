@@ -6,6 +6,16 @@ illustration: 'Я так и ахнул.'
 cefr_level: C1
 definitions:
 examples:
+  - |
+       [Петр]Participant так и [замер.]State
+  - |
+       [Лёня]Participant так и [сел.]Action
+  - |
+       [Директор]Participant так и [выпалил:]Action «Я чувствую себя оскорбленным».
+  - |
+       [Андрей]Participant так и [застыл с телефонной трубкой в руке.]State
+  - |
+       [Аська]Participant так и [вздрогнула]Action ― а это надо видеть, как она злится.
 morphology:
   - NP
   - Nom

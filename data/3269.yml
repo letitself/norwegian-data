@@ -1,0 +1,54 @@
+---
+record: 3269
+name: 'не приведи бог/господь VP-Inf/чтобы Cl'
+UD_name: ''
+illustration: 'Не приведи господь смотреть, как близкий умирает.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Не приведи бог, чтобы эта [болезнь ненароком коснулась и меня.]Event
+  - |
+       Не приведи Господь, чтобы [его дети попали в такую ситуацию, в которой были мы.]Event
+  - |
+       Не приведи Бог [так проголодаться.]Event
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] приведи [nsubj бог] [xcomp VP-Inf]]'
+  - '[root [advmod не] приведи [nsubj бог], [ccomp [mark чтобы] Cl]]'
+  - '[root [advmod не] приведи [nsubj господь] [xcomp VP-Inf]]'
+  - '[root [advmod не] приведи [nsubj господь], [ccomp [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] приведи [nsubj господь] [xcomp смотреть, [ccomp [mark как] [nsubj близкий] умирает]].]'
+equivalents:
+  - english: |
+       god forbid
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+family:
+  - |
+    ""

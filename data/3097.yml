@@ -1,0 +1,50 @@
+---
+record: 3097
+name: 'NP-Nom Cop будь здоров/VP будь здоров'
+UD_name: ''
+illustration: 'Цены в магазине поднялись будь здоров - стали больше в два раза!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Воды]Theme у вас тут и оказалось будь здоров ― целый океан!
+  - |
+       Гену жаль, хороший мужик, [командир]Participant будь здоров.
+  - |
+       У нас тут солнце [жарит]Action будь здоров.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [cop будь] здоров]'
+  - '[root [nsubj NP-Nom] VP [obl [cop будь] здоров]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Цены [nmod [case в] магазине]] поднялись [obl [cop будь] здоров] - [parataxis стали [advmod больше [obl [case в] [nummod два] раза]]].]'
+equivalents:
+  - english: |
+       god bless you
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+family:
+  - |
+    ""

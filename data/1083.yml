@@ -6,6 +6,16 @@ illustration: 'Именем короля, откройте двери!'
 cefr_level: B2
 definitions:
 examples:
+  - |
+       Именем [закона,]Source [вы арестованы!]ContentOfSpeech
+  - |
+       [Сдавайся,]ContentOfSpeech именем [Короля!]Source
+  - |
+       ― [Молчать, если дорожите жизнью!]ContentOfSpeech ― приказал повелительный голос. ― Именем [закона!]Source
+  - |
+       Именем [Революции,]Source [к стенке труса!]ContentOfSpeech
+  - |
+       Мальчик! Именем [Царя!]Source [Вы арестованы!]ContentOfSpeech
 morphology:
   - NP
   - Gen

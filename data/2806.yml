@@ -1,0 +1,51 @@
+---
+record: 2806
+name: 'VP по горячим следам'
+UD_name: ''
+illustration: 'Раскрыть убийство по горячим следам милиции не удалось'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Преступление мы должны [раскрыть]Action по горячим следам.
+  - |
+       Вернувшись после киносеанса к себе, Панов сел и [записал]Action по горячим следам свои впечатления.
+  - |
+       [Найти подростка]Action по горячим следам не составило труда ― он был неподалеку, даже не уехал из городка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] [amod горячим] следам]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       on X's tail
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Condition
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

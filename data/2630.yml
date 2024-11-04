@@ -1,0 +1,54 @@
+---
+record: 2630
+name: 'VP малой кровью/малою кровью'
+UD_name: ''
+illustration: 'На завершающем этапе войны новая пехота могла сравнительно малой кровью победить там, где раньше бесплодно гибли тысячи людей'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Давайте, товарищ комиссар, выпьем за тех, кого мы с вами в бой поведём, пусть [воюют]Activity малой кровью.
+  - |
+       Совсем без редактуры нельзя ― материалы на газетной полосе постоянно налезают друг на друга, ― но [обойтись]Result малой кровью вполне возможно.
+  - |
+       Я надеюсь, что правительство [покончит с революцией]Result по возможности малой кровью.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod малой] кровью]]'
+  - '[root VP [obl [amod малою] кровью]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] [amod завершающем] этапе [nmod войны]] [nsubj [amod новая] пехота] могла [obl [advmod сравнительно] [amod малой] кровью] [xcomp победить [advmod там, [acl [advmod где] [advmod раньше] [advmod бесплодно] гибли [nsubj тысячи [nmod людей]]]]]]'
+equivalents:
+  - english: |
+       cut the losses
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

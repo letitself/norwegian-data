@@ -1,0 +1,60 @@
+---
+record: 3484
+name: 'Что/чего PronPers-Dat не VP?'
+UD_name: ''
+illustration: 'Да что же тебе не лежится-то, а?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Чего [вам]Participant всем не [сидится в Харькове]State…
+  - |
+       Чего [вам]Participant не [живется-то в тепле да светле]State?
+  - |
+       ― Чего [ей]Participant не [спится]State, ― пробормотал я, вставая и надевая халат.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj Что] [iobj PronPers-Dat] [advmod не] VP?]'
+  - '[root [nsubj чего] [iobj PronPers-Dat] [advmod не] VP?]'
+dependency_structure_of_illustration:
+  - '[root [cc Да] [nsubj что [advmod же]] [iobj тебе] [advmod не] лежится [discourse -то], [parataxis а]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       why don't you X
+common_fillers:
+  - не живется
+  - не сидится
+  - не лежится
+  - не спится
+  - не нравится
+  - не хочется
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Non-Standard Subject
+    subtypes:
+      - type: Non-standard subject marking
+family:
+  - |
+    ""

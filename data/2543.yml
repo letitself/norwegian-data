@@ -1,0 +1,54 @@
+---
+record: 2543
+name: 'NP-Nom.Pl Cop (PtcpPass-Short) из одного теста'
+UD_name: ''
+illustration: 'Мы с тобой из одного теста.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Вы со свекровью]Participant из одного теста, судя по всему.
+  - |
+       Видно, [люди]Participant слеплены все-таки не из одного теста.
+  - |
+       [Мы, как народ]Participant, из одного теста сделаны.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom.Pl] [cop Cop] [case из] [nummod одного] теста]'
+  - '[root [nsubj NP-Nom.Pl] [cop Cop] PtcpPass-Short [obl [case из] [nummod одного] теста]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы [nmod [case с] тобой]] [case из] [nummod одного] теста.]'
+equivalents:
+  - english: |
+       of the same breed
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Salient property
+    subtypes:
+      - type: Personality
+family:
+  - |
+    ""

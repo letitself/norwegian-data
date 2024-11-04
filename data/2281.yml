@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren kommer med [en informasjon, et forslag eller en vurdering]ContentOfSpeech og spør om samtalepartneren er enig i dette. Taleren forventer at samtalepartneren vil bekrefte informasjonen og si seg enig med taleren.
 examples:
+  - |
+       [Хорошая погода]Situation, не правда ли?
+  - |
+       [Сегодня замечательный вечер]Situation, не правда ли?
+  - |
+       [Есть о чем подумать]Situation, не правда ли?
+  - |
+       [Вас ведь Мария зовут]Situation, не правда ли?
+  - |
+       [Это звучит странно]Situation, не правда ли?
 morphology:
   - Cl
 syntactic_type_of_construction:

@@ -1,0 +1,54 @@
+---
+record: 3509
+name: 'VP-Inf (NP-Dat/у NP-Gen) нечему'
+UD_name: ''
+illustration: 'А у меня акций нет, падать особенно нечему.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Человеку]Experiencer эпохи дополненной реальности [удивляться]State, вроде бы, нечему, но ощущения очень сильные.
+  - |
+       Она заставила себя улыбнуться, хотя сейчас [радоваться]State было нечему.
+  - |
+       [Завидовать]State нечему. Куча забот.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [csubj VP-Inf] [obl [case у] NP-Gen] нечему]'
+  - '[root [csubj VP-Inf] [iobj NP-Dat] нечему]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [obl [case у] меня] [nsubj акций] нет, [conj [csubj падать] [advmod особенно] нечему].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X has nothing to shout about/X has no reason to be happy
+common_fillers:
+  - радоваться
+  - огорчаться
+  - завидовать
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+family:
+  - |
+    ""

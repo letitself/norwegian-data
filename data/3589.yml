@@ -1,0 +1,57 @@
+---
+record: 3589
+name: '(NP-Dat) стыдно Cop (не) VP-Inf'
+UD_name: ''
+illustration: 'Порой ему стыдно смеяться над другом, а временами он про это забывает.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Порой [ему]Experiencer стыдно [смеяться над другом]Activity, а временами он про это забывает.
+  - |
+       Стыдно было не [знать элементарных вещей о месте, где вы проработали не один год]Situation.
+  - |
+       [Мне]Experiencer вообще раньше было очень стыдно [отказывать]Activity, хотелось всем помочь, даже во вред себе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Predicative
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] стыдно [cop Cop] [csubj VP-Inf]]'
+  - '[root стыдно [cop Cop] [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] стыдно [cop Cop] [csubj [advmod не] VP-Inf]]'
+  - '[root стыдно [cop Cop] [csubj [advmod не] VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Порой] [iobj ему] стыдно [csubj смеяться [obl [case над] другом]], [conj [cc а] [advmod временами] [nsubj он] [obl [case про] это] забывает].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is ashamed of Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

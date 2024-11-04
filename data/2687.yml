@@ -1,0 +1,55 @@
+---
+record: 2687
+name: 'VP на миг/секунду'
+UD_name: ''
+illustration: 'Но блеснувшая на миг радость смешалась с печалью и утонула в печали'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       На миг [настала]Action предрассветная тишина.
+  - |
+       [Проснулся]Action он на миг под вечер и увидел, что в комнате никого нет.
+  - |
+       От восторга он вроде бы [запьянел]State на миг, и его голова пошла кругом.
+  - |
+       Они ни на миг не [останавливались]Action и клали кирпич всё дальше и дальше.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] миг]]'
+  - '[root VP [obl [case на] секунду]]'
+dependency_structure_of_illustration:
+  - '[root [cc Но] [nsubj [acl блеснувшая [obl [case на] миг]] радость] смешалась [obl [case с] печалью] [conj [cc и] утонула [obl [case в] печали]]]'
+equivalents:
+  - english: |
+       for a second
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

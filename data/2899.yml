@@ -1,0 +1,50 @@
+---
+record: 2899
+name: 'VP/NP с пылу с жару/ с пыла с жару'
+UD_name: ''
+illustration: 'Зарубежные специалисты построили здесь глиняную печь, в которой пекутся восточные лепешки и с пылу с жару подаются на стол.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Он очень радовался ― [привезли]Action с пылу с жару из издательства новую книгу его стихов.
+  - |
+       Переворот не удался, он был всего лишь неудачной атакой, попыткой с пылу с жару [сменить неугодного руководителя газеты]Action.
+  - |
+       Лично я, грешник, люблю [пирожок домашний]Theme с пыла с жара к утреннему кофе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       right from an over
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+      - type: Transformation
+family:
+  - |
+    ""

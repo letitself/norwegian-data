@@ -1,0 +1,49 @@
+---
+record: 3864
+name: 'лес NP-Gen'
+UD_name: ''
+illustration: 'За лесом рук в последнем ряду сидел опоздавший Серов.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       — Кто из вас хочет писать о политике? Лес [рук]Set.
+  - |
+       В спальне он увидел целый лес [ног]Set — в расхлябанных военных ботинках, и в высоких сапогах, и в драных башмаках.
+  - |
+       Лес [рук с куклами]Set стройно поднялся к потолку, публика закричала, засвистела.
+  - |
+       На аукционе продают охотничьи трофеи: мужчина с молотком стоит на фоне густого леса [рогов и копыт]Set.
+  - |
+       Странный туман виднелся сразу же за каменным лесом [надгробий]Set.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep лес [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case За] лесом [nmod рук] [nmod [case в] [amod последнем] ряду]] сидел [nsubj [amod опоздавший] Серов].]'
+comment: |
+    'лес называет совокупность (неодушевленных) объектов, покрывающую собой большую плоскость — но обязательно вертикальных, выше человека (ср. лес флагов, лес рук, мачт — *лескрови, денег и др., а также: *лес людей, цветов). См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - рук
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3279
+name: 'ни во что не ставить NP-Acc'
+UD_name: ''
+illustration: 'Молодежь наши законы и понятия ни во что не ставит.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Оскорбления]Theme он ни во что не ставил, смеялся, когда кто-нибудь пробовал говорить ему их в глаза.
+  - |
+       То и дело слышишь: вот, нынче [писателей]Participant ни во что не ставят, никакого им внимания и почета.
+  - |
+       Молодежь [наши законы и понятия]Theme ни во что не ставит.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [advmod ни] [case во] что] [advmod не] ставить [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Молодежь] [obj [det наши] законы [conj [cc и] понятия]] [obl [advmod ни] [case во] что] [advmod не] ставит.]'
+equivalents:
+  - english: |
+       think very little of
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Unconcern vs. Concern
+family:
+  - |
+    ""

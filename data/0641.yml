@@ -7,9 +7,15 @@ cefr_level: B2
 definitions:
 examples:
   - |
-       Он никогда никому не уступал дороги на улице ― наоборот, старался толкнуть каждого встречного, наступал всем на ноги и [плевался]Activity [куда]Goal ни попадя.
+       И [понесла]Activty Старуха в дом [все]Theme что ни попадя: покрывала, одеяла, ковры и коврики, подушки и матрацы.
+  - |
+       После тех происшествий я стал прилежно учиться, [читать]Activity запоем [что]Theme ни попадя, даже стихи пробовал сочинять.
   - |
        Трое приятелей крепко держали парня, а Миша остервенело [бил его ногами и кулаками]Activity [куда]Goal ни попадя.
+  - |
+       Он никогда никому не уступал дороги на улице и [плевался]Activity [куда]Goal ни попадя.
+  - |
+       Грести следовало со всех сторон, [хватать]Activity [что]Theme ни попадя, авось когда-нибудь пригодится.
 morphology:
   - VP
 syntactic_type_of_construction:
@@ -27,7 +33,7 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - '[root VP [dep PronInt [advcl [advmod ни] попадя]]]'
+  - '[root VP [PronInt [advcl [advmod ни] попадя]]]'
 dependency_structure_of_illustration:
   - '[root [nsubj Ваня] ел [obj что [advcl [advmod ни] попадя]].]'
 comment: |

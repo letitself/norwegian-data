@@ -1,0 +1,49 @@
+---
+record: 3899
+name: 'уйма NP-Gen'
+UD_name: ''
+illustration: 'уйма денег'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       И вот еще через тридцать лет в России снова накопилась уйма [противоречий]Set.
+  - |
+       Тогда смекалистые большевики вспомнили, что на складах царской армии осталась уйма [красных кавалерийских штанов]Set!
+  - |
+       По городу ― после села это особенно бросалось в глаза ― группами и поодиночке шаталась уйма [народа в камуфляжной форме]Set.
+  - |
+       И [таких фанатиков разной степени известности]Set уйма.
+  - |
+       Впечатлений столько, что на осмысление увиденного понадобится [уйма]Set времени.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep уйма [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep уйма [nmod денег]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3920'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3799
+name: 'с NP-Gen как с гуся вода'
+UD_name: ''
+illustration: '— С него как с гуся вода, а ты еще проблем поимеешь, — говорит он.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       С [него]Experiencer все неприятности как с гуся вода.
+  - |
+       Но если с [мальчишек]Experiencer как с гуся вода, то Василий дорого заплатил.
+  - |
+       Общественность протестует против проекта, а с [Фурсенко]Experiencer как с гуся вода, его ничто не берет.
+  - |
+       Она была настолько удивлена и призналась, что никогда не думала, что её крик так отражается на нём, ей всегда казалось, что с [него]Experiencer как с гуся вода все её крики.
+  - |
+       Кому-то достаточно шумного вздоха, а с [кого-то]Experiencer пинок как с гуся вода.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[obl [case с] NP-Gen [obl [mark как] [nmod [case с ] гуся] вода]]]'
+dependency_structure_of_illustration:
+  - '— [root [ccomp [case С] него [obl [mark как] [nmod [case с] гуся] вода], [conj [cc а] [nsubj ты] [advmod еще] [obl проблем] поимеешь]]], — говорит [nsubj он]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2067
+semantic_types:
+family:
+  - |
+    ""

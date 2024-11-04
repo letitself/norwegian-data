@@ -1,0 +1,52 @@
+---
+record: 2407
+name: 'VP вдогонку'
+UD_name: ''
+illustration: 'Петя выкрикнул вдогонку Юре плохие слова.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он [сказал ему]Action вдогонку пару неприятных слов.
+  - |
+       Петя [произнес]Action эту фразу театральным шепотом вдогонку проходящей мимо Маше.
+  - |
+       Опомнившись от боли, полицейский выхватил револьвер и [выстрелил]Action вдогонку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod вдогонку]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петя] выкрикнул [advmod вдогонку] [iobj Юре] [obj [amod плохие] слова].]'
+equivalents:
+  - english: |
+       after X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

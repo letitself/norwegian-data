@@ -1,0 +1,56 @@
+---
+record: 4012
+name: 'в некотором/каком-то роде/смысле/мере XP'
+UD_name: ''
+illustration: 'Он в некотором смысле поэт.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       В некотором смысле, [статуя в Рио-де-Жанейро является символом непрерывной дорогостоящей борьбы со стихией]Situation.
+  - |
+       В общем, случился со мной такой забавный кураж, [хулиганство]Situation в некотором роде.
+  - |
+       Для меня это был огромный опыт, который в каком-то смысле [спас меня от судьбы городского парня]Situation
+  - |
+       В каком-то смысле [можно сказать, что математический склад ума ограничивает спектр чтения]Situation.
+  - |
+       Сейчас по-максимуму стараюсь время старшей уделять, даже иногда в каком-то роде [в ущерб младенцу]Circumstance.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep [obl [case в] [amod некотором] роде] XP]'
+  - '[dep [obl [case в] [amod некотором] смысле] XP]'
+  - '[dep [obl [case в] [amod некоторой] мере] XP]'
+  - '[dep [obl [case в] [amod каком-то] роде] XP]'
+  - '[dep [obl [case в] [amod каком-то] смысле] XP]'
+  - '[dep [obl [case в] [amod какой-то] мере] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [case в] [amod некотором] смысле] поэт.]'
+comment: |
+    'Не путать с 821 в смысле NP-Gen Cl - В смысле результатов лучше показал себя футбольный клуб "Милан".'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

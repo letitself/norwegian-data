@@ -1,0 +1,49 @@
+---
+record: 2420
+name: 'VP/NP-Nom Cop в здравом уме'
+UD_name: ''
+illustration: 'Какой мужчина в здравом уме расстанется с такой красоткой?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Хочу, чтобы мама даже в старости [осталась]State в здравом уме.
+  - |
+       Понадобятся свидетели, которые подтвердят, что [вы]Participant были в здравом уме.
+  - |
+       Я [вступаю в этот союз]Action в здравом уме и по доброй воле.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod здравом] уме]]'
+  - '[root NP-Nom [cop Cop] [case в] [amod здравом] уме]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Какой] мужчина] [obl [case в] [amod здравом] уме] расстанется [obl [case с] [det такой] красоткой]?]'
+equivalents:
+  - english: |
+       in a sound mind
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen angir [målet]Purpose med at [deltakeren]Agent utfører en gitt [handling]Action eller at en [situasjon]Situation pågår. Konstruksjonen kan kun starte med å beskrive handlingen som blir utført og kan ikke starte med å beskrive målet.
 examples:
   - |
-       Он отвез ее в больницу и просиживал там дни и ночи, [отлучаясь]Action только затем, чтобы [сдать очередной экзамен в университете]Purpose.
+       [Большинство]Agent [подходили]Action именно затем, чтобы [взглянуть на актёра хотя бы издали]Purpose.
   - |
        Может, [буква эта нужна]Situation лишь затем, чтобы [получилось название со смыслом]Purpose.
-  - |
-       [Большинство]Agent [подходили]Action именно затем, чтобы [взглянуть на актёра хотя бы издали]Purpose.
   - |
        И [он]Agent меня [вызывает]Action затем, чтобы [о чём-то поговорить со мной наедине]Purpose, да ещё о чём-то таком, что касается вас.
   - |
        [Я]Agent [пишу]Action об этом вовсе не затем, чтобы [обвинить прекрасного работника науки]Purpose.
+  - |
+       Он отвез ее в больницу и просиживал там дни и ночи, [отлучаясь]Action только затем, чтобы [сдать очередной экзамен в университете]Purpose.
 morphology:
   - Cl
 syntactic_type_of_construction:

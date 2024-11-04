@@ -1,0 +1,49 @@
+---
+record: 2838
+name: 'VP по пунктам'
+UD_name: ''
+illustration: 'Если разбирать по пунктам возможные потери от нынешней тупиковой ситуации, не ясно даже, кто больше проигрывает'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Я сразу вспомнил, и всё по пунктам [написал]Action.
+  - |
+       [Объясняю тебе]Action по пунктам и надеюсь, в дальнейшем не возникнет потребности еще в одном подобном разговоре.
+  - |
+       Вы можете по пунктам [изложить]Action своё видение этой проблемы?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] пунктам]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       point by point
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+family:
+  - |
+    ""

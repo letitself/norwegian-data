@@ -1,0 +1,49 @@
+---
+record: 3109
+name: 'NP-Nom Cop/VP у NP-Gen в крови'
+UD_name: ''
+illustration: 'Пунктуальность сидела у меня в крови.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       В крови у [него]Participant [тяга к военным приключениям.]Property
+  - |
+       Это [ожидание чуда]Property ― точно в крови у [всего русского народа.]Participant
+  - |
+       Видимо [любовь к автомобилям]Property у [мальчиков]Participant в крови и наверняка она передается по наследству.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case у] NP-Gen] [case в] крови]'
+  - '[root [nsubj NP-Nom] VP [obl [case у] NP-Gen] [obl [case в] крови]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Пунктуальность] сидела [obl [case у] меня] [obl [case в] крови].]'
+equivalents:
+  - english: |
+       take root in Y
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Property assignment
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3762
+name: 'VP с головой'
+UD_name: ''
+illustration: 'Лев выдал себя с головой, когда показал свой фирменный жест.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Они этой нелепой попыткой бежать [выдали себя]Result с головой.
+  - |
+       По его изможденному лицу и по убранству его спальни заметно, что он с головой [погружен]State в бурный роман.
+  - |
+       Вскоре Гребенщиков смог выписать свою жену из Белграда и с головой [влез]Action в работу, которой его усердно загружал шеф.
+  - |
+       И эта любовь сначала была ненавязчивым хобби, а потом и вовсе [поглотила]Result его с головой.
+  - |
+       Приезжайте в Екатеринбург и [погрузитесь]Result с головой в город и музыку!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] головой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Лев] выдал [obj себя] [obl [case с] головой], [advcl [mark когда] показал [obj [det свой] [amod фирменный] жест]].]'
+comment: |
+    'См. также 3433 NP-Nom уйти с головой в NP-Ins - Я ушел с головой в свою работу.'
+equivalents:
+common_fillers:
+  - погрузиться
+  - выдать
+  - окунуться
+references:
+  - |
+    Баранов, Добровольский 2030
+semantic_types:
+family:
+  - |
+    ""

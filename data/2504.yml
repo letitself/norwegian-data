@@ -1,0 +1,53 @@
+---
+record: 2504
+name: 'VP вокруг да около'
+UD_name: ''
+illustration: 'Мы всё ходили вокруг да около, а он выразил то, что не давалось нам'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Они не будут [ходить]Activity вокруг да около с вежливыми фразами, а прямо скажут всё, что думают по тому или иному поводу.
+  - |
+       Весь вечер [бродили]Activity вокруг да около, решили в конце концов не открывать эту тему.
+  - |
+       Зачем [кружить]Activity вокруг да около? Скажите сразу: да, я полюбил вашу жену.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod вокруг [conj [cc да] около]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] [advmod всё] ходили [advmod вокруг [conj [cc да] около]], [conj [cc а] [nsubj он] выразил [obj то, [acl [mark что] [advmod не] давалось [iobj нам]]]].]'
+equivalents:
+  - english: |
+       around the bush
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Manner
+  - type: Phase of action
+    subtypes:
+      - type: Cunctative
+family:
+  - |
+    ""

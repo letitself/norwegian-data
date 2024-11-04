@@ -1,0 +1,49 @@
+---
+record: 4059
+name: 'N-Nom есть ~N-Nom'
+UD_name: ''
+illustration: 'Однако закон есть закон, его нельзя нарушать.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Выбирать было решительно не из чего, но [работа]Comparee есть [работа]Standard.
+  - |
+       Работа такая. [Бизнес]Comparee есть [бизнес]Standard. Там, знаешь, не поспишь.
+  - |
+       [Приказ]Comparee есть [приказ]Standard, тем более категорический.
+  - |
+       Не берусь судить, правильно это или нет, но [закон]Comparee есть [закон]Standard.
+  - |
+       [Легенда]Comparee есть [легенда]Standard, верить в нее или нет — дело добровольное.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj N-Nom] [cop есть] ~N-Nom]'
+dependency_structure_of_illustration:
+  - '[root [advmod Однако] [nsubj закон] [cop есть] закон, [conj [obj его] нельзя [xcomp нарушать]].]'
+comment: |
+    'Не путать с 4060 N-Nom как ~N-Nom -- Сыр как сыр — ничего особенного.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

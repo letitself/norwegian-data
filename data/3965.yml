@@ -1,0 +1,51 @@
+---
+record: 3965
+name: 'впасть в NP-Acc'
+UD_name: ''
+illustration: 'После этих неудач Ирина впала в депрессию.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Он, уже накачавшись наркотиками, впал в [истерику]Result.
+  - |
+       У нее развился анафилактический шок, она впала в [кому]Result и затем, не приходя в сознание, скончалась.
+  - |
+       После безуспешных скитаний он впал в [состояние психического расстройства]Result.
+  - |
+       Когда у человека нет работы или когда он ее теряет, он вполне может впасть в [отчаяние]Result.
+  - |
+       У дирижера Бориса Хайкина отвисла челюсть и вывалилась из рук палочка, а хористки дружно впали в [шоковое состояние]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root впасть [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [obl [advmod После] [det этих] неудач] [nsubj Ирина] впала [obl [case в] депрессию].]'
+equivalents:
+common_fillers:
+  - депрессию
+  - отчаяние
+  - истерику
+  - кому
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

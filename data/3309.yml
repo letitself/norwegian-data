@@ -1,0 +1,54 @@
+---
+record: 3309
+name: 'VP по (самые) уши'
+UD_name: ''
+illustration: 'Я и так по самые уши загружен делами.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Впрочем, видимо, никто просто не отважился [залезть в такую грязь]Action по уши.
+  - |
+       Биография у него хоть куда, [замаран]State по самые уши.
+  - |
+       Говорила с ним по-французски, ходила каждый день в лавку и [втюрилась]State по самые уши.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] уши]]'
+  - '[root VP [obl [case по] [det самые] уши]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod [advmod и] так] [obl [case по] [det самые] уши] загружен [obl делами].]'
+comment: |
+    'См. также 1516 NP Cop/VP по NP-Acc - Воды было по колено; 2844 VP по (самые) уши - Поскольку секретарша уже и так увязла в моих проблемах по самые уши, я решила, что не будет вреда, если она узнает дополнительные детали; 3724 по (самый) NP-Acc в NP-Loc - Он стоял по колено в воде.'
+equivalents:
+  - english: |
+       after X
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Measure
+    subtypes:
+      - type: Dimensions
+family:
+  - |
+    ""

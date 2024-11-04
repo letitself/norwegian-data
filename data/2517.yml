@@ -1,0 +1,51 @@
+---
+record: 2517
+name: 'VP NP-Nom/NP-Ins к ~NP-Dat'
+UD_name: ''
+illustration: 'Пришлось стоять рядом, голова к голове, плечо к плечу'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Дима и Гоша не спали, они [лежали]Activity [голова]Landmark к [голове]Participant и о чем-то тихо, но горячо спорили.
+  - |
+       Это была не знаю первая ли, но точно последняя их [неторопливая беседа]Theme [голова]Landmark к [голове]Participant.
+  - |
+       Шофер о чем-то перешептывался с Людой  ― их койки [стояли]State [лицо]Landmark к [лицу]Participant.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl NP-Nom] [obl [case к] ~NP-Dat]]'
+  - '[root VP [obl NP-Ins] [obl [case к] ~NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root Пришлось [csubj стоять [advmod рядом], [obl голова] [obl [case к] голове], [obl плечо] [obl [case к] плечу]]]'
+equivalents:
+  - english: |
+       head-to-head/side by side
+common_fillers:
+  - голова
+  - лицо
+  - спина
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

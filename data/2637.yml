@@ -1,0 +1,51 @@
+---
+record: 2637
+name: 'VP/NP на весу'
+UD_name: ''
+illustration: 'Тонкая рука держит металлические очочки на весу изящно, как лорнетку'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Народу было много, часть людей стояла с тарелками, дожидаясь места за столом, кое-кто ел стоя, [держа]Activity тарелки на весу.
+  - |
+       Я [держу пострадавшую руку]Activity на весу, подальше от себя и от стен.
+  - |
+       Благодаря открытому эффекту можно поднять в воздух и [удерживать]Activity на весу любые объекты, в том числе и людей.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] весу]]'
+  - '[det NP [nmod [case на] весу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Тонкая] рука] держит [obj [amod металлические] очочки] [obl [case на] весу] [advmod изящно], [obl [mark как] лорнетку]]'
+equivalents:
+  - english: |
+       aweigh
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

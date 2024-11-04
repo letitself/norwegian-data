@@ -1,0 +1,60 @@
+---
+record: 2615
+name: 'VP из конца в конец/из края в край'
+UD_name: ''
+illustration: 'Специально оборудованные суда, в том числе и иностранные, прибывавшие в рамках различных программ по научному обмену, бороздили море из конца в конец'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По переулку из конца в конец [разносилась]Activity песня.
+  - |
+       Я [пересек Сирию]Action почти из конца в конец.
+  - |
+       Полиция [бегает]Activity из конца в конец, а захватить парня не может.
+  - |
+       Сухая, летучая, чёрная пыль взлетала после нескольких дней весенней жары и [носилась]Activity из края в край уже до самых осенних дождей.
+  - |
+       Встревоженное село [гудело]Activity из края в край, хлопали двери, люди стояли толпами, женщины переговаривались через улицу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case из] конца] [obl [case в] конец]]'
+  - '[root VP [obl [case из] края] [obl [case в] край]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [acl [advmod Специально] оборудованные] суда, [amod [obl [case в] [det том] числе] [advmod и] иностранные], [acl прибывавшие [obl [case в] рамках [nmod [amod различных] программ [nmod [case по] [amod научному] обмену]]]]] бороздили [obj море] [obl [case из] конца] [obl [case в] конец]]'
+equivalents:
+  - english: |
+       from one end to another
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

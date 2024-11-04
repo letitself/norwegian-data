@@ -1,0 +1,59 @@
+---
+record: 3475
+name: 'не жизнь, а NP-Nom'
+UD_name: ''
+illustration: 'Не жизнь, а праздник.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       И на каждом шагу блинные, не жизнь, а [масленица]Evaluation!
+  - |
+       Теперь мне это непонятно, теперь думаю что без тебя жизнь не жизнь, а [грусть и скука]Evaluation.
+  - |
+       ― Не жизнь, а [карусель]Evaluation, ― уныло сказал знакомый и перечислил свои заботы, обязанности и обязательства.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Noun
+  - conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] жизнь'
+  - '[conj [cc а] NP-Nom]]'
+dependency_structure_of_illustration:
+  - '[root [advmod не] жизнь, [conj [cc а] праздник].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is in clover/X lives high on the hog
+common_fillers:
+  - каторга
+  - прозябание
+  - пытка
+  - мука
+  - игра
+  - ад
+  - праздник
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 3885
+name: 'тысяча/(три) тысячи/пять тысяч/сто тысяч NP-Gen'
+UD_name: ''
+illustration: 'тысячи муравьёв'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Тысячи [людей]Measure прямо сейчас напряжённо смотрели в экраны телевизоров.
+  - |
+       Он тысячи [раз]Measure видел тушканчиков.
+  - |
+       Тысячи [страниц]Measure уже написаны об этом.
+  - |
+       Тысячи [глаз]Measure смотрели на него отовсюду.
+  - |
+       Тем временем тысячи [голосов]Measure кричали: "Нет! Нет!"
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep тысяча [nmod NP-Gen]]'
+  - '[dep три тысячи [nmod NP-Gen]]'
+  - '[dep тысячи [nmod NP-Gen]]'
+  - '[dep пять тысяч [nmod NP-Gen]]'
+  - '[dep сто тысяч [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root тысячи [nmod муравьёв]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3918'
+equivalents:
+common_fillers:
+  - лет
+  - людей
+  - раз
+  - глаз
+  - голосов
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

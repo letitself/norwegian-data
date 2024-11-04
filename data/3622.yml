@@ -1,0 +1,53 @@
+---
+record: 3622
+name: 'так-то Cl'
+UD_name: ''
+illustration: 'Ну, так-то я мог их обеих отпустить на юга, и жену и дочку, но что это за Новый год порознь.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Так-то [вроде всё понятно]ContentOfSpeech, но всё равно ничего не получается.
+  - |
+       Так-то [Вася, в сущности, нормальный человек]ContentOfSpeech, если б не эти странные идеи.
+  - |
+       Так-то [я Петю не знаю, он просто мой сосед]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod так-то] Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Ну], [advmod так-то] [nsubj я] мог [xcomp [obj их [nummod обеих]] отпустить [obl [case на] юга], [conj [cc и] жену [conj [cc и] дочку]]] [conj [cc но] [nsubj что] [obl это] [obl [case за] [amod Новый] год] порознь].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Concession
+    subtypes:
+      - type: Limitation
+family:
+  - |
+    ""

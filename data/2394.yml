@@ -1,0 +1,51 @@
+---
+record: 2394
+name: 'VP в блаженном неведении'
+UD_name: ''
+illustration: 'Живешь в блаженном неведении, как и все беспечные люди, не подозревающие, что горе совсем рядом.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Ты не можешь допустить, чтобы твоя жёнушка, [пребывающая]State в блаженном неведении... Все узнала.
+  - |
+       Я предпочел бы ничего не выбирать и [оставаться]State в блаженном неведении!
+  - |
+       Общественное мнение, особенно в мегаполисах, [остаётся]State в блаженном неведении.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod блаженном] неведении]]'
+dependency_structure_of_illustration:
+  - '[root Живешь [obl [case в] [amod блаженном] неведении], [obl [mark как] [advmod и] [det все] [amod беспечные] люди, [acl [advmod не] подозревающие, [ccomp [mark что] [nsubj горе] [advmod совсем] рядом]]].]'
+equivalents:
+  - english: |
+       Blissful ignorance
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Manner
+family:
+  - |
+    ""

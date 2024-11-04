@@ -1,0 +1,50 @@
+---
+record: 3087
+name: '(если) Бог даст, Cl'
+UD_name: ''
+illustration: 'Бог даст, мы еще вернемся!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Если бог даст, [то я обязательно вернусь в ЮАР, и мы еще встретимся.]Situation
+  - |
+       Угроза прерывания беременности. Бог даст, [обойдется.]Situation
+  - |
+       К концу недели Бог даст, [перевезем ее в Москву.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [nsubj Бог] даст], Cl]'
+  - '[root [advcl [mark если] [nsubj Бог] даст], Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [nsubj Бог] даст], [nsubj мы] [advmod еще] вернемся!]'
+equivalents:
+  - english: |
+       god willing
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+  - type: Volition
+family:
+  - |
+    ""

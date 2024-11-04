@@ -1,0 +1,54 @@
+---
+record: 2664
+name: 'VP (по) NumCrd раз на дню'
+UD_name: ''
+illustration: 'К концу августа о них писали все газеты, а телевидение упоминало их по сто раз на дню'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Доктор [навещал]Activity сначала по [два раза]Quantity на дню, потом, как ко всем, подходил только во время утреннего обхода.
+  - |
+       Он проявил столько интереса к обстановке кабинета, как если бы [бывал здесь]Activity по [сту раз]Quzntity на дню.
+  - |
+       Паша по [нескольку раз]Quantity на дню [звал всех пить кофе]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [nummod NumCrd] раз [nummod [case на] дню]]]'
+  - '[root VP [obl [case по] [nummod NumCrd] раз [nummod [case на] дню]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case К] концу [nmod августа]] [obl [case о] них] писали [nsubj [det все] газеты], [conj [cc а] [nsubj телевидение] упоминало [obj их] [obl [case по] [nummod сто] раз [nmod [case на] дню]]]]'
+equivalents:
+  - english: |
+       a day
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Frequentative
+  - type: Salient property
+    subtypes:
+      - type: Temporal characteristics
+family:
+  - |
+    ""

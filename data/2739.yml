@@ -1,0 +1,57 @@
+---
+record: 2739
+name: 'VP не по годам Adv / NP-Nom Cop не по годам Adj'
+UD_name: ''
+illustration: 'Все ее роли были интересные, она казалась не по годам умной'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Она не по годам [начитанна]Property, прилежно учится.
+  - |
+       Все ее роли были интересные, она казалась не по годам [умной]Property.
+  - |
+       Она беседовала не по годам [разумно]EValuation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [obl [advmod не] [case по] годам] Adv]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [nmod [advmod не] [case по] годам] Adj]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Все] [det ее] роли] [cop были] интересные, [conj [nsubj она] казалась [xcomp [nmod [advmod не] [case по] годам] умной]]]'
+equivalents:
+  - english: |
+       for X's age / to have an old head on young shoulders
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3689
+name: 'VP как нельзя кстати/вовремя'
+UD_name: ''
+illustration: 'Это платье будет как нельзя кстати в твоём весеннем гардеробе.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Деньги [пришлись]Event Васе как нельзя кстати: у него на днях родился сын.
+  - |
+       Этот дом [на пути оказался]Event как нельзя вовремя.
+  - |
+       В такую жару этот головной убор [был]Event как нельзя кстати.
+  - |
+       Он срезал хризантемы, [расцветшие]Event как нельзя вовремя.
+  - |
+       Это обстоятельство [пришлось]Event как нельзя кстати Лужкову через год.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Predicative
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod как [advmod нельзя]] кстати]]'
+  - '[root VP [advmod [advmod как [advmod нельзя]] вовремя]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Это] платье] [aux будет] [advmod [advmod как] нельзя] кстати [obl [case в] [det твоём] [amod весеннем] гардеробе].]'
+comment: |
+    'Также см. 150 как нельзя Adv-Cmp VP - Порошок как нельзя лучше отстирал жирные пятна.'
+equivalents:
+common_fillers:
+  - оказаться
+  - прийтись
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

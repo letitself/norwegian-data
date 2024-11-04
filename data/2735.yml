@@ -1,0 +1,60 @@
+---
+record: 2735
+name: 'NP-Dat не место Adv/NP-Loc'
+UD_name: ''
+illustration: 'Да вы же и сами понимаете, конечно, что этому экспонату не место в музее'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Животным]Maleficiary не место в [городской квартире]Location, считала мама Иры.
+  - |
+       Моему начальству постоянно намекают, что и [здесь]Location [мне]Maleficiary не место.
+  - |
+       В глубине души он считал, что [женщинам]Maleficiary не место [на войне]Location, но он не испытывал к ним поэтому пренебрежения.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] место [advmod Adv]]'
+  - '[root [iobj NP-Dat] [advmod не] место [obl NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [cc Да] [nsubj вы] [advmod же] [advmod и] [obl сами] понимаете, [parataxis конечно], [ccomp [mark что] [iobj [det этому] экспонату] [advmod не] место [obl [case в] музее]]]'
+equivalents:
+  - english: |
+       this is no place for X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Appropriateness
+family:
+  - |
+    ""

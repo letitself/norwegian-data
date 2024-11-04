@@ -1,0 +1,53 @@
+---
+record: 3822
+name: 'в одном/общем котле вариться (с NP-Ins)'
+UD_name: ''
+illustration: 'Мы все в одном котле варимся, имеем общих знакомых и видимся каждый день.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ведь [мы все]Agent в одном котле варимся и все друг о друге знаем.
+  - |
+       [Все хоккеисты]Agent варятся в одном котле… И по одним правилам играют.
+  - |
+       [Мы же все]Agent варимся в одном котле, потому нужны нормальные отношения.
+  - |
+       Ведь [все мы]Agent люди и, так или иначе, варимся в одном котле и воздействуем друг на друга.
+  - |
+       В одном котле жаримся.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case в] [nummod одном] котле] вариться]'
+  - '[root [obl [case в] [amod одном] котле] вариться]'
+  - '[root [obl [case в] [nummod одном] котле] вариться [obl [case с] NP-Ins]]'
+  - '[root [obl [case в] [amod одном] котле] вариться [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [dislocated Мы] [nsubj все] [obl [case в] [det одном] котле] варимся, [conj имеем [obj [amod общих] знакомых]] [conj [cc и] видимся [obl [det каждый] день]]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2041
+semantic_types:
+family:
+  - |
+    ""

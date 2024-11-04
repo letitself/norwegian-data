@@ -1,0 +1,46 @@
+---
+record: 3007
+name: 'знать NP-Acc в лицо'
+UD_name: ''
+illustration: 'Раньше знала её в лицо, но близко не сталкивалась.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Признаюсь, что сегодня [многих наших сотрудников]Participant я не знаю даже в лицо.
+  - |
+       Мы все знали [её]Participant в лицо хорошо ― на прииске женщин было очень мало.
+  - |
+       Разве мы [их]Participant всех знаем в лицо?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 3572
+name: 'смотреть-Prs.1, Cl/XP'
+UD_name: ''
+illustration: 'Смотрю ― в дневнике действительно ничего не написано.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Смотрю, [идет кто-то по лесу]Situation.
+  - |
+       Утром пришла на службу, смотрю - [письмо]Situation.
+  - |
+       Недавно была в одном городе, приехала в гостиницу, смотрю — [диск лежит]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root смотреть-Prs.1, [ccomp Cl]]'
+  - '[root смотреть-Prs.1, [ccomp XP]]'
+dependency_structure_of_illustration:
+  - '[root Смотрю ― [ccomp [obl [case в] дневнике] [advmod действительно] [obl ничего] [advmod не] написано].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Look, X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Mirative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

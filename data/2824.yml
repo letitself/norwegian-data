@@ -1,0 +1,49 @@
+---
+record: 2824
+name: 'Cl, по обыкновению (NP-Gen)'
+UD_name: ''
+illustration: 'После долгой разлуки они сели на крыльце и, по обыкновению, заговорили'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Мне показалось даже, что она, по обыкновению своему, [собралась было бежать,]Situation но сделала усилие над собой ― и осталась.
+  - |
+       На Романа она, по обыкновению, [ни малейшего внимания не обратила]Situation.
+  - |
+       Сестричка сидела на краю фонтана и по обыкновению [делала вид, что скучает в этой глуши]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       as usual
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Habitual
+family:
+  - |
+    ""

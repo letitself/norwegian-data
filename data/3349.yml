@@ -1,0 +1,48 @@
+---
+record: 3349
+name: 'рукой подать до NP-Gen'
+UD_name: ''
+illustration: 'До Ниццы от Йера не то чтобы далеко, но и не рукой подать.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Москва]Goal была совсем рядом, буквально рукой подать.
+  - |
+       От этого мечтания рукой подать до [идеи]Goal Раскольникова (роман о нём Достоевский печатает спустя два года после выхода "Записок из подполья"), поощряющей убийство как инструмент для достижения счастья.
+  - |
+       Последний экзамен будет завтра, до [каникул]Goal уже рукой подать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl рукой] подать [obl [case до] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case До] Ниццы] [obl [case от] Йера] [advmod [advmod не] то [advmod чтобы]] далеко, [conj [cc но] [obl [advmod [advmod и] не] рукой] подать].]'
+equivalents:
+  - english: |
+       within spitting distance
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Distance
+family:
+  - |
+    ""

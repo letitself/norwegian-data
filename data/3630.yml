@@ -1,0 +1,57 @@
+---
+record: 3630
+name: 'XP/Cl или XP/Cl, а Cl'
+UD_name: ''
+illustration: 'И все-таки первый ты или нет, а начинать концерт было надо.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Плохой Толя]BackgroundSituation или [хороший]BackgroundSituation, а [справляется с работой не первый год]Situation.
+  - |
+       [Хочу я]BackgroundSituation или [нет]BackgroundSituation, а [делать работу все равно придется]Situation.
+  - |
+       [Запрещай купаться]BackgroundSituation или [не запрещай]BackgroundSituation, а [желающие окунуться в речку найдутся]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - conjunction
+  - conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP [conj [cc или] XP], [conj [cc а] Cl]]'
+  - '[dep XP [conj [cc или] Cl], [conj [cc а] Cl]]'
+  - '[root Cl [conj [cc или] Cl], [conj [cc а] Cl]]'
+  - '[root Cl [conj [cc или] XP], [conj [cc а] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [advmod все-таки] первый [nsubj ты] [conj [cc или] нет], [conj [cc а] [csubj начинать [obj концерт]] [cop было] надо].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Other
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 2503
+name: 'VP во цвете/в расцвете лет'
+UD_name: ''
+illustration: 'Барышня из приличной семьи, с образованием даже ― и пропала, погибла в расцвете лет своих'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Коля был крепкий человек, а [погиб]Action во цвете лет.
+  - |
+       Вы думаете, что просто так некоторые первые лица в расцвете лет [внезапно скончались]Action?
+  - |
+       Ирина, не дайте мне [погибнуть]Action во цвете лет!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] цвете [nmod лет]]]'
+  - '[root VP [obl [case в] расцвете [nmod лет]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Барышня [nmod [case из] [amod приличной] семьи, [conj [case с] образованием [advmod даже]]] ― [advmod и] пропала, [conj погибла [obl [case в] расцвете [nmod лет [det своих]]]]].]'
+equivalents:
+  - english: |
+       in the prime of life
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3380
+name: 'NP средней руки'
+UD_name: ''
+illustration: 'Отец его был предпринимателем средней руки.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Летом он походил на [станционный посёлок]Theme средней руки
+  - |
+       Их производят [фирмы]Theme средней руки, не имеющие средств производства больших компаний.
+  - |
+       Это был мужчина лет пятидесяти, невысокий, плотный, с линялым лицом [администратора]Theme средней руки и обширной загорелой лысиной.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [amod средней] руки]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Отец [det его]] [cop был] предпринимателем [nmod [amod средней] руки].]'
+equivalents:
+  - english: |
+       to do X sloppily
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+family:
+  - |
+    ""

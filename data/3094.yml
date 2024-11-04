@@ -1,0 +1,49 @@
+---
+record: 3094
+name: '(NP-Acc) бросить в NP-Acc'
+UD_name: ''
+illustration: 'От страшных звуков на улице меня бросало в холодный пот.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Лидию]Experiencer бросило в [жар.]State Похоже, опасные приключения не кончились.
+  - |
+       ― Когда она до меня дотрагивается, [меня]Experiencer бросает в [дрожь.]State
+  - |
+       Каждая семейная история как раз бросает в [пот,]State в [жар,]State в [ужас.]State
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root бросить [obl [case в] NP-Acc]]'
+  - '[root [obj NP-Acc] бросить [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case от] [amod страшных] звуков [nmod [case на] улице]] [obj меня] бросало [obl [case в] [amod холодный] пот].]'
+equivalents:
+  - english: |
+       cold sweat
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

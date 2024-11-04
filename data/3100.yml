@@ -1,0 +1,49 @@
+---
+record: 3100
+name: 'VP в PronPoss-Loc глазах/VP в глазах NP-Gen'
+UD_name: ''
+illustration: 'Он хочет опорочить ее в глазах коллег.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       За последний год [он сильно вырос]Situation в [моих]Possessor глазах.
+  - |
+       Эти меры направлены на [улучшение имиджа партийцев]Situation в глазах [рядовых китайцев.]Possessor
+  - |
+       Или какая-то идея втемяшится в голову и, понимая, что [делаешься]Situation в глазах [других]Possessor чудаком, втолковываешь свою "эврику" и злишься, что всем на неё наплевать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [det PronPoss-Loc] глазах]]'
+  - '[root VP [obl [case в] глазах [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] хочет [xcomp опозорить [obj её] [obl [case в] глазах [nmod коллег]]].]'
+equivalents:
+  - english: |
+       in X’s opinion
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    ""

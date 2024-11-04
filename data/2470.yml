@@ -1,0 +1,53 @@
+---
+record: 2470
+name: 'VP в стороне (от NP-Gen)'
+UD_name: ''
+illustration: 'В эту минуту я вспомнил, что он стоял в стороне у окна и молчал.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Пастух обречёно [сел]Action в стороне.
+  - |
+       По возможности [держитесь]Action от курящих в стороне: по последним данным, пассивное курение ещё более опасно, чем предполагалось ранее.
+  - |
+       Чуть в стороне, возле кустов [паслась]Activity привязанная на верёвке лошадь.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] стороне]]'
+  - '[root VP [obl [case в] стороне [nmod [case от] NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det эту] минуту] [nsubj я] вспомнил, [ccomp [mark что] [nsubj он] стоял [obl [case в] стороне] [obl [case у] окна] [conj [cc и] молчал]].]'
+equivalents:
+  - english: |
+       aside
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

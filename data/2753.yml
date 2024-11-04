@@ -1,0 +1,65 @@
+---
+record: 2753
+name: 'XP (–) (это (PronPers-Dat)) Cop не шутка/шутки'
+UD_name: ''
+illustration: 'Трое детей не шутка, и нельзя благополучие семьи подчинять женским капризам и глупым ревностям'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Работали мы в ночной смене в декабре, и каждая ночь казалась пыткой ― [пятьдесят градусов]Situation не шутка.
+  - |
+       [Тысячи освобожденных от ручной стирки]Situation ― это тебе не шутка!
+  - |
+       Директор задумал провести инвентаризацию музея, и ему потребовались грамотные люди; не шутка ведь ― [описать и занести в картотеки двести тысяч экспонатов]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [dep XP] [cop Cop] [case не] шутка]'
+  - '[root [dep XP] – [cop Cop] [case не] шутка]'
+  - '[root [dep XP] [expl это] [cop Cop] [case не] шутка]'
+  - '[root [dep XP] – [expl это] [cop Cop] [case не] шутка]'
+  - '[root [dep XP] [expl это] [iobj PronPers-Dat] [cop Cop] [case не] шутка]'
+  - '[root [dep XP] – [expl это] [iobj PronPers-Dat] [cop Cop] [case не] шутка]'
+  - '[root [dep XP] [cop Cop] [case не] шутки]'
+  - '[root [dep XP] – [cop Cop] [case не] шутки]'
+  - '[root [dep XP] [expl это] [cop Cop] [case не] шутки]'
+  - '[root [dep XP] – [expl это] [cop Cop] [case не] шутки]'
+  - '[root [dep XP] [expl это] [iobj PronPers-Dat] [cop Cop] [case не] шутки]'
+  - '[root [dep XP] – [expl это] [iobj PronPers-Dat] [cop Cop] [case не] шутки]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [nummod Трое] детей] [advmod не] шутка, [conj [cc и] нельзя [csubj [obj благополучие [nmod семьи]] подчинять [iobj [amod женским] капризам [conj [cc и] [amod глупым] ревностям]]]].]'
+comment: |
+    'также см.  1778 XP это PronPers-Dat Cop не XP (Сибирь – это вам не Москва, здесь совсем другие условия.).'
+equivalents:
+  - english: |
+       X is no joke
+common_fillers:
+  - шутка
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

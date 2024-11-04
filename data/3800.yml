@@ -1,0 +1,49 @@
+---
+record: 3800
+name: 'VP как стадо баранов'
+UD_name: ''
+illustration: 'Какая самоорганизация, если люди даже в очередь на маршрутку ломятся как стадо баранов?'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Мы и не посмотрели выставку нормально, потому что люди [бродили]Activity как стадо баранов.
+  - |
+       В организованном порядке ​не смогли выстроиться, [шли]Activity как стадо баранов — ​растянулись на два километра.
+  - |
+       Люди [тыкаются]Activity по павильону, как стадо баранов.
+  - |
+       — Стоп-стоп-стоп! [Идете]Activity, как стадо баранов. Я же вам объяснил: начинаете движение после команды, не раньше.
+  - |
+       И всех в воду [погнали]Action, как стадо баранов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] [nmod стадо [баранов]]]]'
+dependency_structure_of_illustration:
+  - '[root [det Какая] самоорганизация, [advcl [mark если] [nsubj люди] [advmod даже] [obl [case в] очередь [nmod [case на] маршрутку]] ломятся [advcl [mark как] стадо [nmod баранов]]]?'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2068
+semantic_types:
+family:
+  - |
+    ""

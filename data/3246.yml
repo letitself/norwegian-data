@@ -1,0 +1,51 @@
+---
+record: 3246
+name: 'NP-Nom набирать обороты'
+UD_name: ''
+illustration: 'С каждым годом набирает обороты специальность "Русский язык как иностранный".'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Дистанционное обучение набирает обороты.
+  - |
+       Скоро скандал в доме стал набирать обороты.
+  - |
+       Его бизнес стремительно набирал обороты.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] набирать [obj обороты]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] [det каждым] годом] набирает [obj обороты] [nsubj специальность "[nmod [amod Русский] язык [obl [case как] иностранный]]"].]'
+equivalents:
+  - english: |
+       to gain momentum
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Speed
+family:
+  - |
+    ""

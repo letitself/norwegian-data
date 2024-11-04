@@ -1,0 +1,51 @@
+---
+record: 2439
+name: 'VP в первое время (после NP-Gen)'
+UD_name: ''
+illustration: 'В первое время, когда он еще только проходил период реабилитации, у него не все получалось'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       В первое время я [думал, что просто переутомил глаза работой]Action.
+  - |
+       В первое время она [приветлива и учтива]Property, но потом ей надоедают беспрерывные сплетни.
+  - |
+       Чаще всего первые признаки болезни [обнаруживаются]Action в первое время после рождения, но иногда они могут быть отмечены сравнительно поздно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Prepositional
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod первое] время]]'
+  - '[root VP [obl [case в] [amod первое] время [nmod [case после] NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod первое] время, [acl [mark когда] [nsubj он] [advmod еще] [advmod только] проходил [obj период [nmod реабилитации]]]], [obl [case у] него] [nsubj [advmod не] все] получалось.]'
+equivalents:
+  - english: |
+       For the first time
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

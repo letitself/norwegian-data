@@ -1,0 +1,55 @@
+---
+record: 3197
+name: 'каким ветром NP-Acc занесло в/на NP-Acc?'
+UD_name: ''
+illustration: 'Каким ветром вас занесло в Испанию?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Но каким ветром [вас]Causee на [Чукотку-то]Goal занесло?
+  - |
+       А  каким ветром [Льва Ивановича]Causee в [Люберцы]Goal занесло?
+  - |
+       Каким ветром [вас]Causee занесло в [программу телеканала «Спорт» «Зарядка с чемпионом»?]Goal
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [det каким] ветром] [obj NP-Acc] занесло [obl [case в] NP-Acc]?]'
+  - '[root [obl [det каким] ветром] [obj NP-Acc] занесло [obl [case на] NP-Acc]?]'
+dependency_structure_of_illustration:
+  - '[root [obl [det Каким] ветром] [obj вас] занесло [obl [case в] Испанию]?]'
+equivalents:
+  - english: |
+       what brings?
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Mirative
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Source
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

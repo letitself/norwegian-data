@@ -1,0 +1,52 @@
+---
+record: 3827
+name: 'NP-Nom не создан для NP-Gen/того, чтобы Сl'
+UD_name: ''
+illustration: 'В конце Бернович неизменно повторял: — Ты не создан для брака... И все-таки десять лет мы женаты.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Но я же музыкант, [я]Participant же не создан для [семейной жизни]Purpose.
+  - |
+       Я вообще считаю, что [человек]Participant не создан для [труда]Purpose.
+  - |
+       В Сенате с каждым разом было все скучнее; [я]Participant знал и прежде, что не создан для [статской службы]Purpose, но только теперь понял это вполне.
+  - |
+       Эрл Миллер, нейробиолог из Массачусетского технологического института и один из ведущих экспертов в области внимания, утверждает, что [наш мозг]Participant вовсе не создан для [многозадачности]Purpose.
+  - |
+       Ну нет, что-то [я]Participant не создан для [семейной жизни]Purpose.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Preposition
+  - Negation Marker
+  - Participle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] создан [obl [case для] NP-Gen]'
+  - '[root [nsubj NP-Nom] [advmod не] создан [obl [case для] того], [advcl [mark чтобы] Сl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] конце] [nsubj Бернович] [advmod неизменно] повторял: — [ccomp [nsubj Ты] [advmod не] создан [obl [case для] брака]...]]] [root [cc И] [advmod все-таки] [obl [nummod десять] лет] [nsubj мы] женаты].'
+equivalents:
+common_fillers:
+  - работы
+  - семьи
+  - брака
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

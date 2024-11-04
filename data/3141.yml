@@ -1,0 +1,52 @@
+---
+record: 3141
+name: '(NP-Dat) всё нипочём'
+UD_name: ''
+illustration: 'Уже давно все поняли, что есть серьезные проблемы, а ему всё нипочём, он их игнорирует.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       При виде ее любому становилось понятно: девушка счастлива и [ей]Participant всё нипочём.
+  - |
+       Милиция этого преступника сколько раз ловила, а [ему]Participant все нипочем.
+  - |
+       Были и дожди с грозами, и сильные ветра, но [нам]Participant было всё нипочём. Мы продолжали наш путь.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [nusbj всё] нипочём]'
+  - '[root [nusbj всё] нипочём]'
+dependency_structure_of_illustration:
+  - '[root [advmod [advmod Уже] давно] [nsubj все] поняли, [xcomp [mark что] есть [nsubj [amod серьёзные] проблемы]], [conj [cc а] [iobj ему] [nusbj всё] нипочём], [conj [nsubj он] [obj их] игнорирует].]'
+equivalents:
+  - english: |
+       like nothing at all
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Capacity and Preferences
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

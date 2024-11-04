@@ -1,0 +1,51 @@
+---
+record: 2867
+name: 'VP/NP-Nom Cop под колпаком (NP-Gen/ у NP-Gen)'
+UD_name: ''
+illustration: 'В итоге бизнес не в состоянии эффективно развиваться, постоянно находясь под колпаком огромного количества проверяющих, содержание которых, в свою очередь, обходится бюджету все дороже'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Понимаешь, он велел в Париж не ездить, значит, считал, что [квартира]Theme под колпаком.
+  - |
+       Да, ты прав, мы с тобой тоже [окажемся]Event под колпаком.
+  - |
+       Такое ощущение, что [я]Participant у вас под колпаком.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       under surveillance
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

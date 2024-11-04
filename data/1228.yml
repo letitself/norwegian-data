@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen uttrykker sammenligning og fremhever at [ett objekt, én deltaker, egenskap eller handling]Comparee og [et annet objekt, en annen deltaker, egenskap eller handling]Standard har like stor betydning og verdi. Konstruksjonen betyr at en gitt handling iverksettes med både det ene og det andre objektet eller deltakeren, eller at handlingen karakteriseres av både den ene og den andre egenskapen i like stor grad. Sloten XP kan fylles av en nominalfrase, et preposisjonsledd, en verbalfrase, et adjektiv eller et adverb.
 examples:
   - |
-       Лично я обязательно покажу своему ребенку [этот фильм]Comparee, равно как и [«Иван Васильевич меняет профессию»]Standard.
+       [Страдать]Comparee, конечно, придется, равно как и [испытывать наслаждение]Standard.
   - |
        [Способности к рисованию и музыке]Comparee проявились в самом юном возрасте, равно как и [талант дружить и добиваться восхищения окружающих]Standard.
   - |
-       Поводов для сомнений в обоснованности [новых]Comparee (равно как и [старых]Standard) тарифов, надо сказать, предостаточно.
+       [Список самых важных книг]Theme каждый составляет самостоятельно. Равно как и [биографию]Theme.
   - |
-       [Страдать]Comparee, конечно, придется, равно как и [испытывать наслаждение]Standard.
+       Лично я обязательно покажу своему ребенку [этот фильм]Theme, равно как и [«Иван Васильевич меняет профессию»]Theme.
   - |
-       Новые квартиры сегодня в основном продаются, когда дома еще нет [физически]Comparee. Равно как и [юридически]Standard: покупатель приобретает не квартиру, а долю в строительстве или право потребовать с застройщика квартиру, когда дом будет завершен.
+       Новые квартиры сегодня в основном продаются, когда дома еще нет [физически]Comparee. Равно как и [юридически]Standard: покупатель приобретает не квартиру, а долю в строительстве.
 morphology:
   - NP
   - PP

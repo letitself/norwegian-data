@@ -1,0 +1,52 @@
+---
+record: 3396
+name: 'хлебом не корми NP-Acc, дай (только) VP-Inf'
+UD_name: ''
+illustration: 'А русского человека хлебом не корми ― дай подглядеть, чем сосед занимается.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Ведь она ― журналист, а эту [братию]Causee хлебом не корми, только дай [хоть малейшую надежду раскопать какую-нибудь древнюю тайну!]Theme
+  - |
+       [Их]Causee хлебом не корми, дай только [поуправлять заблудшими душами.]Activity
+  - |
+       А поскольку они трудоголики, [их]Causee хлебом не корми ― дай [поработать.]Activity
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl хлебом] [advmod не] корми [obj NP-Acc], [conj дай [xcomp VP-Inf]]]'
+  - '[root [obl хлебом] [advmod не] корми [obj NP-Acc], [conj дай [xcomp [advmod только] VP-Inf]]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [obj [amod русского] человека] [obl хлебом] [advmod не] корми ― [conj дай [xomp подглядеть, [ccomp [obl чем] [nsubj сосед] занимается]]].]'
+equivalents:
+  - english: |
+       keep X's head up
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Frequentative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

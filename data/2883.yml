@@ -1,0 +1,51 @@
+---
+record: 2883
+name: 'VP с открытым забралом'
+UD_name: ''
+illustration: 'Мы, как честные люди, пойдем на выборы с открытым забралом.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Страна [стоит]State с открытым забралом перед лицом огромного международного заговора, а вы очерняете свою родину?
+  - |
+       Премьер-министр с открытым забралом [пошел на штурм электроэнергетической системы страны]Action.
+  - |
+       Не многие имели возможность, подобно нему, [выступить]Action с открытым забралом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] [amod открытым] забралом]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       boldly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

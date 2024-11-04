@@ -1,0 +1,51 @@
+---
+record: 2466
+name: 'NP/VP в слезах'
+UD_name: ''
+illustration: 'Ребёнок не должен видеть свою мать в слезах, в печали.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Соседка]Experiencer вся в слезах ― муж поехал в лес за грибами ― уже месяц нет его.
+  - |
+       [Уезжала из монастыря]Action Алла вся в слезах.
+  - |
+       Новый год я [встречаю]Action в слезах и вместо вина пью сок.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] слезах]]'
+  - '[dep NP [nmod [case в] слезах]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ребёнок] [advmod не] должен [xcomp видеть [obj [det свою] мать [nmod [case в] слезах, [conj [case в] печали]]]].]'
+equivalents:
+  - english: |
+       in tears
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

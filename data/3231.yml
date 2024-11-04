@@ -1,0 +1,54 @@
+---
+record: 3231
+name: 'NP-Nom VP/Cop на вес золота'
+UD_name: ''
+illustration: 'В этой формулировке каждое слово на вес золота.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       На рынке труда эксперт со знанием китайского ценится на вес золота.
+  - |
+       А сейчас мне пора, моё время на вес золота.
+  - |
+       Хороший дизайнер на вес золота.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] вес [nmod золота]]'
+  - '[root [nsubj NP-Nom] VP [obl [case на] вес [nmod золота]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det этой] формулировке] [nsubj [det каждое] слово] [case на] вес [nmod золота].]'
+equivalents:
+  - english: |
+       worth X’s weight in gold
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+        subtypes:
+          - type: Assessment of an entity
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

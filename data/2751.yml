@@ -1,0 +1,53 @@
+---
+record: 2751
+name: 'NP-Nom Cop NP-Dat/для NP-Gen не указ'
+UD_name: ''
+illustration: 'Я  думала, адвокаты сами по себе, частные лица, никому не подчиняются, никто им не указ, ну, кроме закона, конечно'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Даже [академические энциклопедии]Theme для [меня]Participant не указ, а повод принять предлагаемый материал к сведению.
+  - |
+       В Париже круглый год весь народ ходит без шапки, но [это]Theme [нам]Participant не указ.
+  - |
+       Я свободна и делаю что хочу, [никто]Theme [мне]Participant не указ.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [iobj NP-Dat] [advmod не] указ]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case для] NP-Gen] [advmod не] указ]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] думала, [ccomp [nsubj адвокаты] сами [nmod [case по] себе], [conj [amod частные] лица], [conj [iobj никому] [advmod не] подчиняются], [conj [nsubj никто] [iobj им] [advmod не] указ, [parataxis ну], [obl [case кроме] закона], [parataxis конечно]]].]'
+equivalents:
+  - english: |
+       is no authority
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

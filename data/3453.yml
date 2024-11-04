@@ -1,0 +1,54 @@
+---
+record: 3453
+name: 'Не лучше ли VP'
+UD_name: ''
+illustration: '― Не лучше ли решить эту проблему прямо сейчас?'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Если телефонная связь представляет такую опасность, то не лучше ли [воспользоваться радио]ContentOfSpeech, ведь радио надёжней.
+  - |
+       Не лучше ли [остановиться и подумать: "что же я такое делаю]ContentOfSpeech?
+  - |
+       Не лучше ли [сказать ей, что вы сегодня уже уехали и вас надо искать завтра в редакции]ContentOfSpeech?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmdod не] лучше [advmod ли] [csubj VP]]'
+dependency_structure_of_illustration:
+  - '[root ― [advmdod Не] лучше [advmod ли] [csubj решить [obj [det эту] проблему] [advmod [advmod прямо] сейчас]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       isn't itt better to P?
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Doubt
+family:
+  - |
+    ""

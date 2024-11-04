@@ -1,0 +1,51 @@
+---
+record: 3335
+name: 'поставить NP-Acc в один ряд  с NP-Ins'
+UD_name: ''
+illustration: 'Этот эпизод может быть поставлен в один ряд с лучшими достижениями советской и мировой кинематографии.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Поступок этой женщины поставил [её]Comparee в один ряд с [жёнами декабристов, последовавшими за мужьями в Сибирь.]Standart
+  - |
+       Казалось бы, сегодняшние технологии позволяют легко исполнять невероятно сложные рисунки, но никто не придумывает ничего такого, [что]Comparee можно было бы поставить в один ряд со [старым искусством.]Standart
+  - |
+       Я думала, Лёва содрогнётся оттого, что [его любимую математику]Comparee поставили в один ряд с [гуманитарными науками.]Standart
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root поставить [obj NP-Acc] [obl [case в] [nummod один] ряд [nmod [case с] NP-Ins]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass [det Этот] эпизод] может [xcomp [aux:pass быть] поставлен [obl [case в] [nummod один] ряд [nmod [case с] [amod лучшими] достижениями [nmod [amod советской [conj [cc и] мировой]] кинематографии]]]].]'
+equivalents:
+  - english: |
+       put X on a par
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+family:
+  - |
+    ""

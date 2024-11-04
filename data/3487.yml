@@ -1,0 +1,63 @@
+---
+record: 3487
+name: 'NP-Dat (не) повезло (VP-Inf)'
+UD_name: ''
+illustration: 'Ральфу в свое время повезло (или не повезло) попасть в Дом накануне выпуска.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       В Луганске [нам]Experiencer повезло [встретить людей простых и искренних]Situation.
+  - |
+       Можно считать, что [ему]Experiencer просто не повезло: [он попался под горячую руку]Situation.
+  - |
+       [Им]Experiencer очень повезло, что [они остались живы]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] повезло [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] повезло]'
+  - '[root [iobj NP-Dat] повезло [csubj VP-Inf]]'
+  - '[root [iobj NP-Dat] [advmod не] повезло]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ральфу] [obl [case в] [det свое] время] повезло ([parataxis [cc или] [advmod не] повезло]) [csubj попасть [obl [case в] Дом] [obl [case накануне] выпуска]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       P was just unlucky
+common_fillers:
+  - ему
+  - ей
+  - мне
+  - нам
+  - тебе
+  - вам
+  - им
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

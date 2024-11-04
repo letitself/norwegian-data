@@ -1,0 +1,54 @@
+---
+record: 2510
+name: 'PronInt бог пошлет'
+UD_name: ''
+illustration: 'В жизни он ни дня не работал, жил, где бог пошлет.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Последнее время ночую [где]Location Бог пошлет, то у своих братьев, то по дворам у добрых людей.
+  - |
+       Где же народ спит? ― А [где]Location бог пошлет.
+  - |
+       Ваш корабль особую гавань требует, а мы перезимуем [где]Location бог пошлет.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod PronInt] [nsubj бог] пошлет]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] жизни] [nsubj он] [obl [advmod ни] дня] [advmod не] работал, [conj жил, [ccomp [advmod где] [nsubj бог] пошлет]].]'
+equivalents:
+  - english: |
+       where God would send
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

@@ -1,0 +1,158 @@
+---
+record: 3925
+name: '(от NP-Gen/Adv) до NP-Gen (NP-Dat) VP-Inf/Cop как (пешком/раком) до Китая/китайской границы/Пекина'
+UD_name: ''
+illustration: 'До машиного дома отсюда как до Пекина пешком.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       См. также родственную пространственную конструкцию 3925 (от NP-Gen/Adv) до NP-Gen (NP-Dat) VP-Inf/Cop как (пешком/раком) до Китая/китайской границы/Пекина - До окончания войны как до китайской пасхи.
+  - |
+       Ведь до [ближайшей северной границы]Goal - как до Китая.
+  - |
+       От [твоего дома]Source до [метро]Goal [нам]Participant [идти]Activity как до китайской границы. Всысле мы пойдём туда пешком?
+  - |
+       Будто бы в прошлом веке мужчины были "куда сильнее", и [нам]Participant, сегодняшним, до [них]Goal, как до Китая пешком
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Sconj
+  - Adverb
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] Китая]]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] [amod китайской] границы]]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] Пекина]]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [case до] Китая]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [case до] [amod китайской] границы]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [case до] Пекина]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] Китая]]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] Пекина]]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] Китая]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] [amod китайской] границы]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] Пекина]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] Китая]]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] Пекина]]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] Китая]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] [amod китайской] границы]'
+  - '[root [acl [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] Пекина]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] Китая]]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] [amod китайской] границы]]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] Пекина]]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] Китая]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] [amod китайской] границы]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] Пекина]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] Китая]]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] Пекина]]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] Китая]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] [amod китайской] границы]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] Пекина]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] Китая]]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] Пекина]]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] Китая]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] [amod китайской] границы]'
+  - '[root [acl [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] Пекина]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] Китая]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] [amod китайской] границы]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] Пекина]]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [case до] Китая]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [case до] [amod китайской] границы]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [case до] Пекина]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] Китая]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] Пекина]]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] Китая]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] [amod китайской] границы]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] Пекина]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] Китая]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] Пекина]]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] Китая]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] [amod китайской] границы]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] Пекина]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] Китая]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] [amod китайской] границы]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] Пекина]]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] Китая]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] [amod китайской] границы]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] Пекина]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] Китая]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] Пекина]]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] Китая]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] [amod китайской] границы]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] Пекина]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] Китая]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] [amod китайской] границы]]'
+  - '[root [obl [case от] NP-Gen] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] Пекина]]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] Китая]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] [amod китайской] границы]'
+  - '[root [acl [obl [case от] NP-Gen] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] Пекина]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] Китая]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] [amod китайской] границы]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [case до] Пекина]]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [case до] Китая]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [case до] [amod китайской] границы]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [case до] Пекина]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] Китая]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] [amod китайской] границы]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod пешком] [case до] Пекина]]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] Китая]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] [amod китайской] границы]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [advmod пешком] [case до] Пекина]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] Китая]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] [amod китайской] границы]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] VP-Inf [advcl [mark как] [advmod раком] [case до] Пекина]]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] Китая]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] [amod китайской] границы]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [cop Cop] [mark как] [advmod раком] [case до] Пекина]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] Китая]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] [amod китайской] границы]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [case до] Пекина]]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] Китая]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] [amod китайской] границы]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [case до] Пекина]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] Китая]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] [amod китайской] границы]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod пешком] [case до] Пекина]]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] Китая]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] [amod китайской] границы]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod пешком] [case до] Пекина]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] Китая]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] [amod китайской] границы]]'
+  - '[root [advmod Adv] [obl [case до] NP-Gen] [iobj NP-Dat] VP-Inf [advcl [mark как] [advmod раком] [case до] Пекина]]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] Китая]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] [amod китайской] границы]'
+  - '[root [acl [advmod Adv] [case до] NP-Gen] [iobj NP-Dat] [cop Cop] [mark как] [advmod раком] [case до] Пекина]'
+dependency_structure_of_illustration:
+  - '[root [acl [case До] [amod машиного] дома [advmod отсюда]] [mark как] [case до] Пекина [advmod пешком].]'
+comment: |
+    'См. также родственную временную конструкцию 3926 (от NP-Gen/Adv) до NP-Gen как до китайской пасхи/Пекина раком/Китая - До окончания войны как до китайской пасхи.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Абрамова В. И., Архангельская Ю. В. ИНОКУЛЬТУРНЫЕ ТОПОНИМЫ, ЭТНОНИМЫ И ИХ ДЕРИВАТЫ В РУССКОЙ ЛЕКСИКЕ И ФРАЗЕОЛОГИИ: СИМВОЛЫ, ЭТАЛОНЫ, СТЕРЕОТИПЫ, ЛИНГВОКУЛЬТУРНЫЕ КОДЫ // Тульский научный вестник. Серия История. Языкознание. 2021. №1 (5). URL: https://cyberleninka.ru/article/n/inokulturnye-toponimy-etnonimy-i-ih-derivaty-v-russkoy-leksike-i-frazeologii-simvoly-etalony-stereotipy-lingvokulturnye-kody (дата обращения: 06.02.2024).
+semantic_types:
+family:
+  - |
+    ""

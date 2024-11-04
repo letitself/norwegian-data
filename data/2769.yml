@@ -1,0 +1,50 @@
+---
+record: 2769
+name: 'VP одним махом'
+UD_name: ''
+illustration: 'Она выпила водку одним махом.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Налила себе в первый попавшийся бокал и одним махом [выпила]Action, боясь передумать
+  - |
+       Петя одним махом [перепрыгнул через забор]Action.
+  - |
+       Конечно, одним махом с фобиями не [управиться]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [nummod одним] махом]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] выпила [obj водку] [advmod [nummod одним] махом].]'
+equivalents:
+  - english: |
+       at once
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3807
+name: 'VP как на базаре'
+UD_name: ''
+illustration: 'И на улице было людно. Просто кипел народ, как на базаре.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Вокруг, как на базаре, [стоял бешеный крик]Situation.
+  - |
+       В этом зале [было тесно]Situation, как на базаре.
+  - |
+       Люди [громко говорили и спорили между собой]Situation, как на базаре.
+  - |
+       Вдобавок, они еще и [торгуются]Situation, как на базаре, требуют предоплату за будущие поставки.
+  - |
+       И самое необычное ― [стоит жуткий гомон]Situation. Как на базаре. Кто-то смеется, кто-то громко о чем-то спорит, выкрики, гул, вообщем хаос и шум.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] [case на] базаре]]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [obl [case на] улице] [aux было] людно]. [root [advmod Просто] кипел [nsubj народ], [advcl [mark как][case на] базаре]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2026
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 2608
+name: 'VP за спасибо'
+UD_name: ''
+illustration: 'Это я тоже понимаю и не за спасибо работаю'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       ― За спасибо только лошадь [возит]Activity, ― буркнула Катя.
+  - |
+       Разумеется, я [трудился]Activity не за «спасибо», ведь надо на что-то кормить семью.
+  - |
+       Там парикмахеры учатся, а потому [стригут всех желающих]Activity за «спасибо».
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] спасибо]]'
+dependency_structure_of_illustration:
+  - '[root [obj Это] [nsubj я] [advmod тоже] понимаю [conj [cc и] [obl [advmod не] [case за] спасибо] работаю]]'
+equivalents:
+  - english: |
+       for thank you
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

@@ -1,0 +1,59 @@
+---
+record: 2963
+name: 'чрез/через меру VP/Adj'
+UD_name: ''
+illustration: 'Ела она с некоторой поры, действительно, через меру.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он был защитником свободы, а вместе с тем [увлекался]State через меру честолюбием.
+  - |
+       Боюсь впасть в искушение, боюсь через меру [возгордиться]Result!
+  - |
+       Ситанов, видно, горюет: [пить]Activity стал через меру.
+  - |
+       Художник, вероятно, не был через меру талантлив.
+  - |
+       Человечек он был безобидный, только через меру шумный и непокорный.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       excessively
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3340
+name: 'пришло время NP-Gen/PronPoss-Nom/VP-Inf'
+UD_name: ''
+illustration: 'Пришло время разобраться с этой проблемой.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По мнению президента, пришло время [чётко сказать, что является приоритетами развития страны.]Action
+  - |
+       Утром я уехал и вернулся через несколько месяцев, как обещал, когда пришло время [практики.]Action
+  - |
+       Но вскоре я понял, что, очевидно, еще не пришло [мое]Possessor время.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root пришло [nsubj время [obl VP-Inf]]]'
+  - '[root пришло [nsubj время [det PronPoss-Nom]]]'
+  - '[root пришло [nsubj время [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root Пришло [nsubj время [obl разобраться [obl [case с] [det этой] проблемой]]].]'
+equivalents:
+  - english: |
+       the time has (will) come
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Proper time
+family:
+  - |
+    ""

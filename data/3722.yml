@@ -1,0 +1,49 @@
+---
+record: 3722
+name: 'NP-Nom подходить к концу'
+UD_name: ''
+illustration: 'Праздник постепенно подходил к концу.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Отпуск]Event подходил к концу, в понедельник он должен выйти на работу.
+  - |
+       [Запасы]Theme, которые сохранились в его квартире с прежних времен, подходили к концу.
+  - |
+       Когда [силы]Theme подходят к концу, мы испытываем утомление: к конце рабочего дня, недели, месяца.
+  - |
+       Между тем, [время нашего пребывания в лагере]Event подходило к концу, смена заканчивалась.
+  - |
+       [Мой рабочий день]Event подходил к концу, и я не спеша собирался.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] подходить [obl [case к] концу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Праздник] [advmod постепенно] подходил [obl [case к] концу].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

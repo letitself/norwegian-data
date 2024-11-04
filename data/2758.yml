@@ -1,0 +1,58 @@
+---
+record: 2758
+name: 'ни на копейку не XP'
+UD_name: ''
+illustration: 'Я не верю ему ни на копейку'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Я заметила, что [оптимизма у меня]Situation нет ни на копейку, хотя сейчас жить легче, чем когда-либо.
+  - |
+       Дико мне было слышать, как человек других уговаривает, когда сам [не верит]State ни на копейку.
+  - |
+       В дедушке не было ни на копейку [высокомерия]Property, столь характерного для тогдашних выскочек.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [obl [advmod ни] [case на] копейку] [advmod не] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod не] верю [iobj ему] [obl [advmod ни] [case на] копейку]]'
+comment: |
+    'см. похожие конструкции 1453 "ни на йоту", 2267 "ни на шаг/миллиметр", 1452 "ни на грамм".'
+equivalents:
+  - english: |
+       doesn't believe at all
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Non-existence
+    subtypes:
+      - type: Unaffected small portion
+family:
+  - |
+    ""

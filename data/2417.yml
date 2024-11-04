@@ -1,0 +1,50 @@
+---
+record: 2417
+name: 'NP-Nom Cop в запарке'
+UD_name: ''
+illustration: 'Не обижайся, я немного в запарке, возникли непредвиденные обстоятельства, дел много..'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Прости, [я]Experiencer сейчас в такой запарке...
+  - |
+       Перед Новым годом обычно [все рестораны и торговые центры]Experiencer в запарке.
+  - |
+       А для мня в запарке важно, чтобы рядом был [надежный человек]Participant.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] запарке]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] обижайся, [conj [nsubj я] [advmod немного] [case в] запарке], [conj возникли [nsubj [amod непредвиденные] обстоятельства]], [conj [nsubj дел] много].]'
+equivalents:
+  - english: |
+       X is slammed
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+      - type: Circumstances
+family:
+  - |
+    ""

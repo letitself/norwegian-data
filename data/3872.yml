@@ -1,0 +1,49 @@
+---
+record: 3872
+name: 'россыпь NP-Gen'
+UD_name: ''
+illustration: 'Мы стояли у окна, смотрели на россыпь огней внизу и что-то пели негромко.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Под крестами лежала целая россыпь [монет]Set.
+  - |
+       В плотных шторах появились россыпи [дыр]Set от крупной охотничьей дроби.
+  - |
+       А за шоссе начиналась частая россыпь [незабудок]Set, бурная речка...
+  - |
+       На рассвете я стоял на берегу и смотрел через Волгу на далекую россыпь [домов]Set.
+  - |
+       Не замечая россыпи [осколков]Set под ногами, Ваня подошёл к окну.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep россыпь [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] стояли [obl [case у] окна], [conj смотрели [obl [case на] россыпь [nmod огней] [advmod внизу]] [conj [cc и] [obj что-то] пели [advmod негромко]]].]'
+comment: |
+    'Совокупность (неодушевленных) объектов, покрывающую собой большую плоскость. См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

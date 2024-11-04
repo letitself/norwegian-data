@@ -1,0 +1,54 @@
+---
+record: 3463
+name: 'VP по долгу NP-Gen'
+UD_name: ''
+illustration: 'Всё-таки бегать по долгу службы положено мне.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Есть специально обученные люди, которые [должны это делать]Activity по долгу [службы]Cause.
+  - |
+       Некоторые стихи были ему знакомы со школы, но тогда он [читал]Activity их только по долгу [учёбы]Cause.
+  - |
+       А я по долгу [дружбы]Cause [бегу]Action к Ивану, чтобы его порадовать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] долгу [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [csubj [advmod Всё-таки] бегать [obl [case по] долгу [nmod службы]]] положено [iobj мне].]'
+comment: |
+    'См. близкую конструкцию 1261.'
+equivalents:
+  - english: |
+       as X obliges/from a sense of obligation (to act in a certain way)
+common_fillers:
+  - службы
+  - работы
+  - чести
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

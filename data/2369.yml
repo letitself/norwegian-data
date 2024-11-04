@@ -1,0 +1,54 @@
+---
+record: 2369
+name: 'VP без лишних слов'
+UD_name: ''
+illustration: 'Но погружённый в чтение Тимур без лишних слов отослал её.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Павел без лишних слов [сунул чемодан в багажник]Action и [сел на пассажирское место]Action.
+  - |
+       Воспитание ― это банальная бытовая штука, которую [делают]Action каждый день без лишних слов.
+  - |
+       Он правильно понял ситуацию и без лишних слов [стал предпринимать необходимые действия]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] [amod лишних] слов]]'
+dependency_structure_of_illustration:
+  - '[root [cc Но] [acl погружённый [obl [case в] чтение]] [nsubj Тимур] [obl [case без] [amod лишних] слов] отослал [obj её].]'
+equivalents:
+  - english: |
+       without further ado
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

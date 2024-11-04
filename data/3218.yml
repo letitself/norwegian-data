@@ -1,0 +1,51 @@
+---
+record: 3218
+name: 'малая толика NP-Gen'
+UD_name: ''
+illustration: 'Всё это лишь малая толика многообразия форм и методов обучения.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Не факт, что они смогут выполнить хотя бы малую толику того, что было запланировано.
+  - |
+       Эти картины – лишь малая толика королевской коллекции.
+  - |
+       Эта церковь вмещала лишь малую толику народа.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [amod малая] толика [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det всё] это] [advmod лишь] [amod малая] толика [nmod многообразия [nmod форм [conj [cc и] методов] [nmod обучения]]].]'
+equivalents:
+  - english: |
+       scintilla
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

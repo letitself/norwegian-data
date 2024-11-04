@@ -1,0 +1,57 @@
+---
+record: 3596
+name: 'не мочь (себе) представить NP-Acc/чтобы Cl'
+UD_name: ''
+illustration: 'Петров не мог представить, что так великолепно может нарисовать живой человек.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Что будет через год или два]Situation, я не могу даже представить.
+  - |
+       Ты не можешь себе представить, [как твое письмо меня обрадовало]Situation.
+  - |
+       Аля уже не могла представить, что [этого дара могло и не быть]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] мочь [xcomp [iobj себе] представить [obj NP-Acc]]]'
+  - '[root [advmod не] мочь [xcomp [iobj себе] представить, [ccomp [mark чтобы] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петров] [advmod не] мог [xcomp представить, [ccomp [mark что] [advmod [advmod так] великолепно] может [xcomp нарисовать] [nsubj [amod живой] человек]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X couldn't imagine Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

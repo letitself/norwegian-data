@@ -1,0 +1,51 @@
+---
+record: 3816
+name: 'VP к чёрту на кулички/рога'
+UD_name: ''
+illustration: 'Пришлось потом ехать куда-то к черту на куличики, писать заявление.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Меня [отправили]Action к черту на куличики, я был недоволен.
+  - |
+       [Уехал]Action бы к чертовой матери, к черту на рога — только бы вон из этой страны», — отметил он.
+  - |
+       Теперь он не ленится вставать в воскресенье в семь утра и [ехать на репетицию]Action к черту на рога.
+  - |
+       Журналисты к чёрту на рога [залезут]Action, лишь бы быть первыми, кто сделает репортаж.
+  - |
+       Чё-т подумал ― это их надо заказывать целую пачку, да [ехать]Action куда-то к чёрту на рога, чтоб получить…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case к] чёрту [nmod [case на] кулички]]]'
+  - '[root VP [obl [case к] чёрту [nmod [case на] рога]]]'
+dependency_structure_of_illustration:
+  - '[root Пришлось [advmod потом] [csubj ехать [advmod куда-то] [obl [case к] черту] [obl [case на] куличики], [parataxis писать [obj заявление]]]].'
+equivalents:
+common_fillers:
+  - уехать
+  - ехать
+  - отправиться
+references:
+  - |
+    Баранов, Добровольский 2035
+semantic_types:
+family:
+  - |
+    ""

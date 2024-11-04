@@ -1,0 +1,48 @@
+---
+record: 3732
+name: 'VP через край'
+UD_name: ''
+illustration: 'Ты, Олег, правда хватил через край.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Юноша убедил ее, что она [хватила]Action через край в своих предположениях.
+  - |
+       В погоне за сенсацией, он [хватил]Action через край.
+  - |
+       Ужас, заполнивший сердце, [переползал]Action через край, мешая дышать и леденя пальцы.
+  - |
+       Его эмоции [льются]Activity через край.
+  - |
+       Энергии в ней [было]State через край.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case через] край]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты, [parataxis Олег]], [advmod правда] хватил [obl [case через] край].]'
+equivalents:
+common_fillers:
+  - хватить
+references:
+  - |
+    Баранов, Добровольский 2012
+semantic_types:
+family:
+  - |
+    ""

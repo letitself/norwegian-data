@@ -1,0 +1,50 @@
+---
+record: 3709
+name: 'VP за кулисы'
+UD_name: ''
+illustration: 'Она пошла с её ребенком за кулисы.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Сразу после окончания концерта я [побежал]Action за кулисы.
+  - |
+       Вы [попадаете]Event за кулисы и видите, как они готовятся, как у них что-то не получается или получается с ошибками.
+  - |
+       У зрителей есть уникальная возможность [заглянуть]Action за кулисы легендарного концерта.
+  - |
+       Собака постоянно убегала и однажды [рванула]Action за кулисы.
+  - |
+       Я попросил Авербаха [пригласить]Action Алексея Андреевича ко мне за кулисы после представления.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] кулисы]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] пошла [obl [case с] [det её] ребенком] [obl [case за] кулисы].]'
+comment: |
+    'См. также 2598 VP за кулисами (NP-Gen) - За кулисами следствия и в ходе суда действовали и личные мотивы и факторы церковной политики'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

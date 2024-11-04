@@ -1,0 +1,52 @@
+---
+record: 3615
+name: 'NP/VP под командованием NP-Gen'
+UD_name: ''
+illustration: 'Белая армия под командованием Колчака подступала к Уфе.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Флот]Causee под командованием [Орлова]Causer [одержал победу над численно превосходящим противником]Event.
+  - |
+       С запада [двигалась]Action [группировка]Causee под командованием [генерала Шаманова]Causer, с востока [группировка]Causee под командованием [генерала Трошева]Causer.
+  - |
+       [Испанские корабли]Causee под командованием [Христофора Колумба]Causer [прокладывают путь к Америке]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phras
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case под] командованием [nmod NP-Gen]]]'
+  - '[root VP [nmod [case под] командованием [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Белая] армия [nmod [case под] командованием [nmod Колчака]]] подступала [obl [case к] Уфе].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       under the command
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

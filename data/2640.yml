@@ -1,0 +1,50 @@
+---
+record: 2640
+name: 'VP на (свежем) воздухе'
+UD_name: ''
+illustration: 'Ели за одним столом, курили на воздухе, таскались по больничному парку'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Действительно: в доме [было гораздо холоднее]Evaluation, чем на воздухе.
+  - |
+       После завтрака нам было объявлено, что поезд дальше не пойдёт, так как дождями размыло путь, и рельсы [висят]State на воздухе.
+  - |
+       Маша, вели всё сюда подать. Мы станем [ужинать]Activity на воздухе. Тут музыка слышнее.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] воздухе]]'
+  - '[root VP [obl [case на] [amod свежем] воздухе]]'
+dependency_structure_of_illustration:
+  - '[root Ели [obl [case за] [nummod одним] столом], [conj курили [obl [case на] воздухе]], [conj таскались [obl [case по] [amod больничному] парку]]]'
+equivalents:
+  - english: |
+       outside
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

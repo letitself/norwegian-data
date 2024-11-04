@@ -1,0 +1,50 @@
+---
+record: 3987
+name: 'VP-Inf/NP-Nom — это не моя епархия'
+UD_name: ''
+illustration: 'Математика - это не моя епархия.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Осуждать людей разумных]Theme не [моя]Possessor епархия.
+  - |
+       Но в любом случае [финансово-медицинские интриги]Theme — не [его]Possessor епархия.
+  - |
+       С военными сложно, там черт ногу сломит в их делах... [Это]Theme вообще не [наша]Possessor епархия.
+  - |
+       [Литературоведение]Theme — не [моя]Possessor епархия, поэтому рискну высказать всего лишь одно соображение, основанное на наших с ним неоднократных разговорах.
+  - |
+       Повторяю, персонал у нас смешанный, работа у них трудная, работают они хорошо, но, когда они остаются наедине, — всё, мы закрываем глаза, [это]Theme не [наша]Possessor епархия.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root [nsubj VP-Inf] - [expl это] [det [advmod не] моя] епархия]'
+  - '[root [nsubj NP-Nom] - [expl это] [det [advmod не] моя] епархия]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Математика] - [expl это] [det [advmod не] моя] епархия.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

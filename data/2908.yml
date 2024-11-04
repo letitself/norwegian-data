@@ -1,0 +1,50 @@
+---
+record: 2908
+name: 'VP с тяжёлым сердцем'
+UD_name: ''
+illustration: 'Илья ехал в академию с тяжелым сердцем.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       С тяжёлым сердцем я должен [признаться,]Action что все мои усилия пропали даром.
+  - |
+       С тяжелым сердцем [отправился]Action я к дантисту и попросил снять золотую коронку.
+  - |
+       Поверьте, что [делаю это]Activity с тяжелым сердцем, ибо хорошо понимаю, как Вы сейчас дорожите каждым часом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] [amod тяжелым] сердцем]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with a heavy heart
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

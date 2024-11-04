@@ -1,0 +1,52 @@
+---
+record: 3047
+name: 'VP на широкую ногу/руку'
+UD_name: ''
+illustration: 'Вилли любил жить на широкую ногу и купаться в роскоши.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Правительство Москвы приняло решение о том, чтобы не [отмечать День города]Activity на широкую ногу.
+  - |
+       Реклама была [поставлена]Action на широкую ногу.
+  - |
+       Видно, что здесь когда-то [жил]Activity русский боярин на широкую руку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod широкую] ногу]]'
+  - '[root VP [obl [case на] [amod широкую] руку]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Measure
+    subtypes:
+      - type: Money
+family:
+  - |
+    ""

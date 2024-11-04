@@ -1,0 +1,54 @@
+---
+record: 2659
+name: 'VP на голом энтузиазме'
+UD_name: ''
+illustration: 'Денег за эту работу никто не получал, это даже и в голову никому не приходило ― все строилось на голом энтузиазме'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Мы готовы и на голом энтузиазме [работать]Activity, ведь для себя же стараемся!
+  - |
+       Успехов достигали лишь подлинные энтузиасты, а на голом энтузиазме долго [не продержишься]Action.
+  - |
+       После 1993-го власть и капитал позволили всем несогласным с ними издавать несколько газет и разрешили на голом энтузиазме [создавать партии с правом участия в выборах]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod голом] энтузиазме]]'
+dependency_structure_of_illustration:
+  - '[root [obj Денег] [obl [case за] [det эту] работу] [nsubj никто] [advmod не] получал, [conj [nsubj это] [advmod даже] [advmod и] [obl [case в] голову] [iobj никому] [advmod не] приходило] ― [conj [nsubj все] строилось [obl [case на] [amod голом] энтузиазме]]]'
+equivalents:
+  - english: |
+       on just enthusiasm
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Condition
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

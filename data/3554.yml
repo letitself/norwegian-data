@@ -1,0 +1,54 @@
+---
+record: 3554
+name: 'NP-Nom уж лучше VP-Fut'
+UD_name: ''
+illustration: 'Я уж лучше здесь постою.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Мы]Agent уж лучше [помолчим]Action.
+  - |
+       [Я]Agent уж лучше [посижу за городом]Action, зато на свежем воздухе.
+  - |
+       Нет, [я]Agent уж лучше [зайду в магазин ― куплю литературу посерьезней]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod [advmod уж] лучше] VP-Fut]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod [advmod уж] лучше] [advmod здесь] постою.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X better do Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

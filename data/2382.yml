@@ -1,0 +1,51 @@
+---
+record: 2382
+name: 'VP без просыпа/просыпу'
+UD_name: ''
+illustration: 'Отоспался с ужина до утра без просыпу, бодр и полон сил для решительной драки за справедливость во всем этом мире.'
+cefr_level: С2
+definitions:
+examples:
+  - |
+       [Пил]Activity он без просыпу, родственник ваш, и бродил неизвестно где!
+  - |
+       Лариса ― аккуратная, собранная девочка, учится на вечернем отделении, днями [читает]Activity без просыпу.
+  - |
+       В такие дни Тамара много курила и [спала]Activity без просыпу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] просыпа]]'
+  - '[root VP [obl [case без] просыпу]]'
+dependency_structure_of_illustration:
+  - '[root Отоспался [obl [case с] ужина] [obl [case до] утра] [obl [case без] просыпу], [conj бодр] [conj [cc и] полон [nmod сил [obl [case для] [amod решительной] драки [nmod [case за] справедливость [obl [case во] [det всем] [det этом] мире]]]]].]'
+equivalents:
+  - english: |
+       X sleeps like a baby
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    ""

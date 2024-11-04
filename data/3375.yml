@@ -1,0 +1,49 @@
+---
+record: 3375
+name: 'VP со всей душой (к NP-Dat)'
+UD_name: ''
+illustration: 'Когда путешествуешь, путешествуй со всей душой.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Так что иногда дети всю жизнь помнят и любят своих учителей, если те к [ним]Participant со всей душой.
+  - |
+       "Куда бы ты ни шел, [иди]Action со всей душой", - говорил Конфуций.
+  - |
+       Если вы выбрали эту профессию, то вы должны [оставаться]State в ней со всей душой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [det всей] душой]]'
+  - '[root VP [obl [case со] [det всей] душой] [obl [case к] NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Когда] путешествуешь], путешествуй [obl [case со] [det всей] душой].]'
+equivalents:
+  - english: |
+       with all X
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+family:
+  - |
+    ""

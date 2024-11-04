@@ -1,0 +1,58 @@
+---
+record: 3106
+name: 'NP-Nom (тут) (не) в игры/игрушки играть'
+UD_name: ''
+illustration: 'Будь серьёзнее, мы тут не в игрушки играем!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Дело серьезное. Ты понимаешь, что [мы]Agent тут не в игрушки играем…
+  - |
+       [Мы]Agent пришли сюда деньги зарабатывать, а не в игры играть.
+  - |
+       [Он]Agent как ребенок был, все в игрушки играл, несмотря на возраст и солидность положения.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod тут] [obl [advmod не] [case в] игрушки] играем]'
+  - '[root [nsubj NP-Nom] [advmod тут] [obl [advmod не] [case в] игры] играем]'
+  - '[root [nsubj NP-Nom] [obl [advmod не] [case в] игрушки] играем]'
+  - '[root [nsubj NP-Nom [obl [advmod не] [case в] игры играем]]]'
+  - '[root [nsubj NP-Nom] [advmod тут] [obl [case в] игрушки] играем]'
+  - '[root [nsubj NP-Nom] [advmod тут] [obl [case в] игры] играем]'
+  - '[root [nsubj NP-Nom] [obl [case в] игрушки] играем]'
+  - '[root [nsubj NP-Nom] [obl [case в] игры] играем]'
+dependency_structure_of_illustration:
+  - '[root [cop Будь] серьёзнее, [conj [nsubj мы] [advmod тут] [obl [advmod не] [case в] игрушки] играем].]'
+equivalents:
+  - english: |
+       to fiddle with X’s time
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Personality
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

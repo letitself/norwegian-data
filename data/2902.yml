@@ -1,0 +1,51 @@
+---
+record: 2902
+name: 'VP с размаху/ размаха'
+UD_name: ''
+illustration: 'Она с размаху столкнула всё, что было на столе.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он сообразил, что его кто-то уже в третий или четвертый раз с размаху [хлопает по плечу]Action.
+  - |
+       Он отступил, закусил губу и с размаху [пнул дверь ногой]Action.
+  - |
+       Не долго думая, он отходит на три шага назад и с размаха [вышибает дубовую дверь]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] размаху]]'
+  - '[root VP [obl [case с] размаха]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with all might
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

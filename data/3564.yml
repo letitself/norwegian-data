@@ -1,0 +1,61 @@
+---
+record: 3564
+name: 'Надо же быть таким NP-Ins/AdjP-Ins'
+UD_name: ''
+illustration: 'Надо же быть таким идиотом ― испортить себе такой чудесный денек!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Вы же меня погубите… Ну надо же быть таким [наглецом]Evaluation!
+  - |
+       Надо же быть таким [дураком]Evaluation, чтобы не замечать ничего…
+  - |
+       Это надо же быть таким [некомпетентным]Evaluation, чтобы заставлять нас работать в таких условиях!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Verb
+  - Particle
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root Надо [advmod же] [csubj [cop быть] [det таким] NP-Ins]]'
+  - '[root Надо [advmod же] [csubj [cop быть] [det таким] AdjP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root Надо [advmod же] [csubj [cop быть] [det таким] идиотом ― [conj испортить [iobj себе] [obj [det такой] [amod чудесный] денек]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Why X have to be so Y
+common_fillers:
+  - дураком
+  - идиотом
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+  - type: Salient property
+    subtypes:
+      - type: Personality
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3820
+name: '(на NP-Acc) без слёз не взглянешь'
+UD_name: ''
+illustration: 'На косметический ремонт тоже без слез не взглянешь.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Но вот [на их художественные проекты]Stimulus без слез не взглянешь, и это очень грустно.
+  - |
+       Тут без экономии не обойтись, иначе [на жировку]Stimulus без слез не взглянешь.
+  - |
+       [Шкет, невысокого роста, дрищ худощавый]Stimulus, без слез не взглянешь, воспитывался бабушкой, пока отец с матерью устраивали свои жизни.
+  - |
+       Я видела [здешних Йорков]Stimulus местной плодильни ― без слез не взглянешь.
+  - |
+       Ну да, [на эти смотры]Stimulus без слёз не взглянешь
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case на] NP-Acc] [obl [case без] слёз] [advmod не] взглянешь]'
+  - '[root [obl [case без] слёз] [advmod не] взглянешь]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] [amod косметический] ремонт] [advmod тоже] [obl [case без] слез] [advmod не] взглянешь].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2039
+semantic_types:
+family:
+  - |
+    ""

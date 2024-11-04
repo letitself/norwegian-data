@@ -1,0 +1,52 @@
+---
+record: 2914
+name: 'VP с ходу'
+UD_name: ''
+illustration: 'Я никогда не был талантливым пловцом, у которого всё с ходу получалось.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Самое ценное в яхте ― руль и якорь, ― [сообщил]Action с ходу Столяров.
+  - |
+       Такое ощущение, что он [понимает тебя]State с ходу.
+  - |
+       Лидеров оппозиции трудно с ходу [назвать маргиналами]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] ходу]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       right away
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

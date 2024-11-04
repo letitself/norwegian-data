@@ -1,0 +1,60 @@
+---
+record: 3562
+name: 'NP-Nom не стоить того, чтобы VP'
+UD_name: ''
+illustration: 'Эти люди не стоили того, чтобы из-за них бросить работу.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Борис]Cause не стоит того, чтобы [так расстраиваться]Situation.
+  - |
+       [Всякая работа, которую может исполнять машина]Cause, не стоит того, чтобы [ею занимались люди]Situation.
+  - |
+       [Бренды]Cause не стоят того, чтобы [за них переплачивать]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation marker
+  - Verb
+  - Pronoun
+  - conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] стоить [obl того'
+  - '[advcl [mark чтобы] VP]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эти] люди] [advmod не] стоили [obl того, [advcl [mark чтобы] [obl [case из-за] них] бросить [obj работу]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X doesn't worth Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

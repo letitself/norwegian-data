@@ -1,0 +1,61 @@
+---
+record: 3494
+name: '(NP-Dat) VP-Inf больше нечего'
+UD_name: ''
+illustration: 'Но мне там делать больше нечего: скучно, газеты закрываются, работы нет.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Но надо же, черт возьми, бороться! [Ждать]Activity точно больше нечего.
+  - |
+       У нас ему в принципе и [делать]Activity больше нечего.
+  - |
+       Она уже знала, что опять должна бежать и прятаться, не знала только, что беременна и что ей больше нечего [бояться]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Verb
+  - Adverb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [csubj VP-Inf] [advmod больше] нечего]'
+  - '[root [csubj VP-Inf] [advmod больше] нечего]'
+dependency_structure_of_illustration:
+  - '[root [cc Но] [iobj мне] [csubj [advmod там] делать] [advmod больше] нечего: [parataxis скучно, [conj [nsubj газеты] закрываются], [conj [nsubj работы] нет]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       P, nothing else to do
+common_fillers:
+  - делать
+  - бояться
+  - терять
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 3473
+name: 'VP/NP от рук(и) NP-Gen'
+UD_name: ''
+illustration: 'Только за 2002 год от рук преступников пострадали не менее 200 тысяч наших сограждан.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Мать случайно погибла]Situation от руки [дочери]Agent, которую она не стала отдавать в психбольницу.
+  - |
+       От рук [партнера]Agent [в год погибает несколько тысяч женщин]Situation.
+  - |
+       Еще одним совпадением, к сожалению, трагическим, в судьбах Александра II и Линкольна стала [гибель обоих]Situation от рук [террористов]Agent.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] рук [nmod NP-Gen]]]'
+  - '[root VP [obl [case от] руки [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case от] рук [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case от] руки [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [advmod Только] [case за] [amod 2002] год] [obl [case от] рук [nmod преступников]] пострадали [nsubj [advmod не] менее [obl [nummod [nummod 200] тысяч] [det наших] сограждан]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       at the hands of X
+common_fillers:
+  - погибнуть
+  - гибнуть
+  - пасть
+  - пострадать
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

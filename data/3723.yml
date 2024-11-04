@@ -1,0 +1,50 @@
+---
+record: 3723
+name: 'от NP (и) до NP'
+UD_name: ''
+illustration: 'Он прочёл книгу от корки до корки'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Да и сам парк был настолько огромен, что не хватило бы и дня, чтобы пройти от [края]Source до [края]Goal.
+  - |
+       Ребенок, по крайней мере, проспал все полтора часа от [дома]Source до [дома]Goal.
+  - |
+       Горло у наркобарона было перерезано от [уха]Source до [уха]Goal.
+  - |
+       Они её прочитали от [корки]Source и до [корки]Goal, назадавали мне кучу вопросов.
+  - |
+       Как всегда, вся жизнь у нас от [концерта]Event до [концерта]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep [case от] NP [conj [case до] NP]]'
+  - '[dep [case от] NP [conj [cc и] [case до] NP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] прочёл [obj книгу] [obl [case от] корки [conj [case до] корки]]]'
+equivalents:
+common_fillers:
+  - корка
+  - край
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

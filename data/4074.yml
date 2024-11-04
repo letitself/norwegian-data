@@ -1,0 +1,49 @@
+---
+record: 4074
+name: 'NP-Nom не Cop бум-бум в NP-Prep/по--Adj-cки'
+UD_name: ''
+illustration: 'Помогите, пожалуйста, разобраться, просто я в этом не бум-бум!'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       [Они]Cognizer в [технике]Parameter не бум-бум.
+  - |
+       [Персонал]Cognizer [по Русски]Parameter не бум-бум и объясняться с ним тяжело.
+  - |
+       В [фотошопе]Topic [он]Cognizer не бум-бум.
+  - |
+       Подавляющее количество новых сайтов создаются людьми, [которые]Cognizer мягко говоря «не бум-бум» в [интернете]Parameter.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Onomatopoeia
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] [cop Cop] бум-[compound бум] [obl [case в] NP-Prep]]'
+  - '[root [nsubj NP-Nom] [advmod не] Cop бум-[compound бум] [advmod по--Adj-cки]]'
+dependency_structure_of_illustration:
+  - '[root Помогите, [parataxis пожалуйста], [xcomp разобраться], [conj [advmod просто] [nsubj я] [obl [case в] этом] [advmod не] бум-[compound бум]]!]'
+comment: |
+    'См. также синонимичные конструкции 4073, 4075-4079'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 4037
+name: 'NP VP независимо от NP-Gen'
+UD_name: ''
+illustration: 'Лечение проводится в больнице, независимо от возраста пациента.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Все, кому интересна музыка, независимо от [возраста]Concession, всегда были в курсе последних новостей.
+  - |
+       Все умные гаджеты, независимо от [их количества]Concession, должны работать как единый механизм.
+  - |
+       Прибор дает техникам возможность быстро выполнить несколько тестов, независимо от [диапазона частот]Concession.
+  - |
+       Эта процедура действует для всех устройств независимо от [их производителей]Concession.
+  - |
+       Слово нужно уметь держать независимо от [принадлежности к полу]Concession!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Adverb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] VP [advmod независимо [obl [case от] NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass Лечение] проводится [obl [case в] больнице], [advmod независимо [obl [case от] возраста [nmod пациента]]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

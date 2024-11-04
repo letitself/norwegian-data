@@ -1,0 +1,48 @@
+---
+record: 2592
+name: 'VP за длинным рублем'
+UD_name: ''
+illustration: 'Многие выступавшие утверждали, что пошли в бизнес не за длинным рублём, а от безысходности, так как найти должность по специальности невозможно'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Году в тридцать пятом или тридцать шестом он [уехал на север]Action за длинным рублем.
+  - |
+       [Посылали нас]Action вроде бы за «длинным рублем», но без копейки в кармане.
+  - |
+       В годы «научного бума» дед говорил, что следовало бы понизить оклады научным сотрудникам, дабы всякие проходимцы не [лезли в науку]Action за «длинным рублем».
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] [amod длинным] рублем]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Многие] выступавшие] утверждали, [ccomp [mark что] пошли [obl [case в] бизнес] [obl [advmod не] [case за] [amod длинным] рублём, [conj [cc а] [case от] безысходности]], [advcl [mark так [fixed как]] [csubj найти [obj должность [nmod [case по] специальности]]] невозможно]]]'
+equivalents:
+  - english: |
+       for money
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

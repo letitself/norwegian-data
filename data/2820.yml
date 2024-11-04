@@ -1,0 +1,53 @@
+---
+record: 2820
+name: 'VP по наклонной (плоскости)'
+UD_name: ''
+illustration: 'Не выдержав напряжения жизни, он скатился по наклонной ― от херувима к хулигану'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Год за годом семья Кареловых тоже [двигалась]Activity по наклонной ― только не вниз, а вверх.
+  - |
+       Металлический шар медленно [катится]Activity по наклонной поверхности, пока не достигнет конца зигзагообразной дорожки.
+  - |
+       О том, что любимый младший сыночек [катится]Activity по наклонной плоскости, Оксана Киселева узнала от болтливых соседок.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] наклонной]'
+  - '[root VP [obl [case по] [amod наклонной] плоскости]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       downward spiral
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Gradual development
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

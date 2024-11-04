@@ -1,0 +1,53 @@
+---
+record: 3781
+name: 'NP/VP на честном слове'
+UD_name: ''
+illustration: 'Вести дела на честном слове.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       В таких условиях и не разберешься, на клей там что прикреплено, или [сидит]State на честном слове.
+  - |
+       У него в квартире всё [держится] на честном слове.
+  - |
+       У проектов Пугашкина бюджета как такового нет, и [делаются]Action они на честном слове, на энтузиазме, на нервах и крови.
+  - |
+       [Всё]Theme на честном слове, нет культуры официальной переписки.
+  - |
+       У проектов Пугашкина бюджета как такового нет, и [делаются]Action они на честном слове, на энтузиазме, на нервах и крови.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на][amod честном] слове]]'
+  - '[dep NP [nmod [case на][amod честном] слове]]'
+dependency_structure_of_illustration:
+  - '[root Вести [obj дела] [obl [case на] [amod честном] слове]].'
+equivalents:
+common_fillers:
+  - вытянуть
+  - дела
+  - вести
+  - работать
+references:
+  - |
+    Баранов, Добровольский 2049
+semantic_types:
+family:
+  - |
+    ""

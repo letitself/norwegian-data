@@ -1,0 +1,50 @@
+---
+record: 3682
+name: 'VP (да) и был таков'
+UD_name: ''
+illustration: 'Кот схватил кусок мяса и был таков.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Я заметил свободное такси, [прыгнул]Action в машину и был таков.
+  - |
+       Кошка запрыгнула на стол, [схватила]Action рыбу и была такова.
+  - |
+       Царь [сел]Action на корабль да и был таков.
+  - |
+       Рыба [сорвалась]Action с крючка и была такова!
+  - |
+       Новенький пробыл с нами всего лишь месяц, [прошёл]Action один курс и был таков.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [conj [cc да [fixed и]] [cop был] таков]]'
+  - '[root VP [conj [cc и] [cop был] таков]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Кот] схватил [obj кусок [nmod мяса]] [conj [cc и] [cop был] таков].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

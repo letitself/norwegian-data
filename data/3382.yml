@@ -1,0 +1,53 @@
+---
+record: 3382
+name: 'VP/ Cop горой/стеной за NP-Acc/на защиту NP-Gen'
+UD_name: ''
+illustration: 'Необходимо было стать стеной за Родину свою.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Собачники [встали]Action стеной за [братьев меньших,]Patient напоминая о принципах гуманности.
+  - |
+       Стараниями СМИ сложилось мнение, что казаки стеной за [принятие законопроекта.]Patient
+  - |
+       Смотрю, процентов семьдесят уже стеной за [Чубайса.]Patient
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl стеной] [obl [case за] NP-Acc]]'
+  - '[root VP [obl стеной] [obl [case на] защиту [nmod NP-Gen]]]'
+  - '[root [cop Cop] стеной [obl [case за] NP-Acc]]'
+  - '[root [cop Cop] стеной [obl [case на] защиту [nmod NP-Gen]]]'
+  - '[root VP [obl горой] [obl [case за] NP-Acc]]'
+  - '[root VP [obl горой] [obl [case на] защиту [nmod NP-Gen]]]'
+  - '[root [cop Cop] горой [obl [case за] NP-Acc]]'
+  - '[root [cop Cop] горой [obl [case на] защиту [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root Необходимо [cop было] [csubj стать [obl стеной] [obl [case за] Родину [det свою]]].]'
+equivalents:
+  - english: |
+       table groans
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

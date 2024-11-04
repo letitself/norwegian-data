@@ -1,0 +1,54 @@
+---
+record: 3238
+name: 'NP-Nom (NP-Dat/для NP-Gen) Cop на один зуб/зубок'
+UD_name: ''
+illustration: 'Двери в подземелья не стальные, а деревянные ― крысе, как говорится, на один зуб.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Он оливье прямо из салатницы ест, потому что тарелка для него ― это так, на один зуб!
+  - |
+       Плывущие рядом с белой акулой белобокий дельфин с дельфиненком как раз ей на один зубок.
+  - |
+       В глухих амазонских чащах водятся чудовищные анаконды, достигающие 20 метров, ― им и дядька Шварценеггер на один зубок.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] [case на] [nummod один] зуб]'
+  - '[root [nsubj NP-Nom] [obl [case для] NP-Gen] [cop Cop] [case на] [nummod один] зуб]'
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] [case на] [nummod один] зубок]'
+  - '[root [nsubj NP-Nom] [obl [case для] NP-Gen] [cop Cop] [case на] [nummod один] зубок]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Двери [nmod [case в] подземелья]] [advmod не] стальные, [conj [cc а] деревянные ― [conj [iobj крысе], [parataxis [advmod как] говорится], [case на] [nummod один] зуб]].]'
+equivalents:
+  - english: |
+       barely a mouthful
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

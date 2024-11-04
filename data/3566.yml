@@ -1,0 +1,56 @@
+---
+record: 3566
+name: '(даже) не верится, что Cl'
+UD_name: ''
+illustration: '— Честно скажу: даже не верится, что мне улыбнулась такая удача.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Что-то не верится, что [ты по мне так соскучилась]Situation.
+  - |
+       ― Даже не верится, что [скоро Новый год]Situation, ― сказал я.
+  - |
+       Просто не верится, что [всё так просто]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [advmod не] верится, [ccomp [mark что] Cl]]'
+  - '[root [advmod [advmod даже] не] верится, [ccomp [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root — [advmod честно] скажу: [ccomp [advmod [advmod даже] не] верится, [ccomp [mark что] [iobj мне] улыбнулась [nsubj [det такая] удача]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X can't believe that Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

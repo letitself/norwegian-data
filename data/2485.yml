@@ -1,0 +1,52 @@
+---
+record: 2485
+name: 'VP/NP-Nom Cop вне закона'
+UD_name: ''
+illustration: 'Не хотелось бы дожить до времен, когда ее объявят вне закона'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       На другой день [я со своими детьми]Theme уже была вне закона.
+  - |
+       Если люди приезжают незаконно, это уже их [ставит]Action вне закона, что подталкивает на противозаконные действия.
+  - |
+       Вне закона объявляются [нюхательный и жевательный табак]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case вне] закона]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case вне] закона]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] хотелось [aux бы] [xcomp дожить [obl [case до] времен, [acl [mark когда] [obj ее] объявят [obl [case вне] закона]]]].]'
+equivalents:
+  - english: |
+       outlawed
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

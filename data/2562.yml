@@ -1,0 +1,51 @@
+---
+record: 2562
+name: 'VP как на духу'
+UD_name: ''
+illustration: 'Петя выпалил всё как на духу.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Скажи честно ― помнишь или не помнишь? ― [Все помню]Action как на духу.
+  - |
+       Теперь [скажи]Action мне как на духу: причастен ты к этому убийству?
+  - |
+       И [признаюсь вам]Action, как на духу, я патриот.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] [case на] духу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петя] выпалил [obj всё] [obl [mark как] [case на] духу].]'
+equivalents:
+  - english: |
+       speak X’s mind
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Manner
+family:
+  - |
+    ""

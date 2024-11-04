@@ -1,0 +1,55 @@
+---
+record: 3086
+name: 'NP битком набит(ый) (NP-Ins)'
+UD_name: ''
+illustration: 'Я ехал в битком набитом троллейбусе'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Шкаф]Theme был битком набит книгами.
+  - |
+       Вдруг мимо нас проехала [машина,]Theme битком набитая парнями и девушками.
+  - |
+       Помню эту тесную, битком набитую [комнату.]Theme
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] [cop Cop] [advmod битком] набит]'
+  - '[root [nsubj NP] [cop Cop] [advmod битком] набитый]'
+  - '[root [nsubj NP] [cop Cop] [advmod битком] набит [obl NP-Ins]]'
+  - '[root [nsubj NP] [cop Cop] [advmod битком] набитый [obl NP-Ins]]'
+  - '[dep NP [acl [advmod битком] набитый]]'
+  - '[dep NP [acl [advmod битком] набит]]'
+  - '[dep NP [acl [advmod битком] набитый [obl NP-Ins]]]'
+  - '[dep NP [acl [advmod битком] набит [obl NP-Ins]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] ехал [obl [case в] [acl [advmod битком] набитом] троллейбусе]]'
+equivalents:
+  - english: |
+       teeming
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

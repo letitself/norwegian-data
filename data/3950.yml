@@ -1,0 +1,52 @@
+---
+record: 3950
+name: 'фиг/чёрт/хрен с NP-Instr'
+UD_name: ''
+illustration: 'Я порвал свою куртку, ну и чёрт с ней, зато живой!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ну и черт с [тобой]Topic! ― обиделся агитатор.
+  - |
+       Как говорится, сдох Максим, да и хрен с [ним]Topic.
+  - |
+       Ладно, черт с [ним]Topic, забирайте, только уж чтобы разговор закончить!
+  - |
+       Ладно бы КПСС разогнали, черт с [ней, с этой КПСС]Topic!
+  - |
+       Руку смотри как разодрал. ― Хрен с [рукой]Topic, смотри что с рожей.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[parataxis фиг [nmod [case с] NP-Instr]]'
+  - '[parataxis чёрт [nmod [case с] NP-Instr]]'
+  - '[parataxis хрен [nmod [case с] NP-Instr]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] порвал [obj [det свою] куртку], [parataxis [discourse ну] [cc и] чёрт [nmod [case с] ней]], [advcl [mark зато] живой]!]'
+comment: |
+    'Также, помимо слов "фиг" и "хрен", возможны употребления матерных слов аналогичного содержания.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

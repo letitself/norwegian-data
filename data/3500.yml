@@ -1,0 +1,54 @@
+---
+record: 3500
+name: 'XP, если помнишь/помните'
+UD_name: ''
+illustration: 'Я ведь у тебя живу, если помнишь.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Какая, к чёрту, ночь? Солнце светит, не видишь? [У нас тут белых ночей не бывает]Situation, если помнишь!
+  - |
+       Там же половина русских, а вторая половина им сочувствует. А [ты, блин, внук нациста]Situation, если помнишь.
+  - |
+       В Скандинавии экономика это позволяет делать практически безболезненно, чего не скажешь о [России, которая, если помните, "аршином общим не измеряется"]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep XP, [advcl [mark если] помнишь]]'
+  - '[dep XP, [advcl [mark если] помните]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod ведь] [obl [case у] тебя] живу, [advcl [mark если] помнишь].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       if you remember
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Intersubjectivity
+family:
+  - |
+    ""

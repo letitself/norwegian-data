@@ -1,0 +1,53 @@
+---
+record: 2935
+name: 'VP со смаком'
+UD_name: ''
+illustration: 'Мужчины пили честно и со смаком и, похоже, не пьянели.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Неожиданно он как-то очень ловко подхватил одну из девушек за талию и сочно, со смаком [поцеловал]Action.
+  - |
+       Он аппетитно хрустел луком, неторопливо и со смаком [пережевывал пищу]Activity.
+  - |
+       Умение [читать]Activity со смаком и прятаться за книгой у меня наследственное.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] смаком]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with gusto
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

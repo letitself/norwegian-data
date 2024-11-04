@@ -1,0 +1,60 @@
+---
+record: 2653
+name: 'VP/NP-Nom Cop на высоте (положения)'
+UD_name: ''
+illustration: 'А зритель радуется, ему приятно, что люди, которым он отдал свои симпатии, оказались на высоте положения и победили'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Надо признать, Максим приложил максимум усилий, чтобы [оказаться]Result на высоте положения.
+  - |
+       Им нравилось командовать нами, они [себя чувствовали]State на высоте положения.
+  - |
+       По его мнению, ни в смысле организационном, ни политическом лидеры партии [были]State далеко не на высоте положения.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] высоте]]'
+  - '[root VP [obl [case на] высоте [nmod положения]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] высоте]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] высоте [nmod положения]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj зритель] радуется, [conj [iobj ему] приятно, [ccomp [mark что] [nsubj люди, [acl [iobj которым] [nsubj он] отдал [obj [det свои] симпатии]]], оказались [obl [case на] высоте [nmod положения]] [conj [cc и] победили]]]]'
+equivalents:
+  - english: |
+       up to the occasion
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

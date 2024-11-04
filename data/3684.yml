@@ -1,0 +1,49 @@
+---
+record: 3684
+name: 'Cl, короче (говоря) XP'
+UD_name: ''
+illustration: 'Дорогу замело, метель, темно. Короче, ехать сейчас опасно.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Я старался не злить брата, не спорить и не ссориться с ним. Короче говоря, [я обычно уступал ему]Theme.
+  - |
+       Дочь одевается некрасиво — ну и пусть, она уже не ребёнок. Короче, [оставьте её в покое]Theme.
+  - |
+       Нужно помнить, что "поллитрой "в России называют обычно литр или два, короче [столько, сколько нужно, чтоб заставить себя смеяться и плакать одновременно]Theme...
+  - |
+       Художника называли и живым классиком, и экспериментатором — короче говоря, [мастером на все руки]Theme.
+  - |
+       Лицо Яны было правильным, с выразительными, но мягкими чертами, — короче говоря, [она была очень красивой]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Converb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[Cl, [parataxis [parataxis [advmod короче] говоря] XP]]'
+  - '[Cl, [parataxis [parataxis короче] XP]]'
+dependency_structure_of_illustration:
+  - '[root [obj Дорогу] замело, [conj метель], [conj темно].] [root [parataxis Короче], ехать [advmod сейчас] [advmod опасно].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

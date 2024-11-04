@@ -1,0 +1,49 @@
+---
+record: 3359
+name: 'VP с открытой душой'
+UD_name: ''
+illustration: 'Я же к тебе по-родственному, с открытой душой!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Они всегда [встречают гостей]Action с открытой душой.
+  - |
+       [Иду]Action с открытой душой и большими надеждами.
+  - |
+       Это страна, которая [приняла меня]Action с открытой душой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] [amod открытой] душой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod же] [case к] [advmod по-родственному, [conj [case с] [amod открытой] душой]].]'
+equivalents:
+  - english: |
+       discreetly
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

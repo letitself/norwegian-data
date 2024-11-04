@@ -1,0 +1,53 @@
+---
+record: 2610
+name: 'VP/NP за упокой (NP-Gen)'
+UD_name: ''
+illustration: 'Надо за это выпить, говорил я себе, выпить за упокой наших отношений'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       [Тосты]Theme произносятся разве что за упокой [ведомства]Participant.
+  - |
+       Первую рюмку они [выпили]Action, не чокаясь, за упокой [неизвестного профессора]Participant.
+  - |
+       Пожилая женщина за прилавком, приняла [записку]Theme за упокой и подвела под именем Дмитрий черту голубым карандашом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] упокой]]'
+  - '[dep NP [nmod [case за] упокой]]'
+  - '[root VP [obl [case за] упокой [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case за] упокой [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root Надо [csubj [obl [case за] это] выпить], [parataxis говорил [nsubj я] [iobj себе]], [conj выпить [obl [case за] упокой [nmod [det наших] отношений]]]]'
+equivalents:
+  - english: |
+       for the repose
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+family:
+  - |
+    ""

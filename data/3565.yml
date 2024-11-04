@@ -1,0 +1,55 @@
+---
+record: 3565
+name: 'Найти-Pst из-за чего VP-Inf'
+UD_name: ''
+illustration: 'Нашла из-за чего плакать! Ты мне лучше расскажи всё по порядку.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я попытался успокоить его: нашёл из-за чего [волноваться]State!
+  - |
+       Не люблю, когда ноют. Подумаешь, нашёл из-за чего [расстраиваться]State.
+  - |
+       Нашёл из-за чего [переживать]State: что-то не получилось на уроке!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root Найти-Pst [xcomp [obl [case из-за] чего] VP-Inf]!]'
+dependency_structure_of_illustration:
+  - '[root Нашла [xcomp [obl [case из-за] чего] плакать]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Why X have to be so Y
+common_fillers:
+  - волноваться
+  - расстраиваться
+  - плакать
+references:
+  - |
+    
+semantic_types:
+  - type: Mirative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

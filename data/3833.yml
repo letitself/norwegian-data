@@ -1,0 +1,50 @@
+---
+record: 3833
+name: 'не от хорошей жизни VP'
+UD_name: ''
+illustration: 'Не от хорошей жизни он приехал в этот маленький город.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Ворами становятся]Action не от хорошей жизни.
+  - |
+       Не от хорошей жизни [ушли они из родных мест]Action.
+  - |
+       Не от хорошей жизни [взялся я за это рискованное дело]Action.
+  - |
+       [В такси люди]Activity не от хорошей жизни [работают…]Activity
+  - |
+       Не зря говорят, [предпринимателями становятся]Action не от хорошей жизни.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negative Marker
+  - Preposition
+  - Noun
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod не] [obl [case от] [amod хорошей] жизни] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [advmod Не] [case от] [amod хорошей] жизни] [nsubj он] приехал [obl [case в] [det этот] [amod маленький] город]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2030
+semantic_types:
+family:
+  - |
+    ""

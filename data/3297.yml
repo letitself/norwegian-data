@@ -1,0 +1,51 @@
+---
+record: 3297
+name: 'VP от пуза'
+UD_name: ''
+illustration: 'Наелся от пуза'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       В столовой [кормили]Action от пуза.
+  - |
+       Да и вообще, с ним мы всегда [ели]Action от пуза, он умудрялся какие-то совсем необыкновенные продукты доставать.
+  - |
+       Колбасы [натрескался]Action от пуза ― и в компьютер играть.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] пуза]]'
+dependency_structure_of_illustration:
+  - '[root Наелся [obl [case от] пуза].]'
+equivalents:
+  - english: |
+       fill X's belly
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

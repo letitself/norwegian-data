@@ -1,0 +1,50 @@
+---
+record: 2458
+name: 'NP-Nom (с NP-Ins) Cop в расчете'
+UD_name: ''
+illustration: 'Мы с тобой в расчете.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Она хотела подшутить над ним, чтобы [они]Participant были в расчете.
+  - |
+       Иван сказал ― за всё уплачено, значит, [они]Participant в расчёте.
+  - |
+       Когда-нибудь дадите мне на пару тысяч меньше, и будем в расчете.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] расчете]'
+  - '[root [nsubj NP-Nom] [obl [case с] NP-Ins] [cop Cop] [case в] расчете]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] [obl [case с] тобой] [case в] расчете.]'
+equivalents:
+  - english: |
+       X and Y are even
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Property assignment
+family:
+  - |
+    ""

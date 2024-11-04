@@ -1,0 +1,48 @@
+---
+record: 3059
+name: 'VP не у дел'
+UD_name: ''
+illustration: 'Фирма распалась, и он оказался не у дел.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Мы все вдруг оказались]Event не у дел, покинутыми.
+  - |
+       [Мастера с плохими оценками и без школьных знаний остались]Event не у дел.
+  - |
+       [Талантливые учёные оказались]Event не у дел.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [advmod не] [case у] дел]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj фирма] распалась, [conj [cc и] [nsubj он] оказался [obl [advmod не] [case у] дел]].]'
+equivalents:
+  - english: |
+       X is out of business
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

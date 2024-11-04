@@ -1,0 +1,47 @@
+---
+record: 4052
+name: 'пойти VP-Inf'
+UD_name: ''
+illustration: '— Ладно... — разочарованно сказал Петька. — Пойду дальше думать.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Ну, пойдем дальше [глядеть]Activity.
+  - |
+       Потом я пошел [спать]Activity, а Саша с Любой остались сидеть на кухне.
+  - |
+       Учитель не найдёт что ответить, только махнёт рукой и пойдёт дальше [работать]Activity.
+  - |
+       Он оставил бумаги и пошел [бродить по невской набережной]Activity.
+  - |
+       Но учитель сделал вид, что ничего не расслышал, и пошел дальше [рассказывать о капитанской дочке]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root пойти [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root — [parataxis Ладно...] — [parataxis [advmod разочарованно] сказал [nsubj Петька.] — Пойду [xcomp [advmod дальше] думать].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

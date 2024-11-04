@@ -1,0 +1,50 @@
+---
+record: 2465
+name: 'VP в складчину'
+UD_name: ''
+illustration: 'По субботам играем в футбол с друзьями, снимаем стадион в складчину'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Мы [устроили]Action в складчину ужин с вином и пригласили на него пару друзей.
+  - |
+       В складчину [был приобретен вместительный прицеп]Event, закуплены необходимые инструменты, консервы, одежда.
+  - |
+       Сестрам пришлось [купить ему пальто]Event в складчину.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] складчину]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case По] субботам] играем [obl [case в] футбол] [obl [case с] друзьями], [conj снимаем [obj стадион] [obl [case в] складчину]].]'
+equivalents:
+  - english: |
+       in bulk
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

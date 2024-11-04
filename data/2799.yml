@@ -1,0 +1,53 @@
+---
+record: 2799
+name: 'VP по верхам'
+UD_name: ''
+illustration: 'Сноб, меланхолик, аполитичный модник, по верхам способный судить обо всем'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Больше внимания деталям, [не скачите]Activity по верхам.
+  - |
+       – Странно, что она повесилась. Не должна была, если религией увлекалась. Христианство не приветствует самоуничтожение. – Она могла [нахвататься]Action по верхам, глубоко не вникать.
+  - |
+       Эту книгу разве что студент какой прочитает, чтобы умных фраз по верхам [нахвататься]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] верхам]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       to skim the surface
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

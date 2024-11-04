@@ -1,0 +1,48 @@
+---
+record: 3791
+name: 'NP-Nom (лежит и) (пить-)есть не просит'
+UD_name: ''
+illustration: 'Лежит пока куртка, пить-есть не просит.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Заявление о его пропаже]Theme лежит себе где-нибудь в архиве и есть не просит.
+  - |
+       [Рынок]Theme много есть не просит, а отдачу дает каждый день приличную.
+  - |
+       Дома у себя постирала [ее]Theme и повесила в шкаф. Пусть повисит ― есть не просит.
+  - |
+       А по поводу того, что рано купила ― ну так [платье]Theme же есть не просит, у моей матери вон свадебный наряд дожидался своего звездного часа два года.
+  - |
+       [Картина]Theme висит спокойно, есть не просит, украшает пространство!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Serial Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] лежит [conj [cc и] есть [ccomp [advmod не] просит]]]'
+dependency_structure_of_illustration:
+  - '[root Лежит [advmod пока] [nsubj куртка], [parataxis [xcomp пить-есть] [advmod не] просит]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2059
+semantic_types:
+family:
+  - |
+    ""

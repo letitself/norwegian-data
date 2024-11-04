@@ -1,0 +1,54 @@
+---
+record: 2774
+name: 'VP от всего сердца/души'
+UD_name: ''
+illustration: 'От всего сердца поздравляю всех, кто выбрал эту благородную профессию!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       До свидания, дорогой папа, я тебя [обнимаю]Action от всего сердца.
+  - |
+       От всего сердца [поздравляю всех,]Action кто выбрал эту благородную профессию!
+  - |
+       Он с удовольствием высказывал свое мнение о текущих политических событиях и честно, от всего сердца [переживал за неудачи страны в экономике и политике]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] [det всего] сердца]]'
+  - '[root VP [obl [case от] [det всей] души]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] [det всего] сердца] поздравляю [obj всех, [acl [nsubj кто] выбрал [obj [det эту] [amod благородную] профессию]]]!]'
+equivalents:
+  - english: |
+       from the bottom of my heart
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+family:
+  - |
+    ""

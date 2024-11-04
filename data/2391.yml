@@ -1,0 +1,50 @@
+---
+record: 2391
+name: 'VP в авангарде NP-Gen'
+UD_name: ''
+illustration: 'Моя страна идет в авангарде предложений, касающихся ядерного разоружения.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Пакистан [шел]State в авангарде [международных усилий по борьбе с терроризмом]Theme.
+  - |
+       Мы, в Кувейте, [стояли]State в авангарде [доноров помощи]Theme в целях развития.
+  - |
+       Роль ООН заключается в том, чтобы [быть]State в авангарде [социального прогресса]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] авангарде [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Моя] страна] идет [obl [case в] авангарде [nmod предложений, [acl касающихся [obj [amod ядерного] разоружения]]]].]'
+equivalents:
+  - english: |
+       in the avantgarde
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

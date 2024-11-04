@@ -1,0 +1,62 @@
+---
+record: 3474
+name: '(Не) больно(-то) VP/Pred/NP-Nom NP-Dat нужен'
+UD_name: ''
+illustration: 'Не больно-то ему нужно наше знакомство!'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Сашка думал об одном и том же ― не о Тамарке, больно [она]Participant [ему]Beneficiary  нужна.
+  - |
+       Всё жильё в доме приватизировано, но ни продать, ни разменять свои жилища никто просто не может ― не больно-то [найдёшь желающих жить в полуразрушенной квартире]Situation.
+  - |
+       Если для Корытина этот случай был пусть не больно [приятным]Evaluation, но рядовым, то для сестры его ― нежданное огорченье.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod [advmod Не] больно [det -то]] VP]'
+  - '[root [advmod [advmod Не] больно [det -то]] Pred]'
+  - '[root [advmod [advmod Не] больно [det -то]] [nsubj NP-Nom] [iobj NP-Dat] нужен]'
+dependency_structure_of_illustration:
+  - '[root [advmod [advmod Не] больно [det -то]] [iobj ему] нужно [nsubj [det наше] знакомство].]'
+comment: |
+    'См. близкую конструкцию 1466.'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - страшно
+  - обидно
+  - нужен
+  - хотелось
+  - весело
+  - крепко
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+family:
+  - |
+    ""

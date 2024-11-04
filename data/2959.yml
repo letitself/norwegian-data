@@ -1,0 +1,55 @@
+---
+record: 2959
+name: 'VP целую вечность'
+UD_name: ''
+illustration: 'Дежурство у них длится целую вечность.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Кажется, я [лечу]State уже целую вечность. Мама, мы скоро приземлимся?
+  - |
+       Я мог бы [лежать в этой темноте]State целую вечность.
+  - |
+       Мы видимся всего лишь второй раз за полгода, а мне кажется, что я [знаю ее]State целую вечность.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod целую] вечность]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       for ages
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

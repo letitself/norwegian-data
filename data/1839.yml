@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen inneholder [en konklusjon]Theme som er trukket på grunnlag av de foregående utsagnene, eller den generaliserer den anførte informasjonen ved å oppsummere det som er sagt.
 examples:
+  - |
+       Таким образом, [вы зачислены на первый курс]Theme.
+  - |
+       Таким образом, [кровь от конечностей охлаждается]Theme, а от сердца подогревается.
+  - |
+       Туристы благополучно достигли правого берега Волги. Таким образом, [первая часть похода была выполнена]Theme.
+  - |
+       Противоположность принципу иерархии ― принцип равенства. Таким образом, [то, что окружает ребенка, становится им самим]Theme.
+  - |
+       Таким образом, отказ и производственные потери ― понятия, касающиеся процесса производства.
 morphology:
   - Cl
 syntactic_type_of_construction:

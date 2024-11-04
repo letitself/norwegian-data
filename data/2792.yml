@@ -1,0 +1,50 @@
+---
+record: 2792
+name: 'VP очертя голову'
+UD_name: ''
+illustration: 'Со временем драматург остепенился и перестал бросаться очертя голову в любое подвернувшееся дело'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Отправиться в экспедицию]Action очертя голову, без подготовки он не решился ― нужно было еще раз проверить себя.
+  - |
+       ― Это пожар, вот это что, ― сказал он и очертя голову [бросился к двери]Action.
+  - |
+       Когда она увидела, что Маши нет рядом, то очертя голову [кинулась на ее поиски]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Converb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advcl очертя [obj голову]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Со] временем] [nsubj драматург] остепенился [conj [cc и] перестал [xcomp бросаться [advcl очертя [obj голову]] [obl [case в] [det любое] [amod подвернувшееся] дело]]]]'
+equivalents:
+  - english: |
+       headfirst
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

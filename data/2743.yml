@@ -1,0 +1,62 @@
+---
+record: 2743
+name: 'VP/NP-Dat Cop не по себе (от NP-Gen)'
+UD_name: ''
+illustration: 'Милиционер сидел молча, но от его присутствия всем было не по себе'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Стол был накрыт в саду, на нём стояли тарелки с разнообразной едой, от одного [вида]Stimulus которой [нам]Experiencer стало не по себе ― мы совершенно отвыкли от нормальной пищи.
+  - |
+       [Мне]Experiencer стало не по себе от [этих слов]Stimulus.
+  - |
+       Сначала Степан ничего не слышал, [ему]Experiencer было не по себе, даже немного страшно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [advmod не] [case по] себе]]'
+  - '[root VP [obl [advmod не] [case по] себе] [obl [case от] NP-Gen]]'
+  - '[root [iobj NP-Dat] [cop Cop] [advmod не] [case по] себе]'
+  - '[root [iobj NP-Dat] [cop Cop] [advmod не] [case по] себе [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Милиционер] сидел [advmod молча], [conj [cc но] [obl [case от] [det его] присутствия] [iobj всем] [cop было] [advmod не] [case по] себе]]'
+equivalents:
+  - english: |
+       X is not feeling well / X was uptight
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

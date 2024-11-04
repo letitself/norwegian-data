@@ -1,0 +1,58 @@
+---
+record: 3464
+name: 'Что (это) с NP-Ins (случилось/стряслось)?'
+UD_name: ''
+illustration: 'Папа, что это с тётей случилось?'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Что это с [вами]Topic, Таня?
+  - |
+       Что это с [ним]Topic стряслось - приглашает на водку?
+  - |
+       Что это с [ним]Topic такое сегодня?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject and Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj Что] [obl [case с] NP-Ins] случилось?]'
+  - '[root [nsubj Что] [obl [case с] NP-Ins] стряслось?]'
+  - '[root [nsubj Что] [obl это] [obl [case с] NP-Ins] случилось?]'
+  - '[root [nsubj Что] [obl это] [obl [case с] NP-Ins] стряслось?]'
+dependency_structure_of_illustration:
+  - '[root [vocative Папа], [nsubj что] [obl это] [obl [case с] тётей] случилось?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       what's the matter with X?
+common_fillers:
+  - ним
+  - мной
+references:
+  - |
+    
+semantic_types:
+  - type: Mirative
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

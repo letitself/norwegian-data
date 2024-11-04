@@ -1,0 +1,53 @@
+---
+record: 2928
+name: 'VP со вкусом'
+UD_name: ''
+illustration: 'Подружка своё дело любила и делала его не спеша и со вкусом.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Она чрезвычайно мила и [одета]State со вкусом.
+  - |
+       Она со вкусом [смеялась]Activity и вытирала слёзы тыльной стороной руки.
+  - |
+       Она со вкусом [посидит в ванне,]Action потом сделает тщательно маникюр, потом займется прической.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] вкусом]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with gusto
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

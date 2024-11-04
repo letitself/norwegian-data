@@ -1,0 +1,52 @@
+---
+record: 3319
+name: 'VP по полной (программе)'
+UD_name: ''
+illustration: 'Развлекайтесь по полной программе.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Так что вывод один: вспомнить, что [проверялись после отъезда трижды]Activity по полной программе, ничего не нашли, ни на каких учётах не держали.
+  - |
+       В Америке Петя [наслаждается жизнью]Activity по полной программе.
+  - |
+       Этот статус подразумевал [участие в тренировках]Activity по полной программе
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] [amod полной] программе]]'
+  - '[root VP [obl [case по] полной]]'
+dependency_structure_of_illustration:
+  - '[root Развлекайтесь [obl [case по] [amod полной] программе].]'
+equivalents:
+  - english: |
+       up to the occasion
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Salient property
+    subtypes:
+      - type: Matching the standard
+family:
+  - |
+    ""

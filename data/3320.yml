@@ -1,0 +1,49 @@
+---
+record: 3320
+name: 'VP по простоте душевной'
+UD_name: ''
+illustration: 'Ну, она по простоте душевной пригласила меня зайти'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он по простоте душевной [рассказывал,]Action как умел, какие-то истории ― про немцев, про свой быт, шутил.
+  - |
+       Например, я по простоте душевной [думал,]State что тексты, вывешенные на всеобщее обозрение, никаким дальнейшим изменениям не подлежат.
+  - |
+       Яблоневый сад он, по простоте душевной, также [считал]State своим.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] простоте [amod душевной]]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Ну], [nsubj она] [obl [case по] простоте [amod душевной]] пригласила [obj меня] [xcomp зайти].]'
+equivalents:
+  - english: |
+       State-of-the-art
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

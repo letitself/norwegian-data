@@ -1,0 +1,51 @@
+---
+record: 2500
+name: 'ставить NP во главу угла (NP-Gen)'
+UD_name: ''
+illustration: 'Таким образом, во главу угла ставится работа коллектива, команд, осуществляющих совместные разработки'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Эти страны не ставят [международные договоренности]Theme во главу угла [своей политики]Topic.
+  - |
+       Во главу угла ставится [политика]Theme, а не искусство.
+  - |
+       Когда юридические консультации отменили и на смену им пришли адвокатские конторы, во главу угла встали [понятия «адвокатская тайна» и «приватность»]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root ставить [obj NP] [obl [case во] главу [nmod угла]]]'
+  - '[root ставить [obj NP] [obl [case во] главу [nmod угла [nmod NP-Gen]]]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [det Таким] образом], [obl [case во] главу [nmod угла]] ставится [nsubj работа [nmod коллектива, [conj команд, [acl осуществляющих [obj [amod совместные] разработки]]]]].]'
+equivalents:
+  - english: |
+       at the top
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

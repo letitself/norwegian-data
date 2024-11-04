@@ -1,0 +1,53 @@
+---
+record: 2716
+name: 'VP на полдороге/полдороги'
+UD_name: ''
+illustration: 'Никогда нельзя оставлять дело на полдороге, думая, что уже ничего интересного не узнаешь'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Не в его правилах было [бросать начатое дело]Action на полдороге и переключаться на другую работу.
+  - |
+       На радостях Олег потянулся было за кексом, но тут ведущая повернулась от зала к нему, и его рука [замерла]Action на полдороги.
+  - |
+       Мария [встретила Николь]Action на полдороге с кладбища.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] полдороге]]'
+  - '[root VP [obl [case на] полдороги]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Никогда] нельзя [csubj оставлять [obj дело] [obl [case на] полдороге]], [advcl думая, [ccomp [mark что] [advmod уже] [obj ничего [amod интересного]] [advmod не] узнаешь]]]'
+equivalents:
+  - english: |
+       halfway
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Antiresultative
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

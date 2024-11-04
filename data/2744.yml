@@ -1,0 +1,60 @@
+---
+record: 2744
+name: 'VP/NP-Nom Cop не по чину NP-Dat'
+UD_name: ''
+illustration: 'Встреча в кабинете директора оказалась не по чину торжественной.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Видимо, он посчитал, что [менеджеру]Participant не по чину [смущать генерального директора разговорами о его властном нраве]Activity.
+  - |
+       [Мне]Participant, говорит, [ваша генеральская компания]Theme пока не по чину.
+  - |
+       Она выхватила у меня полученную мною в наследство нитку жемчуга и утверждала, что [мне]Participant все равно [жемчуг носить]Activity не по чину.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [advmod [advmod не] [case по] чину] NP-Dat]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case по] чину [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Встреча [nmod [case в] кабинете [nmod директора]]] оказалась [obl [advmod [advmod не] [case по] чину] торжественной].]'
+equivalents:
+  - english: |
+       not in accordance with X's position, title, status
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

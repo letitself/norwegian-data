@@ -1,0 +1,52 @@
+---
+record: 3532
+name: 'Cl и все дела!'
+UD_name: ''
+illustration: 'Выпишем на тебя доверенность на участие в собрании ― и все дела!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Зачем водить детей в плохие школы, где плохие учителя? [Закрыть их]Situation, и все дела.
+  - |
+       Слушатели в  большинстве своем непрофессионалы — [они должны просто запоминать слова]Situation, и  все дела.
+  - |
+       Стою на остановке ― дождь идет. А по мне хоть град. [Воротник поднял]Situation, и все дела.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - conjunction
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root Cl [conj [cc и] [det все] дела]!]'
+dependency_structure_of_illustration:
+  - '[root Выпишем [obl [case на] тебя] [obj доверенность [nmod [case на] участие [nmod [case в] собрании]]] ― [conj [cc и] [det все] дела]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       ant that's it!
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+family:
+  - |
+    ""

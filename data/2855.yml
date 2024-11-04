@@ -1,0 +1,50 @@
+---
+record: 2855
+name: 'VP по часам'
+UD_name: ''
+illustration: 'На всякий случай родные следят, чтобы Геллена принимала их по часам'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Лариса [расписала]Action практически по часам все дни нашего пребывания в Калифорнии.
+  - |
+       Комфортно лишь тогда, когда предстоящая неделя, а лучше весь месяц четко [размечен]Action по часам.
+  - |
+       Исключение составляют пока только платные стоматологические кабинеты, прием в которых [ведется]State строго по часам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] часам]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       by the clock
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Pluractionality
+    subtypes:
+      - type: Multiplicative
+family:
+  - |
+    ""

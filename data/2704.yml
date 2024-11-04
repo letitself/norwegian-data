@@ -1,0 +1,50 @@
+---
+record: 2704
+name: 'VP на первый случай'
+UD_name: ''
+illustration: 'На первый случай она меня прощает, потому что я человек приезжий и могу не знать здешних порядков'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я себя почувствовал мальчиком, которого на первый случай [избавили от розог]Action.
+  - |
+       ― Я думаю так, ― сказал Малинин, ― пусть на первый случай Синцов сам [напарника себе выберет]Action и пойдет.
+  - |
+       Чтобы скорее уехать, она ничего не взяла с собою из вещей, темъ более, что графиня обещала на первый случай [дать все необходимое]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod первый] случай]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] [amod первый] случай] [nsubj она] [obj меня] прощает, [advcl [mark потому [fixed что]] [nsubj я] человек [amod приезжий] [conj [cc и] могу [xcomp [advmod не] знать [obj [amod здешних] порядков]]]]]'
+equivalents:
+  - english: |
+       first time
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Condition
+family:
+  - |
+    ""

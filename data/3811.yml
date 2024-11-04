@@ -1,0 +1,49 @@
+---
+record: 3811
+name: 'VP руки в боки/брюки'
+UD_name: ''
+illustration: 'Рядом стояла, руки в боки, Лолита Торрес.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Стоит]Activity — руки в боки, пуфф, пуфф, — от трубочки сизый дымок.
+  - |
+       — Лектор это заслужил, — сказала она, [встав]Action руки в боки.
+  - |
+       Поднимаю плечи, [упираю]Action руки в боки, походка — что в море лодочка.
+  - |
+       Не-ет, тут как в старом анекдоте про украинку и грузина: а если я руки в боки [уперла]Action ― значит, плевать я хотела, как там у тебя кепка надвинута!
+  - |
+       Он похож на раскачивающегося пингвина перед лицом глобального потепления: руки в боки и обескураженная мина.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl руки [nmod [case в] боки]]]'
+  - '[root VP [obl руки [nmod [case в] брюки]]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Рядом] стояла, [parataxis руки [obl [case в] боки]], [nsubj Лолита Торрес]].'
+equivalents:
+common_fillers:
+  - стоять
+references:
+  - |
+    Баранов, Добровольский 2030
+semantic_types:
+family:
+  - |
+    ""

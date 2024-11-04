@@ -1,0 +1,56 @@
+---
+record: 3644
+name: 'уж скорее XP'
+UD_name: ''
+illustration: 'После 50-х годов Баратынский оказывается уже скорее исторической фигурой, о нем появляются публикации историко-литературного свойства.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       С. Петров относится уж скорее [к Железному веку русской поэзии]Evaluation.
+  - |
+       Полтергейсты не призраки. Уж скорее, [полтергейсты похожи на домовых]Evaluation.
+  - |
+       Тире здесь лишнее. Запятых нет, а тире есть. Уж скорее [должны быть запятые]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep [advmod [advmod уж] скорее] XP]'
+  - '[dep [advmod [advmod уже] скорее] XP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case после] [amod 50-х] годов] [nsubj Баратынский] оказывается [xcomp [amod [advmod [advmod уже] скорее] исторической] фигурой], [conj [obl [case о] нем] появляются [nsubj публикации [nmod [amod [compound историко] - литературного] свойства]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+family:
+  - |
+    ""

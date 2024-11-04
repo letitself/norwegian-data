@@ -1,0 +1,47 @@
+---
+record: 2972
+name: 'VP явочным порядком'
+UD_name: ''
+illustration: 'Эта проблема до сих пор решается явочным порядком, нет системной работы по преодолению данной проблемы.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Сроки брачного договора не могут быть установлены. Они [определяются]Action явочным порядком. По факту развода.
+  - |
+       Ученые-филологи молчат, а многие издания уже [создали]Action явочным порядком свои собственные правила русского языка.
+  - |
+       Все перемены [состоялись]Event явочным порядком, они не могли не состояться.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod явочным] порядком]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       spur of the moment
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

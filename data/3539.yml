@@ -1,0 +1,53 @@
+---
+record: 3539
+name: 'VP/NP - и готовый-Short'
+UD_name: ''
+illustration: 'Ты уже столько раз умирал, что теперь неизвестно: а вдруг скажешь лишнее слово ― и готов.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Если организм сильный ― ни одна бактерия не возьмет, а слабый ― [чуть что]Event, и готов!
+  - |
+       Я знаю, как [мужчины в этом возрасте умирают, раз]Event ― и готов!
+  - |
+       А Саша сломал шею. Сам себе. [Сел на стул, крутанул руками голову]Event ― и готов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Connection
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - conjunction
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP - [conj [cc и] готовый-Short]]'
+  - '[dep NP - [conj [cc и] готовый-Short]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [obl [nummod:gov [advmod уже] столько] раз] умирал, [ccomp [mark что] [advmod теперь] неизвестно: [parataxis [cc а] [advmod вдруг] скажешь [obj [amod лишнее] слово] ― [conj [cc и] готов]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       P - and that's it
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Achieved result
+family:
+  - |
+    ""

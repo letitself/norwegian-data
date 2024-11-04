@@ -1,0 +1,52 @@
+---
+record: 3057
+name: 'Cl, (и/а потом) пошло-поехало'
+UD_name: ''
+illustration: 'Сначала заболел сын, потом мама, и пошло-поехало.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Он закончил бакалавриат,]Action и дальше пошло-поехало. Так и работает в этом университете.
+  - |
+       [root VP [advmod [advmod и] так [conj [cc и] этак]]] + [root VP [advmod так [conj [cc и] этак]]] + [root VP [advmod [advmod и] так [conj [cc и] эдак]]] + [root VP [advmod так [conj [cc и] эдак]]] + [root VP [advmod [advmod и] так [conj [cc и] сяк]]] + [root VP [advmod так [conj [cc и] сяк]]]
+  - |
+       [Один раз выиграете]Action ― и пошло-поехало: почему бы еще разок не выиграть?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [conj [cc и] [advmod потом] пошло - [conj поехало]]]'
+  - '[root Cl, [conj [cc а] [advmod потом] пошло - [conj поехало]]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Сначала] заболел [nsubj сын], [conj потом [nsubj мама]], [conj [cc и] пошло - [conj поехало]].]'
+equivalents:
+  - english: |
+       here we go
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+family:
+  - |
+    ""

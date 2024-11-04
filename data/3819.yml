@@ -1,0 +1,49 @@
+---
+record: 3819
+name: 'XP —/,что любо-дорого (по)смотреть/глядеть'
+UD_name: ''
+illustration: 'Такой пример многим мужчинам хороший, что любо-дорого смотреть.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       [Такой профессионализм]Situation – любо-дорого смотреть!
+  - |
+       [Он такой примерный ученик]Situation, что любо-дорого смотреть.
+  - |
+       За какое дело он ни возьмётся, [всё у него так хорошо получается]Situation, что любо-дорого смотреть.
+  - |
+       [Мужчины за работой]Situation, любо-дорого смотреть!
+  - |
+       И был у меня профессор — преподаватель когнитивной психологии, умнейший человек, и [так весь мыслительный процесс по полочкам раскладывал]Situation — любо-дорого смотреть.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[dep XP, [ccomp [mark что] [advmod любо-дорого] (по)смотреть]]'
+  - '[dep XP, [ccomp [mark что] [advmod любо-дорого] глядеть]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Такой] пример] [iobj [det многим] мужчинам] хороший, [ccomp [mark что] [advmod [compound любо]-дорого] смотреть]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2038
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 2624
+name: 'VP PronInt душа пожелает/душе угодно'
+UD_name: ''
+illustration: 'Еще бы, нет надобности ни в двигателе, ни в горючем ― раскрутил маховик и езжай куда душа пожелает!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Разлепляла веки ― и видела себя в собственном доме прекрасной постройки, посреди благоухающего сада, где в любой момент можно кликнуть шофера и [поехать]Activity [куда]Direction душа пожелает.
+  - |
+       Они с дядей Мишей [идут]Activity, [куда]Direction душа пожелает, свободные.
+  - |
+       Он бросает свои вещи [где]Location и [как]Manner душе угодно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [ccomp [advmod PronInt] [nsubj душа] пожелает]]'
+  - '[root VP [ccomp [advmod PronInt] [iobj душе] угодно]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Еще [flat бы], нет [nsubj надобности [nmod [cc ни] [case в] двигателе, [conj [cc ни] [case в] горючем]]] ― [conj раскрутил [nsubj маховик] [conj [cc и] езжай [ccomp [advmod куда] [nsubj душа] пожелает]]]]!]'
+equivalents:
+  - english: |
+       wherever the feet take X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+        subtypes:
+          - type: Free Choice
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

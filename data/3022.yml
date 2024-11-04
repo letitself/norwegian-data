@@ -1,0 +1,51 @@
+---
+record: 3022
+name: 'VP в обход (NP-Gen)'
+UD_name: ''
+illustration: 'Курт поднялся с травы и пошёл куда-то в обход кустов.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Выпустить сборник]Action в обход [цензуры]Theme было делом безнадежным.
+  - |
+       Я как-то жаловался Павлу на то, что Вадим и Прохор [что-то затевают]Activity в обход [меня,]Participant но это было давно.
+  - |
+       Если проблему нельзя решить так, может быть, ее можно [решить]Action в обход?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] обход]]'
+  - '[root VP [obl [case в] обход [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Route
+family:
+  - |
+    ""

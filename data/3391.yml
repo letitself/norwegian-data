@@ -1,0 +1,50 @@
+---
+record: 3391
+name: 'XP ― VP (и) не встать'
+UD_name: ''
+illustration: 'Такой мужик! Умереть не встать!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Красивая, умная, благородная]Situation ― [упасть]Action и не встать.
+  - |
+       [А у нас одна из класса выскочила замуж и стала ― Сенаторская! Вот фамилия]Situation ― [умереть,]Action не встать!
+  - |
+       [А этот… ответить он, видите ли, затрудняется.]Situation [Оборжаться]Action и не встать!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP - [parataxis VP [xcomp [advmod не] встать]]]'
+  - '[dep XP - [parataxis VP [xcomp [advmod и] [advmod не] встать]]]'
+dependency_structure_of_illustration:
+  - '[root Умереть [xcomp [advmod не] встать]!]'
+equivalents:
+  - english: |
+       from laughing
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Mirative
+family:
+  - |
+    ""

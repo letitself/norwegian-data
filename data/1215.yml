@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker i en situasjon]Participant gis tillatelse til å utføre en gitt [handling]Action. Konstruksjonen brukes også for å uttrykke at deltakeren ber om å få en slik tillatelse.
 examples:
   - |
-       ― Можно [мне]Participant [идти]Action? ― спрашиваю я у Екатерины Михайловны. ― Конечно.  Если ты всё понял.
+       Вика спрашивает, можно [ей]Participant [надеть твои джинсы]Action?
   - |
-       ― Доедай свой гамбургер, дядя Володя ждать не будет. ― Мам, я больше не хочу, ― сказал мальчик, ― можно [собачке отдать]Action?
+       ― Доедай свой гамбургер. ― Мам, я больше не хочу, ― сказал мальчик, ― можно [собачке отдать]Action?
   - |
-       Вика спрашивает, можно будет [ей]Participant [надеть твои джинсы]Action?
+       ― Можно [мне]Participant [идти]Action? ― спрашиваю я у Кати.
   - |
        ― Это вы у Олега спросите, можно [вам]Participant [звонить]Action или нельзя, это ваши с ним дела.
   - |
-       Практически все дети были лояльны к «компьютерной политике» своих родителей: «Да, нормально, я всегда знаю, когда [мне]Participant можно будет [поиграть]Action».
+       Я всегда знаю, когда [мне]Participant можно будет [поиграть]Action в компьютерные игры.
 morphology:
   - NP
   - Dat

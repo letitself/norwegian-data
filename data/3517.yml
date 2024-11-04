@@ -1,0 +1,59 @@
+---
+record: 3517
+name: 'NP-Nom VP бы уже'
+UD_name: ''
+illustration: 'А мог бы уже стать майором.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       А [Маша]Participant должна бы уже как пять лет [быть замужем]State.
+  - |
+       Пора бы уже [понять, что причины неудач следует искать внутри себя, а не во внешнем мире]State.
+  - |
+       Был бы жив Королёв, [мы]Participant бы уже [на Марс слетали]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] VP [aux бы] [advmod уже]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] мог [aux бы] [xcomp [advmod уже] стать [obl майором]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X would be Y
+common_fillers:
+  - мог
+  - должен
+  - бы
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Limitation
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    ""

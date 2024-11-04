@@ -1,0 +1,52 @@
+---
+record: 2493
+name: 'VP во всей (своей) красе'
+UD_name: ''
+illustration: 'Леса, поля и дали представали перед ней во всей красе, и она запечатлевала их со страстью'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Каждый пытается [показать себя]Action во всей красе, и это наносит ущерб командной игре.
+  - |
+       Осень во всей красе [показывала капризный характер]Action: лил дождь, сбивал с ног резкий ветер.
+  - |
+       Сверху наш двор [предстает]Action во всей красе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det всей] красе]]'
+  - '[root VP [obl [case во] [det всей] [det своей] красе]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Леса, [conj поля] [conj [cc и] дали]] представали [obl [case перед] ней] [obl [case во] [det всей] красе], [conj [cc и] [nsubj она] запечатлевала [obj их] [obl [case со] страстью]].]'
+equivalents:
+  - english: |
+       in X's best
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

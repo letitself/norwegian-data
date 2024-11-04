@@ -1,0 +1,52 @@
+---
+record: 2611
+name: 'VP/NP задом наперед'
+UD_name: ''
+illustration: 'Кое-как, самым позорным образом, он сполз с горы задом наперёд'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Этот миф состоит в том, что кто-то может [прочесть слово]Action задом наперёд, и результат может войти в язык в качестве нового слова.
+  - |
+       Недаром излюбленным трюком шутов было выворачивание овчины мехом наружу или [надевание шапки]Action задом наперёд.
+  - |
+       Петр был маленьким, в остроносых туфлях, в тугих джинсах, в чёрной майке и в [бейсболке]Theme задом наперёд.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod задом] наперед]]'
+  - '[dep NP [nmod [advmod задом] наперед]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Кое-как, [conj [amod самым] [amod позорным] образом]], [nsubj он] сполз [obl [case с] горы] [advmod [advmod задом] наперёд]]'
+equivalents:
+  - english: |
+       backwards
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+      - type: Transformation
+family:
+  - |
+    ""

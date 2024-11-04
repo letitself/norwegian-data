@@ -1,0 +1,55 @@
+---
+record: 3618
+name: 'VP под (Adj-Ins) углом/ углом (в) NumCrd-Acc градус-Gen'
+UD_name: ''
+illustration: 'Туннель идет влево, без изгибов, под углом градусов 5-10.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Река здесь [поворачивает налево]Action под [прямым]Property углом.
+  - |
+       Третий вагон стоял на  рельсах, но  был [наклонен]State под углом в  [45]Quantity градусов.
+  - |
+       Не [переходите улицу]Activity под углом, объясните ребенку, что так хуже видно дорогу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case под] [amod Adj-Ins] углом]]'
+  - '[root VP [obl [case под] [amod Adj-Ins] углом [nmod [case в] [nummod NumCrd-Acc] градус-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Туннель] идет [advmod влево, [conj [case без] изгибов], [conj [case под] углом [nmod градусов [nummod 5 - [conj 10]]]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       at an angle
+common_fillers:
+  - таким
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Spatial characteristics
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

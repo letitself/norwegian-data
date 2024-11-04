@@ -1,0 +1,52 @@
+---
+record: 3365
+name: 'себе Cop дороже (VP-Fut.3.Sg)'
+UD_name: ''
+illustration: 'Связываться с такими людьми - себе дороже.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Не препятствуете,]Action потому что себе дороже. Зачем ссориться с властью?
+  - |
+       Тот самый случай, когда [обманывать]Action выйдет себе дороже.
+  - |
+       Можно пересдать мазок, если нет очевидных признаков недомогания, однако, [игнорировать такую неприятную новость]Action себе дороже.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj себе] [cop Cop] дороже [csubj VP-Fut.3.Sg]]'
+  - '[root [iobj себе] [cop Cop] дороже]'
+dependency_structure_of_illustration:
+  - '[root [csubj Связываться [obl [case с] [det такими] людьми]] - [iobj себе] дороже.]'
+equivalents:
+  - english: |
+       is a great thing
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Preventive
+  - type: Assessment
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

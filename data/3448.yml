@@ -1,0 +1,56 @@
+---
+record: 3448
+name: 'NP-Nom привести NP-Acc в божеский вид'
+UD_name: ''
+illustration: 'Чиновники обещали отремонтировать канализацию и привести в божеский вид полы и потолки в квартирах.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Месяц пролетел так быстро, что [мы с Михаилом]Agent даже не успели привести [наш дом]Patient более-менее в «божеский» вид.
+  - |
+       [Валерии]Agent потребовалось немало денег, чтобы привести [себя]Patient в божеский вид.
+  - |
+       Давай, [Вань]Agent, чтобы продать эту машину, нужно привести [ее]Patient в божеский вид.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] привести [obj NP-Acc] [obl [case в] [amod божеский] вид]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Чиновники] обещали [xcomp отремонтировать [obj канализацию] [conj [cc и] привести [obl [case в] [amod божеский] вид] [obj полы [conj [cc и] потолки] [nmod [case в] квартирах]]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X made Y presentable/X tidied (fixed) Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator
+  - type: Temporary characteristics
+    subtypes:
+      - type: Transformation
+family:
+  - |
+    ""

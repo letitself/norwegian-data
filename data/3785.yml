@@ -1,0 +1,50 @@
+---
+record: 3785
+name: 'Adj/Adv до безобразия'
+UD_name: ''
+illustration: 'Ей всего 10 лет, но уже самостоятельная до безобразия.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Они все до безобразия стали [похожи]Property друг на друга.
+  - |
+       Интеллигенция до безобразия [обнищала]Property.
+  - |
+       Его ботинки были [отлакированы]Property до безобразия.
+  - |
+       Все как-то [просто]Property до безобразия.
+  - |
+       Подобие мифического коня в центре города было наряжено до безобразия [по-новогоднему]Property.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[amod Adj [obl [case до] безобразия]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ей] [advmod всего] [nummod 10] лет], [conj [cc но] [advmod уже] самостоятельная [obl [case до] безобразия]]].'
+equivalents:
+common_fillers:
+  - простой
+  - раздражительный
+  - глупый
+references:
+  - |
+    Баранов, Добровольский 2053
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3775
+name: 'VP по сусалам (NP-Dat)'
+UD_name: ''
+illustration: '― Потому что ты сам хотел, чтобы Фокина тебя выгнала. Нарывался — вот и получил по сусалам.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Сунулся пару раз к дележу ― ну и [получил]Action по сусалам.
+  - |
+       Он начал цепляться, [получил]Action по сусалам…
+  - |
+       Коммунисты свалили всю вину на комсомольцев и заодно [дали]Action по сусалам [исполкомовским работникам]Maleficiary.
+  - |
+       Если вы посылаете негатив в нашу сторону, то сразу или в скором времени [получите]Action по сусалам.
+  - |
+       Очнувшийся кот быстро [надавал]Action [дворовым псам]Maleficiary по сусалам и рванул домой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Object
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [obl [case по] сусалам]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Потому [fixed что]] [nsubj ты] [obl сам] хотел, [advcl [mark чтобы] [nsubj Фокина] [obj тебя] выгнала]]. [root Нарывался — [parataxis [advmod вот] [advmod и] получил [obl [case по] сусалам]]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2043
+semantic_types:
+family:
+  - |
+    ""

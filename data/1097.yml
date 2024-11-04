@@ -6,6 +6,16 @@ illustration: 'К чести Аннушки надо сказать, что он
 cefr_level: C1
 definitions:
 examples:
+  - |
+       К чести [хозяина,]Beneficiary [комната показалась Марине довольно чистой.]ContentOfSpeech
+  - |
+       К чести [руководства школы]Beneficiary надо [сказать,]Action что [без его помощи музей не появился бы.]ContentOfSpeech
+  - |
+       К чести [научных библиотек]Beneficiary нужно [сказать,]Action что [они успешно выполняли свои задачи.]ContentOfSpeech
+  - |
+       К чести [Жени,]Beneficiary [сейчас он один из лучших командных игроков мира.]ContentOfSpeech
+  - |
+       К чести [организаторов ансамбля]Beneficiary стоит [отметить,]Action что [они сумели подобрать крепкий состав исполнителей.]ContentOfSpeech
 morphology:
   - NP
   - Gen

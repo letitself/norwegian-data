@@ -6,6 +6,16 @@ illustration: 'Стоять!'
 cefr_level: A1
 definitions:
 examples:
+  - |
+       [Приготовиться!]Action Старт!
+  - |
+       [Лежать!]State Руки назад!
+  - |
+       ― [Молчать!]State Я сказал, [молчать!]State ― закричал Иван.
+  - |
+       [Встать!]Action Суд идет!
+  - |
+       Аморально! [Запретить!]Action
 morphology:
   - VP
   - Inf

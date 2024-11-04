@@ -1,0 +1,55 @@
+---
+record: 3182
+name: 'VP куда глаза глядят'
+UD_name: ''
+illustration: 'Мать взяла детей и уехала куда глаза глядят.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Мой идеальный вид отдыха — это сесть за руль любимого автомобиля и [ехать]Activity безостановочно куда глаза глядят.
+  - |
+       Пять процентов пользователей поставили себе цель — стать спонтанными и, например, выйти из отеля без карты и [пойти,]Activity куда глаза глядят.
+  - |
+       Прямо с вокзала я [отправился]Activity куда глаза глядят, чтобы заблудиться в незнакомом городе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [ccomp [advmod куда] [nsubj глаза] глядят]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мать] взяла [obj детей] [conj [cc и] уехала [ccomp [advmod куда] [nsubj глаза] глядят].]'
+equivalents:
+  - english: |
+       without a specific direction
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Existential
+        subtypes:
+          - type: Free Choice
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

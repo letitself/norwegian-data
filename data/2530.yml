@@ -1,0 +1,48 @@
+---
+record: 2530
+name: 'VP для очистки совести'
+UD_name: ''
+illustration: 'Никакого обмана здесь быть не может. Однако проверить для очистки совести нужно.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Ломакин для очистки совести [обследовал всех восьмерых]Action.
+  - |
+       Они [препирались долго]Activity, но больше для очистки совести.
+  - |
+       [Это было сделано]Action скорее для очистки совести, потому что едва ли кто-нибудь решит здесь искупаться.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] очистки [nmod совести]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Никакого] обмана] [advmod здесь] [xcomp быть] [advmod не] может.] [root [advmod Однако] [csubj проверить [obl [case для] очистки [nmod совести]]] нужно.]'
+equivalents:
+  - english: |
+       to clear X's conscience
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

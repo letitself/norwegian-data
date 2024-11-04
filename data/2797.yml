@@ -1,0 +1,47 @@
+---
+record: 2797
+name: 'VP по алфавиту'
+UD_name: ''
+illustration: 'Я надеялся еще раз блеснуть на общем фоне, но учительница шла по алфавиту и до меня не добралась'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Она будет записывать воспоминания так, как они придут в голову, а потом [расположит их]Action не по хронологии, но по алфавиту.
+  - |
+       Если обычно греческая делегация на церемонии открытия выходит первой, то в Пекине делегации [выходили]Action по алфавиту, но не по латинскому, а по китайскому.
+  - |
+       Нина Ивановна старалась не шуметь, мягко ходила возле библиотечной стойки, [перекладывала на стеллажах книги]Activity по алфавиту.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] алфавиту]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] надеялся [xcomp [obl [advmod еще] раз] блеснуть [obl [case на] [amod общем] фоне]], [conj [cc но] [nsubj учительница] шла [obl [case по] алфавиту] [conj [cc и] [obl [case до] меня] [advmod не] добралась]]]'
+equivalents:
+  - english: |
+       alphabetically
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

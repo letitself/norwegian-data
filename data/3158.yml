@@ -1,0 +1,52 @@
+---
+record: 3158
+name: 'грешным делом, Cl / грешным делом VP'
+UD_name: ''
+illustration: 'Я тут, грешным делом, подумал...'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       К коврам, сервизам, магнитофонам и статуэткам Полина Ивановна относилась с уважением, а книг, грешным делом, [не любила.]Situation
+  - |
+       Грешным делом [даже думаю, вот бы переехать на Кавказ.]Situation
+  - |
+       Грешным делом, [я не успел ничего особенного почувствовать после курения марихуаны.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [amod грешным] делом], Cl]'
+  - '[root [obl [amod грешным] делом] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod тут], [parataxis [amod грешным] делом], подумал...]'
+equivalents:
+  - english: |
+       much as I hate to admit it
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Remorse
+  - type: Manner
+family:
+  - |
+    ""

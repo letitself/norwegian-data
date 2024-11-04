@@ -1,0 +1,47 @@
+---
+record: 3810
+name: 'NP-Nom (VP/Cop) как неродной'
+UD_name: ''
+illustration: 'Ну что ты как неродной сидишь, иди пообщайся с родственниками.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ну чего [ты]Agent как неродной? Иди сюда.
+  - |
+       Пришёл и стоит как неродной.
+  - |
+       – Тоха, [ты]Agent чего как неродной? – накинулся он на Сташиса.
+  - |
+       Максим, ну чего [ты]Agent как неродной, иди брата развлекай, будешь за старшего!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Сonjunction
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[dep NP-Nom [obl [mark как] неродной]]'
+dependency_structure_of_illustration:
+  - '[root [discourse Ну] [mark что] [nsubj ты] [advcl [mark как] неродной] сидишь, [parataxis иди [xcomp пообщайся [obl [case с] родственниками]]].'
+equivalents:
+common_fillers:
+  - стоять
+  - сидеть
+references:
+  - |
+    Баранов, Добровольский 2029
+semantic_types:
+family:
+  - |
+    ""

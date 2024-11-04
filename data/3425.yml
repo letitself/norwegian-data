@@ -1,0 +1,61 @@
+---
+record: 3425
+name: 'у NP-Gen (есть) все задатки NP-Gen'
+UD_name: ''
+illustration: 'Несмотря на ее наивность и неведение жизни, у Людмилы все задатки страстной женщины.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       У [него]Participant все задатки [гениального администратора]Property.
+  - |
+       Оказывается, у [Воронцова]Participant все задатки [руководителя]Status. Шеф назначает его главным.
+  - |
+       А кроме того, Вова - заядлый автомобилист. Считает, что у [него]Participant есть все задатки [автогонщика]Status. Первую машину купил еще в школьные годы.
+  - |
+       У [пятилетнего Саши]Participant сейчас все задатки [бойца]Status. Характер спортивный. А это самое главное, мыщцы можно нарастить.
+  - |
+       К чужим людям этот пёс недоверчив, зато со "своими" всегда ласков. У [него]Participant есть все задатки [хорошего охранника]Property.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] есть [nsubj [det все] задатки [nmod NP-Gen]]]'
+  - '[dep [obl [case у] NP-Gen] [det все] задатки [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case несмотря [case на]] [det ее] наивность [conj [cc и] неведение [nmod жизни]]], [obl [case у] Людмилы] [det все] задатки [nmod [amod страстной] женщины].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X has all the makings to become Y
+common_fillers:
+  - тебя
+  - него
+  - лидера
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

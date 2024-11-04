@@ -1,0 +1,54 @@
+---
+record: 3655
+name: 'NP-Nom бы давно VP'
+UD_name: ''
+illustration: 'Вообще я бы давно перевел все эти заводы из Минпромторга в Министерство культуры: они имеют только историческое, музейное, культурное значение!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Вообще [я]Agent бы давно [перевел все эти заводы из Минпромторга в Министерство культуры]Action: они имеют только историческое, музейное, культурное значение!
+  - |
+       Если бы можно было, то [я]Agent бы давно [ушел из театра]Action.
+  - |
+       [Другой]Agent бы давно [ушел]Action, а Иван Николаевич слушал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [aux бы] [advmod давно] VP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вообще] [nsubj я] [aux бы] [advmod давно] перевел [obj [det все] [det эти] заводы] [obl [case из] Минпромторга] [obl [case в] Министерство [nmod культуры]]: [parataxis [nsubj они] имеют [obj [amod [advmod только] историческое, [conj музейное], [conj культурное]] значение]]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X would’ve stolen Y long ago
+common_fillers:
+  - сделать
+  - уйти
+  - сказать
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Limitation
+  - type: Volition
+family:
+  - |
+    ""

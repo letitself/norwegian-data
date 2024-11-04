@@ -1,0 +1,52 @@
+---
+record: 3099
+name: 'VP в Adj-Loc ключе/VP в ключе NP-Gen'
+UD_name: ''
+illustration: 'Они развиваются в позитивном ключе'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Эта фраза Владимира Жириновского часто [используется]Activity в [юмористическом]Property ключе.
+  - |
+       Раздел, посвященный проблемам правовой реформы, также [выдержан]State в ключе [«необходимости соответствия законов требованиям современной рыночной экономики».]Property
+  - |
+       Сила, жизнь, любовь, мужское, женское, страх, страдание и так далее, которые [увидены]State уже давно в ключе [нигилизма.]Property
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod Adj-Loc] ключе]]'
+  - '[root VP [obl [case в] ключе [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] развиваются [obl [case в] [amod позитивном] ключе].]'
+equivalents:
+  - english: |
+       in the same vein as
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Domain
+  - type: Temporary characteristics
+    subtypes:
+      - type: Context
+family:
+  - |
+    ""

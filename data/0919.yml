@@ -11,13 +11,15 @@ definitions:
        Konstruksjonen betegner en gitt [handling]Action som innebærer at en gitt deltaker flytter [et objekt]Theme fra et sted til et annet eller får en annen [deltaker]Experiencer til å forlate et gitt [utgangssted]Location. Stedet kan være et konkret område (hus), en organisasjon (skole) eller et abstrakt sted (hjerte, minne, bok).
 examples:
   - |
-       Сын постоянно играет в компьютерные игры. Уже подумываем [компьютер]Theme из [дома]Location [убрать.]Action
+       Уже думаем [компьютер]Theme из [дома]Location [убрать.]Action
   - |
-       У меня и в мыслях не было [выдернуть]Action [картинку]Theme из [книжки]Location или спрятать книжку и не отдать.
+       У меня и в мыслях не было [убрать]Action [картинку]Theme из [книжки]Location.
   - |
-       Зачастую отец испытывает настоящую жгучую ревность к крошечному существу, которое якобы сумело [вытеснить]Action [его]Theme из [сердца]Location жены.
+       Зачастую отец испытывает ревность к крошечному существу, которое сумело [вытеснить]Action [его]Theme из [сердца]Location жены.
   - |
-       Передай матери, что я [исключаю]Action [тебя]Experiencer из [школы!]Location
+       Скажи матери, что я [исключаю]Action [тебя]Experiencer из [школы!]Location.
+  - |
+       Сформировать из теста небольшие хлебцы длиной 20 и толщиной 5 см.
 morphology:
   - VP
   - NP

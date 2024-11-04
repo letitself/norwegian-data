@@ -1,6 +1,6 @@
 ---
 record: 273
-name: 'подумаешь, Cl!'
+name: 'подумаешь, XP!'
 UD_name: 'подумаешь, Cl!'
 illustration: 'Подумаешь, немного опоздал!'
 cefr_level: C1
@@ -13,11 +13,15 @@ definitions:
        Konstruksjonen betyr at taleren forholder seg til en gitt [situasjon]Situation eller [omstendighet]Circumstances med ringeakt, ironi eller spydighet. Taleren mener at situasjonen eller omstendigheten ikke har noe viktig ved seg og at man kan neglisjere, ignorere eller overse den.
 examples:
   - |
-       Подумаешь, [обидится!]Theme
+       Подумаешь, [обидится!]Event
   - |
-       Подумаешь, [тройка]Theme! Это необязательный предмет.
+       Подумаешь, [тройка]Event! Это необязательный предмет.
+  - |
+       Подумаешь, [опоздал на пять минут]Event - нельзя что ли подождать было.
+  - |
+       - У неё муж старый. - Подумаешь, [старый]Property - зато какой богатый!
 morphology:
-  - Cl
+  - XP
 syntactic_type_of_construction:
   - Clause or XP with parentheticals
 syntactic_function_of_anchor:

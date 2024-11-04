@@ -1,0 +1,55 @@
+---
+record: 2636
+name: 'VP/NP-Nom Cop на вес золота'
+UD_name: ''
+illustration: 'В  этой формулировке каждое слово на вес золота, и если действия адвоката не соответствуют хотя бы одному из них, можно лишиться статуса'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Летом [транспортное средство, оборудованное кондиционером]Theme, [ценится пассажирами]State на вес золота.
+  - |
+       Сейчас мне пора, [моё время]Theme на вес золота.
+  - |
+       [Детали машин]Theme в городе ценились на вес золота, и в обычной ремонтной мастерской даже имелся свой охранник.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] вес [nmod золота]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] вес [nmod золота]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det этой] формулировке] [nsubj [det каждое] слово] [case на] вес [nmod золота], [conj [cc и] [advcl [mark если] [nsubj действия [nmod адвоката]] [advmod не] соответствуют [iobj [advmod хотя [fixed бы]] одному [nmod [case из] них]]], можно [csubj лишиться [obj статуса]]]]'
+equivalents:
+  - english: |
+       worth its weight in gold
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

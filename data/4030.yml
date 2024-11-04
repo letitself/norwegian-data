@@ -1,0 +1,48 @@
+---
+record: 4030
+name: 'чудом не VP'
+UD_name: ''
+illustration: 'Сам он тогда чудом не пострадал.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Внезапно потеряет сознание за рулем, чудом не [разобьется]Event.
+  - |
+       Как только Булат увидел стариков, сдёрнул автомат и скосил их, чудом не [задев своих]Event.
+  - |
+       Сотрудник, чудом не [впавший в ступор]Event, записывает и это.
+  - |
+       Труба съехала набекрень и чудом не [обрушивалась]Event.
+  - |
+       Оказалось, что экспедицию в горах накрыла лавина, все только чудом не [замерзли]Event, выжили.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Adverb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [obl чудом] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Сам] он] [advmod тогда] [obl чудом] [advmod не] пострадал.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

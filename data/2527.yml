@@ -1,0 +1,51 @@
+---
+record: 2527
+name: 'для начала Cl'
+UD_name: ''
+illustration: 'Возьму салат для начала, потом закажу горячее.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Может быть, для начала [сходим в Эрмитаж]Situation?
+  - |
+       [Необходимо осмотреть вас]Situation для начала, заполнить медицинский опросник.
+  - |
+       Для начала [я пригласил узкий круг своих друзей в единственный приличный ресторан нашего городка]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case для] начала] Cl]'
+dependency_structure_of_illustration:
+  - '[root Возьму [obj салат] [obl [case для] начала], [conj [advmod потом] закажу [obj горячее]].]'
+equivalents:
+  - english: |
+       To begin with
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic
+  - type: Purpose
+family:
+  - |
+    ""

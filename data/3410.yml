@@ -1,0 +1,68 @@
+---
+record: 3410
+name: 'кто PronPers-Acc за язык тянул?'
+UD_name: ''
+illustration: '― Да не надо было ничего им говорить! Кто тебя за язык тянул?'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       ― Ай, ай, зачем это вы всё говорили, кто [вас]Participant за язык тянул?
+  - |
+       – Я отдал ей пять яиц и сказал, что всегда буду белые яйца ей отдавать. ― [Тебя]Participant кто за язык тянул? ― досадуя, спросила у Фетисыча мать.
+  - |
+       Ну и вляпался! Главное, кто [его]Participant за язык тянул?
+  - |
+       Лиля, ну кто [тебя]Participant за язык тянул?
+  - |
+       И для чего он назвался немцем, подумалось, кто [его]Participant за язык тянул?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Preposition
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj Кто] [PronPers-Acc тебя] [obl [case за] язык] тянул?]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Кто] [obj тебя] [obl [case за] язык] тянул?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X didn't force Y to talk/X didn't drag it out of Y
+common_fillers:
+  - тебя
+  - вас
+  - его
+  - её
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

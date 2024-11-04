@@ -1,0 +1,52 @@
+---
+record: 3049
+name: 'VP направо и налево/направо-налево/налево и направо/налево-направо'
+UD_name: ''
+illustration: 'Елена веселится, танцует направо и налево, смеётся ― на жениха вовсе не обращая внимания.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Заводил романы]Activity направо-налево… Большого чувства я в его жизни не видела.
+  - |
+       [Изменял]Activity он ей, как говорится, направо и налево.
+  - |
+       Бандиты стали вдруг самыми уважаемыми членами общества, принялись [раздавать]Activity направо-налево интервью, учить уму-разуму, рассуждать о политике, об экономике, создавать свои партии.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

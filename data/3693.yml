@@ -1,0 +1,49 @@
+---
+record: 3693
+name: 'VP параллельно/одновременно с NP-Ins'
+UD_name: ''
+illustration: 'Параллельно с ростом ставок по вкладам у банков меняются и ипотечные ставки.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Параллельно с [шутками]BackgroundSituation участники [делились массой интересных сведений]Activity.
+  - |
+       [Поиски жанра Платонова во многом шли]Activity параллельно с [развитием современной литературы]BackgroundSituation.
+  - |
+       На Физтехе одновременно с [конференцией ICENET-2014]BackgroundSituation [прошла]Event ещё одна масштабная международная конференция в области LifeScience — ФизтехБио.
+  - |
+       Одновременно с [Ириной Шостаковской]Participant в Израиле [работала]Activity Анна Горенко.
+  - |
+       Параллельно с [работой над книгой Чуковской]BackgroundSituation [шла подготовка]Activity нового выпуска журнала.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod параллельно] [obl [case с] NP-Ins]]'
+  - '[root VP [advmod одновременно] [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Параллельно] [obl [case с] ростом [nmod ставок [nmod [case по] вкладам]]] [obl [case у] банков] меняются [cc и] [nsubj [amod ипотечные] ставки].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

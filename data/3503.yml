@@ -1,0 +1,55 @@
+---
+record: 3503
+name: 'Cl, не VP-Imp.Sg NP-Nom'
+UD_name: ''
+illustration: 'Я бы в них не стреляла, не направляй'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Возможно, не [перечитывай она вовремя «Братьев Карамазовых»]Condition, [давно бы кого-нибудь убила]Situation.
+  - |
+       Не [будь Лобачевского]Condition, [другой вывел бы правила неевклидовой геометрии]Situation.
+  - |
+       У Марины сложилось впечатление, что не [будь это запрещено]Condition ― [это вообще никого бы не заинтересовало]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[advcl [advmod не] VP-Imp.Sg [nsubj NP-Nom]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Их] [nsubj я] [aux бы] стреляла, [advcl [advmod не] [cop будь] [nsubj я] пацифистка].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       if X wasn't Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Limitation
+  - type: Salient property
+    subtypes:
+      - type: Belonging to a class
+family:
+  - |
+    ""

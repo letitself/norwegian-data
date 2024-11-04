@@ -1,0 +1,52 @@
+---
+record: 3944
+name: 'взять/брать NP-Aсс в пример'
+UD_name: ''
+illustration: 'В пример нужно брать честных и трудолюбивых людей.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       — Возьмите в пример [опыт управления компанией наших конкурентов]Standard.
+  - |
+       Не берите в пример [Годовского]Standard, он тот еще негодяй.
+  - |
+       Про дружину узнают по всей стройке, возьмут [ее]Standard в пример
+  - |
+       Ты бы, Антон, брал в пример себе [Самгина]Standard
+  - |
+       Кто-то взял себе в пример [родственника]Standard, кто-то друга, кто-то вымышленного персонажа.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root взять [obj NP-Aсс] [obl [case в] пример]]'
+  - '[root брать [obj NP-Aсс] [obl [case в] пример]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] пример] нужно [xcomp брать [obj [amod честных [cobj [cc и] трудолюбивых]] людей]].]'
+comment: |
+    'См. также синонимичные 1232 VP по примеру NP-Gen - По примеру старшей сестры он стал работать в музее; 3943 взять/брать пример с NP-Gen - Костя во многом брал пример со старшего брата.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

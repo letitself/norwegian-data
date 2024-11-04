@@ -1,0 +1,54 @@
+---
+record: 3460
+name: 'найти-Pst о чём/ком VP-inf'
+UD_name: ''
+illustration: 'Нашел, о чем печалиться, о коробках каких-то!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я рассказал Наташке о том, чувствую себя последней сволочью из-за своего поступка. ― Нашел о чем [переживать]State! ― фыркнула Наташка,
+  - |
+       Нашел, о чем [печалиться]State, о коробках каких-то!
+  - |
+       Я думал о девочке с голубыми волосами… ― Нашел о ком [думать]State, вот дурень!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root найти-Pst, [xcomp [obl [case о] чем] VP-Inf]]'
+  - '[root найти-Pst, [xcomp [obl [case о] ком] VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root Нашел, [xcomp [obl [case о] чем] печалиться, [conj [obl [case о] коробках [det каких-то]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - думать
+  - переживать
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+family:
+  - |
+    ""

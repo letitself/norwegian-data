@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren spør hva samtalepartneren mener om [et gitt spørsmål]ContentOfSpeech eller [meddeler en opplysning eller vurdering]ContentOfSpeech og spør om samtalepartneren er enig i dette. Konstruksjonen kan formidle at taleren forholder seg skeptisk til samtalepartnerens mening og egentlig er uenig.
 examples:
+  - |
+       К кому [нам следует обратиться]Situation, по-твоему?
+  - |
+       [Все актёры много зарабатывают]Situation, по-твоему?
+  - |
+       [Это я написала]Situation, по-вашему?
+  - |
+       По вашему, [я могла что-то не так понять]Situation?
+  - |
+       По-твоему, [это поэзия]Theme?
 morphology:
   - Cl
 syntactic_type_of_construction:

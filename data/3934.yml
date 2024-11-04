@@ -1,0 +1,54 @@
+---
+record: 3934
+name: 'нет (никаких) гарантий (на то), что Cl'
+UD_name: ''
+illustration: 'Нет гарантий, что они выполнят обещание.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Нет гарантий, что [главное — в чем-то другом]Situation.
+  - |
+       С другой стороны, нет никаких гарантий, что [ты живой и невредимый вернешься домой]Situation.
+  - |
+       И нет гарантий, что [оценка эта объективна]Situation.
+  - |
+       Нет гарантий на то, что [деньги поступят на счета]Situation.
+  - |
+       К тому же нет никаких гарантий на то, что [нас жизнь свяжет надолго с человеком и эта пара поженится и заведет семью]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Noun
+  - Preposition
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root нет [nsubj [det никаких] гарантий [nmod [case на] то]], [ccomp [mark что] Cl]]'
+  - '[root нет [nsubj [det никаких] гарантий], [ccomp [mark что] Cl]]'
+  - '[root нет [nsubj гарантий [nmod [case на] то]], [ccomp [mark что] Cl]]'
+  - '[root нет [nsubj гарантий], [ccomp [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Нет [nsubj гарантий], [ccomp [mark что] [nsubj они] выполнят [obj обещание]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 3533
+name: 'Cl, вот и все'
+UD_name: ''
+illustration: 'Я ее люблю, и хочу, чтобы ей было хорошо, вот и все.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Если не можете расплатиться, просто [выйдете на следующей остановке]Situation, вот и все.
+  - |
+       Я говорю, что [нужно сначала получить образование]Situation, вот и все.
+  - |
+       [День был тяжелый]Situation, вот и все.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - conjunction
+  - Pronoun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl'
+  - '[conj вот [nsubj [advmod и] всё]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obj ее] люблю, [conj [cc и] хочу, [ccomp [mark чтобы] [iobj ей] [cop было] хорошо]], [conj вот [nsubj [advmod и] всё]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       and that's all there is to it
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+family:
+  - |
+    ""

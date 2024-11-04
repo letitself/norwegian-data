@@ -1,0 +1,47 @@
+---
+record: 3777
+name: 'NP-Nom дать прикурить NP-Dat'
+UD_name: ''
+illustration: 'Роберт Плант настолько хорошо поет вживую, что даст прикурить некоторым молодым рокерам'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Так он попадет в команду, [которая]Comparee с его помощью даст прикурить [именитым спортсменам]Standard.
+  - |
+       Но в плане камер я уверен, что [новая модель]Comparee даст прикурить [прошлой версии телефона]Standard.
+  - |
+       Старички еще не сдулись, [они]Comparee вполне могут дать прикурить [молодым]Standard.
+  - |
+       В следующем матче [мы]Comparee дадим прикурить [этому задроту]Standard, да, пацаны?
+  - |
+       Но все эти цифры паспорта – сущая ерунда, ведь [Немоляева]Comparee в спектакле дает прикурить [молодым своим коллегам]Standard.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] дать [xcomp прикурить][iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Роберт [flat Плант]] [advmod настолько] [advmod хорошо] поет [advmod вживую], [advcl [mark что] даст [xcomp прикурить] [iobj [det некоторым] [amod молодым] рокерам]]]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2045
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3342
+name: 'проходу/прохода нет от NP-Gen'
+UD_name: ''
+illustration: 'Жулики проклятые, проходу нет от них!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Два дня, как заступил на должность, а от [клиентов]Set уж проходу нету.
+  - |
+       Всю нашу русскую литературу испоганили, прохода нет от [этих современных авторов!]Set
+  - |
+       Петя богат, а возле дома его проходу нет от [грязи]Set -- не может что ли построить дорогу?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj проходу] нет [obl [case от] NP-Gen]]'
+  - '[root [nsubj прохода] нет [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Жулики] проклятые, [conj [nsubj проходу] нет [obl [case от] них]].]'
+equivalents:
+  - english: |
+       a lot
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

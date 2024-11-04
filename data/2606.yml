@@ -1,0 +1,50 @@
+---
+record: 2606
+name: 'VP за семью замками'
+UD_name: ''
+illustration: 'Секреты алькова, если таковые имелись, были скрыты за семью замками'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       В ту пору все это [находилось]State за семью замками.
+  - |
+       Старые книги отобраны, сожжены или [хранятся]State за семью замками для посвященных.
+  - |
+       Если пришли гости, не надо сажать вашего телохранителя на цепь или [прятать]Activity за семью замками ― без серьезной причины или специальной команды он не нападает.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Numeral
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] [nummod семью] замками]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Секреты [nmod алькова]], [advcl [mark если] [nsubj таковые] имелись], [aux были] скрыты [obl [case за] [nummod семью] замками]]'
+equivalents:
+  - english: |
+       under seven seals
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 2943
+name: 'так вот, Cl'
+UD_name: ''
+illustration: 'Так вот, этой программой пользоваться необязательно.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Так вот, [у него трехкомнатная квартира,]ContentOfSpeech он её может обменять на двухкомнатная с доплатой.
+  - |
+       Так вот, [на этой видеозаписи виден момент нанесения ударов потерпевшему и видно, что его бьют совсем другие люди]ContentOfSpeech.
+  - |
+       Так вот, [на аукционе была представлена огромная работа Малевича в виде черно-красного креста]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       So
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+      - type: Discourse additive
+family:
+  - |
+    ""

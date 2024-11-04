@@ -1,0 +1,58 @@
+---
+record: 3455
+name: 'VP куда Adj-Comp/Adv-Comp, чем XP'
+UD_name: ''
+illustration: 'Если попасть на эту улицу в день города, то разнообразия будет куда больше, чем в обыденный день.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Если попасть на эту улицу в день города, то [разнообразия]Comparee будет куда [больше]Parameter, чем [в обыденный день]Standard.
+  - |
+       Дорогое это удовольствие – помирать. [Жить]Comparee куда [дешевле]Parameter, чем [оплачивать похороны]Standard.
+  - |
+       [Оттуда выбраться]Comparee куда [сложнее]Parameter, чем [туда попасть]Standard.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root [csubj VP] [advmod куда] Adj-Comp, [obl [mark чем] XP]]'
+  - '[root VP [advmod [advmod куда] Adj-Comp, [obl [mark чем] XP]]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] попасть [obl [case на] [det эту] улицу] [obl [case в] день [nmod города]], [mark то] [nsubj разнообразия] [cop будет] [advmod куда] больше, [obl [mark чем] [case в] [amod обыденный] день].]'
+comment: |
+    'См. близкую конструкцию 172.'
+equivalents:
+  - english: |
+       far more often than P
+common_fillers:
+  - лучше
+  - хуже
+  - больше
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Contrast
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 2779
+name: 'VP от корки до корки'
+UD_name: ''
+illustration: 'Они прочитали роман от корки до корки, стали читать его снова, потом читали вдвоём отдельные сцены'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Это было нечто посолиднее, чем давно [изученный]Action от корки до корки истрепанный путеводитель Британского музея.
+  - |
+       Журнал [читаю]Activity от корки до корки, старые номера перечитываю по многу раз, но читаю одна: мужчины в моей семье не читают.
+  - |
+       Когда вся толстая общая тетрадь была [исписана]Action от корки до корки, Вася пришёл ко мне.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] корки] [obl [case до] корки]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] прочитали [obj роман] [obl [case от] корки] [obl [case до] корки], [conj стали [xcomp читать [obj его] [advmod снова]]], [conj [advmod потом] читали [advmod вдвоём] [obj [amod отдельные] сцены]]]'
+equivalents:
+  - english: |
+       from cover to cover
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 2445
+name: 'NP-Nom Cop в полном параде/при параде'
+UD_name: ''
+illustration: 'Стенин был в полном параде ― крахмальный воротничок, великолепный галстук, отутюженный коричневый костюм'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Император]Agent был в орденах, в пудреном парике, ― словом, в полном параде.
+  - |
+       [Мы]Agent в машине, с букетом, в полном параде явились к ней на квартиру.
+  - |
+       [Он]Agent во фраке и белых нитяных перчатках; они мешают ему кушать, но он решил блистать во всем параде.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] [amod полном] параде]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case при] параде]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Стенин] [cop был] [case в] [amod полном] параде ― [conj [amod крахмальный] воротничок], [conj [amod великолепный] галстук], [conj [amod отутюженный] [amod коричневый] костюм].]'
+equivalents:
+  - english: |
+       dressed to the nines
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Sensory property
+family:
+  - |
+    ""

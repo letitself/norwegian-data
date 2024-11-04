@@ -1,0 +1,55 @@
+---
+record: 3728
+name: 'избави/избавь (PronPers) Бог/Боже/Господи от NP-Gen/Conj Cl/VP-Inf'
+UD_name: ''
+illustration: 'Избавь меня, Боже, от расточительности.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Боже избави [опоздать на такое мероприятие]Situation.
+  - |
+       Избави Бог, если [каждый день будет столько визитов]Situation.
+  - |
+       Избави Бог, чтобы [так решался вопрос]Situation.
+  - |
+       Происходит такой ужасный самосуд, от [которого]Situation избави Господи самого бесчеловечного преступника.
+  - |
+       — Избави бог от [такой родни]Situation! — оторопел Ковшов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root избавь [obj PronPers] [nsubj Бог] [obl [case от] NP-Gen]]'
+  - '[root избавь [nsubj Бог] [obl [case от] NP-Gen]]'
+  - '[root избави [obj PronPers] [nsubj Бог] [obl [case от] NP-Gen]]'
+  - '[root избави [nsubj Бог] [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root Избавь [obj меня], [nsubj Боже], [obl [case от] расточительности].]'
+equivalents:
+common_fillers:
+  - меня
+  - вас
+  - их
+references:
+  - |
+    Баранов, Добровольский 2008
+semantic_types:
+family:
+  - |
+    ""

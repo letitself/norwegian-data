@@ -1,0 +1,54 @@
+---
+record: 3389
+name: 'тьма(-)тьмущая NP-Gen Cop / NP-Gen'
+UD_name: ''
+illustration: 'А птиц на Аляске тьма-тьмущая.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Количество туристов в Амстердаме тоже неизменно: [их]Set в Амстердаме всегда тьма-тьмущая.
+  - |
+       У нас в стране развелась тьма-тьмущая [критиков Маркса.]Set
+  - |
+       Из употребления выпадает тьма-тьмущая [слов.]Set
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root тьма - [amod тьмущая] [nmod NP-Gen]]'
+  - '[root [nsubj тьма - [amod тьмущая]] NP-Gen [cop Cop]]'
+  - '[root тьма [amod тьмущая] [nmod NP-Gen]]'
+  - '[root [nsubj тьма [amod тьмущая]] NP-Gen [cop Cop]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] птиц [obl [case на] Аляске] [nsubj тьма - [amod тьмущая]].]'
+equivalents:
+  - english: |
+       serves X right
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

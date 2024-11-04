@@ -1,0 +1,54 @@
+---
+record: 3156
+name: '(у NP-Gen) голова болит о NP-Loc'
+UD_name: ''
+illustration: 'Пусть у каждого голова болит о своем.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Если еще десяток лет назад городские и региональные власти были обеспокоены тем, как создать новые рабочие места, то сегодня голова болит о [том, как заполнить уже существующие.]Stimulus
+  - |
+       Но на самом деле эту задачу нельзя возлагать на руководителей, которые должны ежедневно принимать решения и у [которых]Experiencer голова болит о [другом.]Stimulus
+  - |
+       У [тебя]Experiencer в отпуске голова болела о [работе?]Stimulus
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj голова] болит [obl [case о] NP-Loc]]'
+  - '[root [nsubj голова] болит [obl [case о] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Пусть] [obl [case у] каждого] [nsubj голова] болит [obl [case о] своем].]'
+equivalents:
+  - english: |
+       lose sleep over Y
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Concern
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

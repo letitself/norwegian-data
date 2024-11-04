@@ -1,0 +1,57 @@
+---
+record: 4073
+name: 'NP-Nom в NP-Prep, как свинья в апельсинах/как баран в библии (разбираться/понимать/смыслить)'
+UD_name: ''
+illustration: 'Он же в проблемах экономики разбирается, как свинья в апельсинах!'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       [В футболе]Parameter [Митя]Cognizer разбирался как свинья в апельсинах, но трансляции заставлял себя смотреть регулярно.
+  - |
+       Ты можешь только цифры складывать, а [в языках]Paramter [ты]Cognizer разбираешься, как баран в библии!
+  - |
+       Вы уж, пожалуйста, Диодор Иванович, не слушайтесь ее, [она]Cognizer [в стихах]Parameter понимает, как свинья в апельсинах.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+  - Conjunction
+  - Noun
+  - Preposition
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Prep], [advcl [mark как] свинья [nmod [case в] апельсинах]] разбираться]'
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Prep], [advcl [mark как] свинья [nmod [case в] апельсинах]] понимать]'
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Prep], [advcl [mark как] свинья [nmod [case в] апельсинах]] смыслить]'
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Prep], [advcl [mark как] баран [nmod [case в] библии] разбираться]'
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Prep], [advcl [mark как] баран [nmod [case в] библии] понимать]'
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Prep], [advcl [mark как] баран [nmod [case в] библии] смыслить]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod же] [obl [case в] проблемах [nmod экономики]] разбирается, [asdvcl [mark как] свинья [nmod [case в] апельсинах]]!]'
+comment: |
+    'См. также синонимичные конструкции 4074-4078'
+equivalents:
+common_fillers:
+  - понимать
+  - разбиратьсяь
+  - смыслить
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

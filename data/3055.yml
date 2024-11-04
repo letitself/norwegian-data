@@ -1,0 +1,55 @@
+---
+record: 3055
+name: 'VP-Inf/NP-Nom (ещё) куда ни шло, а/но Cl'
+UD_name: ''
+illustration: 'Терпеть неделю, месяц  ― куда ни шло, но прожить так несколько лет невозможно.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Поколение «Пепси»]Comparee ещё куда ни шло..., но [следующее поколение]Standart сумеет защитить свою страну только от компьютерных вирусов...
+  - |
+       [Кофе с корицей]Comparee еще куда ни шло, но [с черным перцем]Standart – нет уж, спасибо.
+  - |
+       [Отказываться от печенья]Comparee куда ни шло, но [от мороженого…]Standart
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod ещё] [advmod куда] [advmod ни] шло, [conj [cc а] Cl]]'
+  - '[root [csubj VP-Inf] [advmod ещё] [advmod куда] [advmod ни] шло, [conj [cc а] Cl]]'
+  - '[root [nsubj NP-Nom] [advmod ещё] [advmod куда] [advmod ни] шло, [conj [cc но] Cl]]'
+  - '[root [csubj VP-Inf] [advmod ещё] [advmod куда] [advmod ни] шло, [conj [cc но] Cl]]'
+  - '[root [nsubj NP-Nom] [advmod куда] [advmod ни] шло, [conj [cc а] Cl]]'
+  - '[root [csubj VP-Inf] [advmod куда] [advmod ни] шло, [conj [cc а] Cl]]'
+  - '[root [nsubj NP-Nom] [advmod куда] [advmod ни] шло, [conj [cc но] Cl]]'
+  - '[root [csubj VP-Inf] [advmod куда] [advmod ни] шло, [conj [cc но] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [csubj Терпеть [obj неделю, [conj месяц]]] - [advmod куда] [advmod ни] шло, [conj [cc но] [csubj прожить [advmod так] [obl [nummod несколько] лет]] невозможно].]'
+equivalents:
+  - english: |
+       X is okay, but
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

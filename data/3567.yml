@@ -1,0 +1,56 @@
+---
+record: 3567
+name: 'но хватит о/об NP-Loc'
+UD_name: ''
+illustration: 'Но хватит о грустном ― тем более, что грустное на этом, собственно, и заканчивается.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Если хорошенько подумать, она меня не любит. Но хватит об [этом]Topic. А то сколько раз можно об одном и том же?
+  - |
+       Но хватит о [моих проблемах]Topic, вы-то что здесь делаете?
+  - |
+       Но хватит о [работе]Topic, пора и отдохнуть.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [cc но] хватит [obl [case о] NP-Loc]]'
+  - '[root [cc но] хватит [obl [case об] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [cc Но] хватит [obl [case о] грустном] ― [advcl [advmod [obl тем] более], [mark что] [nsubj грустное] [obl [case на] этом], [parataxis собственно], [advmod и] заканчивается].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       enough about X
+common_fillers:
+  - этом
+  - грустном
+  - плохом
+  - проблемах
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic change
+family:
+  - |
+    ""

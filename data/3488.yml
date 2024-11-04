@@ -1,0 +1,59 @@
+---
+record: 3488
+name: 'NP-Dat (не) повезло с NP-Ins'
+UD_name: ''
+illustration: 'Ей просто не повезло со мной, она большего заслуживает.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Вам]Experiencer в школе с [уроками литературы]Topic повезло? Они помогли полюбить чтение?
+  - |
+       В продолжение двух часов он внушает телезрителям, как надо понимать то, что произошло в мире, как [нам]Experiencer всем повезло с [нашим президентом]Topic и как весь мир нам завидует.
+  - |
+       [Вам]Experiencer просто не повезло с [учителем]Topic: профессионал приучает думать и выражать свои мысли грамотным литературным языком.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [advmod не] повезло [obl [case с] NP-Ins]]'
+  - '[root [iobj NP-Dat] повезло [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ей] [advmod просто] [advmod не] повезло [obl [case со] мной], [conj [nsubj она] [obj большего] заслуживает].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       P was just unlucky with
+common_fillers:
+  - погодой
+  - отцом
+  - учителем
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

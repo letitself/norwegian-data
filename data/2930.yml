@@ -1,0 +1,50 @@
+---
+record: 2930
+name: 'VP со всей полнотой'
+UD_name: ''
+illustration: 'Со всей полнотой развернулось творчество Дадиани в годы советской власти.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Сама она еще недавно думала, что [любит Володю]State со всей полнотой и самоотверженностью.
+  - |
+       Храбрость и мужество русских моряков со всей полнотой [обнаружились в этом сражении]Result.
+  - |
+       Надо со всей полнотой [учитывать]State, в каком историко-литературном контексте создавалось это произведение.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [det всей] полнотой]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       amply
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

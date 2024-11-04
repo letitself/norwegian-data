@@ -1,0 +1,51 @@
+---
+record: 3216
+name: 'лошадиная доза NP-Gen'
+UD_name: ''
+illustration: 'На ночь он принял лошадиную дозу снотворного, чтобы мгновенно уснуть.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Лошадиная доза культуры влилась в него из прочитанных книг.
+  - |
+       Она никак не могла успокоиться, несмотря на лошадиную дозу соответствующих препаратов.
+  - |
+       Ему дали лошадиную дозу аспирина.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [amod лошадиная] доза [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] ночь] [nsubj он] принял [obj [amod лошадиную] дозу [nmod снотворного]], [advcl [mark чтобы] [advmod мгновенно] уснуть].]'
+equivalents:
+  - english: |
+       A huge dose
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

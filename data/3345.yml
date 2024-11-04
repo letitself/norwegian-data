@@ -1,0 +1,50 @@
+---
+record: 3345
+name: 'ради бога, CL'
+UD_name: ''
+illustration: 'Ради Бога, извините, он сегодня не сможет ни с кем говорить.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       "Ради Бога, [не надо,]ContentOfSpeech ― сказал я ей, ― оставь меня со своим горем".
+  - |
+       ― Конечно, не против. [Оставайся,]ContentOfSpeech ради бога, ― сказала мать.
+  - |
+       Только что выпила целую бутылку холодного пива… Ради бога, [не сердитесь…]ContentOfSpeech
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis Ради [obl Бога]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Ради [obl Бога]], [parataxis извините], [nsubj он] [advmod сегодня] [advmod не] сможет [xcomp [obl [advmod ни] [case с] кем] говорить].]'
+equivalents:
+  - english: |
+       For God's sake
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+  - type: Request
+family:
+  - |
+    ""

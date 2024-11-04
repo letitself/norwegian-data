@@ -1,0 +1,49 @@
+---
+record: 3118
+name: 'VP в чём мать родила'
+UD_name: ''
+illustration: 'Он выбежал из бани в чём мать родила.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Поскидывали смелые парни одежду и ― в чем мать родила ― [в прорубь попрыгали.]Action
+  - |
+       Простыня падает на пол ― Игнатов [остается]Action в чем мать родила.
+  - |
+       Я тоже иду, но тут получается конфуз: все уже оделись, а я ― в чём мать родила.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [parataxis [obl [case в] чем] [nsubj мать] родила]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] выбежал [obl [case из] бани] [parataxis [obl [case в] чём] [nsubj мать] родила].]'
+equivalents:
+  - english: |
+       in the buff
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Salient property
+    subtypes:
+      - type: Sensory property
+family:
+  - |
+    ""

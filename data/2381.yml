@@ -1,0 +1,51 @@
+---
+record: 2381
+name: 'VP без промаха/промаху'
+UD_name: ''
+illustration: 'Несчастья сегодня бьют по Славке без промаха, до конца.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Власти убеждают, что на этот раз все [обойдется]Result без промаха.
+  - |
+       Она знала, что это оружие [действует на мужчин]Action без промаху.
+  - |
+       Он должен был [отснять фильм]Result быстрее и дешевле обычного, а главное, без промаха.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] промаха]]'
+  - '[root VP [obl [case без] промаху]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Несчастья] [advmod сегодня] бьют [obl [case по] Славке] [obl [case без] промаха, [conj [case до] конца]].]'
+equivalents:
+  - english: |
+       without missing
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Exact
+  - type: Manner
+family:
+  - |
+    ""

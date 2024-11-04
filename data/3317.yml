@@ -1,0 +1,51 @@
+---
+record: 3317
+name: 'VP по первому разу'
+UD_name: ''
+illustration: 'Ресторанчик по первому разу  произвел неприятное, захолустное впечатление.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По первому разу [ладошки, что скрывать, потели,]Situation потом пришло спокойствие, а теперь, можно сказать, безразличие.
+  - |
+       По первому разу [их музыка кажется пиром техники ― как электронной, так и исполнительской.]Situation
+  - |
+       И людям, которые уже не по первому разу [присутствовали на таких заседаниях,]Situation было ясно, куда клонится дело.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] [amod первому] разу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ресторанчик] [obl [case по] [amod первому] разу] произвел [obj [amod неприятное, [conj захолустное]] впечатление].]'
+equivalents:
+  - english: |
+       cut the coat according to the cloth
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

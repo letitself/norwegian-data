@@ -1,0 +1,60 @@
+---
+record: 3624
+name: 'такой уж это (Adj) Noun'
+UD_name: ''
+illustration: 'Потому что такая уж это трудная профессия ― журналистика.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Такая уж это [многогранная]Evaluation [сфера деятельности]Participant, как ни крутись, без торговли нигде не обойтись.
+  - |
+       Такой уж это [недолговечный]Evaluation [товар]Participant, не требуй от них большего.
+  - |
+       Такая уж это [каверзная]Evaluation [проблема]Participant: чем глубже в нее влезаешь, тем больше нерешенных вопросов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Particle
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [det такой [advmod уж]] [nsubj это] [amod Adj] Noun]'
+dependency_structure_of_illustration:
+  - '[root [mark Потому [mark что]] [det такая [advmod уж]] [nsubj это] [amod трудная] профессия ― [appos журналистика]]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is an A Y like that
+common_fillers:
+  - человек
+  - дело
+  - профессия
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

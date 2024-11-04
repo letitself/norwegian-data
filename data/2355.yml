@@ -42,9 +42,10 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - ~
+  - '[root [advmod не] проходить [nsubj [advmod и] NP-Gen], [advcl [mark чтобы] [advmod не] Cl]]'
+  - '[root [advmod не] проходить [nsubj [nummod [advmod и] NumCrd-Gen] NP-Gen], [advcl [mark чтобы] [advmod не] Cl]]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root [cc А] [advmod всё-таки] [advmod не] проходит [nsubj [advmod и] года], [advcl [mark чтобы] [obj мир] [advmod не] потрясла [nsubj [amod новая] находка]].]'
 comment: |
     'Не путать с конструкцией 199.'
 equivalents:

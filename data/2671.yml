@@ -1,0 +1,49 @@
+---
+record: 2671
+name: 'VP/NP на злобу дня'
+UD_name: ''
+illustration: 'Ещё когда я читал только его репортажи на злобу дня, я почувствовал ― по запаху ― что это тот человек, с которым я мог бы общаться'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Его концерты часто превращались в почти что [спектакли]Theme на злобу дня ― с персонажами, декорациями и прочей соответствующей атрибутикой.
+  - |
+       Хорошая [колонка]Theme на злобу дня должна содержать в себе какое-нибудь дополнительное дно и обязательную иронию.
+  - |
+       На злобу дня министр [поговорил о модернизации, защите конкуренции и ликвидации монополий в стране]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] злобу [nmod дня]]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [advmod Ещё] [mark когда] [nsubj я] читал [advmod только] [obj [det его] репортажи [nmod [case на] злобу [nmod дня]]]], [nsubj я] почувствовал ― [obl [case по] запаху] ― [ccomp [mark что] [nsubj это] [det тот] человек, [acl [case с] [obl которым] [nsubj я] мог [aux бы] [xcomp общаться]]]]'
+equivalents:
+  - english: |
+       topic of the day
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Relevance
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 2808
+name: 'VP по дешевке'
+UD_name: ''
+illustration: 'Помню огромные сумки с фруктами, которые мама как работник фирмы покупала на работе по дешевке'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       В воскресенье они с Василием по дешевке [купили]Action на рынке две свиные ноги.
+  - |
+       Творческие интеллектуалы не желают [продавать свою продукцию]Action по дешевке.
+  - |
+       Но не надо [везти]Action сюда по дешевке овощи, которые мы сами выращиваем!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] дешевке]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       cheap
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Measure
+    subtypes:
+      - type: Money
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

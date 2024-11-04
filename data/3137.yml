@@ -1,0 +1,52 @@
+---
+record: 3137
+name: 'врагу не пожелать-Prs.2.Sg NP-Acc/VP-Inf'
+UD_name: ''
+illustration: 'Врагу не пожелаешь такое пережить.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Кто бы ни был, но [оказаться в темноте и холоде, в полном беззащитном одиночестве]Situation — такое и врагу не пожелаешь.
+  - |
+       Врагу не пожелаешь [иметь больного ребенка.]Situation
+  - |
+       [Такой истории]Situation врагу не пожелаешь.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj врагу] [advmod не] пожелать-Prs.2.Sg [obj NP-Acc]]'
+  - '[root [iobj врагу] [advmod не] пожелать-Prs.2.Sg [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Врагу] [advmod не] пожелаешь [xcomp [det такое] пережить].]'
+equivalents:
+  - english: |
+       not to wish on X's enemy
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General assessment
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

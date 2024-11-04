@@ -1,0 +1,54 @@
+---
+record: 3383
+name: 'NP-Nom сидеть/стоять NP-Ins/как NP-Nom'
+UD_name: ''
+illustration: 'Чертопханов сидел, как истукан, только глазами поводил кругом.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Заперся изнутри и сидит, как [сыч.]Standart
+  - |
+       Чего сидишь, как [барин?]Standart
+  - |
+       [Он]Comparee стоял, как [статуя,]Standart и ждал вопросов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] сидеть [obl [mark как] NP-Nom]]'
+  - '[root [nsubj NP-Nom] стоять [obl [mark как] NP-Nom]]'
+  - '[root [nsubj NP-Nom] сидеть [obl NP-Ins]]'
+  - '[root [nsubj NP-Nom] стоять [obl NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Чертопханов] сидел, [obl [mark как] истукан], [conj [сс только] [obl глазами] поводил [advmod кругом]].]'
+equivalents:
+  - english: |
+       stand like
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Salient property
+    subtypes:
+      - type: Visual property
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2819
+name: 'по меньшей мере XP'
+UD_name: ''
+illustration: 'С тех пор число потенциальных доноров возросло по меньшей мере в 4 раза'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       В пользу такой точки зрения говорят по меньшей мере [два обстоятельства]Participant.
+  - |
+       В цирк они ходили по меньшей мере [раз в неделю]Manner.
+  - |
+       Я думаю, он мне по меньшей мере [двадцать писем]Quantity оттуда, из госпиталя, прислал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       at least
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: At least
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 2873
+name: 'VP с/со спокойным сердцем'
+UD_name: ''
+illustration: 'Подготовившись к экзамену, он пошёл отдыхать со спокойным сердцем.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Всё, тяжёлый день позади, и можно [уснуть]Action со спокойным сердцем.
+  - |
+       На другой день была взята Калужская, и Кубанский отряд [расположился]Action наконец со спокойным сердцем на отдых.
+  - |
+       [Выставлять комнатные растения на открытый воздух]Action со спокойным сердцем можно только после того, как окончательно минует угроза заморозков.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [amod спокойным] сердцем]]'
+  - '[root VP [obl [case с] [amod спокойным] сердцем]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with a clear conscience
+common_fillers:
+  - уйти
+  - уехать
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+family:
+  - |
+    ""

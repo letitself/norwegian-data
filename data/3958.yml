@@ -1,0 +1,47 @@
+---
+record: 3958
+name: 'XP, (то-сё/то да сё), пятое-десятое'
+UD_name: ''
+illustration: 'Так, поговорили по душам. То-сё, пятое-десятое...'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Я никудышный муж, [который вечно]Situation то, сё, пятое-десятое...
+  - |
+       Дают на выбор три темы, нужно писать про первое, про второе или про третье ― а я [пишу про]Activity пятое-десятое.
+  - |
+       Ты, говорит, невеста, купишь себе [одежку, обувку]Theme, пятое-десятое.
+  - |
+       Да тоже ведь хлопоты… [лжесвидетелям плати]Situation, то да се, пятое-десятое…
+  - |
+       Подумай сам ― квартирку он себе справил, [мебель]Theme, то-се, пятое-десятое…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj XP] — [expl это] что-то [nmod [case с] чем-то]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Его] поведение] - [expl это], [parataxis конечно], что-то [nmod [case с] чем-то].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

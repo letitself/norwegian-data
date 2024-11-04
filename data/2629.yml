@@ -1,0 +1,53 @@
+---
+record: 2629
+name: 'VP-Inf/NP-Nom любой ценой'
+UD_name: ''
+illustration: 'Выходит, их цель в том, чтобы любой ценой продолжать войну'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Профессор Цветаев был сыном бедного священника, которой стремился любой ценой [дать образование своим детям]Result.
+  - |
+       Естественно, что содержание этих программ не имело для их авторов никакого значения, целью была [победа на выборах]Result любой ценой.
+  - |
+       Стремление [добиваться своих целей]Result немедленно и любой ценой осталось опасным признаком Федькиного характера.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP-Inf [obl [det любой] ценой]]'
+  - '[dep NP-Nom [nmod [det любой] ценой]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Выходит], [nsubj [det их] цель] [case в] том, [advcl [mark чтобы] [obl [det любой] ценой] продолжать [obj войну]]]'
+equivalents:
+  - english: |
+       by any means
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

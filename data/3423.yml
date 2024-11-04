@@ -1,0 +1,64 @@
+---
+record: 3423
+name: 'пора (NP-Dat) понять, что Cl'
+UD_name: ''
+illustration: 'Пора ему понять , что я уже взрослый человек и в состоянии принимать решения, влияющие на мою жизнь.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Давно бы пора [тебе]Cognizer  понять, что [не ты здесь главный]Situation.
+  - |
+       Нет, братец, пора [тебе]Cognizer  понять, что [в мире есть кое-что еще, кроме братства серпа и молота]Situation.
+  - |
+       Пора [людям]Cognizer  понять ― или скорее увидеть, ― что [поднявший меч от меча погибает]Situation.
+  - |
+       — Пора [вам]Cognizer  понять, что [мы не хозяева здешним порядкам]Situation!
+  - |
+       Пора [ему]Cognizer  понять, что [я уже взрослый человек и в состоянии принимать решения, влияющие на мою жизнь]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Inversion
+part_of_speech_of_anchor:
+  - Predicative
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root пора [csubj понять [ccomp [mark что] Cl]]]'
+  - '[root пора [iobj NP-Dat] [csubj понять [ccomp [mark что] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root Пора [iobj ему] [csubj понять [ccomp [mark что] [nsubj я] [advmod уже] [amod взрослый] человек [conj [cc и] [case в] состоянии [xcomp принимать [obj решения, [acl влияющие [obl [case на] [det мою] жизнь]]]]]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       It's time for X to realize (to understand)
+common_fillers:
+  - тебе
+  - вам
+  - ему
+  - ей
+references:
+  - |
+    
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporal expression
+    subtypes:
+      - type: Proper time
+family:
+  - |
+    ""

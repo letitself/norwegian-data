@@ -1,0 +1,53 @@
+---
+record: 2726
+name: 'VP/NP-Nom Cop на птичьих правах'
+UD_name: ''
+illustration: 'Законом мы не защищены и существуем на птичьих правах'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Близорукий сиротка с младенчества [живет]State на птичьих правах у дяди и тети ― отвратительных мещан и материалистов.
+  - |
+       Коля отнесся к появлению нового жильца спокойно, а Спирин, который и сам [был]State на птичьих правах, ежедневно требовал, чтобы Наташа выставила подругу.
+  - |
+       Он живет без регистрации и у Гусейна [работает]State на птичьих правах.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod птичьих] правах]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod птичьих] правах]'
+dependency_structure_of_illustration:
+  - '[root [obl Законом] [nsubj мы] [advmod не] защищены [conj [cc и] существуем [obl [case на] [amod птичьих] правах]]]'
+equivalents:
+  - english: |
+       without any right (to be there)
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 2649
+name: 'VP/NP на все про все'
+UD_name: ''
+illustration: 'На всё про всё ушло не более получаса'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Одного часа [хватит]State на всё про всё?
+  - |
+       У них на всё про всё [один день]Quantity.
+  - |
+       Он пообещал, что на всё про всё ему [понадобится]State семь-десять дней.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] все] [obl [case про] все]]'
+  - '[dep NP [nmod [case на] все] [nmod [case про] все]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] всё] [obl [case про] всё] ушло [nsubj [advmod [advmod не] более] получаса]]'
+equivalents:
+  - english: |
+       For each and every X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+  - type: Purpose
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3337
+name: 'NP-Nom Cop похож как две капли (воды) (на NP-Acc)'
+UD_name: ''
+illustration: 'Петя как две капли воды был похож на своего отца.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Зина]Comparee была, как две капли воды, похожа на [Зою:]Standart такая же золотистая, с большими красивыми глазами.
+  - |
+       В то же время мы видим, что многие [издания,]Comparee рассчитанные на одинаковую целевую аудиторию, похожи друг на [друга]Standart как две капли воды.
+  - |
+       [Женщины]Comparee брюсовских стихов похожи одна на [другую,]Standart как две капли воды: это потому, что он ни одной не любил, не отличил, не узнал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] похож [obl [case как] [nummod:gov две] капли [nmod воды]] [obl [case на] NP-Acc]]'
+  - '[root [nsubj NP-Nom] [cop Cop] похож [obl [case как] [nummod:gov две] капли] [obl [case на] NP-Acc]]'
+  - '[root [nsubj NP-Nom] [cop Cop] похож [obl [case как] [nummod:gov две] капли [nmod воды]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] похож [obl [case как] [nummod:gov две] капли]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петя] [obl [case как] [nummod:gov две] капли [nmod воды]] похож [obl [case на] [det своего] отца].]'
+equivalents:
+  - english: |
+       as like a two peas
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

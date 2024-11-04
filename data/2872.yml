@@ -1,0 +1,56 @@
+---
+record: 2872
+name: 'VP со спокойной совестью'
+UD_name: ''
+illustration: 'Выполнив задание, я со спокойной совестью лёг спать.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Мне казалось, что я покорил Эверест, что я могу теперь [умереть]Action со спокойной совестью.
+  - |
+       Скорее математик, если не получилась задуманная формула, со спокойной совестью может [изменить параметры,]Action чтобы получить другую.
+  - |
+       Я [вспоминаю теперь об этом]Action со спокойной совестью потому, что мне удалось выполнить все полеты благополучно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] [amod спокойной] совестью]]'
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'Синонимичная конструкция: "с легким сердцем"'
+equivalents:
+  - english: |
+       with a clear conscience
+common_fillers:
+  - умереть
+  - уйти
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Root modality
+    subtypes:
+      - type: Possibility
+family:
+  - |
+    ""

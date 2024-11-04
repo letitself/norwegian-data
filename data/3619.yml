@@ -1,0 +1,57 @@
+---
+record: 3619
+name: 'NP-Dat Cop Adv VP-Inf это/, Cl'
+UD_name: ''
+illustration: 'Мне больно видеть, что принятое Вами решение вызывает в Вас такое волнение.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Ветеранам]Experiencer будет [приятно]Evaluation [видеть, что о них помнят и заботятся]State.
+  - |
+       [Артему]Experiencer было [больно]Evaluation [смотреть на то, [как его Ксюша по-настоящему сходит с ума]State.
+  - |
+       Ты подозреваешь меня в ужасных вещах. [Мне]Experiencer очень [горько]Evaluation это [слышать]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Object?
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Not Applicable
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] Adv [csubj VP-Inf [obj это]]]'
+  - '[root [iobj NP-Dat] [cop Cop] Adv [csubj VP-Inf, [ccomp Cl]]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Мне] больно [csubj видеть, [ccomp [mark что] [nsubj [acl принятое [obl вами]] решение] вызывает [obl [case в] Вас] [obj [det такое] волнение]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is pained to hear that
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

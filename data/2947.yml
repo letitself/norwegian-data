@@ -1,0 +1,52 @@
+---
+record: 2947
+name: 'VP тут же'
+UD_name: ''
+illustration: 'Когда я вышла из кабинета, меня тут же окружили сотрудницы.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Рома довольно хмыкнул и тут же [замялся,]Event видимо, не зная, что говорить дальше.
+  - |
+       Пенсионеры тут же [побежали на почту]Action получать обещанную надбавку к пенсии.
+  - |
+       Когда он начинает проявлять повышенный интерес к какой-либо области знаний, родители тут же [загораются]Event и с энтузиазмом помогают ему.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       right there
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+family:
+  - |
+    ""

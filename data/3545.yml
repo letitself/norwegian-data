@@ -1,0 +1,59 @@
+---
+record: 3545
+name: 'при виде NP-Gen'
+UD_name: ''
+illustration: 'Мне при виде этой картинки становится страшно.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Начальник поезда при виде [крови]Stimulus потерял сознание.
+  - |
+       Младенец при виде [матери]Stimulus меняет свое поведение.
+  - |
+       Парни не будут смущаться при виде [женского тела]Stimulus – чего они не видели?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [case при] виде [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [iobj мне] [obl [case при] виде [nmod [det этой] картинки]] становится [obl страшно].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       while looking at X
+common_fillers:
+  - вас
+  - тебя
+  - меня
+  - нас
+  - него
+  - неё
+  - них
+  - крови
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Temporary characteristics
+    subtypes:
+      - type: Context
+family:
+  - |
+    ""

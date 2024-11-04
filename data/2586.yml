@@ -1,0 +1,53 @@
+---
+record: 2586
+name: 'VP Adj-Ins рукой'
+UD_name: ''
+illustration: 'Антитрестовские законы, проведённые жёсткой рукой, спасли от краха и американскую нефтяную промышленность'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Ученым, как и любым любознательным людям, хотелось бы сунуть нос во все области знания, во все уголки бытия, но они жесткой рукой самоограничения [отсекают себя от пестроты мира]Action.
+  - |
+       Требования [навести порядок]Action жесткой рукой будут чередоваться с обвинениями в адрес власти, виновной в гибели оппозиционного политика.
+  - |
+       Некоторых продержали в заключении еще десять лет, жесткой рукой [проведя через тюрьму и ссылку]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Aplicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod Adj-Ins] рукой]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       strong-arm
+common_fillers:
+  - жёсткой
+  - твёрдой
+  - сильной
+  - железной
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

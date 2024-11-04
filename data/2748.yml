@@ -1,0 +1,57 @@
+---
+record: 2748
+name: '(NP-Dat) NP/VP-Ipfv.Inf Cop не с руки'
+UD_name: ''
+illustration: 'А мусульманам в таких домах не с руки жить ― все на виду'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Ему]Maleficiary [молчать]Action уже было не с руки.
+  - |
+       Благоразумие взяло верх ― [ссориться с милицией]Action было не с руки.
+  - |
+       [Нефтяным королям]Maleficiary с[амодостаточная и многоотраслевая отечественная экономика]Theme ― не с руки.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [csubj VP-Ipfv.Inf] [cop Cop] [advmod не] [case с] руки]'
+  - '[root [iobj NP-Dat] [csubj VP-Ipfv.Inf] [cop Cop] [advmod не] [case с] руки]'
+  - '[root [nsubj NP] [cop Cop] [advmod не] [case с] руки]'
+  - '[root [iobj NP-Dat] [nsubj NP] [cop Cop] [advmod не] [case с] руки]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [iobj мусульманам] [obl [case в] [det таких] домах] [advmod не] [case с] руки [csubj жить] ― [conj [nsubj все] [case на] виду].]'
+equivalents:
+  - english: |
+       it is uncomfortable for Y to do X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

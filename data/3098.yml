@@ -1,0 +1,49 @@
+---
+record: 3098
+name: 'NP, будь он неладен'
+UD_name: ''
+illustration: 'А еще этот Миша пристаёт, будь он неладен.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       ― Но будь уверен: если бы он всерьёз опасался за свою жизнь ― не пошёл бы в этот [театр,]Theme будь он неладен…
+  - |
+       Да вот [печь]Theme сломалась, будь она неладна, уже опара осела, и тесто скисло.
+  - |
+       Бросает косой взгляд через плечо ― [яйцо,]Theme будь оно неладно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP'
+  - '[parataxis [cop будь] [nsubj он] неладен]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [advmod ещё] [nsubj [det этот] Миша] пристает, [parataxis [cop будь] [nsubj он] неладен].]'
+equivalents:
+  - english: |
+       too hell with X
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Curse
+family:
+  - |
+    ""

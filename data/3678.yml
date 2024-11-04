@@ -1,0 +1,77 @@
+---
+record: 3678
+name: 'NP-Nom/PronPers-Nom NP-Dat/PronPers-Dat говорить, чтобы Cl'
+UD_name: ''
+illustration: 'Помнишь, я тебе говорил, чтобы ты уезжала из города?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Я]Causer [тебе]Causee сколько раз говорила, чтобы [ты так не делал]Action?!
+  - |
+       [Максим]Causer говорит, чтобы [я]Causee [не обольщалась понапрасну]Action.
+  - |
+       А [матери]Causee, например, [я]Causer сам говорил, чтобы [не ездила]Activity (ей уже под 60 было тогда).
+  - |
+       [Я]Causer [ему]Causee говорила, чтобы [футболку надел]Action.
+  - |
+       А [ты]Causer, Олег Иванович, говоришь, чтоб [я]Causee [меньше болтал]Activity…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+  - Coordinator
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] говорить [ccomp [mark чтобы] Cl]]'
+  - '[root [nsubj PronPers-Nom] [iobj NP-Dat] говорить [ccomp [mark чтобы] Cl]]'
+  - '[root [nsubj NP-Nom] [iobj PronPers-Dat] говорить [ccomp [mark чтобы] Cl]]'
+  - '[root [nsubj PronPers-Nom] [iobj PronPers-Dat] говорить [ccomp [mark чтобы] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Помнишь [conj [nsubj я] [iobj тебе] говорил [ccomp [mark чтобы] [nsubj ты] уезжала [obl [case из] города]]]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X said to Y that P
+common_fillers:
+  - я
+  - ты
+  - он
+  - она
+  - они
+  - мы
+  - вы
+  - мне
+  - тебе
+  - ему
+  - ей
+  - им
+  - нам
+  - вам
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Causation
+    subtypes:
+      - type: Indirect
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Self-evidence
+family:
+  - |
+    ""

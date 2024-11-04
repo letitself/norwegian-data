@@ -1,0 +1,49 @@
+---
+record: 2514
+name: 'главным образом XP'
+UD_name: ''
+illustration: 'Фрукты выращиваются, главным образом, в Краснодарском крае.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Моя работа [состоит]State главным образом в таскании воды для коров, а также соломы и сена.
+  - |
+       Динара посорилась со всеми, а главным образом [с Ольгой]Counteragent.
+  - |
+       Все эти недостатки вызваны главным образом [спешкой]Cause.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [amod главным] образом] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Фрукты] выращиваются, [parataxis [amod главным] образом], [obl [case в] [amod Краснодарском] крае].]'
+equivalents:
+  - english: |
+       mainly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Proportional
+family:
+  - |
+    ""

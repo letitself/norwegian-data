@@ -6,6 +6,16 @@ illustration: 'Я проиграл два раза подряд.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Однажды, когда мне было очень грустно, я [посмотрела этот фильм целиком]Action [два]Quantity [раза]Measure подряд.
+  - |
+       Евгений [приезжал на этот фестиваль]Activity [четыре]Quantity [года]Measure подряд.
+  - |
+       Мы [восемь]Quantity [лет]Measure подряд [ездим в Москву.]Activity
+  - |
+       [Два]Quantity [раза]Measure кряду [команда вылетала в первом раунде.]Action
+  - |
+       Пятого июня силовой кабель [загорался]Action [два]Quantity [раза]Measure кряду.
 morphology:
   - VP
   - NumCrd

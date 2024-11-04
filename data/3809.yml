@@ -1,0 +1,52 @@
+---
+record: 3809
+name: '(носом) землю рыть, но/чтобы VP'
+UD_name: ''
+illustration: 'Мы должны носом землю рыть, но завоевать золотые медали!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Румынское интендантство готово носом землю рыть, лишь бы [в самом срочном порядке погрузить зерно]Situation.
+  - |
+       Было очевидно, что теперь и прокуратура, и Лубянка землю рыть будут, чтобы [достойно покарать организаторов столь наглого преступления]Situation.
+  - |
+       Будут теперь землю рыть, чтобы [найти сбежавшего]Situation.
+  - |
+       А [род и его память стоят того]Situation, чтобы ради них рыть носом землю.
+  - |
+       Искали всеми силами, буквально рыли носом землю, чтобы [поймать его]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Sentential Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+  - Conjuction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root [obl носом] [obj землю] рыть, [conj [cc но] VP]]'
+  - '[root [obj землю] рыть, [conj [cc но] VP]]'
+  - '[root [obl носом] [obj землю] рыть, [advcl [cc чтобы] VP]]'
+  - '[root [obj землю] рыть, [advcl [cc чтобы] VP]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] должны [xcomp [obl носом] [obj землю] рыть]], [conj [cc но] завоевать [obj [amod золотые] медали]]]!'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2028
+semantic_types:
+family:
+  - |
+    ""

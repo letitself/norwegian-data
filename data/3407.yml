@@ -1,0 +1,49 @@
+---
+record: 3407
+name: 'я не я буду, если (не) Cl'
+UD_name: ''
+illustration: 'Я не я буду, если не отомщу!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Но я не я буду, если [поддамся какому-то животному чувству!]Condition
+  - |
+       Я не я буду, если [и на этот раз по-моему не выйдет.]Condition
+  - |
+       Я решила, что я не я буду, если [его в себя не влюблю.]Condition
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj я] [advmod не] я [cop буду], [advcl [mark если] [advmod не] Cl]]'
+  - '[root [nsubj я] [advmod не] я [cop буду], [advcl [mark если] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod не] я [cop буду], [advcl [mark если] [advmod не] отомщу!]]'
+equivalents:
+  - english: |
+       plump
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: High degree of certainty
+family:
+  - |
+    ""

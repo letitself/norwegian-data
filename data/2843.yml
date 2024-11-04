@@ -1,0 +1,48 @@
+---
+record: 2843
+name: 'VP по самое не хочу/могу'
+UD_name: ''
+illustration: 'Боюсь, Мещеряков и наш город своими идеями завалит по самое не могу вместо решения насущных вопросов.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Видимо, подобные претензии действительно не были редкостью и [достали Терентьева]Event по самое не могу.
+  - |
+       До следующей среды мэр [провалился в работу]Event «по самое не могу».
+  - |
+       Никакие инициативы руководства охраны уже не находят поддержки у руководства компании. Финансирование [урезается]Event по самое «не могу».
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

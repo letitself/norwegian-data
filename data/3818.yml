@@ -1,0 +1,54 @@
+---
+record: 3818
+name: 'VP/NP с барского плеча/стола'
+UD_name: ''
+illustration: 'Не гражданство, а какая-то привилегия с барского плеча получается.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Жители поют Кларе, авось с барского плеча и им что-то [перепадет]Action.
+  - |
+       Но это не говорит о том, что это был с барского плеча [подарок]Theme.
+  - |
+       Как только «жрецы минутного», как назвал бы их Пушкин, [получают]Action с барского плеча свою программу, наступает счастье.
+  - |
+       И за 90-е мне 300 руб [вернули]Action с барского плеча.
+  - |
+       Сами, думаю, в снегу как-нибудь не утонем, а крысам можно и [шубу]Theme с барского плеча подстелить.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [obl [case с] [amod барского] плеча]]'
+  - '[dep NP [nmod [case с] [amod барского] стола]]'
+  - '[root VP [obl [case с] [amod барского] стола]]'
+  - '[dep NP [nmod [case с] [amod барского] плеча]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] гражданство, [conj [cc а] [det какая-то] [nsubj привилегия] [nmod [case с] [amod барского] плеча] получается]].'
+equivalents:
+common_fillers:
+  - подарить
+  - перепасть
+  - подарок
+references:
+  - |
+    Баранов, Добровольский 2037
+semantic_types:
+family:
+  - |
+    ""

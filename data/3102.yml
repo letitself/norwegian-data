@@ -1,0 +1,52 @@
+---
+record: 3102
+name: 'NP-Nom (NP-Dat) в NP-Nom.Pl годиться'
+UD_name: ''
+illustration: 'Я ему в отцы гожусь.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Софа тянула его за рубашку, повторяя: ― Дурачок, [она]Comparee [тебе]Participant в [матери]Standart годится…
+  - |
+       Что она с ним вытворяет, [она]Comparee же [ему]Participant в [бабушки]Standart годится!
+  - |
+       По фантазиям моего папы, порожденным пьянящим воздухом Молдаванки, [мне]Participant в [жены]Standart годилась [лишь пенная Афродита,]Comparee молодецких, разумеется, кровей, склонности к деторождению и крепкой нервной системы.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [case в] NP-Nom.Pl] годиться]'
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [obl [case в] NP-Nom.Pl] годиться]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [iobj ему] [obl [case в] отцы] гожусь.]'
+equivalents:
+  - english: |
+       might as well be
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Measure
+    subtypes:
+      - type: Age
+family:
+  - |
+    ""

@@ -1,0 +1,66 @@
+---
+record: 3433
+name: 'NP-Nom уйти с головой в NP-Ins'
+UD_name: ''
+illustration: 'Я ушел с головой в свою работу.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Одна женщина]Participant, уйдя с головой в [игру]Activity, забыла о детях и домашних животных.
+  - |
+       [Ученые-физики]Experiencer настолько ушли с головой в [собственные проблемы]State, что не в состоянии понять других ученых.
+  - |
+       Может быть, уйти с головой в [кино]Activity?
+  - |
+       Боже мой, как [он]Participant испугался! Покраснел, извинился, ушел с головой в [текст]Activity и стал послушен, как дитя!
+  - |
+       [Солдатик]Theme ушел с головой в [воротник огромного свитера]Goal и засунул руки глубоко в рукава.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] уйти [obl [case с] головой] [obl [case в] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] ушел [obl [case с] головой] [obl [case в] работу].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X became completely absorbed in Y.
+common_fillers:
+  - омут
+  - одеяло
+  - купель
+  - учебу
+  - пучину
+  - сугроб
+  - работу
+references:
+  - |
+    Дрогалина В. В., Ладисова О. В. Семантические особенности фразеологических единиц с компонентом голова //Культурология, филология, искусствоведение: актуальные проблемы современной науки. – 2019. – С. 49-53.
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

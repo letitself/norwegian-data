@@ -1,0 +1,60 @@
+---
+record: 3438
+name: 'NP VP/Cop превыше всего'
+UD_name: ''
+illustration: 'Эгоист ставит свои интересы превыше всего.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Анна ценила [это]Comparee превыше всего.
+  - |
+       [Качество]Comparee превыше всего.
+  - |
+       [Это]Comparee превыше всего, даже поэзии.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [dep NP] VP [advmod превыше [obl всего]]]'
+  - '[root [dep NP] [cop Cop] превыше [obl всего]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Эгоист] ставит [obj [det свои] интересы] [advmod превыше [obl всего]].]'
+comment: |
+    'См. близкую конструкцию 1162.'
+equivalents:
+  - english: |
+       above all things
+common_fillers:
+  - безопасность
+  - закон
+  - семья
+  - разум
+  - ставил
+  - ценил
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 2505
+name: 'VP вот так (и)'
+UD_name: ''
+illustration: 'Вот так я написал первое в своей жизни стихотворение и получил первое редакторское замечание'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Вот так я и [стал царём]Result.
+  - |
+       Вот так мы с семьёй [добрались до дома]Result, с кучей приключений.
+  - |
+       Вот так и [живем]Activity…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Particle
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod вот] так]]'
+  - '[root VP [advmod [advmod вот] так] [cc и]]'
+dependency_structure_of_illustration:
+  - '[root [advmod [advmod Вот] так] [nsubj я] написал [obj [amod первое] стихотворение [nmod [case в] [det своей] жизни]], [conj [cc и] получил [obj [amod первое] [amod редакторское] замечание]].]'
+equivalents:
+  - english: |
+       just like that
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+family:
+  - |
+    ""

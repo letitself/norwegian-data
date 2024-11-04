@@ -1,0 +1,51 @@
+---
+record: 3398
+name: 'XP хуже некуда'
+UD_name: ''
+illustration: 'А вот с любовью дела пошли хуже некуда.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Условия]Theme ― хуже некуда, жилья нет.
+  - |
+       [Настроение]Theme было хуже некуда, жить категорически не хотелось.
+  - |
+       Действительно, [дороги в Кировской области]Theme хуже некуда.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP [advmod хуже [advmod некуда]]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [advmod вот] [obl [case с] любовью] [nsubj дела] пошли [advmod хуже [advmod некуда]].]'
+equivalents:
+  - english: |
+       as thin as
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Negative
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

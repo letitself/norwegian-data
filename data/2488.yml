@@ -1,0 +1,56 @@
+---
+record: 2488
+name: 'VP/NP-Nom Cop вне конкурса'
+UD_name: ''
+illustration: 'Тогда еще действовали все советские правила, и я проходила вне конкурса.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Все, кто хотел, [подавали заявки]Action вне конкурса, и некоторым выделялись деньги.
+  - |
+       Она [побежит там 400 метров]activity вне конкурса
+  - |
+       Дима начал тренироваться, [выступать во всероссийских соревнованиях]Activity вне конкурса.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case вне] конкурса]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case вне] конкурса]'
+dependency_structure_of_illustration:
+  - '[root [advmod Тогда [advmod еще]] действовали [nsubj [det все] [amod советские] правила], [conj [cc и] [nsubj я] проходила [obl [case вне] конкурса]].]'
+equivalents:
+  - english: |
+       outside of competition/hors concours
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Exceptive
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

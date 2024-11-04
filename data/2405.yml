@@ -1,0 +1,51 @@
+---
+record: 2405
+name: 'NP-Nom Cop (NP-Dat/для NP-Gen) в диковинку'
+UD_name: ''
+illustration: 'На ней высокие сапоги, короткая юбка… Видно, что наряд ей слегка в диковинку, но нравится.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Выстрелы]Theme, знаешь ли, не в диковинку в этом районе.
+  - |
+       [Люди вашего круга]Theme для [нас]Experiencer в диковинку.
+  - |
+       [Ружейные гранаты]Theme к тому времени не были в диковинку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] диковинку]'
+  - '[root [nsubj NP-Nom] [cop Cop] [iobj NP-Dat] [case в] диковинку]'
+  - '[root [nsubj NP-Nom] [cop Cop] [obl [case для] NP-Gen] [case в] диковинку]'
+dependency_structure_of_illustration:
+  - '[root [case На] ней [nsubj [amod высокие] сапоги, [conj [amod короткая] юбка]]…] [root Видно, [ccomp [mark что] [nsubj наряд] [iobj ей] [advmod слегка] [case в] диковинку], [conj [cc но] нравится].]'
+equivalents:
+  - english: |
+       X is a curiosity
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+family:
+  - |
+    ""

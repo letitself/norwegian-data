@@ -1,0 +1,55 @@
+---
+record: 4002
+name: 'что один/первый/тот (NP) VP, что другой/второй/этот (NP) (~VP)'
+UD_name: ''
+illustration: 'Что один ничего не понимает в математике, что другой.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Что тот [любит]State постоянно опаздывать, что этот
+  - |
+       Что одному [доказывать и объяснять бесполезно]Situation, что другому.
+  - |
+       Что первый [бывший]Agent, что второй [бывший]Agent [мне говорили «ВОТ, ИДИ ДАВАЙ К ДРУГИМ, ИДИ ТАКОЙ, КАКОЙ Я ТЕБЯ СДЕЛАЛ]Situation.»
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+  - Numeral
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj [mark что] [nummod один] NP] VP, [conj [mark что] другой]]'
+  - '[root [nsubj [mark что] [nummod один] NP] VP, [conj [mark что] [nsubj другой] VP]]'
+  - '[root [nsubj [mark что] [nsubj один] VP, [conj [mark что] другой]]'
+  - '[root [nsubj [mark что] [nummod первый] NP] VP, [conj [mark что] второй]]'
+  - '[root [nsubj [mark что] [nummod первый] NP] VP, [conj [mark что] [nsubj второй] VP]]'
+  - '[root [nsubj [mark что] [nsubj первый] VP, [conj [mark что] второй]]'
+  - '[root [nsubj [mark что] [det тот] NP] VP, [conj [mark что] этот]]'
+  - '[root [nsubj [mark что] [det тот] NP] VP, [conj [mark что] [nsubj этот] VP]]'
+  - '[root [nsubj [mark что] [nsubj тот] VP, [conj [mark что] этот]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [mark Что] [nsubj один] [obj ничего] [advmod не] понимает [obl [case в] математике], [conj [mark что] другой].]'
+comment: |
+    '"Один" всегда встречается вместе с "другой", "первый" - со "второй", а "тот" - с "этот".'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3142
+name: '(NP-Dat) что XP, что XP ― всё едино/одно'
+UD_name: ''
+illustration: 'Мне что ночь, что день ― все едино.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Тут что [минута,]Theme что [миллиарды лет]Theme ― всё одно.
+  - |
+       [Чехову]Participant все едино ― что [человек,]Theme что [его тень,]Theme что [колокольчик,]Theme что [самоубийца…]Theme
+  - |
+       Что [1919-й,]Theme что [1937-й год,]Theme что [брежневское время]Theme ― все едино.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [mark что] XP, [conj [mark что] XP] ― [conj [nsubj все] едино]]'
+  - '[dep [mark что] XP, [conj [mark что] XP] ― [conj [nsubj все] одно]]'
+  - '[dep [iobj NP-Dat] [mark что] XP, [conj [mark что] XP] ― [conj [nsubj все] едино]]'
+  - '[dep [iobj NP-Dat] [mark что] XP, [conj [mark что] XP] ― [conj [nsubj все] одно]]'
+dependency_structure_of_illustration:
+  - '[dep [iobj мне] [mark что] ночь, [conj [mark что] день] ― [conj [nsubj все] едино].]'
+equivalents:
+  - english: |
+       all the same
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Unconcern vs. Concern
+  - type: Comparison
+    subtypes:
+      - type: Equality
+family:
+  - |
+    ""

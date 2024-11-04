@@ -1,0 +1,49 @@
+---
+record: 2452
+name: 'NP-Nom Cop в прошлом'
+UD_name: ''
+illustration: 'Раньше мы виделись, но теперь эти встречи в прошлом.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Вся особенность в том, что [Михаил]Agent в прошлом [оперный артист]Status.
+  - |
+       Говорили, что в прошлом [это]Agent была [важная персона]Status, не то знаменитая балерина, не то жена какого-то крупного мыслителя.
+  - |
+       [Лесные пожары]Theme были [обычным явлением]Status в этих лесах и в прошлом, когда они еще не подвергались интенсивному хозяйственному воздействию.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] прошлом]'
+dependency_structure_of_illustration:
+  - '[root [advmod Раньше] [nsubj мы] виделись, [conj [cc но] [advmod теперь] [nsubj [det эти] встречи] [case в] прошлом].]'
+equivalents:
+  - english: |
+       in the past
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Past
+family:
+  - |
+    ""

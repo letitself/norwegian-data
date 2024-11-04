@@ -6,6 +6,16 @@ illustration: 'Ты бы ещё всех соседей привела!'
 cefr_level: C1
 definitions:
 examples:
+  - |
+       [Ты]Agent бы ещё [с официантом подружился.]Action
+  - |
+       [Вы]Agent бы ещё [в пять утра позвонили.]Action
+  - |
+       [Я]Agent бы ещё [развил эту мысль.]Action
+  - |
+       [Он]Agent бы ещё [какого-нибудь народного артиста пригласил!]Action
+  - |
+       [Ты]Agent бы ещё [истопника из кочегарки себе нашла.]Action
 morphology:
   - PronPers
   - VP

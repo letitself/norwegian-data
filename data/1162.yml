@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom [handlinger]Action eller [tilstander]State med tanke på et gitt kjennetegn. [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [den ene handlingen eller tilstanden]Action enn hos [andre liknende handlinger eller tilstander]Standard.
 examples:
   - |
-       [Что]Comparee вас [потрясло]Action [сильнее]Parameter всего, когда вы учились в школе?
-  - |
-       И мне [чаще]Parameter всего совсем [не хочется знать]State, как что-то устроено.
-  - |
-       Книгой, [которую]Comparee [прочитывали]Action [быстрее]Parameter всего, стала «Ты и я» Никколо Амманити.
+       Это книга, [которую]Comparee [прочитывали]Action [быстрее]Parameter всего.
   - |
        Если кто-то его разочаровывал, он переходил с этим человеком на «вы» ― и [этого]Comparee окружающие [боялись]State [больше]Parameter всего.
   - |
        Происхождение предмета неясно, но Сашу [происхождение его]Comparee [интересует]State [меньше]Parameter всего.
+  - |
+       И мне [чаще]Parameter всего совсем [не хочется знать]State, как что-то устроено.
+  - |
+       [Что]Comparee вас [потрясло]Action [сильнее]Parameter всего, когда вы учились в школе?
 morphology:
   - Adv
   - Cmp

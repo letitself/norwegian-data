@@ -1,0 +1,52 @@
+---
+record: 3132
+name: 'у NP-Gen волосы (встать) дыбом (от NP-Gen)'
+UD_name: ''
+illustration: 'От рассказа о случившемся преступлении у меня волосы встали дыбом.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       У [меня]Experiencer волосы дыбом.
+  - |
+       У [среднестатистического болгарина]Experiencer волосы дыбом встают, [когда он видит цены на мясо в августе в кафе на побережье.]Stimulus
+  - |
+       А от [звука мощного двигателя]Stimulus у [меня]Experiencer на голове волосы дыбом встают…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj волосы] встать [advmod дыбом]]'
+  - '[root [obl [case у] NP-Gen] [nsubj волосы] дыбом]'
+  - '[root [obl [case у] NP-Gen] [nsubj волосы] встать [advmod дыбом] [obl [case от] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj волосы] дыбом [obl [case от] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] рассказа [nmod [case о] [amod случившемся] преступлении]] [obl [case у] меня] [nsubj волосы] встали [advmod дыбом].]'
+equivalents:
+  - english: |
+       X's hair stood on end
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Mirative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

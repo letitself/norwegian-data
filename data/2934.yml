@@ -1,0 +1,52 @@
+---
+record: 2934
+name: 'VP со скрипом'
+UD_name: ''
+illustration: 'Затем отворилась со скрипом дверь, и меня пригласили к дежурному.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Она со скрипом [встала]Action и взялась за телефон.
+  - |
+       Экстренный пересмотр федерального бюджета [идет]Activity со скрипом.
+  - |
+       Дела в фирме [шли]Activity со скрипом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case со] скрипом]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       creaking
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Low
+  - type: Manner
+family:
+  - |
+    ""

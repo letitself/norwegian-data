@@ -1,0 +1,49 @@
+---
+record: 4027
+name: 'NP на любой вкус'
+UD_name: ''
+illustration: 'Выбор тут большой – на любой вкус.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       [Прогулочные яхты]Set здесь на любой вкус, но больше всего людям нравятся, конечно, пиратские!
+  - |
+       [Земли]Set, на любой вкус , разной, очень много.
+  - |
+       [Создание]Set любого пола, возраста, цвета кожи и на любой вкус.
+  - |
+       [Объяснения]Set можно найти на любой вкус и цвет.
+  - |
+       [Покупатели]Set у нас на любой вкус и фасон.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case на] [amod любой] вкус]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Выбор] [advmod тут] [dislocated большой] – [case на] [amod любой] вкус.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

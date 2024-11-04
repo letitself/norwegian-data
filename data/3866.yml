@@ -1,0 +1,49 @@
+---
+record: 3866
+name: 'копна NP-Gen'
+UD_name: ''
+illustration: 'Она была высокая, с копной кудрявых волос.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Однако он оставался всё тем же: густая копна [волос]Set, глаза, улыбка.
+  - |
+       Ребята сидят утром на досках, вечером на копне [сена]Set.
+  - |
+       Я прятался в копне [сена]Set.
+  - |
+       Перед нею с копной [гладиолусов]Set стоял ветеринар.
+  - |
+       Те, кто притаились за спутанными копнами [тёрна]Set, еще не поняли, что обнаружены.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep копна [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] [cop была] высокая, [conj [nmod [case с] копной [nmod [amod кудрявых] волос]].]'
+comment: |
+    'Квантификатор "копна" минимально грамматикализован и употребляется в непрямом значении только с "волосами". См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

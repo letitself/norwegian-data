@@ -1,0 +1,53 @@
+---
+record: 3259
+name: 'NP-Nom не давать себе труда VP-Inf'
+UD_name: ''
+illustration: 'Администрация не дает себе труда разобраться в происходящем.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Она не дает себе труда быть вежливой, без экивоков говорит то, что думает.
+  - |
+       СМИ, стараясь не терять актуальности, просто не дают себе труда озаботиться проверкой публикуемой информации.
+  - |
+       С одной стороны, мы ахаем и охаем, что ребенок бледен и часто болеет, с другой, не даем себе труда элементарно посмотреть, а чем же он питается?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] давать [iobj себе] [obl труда [obl VP-Inf]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Администрация] [advmod не] дает [iobj себе] [obl труда [obl разобраться [obl [case в] происходящем]]].]'
+equivalents:
+  - english: |
+       do not bother
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+        subtypes:
+          - type: Disapproval
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

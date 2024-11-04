@@ -1,0 +1,50 @@
+---
+record: 2713
+name: 'VP на погибель'
+UD_name: ''
+illustration: 'Может быть, это внеземной троянский конь, посланный на погибель нашей цивилизации?'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Если прекратим поддерживать их авиацией и артиллерией, то [обречем ребят]Action на погибель!
+  - |
+       Зачем ему [возвращаться]Action на погибель в эту проклятую тюрьму?
+  - |
+       Ученому небезразлично, как могут быть использованы его открытия: послужат ли они прогрессу человечества, или [обрекут]Action его на погибель.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] погибель]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Может [xcomp быть]], [nsubj это] [amod внеземной] [amod троянский] конь, [acl посланный [obl [case на] погибель] [obl [det нашей] цивилизации]]?]'
+equivalents:
+  - english: |
+       to a certain death
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Purpose
+family:
+  - |
+    ""

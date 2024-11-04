@@ -1,0 +1,47 @@
+---
+record: 2922
+name: 'VP своим горбом'
+UD_name: ''
+illustration: 'Я же своим горбом всего добилась!'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Пока мы своим горбом [хлеб добывали,]Action они учились по десять лет, а то и больше.
+  - |
+       Деньги должны находиться у того, кто [отвечает за них]State своим горбом.
+  - |
+       Мне эти быки не от родителя в наследство достались, а [нажил их]Result сам, своим горбом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [det своим] горбом]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       on X’s own
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 3748
+name: 'VP ни шатко ни валко'
+UD_name: ''
+illustration: 'Работа шла ни шатко ни валко.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Жизнь [тянулась]Activity ни шатко ни валко.
+  - |
+       Очередь [движется]Activity вдоль прилавка ни шатко ни валко.
+  - |
+       Розыск [шел]Activity ни шатко ни валко — мало ли где могут загулять студентки.
+  - |
+       Теперь до лета [работать будем]Activity ни шатко ни валко, пока люди с дач в город не потянутся.
+  - |
+       Процесс [идет]Activity как-то ни шатко ни валко, но денег, похоже, собрали.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [cc ни] шатко [conj [cc ни] валко]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Работа] шла [advmod [cc ни] шатко [conj [cc ни] валко]].]'
+equivalents:
+common_fillers:
+  - идти
+  - тянуться
+  - двигаться
+  - вестись
+  - везти
+  - течь
+references:
+  - |
+    Баранов, Добровольский 2025
+semantic_types:
+family:
+  - |
+    ""

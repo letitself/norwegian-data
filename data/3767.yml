@@ -1,0 +1,52 @@
+---
+record: 3767
+name: 'глаза на лоб полезли у NP-Gen'
+UD_name: ''
+illustration: 'От этих сумм у любого глаза на лоб полезут.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Мальчик завопил так истошно, что у [Дуси]Experiencer глаза на лоб полезли.
+  - |
+       Жалко обычных жителей, у [них]Experiencer глаза на лоб лезут от происходящего вокруг.
+  - |
+       Мы зашли в букинистический на Дерибасовской, и у [меня]Experiencer глаза на лоб полезли.
+  - |
+       У [молодого философа]Experiencer глаза на лоб полезли.
+  - |
+       И уж совсем у [меня]Experiencer глаза на лоб полезли, когда прочитал, что крипта - это твои пенсионные накопления.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj глаза] [obl [case на] лоб] полезли [obl [case у] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case От] [det этих] сумм] [obl [case у] любого] [nsubj глаза] [obl [case на] лоб] полезут.]'
+equivalents:
+common_fillers:
+  - него
+  - меня
+references:
+  - |
+    Баранов, Добровольский 2035
+semantic_types:
+family:
+  - |
+    ""

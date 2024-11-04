@@ -1,0 +1,51 @@
+---
+record: 3323
+name: 'по ходу NP-Gen'
+UD_name: ''
+illustration: 'По ходу пьесы шеф должен был бы подойти и положить мне руки на плечи,'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По ходу [фильма]BackgroundSituation думаешь, а почему эта история не может быть правдой?
+  - |
+       По ходу [дела]BackgroundSituation их приходится критиковать, уточнять, расширять, словом, улучшать.
+  - |
+       По ходу [экспериментов]BackgroundSituation регистрировалось общее время выполнение и количество участников.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [case по] ходу [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case По] ходу [nmod пьесы]] [nsubj шеф] должен [cop был] [aux бы] [xcomp подойти [conj [cc и] положить [iobj мне] [obj руки] [obl [case на] плечи]]].]'
+equivalents:
+  - english: |
+       up to X’s neck
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

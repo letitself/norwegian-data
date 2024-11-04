@@ -1,0 +1,55 @@
+---
+record: 2399
+name: 'VP в глубине веков'
+UD_name: ''
+illustration: 'История возникновения колеса теряется в глубине веков.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Происхождение шахмат [теряется]Action в глубине веков.
+  - |
+       Это была древняя сиамская святыня, [поклоняться которой начали]Action еще в глубине веков.
+  - |
+       Но во мне русская, французская, итальянская, греческая, польская и другая кровь, почти [неразличимая]Property в глубине веков.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] глубине [nmod веков]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj История [nmod возникновения [nmod колеса]]] теряется [obl [case в] глубине [nmod веков]].]'
+equivalents:
+  - english: |
+       in the mist of time
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+  - type: Timeline
+    subtypes:
+      - type: Past
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 2692
+name: 'VP/NP-Nom Cop на ножах с NP-Ins'
+UD_name: ''
+illustration: 'Я с ним на ножах, у тебя с ним конфликт интересов, так что жди гостей'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       С Володей [она]Maleficiary долгие годы была на ножах: с её точки зрения, он вёл себя не по-мужски.
+  - |
+       А [русские князья]Maleficiary разве не были на ножах друг с другом?
+  - |
+       Бабушка позвала маму и сказала: «С мужем можешь [выяснять отношения]Action на ножах, но ребенка трогать не смей».
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] ножах [nmod [case с] NP-Ins]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] ножах [nmod [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obl [case с] ним] [case на] ножах, [conj [case у] тебя [obl [case с] ним] [nsubj конфликт [nmod интересов]]], [advcl [mark так [advmod что]] жди [obj гостей]]]'
+equivalents:
+  - english: |
+       at odds
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Addressee
+    subtypes:
+      - type: Maleficiary
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3173
+name: 'NP-Nom задеть за живое (NP-Acc)'
+UD_name: ''
+illustration: 'Меня его пение задевает за живое.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Одна из строк красивого романса о любви]Stimulus задевает за живое.
+  - |
+       [Меня]Experiencer задевает за живое [то, что у тебя неприятности.]Stimulus
+  - |
+       Если [чужое мнение]Stimulus [нас]Experiencer задевает за живое, значит, оно прилетело в зону нашей неуверенности.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] задеть [obl [case за] живое]]'
+  - '[root [nsubj NP-Nom] задеть [obl [case за] живое] [obj NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [obj меня] [nsubj [det его] пение] задевает [obl [case за] живое].]'
+equivalents:
+  - english: |
+       cut to the quick
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

@@ -6,6 +6,16 @@ illustration: 'Захоти он рискнуть, прыгнул бы с пар
 cefr_level: C2
 definitions:
 examples:
+  - |
+       Захоти [я]Participant [остановить Вас,]Action [это было бы слишком легко.]Result
+  - |
+       Захоти [она]Participant [стать юристом,]Action [спокойно стала бы.]Result
+  - |
+       Захоти [родители]Participant [устроить сыну карьеру,]Action [у них ничего бы не вышло.]Result
+  - |
+       Захоти [мы]Participant [с Ирой где-нибудь встретиться,]Action [обязательно бы это сделали.]Result
+  - |
+       Захоти [он]Participant [стать боксером,]Action [его не взяли бы.]Result
 morphology:
   - PronPers
   - Verb

@@ -1,0 +1,49 @@
+---
+record: 4025
+name: '(даже) NP-Gen — и тот-Gen нет'
+UD_name: ''
+illustration: 'Даже приличных ботинок - и тех нет'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       В холодильнике [сыра]Theme - и того нет, всё съели.
+  - |
+       Денег нет. [Даже носков]Theme — и тех нет.
+  - |
+       Боль снять нечем. [Сигарет]Theme — и тех у него нет.
+  - |
+       Ни одного отпечатка пальцев. [Отпечатков ног]Theme — и тех нет.
+  - |
+       А еще говорили о недостаче городских товаров — [гвоздей]Theme и тех нет.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Conjunction
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [dislocated [advmod даже] NP-Gen] — [advmod и] [nsubj тот-Gen] нет]'
+  - '[root [dislocated NP-Gen] — [advmod и] [nsubj тот-Gen] нет]'
+dependency_structure_of_illustration:
+  - '[root [dislocated [advmod Даже] [amod приличных] ботинок] - [advmod и] [nsubj тех] нет]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

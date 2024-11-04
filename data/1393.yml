@@ -6,6 +6,16 @@ illustration: 'Мы как никогда близки к победе.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       [Принц]Participant был близок к [освобождению принцессы.]Action
+  - |
+       [Ты]Participant близка к [истине.]State
+  - |
+       И [она]Participant уже близка к [успеху.]STate
+  - |
+       [Ты]Participant была так близка к [своей цели.]State
+  - |
+       [Вы]Participant очень близки к [пенсионному возрасту.]State
 morphology:
   - NP
   - Nom

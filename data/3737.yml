@@ -1,0 +1,49 @@
+---
+record: 3737
+name: 'будь Pron NP-Ins/Adj, Pron бы VP'
+UD_name: ''
+illustration: 'Будь я тобой, я бы пожаловался на него в полицию.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Будь [я]Agent [промоутером]Condition, [счел бы это безрассудством]Result.
+  - |
+       Будь [я]Agent [здоров]Condition, я бы не глядя [отмахал пешим эти двести верст до Москвы]Result.
+  - |
+       Для Товстоногова главное было — искусство: если бы Лебедев не был гением, будь [он]Agent [мужем сестры, сватом, братом]Condition, [это бы ничего не решило]Result.
+  - |
+       [Как бы себя чувствовала Природа]Situation, будь [она]Agent [женщиной, живущей в Риме]Condition?
+  - |
+       Не будь [мы]Agent [важнейшими участниками международных отношений]Condition, [санкции не давались бы коллективному Западу так сложно]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis будь [nsubj Pron] [xcomp NP-Ins]], [nsubj Pron] [aux бы] VP]'
+  - '[root [parataxis будь [nsubj Pron] [xcomp Adj]], [nsubj Pron] [aux бы] VP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Ьудь [nsubj Pron] [xcomp NP-Ins]], [nsubj я] [aux бы] пожаловался [obl [case на] него] [obl [case в] полицию].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3219
+name: 'VP-Fut, (что) мало не покажется'
+UD_name: ''
+illustration: 'Бабка его так будет ругать, что мало не покажется.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Шеф, если захочет, такие проблемы организует, мало не покажется.
+  - |
+       Я устрою тебе такой скандал, что мало не покажется.
+  - |
+       Он потом такое напишет в своей газете, что мало не покажется.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP-Fut, [advcl [mark что] [advmod мало] [advmdo не] покажется]]'
+  - '[root VP-Fut, [conj [advmod мало] [advmdo не] покажется]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Бабка] [obj его] [advmod так] [aux будет]  ругать, [advcl [mark что] [advmod мало] [advmdo не] покажется].]'
+equivalents:
+  - english: |
+       X won't find it funny
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Warning
+  - type: Threat
+family:
+  - |
+    ""

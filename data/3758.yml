@@ -1,0 +1,52 @@
+---
+record: 3758
+name: 'VP с боку на бок'
+UD_name: ''
+illustration: 'Девушка ворочалась с боку на бок и не могла заснуть.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ненавижу [ворочаться]Activity с боку на бок и ждать, когда сможешь уснуть.
+  - |
+       Когда у человека что-то болит, он обычно не может лежать неподвижно, [крутится]Activity с боку на бок, пытаясь найти положение, в котором боль будет не так ощущаться.
+  - |
+       Сестра чему-то улыбается во сне, беспокойно [ворочается]Activity с боку на бок, вдруг принимается плакать.
+  - |
+       Я полночи [вертелась]Activity с боку на бок, потому что места очень мало.
+  - |
+       Хорошенько потянитесь, [перекатитесь]Activity несколько раз с боку на бок.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] боку [nmod [case на] бок]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Девушка] ворочалась [obl [case с] боку [nmod [case на] бок]] [conj [cc и] [advmod не] могла [xcomp заснуть]].]'
+comment: |
+    'См. более общую конструкцию 1067 VP с NP-Gen на ~NP-Acc - Лягушка прыгает с кочки на кочку и квакает.'
+equivalents:
+common_fillers:
+  - ворочаться
+  - крутиться
+references:
+  - |
+    Баранов, Добровольский 2026
+semantic_types:
+family:
+  - |
+    ""

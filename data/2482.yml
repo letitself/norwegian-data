@@ -1,0 +1,53 @@
+---
+record: 2482
+name: 'VP в шутку'
+UD_name: ''
+illustration: 'Моя жена сердится, хотя я произношу это в шутку'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Чтобы меня разбудить, ― в шутку [говорит]Activity Иван, ― нужен крепкий поцелуй.
+  - |
+       Кто-то из них в шутку [предложил]Action, что они могут привезти с собой палатки и разбить их рядом.
+  - |
+       Свою страсть к спорту Алина в шутку [называет болезнью]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] шутку]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Моя] жена] сердится, [advcl [mark хотя] [nsubj я] произношу [obj это] [obl [case в] шутку]].]'
+equivalents:
+  - english: |
+       as a joke/jokingly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

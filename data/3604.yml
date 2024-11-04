@@ -1,0 +1,53 @@
+---
+record: 3604
+name: 'вот что Adj-Short'
+UD_name: ''
+illustration: 'И вот что странно: она, как почувствовала его немой знак, обернулась.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       «Теперь так не пишут», ― это мы уже проходили. «Теперь так не читают», ― вот что [актуально]Evaluation.
+  - |
+       Трезвый расчет, а не сопереживание — вот что [необходимо]Evaluation, если мы действительно хотим помогать другим.
+  - |
+       Вот что [действительно здорово]Evaluation ― что рядом со статьей поместили фотографию…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj [advmod вот] что] Adj-Short]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [nsubj [advmod вот] что] странно: [parataxis [nsubj она] [advcl [mark как] почувствовала [obj [det его] [amod немой] знак]], обернулась].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       That's what X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Topic
+  - type: Salient property
+    subtypes:
+      - type: Property assignment
+family:
+  - |
+    ""

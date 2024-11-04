@@ -1,0 +1,56 @@
+---
+record: 3662
+name: 'NP не ожидать-Pst от NP-Gen NP-Gen'
+UD_name: ''
+illustration: 'Елена не ожидала от Василисы такой твёрдости.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Не ожидал от [вас]Participant [подобной низости]Evaluation, Мария Сергеевна!
+  - |
+       [Он]Experiencer не ожидал от [Ольги]Participant [такой прыти]Evaluation.
+  - |
+       Уж [такого]Evaluation [мы]Experiencer точно не ожидали от [своих скромных чеченских девушек]Participant.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] [advmod не] ожидать-Pst [obl [case от] NP-Gen] [obj NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Елена] [advmod не] ожидала [obl [case от] Василисы] [obl [det такой] твёрдости].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X didn’t expect P from Y
+common_fillers:
+  - тебя
+  - вас
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3331
+name: 'NP-Nom идти/работать полным ходом'
+UD_name: ''
+illustration: 'Строительство идёт полным ходом, к сентябрю котельная должна войти в строй.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Санька]Agent в расстегнутой шинели дул полным ходом по улице, косо перебегал по снегу через улицы.
+  - |
+       [Ледоколы]Theme работали полным ходом, но это помогало мало.
+  - |
+       Знала я, что [репетиции]Theme идут полным ходом, что готовы первые два акта.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] идти [obl [amod полным] ходом]]'
+  - '[root [nsubj NP-Nom] работать [obl [amod полным] ходом]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Строительство] идёт [obl [amod полным] ходом], [conj [obl [case к] сентябрю] [nsubj котельная] должна [xcomp войти [obl [case в] строй]]].]'
+equivalents:
+  - english: |
+       NA
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+family:
+  - |
+    ""

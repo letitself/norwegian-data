@@ -1,0 +1,61 @@
+---
+record: 3449
+name: 'душа не лежать VP-Inf/к NP-Dat'
+UD_name: ''
+illustration: 'Я почувствовал, что к хоккею душа не лежит , и снова ушел в футбол.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Я]Experiencer не могу себя насиловать, делать [то]Theme, к чему душа не лежит.
+  - |
+       Все вместе мы создали нашу фирму, но [заниматься бизнесом]Activity у [Вити]Experiencer душа не лежала, и вскоре наши профессиональные пути разошлись.
+  - |
+       У [меня]Experiencer никогда душа к [Егору]Patient не лежала, а он продолжал навязываться.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Noun
+  - Negation marker
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj душа] [advmod не] лежать [obl [case к] NP-Dat]]'
+  - '[root [nsubj душа] [advmod не] лежать [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] почувствовал, [ccomp [mark что] [obl [case к] хоккею] [nsubj душа] [advmod не] лежит], [conj [cc и] [advmod снова] ушел [obl [case в] футбол]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X doesn't (really) care for Y/Y doesn't appeal to X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Capacity/Preferences
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Personal interests
+family:
+  - |
+    ""

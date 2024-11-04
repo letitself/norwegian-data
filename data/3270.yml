@@ -1,0 +1,48 @@
+---
+record: 3270
+name: 'NP-Nom Cop NP-Dat не ровня'
+UD_name: ''
+illustration: 'Бедные люди  богатым не ровня.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       [Электронные книги]Comparee не ровня [бумажным.]Standart
+  - |
+       Конечно, [искусственный водопад]Comparee не ровня [природному,]Standart его высота намного меньше.
+  - |
+       Ты такой добрый. [Все эти злые люди]Comparee [тебе]Standart не ровня!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [iobj NP-Dat] [advmod не] ровня]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Бедные] люди] [iobj богатым] [advmod не] ровня.]'
+equivalents:
+  - english: |
+       not a match
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+family:
+  - |
+    ""

@@ -6,6 +6,16 @@ illustration: 'Какой из тебя учитель?'
 cefr_level: B2
 definitions:
 examples:
+  - |
+       Какой из [меня]Comparee [француз]Standard, я русский ― им и останусь
+  - |
+       Инженером хочет быть, а какой из [него]Comparee [инженер]Standard?
+  - |
+       Какой из [тебя]Comparee [воин]Standard, если не можешь дать сдачи?
+  - |
+       Какой из [него]Comparee [экономист]Standard?
+  - |
+       Какой из [меня]Comparee [лидер]Standard?
 morphology:
   - NP
   - Gen

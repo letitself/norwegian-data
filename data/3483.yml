@@ -1,0 +1,65 @@
+---
+record: 3483
+name: 'Ну что PronPers-2, NP-Nom/Voc, VP/Cl'
+UD_name: ''
+illustration: 'Ну что вы, коллега, себя надо беречь.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       ― Ну что вы, Анна Ивановна, ― сказал мужчина, ― [спасибо потом говорить будете, если подойдут вам квартиранты]Situation.
+  - |
+       Услышав крик, маленькая Маша спросила: "Михаил Фёдорович кричал?". Няня покачала головой: "Ну что ты, деточка, [он себе такого не позволит]Situation. Кто-то чужой кричал".
+  - |
+       Елена вдруг, заплакав, поклонилась в пояс. ― Ну что ты, мам! ― дернула ее за рукав дочь. ― [Не надо]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not applicable
+part_of_speech_of_anchor:
+  - Interjection
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [discourse Ну] что [nsubj PronPers-2, [appos NP-Nom]]], Cl]'
+  - '[root [parataxis [discourse Ну] что [nsubj PronPers-2, [appos NP-Nom]]], VP]'
+  - '[root [parataxis [discourse Ну] что [nsubj PronPers-2]], [vocative Voc], Cl]'
+  - '[root [parataxis [discourse Ну] что [nsubj PronPers-2]], [vocative Voc], VP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [discourse Ну] что [nsubj вы]], [vocative коллега], [obj себя] надо [csubj беречь].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       come on, X
+common_fillers:
+  - мама
+  - папа
+  - друг
+  - дружище
+  - родной
+  - дорогой
+  - милый
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3956
+name: '(Cl) до фигá/хренá NP-Gen.Pl'
+UD_name: ''
+illustration: 'У Пети до хрена проблем.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Дачных романов]Measure [в поселке случалось]Situation до фига, и, что называется, без последствий.
+  - |
+       ― Много [кадетов?]Measure ― До хрена!
+  - |
+       У нас до фига [таких фильмов]Measure [снято.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [case до] фигá [nsubj NP-Gen.Pl]]'
+  - '[root [case до] хренá [nsubj NP-Gen.Pl]]'
+  - '[root Cl [obl [case до] фигá] [nsubj NP-Gen.Pl]]'
+  - '[root Cl [obl [case до] хренá] [nsubj NP-Gen.Pl]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] него] [case до] фига [nsubj долгов].]'
+comment: |
+    'Также, помимо слов "фиг" и "хрен" возможны употребления матерных слов аналогичного содержания.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3553
+name: 'NP-Nom (на NP-Acc) Cop не в обиде'
+UD_name: ''
+illustration: 'Поверь, я на тебя не в обиде.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Даже мои родители меня никогда не понимали, но [я]Experiencer за это на [них]Stimulus не в обиде.
+  - |
+       [Я]Experiencer понимал [парней]Stimulus и был не в обиде.
+  - |
+       [Жители поселка]Experiencer не в обиде на [Клаву]Stimulus.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [case на] NP-Acc] [cop Cop] [advmod не] [case в] обиде]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case в] обиде]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Поверь], [nsubj я] [obl [case на] тебя] [advmod не] [case в] обиде.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X don't blame Y
+common_fillers:
+  - я
+  - он
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

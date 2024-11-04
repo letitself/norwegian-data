@@ -1,0 +1,49 @@
+---
+record: 3829
+name: 'VP как у Христа за пазухой'
+UD_name: ''
+illustration: 'Эти люди живут, как у Христа за пазухой, работают много.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Молится на нее, [живет]Activity как у Христа за пазухой, гоняет голубей, сестре на рынке помогает, сам торгует почтарями.
+  - |
+       За спиной у Е. Мальчевской мы, конечно, [были]Activity бы как у Христа за пазухой, главным образом еще и потому надо выруливать на нее, что сделают все хорошо
+  - |
+       Если не включать телевизор, то вообще можно [жить]Activity как у Христа за пазухой.
+  - |
+       Можно сказать, что с блаженным Андреем симбиряне [жили]Activity «как у Христа за пазухой».
+  - |
+       Вам останется только [сидеть]Activity, как у Христа за пазухой, и рисовать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposotion
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [advcl [mark как] [case у] Христа [nmod [case за] пазухой]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эти] люди] живут, [advcl [mark как] [case у] Христа [nmod [case за] пазухой]], [conj работают [advmod много]]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2026
+semantic_types:
+family:
+  - |
+    ""

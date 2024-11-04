@@ -1,0 +1,51 @@
+---
+record: 3209
+name: 'VP левой ногой'
+UD_name: ''
+illustration: 'Работа была сделана явно наспех и левой ногой.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Он всегда без подготовки, левой ногой, [сдавал экзамены.]Activity
+  - |
+       Такой сценарий можно было [написать за пару дней]Action левой ногой.
+  - |
+       Я ленюсь и всегда [всё делаю]Activity левой ногой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod левой] ногой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass Работа] [aux:pass была] сделана [advmod [advmod явно] наспех [conj [cc и] [amod левой] ногой]].]'
+equivalents:
+  - english: |
+       with wrong foot
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+        subtypes:
+          - type: Concern
+  - type: Manner
+family:
+  - |
+    ""

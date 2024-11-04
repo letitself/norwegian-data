@@ -1,0 +1,51 @@
+---
+record: 2614
+name: 'VP из глубины NP-Gen'
+UD_name: ''
+illustration: 'История садовых лестниц, как и любая другая история, идёт из глубины веков'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Из глубины веков [исходят]Action и [носят традиционный характер]Action две хорошо известные истины.
+  - |
+       Из глубины веков с большой отчетливостью [возникает]Action образ преподобного Феодора.
+  - |
+       Метр за метром продвигались вперед археологи, и с каждым движением лопаты из глубины веков [появлялись]Action новые части неизвестного, но весьма крупного сооружения.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case из] глубины [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj История [nmod [amod садовых] лестниц], [obl [mark как] [advmod и] [det любая] [amod другая] история]], идёт [obl [case из] глубины [nmod веков]]]'
+equivalents:
+  - english: |
+       from the depths of history
+common_fillers:
+  - веков
+  - прошлого
+  - времён
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Temporal characteristics
+family:
+  - |
+    ""

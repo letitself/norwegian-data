@@ -1,0 +1,54 @@
+---
+record: 3769
+name: '(у NP-Gen) глаза разбегаются (от NP-Acc)'
+UD_name: ''
+illustration: 'Вокруг так много невест, у меня аж глаза разбегаются от выбора.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       У [Марка]Experiencer глаза разбегаются от [количества товаров]Stimulus: кожа, верблюжья шерсть, травяные смеси для ритуалов, войлочная обувь.
+  - |
+       Сегодня мороженого так много, что у [меня]Experiencer глаза разбегаются.
+  - |
+       От [разнообразия блюд]Stimulus глаза разбегаются, от цен лезут на лоб.
+  - |
+       От [выбора гель-лаков]Stimulus у [меня]Experiencer каждый раз просто глаза разбегаются
+  - |
+       От [разнообразия]Stimulus глаза разбегаются и хочется скупить все.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Verb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj глаза] разбегаются [obl [case от] NP-Acc]]'
+  - '[root [obl [case у] NP-Gen] [nsubj глаза] разбегаются]'
+  - '[root [nsubj глаза] разбегаются [obl [case от] NP-Acc]]'
+  - '[root [nsubj глаза] разбегаются]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [advmod Вокруг] [advmod так] [nummod:gov много] невест], [obl [case у] меня] [advmod аж] [nsubj глаза] разбегаются [obl [case от] выбора].]'
+comment: |
+    'См. также 3770 NP-Gen Cop ((столько,) что) (у NP-GEN) глаза разбегаться - Вокруг так много невест, у меня аж глаза разбегаются от выбора;  3771 NP-Gen Cop ((столько,) что) (у NP-GEN) глаза разбегаться - Невест вокруг на выданье - глаза разбегаются.'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2037
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 4078
+name: 'NP-Nom (Verb) ни бе ни ме (ни кукареку) (NP-Dat)'
+UD_name: ''
+illustration: 'Я его спрашиваю, а он мне ни бе ни ме (ни кукареку)'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Я уже вторые сутки страдаю, а [вы]Agent [мне]Addressee — ни бэ, ни мэ, ни кукареку.
+  - |
+       Его спрашивают, а [он]Agent ни бе ни ме.
+  - |
+       Я понимаю,если бы вы отучились у него на курсах и не смогли после этого [сказать]Action ни бе ни ме.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Onomatopoeia
+  - Negation Marker
+  - Onomatopoeia
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] Verb [obj [advmod ни] бе [conj [advmod ни] ме]] [conj [advmod ни] кукареку]] [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] [advmod ни] бе [conj [advmod ни] ме]] [conj [advmod ни] кукареку] [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obj его] спрашиваю, [conj [cc а] [nsubj он] [iobj мне] [advmod ни] бе [conj [advmod ни] ме] [conj [advmod ни] кукареку]]'
+comment: |
+    'См. также синонимичные конструкции 4073-4073'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

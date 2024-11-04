@@ -1,0 +1,48 @@
+---
+record: 3232
+name: 'NP на выданье'
+UD_name: ''
+illustration: 'Приехала молодая женщина, красавица на выданье, много хороших женихов к ней сватается.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       В Китае этот праздник посвящен девушкам на выданье, которые должны продемонстрировать свое умение вести домашнее хозяйство
+  - |
+       Австралийская певица Кайли Миноуг и в 47 лет чувствует себя невестой на выданье.
+  - |
+       Вечером на спектаклях, где я до сих пор играю девушек на выданье, мне будет 18 или 20.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [case на] выданье]]'
+dependency_structure_of_illustration:
+  - '[root Приехала [nsubj [amod молодая] женщина, [appos красавица [nmod [case на] выданье]]], [conj [nsubj [nummod:gov много] [amod хороших] женихов] [obl [case к] ней] сватается].]'
+equivalents:
+  - english: |
+       of marriageable age
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

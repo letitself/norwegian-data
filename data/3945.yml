@@ -1,0 +1,51 @@
+---
+record: 3945
+name: 'нет/не видеть оснований для NP-Gen'
+UD_name: ''
+illustration: 'Судья не видит оснований для вашего досрочного освобождения.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Исторический прецедент позволяет надеяться на лучшее даже тогда, когда других оснований для [оптимизма]Theme нет.
+  - |
+       Ровным счетом никаких оснований для [беспокойства]Theme нет, могу вас заверить.
+  - |
+       Девушка сначала оправдывалась: «Я не вижу оснований для [своего ареста]Theme», а потом и вовсе сбежала в Хорватию.
+  - |
+       И пока нет оснований для [изменения этого режима]Theme.
+  - |
+       Экономических оснований для [запрета пластика]Theme она не видит.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Negation
+  - Verb
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root нет [nsubj оснований [nmod [case для] NP-Gen]]]'
+  - '[root [advmod не] видеть [obj оснований [nmod [case для] NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Судья] [advmod не] видит [obj оснований [nmod [case для] [det вашего] [amod досрочного] освобождения]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

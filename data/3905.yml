@@ -1,0 +1,54 @@
+---
+record: 3905
+name: 'NP-Gen VP-Imp — не хочу'
+UD_name: ''
+illustration: 'У него продуктов ешь — не хочу.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Комната вообще стояла пустая]Situation, [заходи]Activity — не хочу...
+  - |
+       Гулять с детьми трудно, хотя [в нашем распоряжении огромное поле]Situation, вроде [гуляй]Activity не хочу.
+  - |
+       [К праздникам мясо у вас будет]Situation: [ешь]Activity — не хочу.
+  - |
+       [А у него пленок с этими кадрами осталось]Situation — [штампуй]Activity не хочу.
+  - |
+       Вчерашней ночью я видела [лежащие на обочине арбузы]Situation — [бери]Activity не хочу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+  - Negation Marker
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [csubj [nsubj NP-Gen] VP-Imp] - [advmod не] хочу]'
+dependency_structure_of_illustration:
+  - '[root [csubj [nsubj [nmod [case У] него] продуктов] ешь] - [advmod не] хочу.]'
+comment: |
+    'См. др. количественные конструкции 3851- 3919'
+equivalents:
+common_fillers:
+  - Бери
+  - ешь
+  - живи
+  - гуляй
+  - пей
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

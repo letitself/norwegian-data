@@ -1,0 +1,53 @@
+---
+record: 2993
+name: 'VP по жизни'
+UD_name: ''
+illustration: 'С учителями и преподавателями мне по жизни везло.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он по жизни [ни на что внимания не обращает]State, так что эта ситуация тоже не будет исключением.
+  - |
+       Я вообще по жизни [пишу с ошибками]Activity, я из школы ушла в четвёртом классе, несправедливо поступили со мной.
+  - |
+       Нет, Марина, ты ее не знаешь, она запрограммировала неудачницей себя — по жизни [быть неудачницей]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] жизни]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       ever
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

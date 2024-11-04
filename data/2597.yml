@@ -1,0 +1,55 @@
+---
+record: 2597
+name: 'за красивые глаза/глазки VP'
+UD_name: ''
+illustration: 'У нас никому за красивые глаза научную степень не присваивают'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       В отделе за пять лет [вырос от младшего лейтенанта до капитана]Result не за красивые глаза, понятно.
+  - |
+       Они [смогли поступить в вуз, а затем и на престижную работу]Result не за красивые глазки, а на основании определенных знаний.
+  - |
+       Сергей, мне за красивые глаза [денег не платят]Action, так что давайте прощаться, работа ждет.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case за] [amod красивые] глаза] VP]'
+  - '[root [obl [case за] [amod красивые] глазки] VP]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] нас] [iobj никому] [obl [case за] [amod красивые] глаза] [obj [amod научную] степень] [advmod не] присваивают]'
+equivalents:
+  - english: |
+       for nothing
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

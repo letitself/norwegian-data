@@ -11,9 +11,9 @@ definitions:
        Konstruksjonen betegner en felles [handling]Action som en gitt [deltaker]Agent utfører sammen med en annen [deltaker eller gruppe deltakere]Associated. Deltakeren slutter seg til de andre deltakerne, som har påbegynt handlingen. At handlingen blir utført i fellesskap, kan være grunnen til at den blir utført (eksempel 2 og 3).
 examples:
   - |
-       Когда-то случайно, за компанию с [подругой]Associated, [пошла]Action в Школу юного педагога-психолога при этом университете.
+       Когда-то случайно, за компанию с [подругой]Associated, [пошла]Action в школу юного педагога-психолога.
   - |
-       [Я]Agent уже смотрел этот фильм, но за компанию с [тобой]Associated [схожу]Action.
+       [Я]Agent уже смотрел этот фильм, но за компанию с [тобой]Associated [схожу]Action еще раз.
   - |
        [Я]Agent с [тобой]Associated тоже за компанию [выпью]Action.
   - |

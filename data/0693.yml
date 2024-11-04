@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren gir [en vurdering]Evaluation av [en annen deltaker]Participant, [et objekt]Theme eller [en situasjon]Situation og spør om samtalepartneren er enig i talerens vurdering. Taleren forventer at samtalepartneren vil si seg enig med taleren.
 examples:
+  - |
+       А ты не думаешь, что об этом стоило бы рассказать полиции?
+  - |
+       А вы не думаете, что сами могли бы оказаться в такой ситуации?
+  - |
+       А ты не думаешь, что эта книга скорее предназначена взрослым, а не детям?
+  - |
+       А вы не думаете, что я сейчас рискую больше, чем он?
+  - |
+       А вы не думаете, что это та же самая собака?
 morphology:
   - NP
   - Nom

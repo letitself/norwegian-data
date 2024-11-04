@@ -1,0 +1,63 @@
+---
+record: 3228
+name: '(у NP-Gen) мурашки (бегать/Cop) по коже/спине (от NP-Gen)'
+UD_name: ''
+illustration: 'У меня до сих пор, сколько ни смотрю этот фильм, мурашки по коже бегут.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Первый раз я услышал от зрителей, что от моего пения у них мурашки по коже.
+  - |
+       У слушателей от страха бегали мурашки по коже.
+  - |
+       Знаете, когда я думаю о своей работе, у меня мурашки по спине.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] [cop Cop] [case по] спине [obl [case от] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] [cop Cop] [case по] спине]'
+  - '[root [nsubj мурашки] [cop Cop] [case по] спине [obl [case от] NP-Gen]]'
+  - '[root [nsubj мурашки] бегать [cop Cop] [case по] спине]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] бегать [obl [case по] спине] [obl [case от] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] бегать [obl [case по] спине]]'
+  - '[root [nsubj мурашки] бегать [obl [case по] спине] [obl [case от] NP-Gen]]'
+  - '[root [nsubj мурашки] бегать [obl [case по] спине]]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] [cop Cop] [case по] коже [obl [case от] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] [cop Cop] [case по] коже]'
+  - '[root [nsubj мурашки] [cop Cop] [case по] коже [obl [case от] NP-Gen]]'
+  - '[root [nsubj мурашки] бегать [cop Cop] [case по] коже]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] бегать [obl [case по] коже] [obl [case от] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj мурашки] бегать [obl [case по] коже]]'
+  - '[root [nsubj мурашки] бегать [obl [case по] коже] [obl [case от] NP-Gen]]'
+  - '[root [nsubj мурашки] бегать [obl [case по] коже]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] меня] [obl [case до] [det сих] пор], [advcl [advmod сколько] [advmod ни] смотрю [obj [det этот] фильм]], [nsubj мурашки] [obl [case по] коже] бегут.]'
+equivalents:
+  - english: |
+       cold shivers down X’s spine
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

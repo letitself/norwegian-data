@@ -42,7 +42,7 @@ dependency_structure:
   - '[root [parataxis так]'
   - 'Cl]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root [nsubj Кошки] [advmod [advmod намного] хуже [obl нас]] видят [obj цвета].] [root [parataxis Так], [nsubj [amod красный] цвет] [iobj им] недоступен.]'
 comment: |
     'No comment yet'
 equivalents:

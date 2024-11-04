@@ -1,0 +1,56 @@
+---
+record: 3600
+name: 'какой ещё NP'
+UD_name: ''
+illustration: 'У неё есть план. ― Какой ещё план?'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Какие еще [спецслужбы]Theme?! И почему финские? Никогда ничего не слышал о финских спецслужбах.
+  - |
+       ― Меня работа ждет. ― Какая еще [работа]Theme?
+  - |
+       ― Тетя Катя, ты ж неверующая, какой еще [храм]Theme?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[dep [det Какой [advmod ещё] NP]]'
+dependency_structure_of_illustration:
+  - '[root [det Какой [advmod ещё] план?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       what X?
+common_fillers:
+  - вопросы
+  - новости
+  - деньги
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

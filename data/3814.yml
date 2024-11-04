@@ -1,0 +1,51 @@
+---
+record: 3814
+name: 'NP в (самом) соку'
+UD_name: ''
+illustration: 'Как говорится, мужчина в самом соку.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Кассандра — [красавица]Participant в самом соку, которая всех соблазняет, но никому не дает.
+  - |
+       И вовсе [он]Participant не старый, пятидесяти еще нет, в самом соку.
+  - |
+       Старшую дочь выдавай замуж, пока [она]Participant в соку.
+  - |
+       Зато высокие, стройные, с дырявыми джинсами — [они]Participant в соку, они уже состоялись.
+  - |
+       У нее больше перспектив! Это [женщина]Participant в самом соку. Она уже состоялась.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[dep NP [obl [case в] [det самом] соку]]'
+  - '[dep NP [obl [case в] соку]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [mark Как] говорится], [nsubj мужчина] [case в] [det самом] соку].'
+equivalents:
+common_fillers:
+  - девушка
+  - мужчина
+references:
+  - |
+    Баранов, Добровольский 2033
+semantic_types:
+family:
+  - |
+    ""

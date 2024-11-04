@@ -1,0 +1,54 @@
+---
+record: 3170
+name: 'VP за гранью (NP-Gen) / NP за гранью (NP-Gen)'
+UD_name: ''
+illustration: 'Каждый их полёт кажется чем-то за гранью возможного.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Механизм его действия]Theme оставался за гранью [понимания.]Theme
+  - |
+       Кричать публично ― [это]Theme за гранью [моих физиологических возможностей.]Theme
+  - |
+       Есть товарищ Буганов, по чьим учебникам целые области занимаются, он пишет [нечто]Theme за гранью [добра и зла.]Theme
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] гранью [nmod NP-Gen]]]'
+  - '[root VP [obl [case за] гранью]]'
+  - '[dep NP [nmod [case за] гранью [nmod NP-Gen]]]'
+  - '[dep NP [nmod [case за] гранью]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det каждый] [det их] полёт] кажется [obl чем-то [nmod [case за] гранью [nmod возможного]]].]'
+equivalents:
+  - english: |
+       beyond good and evil
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

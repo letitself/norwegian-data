@@ -1,0 +1,51 @@
+---
+record: 2851
+name: 'VP по старинке/старой памяти'
+UD_name: ''
+illustration: 'Сквозняки перестали беспокоить, и только ласточка, влетевшая в интерьер по старой памяти, билась о прозрачную преграду'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Даже если кто из бывших сослуживцев [зайдёт]Action по старой памяти ― так не о чём с ним разговаривать.
+  - |
+       Все же по старой памяти они с Ларисой [изредка перезванивались]Action и еще реже встречались.
+  - |
+       Случается, меня по старой памяти [приглашают на небольшие шахматные турниры с приятным составом и в хорошем месте]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] старинке]]'
+  - '[root VP [obl [case по] [amod старой] памяти]]'
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'Также см. 1252  VP по NP-Dat - Он женился по любви.'
+equivalents:
+  - english: |
+       for old time's sake
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+  - type: Manner
+family:
+  - |
+    ""

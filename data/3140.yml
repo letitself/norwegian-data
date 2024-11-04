@@ -1,0 +1,49 @@
+---
+record: 3140
+name: '(NP) все как один (человек) VP'
+UD_name: ''
+illustration: 'Ученики все как один повернулись в сторону Лены.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Очередь,]Agent вся, как один человек, [обернулась на крикуна.]Action
+  - |
+       Скажу честно — [наши читатели]Agent после встречи собрались на чаепитие и все как один [вами восторгались.]Activity
+  - |
+       Верхние ступени кое-как сохранились, а [нижние все,]Agent как одна, [обрушились]Action ― и лесенка в воздухе повисла.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [dep NP [det все [obl [case как] один]]] VP]'
+  - '[root [dep NP [det все [obl [case как] [nummod один] человек]]] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ученики [det все [obl [case как] один]]] повернулись [obl [case в] сторону [nmod Лены]].]'
+equivalents:
+  - english: |
+       all as one
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

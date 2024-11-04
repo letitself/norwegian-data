@@ -6,6 +6,16 @@ illustration: 'Я тебя знаю, ты всё разболтаешь.'
 cefr_level: A2
 definitions:
 examples:
+  - |
+       Но [ты его простишь,]Situation [я]Cognizer [тебя]Addressee знаю.
+  - |
+       [Я]Cognizer [тебя]Addressee знаю, [ты поначалу будешь против]Situation.
+  - |
+       [Я]Cognizer [тебя]Participant знаю, [ты снова опоздаешь]Situation.
+  - |
+       [Ты, конечно, делать ничего не будешь]Situation, [я]Cognizer [тебя]Participant знаю.
+  - |
+       [Я]Cognizer [его]Participant знаю, [он никого не обидит]Situation.
 morphology:
   - PronPers
   - Nom

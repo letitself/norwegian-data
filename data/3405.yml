@@ -1,0 +1,48 @@
+---
+record: 3405
+name: 'шутки Cop плохи с NP-Ins'
+UD_name: ''
+illustration: 'Мы люди деловые, точные, с нами шутки плохи.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Мне доводилось работать в тундре, с [ней]Theme шутки плохи
+  - |
+       С [алкоголем и курением]Theme шутки плохи: сразу сообщат представителю школы и будут разбираться.
+  - |
+       Вы запомните, Борис, с [моей командой]Participant шутки плохи.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj шутки] [cop Cop] плохи [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] люди [amod деловые, [conj точные]], [conj [obl [case с] нами] [nsubj шутки] плохи].]'
+equivalents:
+  - english: |
+       it’s quite something
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Preventive
+family:
+  - |
+    ""

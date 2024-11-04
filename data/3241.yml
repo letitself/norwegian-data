@@ -1,0 +1,46 @@
+---
+record: 3241
+name: 'VP на словах'
+UD_name: ''
+illustration: 'Он только на словах такой решительный, но на самом деле всего боится.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Как же вы это докажете не на словах, а фактами?
+  - |
+       Я решил, что если заниматься космосом, то не на словах, а на деле.
+  - |
+       Сделка была заключена только на словах.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] словах]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [advmod только] [case на] словах] [det такой] решительный [conj [cc но] [obl [case на] [amod самом] деле] [obl всего] боится].]'
+equivalents:
+  - english: |
+       in word
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

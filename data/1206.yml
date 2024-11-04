@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at [en deltaker i situasjonen]Agent imiterer en gitt [tilstand]State som ikke finner sted i virkeligheten. Deltakerens mål er å føre en annen deltaker i situasjonen på villspor med sin atferd eller sitt utseende.
 examples:
   - |
-       Условия были такие: [один]Agent прикидывается [доктором]State, другой наряжается больным, а третий ― медсестрой.
+       Часто [змея]Agent прикидывается [сухим сучком]State, чтобы вернее ужалить добычу.
+  - |
+       Неужели ты действительно не понимаешь, что происходит? Не прикидывайся [болваном]State!
+  - |
+       Это новая [программа]Participant, которая прикидывается [человеком]State.
   - |
        — Только не прикидывайся [самым чистоплотным котом на свете]State, — сказала она Марсику.
   - |
-       Часто [змея]Agent прикидывается [сухим сучком]State, чтобы вернее ужалить добычу.
-  - |
-       Бот — это… робот. [Программа]Participant, которая прикидывается [человеком]State.
-  - |
-       Неужели ты действительно не понимаешь, что происходит? Не прикидывайся [болваном]State!
+       Условия были такие: [один]Agent прикидывается [доктором]State, другой наряжается больным, а третий ― медсестрой.
 morphology:
   - NP
   - Nom

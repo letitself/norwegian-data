@@ -1,0 +1,49 @@
+---
+record: 3172
+name: 'NP-Nom задать перцу/перца NP-Dat'
+UD_name: ''
+illustration: 'Слонам зададут перцу.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       ― Скажи спасибо, что у меня шлейф такой длинный, а то бы [я]Agent [тебе]Patient задала перцу…
+  - |
+       ― Ну, смотрите, [мама]Agent придёт, задаст [вам]Patient перцу!
+  - |
+       А я думал, [ты]Agent [им]Patient задал перцу, ты же старший, так ведь?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] задать [obl перцу] [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Слонам] зададут [obl перцу].]'
+equivalents:
+  - english: |
+       to X give hell
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+  - type: Threat
+family:
+  - |
+    ""

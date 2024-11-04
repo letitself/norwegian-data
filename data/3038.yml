@@ -1,0 +1,50 @@
+---
+record: 3038
+name: 'VP на ура'
+UD_name: ''
+illustration: 'Зрители приняли фильм на ура, буквально всем он нравится, а это большая редкость.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Эффектное начало ― половина дела, но и со второй половиной доктор [справился]Action на ура.
+  - |
+       Из шприца вообще котята на ура [кушают]Action.
+  - |
+       Любые вечера на любых площадках [шли]Activity на ура ― дорвался народ до поэзии.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Intj
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

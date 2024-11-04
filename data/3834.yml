@@ -1,0 +1,52 @@
+---
+record: 3834
+name: '(чтоб) не сойти мне с этого места Cl'
+UD_name: ''
+illustration: 'Не сойти мне с этого места, если я не добуду тебе эту книгу!'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Вчера была здесь и вижу ― Эдик-Отмычка с натянутым на физиономию чулком пытается открыть дверь вон того дома, того крайнего]Situation. Не сойти мне с этого места! И не говори, что мне нужен психиатр.
+  - |
+       Если есть хотя бы тысячная доля вероятности, что [я — счастливая примета]Situation, так не сойти мне с этого места.
+  - |
+       Вот давеча пришла одна: тю-тю-тю, то да сё, а я сразу вижу – [беременная]Situation, не сойти мне с этого места!
+  - |
+       Я сама, не сойти мне с этого места, [сама отвезу вас в город, и к Волкову, к Волкову]Situation.
+  - |
+       Ежели которая взболтнет лишнее, не сойти мне с этого места — [кишки выпущу]Situation!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Pronoun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [advmod не] сойти [iobj мне] [obl [case с] [det этого] места]] Cl]'
+  - '[root [parataxis [mark чтоб] [advmod не] сойти [iobj мне] [obl [case с] [det этого] места]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] сойти [iobj мне] [obl [case с] [det этого] места], [advcl [mark если] [nsubj я] [advmod не] добуду [iobj тебе] [obj [det эту] книгу]]]!'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2031
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,47 @@
+---
+record: 2632
+name: 'VP на авось'
+UD_name: ''
+illustration: 'а'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Ехали]Activity крестьяне в Петербург не на авось, а готовились к этой поездке заранее, еще с детства.
+  - |
+       Он решил [действовать]Activity на авось и повернул налево.
+  - |
+       Со здоровьем детей нельзя на авось [всё пускать]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] авось]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       slapdash
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 3499
+name: 'если б/бы (NP-Nom) только знать-Pst/знать-Inf, Cl'
+UD_name: ''
+illustration: 'Если бы она только знала, как мне нравилась!'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Мне такого труда стоило найти вас]Situation, если б [вы]Participant только знали.
+  - |
+       Ах, если бы только знали в те времена, [что такое «пиар»]Topic.
+  - |
+       ― Сколько хорошего я бы могла ему сказать, если бы только знать, ― говорила она себе с отчаянием, ― а теперь уже поздно…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+  - Adverb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [mark если] [aux бы] [nsubj NP-Nom] [advmod только] знать-Pst, [ccomp Cl]]'
+  - '[root [mark если] [aux бы] [advmod только] знать-Pst, [ccomp Cl]]'
+  - '[root [mark если] [aux бы] [advmod только] знать-Inf, [ccomp Cl]]'
+dependency_structure_of_illustration:
+  - '[root [mark Если] [aux бы] [nsubj она] [advmod только] знала, [ccomp [advmod как] [iobj мне] нравилась]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       if X only knew
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Volition
+family:
+  - |
+    ""

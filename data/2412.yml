@@ -1,0 +1,50 @@
+---
+record: 2412
+name: 'Adj/NP в душе'
+UD_name: ''
+illustration: 'Я смотрел этот фильм с трепетов в душе'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я всегда был [романтиком]Property в душе.
+  - |
+       Можно состариться, оставаясь [молодым]Property в душе.
+  - |
+       Он хотел всегда оставаться [молодым]Property в душе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root Adj [obl [case в] душе]]'
+  - '[dep NP [nmod [case в] душе]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] смотрел [obj [det этот] фильм] [obl [case с] трепетом [nmod [case в] душе]]]'
+equivalents:
+  - english: |
+       deep down
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Personality
+family:
+  - |
+    ""

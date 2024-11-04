@@ -1,0 +1,49 @@
+---
+record: 3348
+name: 'идти рука об руку с NP-Ins'
+UD_name: ''
+illustration: 'Рука об руку с ожирением идут подагра, бесплодие, варикоз нижних конечностей и высокий риск тромбоэмболии'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Маша]Accompanee и [Петя]Companion рука об руку шли до школы.
+  - |
+       [Слава и успех]Companion шли рука об руку со [знаменитым скульптором.]Accompanee
+  - |
+       Рука об руку с [бессонницей]Accompanee идут [мигрень, раздражительность и рассеянность.]Companion
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root идти [obl рука [nmod [case об] руку]] [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [obl Рука [nmod [case об] руку]] [obl [case с] ожирением] идут [nsubj подагра, [conj бесплодие], [conj варикоз [nmod [amod нижних] конечностей]] [conj [cc и] [amod высокий] риск [nmod тромбоэмболии]]].]'
+equivalents:
+  - english: |
+       hand in hand
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comitative
+  - type: Taxis
+    subtypes:
+      - type: Simultaneous action
+family:
+  - |
+    ""

@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker talerens skuffelse over fraværet av en forventet [gjenstand, deltaker eller et fenomen]Theme på et gitt sted. Selv den minste tilstedeværelse av objektet (lukten) avvises. Det er som om fraværet av objektets lukt i et bestemt rom indikerer at objektet er fraværende. Situasjonen svarer ikke til talerens forventninger og vurderes vanligvis negativt av denne. Ofte dreier det seg om for dårlig kvalitet eller lavt nivå på de objektene som forefinnes og ikke svarer til sin status.
 examples:
+  - |
+       Никаким [весельем]Theme здесь и не пахнет.
+  - |
+       Тут [семейной жизнью]Theme и не пахнет.
+  - |
+       [Школьной реформой]Theme здесь и не пахнет.
+  - |
+       Тут [бюрократией]Theme и не пахнет.
+  - |
+       Около неё [мужем]Theme и не пахнет.
 morphology:
   - NP
   - Ins

@@ -42,9 +42,10 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - ~
+  - '[parataxis [case для] примера], [dep XP]'
+  - '[root [parataxis [case для] примера], Cl]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root [parataxis [case Для] примера], [nsubj треть [nmod студентов [nmod [amod медицинской] академии]]] вышла [obl [case из] [amod профильных] школ].]'
 comment: |
     'No comment yet'
 equivalents:

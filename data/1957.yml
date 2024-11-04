@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen inneholder [en konklusjon]Theme som er trukket på grunnlag av de foregående utsagnene, eller den generaliserer den anførte informasjonen ved å oppsummere det som er sagt.
 examples:
+  - |
+       Итак, [подводим итоги]Situation.
+  - |
+       Итак, [что привело вас к нам]Situation?
+  - |
+       Итак, [мы вплотную подошли к твоему вопросу]Situation.
+  - |
+       Если не знаете, предлагаю вам побывать в обеих ролях: практика и теоретика. Итак, [погружаемся в первую роль]Situation.
+  - |
+       Хорошо, вернемся к концепции Москвы как пешеходного города. Итак, [рекламу и ларьки убрали]Situation. А большая идея в чем?
 morphology:
   - Cl
 syntactic_type_of_construction:

@@ -1,0 +1,49 @@
+---
+record: 3882
+name: 'горстка NP-Gen'
+UD_name: ''
+illustration: 'Он оглядел горстку людей, только что присоединившихся к ним.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Множество людей за короткий срок делают то, на что у горстки [учёных]Set ушли бы годы.
+  - |
+       Им иногда давали горстку [муки]Set или парочку картошек.
+  - |
+       Горстка [домишек]Set лежала посреди необъятной степи.
+  - |
+       У нас есть только горстка [фактов]Set о писателе и сам роман.
+  - |
+       На полпути стоит горстка [зданий]Set, прилепившихся друг к другу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep горстка [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] оглядел [obj горстку [nmod людей]], [acl [advmod только [fixed что]] присоединившихся [obl [case к] ним]].]'
+comment: |
+    'Предпочтительны отрицательные и квазиотрицательные контексты. В утвердительных предложениях сочетаются в основном с именами лиц, ср. горстка / кучка /*капля людей, пассажиров, ловких дельцов и др. См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

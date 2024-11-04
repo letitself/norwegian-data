@@ -1,0 +1,52 @@
+---
+record: 3308
+name: 'VP по NP-Gen/PronPoss-Gen душу'
+UD_name: ''
+illustration: 'Они пришли по мою душу'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       С ним «возятся» и пока он на воле ― следят, фотографируют, подслушивают, [вербуют стукачей]Action по [его]Maleficiary душу, вызывают для профилактических бесед, уговаривают уехать…
+  - |
+       [Объявилась]Action прокуратура по душу [чудесным образом спасшегося Бердыева.]Maleficiary
+  - |
+       Судя по озабоченному виду Анатолия, водители иномарок [прибыли]Action именно по [его]Maleficiary душу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] [det PronPoss-Gen] душу]]'
+  - '[root VP [obl [case по] [nmod NP-Gen] душу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] пришли [obl [case по] [det мою] душу].]'
+equivalents:
+  - english: |
+       after X
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Purpose
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

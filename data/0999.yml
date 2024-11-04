@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker [deltakerens]Experiencer holdning til et gitt [objekt]Theme, [en ide]Theme, [en egenskap]Property, [en situasjon]Situation eller en annen [deltaker]Participant. Deltakerens holdning består i å støtte disse, eller ikke. Holdningen er enten utpreget negativ ('не по вкусу'), eller den er positiv, men bare måtelig ('по вкусу'). Det er som om deltakeren smaker på hendelsen, som på mat og drikke, og enten ikke liker smaken ('не по вкусу') eller liker smaken ('по вкусу'). Konstruksjonen anvendes som regel for å uttrykke en negativ holdning.
 examples:
   - |
-       [Дамам]Experiencer, видно, пришелся по вкусу [этот колоритный здоровяк со смешным непонятным акцентом и нахальными руками]Participant.
-  - |
        Оживление публики в зале свидетельствовало о том, что [ансамбль]Participant [многим]Experiencer пришелся по вкусу.
   - |
-       Вернувшись домой, моряки рассказали, что жители Южной Америки ― индейцы ― выращивают удивительные «земляные яблоки». Если их испечь, они становятся мягкими и очень вкусными. Слух о чудесных клубнях разнесся по всем странам. Не везде [новинка]Theme пришлась по вкусу ― кое-где пытались есть клубни в сыром виде и после этого уже ни за что не хотели сажать картофель.
+       [Дамам]Experiencer, видно, пришелся по вкусу [этот здоровяк со смешным непонятным акцентом]Participant.
   - |
-       Почти уверен, что [даосская мудрость автора]Property едва ли придется по вкусу [массовому читателю]Experiencer.
+       Не везде [новинка]Theme пришлась по вкусу, где-то так и не поняли, как ее правильно готовить.
   - |
-       А [тем, кто не боится браться за сложные задачи]Experiencer, возможно, придется по вкусу [идея «многоэтажки»]Theme: двухэтажный домик с внутренней лесенкой.
+       Почти уверен, что [мудрость автора]Property едва ли придется по вкусу [массовому читателю]Experiencer.
+  - |
+       А [тем, кто не боится браться за сложные задачи]Experiencer, возможно, придется по вкусу [новая идея]Theme: двухэтажный домик с внутренней лесенкой.
 morphology:
   - NP
   - Nom

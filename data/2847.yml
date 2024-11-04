@@ -1,0 +1,52 @@
+---
+record: 2847
+name: 'VP по совести'
+UD_name: ''
+illustration: 'И если человек находит в себе силу поступить по совести, он чувствует такой прилив счастья'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я работаю с 15 лет, люблю порядок и чистоту, [работу выполняю]Action по совести.
+  - |
+       Должен по совести [вам сказать,]Action ваши столичные актеры ― большие снобы.
+  - |
+       Как должна была бы ― по совести ― [поступить]Action наша экспертная группа советских писателей?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] совести]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       in all conscience
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

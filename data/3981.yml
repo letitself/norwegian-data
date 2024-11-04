@@ -1,0 +1,52 @@
+---
+record: 3981
+name: '(на) сто пудов/стопудово XP'
+UD_name: ''
+illustration: 'Он стопудово не умеет готовить.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       — А вдруг он не женится? — Женится, Машунь, на сто пудов [женится]ContentOfSpeech.
+  - |
+       [Ей вообще эти работники бесплатно достались]ContentOfSpeech, вот сто пудов.
+  - |
+       Сто пудов, что [в этом доме есть электричество, может даже генератор]ContentOfSpeech.
+  - |
+       Сто пудов, [Петя сделал!]ContentOfSpeech Кто ещё
+  - |
+       Сто пудов [State] медведка! Кто ещё?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case на] [nummod сто] пудов] XP]'
+  - '[root [obl [nummod сто] пудов] XP]'
+  - '[root [advmod стопудово] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod стопудово] [advmod не] умеет [xcomp готовить].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

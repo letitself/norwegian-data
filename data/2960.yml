@@ -1,0 +1,52 @@
+---
+record: 2960
+name: 'VP (в/за/на/в течение) целую жизнь'
+UD_name: ''
+illustration: 'Целую жизнь деньгами занимаюсь, лучше меня никто не разберется.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Настоящая любовь вне времени. Она может [ждать]State хоть целую жизнь.
+  - |
+       Этого упущения [не поправить]Action теперь в целую жизнь.
+  - |
+       Целую жизнь на строительство этого дома [положил]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod целую] жизнь]]'
+  - '[root VP [obl [case зп] [amod целую] жизнь]]'
+  - '[root VP [obl [case на] [amod целую] жизнь]]'
+  - '[root VP [obl [case в [fixed течение]] [amod целой] жизни]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       for ages
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

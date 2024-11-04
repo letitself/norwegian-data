@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren kommer med [en informasjon eller en vurdering]ContentOfSpeech og spør om samtalepartneren er enig i dette. Taleren forventer at samtalepartneren vil bekrefte informasjonen og si seg enig med taleren.
 examples:
+  - |
+       Ну, [надо же куда-нибудь свою энергию девать]Situation, верно?
+  - |
+       Верно ведь, что [в точку Володя попал]Situation.
+  - |
+       [Когда ты говоришь «буду, буду», значит, тебе хочется только, чтобы я от тебя отстала]Situation. Верно ведь?
+  - |
+       А [путь и суть ― одно и то же]Situation, верно ведь?
+  - |
+       [А Ивану никак нельзя в промозглую сырость с его болезнью]Situation. Верно, брат, говорю?
 morphology:
   - Cl
 syntactic_type_of_construction:

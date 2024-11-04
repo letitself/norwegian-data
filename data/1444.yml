@@ -6,6 +6,16 @@ illustration: 'Ему ещё здесь работать и работать.'
 cefr_level: B2
 definitions:
 examples:
+  - |
+       Этот список можно [продолжать]Activity и [продолжать.]Activity
+  - |
+       Лекции потрясающие, хочется [слушать]State и [слушать.]State
+  - |
+       Подержанное авто нужно [красить]Activity и [красить:]Activity пластик изнашивается лет через 5.
+  - |
+       Запасы кончались, а урожая еще [ждать]State и [ждать.]State
+  - |
+       Из Интернета можно бесконечно [черпать]Activity и [черпать.]Activity
 morphology:
   - XP
 syntactic_type_of_construction:

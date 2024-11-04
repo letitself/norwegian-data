@@ -1,0 +1,57 @@
+---
+record: 3426
+name: 'короче говоря, Cl'
+UD_name: ''
+illustration: 'Ты должен знать: где она живет, с кем живет, что любит и не любит. Короче говоря, ты должен знать о ней все.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Короче говоря, [я его в угол загнала, он и рассказал мне под великим секретом, что встречу организовала наша Валя]Rephrasing.
+  - |
+       Короче говоря, [мы сидели  с друзьями в ресторане, пили, ели и вели необязательные разговоры]Rephrasing.
+  - |
+       Одной воспитывать ребенка очень трудно... [Устала я]Rephrasing, короче говоря.
+  - |
+       Понесешь синий рюкзак, он нетяжелый, килограмм на десять-двенадцать. [Детский]Rephrasing, короче говоря.
+  - |
+       Короче говоря, [я до сих пор был расстроен]Rephrasing.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Converb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [parataxis [advmod короче] говоря]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [advmod Короче] говоря], [nsubj ты] должен [xcomp знать [obl [case о] ней] [obj все]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       to make a long story short/to be brief
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+family:
+  - |
+    ""

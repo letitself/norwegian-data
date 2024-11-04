@@ -1,0 +1,52 @@
+---
+record: 2440
+name: 'VP в первую минуту (после NP-Gen/как Cl)'
+UD_name: ''
+illustration: 'Я узнала тебя в первую минуту как увидела.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       В первую минуту я [была парализована]State; когда меня подняли, боль в спине оказалась нестерпимой.
+  - |
+       Конечно, в первую минуту [мне было обидно]State.
+  - |
+       В первую минуту они [кажутся отчужденными, даже враждебными]Property, но несколько дружеских слов ― и на угрюмых лицах появляются застенчивые улыбки.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod первую] минуту]]'
+  - '[root VP [obl [case в] [amod первую] минуту [nmod [case после] NP-Gen]]]'
+  - '[root VP [obl [case в] [amod первую] минуту] [advcl [mark как] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] узнала [obj тебя] [obl [case в] [amod первую] минуту] [advcl [mark как] увидела].]'
+equivalents:
+  - english: |
+       the first minute
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

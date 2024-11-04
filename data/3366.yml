@@ -1,0 +1,51 @@
+---
+record: 3366
+name: 'NP-Nom сидеть/лежать как влитой (на NP-Loc)'
+UD_name: ''
+illustration: 'Сапоги сидели как влитые.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Костюмчик]Theme сидит как влитой, блузочка модная, что туфельки, что сапожки ― засмотришься.
+  - |
+       [Прекрасная футболка]Theme будет сидеть на [вас]Participant как влитая.
+  - |
+       [Револьвер]Theme лежит в руке как влитой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] сидеть [obl [case как] влитые]]'
+  - '[root [nsubj NP-Nom] сидеть [obl [case как] влитые] [obl [case на] NP-Loc]]'
+  - '[root [nsubj NP-Nom] лежать [obl [case как] влитые]]'
+  - '[root [nsubj NP-Nom] лежать [obl [case как] влитые] [obl [case на] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Сапоги] сидели [obl [case как] влитые].]'
+equivalents:
+  - english: |
+       to sit down quietly
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Exact
+family:
+  - |
+    ""

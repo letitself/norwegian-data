@@ -1,0 +1,60 @@
+---
+record: 3447
+name: '(NP-Nom) (―/это) PronPoss-Gen/чей-Gen рук дело'
+UD_name: ''
+illustration: 'Я так и знал, что это твоих рук дело!'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Те едва заметные, белесоватые шрамы на её виске]Situation ― [моих]Possessor рук дело.
+  - |
+       Что произошло, я так и не понял, зато ни минуты не сомневался, [чьих]Possessor это рук дело.
+  - |
+       Только вот уже год, как нет с нами нашего первого директора… [Все наши успехи]Situation ― [его]Possessor рук дело.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj это] [nmod [det PronPoss-Gen] рук] дело]'
+  - '[root [nsubj это] [nmod [det чей-Gen] рук] дело]'
+  - '[root [nsubj NP-Nom] - [expl это] [nmod [det PronPoss-Gen] рук] дело]'
+  - '[root [nsubj NP-Nom] - [expl это] [nmod [det чей-Gen] рук] дело]'
+  - '[root [nsubj NP-Nom] - [nmod [det PronPoss-Gen] рук] дело]'
+  - '[root [nsubj NP-Nom] - [nmod [det чей-Gen] рук] дело]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod так] [advmod и] знал, [ccomp [mark что] [nsubj это] [nmod [det твоих] рук] дело]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       this is the work of X/X is behind this
+common_fillers:
+  - его
+  - твоих
+  - ваших
+  - моих
+  - ее
+  - их
+  - чьих
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

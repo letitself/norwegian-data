@@ -1,0 +1,54 @@
+---
+record: 2760
+name: 'от NP-Gen NP-Dat Cop ни тепло, ни холодно'
+UD_name: ''
+illustration: 'Как ни желал бы я искренне запротестовать ― от такого протеста никому ни тепло ни холодно'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Он сначала говорил, что ему от [поцелуев]Theme ни тепло ни холодно, а сейчас говорит, что ему, наверное, не нравится!
+  - |
+       Президенту от [голосования в этом районе]Theme ни тепло ни холодно.
+  - |
+       Ее выпустили, и от [Володиных показаний]Theme ей было ни тепло, ни холодно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case от] NP-Gen] [iobj NP-Dat] [cop Cop] [cc ни] тепло'
+  - '[conj [cc ни] холодно]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Как] [advmod ни] желал [aux бы] [nsubj я] [xcomp [advmod искренне] запротестовать] ― [conj [obl [case от] [det такого] протеста] [iobj никому] [cc ни] тепло [conj [cc ни] холодно]]]'
+equivalents:
+  - english: |
+       neither hot nor cold about
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

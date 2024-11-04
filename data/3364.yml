@@ -1,0 +1,53 @@
+---
+record: 3364
+name: 'NP-Nom Cop (самое) милое/святое дело'
+UD_name: ''
+illustration: 'Летом холодные супчики самое милое дело.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [О таких вещах порассуждать]Activity ― самое милое дело.
+  - |
+       Самое милое дело [приглашать конкурентов за стол переговоров.]Activity
+  - |
+       Трезвыми они бывали до обеда, то есть до двенадцати часов. [А после двенадцати]Circumstance ― святое дело.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [amod [advmod самое] милое] дело]'
+  - '[root [nsubj NP-Nom] [cop Cop] [amod милое] дело]'
+  - '[root [nsubj NP-Nom] [cop Cop] [amod святое] дело]'
+dependency_structure_of_illustration:
+  - '[root [advmod Летом] [nsubj [amod холодные] супчики] [amod [advmod самое] милое] дело.]'
+equivalents:
+  - english: |
+       owes no master
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Positive
+  - type: Causation
+    subtypes:
+      - type: Indirect
+family:
+  - |
+    ""

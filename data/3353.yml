@@ -1,0 +1,49 @@
+---
+record: 3353
+name: 'VP с ведома NP-Gen'
+UD_name: ''
+illustration: '― И всё же это с ведома директора?'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я бы даже [опечатки исправлял]Action лишь с ведома [автора.]Participant
+  - |
+       Все это, как я только что сказал, [происходит]Action с ведома и молчаливого согласия [Советской власти.]Participant
+  - |
+       [Его убили]Action в порядке очередного дворцового переворота, ― с ведома [двух его сыновей.]Participant
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] ведома [nmod NP-Gen]]]'
+  - '[root [cop Cop] [case с] ведома [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root ― [cc И] [advmod всё [advmod же]] [nsubj это] [case с] ведома [nmod директора]?]'
+equivalents:
+  - english: |
+       a random assortment
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Context
+family:
+  - |
+    ""

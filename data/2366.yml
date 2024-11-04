@@ -1,0 +1,52 @@
+---
+record: 2366
+name: 'NP без конца и края'
+UD_name: ''
+illustration: 'Море без конца и края, небо, неизвестно где сливающееся с морем.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Уже кончилась степь с [ее зеленым простором]Theme без конца и края.
+  - |
+       Слева был трехметровый забор ― частокол [пик]Theme без конца и края.
+  - |
+       Кругом нас была туманная, таинственная [бездна]Theme без конца и края.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root NP [nmod [case без] конца [conj [cc и] края]]]'
+dependency_structure_of_illustration:
+  - '[root Море [nmod [case без] конца [conj [cc и] края]], [conj небо, [acl [advmod [advmod неизвестно] где] сливающееся [obl [case с] морем]]].]'
+equivalents:
+  - english: |
+       with no end
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Measure
+    subtypes:
+      - type: Size
+family:
+  - |
+    ""

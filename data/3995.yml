@@ -1,0 +1,45 @@
+---
+record: 3995
+name: 'как VP-Inf, так Cl (,(а) как VP-Inf, так Cl)'
+UD_name: ''
+illustration: 'Как работать, так некому; как песни петь, так все готовы'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Как ни [соберется приехать]Condition, так [ему звонят: принять никак не можем]Situation.
+  - |
+       Как [домашнее задание делать]Condition, так [он всегда помощи просит]Situation, как [на на машине кататься]Condition, так [всегда в одиночку]Situation.
+  - |
+       А как [от гаишников отмазать]Condition, так [сразу про отца вспоминаешь]Situation?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [mark как] VP-Inf, [conj [cc так] Cl], [conj [cc а] [mark как] VP-Inf, [conj [mark так] Cl]]]'
+  - '[root [mark как] VP-Inf, [conj [cc так] Cl], [parataxis [mark как] VP-Inf, [conj [mark так] Cl]]]'
+  - '[root [mark как] VP-Inf, [conj [cc так] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [mark Как] работать, [conj [cc так] некому]; [parataxis [mark как] песни петь, [conj [cc так] [nsubj все] готовы]]]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3121
+name: 'NP-Nom валиться/падать с ног (от NP-Gen)'
+UD_name: ''
+illustration: 'Она валилась с ног от усталости.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Иду и вдруг чувствую, что дальше не могу. Падаю с ног, и все.
+  - |
+       Через два часа работы [Ольга]Experiencer валится с ног.
+  - |
+       [Зритель]Experiencer падает с ног от [смеха.]Stimulus
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] валиться [obl [case с] ног] [obl [case от] NP-Gen]]'
+  - '[root [nsubj NP-Nom] падать [obl [case с] ног] [obl [case от] NP-Gen]]'
+  - '[root [nsubj NP-Nom] валиться [obl [case с] ног]]'
+  - '[root [nsubj NP-Nom] падать [obl [case с] ног]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] валилась [obl [case с] ног] [obl [case от] усталости].]'
+equivalents:
+  - english: |
+       X is ready to drop
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

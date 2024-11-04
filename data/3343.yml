@@ -1,0 +1,51 @@
+---
+record: 3343
+name: 'NP-Dat Cop прямая дорога в NP-Acc'
+UD_name: ''
+illustration: 'Ты очень хорошо думаешь - тебе прямая дорога в программисты.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Желающим лично разобраться в вопросе придётся всё-таки на время покинуть свою кухню. [Вам]Participant прямая дорога в [Берлин.]Goal Там намечается грандиозная выставка кухонной техники и электроприборов домашнего обихода нового века.
+  - |
+       А ведь [нормальному, уважающему себя ребенку из правильной еврейской семьи]Participant прямая дорога в [музыканты!]Goal
+  - |
+       С такой развитой речью [тебе]Participant прямая дорога в пламенные [литературные критики.]Goal
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [iobj NP-Dat] [cop Cop] [amod прямая] дорога [nmod [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod [advmod очень] хорошо] думаешь - [parataxis [iobj тебе] [amod прямая] дорога [nmod [case в] программисты]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Domain
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

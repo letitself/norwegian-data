@@ -1,0 +1,52 @@
+---
+record: 3740
+name: 'XP то да сё/то-сё/то, сё (пятое, десятое)'
+UD_name: ''
+illustration: 'Страниц двадцать на машинке получилось ― биосфера, почвы, то да сё.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Она мне все жаловалась — мол, то да сё... [он такой сложный... с ним трудно...]Situation
+  - |
+       Но выяснилось, что [для этого надо быть членом партии]Situation, то-сё, пятое-десятое, и — не состоялось.
+  - |
+       Подумай сам — [квартирку он себе справил, мебель]Situation, то-сё, пятое-десятое...
+  - |
+       Вчера меня одна "лётчица" спросила: Разве тебе не интересно, [как живут другие народы]Situation, то да сё?
+  - |
+       То да сё [он начал за ней приударять]Situation…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Pronoun
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root XP [conj то [conj [cc да] сё]]]'
+  - '[root XP [conj то-[compound сё]]]'
+  - '[root XP [conj то, [conj сё]]]'
+  - '[root XP [conj то, [conj сё], [conj пятое], [conj десятое]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Страниц [nummod двадцать] [obl [case на] машинке] получилось ― [parataxis биосфера, [conj почвы], [conj то [conj [cc да] сё]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2020
+semantic_types:
+family:
+  - |
+    ""

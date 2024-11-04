@@ -1,0 +1,64 @@
+---
+record: 2667
+name: 'VP/NP-Nom Cop на загляденье/заглядение (NP-Dat)'
+UD_name: ''
+illustration: 'Посадили там капусту, ухаживали, поливали, кочаны выросли на загляденье'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Со своей женой в мире и правде живет Влад вот уже вторую четверть века]Situation, не совсем без греха, но [соседям]Beneficiary на заглядение.
+  - |
+       Посадили там капусту, ухаживали, поливали, [кочаны выросли]Result на загляденье.
+  - |
+       [Лошадь]Theme, конечно, на загляденье, одно имя чего стоит ― Красавчик.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] загляденье]]'
+  - '[root VP [obl [case на] заглядение]]'
+  - '[root VP [obl [case на] загляденье [nmod NP-Dat]]]'
+  - '[root VP [obl [case на] заглядение [nmod NP-Dat]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] загляденье]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] заглядение]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] загляденье [nmod NP-Dat]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] заглядение [nmod NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root Посадили [advmod там] [obj капусту], [conj ухаживали], [conj поливали], [conj [nsubj кочаны] выросли [obl [case на] загляденье]]]'
+equivalents:
+  - english: |
+       beautiful
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

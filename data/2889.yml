@@ -1,0 +1,53 @@
+---
+record: 2889
+name: 'VP с первого шага (NP-Gen/PP)'
+UD_name: ''
+illustration: 'Путаница и обман начинаются здесь с первого шага.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Словом, желательно, чтобы каждый с первого шага [был осторожен и внимателен к себе и к своим поступкам]State.
+  - |
+       Покойный был в высшей степени симпатичен и [привязывал к себе людей]Property с первого шага знакомства
+  - |
+       Я [помню его]State буквально с первого шага на сцене Большого театра.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       from the very beginning
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

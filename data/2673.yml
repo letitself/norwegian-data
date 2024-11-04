@@ -1,0 +1,57 @@
+---
+record: 2673
+name: 'VP/NP-Nom Cop на исходе (NP-Gen)'
+UD_name: ''
+illustration: 'Под эти не утихающие возгласы величественный и утомлённый Курфюрст въехал на исходе дня под городскую арку'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Мое терпение]Theme было на исходе, но я в который раз напрягла фантазию.
+  - |
+       Естественным было предположить, что [жизненные силы Арнольда]Theme на исходе.
+  - |
+       На исходе [второго месяца]Theme ночью [позвонил]Action Аркадий.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] исходе]]'
+  - '[root VP [obl [case на] исходе [nmod NP-Gen]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] исходе]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] исходе [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Под] [det эти] [acl [advmod не] утихающие] возгласы] [nsubj [amod величественный [conj [cc и] утомлённый]] Курфюрст] въехал [obl [case на] исходе [nmod дня]] [obl [case под] [amod городскую] арку]]'
+equivalents:
+  - english: |
+       at the end
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

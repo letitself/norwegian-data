@@ -1,0 +1,56 @@
+---
+record: 2796
+name: 'VP плечо в плечо / плечо к плечу / плечом к плечу (с NP-Ins)'
+UD_name: ''
+illustration: 'Огромные, как братья, стояли тесно плечо в плечо двадцать мужиков'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он [лежал]State плечо в плечо с [Христофором,]Companion и руки обоих были сложены на груди.
+  - |
+       Уже второй год [сражался] он плечо в плечо с [этой молодой красивой женщиной]Companion.
+  - |
+       Зал был набит [стоявшими]Property плечо в плечо слушателями.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl плечо] [obl [case в] плечо]]'
+  - '[root VP [obl плечо] [obl [case к] плечу]]'
+  - '[root VP [obl плечом] [obl [case к] плечу]]'
+  - '[root VP [obl плечо] [obl [case в] плечо] [obl [case с] NP-Ins]]'
+  - '[root VP [obl плечо] [obl [case к] плечу] [obl [case с] NP-Ins]]'
+  - '[root VP [obl плечом] [obl [case к] плечу] [obl [case с] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [amod Огромные, [obl [mark как] братья]], стояли [advmod тесно] [obl плечо] [obl [case в] плечо] [nsubj [nummod двадцать] мужиков]]'
+equivalents:
+  - english: |
+       shoulder to shoulder
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comitative
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

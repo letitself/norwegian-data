@@ -1,0 +1,47 @@
+---
+record: 2532
+name: 'VP для разнообразия'
+UD_name: ''
+illustration: 'Мы решили в этот раз сходить в театр для разнообразия.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Сейчас я для разнообразия [трезвый]State, лежу у себя дома и думаю: не пойти ли по делам в Университет.
+  - |
+       Японцы тоже [любят китайскую кухню]Action, но лишь для разнообразия.
+  - |
+       Для разнообразия [вчера вечером пошли в кино]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] разнообразия]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] решили [xcomp [obl [case в] [det этот] раз] сходить [obl [case в] театр] [obl [case для] разнообразия]].]'
+equivalents:
+  - english: |
+       for a change
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

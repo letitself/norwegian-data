@@ -1,0 +1,55 @@
+---
+record: 2708
+name: 'VP/NP-Nom Cop на плаву'
+UD_name: ''
+illustration: 'Не удержался на плаву и отечественный рынок акций'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Время жестоко и [оставляет]Action на плаву не всегда самое лучшее.
+  - |
+       Иностранные инвесторы готовы купить или [поддержать]Activity на плаву предприятия-банкроты.
+  - |
+       Власти готовы выделить еще больше средств, чтобы крупные банки [остались]Action на плаву.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] плаву]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] плаву]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] удержался [obl [case на] плаву] [nsubj [advmod и] [amod отечественный] рынок [nmod акций]]]'
+equivalents:
+  - english: |
+       afloat
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

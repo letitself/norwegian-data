@@ -1,0 +1,57 @@
+---
+record: 2623
+name: 'VP куда глаза глядят'
+UD_name: ''
+illustration: 'Ей захотелось немедленно бросить все и бежать куда глаза глядят'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Вы, если его увидите, [бегите от него]Activity куда глаза глядят.
+  - |
+       Я [брел]Activity куда глаза глядят, а когда поравнялся с торговым центром на углу, полил дождь.
+  - |
+       [Идёт]Activity он по городу куда глаза глядят и вдруг пришёл на реку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [ccomp [advmod куда] [nsubj глаза] глядят]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Ей] захотелось [xcomp [advmod немедленно] бросить [obj все] [conj [cc и] бежать [ccomp [advmod куда] [nsubj глаза] глядят]]]]'
+equivalents:
+  - english: |
+       wherever the feet take X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+        subtypes:
+          - type: Free Choice
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+family:
+  - |
+    ""

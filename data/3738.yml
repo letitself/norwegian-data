@@ -1,0 +1,51 @@
+---
+record: 3738
+name: 'XP ещё туда(-)сюда, (а/но XP)'
+UD_name: ''
+illustration: 'Переводить – еще туда суда, но чтобы самому рецензии на английском писать, это уж нет.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Год без работы сидеть]Situation – ещё туда-сюда, но [три]Situation...
+  - |
+       Если [этот солдат]Situation ещё туда сюда, то [другой совсем плох]Situation.
+  - |
+       [На первом этаже]Situation было ещё туда-сюда.
+  - |
+       — Ну, [раньше]Situation ещё туда-сюда, раньше хотя бы понятно — один помрет, другие останутся, но [мы-то живем сейчас]Situation.
+  - |
+       [Корректор]Situation ещё туда-сюда, а [филолог это ж про другое]Situation, и даже из тех трех курсов, которые я вроде бы выучила, ― ничего не помню, а жаль.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[dep XP [advmod ещё] туда [fixed сюда], [conj [cc а] XP]]'
+  - '[dep XP [advmod ещё] туда [fixed сюда], [conj [cc но] XP]]'
+  - '[dep XP [advmod ещё] туда [fixed сюда]]'
+dependency_structure_of_illustration:
+  - '[root [csubj Переводить] – [advmod еще] туда [fixed суда], [conj [cc но] [mark чтобы] [iobj самому] [obj рецензии] [obl [case на] английском] писать, [ccomp [expl это] [advmod уж] нет]].]'
+equivalents:
+common_fillers:
+  - это
+  - днём
+references:
+  - |
+    Баранов, Добровольский 2018
+semantic_types:
+family:
+  - |
+    ""

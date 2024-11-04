@@ -1,0 +1,52 @@
+---
+record: 2815
+name: 'VP/NP-Nom Cop по левую/правую руку (от NP-Gen)'
+UD_name: ''
+illustration: 'По левую руку от чеченца расположилась простоволосая, скромно и безвкусно одетая женщина одного возраста с ораторшей и, скорее всего, одних с нею взглядов'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       По левую руку от [меня]Landmark [сидел]State он, по правую ― жена.
+  - |
+       Король пальцем указал ему пойти на мое место, а меня [усадил у трона]Action по левую руку.
+  - |
+       По левую руку от [дороги]Landmark была [обширная промоина,]Theme грозившая превратиться в овраг.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       on X's left
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

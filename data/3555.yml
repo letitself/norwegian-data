@@ -1,0 +1,56 @@
+---
+record: 3555
+name: 'NP-Nom отчаяться-Pst VP-inf'
+UD_name: ''
+illustration: 'Мы отчаялись ждать и отправились в город.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Шотландские врачи]Participant отчаялись [помочь Марии]Purpose и направляют на обследование в Лондон.
+  - |
+       В купе было душно, с нижней полки доносился храп, [Олег]Participant отчаялся [уснуть]Purpose.
+  - |
+       [Я]Participant отчаялся [найти нормального водителя]Purpose и менял их раз в два месяца.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] отчаяться-Pst [xcomp VP-inf]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] отчаялись [xcomp ждать] [conj [cc и] отправились [obl [case в] город]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X give up on Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Other
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

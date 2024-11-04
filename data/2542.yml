@@ -1,0 +1,52 @@
+---
+record: 2542
+name: 'VP/Adj/Adv до такой степени, что Cl'
+UD_name: ''
+illustration: 'У земли туман сгущался до такой степени, что мне не было видно, куда я ставлю ногу.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я знал, что [ты его терпеть не можешь]Situation, но не предполагал, что до такой степени!
+  - |
+       Никогда не воображала Ольга, что [обязанность няни была трудна]Situation до такой степени.
+  - |
+       [Никто из нас не воспринял своего ареста]Situation до такой степени трагически как он.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case до] [det такой] степени], [xcomp [mark что] Cl]]'
+  - '[dep Adj [obl [case до] [det такой] степени], [xcomp [mark что] Cl]]'
+  - '[advmod Adv [obl [case до] [det такой] степени], [xcomp [mark что] Cl]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] земли] [nsubj туман] сгущался [obl [case до] [det такой] степени], [ccomp [mark что] [iobj мне] [advmod не] [cop было] видно, [csubj [advmod куда] [nsubj я] ставлю [obj ногу]]].]'
+equivalents:
+  - english: |
+       to a certain degree
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

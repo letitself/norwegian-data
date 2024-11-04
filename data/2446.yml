@@ -1,0 +1,50 @@
+---
+record: 2446
+name: 'NP-Nom Cop в полном рассудке'
+UD_name: ''
+illustration: 'Многие считают бабушку безумною, но она в полном рассудке и пишет чудесные стихи'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Тогда тебя, пожалуй, сочтут за [человека]Participant не в полном рассудке и посадят в сумасшедший дом!
+  - |
+       На следующее утро [дядя Герман]Participant проснулся уже в полном рассудке.
+  - |
+       Я полагаю, что [этот молодой человек]Participant совершенно в полном рассудке.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] [amod полном] рассудке]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Многие] считают [obj бабушку] [xcomp безумною], [conj [cc но] [nsubj она] [case в] [amod полном] рассудке [conj [cc и] пишет [obj [amod чудесные] стихи]]].]'
+equivalents:
+  - english: |
+       X is fully sane
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Personality
+family:
+  - |
+    ""

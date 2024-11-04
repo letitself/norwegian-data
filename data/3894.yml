@@ -1,0 +1,53 @@
+---
+record: 3894
+name: 'NP-Gen Cop как собак нерезанных'
+UD_name: ''
+illustration: 'Все говорят, что [юристов]Set сейчас как собак нерезаных.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       А принимать посетителей она сама не может, потому что [их]Set как собак нерезаных, а она одна.
+  - |
+       Подумаешь, председатель попечительского совета фонда, этих [фондов]Set как собак нерезаных.
+  - |
+       У нас [гениев]Set, как собак нерезаных, и все непризнанные.
+  - |
+       Через год в Перми [иномарок]Set стало — как собак нерезаных.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Gen] [cop Cop] [case как] собак [acl нерезанных]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Все] говорят, [ccomp [mark что] [nsubj юристов] [cop Cop] [advmod сейчас] [case как] собак [acl нерезаных].]'
+comment: |
+    'Употребляется с людьми (профессиями и пр.). См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - Художников
+  - поэтов
+  - юристов
+  - министров
+  - депутатов
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

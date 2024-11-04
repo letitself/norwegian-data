@@ -1,0 +1,48 @@
+---
+record: 3725
+name: 'раз-Verb в NP-Acc'
+UD_name: ''
+illustration: 'Смерч обрушился на дом и за мгновения разнес его в щепки.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       И если бы он там и остался спать, его бы [разнесло]Action в [клочья]Result.
+  - |
+       Прохор двумя ударами [разбил]Action табуретку в [щепки]Result о ближайший угол дома.
+  - |
+       Он был уже почти на самом верху, когда снаряд [разнёс]Action в [щепки]Result большую сосну рядом с ним.
+  - |
+       В 2006 году на алтарь напал один буйнопомешанный, и толпа [разорвала]Action его в [клочья]Result еще до приезда полиции.
+  - |
+       При довольно неспокойном море вылезти на берег нельзя — тебя [разобьёт]Action в [клочья]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Word-Formation
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root раз-V [obl [case в] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Смерч] обрушился [obl [case на] дом] [conj [cc и] [obl [case за] мгновения] разнес [obj его] [obl [case в] щепки]].]'
+equivalents:
+common_fillers:
+  - щепки
+  - клочья
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

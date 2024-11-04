@@ -1,0 +1,54 @@
+---
+record: 3066
+name: 'NP-Acc (с NP-Gen) как рукой сняло'
+UD_name: ''
+illustration: 'Сон с меня как рукой сняло.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Когда я об этом узнал, [усталость]State как рукой сняло.
+  - |
+       Очнувшись, я с радостью обнаружил, что [зубную боль]State как рукой сняло.
+  - |
+       Все мои [переживания]State как рукой сняло.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obj NP-Acc] [obl [case как] рукой] сняло]'
+  - '[root [obj NP-Acc] [obl [case с] NP-Gen] [obl [case как] рукой] сняло]'
+dependency_structure_of_illustration:
+  - '[root [obj Сон] [obl [case с] меня] [obl [case как] рукой] сняло.]'
+equivalents:
+  - english: |
+       vanished without a trace
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+  - type: Phase of action
+    subtypes:
+      - type: Terminative
+family:
+  - |
+    ""

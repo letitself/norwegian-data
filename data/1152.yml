@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at ikke en eneste [deltaker av en bestemt type, gruppe eller kategori]Participant ønsker å utføre en gitt [handling]Action eller bidra til at en gitt [situasjon]Situation kan oppstå. Den negative holdningen til handlingen eller situasjonen synes naturlig for alle i vedkommende kategori (mødre, fedre, kvinner, menn, barn, studenter, idrettsutøvere osv.). Det antas at handlingen strider mot interessene eller behovene til enhver som tilhører denne kategorien. Konstruksjonen er utformet som et retorisk spørsmål til samtalepartneren og appellerer til vedkommendes sunne fornuft.
 examples:
   - |
-       В другом издательстве задали автору вопрос: ― Какой [чудак]Participant захочет [читать про то, как кучка сумасшедших скандинавов плавала по океану на плоту]Action? Когда всё же одно издательство принялокнигу к печати, она попала в список бестселлеров и оставалась в нём более года. «Экспедиция на Кон-Тики» переведена на 60 языков мира, выдержала множество изданий.
-  - |
        Какая [мать]Participant захочет, чтобы [ее дети постоянно чувствовали себя неполноценными в кругу своих сверстников]Situation?
   - |
-       Какой [студент]Participant захочет [поступать в вуз, будущее которого туманно]Action?
+       Какой [студент]Participant захочет [поступать в вуз, будущее которого неизвестно]Action?
   - |
        Какой [ребенок]Participant захочет, чтобы [его так контролировали]Situation?
   - |
        Какой [мужик]Participant захочет, чтобы [им управляла женщина]Situation? Да никакой!
+  - |
+       Какой [чудак]Participant захочет [читать про то, как кучка сумасшедших плавала по океану на плоту]Action?
 morphology:
   - NP
   - Nom

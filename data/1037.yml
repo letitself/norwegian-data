@@ -19,7 +19,7 @@ examples:
   - |
        [Мужчины]Agent любят [выпить]Action за спиной у [своих жён]Maleficiary.
   - |
-       [Соседи]Agent [будут шептаться]Action за спиной у [мамы]Maleficiary: "Непутёвый был мальчишка, этот Димка".
+       [Соседи]Agent [будут шептаться]Action за спиной у [мамы]Maleficiary.
 morphology:
   - VP
   - NP

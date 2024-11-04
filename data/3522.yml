@@ -1,0 +1,53 @@
+---
+record: 3522
+name: 'надо сказать, Cl'
+UD_name: ''
+illustration: 'Надо сказать, оба мы тогда друг другу не понравились.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Надо сказать, что [многие недооценивают вклад Артема Нечаева в данный проект]ContentOfSpeech.
+  - |
+       Надо сказать, что [Аркадий Петрович никогда не опускался до полемики со своими так называемыми «оппонентами»]ContentOfSpeech.
+  - |
+       А надо сказать, [я заядлый театрал]Evaluation! Я даже в юности собирался стать актером.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Predicative
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis надо [csubj сказать]]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Надо [csubj сказать]], [nsubj [nummod:gov оба] мы] [advmod тогда] [iobj друг [nmod другу]] [advmod не] понравились.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       have to tell/must say
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    ""

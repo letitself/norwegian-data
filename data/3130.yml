@@ -1,0 +1,52 @@
+---
+record: 3130
+name: 'NP-Nom войти/впадать в раж'
+UD_name: ''
+illustration: 'Он уже перестал нервничать из-за сложных задач, начал входить в раж и усердно пытался их решить.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Пользователи]Agent вошли в раж и начали подвергать критике почти каждый ее пост.
+  - |
+       [Пёс Микки,]Agent который очень любит гулять, который от одного слова «гулять» впадает в раж.
+  - |
+       Всё это время вошедший в раж [лектор]Agent не умолкал ни на минуту.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] войти [obl [case в] раж]]'
+  - '[root [nsubj NP-Nom] впадать [obl [case в] раж]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [advmod уже] перестал [xcomp нервничать [obl [case из-за] [amod сложных] задач]], [conj начал [xcomp входить [obl [case в] раж]]] [conj [cc и] [advmod усердно] пытался [xcomp [obj их] решить]].]'
+equivalents:
+  - english: |
+       X is all worked up
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

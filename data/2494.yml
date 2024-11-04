@@ -1,0 +1,52 @@
+---
+record: 2494
+name: 'VP во всей полноте (NP-Gen)'
+UD_name: ''
+illustration: 'И значение этого слова впервые открылось ему во всей полноте'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Картина [предстала им]Action во всей полноте своего смысла.
+  - |
+       Старшие хотят забыть террор советских времен, но младшие [пытаются восстановить историю своих семей]Activity во всей полноте.
+  - |
+       Уже первый его очерк с фронта во всей полноте [раскрыл своеобразие и талант автора]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case во] [det всей] полноте]]'
+  - '[root VP [obl [case во] [det всей] полноте [nmod NP-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [nsubj значение [nmod [det этого] слова]] [advmod впервые] открылось [iobj ему] [obl [case во] [det всей] полноте].]'
+equivalents:
+  - english: |
+       in X's fullest
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Manner
+family:
+  - |
+    ""

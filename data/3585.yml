@@ -1,0 +1,54 @@
+---
+record: 3585
+name: 'NP-Nom не бояться ни N-Gen, ни N-Gen'
+UD_name: ''
+illustration: 'Мы не боимся ни угроз, ни бандитов.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Нет, Ведерников не трусил, [он]Experiencer не боялся ни [крови]Stimulus, ни [тюрьмы]Stimulus.
+  - |
+       [Она]Experiencer не боялась ни [мышей]Stimulus, ни [хомячков]Stimulus, но увидеть в центре европейского города живую крысу было дико.
+  - |
+       [Кустарник]Experiencer настолько неприхотлив, что не боится ни [мороза]Stimulus, ни [засухи]Stimulus.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] бояться [obl [cc ни] N-Gen'
+  - '[conj [cc ни] N-Gen]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] [advmod не] боимся [obl [cc ни] угроз, [conj [cc ни] бандитов]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is not scared by neither Y, nor X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Personality
+family:
+  - |
+    ""

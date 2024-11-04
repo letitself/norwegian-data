@@ -1,0 +1,49 @@
+---
+record: 2512
+name: 'PronInt придется'
+UD_name: ''
+illustration: 'Нередко оказывалось, что в гостиницах не было мест, и отец с сыном ночевали где придётся'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Они помнили, что сами когда-то были начинающими актерами и выступали, [где]Location придется.
+  - |
+       Она жила [как]Manner придется и иногда приходила ночевать к отцу.
+  - |
+       Каждый имеет свое постоянное место стоянки у своего дома, но по приезде с работы оставляет машину, [где]Location придется.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[xcomp [advmod PronInt] придется]'
+dependency_structure_of_illustration:
+  - '[root [advmod Нередко] оказывалось, [ccomp [mark что] [obl [case в] гостиницах] [advmod не] было [nsubj мест], [conj [cc и] [nsubj отец [nmod [case с] сыном]] ночевали [xcomp [advmod где] придётся]]]'
+equivalents:
+  - english: |
+       anywhere
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

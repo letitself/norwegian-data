@@ -1,0 +1,50 @@
+---
+record: 3378
+name: 'спаси (PronPers-Acc / Noun-Acc / тех, кто Сl) бог'
+UD_name: ''
+illustration: 'Спаси Бог всех, кто нам помогает!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он лежал на печке, не стонал, только говорил: ― Спаси [вас]Patient бог… Зачтется.
+  - |
+       И спаси бог [того, кто не проявит уважения к королеве.]Patient
+  - |
+       Спаси Бог [всех участников поездки и всех жертвователей».]Patient
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root спаси [obj PronPers-Acc] [nsubj бог]]'
+  - '[root спаси [obj Noun-Acc] [nsubj бог]]'
+  - '[root спаси [obj тех, [acl:relcl [nsubj кто] Cl]] [nsubj бог]]'
+dependency_structure_of_illustration:
+  - '[root Спаси [nsubj Бог] [obj всех, [acl:relcl [nsubj кто] [iobj нам] помогает]].]'
+equivalents:
+  - english: |
+       to save X's skin
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Routine
+    subtypes:
+      - type: Kind wishes
+family:
+  - |
+    ""

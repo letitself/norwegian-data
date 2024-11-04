@@ -1,0 +1,49 @@
+---
+record: 4031
+name: 'до смерти Adj/VP'
+UD_name: ''
+illustration: 'Она встретила до смерти красивого юношу.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Все мужчины до смерти [боятся выхода на пенсию]State.
+  - |
+       Он был совершенно и до смерти [счастлив]State.
+  - |
+       Умница ты моя, любовь моя, до смерти [желанный мой]State!
+  - |
+       Отражение, смотревшее из зеркала, выглядело до смерти [напуганным]State, но на самом деле я почти не боялся.
+  - |
+       Ему до смерти [нужна]State была эта девушка-паутинка, нужна навсегда, на всю жизнь.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [nmod [case до] смерти] Adj]'
+  - '[root [obl [case до] смерти]VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] встретила [obj [amod [obl [case до] смерти] красивого] юношу].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

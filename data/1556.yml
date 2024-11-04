@@ -6,6 +6,16 @@ illustration: 'Расстояние от Земли до Луны составл
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Расстояние от [испытуемого]Source до [экрана]Goal [равнялось]State [80]Quantity [см.]Measure
+  - |
+       Расстояние от [музея]Source до [точки наблюдения на острове]Goal ― [353]Quantity [км.]Measure
+  - |
+       Расстояние от [базы]Source до [России]Goal [795]Quantity [км.]Measure
+  - |
+       Среднее расстояние от [Солнца]Source до [Земли]Goal [составляет]State почти [150 миллионов]Quantity [километров.]Measure
+  - |
+       Напомним, что астрономической единицей называется среднее расстояние от [Земли]Source до [Солнца,]Goal [составляющее]State [149,6 млн]Quantity [км.]Measure
 morphology:
   - NP
   - Gen

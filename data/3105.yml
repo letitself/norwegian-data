@@ -1,0 +1,48 @@
+---
+record: 3105
+name: 'XP в дым'
+UD_name: ''
+illustration: 'Он напился в дым и не мог самостоятельно дойти до своего дома.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       [Напьётся]Result в дым и правду всем начнёт говорить.
+  - |
+       Серёжа с Вадькой [разругались]Result в дым!
+  - |
+       Я понял вдруг, что Огурцов [пьян]Result в дым.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP [obl [case в] дым]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] напился [obl [case в] дым] [conj [cc и] [advmod не] мог [xcomp [advmod самостоятельно] дойти [obl [case до] [det своего] дома]]].]'
+equivalents:
+  - english: |
+       into a stupor
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

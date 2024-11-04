@@ -1,0 +1,49 @@
+---
+record: 3718
+name: 'NP перевалить за NP-Gen/NumCrd NP-Gen'
+UD_name: ''
+illustration: 'Тираж журнала вскоре перевалил за 100 тыс. экземпляров.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [2016 год]Theme лишь немного перевалил за [середину]Measure, а сколько всего уже изменилось.
+  - |
+       Так, [возраст первородящих матерей]Theme сегодня перевалил за [25]Quantity [лет]Measure.
+  - |
+       16 января [курс доллара]Theme перевалил за [32]Quantity [рубля]Measure.
+  - |
+       [Число пройденных километров]Theme перевалило за [три тысячи]Quantity.
+  - |
+       [Время]Theme перевалило за [одиннадцать]Quantity, а уснуть никак не удавалось.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] перевалить [obl [case за] NP-Gen]]'
+  - '[root [nsubj NP] перевалить [obl [case за] [nummod NumCrd] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Тираж [nmod журнала]] [advmod вскоре] перевалил [obl [case за] [nummod [conpound 100] тыс.] экземпляров].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

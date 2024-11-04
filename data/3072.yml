@@ -1,0 +1,48 @@
+---
+record: 3072
+name: 'VP NP-Acc в долгий ящик'
+UD_name: ''
+illustration: 'Он решил не откладывать дело в долгий ящик и сразу написал письмо.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Суд города [положил]Action [это]Patient в долгий ящик.
+  - |
+       Он, похоже, [убрал]Action [этот проект]Patient в долгий ящик.
+  - |
+       Мы не стали [класть]Action [дела]Patient в долгий ящик и отправились на биржу труда.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obj NP-Acc] [obl [case в] [amod долгий] ящик]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] решил [xcomp [advmod не] откладывать [obj дело] [obl [case в] [amod долгий] ящик]] [conj [cc и] [advmod сразу] написал [obj письмо]].]'
+equivalents:
+  - english: |
+       put in cold storage
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Cunctative
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2695
+name: 'VP на ночь глядя'
+UD_name: ''
+illustration: 'Двигаться вперед на ночь глядя им представлялось опасным'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Сама есть не стала, она никогда не [ела]Activity на ночь глядя.
+  - |
+       Куда это вы [собрались]Action на ночь глядя?
+  - |
+       На ночь глядя я опять [читаю плохие пьесы]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Converb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advcl [obl [case на] ночь] глядя]]'
+dependency_structure_of_illustration:
+  - '[root [csubj Двигаться [advmod вперед] [advcl [obl [case на] ночь] глядя]] [iobj им] представлялось [obl опасным]]'
+equivalents:
+  - english: |
+       at night
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

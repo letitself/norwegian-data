@@ -1,0 +1,48 @@
+---
+record: 3400
+name: 'XP целиком и полностью'
+UD_name: ''
+illustration: 'С ним целиком и полностью солидарны сопартийцы.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       И только она [меня понимает]State целиком и полностью.
+  - |
+       Дальше в своих разработках мы будем целиком и полностью [опираться на запросы потребителей.]Action
+  - |
+       Площадь целиком и полностью [придумал]Event Микеланджело ― от рисунка на мостовой до дизайна и расположения фасадов.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep XP [advmod целиком [conj [cc и] полностью]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] ним] [advmod целиком [conj [cc и] полностью]] солидарны [nsubj сопартийцы].]'
+equivalents:
+  - english: |
+       safe and sound
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

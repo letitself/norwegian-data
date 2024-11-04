@@ -1,0 +1,56 @@
+---
+record: 3642
+name: 'угораздило (же) (NP-Acc) VP'
+UD_name: ''
+illustration: 'Угораздило ее упасть с высокого буфета ― зачем и как туда забралась, никто не знал.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Угораздило же [меня]Experiencer [так глупо и безнадежно влюбиться]Event.
+  - |
+       Угораздило же [меня]Participant [податься в программисты]Event, с моей-то слабой логикой.
+  - |
+       Угораздило [Васю]Experiencer [поверить этой хитрой лисе]Event!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root угораздило [advmod же] [obj NP-Acc] [xcomp VP]]'
+  - '[root угораздило [advmod же] [xcomp VP]]'
+  - '[root угораздило [obj NP-Acc] [xcomp VP]]'
+  - '[root угораздило [xcomp VP]]'
+dependency_structure_of_illustration:
+  - '[root Угораздило [obj ее] [xcomp упасть [obl [case с] [amod высокого] буфета]] ― [conj [ccomp [advmod зачем [conj [cc и] как]] [advmod туда] забралась], [nsubj никто] [advmod не] знал].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X managed to choose Y
+common_fillers:
+  - оказаться
+  - попасть
+  - влюбиться
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+family:
+  - |
+    ""

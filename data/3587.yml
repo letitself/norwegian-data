@@ -1,0 +1,62 @@
+---
+record: 3587
+name: 'ничто другое/большего/более/больше (уже) не VP'
+UD_name: ''
+illustration: 'Я ведь у вас ничего больше не прошу.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Ничего другого не [надо]State ― дайте только на неё смотреть!
+  - |
+       Он спохватился, у них ни на что уже больше не [оставалось времени]Situation, даже на сборы.
+  - |
+       Я например с самого начала пользовалась только электронной почтой и ничем более.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Argument
+syntactic_structure_of_anchor:
+  - Double Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adjective
+  - Adverb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [dep ничто] [advmod более] [advmod уже] [advmod не] VP]'
+  - '[root [dep ничто] [advmod больше] [advmod уже] [advmod не] VP]'
+  - '[root [obl ничто [amod большего]] [advmod уже] [advmod не] VP]'
+  - '[root [dep ничто [amod другое]] [advmod уже] [advmod не] VP]'
+  - '[root [dep ничто] [advmod более] [advmod не] VP]'
+  - '[root [dep ничто] [advmod больше] [advmod не] VP]'
+  - '[root [obl ничто [amod большего]] [advmod не] VP]'
+  - '[root [dep ничто [amod другое]] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod ведь] [obl [case у] вас] [obl ничего] [advmod больше] [advmod не] прошу.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Nothing but X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Low
+family:
+  - |
+    ""

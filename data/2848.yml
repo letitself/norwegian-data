@@ -1,0 +1,52 @@
+---
+record: 2848
+name: 'NP/VP по соседству (c NP-Ins)'
+UD_name: ''
+illustration: 'Жили сначала в бараке по соседству с цехом, а потом их в цех всех загнали, ну это уже позже'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Так, в древнем Риме по соседству с [городами]Landmark обычно [располагались общественные леса]State.
+  - |
+       В квартире по соседству с [ним]Landmark [жил]State сын сапожника Виктор Ярош.
+  - |
+       [Жили]State они с [Андреем]Landmark по соседству и работали на одном предприятии.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       next to
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Spatial characteristics
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+family:
+  - |
+    ""

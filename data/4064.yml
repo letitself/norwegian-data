@@ -1,0 +1,55 @@
+---
+record: 4064
+name: 'VP-Inf/Adj-Nom-то не (NP-Nom) не XP/Adj, (а/но/да Cl)'
+UD_name: ''
+illustration: 'Ударить-то он не ударил, но очень сильно оскорбил.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Вонять]Topic-то от него больше не [воняет]ContentOfSpeech, но [все равно находиться рядом неприятно]Situation.
+  - |
+       [Агрессировать]Topic-то [он]Participant не [агрессировал]ContentOfSpeech, но [лицо у него все равно было злое]Situation.
+  - |
+       [Обидеться]Topic-то [он]Participant не [обиделся]ContentOfSpeech, но [всё равно неприятно как-то получилось]Situation.
+  - |
+       [Страшный]Topic-то [он]Participant не [страшный]ContentOfSpeech, но [мне не нравится все равно]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Particle
+  - Negation Marker
+semantic_roles:
+  - см. также 4063 VP-Inf/Adj-Nom-то (NP-Nom) не XP/Adj
+  - (а/но/да Cl) -- Написать-то написали
+  - да как письмо передать?; не путать с 4066 VP не VP
+  - а Cl -- В общем
+  - хочешь не хочешь
+  - а помогать надо.
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [xcomp VP-Inf]/Adj-Nom-то [nsubj NP-Nom] [advmod не] XP/Adj, [conj [cc а/но/да] Cl]]'
+  - '[root [xcomp VP-Inf]/Adj-Nom-то [nsubj NP-Nom] [advmod не] XP/Adj, [conj [cc а/но/да] Cl]]'
+  - '[root [amod Adj-Nom-то] [advmod не] Adj, [conj [cc а] Cl]]'
+  - '[root [amod Adj-Nom-то] [advmod не] Adj, [conj [cc но] Cl]]'
+  - '[root [amod Adj-Nom-то] [advmod не] Adj, [conj [cc да] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [xcomp Ударить-то] [nsubj он] [advmod не] ударил, [conj [cc но] [advmod очень [advmod сильно]] оскорбил].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

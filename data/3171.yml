@@ -1,0 +1,57 @@
+---
+record: 3171
+name: 'NP-Nom (NP-Acc) за душу/сердце брать/трогать'
+UD_name: ''
+illustration: 'Этот фильм прямо за душу берет.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Эта песня]Stimulus по-настоящему берет за сердце.
+  - |
+       По словам певицы, [её]Experiencer всегда трогало за сердце [искреннее желание детей обнять её.]Stimulus
+  - |
+       И что самое интересное: бывает, подмастерье уже близок к мастерству, но не хватает лишь небольшого штриха, какого-то мазка, чтобы картина стала живой, [произведение]Stimulus трогало за душу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [case за] душу] брать]'
+  - '[root [nsubj NP-Nom] [obl [case за] сердце] брать]'
+  - '[root [nsubj NP-Nom] [obl [case за] душу] трогать]'
+  - '[root [nsubj NP-Nom] [obl [case за] сердце] трогать]'
+  - '[root [nsubj NP-Nom] [obj NP-Acc] [obl [case за] душу] брать]'
+  - '[root [nsubj NP-Nom] [obj NP-Acc] [obl [case за] сердце] брать]'
+  - '[root [nsubj NP-Nom] [obj NP-Acc] [obl [case за] душу] трогать]'
+  - '[root [nsubj NP-Nom] [obj NP-Acc] [obl [case за] сердце] трогать]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Этот] фильм] [advmod прямо] [obl [case за] душу] берет.]'
+equivalents:
+  - english: |
+       to touch X's heart
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional attitude
+        subtypes:
+          - type: Specific emotions
+family:
+  - |
+    ""

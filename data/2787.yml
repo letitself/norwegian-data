@@ -1,0 +1,50 @@
+---
+record: 2787
+name: 'VP от слова до слова'
+UD_name: ''
+illustration: 'Я запомнил эту песню от слова до слова'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Люди Петрова, допрошенные поодиночке, [подтвердили]Action все его показания от слова до слова.
+  - |
+       Она [повторила]Action от слова до слова все, что было сказано мужем.
+  - |
+       Последний их разговор произошел под дверью, я [слышал]Action его от слова до слова.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] слова] [obl [case до] слова]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] запомнил [obj [det эту] песню] [obl [case от] слова] [obl [case до] слова]]'
+equivalents:
+  - english: |
+       every word
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+family:
+  - |
+    ""

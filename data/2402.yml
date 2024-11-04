@@ -1,0 +1,50 @@
+---
+record: 2402
+name: 'VP в данный момент'
+UD_name: ''
+illustration: 'Что именно Вас беспокоит в данный момент?'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Дом в пригороде, в данный момент [звучит]State неплохо.
+  - |
+       Я немного [занят]State в данный момент.
+  - |
+       Ты просто [испытываешь огромный стресс]State в данный момент.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod данный] момент]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Что [advmod именно]] [obj вас] беспокоит [obl [case в] [amod данный] момент]?]'
+equivalents:
+  - english: |
+       at present/ at the moment
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Timeline
+    subtypes:
+      - type: Present
+family:
+  - |
+    ""

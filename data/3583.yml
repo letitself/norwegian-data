@@ -1,0 +1,57 @@
+---
+record: 3583
+name: 'NP-Nom и сам всё понимать'
+UD_name: ''
+illustration: 'Она и сама всё понимала, поэтому не стала задавать лишних вопросов.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Ему не пришлось объяснять своему напарнику, что к чему ― [тот]Cognizer и сам всё понял.
+  - |
+       Ну а психика… что говорить? [Сами]Cognizer все понимаете.
+  - |
+       «Ну, [ты]Cognizer же сам все понимаешь…» ― отвечают интервьюеры, когда просишь разрешения сослаться на них в статье.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+  - Pronoun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [advmod и] сам] [obj всё] понимать]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] [obl [advmod и] сама] [obj всё] понимала, [conj [advmod поэтому] [advmod не] стала [xcomp задавать [obj [amod лишних] вопросов]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X gets Y
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+family:
+  - |
+    ""

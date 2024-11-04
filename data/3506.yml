@@ -1,0 +1,56 @@
+---
+record: 3506
+name: 'Cl, понимать-Pres.2 (ли)'
+UD_name: ''
+illustration: 'Понимаешь, я с тобой решил посоветоваться, потому что ты опытная .'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Понимаете ли, [у него с женой школьная ещё любовь]ContentOfSpeech .
+  - |
+       В свое время, понимаешь ли, [мы с ним были очень хорошо знакомы]ContentOfSpeech .
+  - |
+       Понимаешь ты, [он никогда, никогда не жил в домашних условиях]ContentOfSpeech .
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root Cl, [parataxis понимать-Pres.2]]'
+  - '[root Cl, [parataxis понимать-Pres.2 [advmod ли]]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Понимаешь], [nsubj я] [obl [case с] тобой] решил [xcomp посоветоваться], [advcl [mark потому [mark что]] [nsubj ты] опытная].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       you know
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Clarification
+  - type: Routine
+    subtypes:
+      - type: Conversation support
+family:
+  - |
+    ""

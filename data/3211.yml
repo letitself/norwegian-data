@@ -1,0 +1,53 @@
+---
+record: 3211
+name: 'NP-Nom (Cop/лежать) в лёжку'
+UD_name: ''
+illustration: 'Я был в очень плохом состоянии: проблемы с сердцем, почти месяц просто в лёжку.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Сильнейшая простуда, непонятное переохлаждение. Три дня просто в лёжку.
+  - |
+       [Все домашние]Agent уже лежали в лёжку, обессилев от голода.
+  - |
+       Потому что [все]Agent лежали в лёжку от смеха.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] лежать [obl [case в] лёжку]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case в] лёжку]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [cop был] [case в] [amod [advmod очень] плохом] состоянии: [parataxis проблемы [nmod [case с] сердцем], [conj [obl [advmod почти] месяц] [advmod просто] [case в] лёжку]].]'
+equivalents:
+  - english: |
+       X is  flat on X's back
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+      - type: Emotional state
+family:
+  - |
+    ""

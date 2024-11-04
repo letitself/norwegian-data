@@ -1,0 +1,53 @@
+---
+record: 2357
+name: 'VP без всяких NP-Gen.Pl'
+UD_name: ''
+illustration: 'С работы Андрея Николаевича выгнали без всяких объяснений, то есть сообщили ему устно, что отдел, которым он руководит, ликвидируется.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Старик [рассказывает о нём]Action сухо, жестоко, чётко, без всяких [отклонений и объяснений]Theme.
+  - |
+       Помещик [окончил жизнь свою]Action без всяких [мучений]Theme.
+  - |
+       Он готов договориться с ректором, чтобы тебя [зачислили на первый курс]Action без [всяких экзаменов]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] [det всяких] NP-Gen.Pl]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] работы] [obj Андрея [flat Николаевича]] выгнали [obl [case без] [det всяких] объяснений], [parataxis [cc то [fixed есть]] сообщили [iobj ему] [advmod устно], [ccomp [mark что] [nsubj отдел], [acl [obj которым] [nsubj он] руководит], ликвидируется]].]'
+equivalents:
+  - english: |
+       without any X
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

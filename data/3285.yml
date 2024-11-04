@@ -1,0 +1,52 @@
+---
+record: 3285
+name: 'VP один к одному/один в один'
+UD_name: ''
+illustration: 'Он повторил всё один в один.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Вместо жемчуга мы вставляли белые бусины. Один к одному [получилось!]Situation
+  - |
+       Что интересно, сюжет этого рассказа один в один [повторяет сюжет нашумевшего недавно фильма.]Situation
+  - |
+       У нас то же самое один в один [было в прошлом году.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl один [nmod [case в] один]]]'
+  - '[root VP [obl один [nmod [case к] одному]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] повторил [obj всё] [obl один [nmod [case в] один]].]'
+equivalents:
+  - english: |
+       exactly alike
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Exact
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

@@ -6,6 +6,16 @@ illustration: 'Его долго пытались поймать.'
 cefr_level: A2
 definitions:
 examples:
+  - |
+       [Я]Participant долго пыталась [получить книгу]Action из другого интернет-магазина.
+  - |
+       [Учитель]Participant снова пытался [что-то объяснить]Action ему.
+  - |
+       [Павел]Participant пытается [отыскать следы своего двоюродного брата.]Action
+  - |
+       [Вы]Participant пытаетесь [контролировать буквально все в своей компании.]Activity
+  - |
+       А [мы]Participant ругаемся или пытаемся [что-то друг другу доказать?]Action
 morphology:
   - NP
   - Nom

@@ -1,0 +1,47 @@
+---
+record: 2817
+name: 'VP по мелочам'
+UD_name: ''
+illustration: 'Заходил несколько раз, по мелочам спрашивал, но понятно было, что не терпится старику'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       – Чего это ты сегодня такой довольный? – спросила жена, которая сама в последнее время [раздражалась]State по мелочам.
+  - |
+       Она старалась не лезть в жизнь своих подопечных, не [контролировать их]Activity по мелочам, но побеседовала с каждым с глазу на глаз и составила о каждом свое мнение.
+  - |
+       Тяжелый у нее оказался характер, сроду не дождешься улыбки, вечно [брюзжит]Activity по мелочам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] мелочам]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       little things
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Cause
+family:
+  - |
+    ""

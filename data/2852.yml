@@ -1,0 +1,56 @@
+---
+record: 2852
+name: 'Cl по сути'
+UD_name: ''
+illustration: 'По сути, это ― ключевой орган ООН, отвечающий за координацию деятельности системы Организации в экономической, природоохранной и социально-правовой сферах'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       По сути [это очередное доказательство, что каждый должен заниматься своим делом]Situation.
+  - |
+       В этом фильме вы по сути [играете романтического героя]Situation.
+  - |
+       Французский уже, по сути, [международный язык, особенно в Африке]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Modifier
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+comment: |
+    'Также см. 1252  VP по NP-Dat - Он женился по любви.'
+equivalents:
+  - english: |
+       in fact
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Objectivity
+  - type: Salient property
+    subtypes:
+      - type: Essence
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3334
+name: 'поставить (последнюю) точку в/на NP-Loc'
+UD_name: ''
+illustration: 'Для того чтобы поставить точку в этой дискуссии и развеять все сомнения, вновь обратимся к мемуарным источникам.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       На [этом достаточно сомнительном афоризме]Circumstance я хочу поставить точку, чтобы не договориться до ещё более сомнительных выводов.
+  - |
+       Так и не сумев поставить точку в [романе,]Theme Фадеев поставил точку в [собственной жизни.]Theme
+  - |
+       В [этой истории с ограблением]Theme можно было бы поставить точку, если бы вчера я не встретил на улице того самого вора.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root поставить [ob точку [nmod [case в] NP-Loc]]]'
+  - '[root поставить [obj точку [nmod [case на] NP-Loc]]]'
+  - '[root поставить [obj [amod последнюю] точку [nmod [case в] NP-Loc]]]'
+  - '[root поставить [obj [amod последнюю] точку [nmod [case на] NP-Loc]]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case для] того [advcl [mark чтобы] поставить [obj точку [nmod [case в] [det этой] дискуссии]] [conj [cc и] развеять [obj [det все] сомнения]]]], [advmod вновь] обратимся [obl [case к] [amod мемуарным] источникам].]'
+equivalents:
+  - english: |
+       to call it a day
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Terminative
+family:
+  - |
+    ""

@@ -1,0 +1,48 @@
+---
+record: 3385
+name: 'NP-Nom сходить с ума по NP-Dat'
+UD_name: ''
+illustration: 'Люди вокруг меня сходят с ума по инфографике.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Покойный Максимилиан]Experiencer с ума сходил по [ней.]Stimulus
+  - |
+       Поэтому [иностранцы]Experiencer по-прежнему сходят с ума по [русским женщинам.]Stimulus
+  - |
+       [Я]Experiencer всегда сходил с ума по [всяческим автомобилям, технике вообще.]Stimulus
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] сходить [obl [case с] ума] [obl [case по] NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Люди [nmod [case вокруг] меня]] сходят [obl [case с] ума] [obl [case по] инфографике].]'
+equivalents:
+  - english: |
+       sweat blood
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

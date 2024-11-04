@@ -1,0 +1,49 @@
+---
+record: 3078
+name: 'VP раз(ок)-другой'
+UD_name: ''
+illustration: '[root VP [obl раз - [conj другой]] + [root VP [obl разок - [conj другой]]]]'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Маргарита [позвонила в дверь]Action раз-другой, но никто не открывал.
+  - |
+       Каждую неделю разок-другой он [мог уйти с работы раньше времени.]Action
+  - |
+       [Проверяй, пожалуйста, почту]Action раз-другой в месяц.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl раз - [conj другой]]'
+  - '[root VP [obl разок - [conj другой]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl раз - [conj другой]] попробует - [conj попробует], [conj [cc да] перестанет].]'
+equivalents:
+  - english: |
+       once or twice
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
+family:
+  - |
+    ""

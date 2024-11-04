@@ -1,0 +1,50 @@
+---
+record: 2426
+name: 'VP благим матом'
+UD_name: ''
+illustration: 'Как завопили да завизжали благим матом женские голоса!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я [заорал]Action благим матом и орал так до самого вечера.
+  - |
+       Благим матом [завопил]Action Петька: окурок прижег ему пальцы.
+  - |
+       Доченька! Доченька! ― благим матом [звал]Action бедный тесть.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod благим] матом]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Как] завопили [conj [cc да] завизжали] [obl [amod благим] матом] [nsubj [amod женские] голоса]!]'
+equivalents:
+  - english: |
+       scream bloody murder
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

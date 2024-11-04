@@ -1,0 +1,54 @@
+---
+record: 2918
+name: 'VP/NP с чистой душой'
+UD_name: ''
+illustration: 'Потом я подумала, что вдруг ты говоришь это с чистой душой?'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Вы просто грязный человек, что ненавидит [людей]Stimulus с чистой душой.
+  - |
+       Он истинно [хороший человек]Property с чистой душой.
+  - |
+       Искусство было для него второй бог, [служить]Activity которому нужно было с чистой душою.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with a clear conscience
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

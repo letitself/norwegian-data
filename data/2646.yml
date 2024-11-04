@@ -1,0 +1,58 @@
+---
+record: 2646
+name: 'VP на волю/свободу'
+UD_name: ''
+illustration: 'Одну-две такие новеллы он уже передал через жену на волю, но и там ― кому их покажешь?'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он чувствовал, что раздражение растёт и [рвётся]Activity на волю.
+  - |
+       Павел сказал, что я должен предложить вам [передать]Action на волю записку.
+  - |
+       Даже весёлую жёлтенькую канарейку кухарка [выпустила]Action на волю.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] волю]]'
+  - '[root VP [obl [case на] свободу]]'
+dependency_structure_of_illustration:
+  - '[root [obj [nummod Одну-[nmod две]] [det такие] новеллы] [nsubj он] [advmod уже] передал [obl [case через] жену] [obl [case на] волю], [conj [cc но] [advmod и] [advmod там] ― [iobj кому] [obj их] покажешь]?]'
+equivalents:
+  - english: |
+       on the loose
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Goal
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    ""

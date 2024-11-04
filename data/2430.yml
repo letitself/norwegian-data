@@ -1,0 +1,49 @@
+---
+record: 2430
+name: 'каждый NP в отдельности'
+UD_name: ''
+illustration: 'Светлана ненавидела мужчин всех вместе и каждого в отдельности.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       А теперь мне нужно побеседовать с вашими сотрудниками, причем с [каждым]Element в отдельности.
+  - |
+       Ему нравятся все женщины сразу и [каждая]Element в отдельности.
+  - |
+       [Каждый человек]Element, каждый в отдельности единственен и неповторим.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [det каждый] NP [advmod [case в] отдельности]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Светлана] ненавидела [obj мужчин [det всех [advmod вместе] [conj [cc и] каждого [advmod [case в] отдельности]]]].]'
+equivalents:
+  - english: |
+       apart
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3780
+name: 'NP-Nom держаться на честном слове'
+UD_name: ''
+illustration: 'Многие машины держатся на честном слове.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Короче, эта [мраморная фига]Theme держится на честном слове.
+  - |
+       ― Вроде [гнездо]Theme держится на честном слове, а падать не собирается.
+  - |
+       Мы были поражены: сложенный в один кирпич, [свод]Theme вот уже триста лет держался на честном слове.
+  - |
+       [Всё]Theme держится на честном слове, удивительно, что ещё не рухнуло.
+  - |
+       Тушили ветками. [Горы кирпичей]Theme, держащиеся на честном слове. Воронежцы, будьте аккуратны!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] держаться [obl [case на][amod честном]слове]]'
+dependency_structure_of_illustration:
+  - '[root nsubj [det Многие машины]] держатся [obl [case на] [amod честном] слове].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2048
+semantic_types:
+family:
+  - |
+    ""

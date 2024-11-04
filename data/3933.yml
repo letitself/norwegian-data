@@ -1,0 +1,53 @@
+---
+record: 3933
+name: 'держать NP-Acc в курсе (NP-Gen/Sconj Cl)'
+UD_name: ''
+illustration: 'Я буду держать вас в курсе дел.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Зося держала [меня]Addressee в курсе [своих дел]Topic, и даже выслала фотографию Раймонда.
+  - |
+       Мы продолжаем наши совместные конкурсы и будем держать [подписчиков]Addressee в курсе.
+  - |
+       Они общаются с Москвой, знают все новости и держат [нас]Addressee в курсе [событий]Topic.
+  - |
+       ― Я знаю, держи [меня]Addressee в курсе, [куда она идет]Topic
+  - |
+       Льговский обожал мать и всегда держал [близких]Addressee в курсе [своих перемещений]Topic.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root держать [obj NP-Acc] [obl [case в] курсе]]'
+  - '[root держать [obj NP-Acc] [obl [case в] курсе [nmod NP-Gen]]]'
+  - '[root держать [obj NP-Acc] [obl [case в] курсе] [conj Cl]]])'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] буду [xcomp держать [obj вас] [obl [case в] курсе [nmod дел]]].]'
+comment: |
+    'Cм. также 766 NP-Nom (не) Cop в курсе (NP-Gen)'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,47 @@
+---
+record: 2408
+name: 'VP в долг'
+UD_name: ''
+illustration: 'Год назад Олег взял деньги в долг ― большую сумму ― и не смог отдать вовремя.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Ни за что [не возьму]Action в долг у твоего отца.
+  - |
+       Он [попросил денег]Action в долг, но я не дала ему.
+  - |
+       Я позвоню сестре, [попрошу платье]Action в долг.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] долг]]'
+dependency_structure_of_illustration:
+  - '[root [obl Год [advmod назад]] [nsubj Олег] взял [obj деньги] [obl [case в] долг] ― [obj [amod большую] сумму] ― [conj [cc и] [advmod не] смог [xcomp отдать [advmod вовремя]]].]'
+equivalents:
+  - english: |
+       in debt
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

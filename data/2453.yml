@@ -1,0 +1,51 @@
+---
+record: 2453
+name: 'VP в пух и прах'
+UD_name: ''
+illustration: 'Работу разругали в пух и прах.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Современная критика [разбила бы такой роман]Action в пух и прах, если бы он появился в наши дни.
+  - |
+       Ясно было одно ― вчера мой дед с Петром [рассорились]Action в пух и прах.
+  - |
+       [Проигравшись]Action в пух и прах, Роберт становится еще более мрачным.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] пух [conj [cc и] прах]]]'
+dependency_structure_of_illustration:
+  - '[root [obj Работу] разругали [obl [case в] пух [conj [cc и] прах]].]'
+equivalents:
+  - english: |
+       to pieces
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

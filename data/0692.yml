@@ -11,7 +11,15 @@ definitions:
        Konstruksjonen brukes for å bringe på det rene om [samtalepartnerens]Addressee mening sammenfaller med talerens [vurdering.]Evaluation
 examples:
   - |
-       Думаю, что [можно это сделать]Theme, а [вы]Addressee как думаете?
+       Думаю, что [мы успеем за неделю]Theme, а [вы]Addressee как думаете?
+  - |
+       По-моему, [выглядит очень заманчиво]Theme, а [вы]Addressee как думаете?
+  - |
+       [Грушевое пюре вкуснее яблочного будет]Situation. А [Addressee] ты как думаешь?
+  - |
+       [Вроде так красиво получается]Situation. А [он]Addressee что думает, не спрашивала?
+  - |
+       Кажется, [нам обоим так будет лучше]Situation. А [ты]Addressee как думаешь?
 morphology:
   - Cl
   - NP

@@ -1,0 +1,56 @@
+---
+record: 3498
+name: 'что толку/какой толк (в NP-Loc/от NP-Gen)'
+UD_name: ''
+illustration: 'Да что в этом толку?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Что толку в нашем положении от [этих знаний]Topic?
+  - |
+       Слепки от ключей он имел. Да что в [них]Topic толку, не помогли.
+  - |
+       Какой толк в [гипотезе, которую даже ясно сформулировать невозможно]Topic, я понять не могу.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[dep [det какой] толк [obl [case в] NP-Loc]]'
+  - '[dep [det какой] толк [obl [case от] NP-Gen]]'
+  - '[dep [det какой] толк]'
+  - '[root [nsubj что] толку [obl [case в] NP-Loc]]'
+  - '[root [nsubj что] толку [obl [case от] NP-Gen]]'
+  - '[root [nsubj что] толку]'
+dependency_structure_of_illustration:
+  - '[root [cc Да] [nsubj что] [obl [case в] этом] толку?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       what's the use of X?
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Irrelevance
+family:
+  - |
+    ""

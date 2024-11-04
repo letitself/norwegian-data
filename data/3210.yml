@@ -1,0 +1,51 @@
+---
+record: 3210
+name: 'VP-Inf Cop легче лёгкого'
+UD_name: ''
+illustration: 'Найти этот клуб было легче лёгкого.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       На улицах незнакомого города, да еще и без знания местного языка, [потеряться]Event легче лёгкого.
+  - |
+       [Играть в Conga Master]Activity легче легкого: веди своего танцора по танцполу, по пути добавляя новых людей в свою цепочку.
+  - |
+       Вакцинация накануне периода эпидемий опасна, а [подхватить болезнь]Event в том же офисе – легче легкого.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [csubj Vp-Inf] [cop было] легче [obl легкого]]'
+dependency_structure_of_illustration:
+  - '[root [csubj найти [obj [det этот] клуб]] [cop было] легче [obl лёгкого].]'
+equivalents:
+  - english: |
+       X is as a piece of cake
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Temporary characteristics
+    subtypes:
+      - type: Availability
+family:
+  - |
+    ""

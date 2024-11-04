@@ -1,0 +1,47 @@
+---
+record: 2904
+name: 'VP с рук на руки (NP-Gen)'
+UD_name: ''
+illustration: 'Она сопровождала его в элитную школу, где сдавала с рук на руки охраннику.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Шофер довез бабушку до дома, подвел к воротам, [передал]Action буквально с рук на руки дочери.
+  - |
+       В своей семье дворянские девочки последовательно [переходили]Action с рук на руки кормилицы, няни, гувернантки.
+  - |
+       Пленника ухватили за одежду и с рук на руки [передали через борт]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       make the rounds
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

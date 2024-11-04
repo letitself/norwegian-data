@@ -1,0 +1,53 @@
+---
+record: 2415
+name: 'VP в заложниках (у NP-Gen)'
+UD_name: ''
+illustration: 'У этого террориста в заложниках находится моя дочь!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он [удерживал]Activity в заложниках офицера полиции и угрожал взорвать бомбу.
+  - |
+       Меня похитил психопат, [держал]Activity в заложниках, привез в Москву.
+  - |
+       Судя по всему, мама планировала [держать меня]Activity в заложниках все Рождество.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] заложниках]]'
+  - '[root VP [obl [case в] заложниках] [obl [case у] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] [det этого] террориста] [obl [case в] заложниках] находится [nsubj [det моя] дочь]!]'
+equivalents:
+  - english: |
+       take X hostage
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

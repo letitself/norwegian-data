@@ -1,0 +1,51 @@
+---
+record: 3092
+name: 'NP-Nom болеть душой за NP-Acc'
+UD_name: ''
+illustration: 'Человек болеет душой за то, что ему дорого.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он был человек честный и искренний, болеющий душой за [судьбу России.]Theme
+  - |
+       Будто с заботливым и умным другом, который по-хозяйски все видит, за [все]Theme болеет душой, хочет помочь, посоветовать.
+  - |
+       Поняла я, что любимая работа неизбежно приносит страдания, поскольку она тебе не безразлична, и ты за [нее]Theme болеешь душой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] болеть [obl душой] [obl [case за] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Человек] болеет [obl душой] [obl [case за] то, [acl [nsubj что] [iobj ему] дорого].]'
+equivalents:
+  - english: |
+       one’s heart ached
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Unconcern vs. Concern
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

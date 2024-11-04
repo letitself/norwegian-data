@@ -1,0 +1,49 @@
+---
+record: 3798
+name: 'VP как из пушки'
+UD_name: ''
+illustration: 'Весной из самого Омска ехал — за три дня добрались, как из пушки.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Будь моя воля, у меня бы ты [полетел в магазин]Action как из пушки.
+  - |
+       Выйдет замуж — [будет рожать]Action как из пушки.
+  - |
+       Ей тоже известно, чтобы к девяти часам —как из пушки.
+  - |
+       Первый день когда [снег не валит]Event как из пушки. Первый за 4 дня.
+  - |
+       В этот момент, уже в темноте, меня как из пушки [ослепил]Action фотограф.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Obsolete
+dependency_structure:
+  - '[root VP [obl [mark как] [case из] пушки]]'
+dependency_structure_of_illustration:
+  - '[root [obl Весной] [obcl [case из] [det самого] Омска] ехал — [parataxis [obl [case за] [nummod три] дня] добрались, [obl [mark как] [case из] пушки]]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2066
+semantic_types:
+family:
+  - |
+    ""

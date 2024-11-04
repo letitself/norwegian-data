@@ -1,0 +1,52 @@
+---
+record: 2953
+name: 'NP-Nom хоть куда'
+UD_name: ''
+illustration: 'Ты, конечно, девчонка хоть куда, но Мите другую надо.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Слух]Possessed у Дарьи Ивановны был хоть куда: "Иголка упадёт, и то слышу".
+  - |
+       Мы с тобой [подруги]Participant хоть куда! Нам с тобой не страшно ничего!
+  - |
+       Да, я [мужик]Participant хоть куда, ― говорит ветеринар.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       first-rate
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

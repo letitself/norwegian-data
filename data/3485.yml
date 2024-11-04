@@ -1,0 +1,82 @@
+---
+record: 3485
+name: '(Ну,) NP-Nom/Voc, что/чего PronPers-2 (надо/нужно)?'
+UD_name: ''
+illustration: 'Ну, вот Вася, ну, что тебе?'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       "Ну, пап, ― говорит сын, ― чего [тебе]Addressee надо?"
+  - |
+       Тут Настя подвела его к фанерной перегородке, стукнула ногтем и тут же услышала в ответ: ― Чего [тебе]Addressee, Настька?
+  - |
+       Вышел заведующий ― чернокудрый детина с лицом мясника: ― Чего [вам]Addressee, гражданка?
+  - |
+       ― Оставь меня!.. Уйди вон!.. Чего тебе нужно от меня, идиот!..
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Pronoun
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: Colloquial
+dependency_structure:
+  - '[dep NP-Nom, [conj чего [iobj PronPers-2]]]'
+  - '[dep NP-Nom, [conj [nsubj чего] [iobj PronPers-2] надо]]'
+  - '[dep NP-Nom, [conj [nsubj чего] [iobj PronPers-2] нужно]]'
+  - '[dep NP-Nom, [conj что [iobj PronPers-2]]]'
+  - '[dep NP-Nom, [conj [nsubj что] [iobj PronPers-2] надо]]'
+  - '[dep NP-Nom, [conj [nsubj что] [iobj PronPers-2] нужно]]'
+  - '[root [vocative voc], чего [iobj PronPers-2]]'
+  - '[root [vocative voc], [nsubj чего] [iobj PronPers-2] надо]'
+  - '[root [vocative voc], [nsubj чего] [iobj PronPers-2] нужно]'
+  - '[root [vocative voc], что [iobj PronPers-2]]'
+  - '[root [vocative voc], [nsubj что] [iobj PronPers-2] надо]'
+  - '[root [vocative voc], [nsubj что] [iobj PronPers-2] нужно]'
+  - '[dep [parataxis Ну], NP-Nom, [conj чего [iobj PronPers-2]]]'
+  - '[dep [parataxis Ну], NP-Nom, [conj [nsubj чего] [iobj PronPers-2] надо]]'
+  - '[dep [parataxis Ну], NP-Nom, [conj [nsubj чего] [iobj PronPers-2] нужно]]'
+  - '[dep [parataxis Ну], NP-Nom, [conj что [iobj PronPers-2]]]'
+  - '[dep [parataxis Ну], NP-Nom, [conj [nsubj что] [iobj PronPers-2] надо]]'
+  - '[dep [parataxis Ну], NP-Nom, [conj [nsubj что] [iobj PronPers-2] нужно]]'
+  - '[root [parataxis Ну], [vocative voc], чего [iobj PronPers-2]]'
+  - '[root [parataxis Ну], [vocative voc], [nsubj чего] [iobj PronPers-2] надо]'
+  - '[root [parataxis Ну], [vocative voc], [nsubj чего] [iobj PronPers-2] нужно]'
+  - '[root [parataxis Ну], [vocative voc], что [iobj PronPers-2]]'
+  - '[root [parataxis Ну], [vocative voc], [nsubj что] [iobj PronPers-2] надо]'
+  - '[root [parataxis Ну], [vocative voc], [nsubj что] [iobj PronPers-2] нужно]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Ну], вот [nsubj Вася], [parataxis ну], [conj что [iobj тебе]]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       what do you need, X?
+common_fillers:
+  - мальчик
+  - девочка
+  - малыш
+  - мама
+  - папа
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+  - type: Purpose
+family:
+  - |
+    ""

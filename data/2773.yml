@@ -1,0 +1,57 @@
+---
+record: 2773
+name: 'VP (не) от большого ума'
+UD_name: ''
+illustration: 'И кто-то от большого ума ударил по нему струей из огнетушителя'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Провидение уберегло меня от военно-инженерной карьеры, к которой я, не от большого ума, [стал стремиться]Action.
+  - |
+       Если вы [начали]Action (не от большого ума) писать театральные рецензии, не вздумайте серьезно относиться к тому, что увидели, или кого-то хвалить.
+  - |
+       Оттого Владимир за него и заступился, когда местные власти «от большого ума» [Савельева арестовали]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] [amod большого] ума]]'
+  - '[root VP [obl [advmod не] [case от] [amod большого] ума]]'
+dependency_structure_of_illustration:
+  - '[root [cc И] [nsubj кто-то] [obl [case от] [amod большого] ума] ударил [obl [case по] нему] [iobj струей [nmod [case из] огнетушителя]]]'
+equivalents:
+  - english: |
+       out of sheer brilliance
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

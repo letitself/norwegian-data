@@ -1,0 +1,52 @@
+---
+record: 2791
+name: 'отныне и впредь VP'
+UD_name: ''
+illustration: 'Это сочетание общего с личным более всего делает промышленность делом передовым или прогрессивным, а более промышленные народы ― наиболее сильными во всем отныне и впредь'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Отныне и впредь каждое мудрое решение нашего глубокоценимого руководителя [будет подтверждено необходимыми социологическими данными,]Event как то: цифрами, графиками, анкетами и вычислениями.
+  - |
+       Я [наложил,]Action отныне и впредь, печать на свои уста во всем, что касается этой несчастной политики.
+  - |
+       Относительно сводных батальонов сделано мною распоряжение, чтоб отныне и впредь они [составлялись из каждой бригады по-очередно]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advmod отныне [conj [cc и] впредь]] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Это] сочетание [nmod общего [nmod [case с] личным]]] [advmod более [obl всего]] делает [obj промышленность] [obl делом [amod передовым [conj [cc или] прогрессивным]]], [conj [cc а] [obj [amod [advmod более] промышленные] народы] ― [advmod наиболее] сильными [obl [case во] всем] [advmod отныне [conj [cc и] впредь]]]]'
+equivalents:
+  - english: |
+       from now on
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

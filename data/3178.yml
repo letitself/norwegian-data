@@ -1,0 +1,49 @@
+---
+record: 3178
+name: 'NP-Nom идти вразрез с NP-Ins'
+UD_name: ''
+illustration: 'Эти требования идут вразрез с внутренней политикой клуба.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Новая реформа]Situation идёт вразрез с [интересами россиян.]Concession
+  - |
+       [Этот проект]Situation идёт вразрез с [действующим законодательством.]Concession
+  - |
+       [Деятельность сотрудников]Situation идёт вразрез с [их профессиональными обязанностями.]Concession
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] идти [advmod вразрез [obl [case с] NP-Ins]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эти] требования] идут [advmod вразрез [obl [case с] [amod внутренней] политикой [nmod клуба]]].]'
+equivalents:
+  - english: |
+       run counter
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+  - type: Manner
+family:
+  - |
+    ""

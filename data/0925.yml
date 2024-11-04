@@ -6,6 +6,16 @@ illustration: 'Говори, что хочешь – я своё решение 
 cefr_level: B2
 definitions:
 examples:
+  - |
+       [Готовь]Concession что хочешь, мне все равно.
+  - |
+       [Думайте]Concession что хотите, но [в кабинете начальника будьте тихими]Situation.
+  - |
+       [Делайте] Concession что хотите, только [меня не трогайте]Situation.
+  - |
+       В понедельник [делай]Concession что хочешь, но до [обеда возьми в поликлинике справку]Situation.
+  - |
+       [Читайте]Concession что хотите на экзамене, держите открытыми учебники, [я все равно задаю вопросы вне билетов]Situation.
 morphology:
   - Verb
   - Imp
@@ -30,7 +40,7 @@ intonation:
 usage_label: Colloquial
 dependency_structure:
   - '[root Verb-Imp, [ccomp [obj что] хотеть-Prs.2], [parataxis Cl]]'
-  - '[root Verb-Imp, [ccomp [obj что] хотеть-Prs.2], [conj [cc но] Cl]]'
+  - '[root Verb-Imp, [ccomp [obj что] хотеть-Prs.2], [conj [но] Cl]]'
 dependency_structure_of_illustration:
   - '[root Говори, [ccomp [obj что] хочешь] – [parataxis [nsubj я] [obj [det своё] решение] [advmod не] изменю]!]'
 comment: |

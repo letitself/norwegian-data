@@ -1,0 +1,56 @@
+---
+record: 3593
+name: 'боюсь, что Cl'
+UD_name: ''
+illustration: 'Боюсь, что с боксером играть в перетягивание каната будет сложновато.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       За деньги из бюджета нужно спрашивать очень строго. Боюсь, что [сегодня этого не происходит]Situation.
+  - |
+       ― И как, часто электрички туда идут? ― Боюсь, что [не очень]Evaluation.
+  - |
+       Если нам сейчас выдадут график, боюсь, что [мой сын будет не готов сдавать какие-то экзамены]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root боюсь'
+  - '[ccomp [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root Боюсь, [ccomp [mark что] [obl [case с] боксером] [csubj играть [obl [case в] перетягивание [nmod каната]]] [cop будет] сложновато].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X's afraid that
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+family:
+  - |
+    ""

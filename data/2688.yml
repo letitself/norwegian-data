@@ -1,0 +1,52 @@
+---
+record: 2688
+name: 'VP на неделе'
+UD_name: ''
+illustration: 'В дальнейшем картина может резко измениться, так как на неделе ожидается публикация данных по инфляции'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Федор перезвонил через полчаса и сказал, что [позвонит]Action на неделе и назначит точный день.
+  - |
+       Я вам одно лекарство хочу назначить, только в больнице его сейчас нет, попросите вашу дочь на неделе ко мне [подойти]Action, я ей название скажу.
+  - |
+       Занесенные пургой дорожки приходилось [чистить]Activity по несколько раз на неделе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] неделе]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] дальнейшем] [nsubj картина] может [xcomp [advmod резко] измениться], [advcl [mark так [fixed как]] [obl [case на] неделе] ожидается [nsubj публикация [nmod данных [nmod [case по] инфляции]]]]]'
+equivalents:
+  - english: |
+       this week
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

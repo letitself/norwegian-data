@@ -1,0 +1,93 @@
+---
+record: 3479
+name: 'Одно дело Cop VP-Inf/NP-Nom/Cl, (а) (совсем) другое Cop VP-Inf/NP-Nom/Cl'
+UD_name: ''
+illustration: 'Одно дело ― что-то в книжке прочитать, а другое ― узнать что-то из живого общения.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Но одно дело ― [привлечь внимание к интересному техническому решению]Comparee, совсем другое ― [привести его к успеху на рынке]Standard.
+  - |
+       Одно дело, если [делается ремейк на какое-то произведение или делается новая аранжировка]Comparee, и совсем другое, когда [берутся фрагменты и на эту тему делается новое произведение]Standard.
+  - |
+       Но одно дело [тайная полиция]Comparee, другое ― [тайное общество]Standard.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subject
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+  - Not applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [nsubj другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [nsubj другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [nsubj другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [nsubj другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [nsubj другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [nsubj другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [nsubj другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [nsubj другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [nsubj другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [nsubj [advmod совсем] другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [nsubj [advmod совсем] другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [nsubj [advmod совсем] другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [nsubj [advmod совсем] другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [nsubj [advmod совсем] другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [nsubj [advmod совсем] другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [nsubj [advmod совсем] другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [nsubj [advmod совсем] другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [nsubj [advmod совсем] другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [cc а] [nsubj другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [cc а] [nsubj другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [cc а] [nsubj другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [cc а] [nsubj другое] [cop Cop] Cl]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [cc а] [nsubj другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [cc а] [nsubj другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [cc а] [nsubj другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [cc а] [nsubj другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [cc а] [nsubj другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] NP-Nom, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] Cl, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] NP-Nom]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] Cl]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] VP-Inf]]'
+  - '[root [nsubj [nummod Одно] дело] [cop Cop] VP-Inf, [conj [cc а] [nsubj [advmod совсем] другое] [cop Cop] NP-Nom]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [nummod Одно] дело] ― [obj что-то] [obl [case в] книжке] прочитать, [conj [cc а] [nsubj другое] ― узнать [obj что-то] [obl [case из] [amod живого] общения]].]'
+comment: |
+    'См. близкую конструкцию 117.'
+equivalents:
+  - english: |
+       it's one thing when P, but it's a whole other thing when P2
+common_fillers:
+  - говорить
+  - делать
+  - знать
+  - видеть
+  - когда
+  - если
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Inequality
+family:
+  - |
+    ""

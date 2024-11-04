@@ -1,0 +1,52 @@
+---
+record: 2519
+name: 'XP дальше некуда'
+UD_name: ''
+illustration: 'Отношения с мужем обострились дальше некуда.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Уже зима в этой стране оказалась для меня такой жаркой]Situation, что дальше некуда.
+  - |
+       [После встречи с директором поводов для размышления набралось]Situation дальше некуда.
+  - |
+       Крайне непрофессионально сделано, [массовки и вторые планы убогие]Situation дальше некуда.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root XP [advmod [advmod дальше] некуда]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Отношения [nmod [case с] мужем]] обострились [advmod [advmod дальше] некуда].]'
+equivalents:
+  - english: |
+       no further
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

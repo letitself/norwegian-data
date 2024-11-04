@@ -1,0 +1,51 @@
+---
+record: 3149
+name: 'NP-Nom Cop на финишной прямой'
+UD_name: ''
+illustration: 'Я на финишной прямой!'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Он очень способный, недаром и [докторская диссертация]Theme уже на финишной прямой.
+  - |
+       [Подготовка к финалу Лиги чемпионов]Theme уже на финишной прямой.
+  - |
+       Подходил к концу очередной месяц работы в лаборатории, [команда]Agent была на финишной прямой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] [amod финишной] прямой]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [case на] [amod финишной] прямой!]'
+equivalents:
+  - english: |
+       be on the home straight
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Terminative
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

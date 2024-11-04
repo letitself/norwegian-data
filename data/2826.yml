@@ -1,0 +1,49 @@
+---
+record: 2826
+name: 'VP по одному'
+UD_name: ''
+illustration: 'И вот мать возвращается и видит, как дочь, сидя на полу, методично достаёт яйца по одному, разбивает о край корзины, отбрасывает на пол, берёт следующее…'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Остальных членов комиссии стали [вызывать]Action позднее и по одному, чтобы они поставили свои подписи.
+  - |
+       Многие музыканты стали по одному [уходить в испанские оркестры,]Action где предлагались совершенно другие зарплаты.
+  - |
+       Зачастую мы все [работаем]Activity по одному: врачей катастрофически не хватает.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] одному]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       one by one
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Distributive
+family:
+  - |
+    ""

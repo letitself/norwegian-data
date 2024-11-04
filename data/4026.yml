@@ -1,0 +1,51 @@
+---
+record: 4026
+name: 'NP иметь все шансы VP/на NP-Acc'
+UD_name: ''
+illustration: 'Молодой певец имеет все шансы стать звездой.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Ты, [Иван]Possessor, имеешь все шансы [победить]Action.
+  - |
+       [Новая группа]Possessor имеет все шансы на [успех]Result
+  - |
+       [Большие грузовики]Possessor имеют все шансы [проходить осмотр долго]Situation.
+  - |
+       Сегодня [грамотные покупатели]Possessor имеют все шансы [не только сэкономить, но и приумножить вложения]Action.
+  - |
+       [Сумма претензий]Possessor имеет все шансы на [достижение 410 млн долл]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Light Verb Construction
+part_of_speech_of_anchor:
+  - Verb
+  - Pronoun
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root [nsubj NP] иметь [obj [det все] шансы] [xcomp VP]'
+  - '[root [nsubj NP] иметь [obj [det все] шансы [nmod [case на] NP-Acc]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Молодой] певец] имеет [obj [det все] шансы] [xcomp стать [obl звездой]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

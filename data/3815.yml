@@ -1,0 +1,49 @@
+---
+record: 3815
+name: 'NP-Nom выпасть в осадок'
+UD_name: ''
+illustration: 'Моя мама, как узнала, выпала в осадок и до сих пор, по-моему, в себя не пришла.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Она]Experiencer выпала в осадок от таких новостей.
+  - |
+       Их осталось двое на одного, но [Миша]Experiencer не выпал в осадок.
+  - |
+       [Психолог]Experiencer бы выпала в осадок. Похоже мой ребенок на русском ни одного теста не пройдет.
+  - |
+       Выпавший от неожиданности в осадок [Кастюкевич]Experiencer позвонил Маркову.
+  - |
+       [Я]Experiencer просто с цен на их ремешки и браслеты выпал в осадок полный.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] выпасть [obl [case в] осадок]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Моя] мама], [parataxis [mark как] узнала], выпала [obl [case в] осадок] [conj [cc и] [obl [case до] [det сих] пор]], [parataxis по-моему], [obl [case в] себя] [advmod не] пришла]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2034
+semantic_types:
+family:
+  - |
+    ""

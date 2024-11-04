@@ -1,0 +1,49 @@
+---
+record: 3938
+name: 'держать NP-Acc на отлёте'
+UD_name: ''
+illustration: 'Из-за огромных бицепсов ему приходится держать руки на отлёте.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Он шёл быстро, держа [портфельчик]Theme на отлёте.
+  - |
+       Молодой человек держал [свою руку]Theme на отлете, будто не узнавал.
+  - |
+       Она держала [мой лист]Theme на отлете и изучала.
+  - |
+       ― За что? ― живо переспросил Витюлек и встал, держа [локоток]Theme на отлете.
+  - |
+       Держа [одну ногу]Theme на отлете, он не давал дверям закрыться, а когда закончил свою партию, заорал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[root держать [obj NP-Acc] [obl [case на] отлёте]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Из-за] [amod огромных] бицепсов] [iobj ему] приходится [xcomp держать [obj руки] [obl [case на] отлёте]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,55 @@
+---
+record: 3096
+name: 'NP-Nom броситься/кинуться на шею/грудь (NP-Dat)'
+UD_name: ''
+illustration: 'Она обрадовалась и бросилась ему на шею.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Вместо ответа [Лена]Agent бросилась на шею [матери]Participant и зарыдала.
+  - |
+       ― Ва-анечка! ― вскрикнула [Саша]Agent и, стремительно пробежав по комнате, бросилась на шею [гостю.]Participant
+  - |
+       [Иван]Agent заплакал и бросился на грудь к [матери.]Participant
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] кинуться [obl [case на] шею] [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] кинуться [obl [case на] грудь] [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] кинуться [obl [case на] шею]]'
+  - '[root [nsubj NP-Nom] кинуться [obl [case на] грудь]]'
+  - '[root [nsubj NP-Nom] броситься [obl [case на] шею] [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] броситься [obl [case на] грудь] [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] броситься [obl [case на] шею]]'
+  - '[root [nsubj NP-Nom] броситься [obl [case на] грудь]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] обрадовалась [conj [cc и] бросилась [iobj ему] [obl [case на] шею]].]'
+equivalents:
+  - english: |
+       throw Y’s arms around the neck
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Behavior
+family:
+  - |
+    ""

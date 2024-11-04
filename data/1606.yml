@@ -6,6 +6,16 @@ illustration: 'Вася каждый день чистит зубы.'
 cefr_level: A1
 definitions:
 examples:
+  - |
+       Каждую [ночь]Circumstance я [просыпалась от свиста и грохота.]State
+  - |
+       Каждый [месяц]Circumstance мама [присылает нам деньги.]Action
+  - |
+       Я каждый [год]Circumstance [обязательно езжу на Алтай.]Action
+  - |
+       К нам каждую [неделю]Circumstance [из столицы приезжали]Action студенты.
+  - |
+       Я сказал бабушке, что [буду заходить к ней]Activity каждый [день.]Circumstance
 morphology:
   - VP
   - NP

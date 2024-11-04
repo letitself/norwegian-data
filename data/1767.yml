@@ -1,11 +1,17 @@
 ---
 record: 1767
-name: 'я/мы не Verb-Pst и не Verb-Pst VP-Inf'
+name: 'NP-Nom не Verb-Pst и не Verb-Pst VP-Inf'
 UD_name: 'я/мы не V-Past и не V-Past VP-Inf'
 illustration: 'Я не хотел и не мог об этом писать.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       Ходить на занятия вокалом стало для меня мучением: [я]Participant не [могла]State и не [хотела]State [переучиваться,]Activity да и новая система была мне не по душе.
+  - |
+       [Полностью реализоваться в семейных отношениях]Action [я]Participant не [хотел]State и не [мог.]State
+  - |
+       [Я]Participant не [хотел]State и не [собирался]State [ничего вспоминать.]Action
 morphology:
   - Verb
   - Pst

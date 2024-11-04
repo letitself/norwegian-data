@@ -1,0 +1,47 @@
+---
+record: 4011
+name: 'чуждый/чужд всякого NP-Gen'
+UD_name: ''
+illustration: 'Это аргумент чуждый всякого научного подхода.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Интересно, что даже в характеристике Полония, который, конечно, чужд всяких [моральных принципов]Property, были сделаны соответствующие наблюдение.
+  - |
+       Кроме того, он деловит и чужд всякой [сентиментальности]Property.
+  - |
+       Чуждый всякого [мистицизма]Property, он описал эту встречу в письме к жене детально и ошеломленно, настаивая на сугубой серьезности своего сообщения.
+  - |
+       Консервативный подход к богословию у отца Георгия был, однако, совершенно чужд всякого [мракобесия]Property.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Adjective
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Formal
+dependency_structure:
+  - '[root чуждый [obl [amod всякого] NP-Gen]]'
+  - '[root чужд [obl [amod всякого] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [expl Это] [nsubj аргумент] чуждый [obl [amod всякого] [amod научного] подхода.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

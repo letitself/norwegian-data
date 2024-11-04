@@ -1,0 +1,56 @@
+---
+record: 3277
+name: 'конца-края / ни конца ни края NP-Dat нет/не видно'
+UD_name: ''
+illustration: 'Лесам в нашей местности конца-края нет'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я навсегда запомнила тот июнь, и густое ночное небо над Адлером, и шумные его улочки, и дни, когда мы все были вместе и казалось, что так будет всегда и [этой дружбе]Theme нет конца и края.
+  - |
+       Мир огромен, [ему]Theme нет конца и края, когда-нибудь ты поймешь это, малыш…
+  - |
+       Безбрежная гладь воды ― [ей]Theme нет ни конца ни края.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj конца - [appos края]] [iobj NP-Dat] нет]'
+  - '[root [nsubj конца - [appos края]] [iobj NP-Dat] [advmod не] видно]'
+  - '[root [nsubj [cc ни] конца [conj [cc ни] края]] [iobj NP-Dat] нет]'
+  - '[root [nsubj [cc ни] конца [conj [cc ни] края]] [iobj NP-Dat] [advmod не] видно]'
+dependency_structure_of_illustration:
+  - '[root [iobj Лесам] [obl [case в] [det нашей] местности] [nsubj конца - [appos края]] нет.]'
+equivalents:
+  - english: |
+       goes on forever
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+        subtypes:
+          - type: A lot
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

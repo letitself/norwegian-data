@@ -1,0 +1,53 @@
+---
+record: 3647
+name: 'NP же знает, Cl'
+UD_name: ''
+illustration: 'Ты же знала, какой у него характер!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Ты]Experiencer же знаешь, что [я всегда с нетерпением жду от тебя весточки]Situation!
+  - |
+       Я помидоры солёные ела, [ты]Experiencer же знаешь, [как я люблю солёные помидоры]Situation.
+  - |
+       Мамочка, [ты]Experiencer же знаешь, что [по алгебре я занимаюсь с одноклассниками]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP] [advmod же] [ccomp Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты] [advmod же] знала [ccomp какой [nsubj [nmod [case у] него] характер]]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X knows that P
+common_fillers:
+  - я
+  - ты
+  - он
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Emphasis
+family:
+  - |
+    ""

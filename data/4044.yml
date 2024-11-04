@@ -1,0 +1,47 @@
+---
+record: 4044
+name: 'перво-наперво Cl'
+UD_name: ''
+illustration: 'Перво-наперво, надо поесть.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Перво-наперво [откладываем тыщу на черный день]Action.
+  - |
+       Перво-наперво [были раздуты истеричные мифы о том, что революция это обязательно океаны крови и миллионы сломанных судеб]Action.
+  - |
+       Перво-наперво [я уяснил, что применение новых подходов ничего не дает для постижения искусства]Action.
+  - |
+       Перво наперво [вот что: идем лапти купим, а там увидим]Action...
+  - |
+       А ты перво-на́перво [пей]Action!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod перво-[compound наперво]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [advmod Перво-[compound наперво]], надо [xcomp поесть].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

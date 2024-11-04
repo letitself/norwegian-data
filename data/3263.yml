@@ -1,0 +1,52 @@
+---
+record: 3263
+name: 'NP-Nom Cop не к добру/VP не к добру'
+UD_name: ''
+illustration: 'Эти перерывы не к добру!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Не к добру [смеешься,]Activity парень…
+  - |
+       Евро [крепнет]Event не к добру.
+  - |
+       [Все эти вопросы]Theme были не к добру.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case к] добру]'
+  - '[root [nsubj NP-Nom] VP [obl [advmod не] [case к] добру]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Эти] перерывы] [advmod не] [case к] добру!]'
+equivalents:
+  - english: |
+       means trouble
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+family:
+  - |
+    ""

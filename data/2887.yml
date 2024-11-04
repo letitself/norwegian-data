@@ -1,0 +1,54 @@
+---
+record: 2887
+name: 'VP/NP с пеной у рта'
+UD_name: ''
+illustration: 'Мне с пеной у рта не надо ничего доказывать.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Тогда мы все делали с энтузиазмом и уж если [спорили о чем-нибудь,]Activity то с пеной у рта.
+  - |
+       Внутри команды всё спокойно ― игроки и тренер живут и трудятся одной дружной семьёй, зато снаружи идёт [спор]Theme с пеной у рта.
+  - |
+       Дубинов снова разозлился и с пеной у рта принялся [повторять все то, что говорил раньше]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Numeral
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       frothing at the mouth
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3611
+name: 'прошу PronPers-2.Acc, VP-Imp'
+UD_name: ''
+illustration: 'Прошу тебя, никому не говори об этом!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я прошу [тебя]Addressee, [говори потише]Action, разбудишь кого-нибудь.
+  - |
+       Прошу [вас]Addressee, [обязательно напишите новую главу]Action.
+  - |
+       [Принесите мне кофе]Action, прошу [вас]Addressee.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root прошу [obj PronPers-2.Acc]'
+  - '[conj VP-Imp]]'
+dependency_structure_of_illustration:
+  - '[root Прошу [obj тебя], [conj [iobj никому] [advmod не] говори [obl [case об] этом]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Please, P
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Request
+family:
+  - |
+    ""

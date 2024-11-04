@@ -1,0 +1,58 @@
+---
+record: 3442
+name: 'NP-Nom и не подумать-Pfv.Sbjv бы VP-Inf (если бы не NP/Cl)'
+UD_name: ''
+illustration: '― Наверное вы и не подумали бы жениться на учительнице?'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Дома Саша сел рисовать. [Он]Agent и не подумал бы [браться за рисунок]Result, если б не [принесенные с рынка цветные карандаши]Cause.
+  - |
+       Именно эти две женщины и скрывали жену генерала и ее сына в таком надежном месте, где их [никто]Agent и не подумал бы [искать]Activity.
+  - |
+       И они хорошо сидели ― колени врозь и толстые локти на столе, так что [третий]Agent и не подумал бы [к ним подсесть]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Verb Pattern
+part_of_speech_of_anchor:
+  - Conjunction
+  - Particle
+  - Verb
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod и] [advmod не] подумать-Pfv.Sbjv [xcomp VP-Inf]]'
+  - '[root [nsubj NP-Nom] [advmod и] [advmod не] подумать-Pfv.Sbjv [xcomp VP-Inf], [advcl [mark если] [aux бы] [advmod не] Cl]]'
+  - '[root [nsubj NP-Nom] [advmod и] [advmod не] подумать-Pfv.Sbjv [xcomp VP-Inf], [advcl [mark если] [aux бы] [advmod не] NP]]'
+dependency_structure_of_illustration:
+  - '[root ― [advmod Наверное] [nsubj вы] [advmod и] [advmod не] подумали [aux бы] [xcomp жениться [obl [case на] учительнице]]?]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X never would have thought (that)
+common_fillers:
+  - браться
+  - беспокоить
+  - просить
+  - искать
+references:
+  - |
+    
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Other
+family:
+  - |
+    ""

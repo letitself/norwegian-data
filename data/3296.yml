@@ -1,0 +1,49 @@
+---
+record: 3296
+name: 'VP от нечего делать'
+UD_name: ''
+illustration: 'От нечего делать, мы пошли в баню.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Следующая лекция должна была состояться только вечером. От нечего делать я [пошел гулять по городу.]Action
+  - |
+       Миша от нечего делать [прочёл всю эту настенную библиотеку.]Action
+  - |
+       От нечего делать я [раскрыл книгу на том месте, где был задан урок, и стал прочитывать его.]Action
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [xcomp [obl [case От] нечего] делать]]'
+dependency_structure_of_illustration:
+  - '[root [xcomp [obl [case От] нечего] делать] [nsubj мы] пошли [obl [case в] баню].]'
+equivalents:
+  - english: |
+       to pass time
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Cause
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

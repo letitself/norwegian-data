@@ -1,0 +1,56 @@
+---
+record: 3472
+name: 'NP-Nom оставить/оставлять NP-Acc в дураках'
+UD_name: ''
+illustration: 'Они слишком умны, чтобы поверить, что их оставил в дураках школьник.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Этот с виду [милый парень]Agent уже несколько раз оставлял [меня]Patient в дураках, с ним надо постоянно быть начеку!
+  - |
+       Они все хотели эксплуатировать меня! И [я]Agent решил оставить [их]Patient в дураках.
+  - |
+       Им владело странное чувство к покойному, будто [тот]Agent обманул [его]Patient, оставил в дураках.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj Np-Nom] оставить [obj NP-Acc] [obl [case в] дураках]]'
+  - '[root [nsubj Np-Nom] оставлять [obj NP-Acc] [obl [case в] дураках]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Они] [advmod слишком] умны, [advcl [mark чтобы] поверить, [ccomp [mark что] [obj их] оставил [obl [case в] дураках] [nsubj школьник]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       Y made a fool of X
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Result
+    subtypes:
+      - type: Achieved Result
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 2718
+name: 'VP на полуслове'
+UD_name: ''
+illustration: 'У сестры есть привычка обрывать фразу на полуслове, как будто ее мысль вдруг погружается на большую глубину'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я [замолчал]Action на полуслове, почувствовав вдруг тяжёлую, страшно тяжёлую досаду.
+  - |
+       Я не стал [прерывать разговор]Action на полуслове, попросил его рассказать, что всё это значит.
+  - |
+       Бомбардов [прервал себя]Action на полуслове и крепко пожал мне руку.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] полуслове]]'
+dependency_structure_of_illustration:
+  - '[root [case У] сестры [cop есть] [nsubj привычка [csubj обрывать [obj фразу] [obl [case на] полуслове]]], [advcl [mark как [fixed будто]] [nsubj [det ее] мысль] [advmod вдруг] погружается [obl [case на] [amod большую] глубину]]]'
+equivalents:
+  - english: |
+       Mid-sentence
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Result
+    subtypes:
+      - type: Antiresultative
+family:
+  - |
+    ""

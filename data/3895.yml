@@ -1,0 +1,53 @@
+---
+record: 3895
+name: 'ряд NP-Gen'
+UD_name: ''
+illustration: 'ряд непредвиденных трудностей'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       Однако ряд [сложностей]Set затрудняет проведение подобного эксперимента.
+  - |
+       Для укрепления экономического положения сегодня необходимо решить ряд [вопросов]Set.
+  - |
+       Дело в том, что у дирижаблей есть целый ряд [преимуществ]Set, которые выгодно отличают его от самолёта и вертолёта.
+  - |
+       Вот уже целый ряд [лет]Set я работаю над изолированными темами.
+  - |
+       Необходимо осуществить ряд [мер]Set по укреплению доверия вкладчиков к банкам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep ряд [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep ряд [nmod [amod непредвиденных] трудностей]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - Вопросов
+  - статей
+  - мер
+  - лет
+  - проблем
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

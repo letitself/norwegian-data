@@ -1,0 +1,56 @@
+---
+record: 3521
+name: 'хотя бы/хоть немного/чуть-чуть/слегка XP'
+UD_name: ''
+illustration: 'Не думаю, что вы в этом хоть немного разбираетесь.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Звоните, если что-то серьезное будет: какие-нибудь симптомы, которые от симптомов гриппа хотя бы [слегка отличаются]Evaluation.
+  - |
+       Если девушка хотя бы [немного симпатична]Evaluation, мы уже готовы жениться на ней.
+  - |
+       Кто не пройдоха хотя бы [чуть-чуть]Evaluation, пусть первым бросит в меня камень.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [advmod [advmod хоть] немного] XP]'
+  - '[dep [advmod хотя [advmod бы]] XP]'
+  - '[dep [advmod слегка] XP]'
+  - '[dep [advmod чуть-чуть] XP]'
+dependency_structure_of_illustration:
+  - '[root [advmod Не] думаю, [ccomp [mark что] [nsubj вы] [obl [case в] этом] [advmod [advmod хоть] немного] разбираетесь.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       just a little P
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to quantification
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+family:
+  - |
+    ""

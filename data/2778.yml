@@ -1,0 +1,53 @@
+---
+record: 2778
+name: 'VP-Ipfv/NP от заката до рассвета'
+UD_name: ''
+illustration: 'Работа от заката до рассвета, чтобы не оставалось времени вообще, даже на здоровый сон'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Вся деятельность служителей маяков направлена на выполнение единственной и на первый взгляд очень простой задачи: следить за тем, чтобы маяк [светил кораблям]State в ночи от заката до рассвета.
+  - |
+       Что касается «криминала», то по телевизору [он]Participant от заката до рассвета.
+  - |
+       Они [танцевали в клубе]Activity от заката до рассвета
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP-Ipfv [obl [case от] заката] [obl [case до] рассвета]]'
+  - '[root [nsubj NP] [case от] заката [conj [case до] рассвета]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Работа] [case от] заката [conj [case до] рассвета], [advcl [mark чтобы] [advmod не] оставалось [nsubj времени] [advmod вообще], [conj [advmod даже] [case на] [amod здоровый] сон]]]'
+equivalents:
+  - english: |
+       from dusk till dawn
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Continuative
+  - type: Temporal expression
+    subtypes:
+      - type: Time period
+family:
+  - |
+    ""

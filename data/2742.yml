@@ -1,0 +1,62 @@
+---
+record: 2742
+name: 'VP/NP-Nom Cop (не) по плечу NP-Dat'
+UD_name: ''
+illustration: 'Было общее мнение: парень засиделся, ему не по плечу этот пост, ему пора'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Такие сложные задачи]Theme не по плечу [одному коллективу]Experiencer, решить их реально только совместными усилиями.
+  - |
+       [Все эти проблемы]Theme оказались не по плечу [стареющему ученому]Experiencer.
+  - |
+       [Ему]Experiencer по плечу и [театр, и кино]Theme.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] плечу] [iobj NP-Dat]]'
+  - '[root VP [obl [advmod не] [case по] плечу] [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case по] плечу [iobj NP-Dat]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod не] [case по] плечу [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root Было [nsubj [amod общее] мнение]: [parataxis [nsubj парень] засиделся, [conj [iobj ему] [advmod не] [case по] плечу [nsubj [det этот] пост]], [conj [iobj ему] пора]]]'
+equivalents:
+  - english: |
+       X isn't capable of doing Y
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Capacity/Preferences
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    ""

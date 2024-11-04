@@ -42,9 +42,10 @@ intonation:
   - Declarative
 usage_label: Colloquial
 dependency_structure:
-  - ~
+  - '[root [csubj [advmod далеко] ходить] [advmod не] надо: [conj Cl]]'
+  - '[root [csubj [obl [case за] примерами] [advmod далеко] ходить] [advmod не] надо: [conj Cl]]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root [obl [case В] логотипе [nmod [amod детских] товаров]] [advmod часто] нарисовано [nsubj животное].] [root [csubj [obl [case За] примерами] [advmod далеко] ходить] [advmod не] надо, [conj [det тот [advmod же]] [nsubj Nestle] использует [obj кролика [nmod Квики]]].]'
 comment: |
     'No comment yet'
 equivalents:

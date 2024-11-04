@@ -1,0 +1,47 @@
+---
+record: 4046
+name: 'NP-Dat  (глубоко) фиолетово на NP-Acc/Cl'
+UD_name: ''
+illustration: 'Им же глубоко фиолетово, на кого срываться.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ну а если серьёзно, то [мне]Experiencer фиолетово на [всё это.]Stimulus
+  - |
+       А [«Оллсофту»,]Experiencer по всей видимости, весьма фиолетово на [то, что у них в базе висят оплаченные, но не доставленные заказы.]Stimulus
+  - |
+       Самое обидное, что, походу, [их сыну]Experiencer фиолетово на [древние традиции нашей Родины.]Stimulus
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [iobj NP-Dat] фиолетово [obl [case на] NP-Acc]]'
+  - '[root [iobj NP-Dat] фиолетово [dep Cl]]'
+  - '[root [iobj NP-Dat] [advmod глубоко] фиолетово [obl [case на] NP-Acc]]'
+  - '[root [iobj NP-Dat] [advmod глубоко] фиолетово [csubj Cl]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Им] [advmod же] [advmod глубоко] фиолетово, [csubj [obl [case на] кого] срываться].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

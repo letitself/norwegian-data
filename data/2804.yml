@@ -1,0 +1,55 @@
+---
+record: 2804
+name: 'VP по всем правилам (NP-Gen)'
+UD_name: ''
+illustration: 'Если наводить порядок на кухне по всем правилам науки, то почти всю металлическую посуду нам, пожалуй, придётся списать'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Мы приехали помочь крестьянам и [приступили к делу]Action по всем правилам [борьбы с хищным зверем]Parameter.
+  - |
+       Вы просто придержите, если есть такая возможность, одно место на бюджете и [примите у него экзамен]Action по всем правилам, когда он к вам придёт.
+  - |
+       Даже если вы [составили резюме]Action по всем правилам и отправили его на электронную почту работодателя, а ответа нет, отчаиваться не стоит.
+  - |
+       Операция была [продумана]Property по всем правилам [военного искусства]Parameter.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       by rules
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

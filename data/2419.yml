@@ -1,0 +1,50 @@
+---
+record: 2419
+name: 'VP в зародыше'
+UD_name: ''
+illustration: 'Мы просто хотим пресечь все проблемы в зародыше.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Я бы [пресекла этот разговор]Action в зародыше.
+  - |
+       А ведь я [мог подавить скандал]Action в зародыше если бы с самого начала был с ней честен.
+  - |
+       Вероятно, ты права, что хочешь [победить проблему]Action в зародыше.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] зародыше]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] [advmod просто] хотим [xcomp пресечь [obj [det все] проблемы] [obl [case в] зародыше]].]'
+equivalents:
+  - english: |
+       in the bud
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+family:
+  - |
+    ""

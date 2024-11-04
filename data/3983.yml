@@ -1,0 +1,44 @@
+---
+record: 3983
+name: 'с полпинка VP'
+UD_name: ''
+illustration: 'Вот то ли повезло, то ли действительно с полпинка понял, как правильно делать.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       А раньше мы [собирались в Москву]Action с полпинка.
+  - |
+       Бандитов Петрович [вырубил]Action с полпинка; засунули их в «Мерседеc» и вывезли вот в этот самый лесок.
+  - |
+       Хорошая машина. За 6 лет эксплуатации у меня не было ни одной поломки, масло не ест, [заводится]Action с полпинка, работает ровно и тихо.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl [case с] полпинка] VP]'
+dependency_structure_of_illustration:
+  - '[root [discourse Вот] [cc то [fixed ли]] повезло, [conj [cc то [fixed ли]] [advmod действительно] [obl [case с] полпинка] понял, [advcl [mark как] [advmod правильно] делать]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

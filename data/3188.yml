@@ -1,0 +1,53 @@
+---
+record: 3188
+name: 'NP-Acc к делу не пришьёшь'
+UD_name: ''
+illustration: 'Общаясь с чиновниками, помните, что разговоры "к делу не пришьешь".'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       [Слова менеджера]Patient к делу не пришьёшь.
+  - |
+       [Устное согласие]Patient к делу не пришьёшь.
+  - |
+       [Такой разговор]Patient к делу не пришьёшь.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obj NP-Acc] [obl [case к] делу] [advmod не] пришьешь]'
+dependency_structure_of_illustration:
+  - '[root [advcl Общаясь [obl [case с] чиновниками]], помните, [ccomp [mark что] [obj разговоры] "[obl [case к] делу] [advmod не] пришьешь]".]'
+equivalents:
+  - english: |
+       irrelevant
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+        subtypes:
+          - type: Appropriateness
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

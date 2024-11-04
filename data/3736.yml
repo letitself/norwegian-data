@@ -1,0 +1,51 @@
+---
+record: 3736
+name: 'придавать (большое/особое) значение NP-Dat'
+UD_name: ''
+illustration: 'Укреплению двусторонних отношений с Японией Соединенные Штаты придают особое значение.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Стороны придают особое значение [обеспечению безопасности жителей Гальского района]Situation.
+  - |
+       Мы придаем большое значение [взаимодействию и в других сферах: и в сфере борьбы с преступностью, и в культурной сфере]Situation.
+  - |
+       То, что мы искали, имело такой глубокий смысл, что он придавал значение [не только смерти, но также умиранию и страданиям]Situation.
+  - |
+       Понимают, что сходить на горшок ― серьезное мероприятие, [которому]Situation родители придают большое значение.
+  - |
+       [Этому раскладу]Situation не стоит придавать большое значение в гадании.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Verb
+  - Object
+part_of_speech_of_anchor:
+  - Verb
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root придавать [obj [amod большое] значение] [iobj NP-Dat]]'
+  - '[root придавать [obj [amod особое] значение] [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [iobj Укреплению [nmod [amod двусторонних] отношений]] [obl [case с] Японией] [nsubj Соединенные [flat:name Штаты]] придают [obj [amod особое] значение].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

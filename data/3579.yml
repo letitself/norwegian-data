@@ -1,0 +1,55 @@
+---
+record: 3579
+name: '(NP-Gen/PronPers-Gen) так и подмывать VP-Inf'
+UD_name: ''
+illustration: 'Меня так и подмывало пригласить прокурора разделить со мной завтрак.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [Настю]Experiencer так и подмывало [спросить об этом]Action.
+  - |
+       [Васю]Experiencer так и подмывало [немедленно предпринять что-то]Action.
+  - |
+       Наутро за завтраком [Петю]Experiencer так и подмывало [рассказать всем о своей тайне]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Matrix and Infinitival Complement Construction
+syntactic_function_of_anchor:
+  - Matrix Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl NP-Gen] [advmod так] [advmod и] подмывать [xcomp VP-Inf]]'
+  - '[root [obl PronPers-Gen] [advmod так] [advmod и] подмывать [xcomp VP-Inf]]'
+dependency_structure_of_illustration:
+  - '[root [obl Меня] [advmod так] [advmod и] подмывало [xcomp пригласить [obj прокурора] [xcomp разделить [obl [case со] мной] [obj завтрак]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is so tempted to Y
+common_fillers:
+  - сказать
+  - ответить
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Volition
+family:
+  - |
+    ""

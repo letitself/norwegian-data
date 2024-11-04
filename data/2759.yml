@@ -1,0 +1,55 @@
+---
+record: 2759
+name: 'ни под каким видом/соусом не VP'
+UD_name: ''
+illustration: 'Он требовал одного: чтобы я не встречался с тобой ни под каким видом'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Отец был человеком властным ― и начальница ни под каким видом [не могла им управлять]Activity.
+  - |
+       У Саши есть приятель, но отец ни под каким видом [не позволяет ей выходить за него замуж]Action.
+  - |
+       Если же вы продолжаете действовать в том же духе, он этого не [потерпит]State ни под каким видом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Double Negation
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [advmod ни] [case под] [det каким] видом] [advmod не] VP]'
+  - '[root [obl [advmod ни] [case под] [det каким] соусом] [advmod не] VP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] требовал [obj одного]: [parataxis [mark чтобы] [nsubj я] [advmod не] встречался [obl [case с] тобой] [obl [advmod ни] [case под] [det каким] видом]]]'
+equivalents:
+  - english: |
+       not under any circumstances
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Absence
+family:
+  - |
+    ""

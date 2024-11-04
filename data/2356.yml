@@ -37,10 +37,12 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root Cl, [conj [case а] [advmod вдруг] VP-Fut]]'
-  - '[root Cl, [parataxis [advmod вдруг] VP-Fut]]'
+  - '[root [advmod вдруг] VP-Fut]'
+  - '[root [cc а] [advmod вдруг] VP-Fut]'
+  - '[root Cl, [ccomp [advmod вдруг] VP-Fut]]'
+  - '[root Cl, [conj [cc а] [advmod вдруг] VP-Fut]]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root Можно [csubj попробовать], [ccomp [advmod вдруг] получится].]'
 comment: |
     'Не путать с конструкцией 2150.'
 equivalents:

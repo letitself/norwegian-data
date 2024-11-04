@@ -1,11 +1,19 @@
 ---
 record: 1768
-name: 'я/мы не хотеть-Pst и не хотеть-Prs'
+name: 'NP-Nom не хотеть-Pst и не хотеть-Prs VP-Inf'
 UD_name: 'я/мы не хотеть-Past и не хотеть-Pres'
 illustration: 'Мы никого не хотели и не хотим обидеть.'
 cefr_level: A2
 definitions:
 examples:
+  - |
+       [Я]Cognizer не хотел и не хочу [портить с ним отношения.]Action
+  - |
+       Сам [я]Cognizer не хотел и не хочу [верить,]State а она уезжает сегодня, оставляет меня!
+  - |
+       [Я]Cognizer никак не хотел и не хочу [обидеть вас лично.]Action
+  - |
+       [Он]Cognizer никому не хотел и не хочет [жаловаться.]Action
 morphology:
   - Pst
   - Prs

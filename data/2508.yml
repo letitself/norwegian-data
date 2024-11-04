@@ -1,0 +1,53 @@
+---
+record: 2508
+name: 'VP/NP-Nom Cop высокого мнения о NP-Loc'
+UD_name: ''
+illustration: 'Она слишком высокого мнения о том романе, который я написал'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Как и московская публика, [я]Participant очень высокого мнения о нем.
+  - |
+       Владимир о себе достаточно высокого мнения.
+  - |
+       Алкоголь помогает быть о себе высокого мнения ― вот и нам казалось, что речи наши интересно постороннему человеку послушать.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Aplicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod высокого] мнения [nmod [case о] NP-Loc]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [amod высокого] мнения [nmod [case о] NP-Loc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] [advmod слишком] [amod высокого] мнения [nmod [case о] [det том] романе, [acl [obj который] [nsubj я] написал]].]'
+equivalents:
+  - english: |
+       X is of highest opinion
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

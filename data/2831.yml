@@ -1,0 +1,51 @@
+---
+record: 2831
+name: 'по правде (говоря/сказать), Cl'
+UD_name: ''
+illustration: 'По правде говоря, я человек очень азартный'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Некоторым все равно, когда приходить. Но мне, по правде, [не все равно]Situation. По ночам стало тяжеловато.
+  - |
+       Опыт общения с ним, сказать по правде, [не был удачным]Situation.
+  - |
+       По правде говоря, [я ничего не понимаю в живописи]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause or XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Converb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       In truth
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Objectivity
+family:
+  - |
+    ""

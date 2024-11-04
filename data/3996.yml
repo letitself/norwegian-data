@@ -1,0 +1,43 @@
+---
+record: 3996
+name: 'золотой N'
+UD_name: ''
+illustration: 'У него золотые руки.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Это просто золотой ребёнок.
+  - |
+       Они продемонстрировали золотой стандарт качества.
+  - |
+       У её мужа просто золотые руки.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [amod золотой] N]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] него] [amod золотые] руки.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

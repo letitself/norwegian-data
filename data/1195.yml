@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen uttrykker sammenligning og fremhever forskjellen mellom deltakere eller objekter med tanke på et gitt kjennetegn. Kjennetegnet kan karakterisere deltakeren eller objektet selv (eksempel 1-3) eller [handlingen de utfører]Action (eksempel 4 og 5). [Kjennetegnet]Parameter gjør seg gjeldende i større grad hos [det ene objektet eller deltakeren]Comparee enn hos [et stort antall andre ("многих") som sammen med vedkommende utgjør en homogen masse]Standard.
 examples:
   - |
-       [А. П. Зуева]Comparee была [откровеннее и простодушнее]Parameter многих.
-  - |
        Ювелир – [профессия]Comparee денежная, [лучше]Parameter многих.
   - |
        Армия ― тоже своеобразное [высшее образование]Comparee, причем [труднее]Parameter многих.
   - |
        Впрочем, [она-то]Comparee о них [узнала]Action [раньше]Parameter многих: ясное дело ― от меня.
   - |
-       Паша не мальчик. [Он]Comparee все [понимает]State [лучше]Parameter многих.
+       [Мария]Comparee была [откровеннее и простодушнее]Parameter многих.
+  - |
+       Паша уже не мальчик. [Он]Comparee все [понимает]State [лучше]Parameter многих.
 morphology:
   - Adj
   - Cmp

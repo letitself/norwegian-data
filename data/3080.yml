@@ -1,0 +1,50 @@
+---
+record: 3080
+name: '[root VP [obl [case с] NP-Gen]] + [root VP [obl [case с] NP-Gen2]]'
+UD_name: ''
+illustration: 'Он с маху отгадал, о чём я думаю.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Он [закрыл сессию]Action с лёту.
+  - |
+       Актёр с лёту [начал приметную карьеру в кино.]Action
+  - |
+       Её желания муж [угадывал]Action с лёту.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] NP-Gen]]'
+  - '[root VP [obl [case с] NP-Gen2]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] [obl [case с] маху] отгадал, [ccomp [obl [case о] чём] [nsubj я] думаю].]'
+equivalents:
+  - english: |
+       on the fly
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Manner
+  - type: Measure
+    subtypes:
+      - type: Speed
+family:
+  - |
+    ""

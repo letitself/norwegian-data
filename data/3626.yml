@@ -1,0 +1,57 @@
+---
+record: 3626
+name: '(NP-Nom) хлоп и XP'
+UD_name: ''
+illustration: 'А девчонка-то хлоп, и исчезла.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Конечно, [яйцо]Theme хлоп и [разбилось]Event.
+  - |
+       Четверо на земле умерли, а [этот]Theme прямо… шел-шел ― хлоп, и [готов]Event!
+  - |
+       Это помнишь, а потом хлоп… и [что там было]Event?
+  - |
+       Ты всегда можешь спрятаться.  Хоть в толпе, хоть в постели.  Хлоп ― и [нет тебя]Event.
+  - |
+       [Он]Participant хлоп, и [вдавит муху в стену]Event!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Interjection
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] хлоп [conj [cc и] XP]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj девчонка [discourse -то]] хлоп, [conj [cc и] исчезла].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - нет
+references:
+  - |
+    
+semantic_types:
+  - type: Actionality
+    subtypes:
+      - type: Punctual
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Surprise
+family:
+  - |
+    ""

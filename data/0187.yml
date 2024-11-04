@@ -6,6 +6,12 @@ illustration: 'На сто рублей можно купить хлеб и ко
 cefr_level: A2
 definitions:
 examples:
+  - |
+       А на [шесть]Quantity [рублей]Measure можно и хлеба купить, и колбасы, и даже шоколадку.
+  - |
+       На [11]Quantity [рублей]Measure ребенку дают чай и булочку или бутерброд.
+  - |
+       Мне нужно купить еды не более, чем на [пятьдесят]Quantity [долларов]Measure
 morphology:
   - VP
   - NumCrd

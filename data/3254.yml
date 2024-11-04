@@ -1,0 +1,51 @@
+---
+record: 3254
+name: 'NP-Nom не вылезать из NP-Gen'
+UD_name: ''
+illustration: 'Из мира книг я не вылезал.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       В начальной школе она не вылезала из троек по физкультуре.
+  - |
+       Маленький Коля всё лето не вылезал из отцовской библиотеки.
+  - |
+       Во время поездки в Гамбург он не вылезал из баров.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] вылезать [obl [case Из] NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case Из] мира [nmod книг]] [nsubj я] [advmod не] вылезал.]'
+equivalents:
+  - english: |
+       not get out
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Pluractionality
+    subtypes:
+      - type: Habitual
+family:
+  - |
+    ""

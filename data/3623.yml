@@ -1,0 +1,56 @@
+---
+record: 3623
+name: 'Так(,) значит, Cl?'
+UD_name: ''
+illustration: '― Так значит, это он… ― начал Сараев и осекся.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Так значит, [мы на верном пути]Situation?
+  - |
+       Так значит, [забота и ответственность – это и есть признаки настоящей любви]Situation?
+  - |
+       Так значит, [не менеджеры, а технические специалисты во всем виноваты]Situation?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [advmod Так] значит], Cl]'
+  - '[root [advmod Так], [discourse значит], Cl]'
+dependency_structure_of_illustration:
+  - '[root ― [parataxis [advmod Так] значит], [nsubj это] он… ― [parataxis начал [nsubj Сараев] [conj [cc и] осекся]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       So P?
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Insight
+family:
+  - |
+    ""

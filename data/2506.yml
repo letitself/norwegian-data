@@ -1,0 +1,50 @@
+---
+record: 2506
+name: 'VP вперед ногами'
+UD_name: ''
+illustration: 'А пациент остается либо инвалидом, либо его выносят вперед ногами'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Если вы сказали нам неправду,  то в следующий раз, когда мы сюда явимся, вас придется [выносить]Action отсюда вперед ногами.
+  - |
+       Отец приговаривает: Я буду работать, пока меня не [вынесут]Action вперед ногами.
+  - |
+       Из последней командировки он едва не [вернулся]Action вперед ногами.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Adverb
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod вперед [nmod ногами]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj пациент] остается [obl [cc либо] инвалидом], [conj [cc либо] [obj его] выносят [advmod вперед [nmod ногами]]].]'
+equivalents:
+  - english: |
+       feet first
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+  - type: Temporary characteristics
+    subtypes:
+      - type: Bodily position
+family:
+  - |
+    ""

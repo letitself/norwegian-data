@@ -6,6 +6,16 @@ illustration: 'Он числился на службе.'
 cefr_level: B1
 definitions:
 examples:
+  - |
+       [Васе]Participant шёл двадцать пятый год, а [он]Participant всё ещё числился [студентом]Status.
+  - |
+       [Мой муж]Participant, хоть и числится [директором]Status, [зарабатывает не так уж много]State.
+  - |
+       Она была замужем за глупым [человеком]Participant, который ничего не делал, но числился при [полку]Location и имел звание [офицера]Status.
+  - |
+       [Вася]Participant знал, что числится [хулиганом]Status, но его всегда интересовал вопрос, в авторитете ли он.
+  - |
+       В [полиции]Location [он]Participant давно [никем]Status не числился.
 morphology:
   - NP
   - Nom

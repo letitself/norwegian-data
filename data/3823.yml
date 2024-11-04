@@ -1,0 +1,48 @@
+---
+record: 3823
+name: 'NP-Nom (сам) в рот просится'
+UD_name: ''
+illustration: 'Пирог так вкусно пахнет, сам в рот просится.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       [Норвежская форель]Stimulus на прилавках выглядит привлекательнее ― очень яркая, прямо в рот просится.
+  - |
+       Ляжешь в траву, а [ягоды]Stimulus сами в рот просятся.
+  - |
+       Все чаще стал вспоминать про [хлеб]Stimulus, что пекли в той пекарне. Мягкий да пахучий, сам в рот просился.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - NP-Nom (сам) в рот просится
+dependency_structure_of_illustration:
+  - '[root [nsubj Пирог] [advmod так] [advmod вкусно] пахнет], [parataxis [nsubj сам] [obl [case в] рот] просится]].'
+equivalents:
+common_fillers:
+  - пирог
+  - еда
+  - ягоды
+  - грибы
+references:
+  - |
+    Баранов, Добровольский 2042
+semantic_types:
+family:
+  - |
+    ""

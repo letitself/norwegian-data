@@ -1,0 +1,59 @@
+---
+record: 3531
+name: 'плохо PronPers-Nom NP-Gen знает'
+UD_name: ''
+illustration: 'Решили меня обмануть! Думали, я клюну! Плохо они меня знают!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Плохо [ты]Experiencer [людей]Topic знаешь, не думай, что всюду тебе будут помогать.
+  - |
+       ― Она с тобой и разговаривать не захочет. ― Она не захочет? Со мной? Плохо [ты]Experiencer [ее]Topic знаешь.
+  - |
+       Решили меня обмануть! Думали, я клюну! Плохо [они]Experiencer [меня]Speaker знают!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Subject
+  - Verb predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Adverb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod Плохо] [nsubj PronPers-Nom] [obj NP-Gen] знает]'
+dependency_structure_of_illustration:
+  - '[root [advmod Плохо] [nsubj они] [obj меня] знают!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X doen't know Y at all
+common_fillers:
+  - он
+  - она
+  - ты
+  - я
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Attitude
+    subtypes:
+      - type: Dissatisfaction
+family:
+  - |
+    ""

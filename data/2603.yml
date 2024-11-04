@@ -1,0 +1,54 @@
+---
+record: 2603
+name: 'VP/NP Cop за полдень/полночь'
+UD_name: ''
+illustration: 'Время перевалило за полдень, а мы с тяжёлыми рюкзаками всё шли и шли, поднимаясь круто в скалы'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Домой Диего [возвращался]Activity далеко за полдень.
+  - |
+       [Местное время перелилось]Event за полдень, мой завтрак давно остыл и убран.
+  - |
+       Когда я открыл глаза, [было] уже далеко за полдень, наша упряжка стояла в незнакомом месте среди березовой рощи, на краю огромного оврага.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Construction
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case за] полдень]]'
+  - '[root VP [obl [case за] полночь]]'
+  - '[root [nsubj NP] [cop Cop] [case за] полдень]'
+  - '[root [nsubj NP] [cop Cop] [case за] полночь]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Время] перевалило [obl [case за] полдень], [conj [cc а] [nsubj мы [nmod [case с] [amod тяжёлыми] рюкзаками]] [advmod всё] шли [conj [cc и] шли], [advcl поднимаясь [advmod круто] [obl [case в] скалы]]]]'
+equivalents:
+  - english: |
+       after midday
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporal expression
+    subtypes:
+      - type: Temporal boundary
+family:
+  - |
+    ""

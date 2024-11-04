@@ -1,0 +1,51 @@
+---
+record: 3138
+name: 'VP все до один-Gen'
+UD_name: ''
+illustration: 'Книги были прочитаны все до одной.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Близлежащие домики [снесли]Situation все до одного.
+  - |
+       В те времена с леопардами сурово расправлялись, специальные отряды охотников сторожили столицу, хищных кошек уничтожали всюду и [уничтожили]Situation всех до одной.
+  - |
+       А мальчик долго еще сидел на лавке, а потом поднял голову, посмотрел на окна дома напротив, все до одного [светящиеся,]Situation и заплакал.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [advmod все] [case до] один-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Книги] [aux:pass были] прочитаны [obl [advmod все] [case до] одной].]'
+equivalents:
+  - english: |
+       every single one
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Quantification
+    subtypes:
+      - type: Universal
+family:
+  - |
+    ""

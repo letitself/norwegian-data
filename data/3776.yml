@@ -1,0 +1,48 @@
+---
+record: 3776
+name: 'NP-Nom Cop/VP по силам (NP-Dat/VP-Inf)'
+UD_name: ''
+illustration: 'В младшем и среднем школьном возрасте ребенку вполне по силам незначительные покупки и помощь по дому.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Анна уставала как собака, и [присутствие в доме детей]Theme было [ей]Agent не по силам и не по нервам.
+  - |
+       — Да, да, русская женщина — конь с яйцами, [ей]Agent [все]Theme по силам!
+  - |
+       По силам ли [тебе]Agent [строгая справедливость к другому]Theme?
+  - |
+       Минтруд заявил, что официально не готов продлить майские праздники с 1 по 10 мая, но [губернаторам регионов]Agent по силам [принять такое решение]Situation.
+  - |
+       Уверен, [достижение такой амбициозной цели]Theme [нам]Agent по силам: все возможности у региона для этого есть.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom][cop Cop][advmod вполне][case по] силам]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod младшем [conj [cc и] среднем]] [amod школьном] возрасте] [iobj ребенку] [advmod вполне] [case по] силам [nsubj [amod незначительные] покупки [conj [cc и] помощь [nmod [case по] дому]]]].'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

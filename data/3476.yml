@@ -1,0 +1,59 @@
+---
+record: 3476
+name: '(а) не то и (NP-Nom) VP-Fut'
+UD_name: ''
+illustration: 'А сейчас ― улыбнешься, вздохнешь. А не то и слеза набежит.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Петрова переведут на низкий оклад, а не то и [уволят с завода]Event.
+  - |
+       Не то и [праведники начнут злые дела творить]Situation.
+  - |
+       Голод не тетка ― могут и арбуз своровать, а не то и [на скотинку позарятся]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Coordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - conjuction
+  - Particle
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [obl [advmod не] то] [nsubj [advmod и] NP-Nom] VP-Fut]'
+  - '[root [obl [advmod не] то] [advmod и] VP-Fut]'
+  - '[root [cc а] [obl [advmod не] то] [nsubj [advmod и] NP-Nom] VP-Fut]'
+  - '[root [cc а] [obl [advmod не] то] [advmod и] VP-Fut]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [obl [advmod не] то] [nsubj [advmod и] слеза] набежит.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       otherwise X P/or even X P
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Additive
+  - type: Apprehension
+    subtypes:
+      - type: Apprehensive
+  - type: Concession
+    subtypes:
+      - type: Other
+family:
+  - |
+    ""

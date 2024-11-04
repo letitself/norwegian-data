@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren kommer med [en informasjon]ContentOfSpeech og spør om den stemmer med virkeligheten. Til forskjell fra konstruksjon 2282 CL, да? stiller konstruksjonen Cl, нет? vanligvis ikke et spørsmål om en vurdering, men om et faktum, en hendelse.
 examples:
+  - |
+       [Анна поехала в город]Situation, нет?
+  - |
+       [Вася тебя не обидел]Situation, нет?
+  - |
+       [Кипяток готов]Situation, нет?
+  - |
+       [Ты меня понял]Situation, нет?
+  - |
+       [Детям необходимо играть вместе для нормального развития]Situation, нет?
 morphology:
   - Cl
 syntactic_type_of_construction:

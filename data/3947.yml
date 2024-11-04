@@ -1,0 +1,48 @@
+---
+record: 3947
+name: 'небось XP'
+UD_name: ''
+illustration: 'Ты, небось, уже забыл меня.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Чего стоишь как истукан? [Заблудился]Situation, небось.
+  - |
+       От людей бегаешь? [Натворил]Situation, небось, [чего]Situation?!
+  - |
+       Небось [не понравилась моя песня]Situation?
+  - |
+       Предложить им десятую часть. Небось [их за меньшие деньги нанимают]Situation.
+  - |
+       [Устали]Situation небось [за сегодня]Situation?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [parataxis небось] XP]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ты], [parataxis небось], [advmod уже] забыл [obj меня].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

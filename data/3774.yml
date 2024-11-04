@@ -1,0 +1,51 @@
+---
+record: 3774
+name: 'VP по рукам (NP-Dat)'
+UD_name: ''
+illustration: 'И если у кого-то появится желание нарушить, то это здорово ударит по рукам», - уверена Памфилова.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Везде интеллектуалы были единодушны ― [цэрэушникам]Maleficiary надо [дать]Action по рукам, чтобы отбить вкус к тоталитарным замашкам.
+  - |
+       Девочка Хелля мне очень обрадовалась, и я потрогал её за подбородок и [получил]Action по рукам.
+  - |
+       Так вот, пока у нас будут [бить]Action по рукам [людям]Maleficiary которые что-то могут, ничего хорошего у нас не выйдет.
+  - |
+       Отобрал часть моей квартиры и рад бы и всю отобрать, да по рукам [дали]Action.
+  - |
+       [Мне]Maleficiary бы по рукам [надавать]Action. Осенью не выкопала свои канны, не до них было, а сейчас прям локти кусаю, жалко…
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Object
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root VP [obl [case по] рукам]]'
+dependency_structure_of_illustration:
+  - '[root [ccomp [advcl [mark [fixed И] если] [obl [case у] кого-то] появится [nsubj желание [xcomp нарушить]]], [mark то] [nsubj это] [advmod здорово] ударит [obl [case по] рукам]]», - уверена [nsubj Памфилова].'
+equivalents:
+common_fillers:
+  - дать
+  - получить
+  - бить
+  - ударить
+references:
+  - |
+    Баранов, Добровольский 2042
+semantic_types:
+family:
+  - |
+    ""

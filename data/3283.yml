@@ -1,0 +1,53 @@
+---
+record: 3283
+name: 'Cop обеими/двумя/всеми руками (и ногами) за NP-Acc'
+UD_name: ''
+illustration: 'Я всеми руками за поездку на море!'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Я всеми руками и ногами за [вечеринку!]Activity
+  - |
+       Ранее в своих выступлениях он подчеркивал, что двумя руками за [развитие авиации и космической отрасли на Дальнем Востоке.]Activity
+  - |
+       Мы обеими руками за [возрождение традиционных ценностей.]Activity
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [cop Cop] [obl [det всеми] руками] [case за] NP-Acc]'
+  - '[root [cop Cop] [obl [det всеми] руками [conj [cc и] ногами]] [case за] NP-Acc]'
+  - '[root [cop Cop] [obl [det обеими руками] [case за] NP-Acc]]'
+  - '[root [cop Cop] [obl [det обеими] руками [conj [cc и] ногами]] [case за] NP-Acc]'
+  - '[root [cop Cop] [obl [det двумя] руками] [case за] NP-Acc]'
+  - '[root [cop Cop] [obl [det двумя] руками [conj [cc и] ногами]] [case за] NP-Acc]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [obl [det всеми] руками] [case за] поездку [nmod [case на] море]!]'
+equivalents:
+  - english: |
+       NA
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+family:
+  - |
+    ""

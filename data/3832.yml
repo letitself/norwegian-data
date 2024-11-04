@@ -1,0 +1,55 @@
+---
+record: 3832
+name: 'NP-Nom (не) нюхать/нюхивать пороха/пороху'
+UD_name: ''
+illustration: 'Приезжает Пушкин, такой молоденький, такой зелененький, пороху отродясь не нюхивал.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       — Эх, [Перо]Experiencer, не клевал ты пшена-то проросшего военного, пороху не нюхал!
+  - |
+       Только тогда брали [фронтовика]Experiencer, кто уже понюхал пороху и проявил нужные качества.
+  - |
+       Несмотря на молодость, [командир]Experiencer уже успел понюхать пороху не на одной войне и был единственным боевым старлеем среди шакало-синюшного околовоенного сброда.
+  - |
+       А потому что и они — [потомки победителей]Experiencer, не нюхавшие пороху, расслабленные, горделиво-самоуверенные, и потому дарящие врагу от общего богатства Победы, не ими завоёванной.
+  - |
+       «Я щитаю», что прежде, чем запускать другие проекты, нужно сначала нюхнуть пороху на своих.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Negative Marker
+  - Noun
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod не] нюхать [obl пороха]]'
+  - '[root [nsubj NP-Nom] [advmod не] нюхивать [obj пороха]]'
+  - '[root [nsubj NP-Nom] [advmod не] нюхивать [obl пороху]]'
+  - '[root [nsubj NP-Nom] [advmod не] нюхать [obl пороху]]'
+dependency_structure_of_illustration:
+  - '[root Приезжает [nsubj Пушкин], [acl [det такой] молоденький, [conj [det такой] зелененький], [conj [obj пороху] [advmod отродясь] [advmod не] нюхивал]]].'
+equivalents:
+common_fillers:
+  - он
+  - командир
+  - парень
+  - ты
+references:
+  - |
+    Баранов, Добровольский 2029
+semantic_types:
+family:
+  - |
+    ""

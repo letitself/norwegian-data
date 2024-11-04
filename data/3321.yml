@@ -1,0 +1,50 @@
+---
+record: 3321
+name: 'VP по пьяни/пьянке'
+UD_name: ''
+illustration: 'Прости, я по пьяни наговорил ерунды.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Сам вчера, по пьяни, [хвалился,]Action что меткий снайпер.
+  - |
+       А когда он по пьяни [машину разбил, а гараж спалил,]Action я подала на развод.
+  - |
+       По пьянке он [забывал,]Action куда спрятал ключи.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] пьяни]]'
+  - '[root VP [obl [case по] пьянке]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Прости], [nsubj я] [obl [case по] пьяни] наговорил [obl ерунды].]'
+equivalents:
+  - english: |
+       in X’s innocence
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Cause
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

@@ -1,0 +1,58 @@
+---
+record: 3511
+name: 'Verb-Imp, ~Verb-Imp'
+UD_name: ''
+illustration: 'Сидите, сидите, не провожайте.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       ― [Постойте-постойте]Activity, ― оборвал Тягин.
+  - |
+       [Проходите]Activity, [проходите]Activity, Наталья Фёдоровна, здравствуйте, и вас с Новым годом!
+  - |
+       ― Хороши пироги. Матушка, можно ещё? ― [Кушайте-кушайте]Activity!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Reduplication
+part_of_speech_of_anchor:
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root Verb-Imp'
+  - '[conj ~Verb-Imp]]'
+dependency_structure_of_illustration:
+  - '[root Сидите, [conj сидите], [conj [advmod не] провожайте].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Causation
+    subtypes:
+      - type: Direct
+  - type: Prohibition
+    subtypes:
+      - type: Continuative prohibitive
+  - type: Routine
+    subtypes:
+      - type: Politeness marker
+family:
+  - |
+    ""

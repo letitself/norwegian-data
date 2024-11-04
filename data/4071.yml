@@ -1,0 +1,48 @@
+---
+record: 4071
+name: 'XP/«XP» в кавычках'
+UD_name: ''
+illustration: 'Вот и вся их работа, таких «защитников» в кавычках.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Писатели, вернее [«писатели»]Experiencer в кавычках, осталсиь недовольны докладом.
+  - |
+       А такая [«гуманная»]Property в кавычках система подготовки бойцов дзю-дзюцу, к сожалению, принята почти во всем мире.
+  - |
+       [«Спела»]Action в кавычках потому, что у меня был неплохой слух, но никакого голоса.
+  - |
+       Впрочем, [счастливой]Property Тоню можно назвать лишь в кавычках.
+  - |
+       А наши, в кавычках, [отношения]Theme как рыхлое печенье крошатся.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root «XP» [nmod [case в] кавычках]]'
+dependency_structure_of_illustration:
+  - '[root Вот [fixed и] [nsubj [det вся] [det их] работа], [dislocated [det таких] «защитников» [nmod [case в] кавычках]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

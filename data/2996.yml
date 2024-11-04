@@ -1,0 +1,57 @@
+---
+record: 2996
+name: 'VP-Impf-Fut (только) через мой труп'
+UD_name: ''
+illustration: 'Ты женишься на ней только через мой труп!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Ты не уйдешь, ― спокойно повторила Варвара, ― или [уйдешь]Action только через мой труп.
+  - |
+       Они [начнут свое чертово строительство]Action только через мой труп.
+  - |
+       Через мой труп вы [унесете хоть одну книжку Петра Осиповича]Action.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       over my dead body
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Prohibition
+    subtypes:
+      - type: Prohibitive
+  - type: Routine
+    subtypes:
+      - type: Swearing
+family:
+  - |
+    ""

@@ -1,0 +1,50 @@
+---
+record: 3838
+name: 'отдать на откуп (NP-Acc NP-Dat)'
+UD_name: ''
+illustration: 'Всё отдано на откуп правительству: как оно впоследствии решит, так и будет.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Речь идет об [автобусных перевозках]Patient, которые в Перми отданы на откуп [индивидуальным предпринимателям]Beneficiary.
+  - |
+       Однако практически [весь этот рынок]Patient отдан на откуп [иностранным производителям]Beneficiary, прежде всего Siemens и General Electric.
+  - |
+       Изменения произойдут лишь тогда, когда муниципалитет перестанет отдавать [транспорт]Patient на откуп [перевозчиков]Beneficiary и возьмёт на себя ответственность за его нормальное функционирование.
+  - |
+       [Определение порядка сбора]Patient было отдано на откуп [регионам]Beneficiary.
+  - |
+       Оставим [это]Patient на откуп [самим агентам]Beneficiary и их соглашениям со страховой.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root отдать [obl [case на] откуп]'
+  - '[root отдать [obl [case на] откуп] [obj NP-Acc] [iobj NP-Dat]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj:pass Всё] отдано [obl [case на] откуп] [iobj правительству]: [parataxis [advmod как] [nsubj оно] [advmod впоследствии] решит, [advcl [mark так [fixed и]] будет]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2035
+semantic_types:
+family:
+  - |
+    ""

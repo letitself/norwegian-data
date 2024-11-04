@@ -1,0 +1,55 @@
+---
+record: 3576
+name: 'NP-Nom Cop просто NP-Nom'
+UD_name: ''
+illustration: 'Ваши музыканты – просто молодцы, такие позитивные!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Девушки]Topic были просто [прелесть]Evaluation.
+  - |
+       [Андрей]Topic просто [негодяй]Evaluation. Как он мог так поступить с Викой?
+  - |
+       [Лера]Topic просто [лапочка]Evaluation, послушная, развитая девочка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Particle
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod просто] NP-Nom]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Ваши] музыканты] - [advmod просто] молодцы, [conj [det такие] позитивные]!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is a miracle
+common_fillers:
+  - ты
+  - она
+  - он
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

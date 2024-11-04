@@ -1,0 +1,52 @@
+---
+record: 2715
+name: 'NP-Nom Cop на подходе'
+UD_name: ''
+illustration: 'В Петербурге компания открыла 16 центров, на подходе еще четыре'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Судя по крокусам, [весна]Theme уже была где-то совсем близко, рядом, на подходе.
+  - |
+       Губернатор обещает, что на подходе еще [ряд инвестиционных проектов]Theme.
+  - |
+       На сегодняшний день с их помощью сделано уже 10 [научных открытий]Theme — на подходе еще несколько, ведь работы будут продолжаться.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] подходе]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] Петербурге] [nsubj компания] открыла [obj [nummod 16] центров], [conj [case на] подходе [nsubj [advmod еще] четыре]]]'
+equivalents:
+  - english: |
+       on the way
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

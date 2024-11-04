@@ -1,0 +1,50 @@
+---
+record: 3971
+name: 'страшный/страшенный Noun'
+UD_name: ''
+illustration: 'страшная усталость'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       У тебя в картире всегда страшный [беспорядок]State!
+  - |
+       Здесь страшная [жара]State, невозможно дышать!
+  - |
+       Вдруг страшная [боль]State сковала мне ноги.
+  - |
+       Страшная радость сменялась не менее страшной [печалью]State.
+  - |
+       Северная Дакота - это Америка. Но весна тут не американская. В марте страшенные [морозы до -35°]State.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [amod страшный] N]'
+  - '[root [amod страшенный] N]'
+dependency_structure_of_illustration:
+  - '[dep [amod страшная] усталость]'
+comment: |
+    'См. близкие конструкции 1489, 1490, 1491, 1494, 1495, 1496, 1497, 1498, 1499, 1500, 3967, 3968, 3969, 3970, 3972, 3973, 3974, 3975, 3976, 3977'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

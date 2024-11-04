@@ -1,0 +1,49 @@
+---
+record: 2583
+name: 'VP как ужаленный'
+UD_name: ''
+illustration: 'Петя подскачил как ужаленный.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Катя [поднялась]Action как ужаленная и быстро выскользнула из комнаты.
+  - |
+       Я мгновенно [проснулся]Action как ужаленный; негодование, омерзение закипели во мне.
+  - |
+       Павел [вскакивает]Action как ужаленный, хватает себя за голову, вопит: это ужасно!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] ужаленный]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Петя] подскачил [obl [mark как] ужаленный].]'
+equivalents:
+  - english: |
+       like crazy
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+family:
+  - |
+    ""

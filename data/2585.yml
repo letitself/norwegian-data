@@ -1,0 +1,50 @@
+---
+record: 2585
+name: 'VP естественным путем'
+UD_name: ''
+illustration: 'То есть с младенческих лет люди приобщались к хору, к пению, к музыке, и эти звуки входили в их сознание, в память естественным путём'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Уже через 24 - 30 часов компоненты таблетки будут полностью [выведены из организма]Action естественным путём.
+  - |
+       Как-то и судьбы наши с Андреем сблизились, и вкусы [сошлись]Action естественным путем.
+  - |
+       Виталий сказал, что процесс должен [идти]Action естественным путем.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Aplicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod естественным] путем]]'
+dependency_structure_of_illustration:
+  - '[root [cc То] [fixed есть] [nsubj люди] приобщались [obl [case с] [amod младенческих] лет] [obl [case к] хору, [conj [case к] пению], [conj [case к] музыке]], [conj [cc и] [nsubj [det эти] звуки] входили [obl [case в] [det их] сознание, [conj [case в] память [nmod [amod естественным] путём]]]]]'
+equivalents:
+  - english: |
+       the natural way
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Manner
+family:
+  - |
+    ""

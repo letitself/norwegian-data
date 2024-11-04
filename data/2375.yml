@@ -1,0 +1,53 @@
+---
+record: 2375
+name: 'VP без околичностей'
+UD_name: ''
+illustration: 'Вслух и без околичностей говорилось то, что очень многие думают и чувствуют.'
+cefr_level: С2
+definitions:
+examples:
+  - |
+       Давайте [говорить]Action без околичностей, но негромко, пожалуйста.
+  - |
+       Пришел за вашим товаром, ― без околичностей [сказал]Action посетитель.
+  - |
+       Поэт размышляет и [пишет о своей семье]Activity без околичностей.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] околичностей]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Вслух [conj [cc и] [case без] околичностей]] говорилось [nsubj то], [acl [mark что] [nsubj [advmod очень] многие] думают [conj [cc и] чувствуют]].]'
+equivalents:
+  - english: |
+       without beating about a bush
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental Attitude
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
+family:
+  - |
+    ""

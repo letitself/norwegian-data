@@ -1,0 +1,49 @@
+---
+record: 3235
+name: 'NP-Nom Cop на коне'
+UD_name: ''
+illustration: 'Карнаухов на коне: хет-трик нападающего помог ЦСКА победить «Спартак».'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Руководство осталось на коне и вне скандала.
+  - |
+       Если Уоррен Баффетт или Джордж Сорос еще на коне, то эпоха Гросса уходит в прошлое.
+  - |
+       Европа тоже на коне и тоже не в последнюю очередь благодаря политике.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] коне]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Карнаухов] [case на] коне: [parataxis [nsubj хет-трик [nmod нападающего]] помог [iobj ЦСКА] [xcomp победить [obj «Спартак»]]].]'
+equivalents:
+  - english: |
+       riding high
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+      - type: Importance
+family:
+  - |
+    ""

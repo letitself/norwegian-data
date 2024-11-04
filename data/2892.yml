@@ -1,0 +1,50 @@
+---
+record: 2892
+name: 'VP с поличным'
+UD_name: ''
+illustration: 'Родиона взяли с поличным во время получения денег за товар.'
+cefr_level: С1
+definitions:
+examples:
+  - |
+       Что ему делать, если его [возьмут]Action с поличным и посадят?
+  - |
+       Переживания вызвали в жене столько обиды и столько решимости бороться за свои супружеские права, что она решила [поймать изменщика]Action с поличным.
+  - |
+       Для этого их надо было [задержать]Action с поличным, скажем, при покупке картины.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] поличным]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       Red-handed
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Temporary characteristics
+    subtypes:
+      - type: Circumstances
+family:
+  - |
+    ""

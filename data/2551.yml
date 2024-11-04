@@ -1,0 +1,55 @@
+---
+record: 2551
+name: 'VP/NP из-под прилавка'
+UD_name: ''
+illustration: 'Она продала мне свежую пару из-под прилавка.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Катя на тебя жалобу писала, что [торгуешь]Activity из-под прилавка
+  - |
+       В магазинах ничего нет, а то, что есть, [дают]Activity из-под прилавка.
+  - |
+       Алиексей схитрил и продолжил из-под прилавка [продавать горячительные напитки]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case из-под] прилавка]]'
+  - '[dep NP [nmod [case из-под] прилавка]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Она] продала [iobj мне] [obj [amod свежую] пару [nmod [case из-под] прилавка]].]'
+equivalents:
+  - english: |
+       under the counter
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Matching the standard
+  - type: Spatial expression
+    subtypes:
+      - type: Path
+        subtypes:
+          - type: Source
+family:
+  - |
+    ""

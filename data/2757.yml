@@ -1,0 +1,62 @@
+---
+record: 2757
+name: 'VP/NP-Nom Cop ни к селу, (ни к городу)'
+UD_name: ''
+illustration: 'Штатные навигационные системы иномарок у нас ни к селу ни к городу: на их картах Россия ― почти сплошное белое пятно'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Чего ж мы будем сейчас лезть со своими мелкими духовными открытиями, когда [они]Theme ни к селу ни к городу?
+  - |
+       Опять ни к селу ни к городу [вспомнился анекдот]Situation.
+  - |
+       Ни к селу ни к городу [он повел речь о музыке]Situation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Constraction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Reduplication
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [advmod ни] [case к] селу]]'
+  - '[root VP [obl [advmod ни] [case к] селу, [conj [advmod ни] [case к] городу]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] [case к] селу]'
+  - '[root [nsubj NP-Nom] [cop Cop] [advmod ни] [case к] селу, [conj [advmod ни] [case к] городу]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [amod Штатные] [amod навигационные] системы [nmod иномарок]] [nmod [case у] нас] [advmod ни] [case к] селу [conj [advmod ни] [case к] городу]: [parataxis [obl [amod на] [det их] картах] [nsubj Россия] ― [advmod почти] [amod сплошное] [amod белое] пятно]]'
+equivalents:
+  - english: |
+       out of the blue
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Temporary characteristics
+    subtypes:
+      - type: Appropriateness
+family:
+  - |
+    ""

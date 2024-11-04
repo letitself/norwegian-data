@@ -6,6 +6,14 @@ illustration: 'У него как затряслись руки.'
 cefr_level: B2
 definitions:
 examples:
+  - |
+       [Женщина]Agent рассказала полицейским, что выпила водки, а потом как [рубанула мужа топором по голове]Action.
+  - |
+       После банки энергетика у Антона как [заболело]Action [сердце]Participant.
+  - |
+       [Я]Agent молоток взял и как [ударил её]Action!
+  - |
+       [Пламя костра]Participant как [вспыхнуло]Action, как [заиграло]Action.
 morphology:
   - NP
   - Nom

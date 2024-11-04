@@ -1,0 +1,53 @@
+---
+record: 2803
+name: 'VP по всей форме'
+UD_name: ''
+illustration: 'Вряд ли хватило времени, чтобы провести вскрытие тела по всей форме'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Его побрили, постригли и брызнули одеколоном, как он сам спросил, чтобы [выглядеть]State по всей форме.
+  - |
+       Я выпрямился и [отдал рапорт]Action по всей форме.
+  - |
+       Поскольку твоего слова мне недостаточно, я хочу, чтобы об этом [был заключен письменный договор]Action по всей форме.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       by protocol
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

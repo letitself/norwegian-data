@@ -1,0 +1,48 @@
+---
+record: 3329
+name: 'NP подвести черту под NP-Ins'
+UD_name: ''
+illustration: 'Президент подвел черту под тем, что происходило в 90-е и дал стране новую установку.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Наконец [он]Agent подвел черту под [своей политической карьерой в России,]Theme и переехал во Францию.
+  - |
+       Но Лёва и не думал ничего улаживать, ему нечего было улаживать, [он]Agent подвёл черту, закончил дело.
+  - |
+       В среду была подведена черта под [одной из самых масштабных в стране акций мошенничества.]Theme
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [dep NP] подвести [obj черту] [obl [case под] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Президент] подвел [obj черту] [obl [case под] тем, [acl [nsubj что] происходило [obl [case в] 90-е]]] [conj [cc и] дал [iobj стране] [obj [amod новую] установку]].]'
+equivalents:
+  - english: |
+       on X’s word of honour
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Phase of action
+    subtypes:
+      - type: Terminative
+family:
+  - |
+    ""

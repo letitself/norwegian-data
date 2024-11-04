@@ -1,0 +1,51 @@
+---
+record: 3207
+name: 'NumCrd NP-Gen круглым счётом'
+UD_name: ''
+illustration: 'Аренда квартиры выходит круглым счётом двадцать семь тысяч в месяц.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       А людей всего на земном шаре круглым счётом [семь]Quantity [миллиардов.]Measure
+  - |
+       До Нового года осталось круглым счётом [два]Quantity [месяца.]Measure
+  - |
+       Когда-то я писал по [семь]Quantity [стихотворений]Measure в день круглым счетом
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nmod [nummod:gov NumCrd] NP-Gen] [amod круглым] счетом]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Аренда [nmod квартиры]] выходит [obl [amod круглым] счётом [nmod [nummod:gov [compound двадцать] семь] тысяч [nmod [case в] месяц]]].]'
+equivalents:
+  - english: |
+       for round numbers
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of accuracy
+    subtypes:
+      - type: Approximate
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

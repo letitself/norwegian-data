@@ -1,0 +1,54 @@
+---
+record: 2865
+name: 'VP/NP-Nom Cop под каблуком/башмаком (NP-Gen/ у NP-Gen)'
+UD_name: ''
+illustration: 'Яков Миронович был полностью под каблуком у своей супруги и нормально не мог бы распоряжаться такой суммой'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Антон удрученно покачал головой: значит, рыжий Рома все еще [находится]State под каблуком у [Геннадия]Participant.
+  - |
+       Боюсь, что ты со своим характером будешь у [жены]Participant под каблуком.
+  - |
+       Чрезвычайно властная по характеру и даже заносчивая, она, несомненно, [держала]State супруга под каблуком.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       under X’s thumb
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Temporary characteristics
+    subtypes:
+      - type: Control
+family:
+  - |
+    ""

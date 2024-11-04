@@ -1,0 +1,47 @@
+---
+record: 3032
+name: 'VP/NP на стороне'
+UD_name: ''
+illustration: 'Наш акционер решил, что можно зарабатывать на стороне.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Если долго не платят, то приходится [искать источник финасирования]Action на стороне
+  - |
+       Своих работников ростить всё-таки дешевле обойдётся, чем [покупать]Action на стороне.
+  - |
+       Никогда ничего не слышали о [романах]Theme на стороне.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Domain
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3174
+name: 'Если закрыть глаза на NP-Acc, (то) Cl'
+UD_name: ''
+illustration: 'Если закрыть глаза на пару моментов в отдельных играх, мне понравились все.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Если закрыть глаза на [проблему]Stimulus сейчас, [мы можем в будущем получить вот это.]Situation
+  - |
+       Если закрыть глаза на [счет,]Stimulus то [«Краснодар» сыграл неплохо.]Situation
+  - |
+       Год был удачный, если закрыть глаза на [эпидемию]Stimulus — [феерический.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [advcl [mark если] закрыть [obj глаза] [obl [case на] NP-Acc]], Cl]'
+  - '[root [advcl [mark если] закрыть [obj глаза] [obl [case на] NP-Acc]], [mark то] Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] закрыть [obj глаза] [obl [case на] пару [nmod моментов [nmod [case в] [amod отдельных] играх]]]], [iobj мне] понравились [nsubj все].]'
+equivalents:
+  - english: |
+       turn the blind eye
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3849
+name: 'NP-Nom VP хвостом за NP-Ins'
+UD_name: ''
+illustration: 'Женя ходил хвостом за Кальчиком, чувствуя себя увереннее в его тени.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       И дел в прокуратуре почти нет, [прокурорские следователи]Agent ходят хвостом за [милицейскими]Counteragent и клянчат — «ну, дайте дельце порасследовать»...
+  - |
+       Ночью [они]Agent дежурили у подъезда его дома, спали в машине, а с утра ездили повсюду хвостом за [его «Москвичом»]Counteragent.
+  - |
+       Вон, [Даэрон]Agent за [тобой]Counteragent вторую сотню лет хвостом ходит.
+  - |
+       Но [кот]Agent не собирался уходить от своего спасителя, хвостом ходил везде за [Джеймсоном]Counteragent.
+  - |
+       Ничего не знала, хвостом ходила, в рот заглядывала, боялась молчать, боялась слово молвить ― такие глупости все, никаких автографов, Лиза, никаких фотографий на память, такие же, как ты, просто работали вдесятеро больше и добились того, что хотели, а тебе только предстоит.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] VP [obl хвостом] [obl [case за] NP-Ins]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Женя] ходил [xcomp хвостом] [obl [case за] Кальчиком], [advcl чувствуя [obj себя] [advmod увереннее] [obl [case в] [det его] тени]].]'
+equivalents:
+common_fillers:
+  - ходить
+  - ездить
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

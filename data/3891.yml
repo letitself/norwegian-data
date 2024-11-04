@@ -1,0 +1,53 @@
+---
+record: 3891
+name: 'кипа NP-Gen'
+UD_name: ''
+illustration: 'кипе документов'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Ты видишь, какая у меня кипа [бумаг]Set на столе?
+  - |
+       За несколько дней накопилась кипа [газет]Set, и все не дойдут руки почитать.
+  - |
+       Кипа [книг]Set в моей комнате не уменьшалась, и продать ее, казалось, не было никакой надежды.
+  - |
+       И потом ей пришла целая кипа [писем]Set с объяснениями в любви.
+  - |
+       Перед ним на столе лежала небольшая кипа [документов].
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[dep кипа [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root кипе [nmod документов]]'
+comment: |
+    'Употребляется преимущественно с бумагами. См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - Бумаг
+  - газет
+  - книг
+  - писем
+  - документов
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

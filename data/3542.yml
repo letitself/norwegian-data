@@ -1,0 +1,54 @@
+---
+record: 3542
+name: 'с учетом NP-Gen/ с учетом (того), что Cl'
+UD_name: ''
+illustration: 'На 3 этапе исследования с учетом полученных данных было создано две анкеты.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Рестораны всегда создавались с учетом [целевой аудитории]Condition.
+  - |
+       Музей строит работу с посетителями с учетом того, что [основные посетители музея - семейные группы]Condition.
+  - |
+       Все это можно использовать в нашем проекте с учетом [последних достижений разных наук]Condition.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [case с] учетом [nmod NP-Gen]]'
+  - '[dep [case с] учетом [nmod того, [acl [mark что] Cl]]]'
+  - '[dep [case с] учетом, [acl [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case На] [amod 3] этапе [nmod исследования]] [obl [case с] учетом [nmod [amod полученных] данных]] [aux:pass было] создано [nsubj:pass [nummod:gov две] анкеты].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       taking X into account
+common_fillers:
+  - этого
+references:
+  - |
+    
+semantic_types:
+  - type: Condition
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

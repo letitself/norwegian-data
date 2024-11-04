@@ -1,0 +1,62 @@
+---
+record: 3424
+name: 'после всего, что Cl'
+UD_name: ''
+illustration: 'Мы не можем ждать милости от природы после всего, что мы с ней сделали.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Мы не можем ждать милости от природы]Situation после всего, [что мы с ней сделали]Cause.
+  - |
+       После всего, [что случилось]Cause, [она совершенно точно поняла, какую роль сыграла в жизни своей младшей сестры]Situation.
+  - |
+       После всего, [что там с ним произошло]Cause, [у него возникло твердое ощущение, что теперь все должно пойти по-другому]Situation.
+  - |
+       Что, [они собирались взять его на работу]Situation?! После всего, [что он наговорил]Cause?
+  - |
+       Он думал, что после всего, [что случилось с ним за этот бесконечный день]Cause, [сон придет мгновенно]Situation, но он ошибался.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Multiword Conjunction
+part_of_speech_of_anchor:
+  - Preposition
+  - Pronoun
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: Colloquial
+dependency_structure:
+  - '[dep [case после] всего'
+  - '[acl:relcl [obj что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мы] [advmod не] можем [xcomp ждать [obl милости] [obl [case от] природы] [obl [case после] всего, [acl:relcl [obj что] [nsubj мы] [obl [case с] ней] сделали]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       after all
+common_fillers:
+  - было
+  - случилось
+  - произошло
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Mental attitude
+  - type: Taxis
+    subtypes:
+      - type: Preceding action
+family:
+  - |
+    ""

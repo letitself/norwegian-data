@@ -1,0 +1,50 @@
+---
+record: 2842
+name: 'VP/NP по росту'
+UD_name: ''
+illustration: 'Самый простой рейтинг каждый из нас получал еще в детстве, когда мы строились по росту и рассчитывались по порядку номеров'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Он где-то раздобыл оранжевый пиджак с [рукавами]Parameter не по росту и зеленую широкополую шляпу.
+  - |
+       О том, что лыжи надо [подбирать]Action по росту и весу, знают очень многие.
+  - |
+       Он плохо говорил, больше молчал, [одевался]Activity не по росту.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - ~
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       by height
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Measure
+    subtypes:
+      - type: Dimensions
+family:
+  - |
+    ""

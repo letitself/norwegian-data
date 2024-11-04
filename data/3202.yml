@@ -1,0 +1,54 @@
+---
+record: 3202
+name: 'у NP-Gen кишка Cop тонка (на NP-Acc/для NP-Gen)'
+UD_name: ''
+illustration: 'У сенатора кишка тонка для  участия в выборах.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Если хочешь что-то изменить, предложи что-нибудь взамен, а у меня пока на это кишка тонка.
+  - |
+       У оппонента кишка тонка для принятия решений.
+  - |
+       Признать себя аутсайдером в компании у него кишка тонка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case у] NP-Gen] [nsubj кишка] [cop Cop] тонка [obl [case для] NP-Gen]]'
+  - '[root [obl [case у] NP-Gen] [nsubj кишка] [cop Cop] тонка [obl [case на] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] сенатора] [nsubj кишка] тонка [obl [case для] участия [nmod [case в] выборах]].]'
+equivalents:
+  - english: |
+       X doesn't have the guts to do Y
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Capacity/Intellect
+  - type: Salient property
+    subtypes:
+      - type: Capacity for an activity
+family:
+  - |
+    ""

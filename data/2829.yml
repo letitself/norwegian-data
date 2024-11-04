@@ -1,0 +1,48 @@
+---
+record: 2829
+name: 'VP по памяти'
+UD_name: ''
+illustration: 'Вернувшись из Москвы в Казань, старый учитель восстановил по памяти ту беседу.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Цитирую]Action по памяти и поэтому не совсем точно.
+  - |
+       Сейчас, через много лет, мне трудно [воспроизвести]Action по памяти хотя бы один из его рассказов.
+  - |
+       Простите, я не успел распечатать вопросы, буду [задавать их]Action по памяти.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] памяти]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       by heart
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+  - type: Source of information
+family:
+  - |
+    ""

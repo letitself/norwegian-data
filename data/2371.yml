@@ -1,0 +1,51 @@
+---
+record: 2371
+name: 'VP/Adj Cop без меры'
+UD_name: ''
+illustration: 'Были времена, когда она числилась бросовой рыбой, черпали ее без меры и едва совсем не извели.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Мир вокруг жесток и безрадостен, а главный герой все равно [счастлив]State без меры.
+  - |
+       Мужчин Таня знала и [ненавидела]State без меры.
+  - |
+       Саша у нас [жалостливый]Property без меры, ― сказала Анна.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case без] меры]]'
+  - '[root Adj [cop Cop] [obl [case без] меры]]'
+dependency_structure_of_illustration:
+  - '[root Были [nsubj времена], [acl [mark когда] [nsubj она] числилась [xcomp [amod бросовой] рыбой], [conj черпали [obj ее] [obl [case без] меры]] [conj [cc и] [advmod [advmod едва] совсем] [advmod не] извели]].]'
+equivalents:
+  - english: |
+       without measure
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

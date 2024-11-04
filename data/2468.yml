@@ -1,0 +1,49 @@
+---
+record: 2468
+name: 'VP в Adj русло'
+UD_name: ''
+illustration: 'Жизнь епархии вошла в спокойное русло.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Этот костюм давал ему реальное ощущение того, что [жизнь вошла]Event наконец в [спокойное]Property русло.
+  - |
+       Через полгода, думаю, ты [войдешь]Event в [спокойное]Property русло.
+  - |
+       Когда [разговор перешел]Event в [спокойное]Property русло, я спросил Гришу: что он делает в Ленинграде?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] [amod Adj] русло]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Жизнь [nmod епархии]] вошла [obl [case в] [amod спокойное] русло].]'
+equivalents:
+  - english: |
+       in peaceful way
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Matching the norm
+family:
+  - |
+    ""

@@ -1,0 +1,65 @@
+---
+record: 3432
+name: 'туда NP-Dat и дорога'
+UD_name: ''
+illustration: 'Неэффективное производство обанкротится? Туда ему и дорога.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       И если теперь ты выбросишь письма в мусорное ведро — не беда, выбрасывай, туда [им]Participant и дорога.
+  - |
+       Николай дочитал письмо, невольно побледнел и на минуту словно бы закаменел. ― Туда [дураку]Participant и дорога! ― наконец прошептал он чуть слышно.
+  - |
+       Туда [этому блэк металу]Participant и дорога, не понимаю, что в нем мужественного.
+  - |
+       Погибну в борьбе ― туда [мне]Participant и дорога.
+  - |
+       Девушка крикнула ей в сердцах: "И езжай ― замерзнешь, заблудишься, туда [тебе]Participant и дорога!".
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - conjunction
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advmod Туда] [iobj NP-Dat] [advmod и] дорога]'
+dependency_structure_of_illustration:
+  - '[root [advmod Туда] [iobj ему] [advmod и] дорога.]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X got what he deserved/X isn't worth losing sleep over
+common_fillers:
+  - ему
+  - ей
+  - им
+  - тебе
+  - вам
+  - мне
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Acceptance
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

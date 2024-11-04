@@ -1,0 +1,52 @@
+---
+record: 2560
+name: 'VP когда как'
+UD_name: ''
+illustration: '― А Аркадий дома сейчас сидит или ходит где? ― Когда как. То дома целый день, а то нет его.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       А ты часто здесь [бываешь]Activity? ― Когда как. ― Догадываюсь, что не очень.
+  - |
+       Да и в Москве заработок был непостоянный: когда как [повезет]Event.
+  - |
+       Протесты, с лозунгами на улице, [теперь это можно]Result, но тоже когда как.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [advmod [advmod когда] как]]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [nsubj Аркадий] [advmod дома] [advmod сейчас] сидит [conj [cc или] ходит [advmod где]]?] [root ― [advmod Когда] как.] [root [mark То] дома [obl [amod целый] день], [conj [cc а] [mark то] нет [nsubj его]].]'
+equivalents:
+  - english: |
+       whenever
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Pluractionality
+    subtypes:
+      - type: Iterative
+family:
+  - |
+    ""

@@ -1,0 +1,51 @@
+---
+record: 3095
+name: 'NP-Nom броситься наутёк'
+UD_name: ''
+illustration: 'Мышь увидела кошку и бросилась наутёк.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Люди испугались полетевшего на них сверчка. Кто-то вскрикнул, [кто-то]Agent бросился наутёк.
+  - |
+       Два волка неожиданно выскочили из леса, и все [лошади]Agent и [ослы]Agent бросились наутек.
+  - |
+       [Старик]Agent подобрал валявшееся на мостовой колечко и бросился наутек.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] броситься [advmod наутек]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мышь] увидела [obj кошку] [conj [cc и] бросилась [advmod наутек]].]'
+equivalents:
+  - english: |
+       turn tail
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Measure
+    subtypes:
+      - type: Speed
+  - type: Phase of action
+    subtypes:
+      - type: Inchoative
+family:
+  - |
+    ""

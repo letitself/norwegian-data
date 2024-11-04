@@ -1,0 +1,49 @@
+---
+record: 2467
+name: 'VP в солдаты'
+UD_name: ''
+illustration: 'У мальчиков было большое преимущество перед девочками: их брали в солдаты.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Лена наша сегодня очень огорчена: жених её [пошёл]Action в солдаты.
+  - |
+       Девушка уверена, что этот [молодой человек разжалован]Event в солдаты за дуэль.
+  - |
+       Директор был в ярости и вынес суровый приговор: отчислить бунтаря из университета и [сдать]Event в солдаты.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Noun
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case в] солдаты]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case У] мальчиков] было [nsubj [amod большое] преимущество [nmod [case перед] девочками]]: [parataxis [obj их] брали [obl [case в] солдаты]].]'
+equivalents:
+  - english: |
+       recruit
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Domain
+family:
+  - |
+    ""

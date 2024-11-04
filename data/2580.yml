@@ -1,0 +1,53 @@
+---
+record: 2580
+name: 'NP-Nom Cop/VP как снег на голову'
+UD_name: ''
+illustration: 'Свекровь явилась как снег на голову и вместо того, чтобы сидеть тихо, как мышь, ― командует, устанавливает свои порядки на чужой территории.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Это было для меня]Event как снег на голову.
+  - |
+       У вас своих забот полон рот, а тут еще [дочка]Theme как снег на голову.
+  - |
+       Мне Сергей сказал, что к нему как снег на голову [свалился бывший партнер по бизнесу]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Noun
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] снег [nmod [case на] голову]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [mark как] снег [nmod [case на] голову]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Свекровь] явилась [obl [mark как] снег [nmod [case на] голову]] [conj [cc и] [obl [case вместо] того, [advcl [mark чтобы] сидеть [advmod тихо], [obl [mark как] мышь]]], ― командует], [conj устанавливает [obj [det свои] порядки] [obl [case на] [amod чужой] территории]].]'
+equivalents:
+  - english: |
+       out of the blue
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Mirative
+family:
+  - |
+    ""

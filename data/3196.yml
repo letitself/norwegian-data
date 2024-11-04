@@ -1,0 +1,52 @@
+---
+record: 3196
+name: 'как сейчас помню, Cl'
+UD_name: ''
+illustration: 'Как сейчас помню, в тот вечер я была одета в бархатный костюмчик и блузку.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Прекрасный был фильм,]Situation как сейчас помню.
+  - |
+       [Там такой обед был,]Situation как сейчас помню, котлета с картофельным пюре, два кусочка белого хлеба и кофе с молоком.
+  - |
+       На улице, как сейчас помню, [мороз такой уже крепкий по вечерам стоял.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis [mark как] [advmod сейчас] помню]'
+  - 'Cl]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [mark Как] [advmod сейчас] помню], [obl [case в] [det тот] вечер] [nsubj я] [aux:pass была] одета [obl [case в] [amod бархатный] костюмчик [conj [cc и] блузку]].]'
+equivalents:
+  - english: |
+       as if it was now
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Timeline
+    subtypes:
+      - type: Distant past
+family:
+  - |
+    ""

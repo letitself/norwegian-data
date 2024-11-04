@@ -1,0 +1,52 @@
+---
+record: 2710
+name: 'VP на поверку'
+UD_name: ''
+illustration: 'Так что многие исторические сведения о тех или иных сапфирах могут на поверку относиться к камням иных категорий'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       На поверку [получается]Action, что практика депортаций была исключительно затратной.
+  - |
+       Перспективы сланцевого газа на поверку [оказались не столь радужными]Result.
+  - |
+       Зинаида на поверку [вышла женщиной меркантильной]Evaluation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] поверку]]'
+dependency_structure_of_illustration:
+  - '[root [mark Так [fixed что]] [nsubj [amod многие] [amod исторические] сведения [nmod [case о] [det тех [conj [cc или] иных]] сапфирах]] могут [obl [case на] поверку] [xcomp относиться [obl [case к] камням [nmod [amod иных] категорий]]]]'
+equivalents:
+  - english: |
+       in fact
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to knowledge
+  - type: Concession
+    subtypes:
+      - type: Failed expectation
+family:
+  - |
+    ""

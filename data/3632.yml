@@ -1,0 +1,54 @@
+---
+record: 3632
+name: 'стало быть, Cl/XP'
+UD_name: ''
+illustration: 'Раз я дочитал книжку, то, стало быть, доволен ею.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Стало быть, [Миша приходит с работы в субботу в двенадцать часов дня и ложится спать]ContentOfSpeech.
+  - |
+       Стало быть, [больше 2 266 рублей за жилье пенсионер не будет платить]ContentOfSpeech.
+  - |
+       Олег, Вы начали печататься с 18 лет, стало быть, [присутствуете в литературе уже давно]ContentOfSpeech.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+  - XP with parentheticals
+syntactic_function_of_anchor:
+  - Parenthetical
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+  - Interrogative
+usage_label: ~
+dependency_structure:
+  - '[root [parataxis стало [xcomp быть]], Cl]'
+  - '[dep [parataxis стало [xcomp быть]], XP]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Раз] [nsubj я] дочитал [obj книжку]], [mark то], [parataxis стало [xcomp быть]], доволен [obl ею].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       it means that
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Discourse structure
+    subtypes:
+      - type: Summary
+family:
+  - |
+    ""

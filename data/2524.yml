@@ -1,0 +1,49 @@
+---
+record: 2524
+name: 'VP для/ради красного словца'
+UD_name: ''
+illustration: 'Точно ты врешь для красного словца.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Это не для красного словца, ― это горькая для всех нас правда.
+  - |
+       Вспомнилось, через что пришлось пройти, сколько недоброжелателей ради красного словца [готовы были меня уничтожить]Action.
+  - |
+       Не для красного словца [ругали наших глупых отцов]Activity, а вполне серьезно.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] [amod красного] словца]]'
+  - '[root VP [obl [case ради] [amod красного] словца]]'
+dependency_structure_of_illustration:
+  - '[root [advmod Точно] [nsubj ты] врешь [obl [case для] [amod красного] словца].]'
+equivalents:
+  - english: |
+       for the sale of eloquence
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Purpose
+family:
+  - |
+    ""

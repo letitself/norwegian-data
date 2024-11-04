@@ -1,0 +1,54 @@
+---
+record: 4007
+name: 'Cl/NP - (это) (уже) (совсем) другой вопрос'
+UD_name: ''
+illustration: 'Происхождение индоевропейцев — это уже совсем другой вопрос.'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       А уж [кто будет истинным главой Кабинета]Situation ― другой вопрос.
+  - |
+       [Петина судьба] - это уже другой вопрос.
+  - |
+       Другой вопрос ― [получится ли у нас войти с ними в контакт]Situation
+  - |
+       Мы новую систему разработали. Что [они все равно решили делать по старинке]Situation - это уже другой вопрос.
+  - |
+       А уже [как они учат]Situation ― это другой вопрос.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [csubj Cl/NP] - [expl это] [advmod уже] [advmod совсем] [amod другой] вопрос]'
+  - '[root [csubj Cl/NP] - [expl это] [advmod уже] [amod другой] вопрос]'
+  - '[root [csubj Cl/NP] - [advmod совсем] [amod другой] вопрос]'
+  - '[root [nsubj NP] - [expl это] [advmod уже] [advmod совсем] [amod другой] вопрос]'
+  - '[root [nsubj NP] - [expl это] [advmod уже] [amod другой] вопрос]'
+  - '[root [nsubj NP] - [advmod совсем] [amod другой] вопрос]'
+dependency_structure_of_illustration:
+  - '[root [csubj Происхождение [nmod индоевропейцев]] — [expl это] [advmod уже] [advmod совсем] [amod другой] вопрос.]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

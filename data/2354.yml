@@ -40,9 +40,9 @@ intonation:
   - Interrogative
 usage_label: Formal
 dependency_structure:
-  - ~
+  - '[root нельзя [advmod ли] [iobj PronPers-Dat] [cop Cop] [csubj VP-Inf]?]'
 dependency_structure_of_illustration:
-  - ~
+  - '[root Нельзя [advmod ли] [iobj мне] [csubj приехать [obl [case к] вам] [obl [case на] пару [nmod дней]]]?]'
 comment: |
     'Не путать с конструкцией 218.'
 equivalents:

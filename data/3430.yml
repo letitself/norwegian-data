@@ -1,0 +1,61 @@
+---
+record: 3430
+name: '(XP). Сам ты ~XP!'
+UD_name: ''
+illustration: '― Врёшь, это ты… ― Сам ты врёшь!'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       ― Скверную? ― вспыхнула я, ― скверную? Да сам ты… если хочешь знать… [скверный цыпленок]ContentOfSpeech…
+  - |
+       Конечно, ты осуждаешь старую, не очень умную женщину. — Сами вы [старая женщина]ContentOfSpeech!
+  - |
+       А правда: похоже на гуся? ― Сам вы [гусь]ContentOfSpeech.
+  - |
+       ― Так что же, душа вашего тела безголовая теперь ходит? ― Сами вы [безголовый]ContentOfSpeech.
+  - |
+       Среди сих слов самыми приличными были: сама ты [свинья беременная]ContentOfSpeech!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Discourse Particle
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [obl Сам] [nsubj ты] ~XP!]'
+  - '[dep XP [conj [obl Сам] [nsubj ты] ~XP!]]'
+dependency_structure_of_illustration:
+  - '[root [obl Сам] [nsubj ты] врёшь!]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       (right) back at you
+common_fillers:
+  - врёшь
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Comparison
+    subtypes:
+      - type: Equality
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Disagreement
+family:
+  - |
+    ""

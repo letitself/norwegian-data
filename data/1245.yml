@@ -13,15 +13,15 @@ definitions:
        Konstruksjonen anvendes når taleren høflig anmoder [en deltaker]Participant i situasjonen om ikke å utføre [en gitt handling]Action. Handlingen kan inntreffe i fremtiden eller har allerede inntruffet, og taleren vil ikke at den skal gjenta seg. Taleren mener det ikke finnes fornuftige grunner til å utføre denne handlingen. Talerens anmodning fremstår som et råd eller en anbefaling. Deltakeren som rådet er rettet til, er ofte ikke nevnt, og konstruksjonen brukes da som en upersonlig setning. Når deltakeren nevnes, kan det være i egenskap av en gruppe personer eller en enkeltperson, herunder talerens samtalepartner. Dessuten kan taleren henvende seg til seg selv.
 examples:
   - |
-       [Создавать малышу особые привилегии]Action также не следует ― постарайтесь не ограничивать его, а также свою свободу.
+       Однако [водителям]Participant не следует [расслабляться]Action из-за отсутствия полицейских на загородных шоссе. На дорогах используются радары и компьютерное наблюдение.
   - |
        Я прочитал твое письмо и отвечаю тебе, что пока ты учишься в школе, [тебе]Participant не следует [рассуждать о политике]Action.
   - |
-       Козерогам понадобится собрать в кулак всю свою волю для того, чтобы противостоять неприятностям, которые принесет с собой эта неделя. Но хотя удача от Козерогов отвернулась, [им]Participant не следует [опускать руки]Action.
+       Хотя удача от Козерогов отвернулась, [им]Participant не следует [опускать руки]Action.
   - |
-       Однако [водителям]Participant не следует [расслабляться]Action из-за отсутствия полицейских на загородных шоссе. На дорогах используются радары и компьютерное наблюдение.
+       Никогда не следует [смешивать призвание и работу]Action.
   - |
-       Мне много раз предлагали профессионально заняться горным туризмом, но я не соглашался. Никогда не следует [смешивать призвание и работу]Action.
+       [Создавать малышу особые привилегии]Action также не следует ― постарайтесь не ограничивать его, а также свою свободу.
 morphology:
   - NP
   - Dat

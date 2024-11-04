@@ -1,0 +1,56 @@
+---
+record: 3451
+name: 'кто/кем бы PronPers ни был, Cl'
+UD_name: ''
+illustration: 'Кто бы ты ни был, я отвечу тебе одно и то же.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Кто бы [ты]Participant ни был, [я отвечу тебе одно и то же]Action.
+  - |
+       Кто бы [он]Participant ни был ― милицейский генерал, крупный чиновник или министр, ― [я договорюсь с ним]Action.
+  - |
+       Я за тебя больше беспокоюсь, [ты все-таки мать моего ребенка]Situation, кто бы [ты]Participant ни была.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Biclausal Construction
+syntactic_function_of_anchor:
+  - Subject
+  - Verb predicate
+syntactic_structure_of_anchor:
+  - Subject
+  - Predicate
+part_of_speech_of_anchor:
+  - Pronoun
+  - Particle
+  - Negation marker
+  - Verb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [advcl кто [aux бы] [nsubj PronPers] [advmod ни] [cop был]], Cl]'
+  - '[root [advcl кем [aux бы] [nsubj PronPers] [advmod ни] [cop был]], Cl]'
+dependency_structure_of_illustration:
+  - '[root [advcl Кто [aux бы] [nsubj ты] [advmod ни] [cop был]], [nsubj я] отвечу [iobj тебе] [obj одно [conj [cc и] то [advmod же]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       no matter who he is/whoever it may be
+common_fillers:
+  - он
+  - она
+  - ты
+references:
+  - |
+    
+semantic_types:
+  - type: Condition
+family:
+  - |
+    ""

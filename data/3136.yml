@@ -1,0 +1,48 @@
+---
+record: 3136
+name: 'NP-Nom впасть в детство'
+UD_name: ''
+illustration: 'В новогоднюю ночь и взрослые могут впасть в детство и поверить в чудеса.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Иван,]Agent которому было поручено шефствовать над младшим отрядом, совсем впал в детство: играл с малышами во все игры, дурачился и смеялся без конца.
+  - |
+       Возможно, [дедушка]Agent просто пошутил. Или впал в детство, такое тоже бывает…
+  - |
+       Но зато с каким удовольствием [я]Agent снова впал в детство в 40 лет!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] впасть [obl [case в] детство]]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [amod новогоднюю] ночь] [nsubj [advmod и] взрослые] могут [xcomp впасть [obl [case в] детство] [conj [cc и] поверить [obl [case в] чудеса]]].]'
+equivalents:
+  - english: |
+       To be in a second childhood
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

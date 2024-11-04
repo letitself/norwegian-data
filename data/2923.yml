@@ -1,0 +1,53 @@
+---
+record: 2923
+name: 'VP своим ходом'
+UD_name: ''
+illustration: 'Бабка ушла домой своим ходом.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Жизнь [идет]Activity своим ходом, у него и девушка любимая есть и свадьба скоро.
+  - |
+       Остальные [отправились]Action своим ходом.
+  - |
+       Ирина всегда [добиралась]Action своим ходом ― на электричке и автобусе.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Pronoun
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [det своим] ходом]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       on X’s own
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms/expectations
+  - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

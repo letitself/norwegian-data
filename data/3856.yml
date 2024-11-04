@@ -1,0 +1,49 @@
+---
+record: 3856
+name: 'вагон NP-Gen'
+UD_name: ''
+illustration: 'До дедлайна ещё вагон времени, мы всё успеем.'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Экспедиция на Волгу вернулась с вагоном [образцов и докладов]Set.
+  - |
+       Торопиться некуда, впереди у нас вагон [времени]Set.
+  - |
+       Его новый фильм получил целый вагон [критики]Set.
+  - |
+       Эта женщина недоумевает, почему ты не привез ей из Германии вагон [барахла]Set
+  - |
+       Еды у них хватило бы и на вагон [дураков]Set.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Colloquial
+dependency_structure:
+  - '[dep вагон [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [obl [case До] дедлайна] [advmod ещё] вагон [nmod времени]], [nsubj мы] [obj всё] успеем.]'
+comment: |
+    'пока используется только в разговорных контекстах, особенно устойчиво выступает со словами "время" и "друзья"; См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - времени
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""

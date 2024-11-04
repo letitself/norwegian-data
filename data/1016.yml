@@ -11,15 +11,15 @@ definitions:
        Konstruksjonen betyr at taleren foreslår visse [handlinger]Action (som taleren selv, samtalepartneren eller en annen deltaker skal utføre) og ber om [samtalepartnerens]Participant samtykke og tillatelse til disse handlingene. Det er underforstått at handlingene er i samtalepartnerens interesse og at samtalepartnerens holdning til dem vil være positiv. I sjeldne tilfeller henvender taleren seg ikke til samtalepartneren, men til en annen deltaker (eksempel 2).
 examples:
   - |
-       А [снова встретимся, скажем, завтра,]Action если [вам]Participant будет угодно.
+       А [снова встретимся, например, завтра,]Action если [вам]Participant будет угодно.
   - |
        Защита может, если [ей]Participant угодно, [сейчас задавать вопросы]Action.
   - |
-       ― Так [я поясню]Situation, если [тебе]Participant угодно, что оружием проблемы не решаются, а только создаются
+       ― [Я поясню]Situation, если [тебе]Participant угодно, что оружием проблемы не решаются, а только создаются
   - |
-       ―  Если [вам]Participant будет угодно, ― произнес черный кардинал с кислой миной, ― [я могу зачитать официальную формулировку, определяющую отношение Департамента темных сил к этомувопросу]Situation.
+       ―  Если [вам]Participant будет угодно,[я могу зачитать официальную формулировку, определяющую отношение Департамента к этому вопросу]Situation.
   - |
-       И духи от Cartier имели оглушительный успех. Во-первых, потому, что они благородные. Во-вторых, потому, что они яркие. В-третьих, потому, что они талантливые. В-четвертых, потому, что они от Cartier и в них дух Cartier. Впрочем, если [вам]Participant угодно, [можете считать именно последнее обстоятельство самым главным]Action.
+       Впрочем, если [вам]Participant угодно, [можете считать именно последнее обстоятельство самым главным]Action.
 morphology:
   - NP
   - Dat

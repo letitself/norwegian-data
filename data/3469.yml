@@ -1,0 +1,64 @@
+---
+record: 3469
+name: 'пропасть-Imp/провалиться-Imp PronPers-Nom/NP-Nom пропадом'
+UD_name: ''
+illustration: 'Пропади она пропадом, эта ваша любовь, которая только разрушает личность и коверкает судьбу.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Пропади [они]Topic пропадом, [эти деньги]Topic! От них одни проблемы!
+  - |
+       Это ты мне надоела! Глупая кукла! Да провались [ты]Addressee пропадом!
+  - |
+       Не буду я ничего чистить! Пропади [она]Topic пропадом, [ваша картошка]Topic… Я все равно ее есть не буду!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Verb
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root пропасть-Imp [nsubj NP-Nom] [advmod пропадом]]'
+  - '[root провалиться-Imp [nsubj NP-Nom] [advmod пропадом]]'
+  - '[root пропасть-Imp [nsubj PronPers-Nom] [advmod пропадом]]'
+  - '[root провалиться-Imp [nsubj PronPers-Nom] [advmod пропадом]]'
+dependency_structure_of_illustration:
+  - '[root Пропади [nsubj она] [advmod пропадом], [conj [det эта] [det ваша] любовь, [acl:relcl [nsubj которая] [advmod только] разрушает [obj личность] [conj [cc и] коверкает [obj судьбу]]]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       to hell with X
+common_fillers:
+  - он
+  - всё
+  - она
+  - они
+  - оно
+references:
+  - |
+    
+semantic_types:
+  - type: Non-existence
+    subtypes:
+      - type: Absence
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Routine
+    subtypes:
+      - type: Curse
+family:
+  - |
+    ""

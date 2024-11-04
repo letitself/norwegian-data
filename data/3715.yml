@@ -1,0 +1,50 @@
+---
+record: 3715
+name: 'NP-Nop взять NP-Acc с потолка/NP-Nom Cop с потолка'
+UD_name: ''
+illustration: 'Он взял эту информацию с потолка.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       [Цифра]Patient не с потолка — подсчитали эксперты.
+  - |
+       Этим датам можно верить, если [их]Patient не взяли с потолка, задним числом.
+  - |
+       Нельзя сказать, что [идея]Patient взята совсем уж с потолка.
+  - |
+       [Ставки по кредитам]Patient у нас не с потолка, а установлены по рыночных принципам.
+  - |
+       [План мероприятия]Patient брался что называется с потолка.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] взять [obj NP-Acc] [obl [case с] потолка]]
+ [root [nsubj NP-Nom] [cop] Cop [case с] потолка]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Он] взял [obj [det эту] информацию] [obl [case с] потолка].]'
+equivalents:
+common_fillers:
+  - взять
+  - брать
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

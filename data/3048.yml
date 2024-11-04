@@ -1,0 +1,50 @@
+---
+record: 3048
+name: 'VP надлежащим образом'
+UD_name: ''
+illustration: 'Ваш контейнер не был закреплен надлежащим образом!'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Тут вопрос о встрече особого рода, которую нужно надлежащим образом [подготовить]Action.
+  - |
+       Мы считаем, что обязательства должны [исполняться]Activity надлежащим образом в соответствии с условиями договора.
+  - |
+       Любая работа должна надлежащим образом [оплачиваться]Activity.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [amod надлежащим] образом]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+family:
+  - |
+    ""

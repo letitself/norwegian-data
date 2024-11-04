@@ -10,6 +10,16 @@ definitions:
   - norwegian: |
        Konstruksjonen uttrykker et spørsmål taleren stiller til samtalepartneren. Taleren kommer med [en informasjon, et forslag eller en vurdering]ContentOfSpeech og spør om samtalepartneren er enig i dette. Taleren forventer at samtalepartneren vil bekrefte informasjonen og si seg enig med taleren.
 examples:
+  - |
+       [У нас же вечером подготовка к экзаменам]Situation, так ведь?
+  - |
+       [Ты получила письмо из школы]Situation, так?
+  - |
+       [У тебя были какие-то трудности]Situation, так ведь?
+  - |
+       [Вася ни в чем не виноват]Situation, так?
+  - |
+       [Вы меня презираете]Situation, так ведь?
 morphology:
   - Cl
 syntactic_type_of_construction:

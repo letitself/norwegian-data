@@ -1,0 +1,52 @@
+---
+record: 3888
+name: '(плюс) сто пятьсот / стопицот NP-Gen'
+UD_name: ''
+illustration: 'сто пятьсот проблем'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Они заказали себе сто пятьсот [рубашек]Measure.
+  - |
+       Я сто пятьсот [раз]Measure говорил ему, постройте железную дорогу от Кишинева до Бельц.
+  - |
+       Миллион-сто-пятьсот [табличек]Measure в разных форматах из разных баз и разных источников – страшный сон любого управленца.
+  - |
+       Сто-пятьсот [цифр]Measure числа пи на коленке
+  - |
+       Для кого сто пятьсот [километров]Measure не крюк
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Numeral
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep [case плюс] [nummod сто [nummod пятьсот]] NP-Gen]'
+  - '[dep [nummod стопицот] NP-Gen]'
+  - '[dep [nummod сто [nummod пятьсот]] NP-Gen]'
+  - '[dep [case плюс] [nummod стопицот] nmod NP-Gen]'
+dependency_structure_of_illustration:
+  - '[root [nummod сто [nummod пятьсот]] проблем]'
+comment: |
+    'См. др. количественные конструкции 3851- 3921'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

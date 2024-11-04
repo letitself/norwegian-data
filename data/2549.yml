@@ -1,0 +1,47 @@
+---
+record: 2549
+name: 'VP из-под палки'
+UD_name: ''
+illustration: 'Валентина делает домашнее задание из-под палки.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Валентин тоже [выполнял работу]Action словно из-под палки.
+  - |
+       Уроки сын [делает]Action из-под палки и без конца рвется на улицу.
+  - |
+       Это действительно мука ― [переводить стихи]Action из-под палки.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case из-под] палки]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Валентина] делает [obj [amod домашнее] задание] [obl [case из-под] палки].]'
+equivalents:
+  - english: |
+       under pressure
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

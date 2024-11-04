@@ -1,0 +1,53 @@
+---
+record: 3060
+name: 'c NP-Ins NP-Gen не оберёшься'
+UD_name: ''
+illustration: 'С ним проблем не оберёшься.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       [С творческими людьми]Causer [хлопот]Theme не оберёшься.
+  - |
+       [С ними]Causer [неприятностей]Theme не оберёшься.
+  - |
+       [С такой комиссией]Causer [скандала]Theme не оберёшься.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case с] NP-Ins] [obl NP-Gen] [advmod не] оберешься]'
+dependency_structure_of_illustration:
+  - '[root [obl [case С] ним] [obl проблем] [advmod не] оберёшься.]'
+equivalents:
+  - english: |
+       NA
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment specific to people
+        subtypes:
+          - type: Ethics/Behavior
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 3676
+name: 'по линии NP-Gen'
+UD_name: ''
+illustration: 'Все его предки по линии отца были шведами, но жили в Выборге.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       У него такая опасная наследственность по линии [дедушки]Source.
+  - |
+       Он часто не получал работы из-за плохих анкетных данных, ― и по линии [отца]Source, и по линии [матери]Source.
+  - |
+       Не видели деда и не общались с ним и его трое внуков по линии [первого брака]Source.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [case по] линии [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Все] [det его] предки [nmod [case по] линии [nmod отца]]] [cop были] шведами [conj [cc но] жили [obl [case в] Выборге]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       N/A
+common_fillers:
+  - дедушки
+  - бабушки
+  - матери
+  - отца
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

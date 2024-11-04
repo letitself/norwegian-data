@@ -1,0 +1,54 @@
+---
+record: 3634
+name: 'NP-Nom так VP, что Cl'
+UD_name: ''
+illustration: 'Батарея так гудела, что невозможно было спать.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       [Доктор]Agent так [спешит]Cause, что [забывает поздороваться]Result.
+  - |
+       [Коля]Agent так [кричал]Cause, что [прибежала мама Леши из 7-го класса]Result.
+  - |
+       Эту пальму бабушка вырастила из косточки, [она]Agent так [разрослась]Cause, что [уже не помещалась на подоконнике]Result.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Subordinator
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - conjunction
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [advmod так] VP'
+  - '[advcl [mark что] Cl]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Батарея] [advmod так] гудела, [advcl [mark что] невозможно [cop было] [csubj спать]].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is so loud that
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Consequence
+  - type: Degree of intensity
+    subtypes:
+      - type: Booster
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,53 @@
+---
+record: 2818
+name: 'VP по мелочи'
+UD_name: ''
+illustration: 'Я почти не ем дома, а по мелочи приготовить ― мне хватит'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Начальники не мешают персоналу [воровать]Activity по мелочи, лишь бы им не мешали воровать по-крупному.
+  - |
+       Сходили с Ольгой на базар, потолкались, кое-что [обменяли]Action по мелочи.
+  - |
+       До сих пор по мелочи [машину чиню]Action сам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case по] мелочи]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       a little bit
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Diminisher
+  - type: Manner
+  - type: Measure
+    subtypes:
+      - type: Unrestricted domain
+family:
+  - |
+    ""

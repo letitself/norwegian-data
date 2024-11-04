@@ -1,0 +1,53 @@
+---
+record: 2730
+name: 'VP на свежую голову'
+UD_name: ''
+illustration: 'Я выкрутил лист бумаги из машинки, перечитал текст и, внеся правку, отложил до утра в стол, чтобы назавтра перечитать еще раз на свежую голову'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Утром, на свежую голову, он [проверил вычисления]Action и убедился в правильности их.
+  - |
+       Но он ответил, что лучше [поговорить об этом завтра]Action, на свежую голову.
+  - |
+       После работы в театр ходить трудно ― спектакли лучше [воспринимаются]Action на свежую голову.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Adjective
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] [amod свежую] голову]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] выкрутил [obj лист [nmod бумаги]] [obl [case из] машинки], [conj перечитал [obj текст]] [conj [cc и], [advcl внеся [obj правку]], отложил [obl [case до] утра] [obl [case в] стол], [advcl [mark чтобы] [advmod назавтра] перечитать [obl [advmod еще] раз] [obl [case на] [amod свежую] голову]]]]'
+equivalents:
+  - english: |
+       when X's mind is fresh / with a clear head
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Polarity value
+    subtypes:
+      - type: Positive
+  - type: Temporary characteristics
+    subtypes:
+      - type: Physical state
+family:
+  - |
+    ""

@@ -1,0 +1,49 @@
+---
+record: 3101
+name: 'в PronPoss-Loc устах Cl/в устах NP-Gen Cl'
+UD_name: ''
+illustration: 'В твоих устах эти слова неприемлимы.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Не говорю уже о том, как [нелепо звучит этот "милиционер"]Situation в устах [Петькиного двойника ― анонимного рассказчика.]Possessor
+  - |
+       Провинция ― в устах [жителей столицы]Possessor [это слово нередко приобретает пренебрежительный, недоброжелательный оттенок.]Situation
+  - |
+       В [ее]Possessor устах [это была высшая похвала.]Situation
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [obl [case в] [det PronPoss-Loc] устах] Cl]'
+  - '[root [obl [case в] устах [nmod NP-Gen]] Cl]'
+dependency_structure_of_illustration:
+  - '[root [obl [case В] [det твоих] устах] [nsubj [det эти] слова] неприемлимы.]'
+equivalents:
+  - english: |
+       on Y’s lips
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Source of opinion
+    subtypes:
+      - type: Expressing opinion
+family:
+  - |
+    ""

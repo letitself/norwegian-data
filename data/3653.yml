@@ -1,0 +1,58 @@
+---
+record: 3653
+name: 'NP-Nom NP-Dat/тут/здесь Cop не чужой'
+UD_name: ''
+illustration: 'Настя нам не чужая, мне от нее скрывать нечего.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Ты]Participant [ему]Experiencer не чужой человек, родная бабушка.
+  - |
+       Теперь [я]Participant [им]Experiencer не чужой, теперь я один из них.
+  - |
+       [Вася]Participant [нам]Experiencer не чужой, он же мой брат.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adjective
+  - Adverb
+  - Pronoun
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] [iobj NP-Dat] [cop Cop] [advmod не] чужой]'
+  - '[root [nsubj NP-Nom] [advmod тут] [cop Cop] [advmod не] чужой]'
+  - '[root [nsubj NP-Nom] [advmod здесь] [cop Cop] [advmod не] чужой]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Настя] [iobj нам] [advmod не] чужая, [conj [iobj мне] [csubj [obl [case от] нее] скрывать] нечего].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X is not a stranger for us/here
+common_fillers:
+  - мне
+  - нам
+  - ты
+  - он
+references:
+  - |
+    
+semantic_types:
+  - type: Salient property
+    subtypes:
+      - type: Status
+family:
+  - |
+    ""

@@ -1,0 +1,52 @@
+---
+record: 3093
+name: 'NP-Nom бояться NP-Gen как/пуще огня'
+UD_name: ''
+illustration: 'Ученики боялись строгой учительницы как огня.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       Теперь [он]Experiencer [собак]Stimulus боится как огня.
+  - |
+       [Местные люди]Experiencer [собак]Stimulus боялись пуще огня, потому что в бродячих стаях часто случались эпидемии бешенства.
+  - |
+       Всем известно как относятся кошки к воде — [они]Experiencer [её]Stimulus боятся как огня!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] бояться [obl NP-Gen] [obl [case как] огня]]'
+  - '[root [nsubj NP-Nom] бояться [obl NP-Gen] [advmod пуще [obl огня]]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Ученики] боялись [obl [amod строгой] учительницы] [obl [case как] огня].]'
+equivalents:
+  - english: |
+       fear like plague
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Maximizer
+  - type: Temporary characteristics
+    subtypes:
+      - type: Emotional state
+family:
+  - |
+    ""

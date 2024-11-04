@@ -1,0 +1,49 @@
+---
+record: 3900
+name: 'тьма NP-Gen'
+UD_name: ''
+illustration: 'тьма вопросов'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Во всем остальном, что писал и говорил тогда в дни революции трибун большевизма, была тьма [лжи]Set.
+  - |
+       А мне не страшно, любопытно ― стою на носу баржи, [народу]Set набилось ― тьма тьмущая
+  - |
+       [Тьма]Set картинок, из которых меня особенно впечатлила Соколова-Скаля «Иосиф Виссарионович Сталин на фронте под Москвой в декабре 1941
+  - |
+       У нее у самой [этих вопросов]Set было ― тьма
+  - |
+       Не перестаю удивляться слепоте [наших академических институтов]Set, которых тьма тьмущая.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep тьма [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep тьма [nmod вопросов]]'
+comment: |
+    'См. др. количественные конструкции 3851- 3921'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

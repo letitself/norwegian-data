@@ -1,0 +1,51 @@
+---
+record: 3730
+name: 'NP-Nom на ~NP-Loc (сидит) и ~NP-Ins/~NP-Gen погоняет'
+UD_name: ''
+illustration: 'Весь город там такой: мошенник на мошеннике сидит и мошенником погоняет.'
+cefr_level: C1
+definitions:
+examples:
+  - |
+       Куда ни посмотришь – всюду [вор]Participant на [воре]Participant сидит и [вором]Participant погоняет.
+  - |
+       [Калека]Participant на [калеке]Participant сидит и [калеку]Participant погоняет!
+  - |
+       Ну и контора: [дурак]Participant на [дураке] сидит и [дураком]Participant погоняет.
+  - |
+       Прямо места живехонького на нем нет, [синяк]Theme на [синяке]Theme и [синяком]Theme погоняет.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Preposition
+  - Verb
+  - Conjunction
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom] [obl [case на] NP-Loc] сидит [conj [cc и] [obl NP-Ins] погоняет]]'
+  - '[root [nsubj NP-Nom] [obl [case на] NP-Loc] [conj [cc и] [obl NP-Ins] погоняет]]'
+  - '[root [nsubj NP-Nom] [obl [case на] NP-Loc] сидит [conj [cc и] [obl NP-Gen] погоняет]]'
+  - '[root [nsubj NP-Nom] [obl [case на] NP-Loc] [conj [cc и] [obl NP-Gen] погоняет]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj [det Весь] город] [advmod там] такой: [parataxis [nsubj мошенник] [obl [case на] мошеннике] сидит [conj [cc и] [obl мошенником] погоняет].]'
+equivalents:
+common_fillers:
+  - вор
+  - дурак
+references:
+  - |
+    Баранов, Добровольский 2010
+semantic_types:
+family:
+  - |
+    ""

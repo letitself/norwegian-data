@@ -49,7 +49,7 @@ intonation:
   - Not applicable
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] [cop Cop] похож [obl [case на] NP-Acc].]'
+  - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc].]'
   - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc] [obl[case по] NP-Dat].]'
   - '[root [nsubj NP-Nom] [cop Cop] похож [obl[case на] NP-Acc] [iobj NP-Ins].]'
 dependency_structure_of_illustration:

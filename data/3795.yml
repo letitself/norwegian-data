@@ -1,0 +1,49 @@
+---
+record: 3795
+name: 'NP-Nom и близко не лежать/NP-Gen и близко не лежало'
+UD_name: ''
+illustration: 'Никаких знаний здесь и близко не лежало.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Но эти ролики обычные, анимационные ― [Масяня]Theme там и близко не лежала.
+  - |
+       Никакой [самостоятельной творческой работы]Theme здесь и близко не лежало.
+  - |
+       Изготовители большими буквами обещали ЮМОР. Но [его]Theme там и близко не лежало.
+  - |
+       Ведь московские дороги — самые дорогие в мире, хотя по качеству к мировому уровню и близко не лежали.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Verb
+  - Conjuction
+  - Adverb
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: Colloquial
+dependency_structure:
+  - '[root [nsubj NP-Nom][cc и][advmod близко][advmod не] лежать]'
+  - '[root [obl NP-Gen][cc и][advmod близко][advmod не] лежало]'
+dependency_structure_of_illustration:
+  - '[root [obl [det Никаких] знаний][advmod здесь][cc и][advmod близко][advmod не] лежало]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2063
+semantic_types:
+family:
+  - |
+    ""

@@ -1,0 +1,62 @@
+---
+record: 3580
+name: 'так PronPers-Dat и надо'
+UD_name: ''
+illustration: 'А вообще так ему и надо, этому Павлову.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Так [ей]Maleficiary и надо. Чтобы не зазнавалась.
+  - |
+       Сами напросились, так [им]Maleficiary и надо!
+  - |
+       Ольга в очередной раз села в лужу, и так [ей]Maleficiary и надо.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Clause
+syntactic_function_of_anchor:
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adverb
+  - Conjunction
+  - Predicative
+semantic_roles:
+  - ~
+intonation:
+  - Exclamatory
+usage_label: ~
+dependency_structure:
+  - '[root [advmod так] [iobj PronPers-Dat] [advmod и] надо]'
+dependency_structure_of_illustration:
+  - '[root [cc А] [advmod вообще] [advmod так] [iobj ему] [advmod и] надо, [iobj [det этому] Павлову].]'
+comment: |
+    'No comment yet'
+equivalents:
+  - english: |
+       X serves Y right
+common_fillers:
+  - ему
+  - тебе
+  - им
+  - вам
+  - ей
+references:
+  - |
+    
+semantic_types:
+  - type: Attitude
+    subtypes:
+      - type: Emotional Attitude
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+  - type: Reaction to the previous discourse
+    subtypes:
+      - type: Agreement
+family:
+  - |
+    ""

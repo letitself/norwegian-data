@@ -1,0 +1,55 @@
+---
+record: 2785
+name: 'Cl/VP от силы NP/PP'
+UD_name: ''
+illustration: 'Не представившись, да и вообще произнеся от силы пару слов, она вручает мне брошюрку автошколы и договор'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Мы [виделись с ним]Event от силы [два-три раза]Quantity и ни разу не поговорили — так вышло.
+  - |
+       Иван сказал, что улов у них плохой ― килограммов 400. У нас [было]State от силы [350]Quantity.
+  - |
+       Дорога до соседнего города [заняла]Event от силы [полтора часа]quantity не самой быстрой езды на джипе Игоря.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case от] силы] [obj NP]]'
+  - '[root VP [obl [case от] силы] [obj PP]]'
+  - '[root Cl [obl [case от] силы] [obj NP]]'
+  - '[root Cl [obl [case от] силы] [obj PP]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [advmod Не] представившись, [conj [cc да] [advmod [advmod и] вообще] произнеся [obl [case от] силы] [obj пару [nmod слов]]]], [nsubj она] вручает [iobj мне] [obj брошюрку [nmod автошколы] [conj [cc и] договор]]]'
+equivalents:
+  - english: |
+       at most
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Approximator
+  - type: Epistemic modality (Degree of certainty)
+    subtypes:
+      - type: Low degree of certainty
+family:
+  - |
+    ""

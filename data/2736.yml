@@ -1,0 +1,52 @@
+---
+record: 2736
+name: 'не особо/особенно XP'
+UD_name: ''
+illustration: 'Правда, отец не особенно поощрял мои спортивные увлечения'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       Я бывший пьяница, от последствий чего упорно, но не особенно [успешно лечусь]Activity.
+  - |
+       Я не особенно [верю в такого рода статистику]Evaluation.
+  - |
+       Он ― если честно ― человек не особенно [хороший, лентяй, пьяница]Evaluation.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Negation
+part_of_speech_of_anchor:
+  - Negation Marker
+  - Adv
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep [advmod [advmod не] особо] XP]'
+  - '[dep [advmod [advmod не] особенно] XP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis Правда], [nsubj отец] [advmod [advmod не] особенно] поощрял [obj [det мои] [amod спортивные] увлечения]]'
+equivalents:
+  - english: |
+       not particularly
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Degree of intensity
+    subtypes:
+      - type: Minimizer
+        subtypes:
+          - type: Low
+family:
+  - |
+    ""

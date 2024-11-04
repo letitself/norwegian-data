@@ -1,0 +1,49 @@
+---
+record: 3916
+name: 'считанные NP-Pl'
+UD_name: ''
+illustration: 'Пожарные появились через считанные минуты после возгорания.'
+cefr_level: B1
+definitions:
+examples:
+  - |
+       До творческого вечера оставались считанные [дни]Measure, и Ася постаралась провести их с пользой.
+  - |
+       Разрешение получено, и в считанные [секунды]Measure мы уходим под воду.
+  - |
+       За считанные [недели и месяцы]Measure люди изменяются на глазах.
+  - |
+       А таких как она — вообще считанные [единицы]Measure.
+  - |
+       В 1909 году замысел вырос в газетный роман, через считанные [годы]Measure появилась первая, тогда еще немая и черно-белая экранизация.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Adjective
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[root [amod считанные] NP-Pl]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Пожарные] появились [obl [advmod через] [amod считанные] минуты [nmod [advmod после] возгорания]].]'
+comment: |
+    'См. др. количественные конструкции 3851- 3923'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

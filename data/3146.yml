@@ -1,0 +1,51 @@
+---
+record: 3146
+name: 'NP второго сорта'
+UD_name: ''
+illustration: 'Если они считают людей с особенностями людьми второго сорта, то они очень сильно ошибаются.'
+cefr_level: А2
+definitions:
+examples:
+  - |
+       Испокон веков и до наших дней в Индии женщина считается [существом]Set второго сорта.
+  - |
+       Для них мы [страна]Set второго сорта.
+  - |
+       Я считаю их [языками]Set второго сорта из-за того что они вышли из латыни.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[dep NP [nmod [amod второго] сорта]]'
+dependency_structure_of_illustration:
+  - '[root [advcl [mark Если] [nsubj они] считают [obj людей [nmod [case с] особенностями]] [obl людьми [nmod [amod второго] сорта]]], [mark то] [nsubj они] [advmod [advmod очень] сильно] ошибаются.]'
+equivalents:
+  - english: |
+       Second-class
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: General Assessment
+  - type: Polarity value
+    subtypes:
+      - type: Negative
+family:
+  - |
+    ""

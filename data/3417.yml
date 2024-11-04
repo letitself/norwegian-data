@@ -1,0 +1,62 @@
+---
+record: 3417
+name: 'VP на пороге NP-Gen/NP-Nom Cop на пороге (NP-Gen)'
+UD_name: ''
+illustration: 'Мир сейчас стоит на пороге новой революции – информационной.'
+cefr_level: А1
+definitions:
+examples:
+  - |
+       [Иван Сергеевич]Participant и на пороге [семидесятилетия]Event по-прежнему любит путешествовать.
+  - |
+       На пороге своего [шестидесятилетия]Event [артист]Participant собрал программу из лучших трюков, с которыми выступал в разные годы.
+  - |
+       [Детектив]Participant стоял на пороге [раскрытия жутких тайн]Event.
+  - |
+       [Общество]Participant оказалось на пороге [перемен]Event, [глубоких реформ]Event.
+  - |
+       Это бесспорный прогресс. [Она]Participant на пороге [выздоровления]Event.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+  - Copula Construction
+syntactic_function_of_anchor:
+  - Modifier
+  - Praedicative Expression
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case на] пороге [nmod NP-Gen]]]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] пороге]'
+  - '[root [nsubj NP-Nom] [cop Cop] [case на] пороге [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Мир] [advmod сейчас] стоит [obl [case на] пороге [nmod [amod новой] революции - [amod информационной]]].]'
+comment: |
+    'См. близкую конструкцию 527.'
+equivalents:
+  - english: |
+       on the threshold of
+common_fillers:
+  - NA
+references:
+  - |
+    
+semantic_types:
+  - type: Spatial expression
+    subtypes:
+      - type: Location
+  - type: Timeline
+    subtypes:
+      - type: Near future
+family:
+  - |
+    ""

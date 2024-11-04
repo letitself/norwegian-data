@@ -1,0 +1,48 @@
+---
+record: 3713
+name: 'NP-Nom болеть за NP-Acc'
+UD_name: ''
+illustration: 'Александр болеет за футбольный клуб «Томь».'
+cefr_level: A1
+definitions:
+examples:
+  - |
+       Смотрел [он]Experiencer кино, хоккей и футбол, болел за [«Торпедо»]Stimulus.
+  - |
+       [Мой папа]Experiencer очень любит биатлон, болеет обычно за [норвежцев]Stimulus.
+  - |
+       [Я]Experiencer по-своему болела за [каждого участника]Stimulus в нашей секции.
+  - |
+       Всегда болею за [Россию]Stimulus, если смотрю какие-то соревнования.
+  - |
+       Поздравляем победителей и ждём следующих результатов! Болеем за [наших]Stimulus!
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Predicate Argument Construction
+syntactic_function_of_anchor:
+  - Verb Predicate
+syntactic_structure_of_anchor:
+  - Argument Structure
+part_of_speech_of_anchor:
+  - Verb
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Declarative
+usage_label: ~
+dependency_structure:
+  - '[root [nsubj NP-Nom] болеть [obl [case за] NP-Acc]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Александр] болеет [obl [case за] [amod футбольный] клуб [flat:name «Томь»]].]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

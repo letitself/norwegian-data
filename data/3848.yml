@@ -1,0 +1,44 @@
+---
+record: 3848
+name: 'вслед за NP'
+UD_name: ''
+illustration: 'Вслед за Филлмором, мы называем такие лингвистические единицы конструкциями.'
+cefr_level: B2
+definitions:
+examples:
+  - |
+       Антокольский, вслед за [М. Цветаевой]Participant восклицал: «Бог поэзии — ритм!», Д. Самойлов углубился в рифмовник.
+  - |
+       Вслед за [Тертуллианом]Participant Лесков любил повторять, что «душа по природе христианка» (XI, 456).
+  - |
+       Вслед за [этим ученым]Participant, мы будем называть этот объект квантом.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Connection Construction
+syntactic_function_of_anchor:
+  - Government
+syntactic_structure_of_anchor:
+  - Multiword Preposition
+part_of_speech_of_anchor:
+  - Preposition
+  - Preposition
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: Obsolete
+dependency_structure:
+  - '[parataxis [case в [fixed след [fixed за]]] NP]'
+dependency_structure_of_illustration:
+  - '[root [parataxis [case В [fixed след [fixed за]]] Апресян], [nsubj мы] называем [obj их]]'
+equivalents:
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+family:
+  - |
+    ""

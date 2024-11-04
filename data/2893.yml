@@ -1,0 +1,47 @@
+---
+record: 2893
+name: 'VP с помпой'
+UD_name: ''
+illustration: 'Памятник был с помпой заложен в 1913 году в присутствии императора и его семьи.'
+cefr_level: В2
+definitions:
+examples:
+  - |
+       В свою первую министерскую должность Менжов [вступил]Event с помпой.
+  - |
+       Церемония [прошла]Event с помпой, были приглашены пресса и цвет московского общества.
+  - |
+       Не только радостные новости он любил [преподнести]Action с помпой, но и неприятные тоже.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Prepositional Phrase
+part_of_speech_of_anchor:
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case с] помпой]]'
+dependency_structure_of_illustration:
+  - ~
+equivalents:
+  - english: |
+       with fanfare
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Manner
+family:
+  - |
+    ""

@@ -1,0 +1,54 @@
+---
+record: 2574
+name: 'VP как по нотам'
+UD_name: ''
+illustration: 'Я же глубоко убежден, что все это было подстроено заранее и разыграно как по нотам.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       Я глубоко убежден, что все это было подстроено заранее и [разыграно]Action как по нотам.
+  - |
+       Импозантный Иосиф [вел диалог]Activity как по нотам.
+  - |
+       Как рассказали потом Борис и Миша, все [было]Action как по нотам.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Modifier
+syntactic_structure_of_anchor:
+  - Not Applicable
+part_of_speech_of_anchor:
+  - Conjunction
+  - Preposition
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [mark как] [case по] нотам]]'
+dependency_structure_of_illustration:
+  - '[root [nsubj Я] [advmod же] [advmod глубоко] убежден, [ccomp [mark что] [nsubj [det все] это] [aux было] подстроено [advmod заранее] [conj [cc и] разыграно [obl [mark как] [case по] нотам]]].]'
+equivalents:
+  - english: |
+       like a clockwork
+common_fillers:
+  - ~
+references:
+  - |
+    
+semantic_types:
+  - type: Assessment
+    subtypes:
+      - type: Assessment in relation to norms and expectations
+  - type: Comparison
+    subtypes:
+      - type: Similarity
+  - type: Manner
+family:
+  - |
+    ""

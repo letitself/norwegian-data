@@ -1,0 +1,49 @@
+---
+record: 3165
+name: 'VP для галочки'
+UD_name: ''
+illustration: 'Работаем не для галочки, а на совесть.'
+cefr_level: В1
+definitions:
+examples:
+  - |
+       [Это мероприятие]Event не для галочки, все объединились от чистого сердца для порядка в городе.
+  - |
+       А есть такие, которые [заказывают Деда Мороза]Activity для галочки, потому что так надо и все так делают.
+  - |
+       Интересно, а телефон у них «для галочки» [указан]Event или реально можно за помощью обратиться?
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - ~
+syntactic_function_of_anchor:
+  - ~
+syntactic_structure_of_anchor:
+  - ~
+part_of_speech_of_anchor:
+  - ~
+semantic_roles:
+  - ~
+intonation:
+  - ~
+usage_label: ~
+dependency_structure:
+  - '[root VP [obl [case для] галочки]]'
+dependency_structure_of_illustration:
+  - '[root Работаем [obl [advmod не] [case для] галочки, [conj [cc а] [obl [case на] совесть]]].]'
+equivalents:
+  - english: |
+       for the record
+common_fillers:
+  - ~
+references:
+  - |
+    Баранов, Добровольский 2007
+semantic_types:
+  - type: Purpose
+  - type: Temporary characteristics
+    subtypes:
+      - type: Importance
+family:
+  - |
+    ""

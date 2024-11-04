@@ -1,0 +1,53 @@
+---
+record: 3851
+name: 'гора/горы NP-Gen'
+UD_name: ''
+illustration: 'гора проблем'
+cefr_level: A2
+definitions:
+examples:
+  - |
+       Гора [подарков]Set лежала в центре большой комнаты.
+  - |
+       Гора [бумаг]Set в углу возвышалась чуть не до потолка.
+  - |
+       Вдруг на горизонте поднялась синяя бесшумная гора [воды]Set.
+  - |
+       Немцы вошли в город и открыли ворота тюрьмы — там лежала гора [трупов]Set.
+  - |
+       Несмотря на горы [трудностей]Set, было решено возродить свой симфонический оркестр.
+morphology:
+  - ~
+syntactic_type_of_construction:
+  - Head and Modifier Construction
+syntactic_function_of_anchor:
+  - Nominal Quantifier
+syntactic_structure_of_anchor:
+  - Nominal Pattern
+part_of_speech_of_anchor:
+  - Noun
+semantic_roles:
+  - ~
+intonation:
+  - Not applicable
+usage_label: ~
+dependency_structure:
+  - '[dep гора [nmod NP-Gen]]'
+dependency_structure_of_illustration:
+  - '[dep гора [nmod проблем]]'
+comment: |
+    'не сочетается с одушевлёнными именами; См. др. количественные конструкции 3851- 3916'
+equivalents:
+common_fillers:
+  - трупов
+  - книг
+  - мусора
+  - мяса
+  - снега
+references:
+  - |
+    Лингвистика конструкций. Ответственный редактор Е.В.Рахилина. М.: Азбуковник, 2010. 584 с.
+semantic_types:
+family:
+  - |
+    ""
