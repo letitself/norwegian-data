@@ -3,7 +3,7 @@ record: 3352
 name: 'VP с бору/бора по сосенке'
 UD_name: ''
 illustration: 'Автор насобирала "с бора по сосенке", единой картины мира не получилось.'
-cefr_level: С1
+cefr_level: C1
 definitions:
 examples:
   - |
@@ -41,10 +41,10 @@ references:
   - |
     Баранов, Добровольский 2007
 semantic_types:
-  - type: Actionality
+  - type: Measure
+  - type: Pluractionality
     subtypes:
       - type: Multiplicative
-  - type: Measure
 family:
   - |
     ""

@@ -3,7 +3,7 @@ record: 2984
 name: 'VP/NP-Gen Cop на копейку'
 UD_name: ''
 illustration: 'У него ума на копейку, но он что-то знает.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -48,7 +48,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
   - type: Polarity value
     subtypes:
       - type: Negative

@@ -3,7 +3,7 @@ record: 3432
 name: 'туда NP-Dat и дорога'
 UD_name: ''
 illustration: 'Неэффективное производство обанкротится? Туда ему и дорога.'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -26,7 +26,7 @@ syntactic_structure_of_anchor:
   - Not Applicable
 part_of_speech_of_anchor:
   - Adverb
-  - conjunction
+  - Conjunction
   - Noun
 semantic_roles:
   - ~

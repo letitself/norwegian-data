@@ -3,7 +3,7 @@ record: 3535
 name: 'Cl, разве нет?'
 UD_name: ''
 illustration: 'Обществознание сейчас проходят в школе, разве нет?'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Discourse Particle
 syntactic_structure_of_anchor:

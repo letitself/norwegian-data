@@ -3,7 +3,7 @@ record: 3657
 name: 'представляю себе, Cl!'
 UD_name: ''
 illustration: 'Представляю себе, что ты с ними сделал!'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

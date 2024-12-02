@@ -3,7 +3,7 @@ record: 2654
 name: 'VP/NP-Nom Cop на (NumCrd) голову выше'
 UD_name: ''
 illustration: 'По крайней мере с его словами, что в финале Мировой лиги "российская команда была на голову выше соперников", а поражения в группе ― "несчастные случаи", ― можно поспорить'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula construction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

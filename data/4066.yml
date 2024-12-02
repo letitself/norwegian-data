@@ -15,10 +15,7 @@ examples:
   - |
        [Будешь переезжать]Condition - не [будешь]Condition, а [а матери все равно грустно]Situation.
 morphology:
-  - не путать с 4067 ~XP(
-  - ) не ~XP/~XP-не-~XP Мне не важно
-  - понимаете вы
-  - не понимаете – делайте.
+  - ~
 syntactic_type_of_construction:
   - Biclausal Construction
 syntactic_function_of_anchor:
@@ -37,6 +34,8 @@ dependency_structure:
   - '[conj [cc а] Cl]]'
 dependency_structure_of_illustration:
   - '[root [parataxis [case В] общем], хочешь [conj [advmod не] хочешь, [conj [cc а] [xcomp помогать] надо].]'
+comment: |
+    'не путать с 4067 ~XP(,) не ~XP/~XP-не-~XP Мне не важно, понимаете вы, не понимаете – делайте.'
 equivalents:
 common_fillers:
   - ~

@@ -3,7 +3,7 @@ record: 3282
 name: 'ноль внимания (и фунт презрения) на NP-Acc'
 UD_name: ''
 illustration: 'Я ему говорю, а он ноль внимания.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -43,7 +43,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern vs. Concern
+      - type: Acceptance
+        subtypes:
+          - type: Concern
   - type: Polarity value
     subtypes:
       - type: Negative

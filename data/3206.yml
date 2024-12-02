@@ -3,7 +3,7 @@ record: 3206
 name: 'NP-Gen Cop кот наплакал'
 UD_name: ''
 illustration: 'Радости сейчас у нас – кот наплакал.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -44,7 +44,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
   - type: Measure
     subtypes:
       - type: Unrestricted domain

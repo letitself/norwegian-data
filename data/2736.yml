@@ -3,7 +3,7 @@ record: 2736
 name: 'не особо/особенно XP'
 UD_name: ''
 illustration: 'Правда, отец не особенно поощрял мои спортивные увлечения'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -46,7 +46,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
 family:
   - |
     ""

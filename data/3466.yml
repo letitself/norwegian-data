@@ -3,7 +3,7 @@ record: 3466
 name: 'Как же так (получилось/случилось/вышло), Cl?'
 UD_name: ''
 illustration: 'Как же так, терять свою жизнь ради детей.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -15,11 +15,11 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause or XP with Parenthetical
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
-  - Non Applicable
+  - Not Applicable
 part_of_speech_of_anchor:
   - Pronoun
   - Particle

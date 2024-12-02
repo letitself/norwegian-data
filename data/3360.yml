@@ -3,7 +3,7 @@ record: 3360
 name: 'VP с чувством, с толком, с расстановкой'
 UD_name: ''
 illustration: 'Поэтому стараюсь все делать максимально деликатно - с чувством, с толком, с расстановкой.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -44,8 +44,11 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: TBA
   - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Positive
 family:
   - |
     ""

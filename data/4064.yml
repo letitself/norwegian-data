@@ -26,12 +26,7 @@ part_of_speech_of_anchor:
   - Particle
   - Negation Marker
 semantic_roles:
-  - см. также 4063 VP-Inf/Adj-Nom-то (NP-Nom) не XP/Adj
-  - (а/но/да Cl) -- Написать-то написали
-  - да как письмо передать?; не путать с 4066 VP не VP
-  - а Cl -- В общем
-  - хочешь не хочешь
-  - а помогать надо.
+  - ~
 intonation:
   - Declarative
 usage_label: ~
@@ -43,6 +38,8 @@ dependency_structure:
   - '[root [amod Adj-Nom-то] [advmod не] Adj, [conj [cc да] Cl]]'
 dependency_structure_of_illustration:
   - '[root [xcomp Ударить-то] [nsubj он] [advmod не] ударил, [conj [cc но] [advmod очень [advmod сильно]] оскорбил].]'
+comment: |
+    'см. также 4063 VP-Inf/Adj-Nom-то (NP-Nom) не XP/Adj, (а/но/да Cl) -- Написать-то написали, да как письмо передать?; не путать с 4066 VP не VP, а Cl -- В общем, хочешь не хочешь, а помогать надо.'
 equivalents:
 common_fillers:
   - ~

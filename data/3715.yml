@@ -33,8 +33,7 @@ intonation:
   - Declarative
 usage_label: ~
 dependency_structure:
-  - '[root [nsubj NP-Nom] взять [obj NP-Acc] [obl [case с] потолка]]
- [root [nsubj NP-Nom] [cop] Cop [case с] потолка]'
+  - '[root [nsubj NP-Nom] взять [obj NP-Acc] [obl [case с] потолка]] [root [nsubj NP-Nom] [cop] Cop [case с] потолка]'
 dependency_structure_of_illustration:
   - '[root [nsubj Он] взял [obj [det эту] информацию] [obl [case с] потолка].]'
 equivalents:

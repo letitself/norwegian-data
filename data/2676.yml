@@ -3,7 +3,7 @@ record: 2676
 name: 'VP/NP-Nom Cop на короткой ноге с NP-Ins'
 UD_name: ''
 illustration: 'Люди часто стремятся быть на короткой ноге со своими кумирами'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

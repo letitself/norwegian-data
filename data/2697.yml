@@ -3,7 +3,7 @@ record: 2697
 name: 'VP/NP-Nom Cop на отшибе (NP-Gen)'
 UD_name: ''
 illustration: 'Я побрёл назад, к своему домику ― он стоял на отшибе, в глубине сада'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

@@ -3,7 +3,7 @@ record: 3142
 name: '(NP-Dat) что XP, что XP ― всё едино/одно'
 UD_name: ''
 illustration: 'Мне что ночь, что день ― все едино.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -45,7 +45,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern vs. Concern
+      - type: Acceptance
+        subtypes:
+          - type: Concern
   - type: Comparison
     subtypes:
       - type: Equality

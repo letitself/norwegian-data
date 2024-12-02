@@ -3,7 +3,7 @@ record: 3384
 name: 'NP-Nom Cop страшное/жуткое дело'
 UD_name: ''
 illustration: 'Ревность женщины – страшное дело!'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -42,6 +42,9 @@ references:
     Баранов, Добровольский 2007
 semantic_types:
   - type: Assessment
+    subtypes:
+      - type: TBA
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:

@@ -3,7 +3,7 @@ record: 3364
 name: 'NP-Nom Cop (самое) милое/святое дело'
 UD_name: ''
 illustration: 'Летом холодные супчики самое милое дело.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -44,10 +44,13 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
+      - type: TBA
   - type: Causation
     subtypes:
       - type: Indirect
+  - type: Polarity value
+    subtypes:
+      - type: Positive
 family:
   - |
     ""

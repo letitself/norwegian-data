@@ -3,7 +3,7 @@ record: 2634
 name: 'VP/NP-Nom Cop на автопилоте'
 UD_name: ''
 illustration: 'Лекцию, конечно, уже никто не слушал, включая преподавателя, явно вещавшего на автопилоте'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula construction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
 syntactic_structure_of_anchor:

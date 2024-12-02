@@ -1,9 +1,9 @@
 ---
 record: 3089
-name: 'богом забытый'
+name: 'богом забытый NP'
 UD_name: ''
 illustration: 'И что он только поехал в эту богом забытую деревню? Там делать нечего.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -42,8 +42,10 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Positive
-      - type: Negative
+      - type: TBA
+  - type: Polarity value
+    subtypes:
+      - type: Both Negative and Positive
   - type: Temporary characteristics
     subtypes:
       - type: Relevance

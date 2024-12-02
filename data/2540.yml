@@ -3,7 +3,7 @@ record: 2540
 name: 'NP-Nom Cop до обидного Adj'
 UD_name: ''
 illustration: 'Жизнь Геннадия тоже оказалась до обидного короткой.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -45,7 +45,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
   - type: Polarity value
     subtypes:
       - type: Negative

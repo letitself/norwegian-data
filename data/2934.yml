@@ -3,7 +3,7 @@ record: 2934
 name: 'VP со скрипом'
 UD_name: ''
 illustration: 'Затем отворилась со скрипом дверь, и меня пригласили к дежурному.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -45,7 +45,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
   - type: Manner
 family:
   - |

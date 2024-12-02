@@ -3,7 +3,7 @@ record: 2719
 name: 'VP/NP-Nom Cop на пороге NP-Gen'
 UD_name: ''
 illustration: 'На пороге своего шестидесятилетия Кио собрал программу из лучших трюков, с которыми выступал в разные годы'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

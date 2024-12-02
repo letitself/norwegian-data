@@ -2,8 +2,8 @@
 record: 2591
 name: 'VP за NumColl-Loc'
 UD_name: ''
-illustration: 'Конечно, она надеялась, что он заплатит за двоих, но следовало все же подготовиться, чтобы не попасть в неловкое положение'
-cefr_level: В1
+illustration: 'Конечно, она надеялась, что он заплатит за двоих, но следовало все же подготовиться, чтобы не попасть в неловкое положение.'
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -52,8 +52,6 @@ semantic_types:
   - type: Quantification
     subtypes:
       - type: Existential
-        subtypes:
-          - type: Value judgment quantifier
 family:
   - |
     ""

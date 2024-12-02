@@ -3,7 +3,7 @@ record: 2768
 name: 'VP-Pfv (хоть) одним глазком'
 UD_name: ''
 illustration: 'Я на них одним глазком взгляну ― мне сразу жить веселей становится'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -49,7 +49,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
 family:
   - |
     ""

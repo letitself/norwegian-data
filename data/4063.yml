@@ -27,9 +27,7 @@ syntactic_structure_of_anchor:
 part_of_speech_of_anchor:
   - Particle
 semantic_roles:
-  - см. также 4064 VP-Inf/Adj-Nom-то не (NP-Nom) не XP/Adj
-  - (а/но/да Cl) -- Ударить-то он не ударил
-  - но очень сильно оскорбил.
+  - ~
 intonation:
   - Declarative
 usage_label: Colloquial
@@ -43,7 +41,7 @@ dependency_structure:
 dependency_structure_of_illustration:
   - '[root [xcomp Написать-то] написали, [conj [cc да] [advmod как] [obj письмо] передать]?]'
 comment: |
-    'Не'
+    'см. также 4064 VP-Inf/Adj-Nom-то не (NP-Nom) не XP/Adj, (а/но/да Cl) -- Ударить-то он не ударил, но очень сильно оскорбил.'
 equivalents:
 common_fillers:
   - ~

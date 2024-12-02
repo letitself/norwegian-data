@@ -24,7 +24,8 @@ examples:
        [Он]Participant вырезал две половинки сумки со стрелами и [раскрасил фломастером индейскими узорами]Comparee, точь-в-точь как [в книжке]Standard.
 morphology:
   - NP
-  - PP. Adj
+  - PP
+  - Adj
   - Adv
   - VP
 syntactic_type_of_construction:

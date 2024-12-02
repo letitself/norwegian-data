@@ -92,6 +92,7 @@ def write_record(row, record):
             )
         )
 
+        # TODO: don't allow multi-line comments, makes yaml invalid
         entry = row["Comment"].strip()
         if entry != "":
             f.write("comment: |\n")

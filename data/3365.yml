@@ -3,7 +3,7 @@ record: 3365
 name: 'себе Cop дороже (VP-Fut.3.Sg)'
 UD_name: ''
 illustration: 'Связываться с такими людьми - себе дороже.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -45,6 +45,9 @@ semantic_types:
     subtypes:
       - type: Preventive
   - type: Assessment
+    subtypes:
+      - type: TBA
+  - type: Polarity value
     subtypes:
       - type: Negative
 family:

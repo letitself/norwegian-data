@@ -3,7 +3,7 @@ record: 3587
 name: 'ничто другое/большего/более/больше (уже) не VP'
 UD_name: ''
 illustration: 'Я ведь у вас ничего больше не прошу.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -56,7 +56,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
 family:
   - |
     ""

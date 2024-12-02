@@ -3,7 +3,7 @@ record: 2389
 name: 'бог знает PronInt'
 UD_name: ''
 illustration: 'Бог знает как он выживает.'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -24,7 +24,8 @@ syntactic_structure_of_anchor:
   - Subject
   - Predicate
 part_of_speech_of_anchor:
-  - т
+  - Noun
+  - Verb
 semantic_roles:
   - ~
 intonation:

@@ -3,7 +3,7 @@ record: 3397
 name: 'такой/до того/так/настолько XP, (что) хоть святых выноси'
 UD_name: ''
 illustration: 'Он может такую рожу скорчить, что хоть святых выноси.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -49,10 +49,13 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: TBA
   - type: Degree of intensity
     subtypes:
       - type: Booster
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
     ""

@@ -3,7 +3,7 @@ record: 2569
 name: 'NP-Nom Cop/VP как обухом по голове'
 UD_name: ''
 illustration: 'Когда зажёгся свет, меня как обухом по голове ударило'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -32,9 +32,7 @@ intonation:
 usage_label: ~
 dependency_structure:
   - NP-Nom Cop
-  - 'VP как обухом по голове
-
-[root VP [obl [mark как] обухом] [obl [case по] голове]]'
+  - 'VP как обухом по голове [root VP [obl [mark как] обухом] [obl [case по] голове]]'
 dependency_structure_of_illustration:
   - '[root [advcl [mark Когда] зажёгся [nsubj свет]], [obj меня] [obl [mark как] обухом] [obl [case по] голове] ударило]'
 equivalents:

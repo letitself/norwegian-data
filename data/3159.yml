@@ -3,7 +3,7 @@ record: 3159
 name: 'NP-Dat Cop грош цена'
 UD_name: ''
 illustration: 'Грош цена твоим обещаниям.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -44,7 +44,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
   - type: Temporary characteristics
     subtypes:
       - type: Importance

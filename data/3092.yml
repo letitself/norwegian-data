@@ -3,7 +3,7 @@ record: 3092
 name: 'NP-Nom болеть душой за NP-Acc'
 UD_name: ''
 illustration: 'Человек болеет душой за то, что ему дорого.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -42,7 +42,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern vs. Concern
+      - type: Acceptance
+        subtypes:
+          - type: Concern
   - type: Temporary characteristics
     subtypes:
       - type: Emotional state

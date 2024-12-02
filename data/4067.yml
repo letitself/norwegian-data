@@ -15,10 +15,7 @@ examples:
   - |
        — Может, молодые не хуже будут справляться, — предположил я. Василий Данилович пожал плечами: — [Хуже]Parameter не [хуже]Parameter — кто знает.
 morphology:
-  - не путать  с 4066 ~VP не ~VP
-  - а Cl -- В общем
-  - хочешь не хочешь
-  - а помогать надо.
+  - ~
 syntactic_type_of_construction:
   - Connection Construction
 syntactic_function_of_anchor:
@@ -37,6 +34,8 @@ dependency_structure:
   - '[root XP-[compound не-XP]]'
 dependency_structure_of_illustration:
   - '[root [iobj Мне] [advmod не] важно, [ccomp понимаете [nsubj вы], [conj [advmod не] понимаете]] – [parataxis делайте].]'
+comment: |
+    'не путать  с 4066 ~VP не ~VP, а Cl -- В общем, хочешь не хочешь, а помогать надо.'
 equivalents:
 common_fillers:
   - ~

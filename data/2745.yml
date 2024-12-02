@@ -3,7 +3,7 @@ record: 2745
 name: 'NP/VP-Inf Cop (не) под силу NP-Dat'
 UD_name: ''
 illustration: 'Массивную дверь ребёнок может закрыть, а открыть её ему бывает не под силу'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -15,7 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Praedicative Expression
 syntactic_structure_of_anchor:

@@ -3,7 +3,7 @@ record: 2709
 name: 'NP/NP-Nom Cop (NP) на побегушках (у NP-Gen)'
 UD_name: ''
 illustration: 'Снова начальник использует ее для всяких мелких заданий, как будто она девочка на побегушках'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

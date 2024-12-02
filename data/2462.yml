@@ -3,7 +3,7 @@ record: 2462
 name: 'в свою очередь, Cl'
 UD_name: ''
 illustration: 'Мы ездили по Европе и говорили там только на английском.   Окружающие, в свою очередь, понимали нас.'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

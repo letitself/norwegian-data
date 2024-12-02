@@ -3,7 +3,7 @@ record: 3402
 name: 'VP через пень(-)колоду'
 UD_name: ''
 illustration: 'Хотя, конечно, все получалось уже через пень-колоду.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -43,8 +43,11 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: TBA
   - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
     ""

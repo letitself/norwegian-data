@@ -3,7 +3,7 @@ record: 3368
 name: 'VP сикось-накось'
 UD_name: ''
 illustration: 'Пальто и куртки у всех были напялены сикось-накось.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -42,8 +42,11 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: TBA
   - type: Manner
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
     ""

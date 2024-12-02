@@ -3,7 +3,7 @@ record: 2739
 name: 'VP не по годам Adv / NP-Nom Cop не по годам Adj'
 UD_name: ''
 illustration: 'Все ее роли были интересные, она казалась не по годам умной'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

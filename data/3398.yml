@@ -3,7 +3,7 @@ record: 3398
 name: 'XP хуже некуда'
 UD_name: ''
 illustration: 'А вот с любовью дела пошли хуже некуда.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -42,10 +42,13 @@ references:
 semantic_types:
   - type: Assessment
     subtypes:
-      - type: Negative
+      - type: TBA
   - type: Degree of intensity
     subtypes:
       - type: Maximizer
+  - type: Polarity value
+    subtypes:
+      - type: Negative
 family:
   - |
     ""

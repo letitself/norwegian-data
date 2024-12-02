@@ -3,7 +3,7 @@ record: 2527
 name: 'для начала Cl'
 UD_name: ''
 illustration: 'Возьму салат для начала, потом закажу горячее.'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

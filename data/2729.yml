@@ -3,7 +3,7 @@ record: 2729
 name: 'VP/NP-Nom Cop на руку NP-Gen'
 UD_name: ''
 illustration: 'Не только обыватели, но и депутаты признают, что арест мэра на руку губернатору'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

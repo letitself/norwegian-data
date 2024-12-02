@@ -3,7 +3,7 @@ record: 3530
 name: 'кончилось дело тем, что Cl'
 UD_name: ''
 illustration: 'Она была способной ученицей, но довольно часто получала замечания. Кончилось дело тем, что она осталась на второй год.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

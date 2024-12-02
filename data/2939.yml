@@ -3,7 +3,7 @@ record: 2939
 name: 'VP спустя рукава'
 UD_name: ''
 illustration: 'Он относился к своим обязанностям спустя рукава, точно исполнял что-то постороннее и ненужное.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -48,7 +48,7 @@ semantic_types:
     subtypes:
       - type: Minimizer
         subtypes:
-          - type: Low
+          - type: Low degree
   - type: Manner
   - type: Polarity value
     subtypes:

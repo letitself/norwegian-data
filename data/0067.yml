@@ -59,7 +59,7 @@ dependency_structure:
   - '[root [advmod уже] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
   - '[root [obl [advmod уже] [nummod NumCrd-Acc] NP] [mark как] XP]'
   - '[root [advmod вот] [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl]]'
-  - '[root [advmod вот] [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
+  - '[root [advmod вот][nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'
   - '[root [obl [advmod вот] [nummod NumCrd-Acc] NP] [mark как] XP]'
   - '[root [nummod NumCrd-Nom] NP [cop Cop] [acl [mark как] Cl]]'
   - '[root [nummod NumCrd-Acc] NP [cop Cop] [acl [mark как] Cl]]'

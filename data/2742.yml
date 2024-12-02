@@ -3,7 +3,7 @@ record: 2742
 name: 'VP/NP-Nom Cop (не) по плечу NP-Dat'
 UD_name: ''
 illustration: 'Было общее мнение: парень засиделся, ему не по плечу этот пост, ему пора'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

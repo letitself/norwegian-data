@@ -3,7 +3,7 @@ record: 3426
 name: 'короче говоря, Cl'
 UD_name: ''
 illustration: 'Ты должен знать: где она живет, с кем живет, что любит и не любит. Короче говоря, ты должен знать о ней все.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -19,8 +19,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

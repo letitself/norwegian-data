@@ -3,7 +3,7 @@ record: 3561
 name: 'NP-Nom не хуже NP-Gen знать-Prs NP-Acc/,Cl'
 UD_name: ''
 illustration: 'Вы не хуже меня знаете, с чего это началось.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -17,12 +17,12 @@ morphology:
 syntactic_type_of_construction:
   - Clause
 syntactic_function_of_anchor:
-  - Modifer
+  - Modifier
   - Verb Predicate
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:
-  - Negation marker
+  - Negation Marker
   - Adverb
   - Verb
 semantic_roles:

@@ -3,7 +3,7 @@ record: 2636
 name: 'VP/NP-Nom Cop на вес золота'
 UD_name: ''
 illustration: 'В  этой формулировке каждое слово на вес золота, и если действия адвоката не соответствуют хотя бы одному из них, можно лишиться статуса'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula construction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

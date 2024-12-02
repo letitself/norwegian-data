@@ -3,7 +3,7 @@ record: 2707
 name: 'VP/NP-Nom Cop на перепутье/распутье'
 UD_name: ''
 illustration: 'В последние 7 лет страна несколько раз оказывалась на перепутье'
-cefr_level: С1
+cefr_level: C1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

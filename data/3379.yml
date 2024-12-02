@@ -3,7 +3,7 @@ record: 3379
 name: 'NP-Nom спать и видеть, как Cl'
 UD_name: ''
 illustration: 'Я уже сплю и вижу, как бы сделку провернуть ― и кончить на этом.'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -43,7 +43,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Willing vs. Unwilling
+      - type: Acceptance
+        subtypes:
+          - type: Willingness
   - type: Volition
 family:
   - |

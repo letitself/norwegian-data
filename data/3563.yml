@@ -3,7 +3,7 @@ record: 3563
 name: 'NP-Nom не представлять себе, Sconj Cl'
 UD_name: ''
 illustration: 'Я не представляю себе, как можно не ходить в театр, не слушать музыку.'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -21,7 +21,7 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Negation
 part_of_speech_of_anchor:
-  - Negation marker
+  - Negation Marker
   - Verb
   - Pronoun
 semantic_roles:

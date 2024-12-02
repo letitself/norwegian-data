@@ -3,7 +3,7 @@ record: 3623
 name: 'Так(,) значит, Cl?'
 UD_name: ''
 illustration: '― Так значит, это он… ― начал Сараев и осекся.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

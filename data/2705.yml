@@ -3,7 +3,7 @@ record: 2705
 name: 'VP/NP-Nom Cop на первых ролях'
 UD_name: ''
 illustration: 'Я всегда считал, что ты в своей конторе на первых ролях'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

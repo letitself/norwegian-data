@@ -3,7 +3,7 @@ record: 2720
 name: 'VP/NP-Nom Cop на последнем (из)дыхании'
 UD_name: ''
 illustration: 'Еще два перехода он, может быть, и сумеет сделать, но уже на последнем дыхании'
-cefr_level: В1
+cefr_level: B1
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula Constraction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

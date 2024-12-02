@@ -3,7 +3,7 @@ record: 2638
 name: 'VP/NP-Nom Cop на взводе'
 UD_name: ''
 illustration: 'Петр Михайлович был, кажется, на взводе, но держался молодцом, хотя и говорил механическим голосом'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula construction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

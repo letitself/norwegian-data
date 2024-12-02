@@ -3,7 +3,7 @@ record: 3557
 name: 'NP-Nom ничего не мочь с собой поделать-Inf/сделать-Inf'
 UD_name: ''
 illustration: 'Я люблю другую женщину и ничего не могу с собой поделать.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -21,8 +21,7 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Double Negation
 part_of_speech_of_anchor:
-  - Negation marker
-  - Negation marker
+  - Negation Marker
   - Verb
   - Preposition
   - Pronoun

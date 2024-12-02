@@ -3,7 +3,7 @@ record: 2651
 name: 'VP/NP-Nom Cop на вторых ролях'
 UD_name: ''
 illustration: 'Разумеется, кто-то мог считаться подозреваемым первого плана, кто-то оставался на вторых ролях, но под подозрением были все без исключения'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -16,7 +16,7 @@ morphology:
   - ~
 syntactic_type_of_construction:
   - Head and Modifier Construction
-  - Copula construction
+  - Copula Construction
 syntactic_function_of_anchor:
   - Modifier
   - Praedicative Expression

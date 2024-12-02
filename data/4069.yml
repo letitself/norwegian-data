@@ -1,6 +1,6 @@
 ---
 record: 4069
-name: '(я) смотрю,Cl'
+name: '(я) смотрю, Cl'
 UD_name: ''
 illustration: 'Я смотрю, у вас была бурная юность!'
 cefr_level: B1
@@ -19,8 +19,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

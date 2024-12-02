@@ -3,7 +3,7 @@ record: 3635
 name: 'XP, и правда, XP'
 UD_name: ''
 illustration: 'Мама, и правда, очень красивая.'
-cefr_level: А1
+cefr_level: A1
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

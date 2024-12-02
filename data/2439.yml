@@ -3,7 +3,7 @@ record: 2439
 name: 'VP в первое время (после NP-Gen)'
 UD_name: ''
 illustration: 'В первое время, когда он еще только проходил период реабилитации, у него не все получалось'
-cefr_level: А2
+cefr_level: A2
 definitions:
 examples:
   - |
@@ -21,7 +21,7 @@ syntactic_function_of_anchor:
 syntactic_structure_of_anchor:
   - Prepositional Phrase
 part_of_speech_of_anchor:
-  - Prepositional
+  - Preposition
   - Numeral
   - Noun
 semantic_roles:

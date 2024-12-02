@@ -37,10 +37,7 @@ dependency_structure:
   - '[root отвечать [obl требованиям [nmod NP-Gen]]]'
   - '[root отвечать [obl требованиям [nmod [case по] NP-Dat]]]'
 dependency_structure_of_illustration:
-  - '[root [mark Поэтому] [nsubj комната [nmod [case для] кормления]] должна 
- [xcomp [advmod больше] отвечать 
- [iobj требованиям [nmod [amod тюремных] помещений]], 
- [conj иметь [obl [case на] окнах] [obj решетки], [conj [amod матовые] стекла в рамах], [conj двери [nmod [case с] «глазками» [conj [cc и] [case на] запоре]] [conj [cc и] т. д]]].]'
+  - '[root [mark Поэтому] [nsubj комната [nmod [case для] кормления]] должна [xcomp [advmod больше] отвечать [iobj требованиям [nmod [amod тюремных] помещений]], [conj иметь [obl [case на] окнах] [obj решетки], [conj [amod матовые] стекла в рамах], [conj двери [nmod [case с] «глазками» [conj [cc и] [case на] запоре]] [conj [cc и] т. д]]].]'
 equivalents:
 common_fillers:
   - ~

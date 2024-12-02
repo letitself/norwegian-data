@@ -3,7 +3,7 @@ record: 3492
 name: 'NP-Dat, видишь/видите ли, XP'
 UD_name: ''
 illustration: 'Громыке, видите ли, Новый год не хочется портить.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:

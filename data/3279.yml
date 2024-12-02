@@ -3,7 +3,7 @@ record: 3279
 name: 'ни во что не ставить NP-Acc'
 UD_name: ''
 illustration: 'Молодежь наши законы и понятия ни во что не ставит.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -42,7 +42,9 @@ references:
 semantic_types:
   - type: Attitude
     subtypes:
-      - type: Unconcern vs. Concern
+      - type: Acceptance
+        subtypes:
+          - type: Concern
 family:
   - |
     ""

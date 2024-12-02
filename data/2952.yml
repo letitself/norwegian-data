@@ -3,7 +3,7 @@ record: 2952
 name: 'Cl и хоть бы хны/что'
 UD_name: ''
 illustration: 'Недавно она бутылку виски выпила ― и хоть бы что.'
-cefr_level: В2
+cefr_level: B2
 definitions:
 examples:
   - |
@@ -15,8 +15,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Clause
-  - XP with parentheticals
+  - Clause or XP with parentheticals
 syntactic_function_of_anchor:
   - Parenthetical
 syntactic_structure_of_anchor:
