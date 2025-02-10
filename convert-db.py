@@ -50,13 +50,13 @@ def write_record(row, record):
         f.write(f"illustration: '{row['Illustration'].strip()}'\n")
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
-        for language in ["Russian", "English", "Norwegian"]:
+        for language in ["Norwegian", "English"]:
             entry = row[f"Definition in {language}"].strip()
             if entry != "":
                 f.write(f"  - {language.lower()}: |\n")
                 f.write(f"       {entry}\n")
         f.write("examples:\n")
-        for column in ["Example 1", "Example 2", "Example 3", "Example 4", "Example 5"]:
+        for column in ["Example 1", "Example 2", "Example 3"]:
             entry = row[column].strip()
             if entry != "":
                 f.write("  - |\n")
@@ -98,12 +98,12 @@ def write_record(row, record):
             f.write("comment: |\n")
             f.write(f"    '{entry}'\n")
 
-        f.write("equivalents:\n")
-        for language in ["English", "Norwegian"]:
-            entry = row[f"{language} equivalent"].strip()
-            if entry != "":
-                f.write(f"  - {language.lower()}: |\n")
-                f.write(f"       {entry}\n")
+        # f.write("equivalents:\n")
+        # for language in ["English"]:
+        #     entry = row[f"{language} equivalent"].strip()
+        #     if entry != "":
+        #         f.write(f"  - {language.lower()}: |\n")
+        #         f.write(f"       {entry}\n")
 
         f.write("common_fillers:\n")
         f.write(
