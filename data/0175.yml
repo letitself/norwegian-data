@@ -1,12 +1,12 @@
 ---
-record: 23
-name: 'u-X'
+record: 175
+name: 'det er sant (at)'
 UD_name: ''
-illustration: 'ufin, umenneske'
-cefr_level: A1
+illustration: 'A: Det er et lite sted. B: Det er sant.'
+cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen uttrykker det motsatte av X
+  - english: |
+       Focal construction
 examples:
 morphology:
   - ~
@@ -31,7 +31,7 @@ common_fillers:
   - ~
 references:
   - |
-    
+    https://doi.org/10.1093/applin/amae006
 semantic_types:
 family:
   - |

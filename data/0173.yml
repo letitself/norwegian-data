@@ -1,13 +1,17 @@
 ---
-record: 23
-name: 'u-X'
+record: 173
+name: 'late som X'
 UD_name: ''
-illustration: 'ufin, umenneske'
-cefr_level: A1
+illustration: 'Hun later som ingenting og prøver å være den blide jenten hun alltid har vært (NoWaC)'
+cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen uttrykker det motsatte av X
 examples:
+  - |
+       De gikk inn i 54 valgboder og lot som de var rasister (NoWaC)
+  - |
+       DN kutter ut professoren som lot som han var reklamemann (NoWaC)
+  - |
+       Kanskje de bare later som om de ikke forstår det? (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
