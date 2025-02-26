@@ -1,21 +1,23 @@
 ---
 record: 78
-name: 'på tide å V'
+name: '(det er) på tide å V'
 UD_name: ''
-illustration: 'Det er på tide å tenke nytt'
-cefr_level: 
+illustration: 'Det er på tide å tenke nytt.'
+cefr_level: B1
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker en oppfordring rettet mot seg selv eller andre til å gjøre forandringer
+       Konstruksjonen uttrykker en oppfordring rettet mot seg selv eller andre til å gjøre forandringer. Den består av uttrykket "på tide" etterfulgt av en infinitivform av et verb, og den kan innledes med "det er". Denne konstruksjonen er nyttig for å formidle at en handling bør utføres nå, og den brukes ofte i både daglig tale og skriftlige tekster for å oppfordre til handling eller endring. I denne konstruksjonen brukes ofte verb som indikerer handlinger eller endringer som er nødvendige eller passende å utføre. Vanlige verb i denne konstruksjonen inkluderer "bytte", som i "på tide å bytte ut noe", og "tenke", som i "på tide å tenke nytt". Andre eksempler er "starte", "endre", og "gjøre", som i "på tide å starte på nytt", "på tide å endre vaner", og "på tide å gjøre noe med det". Verb som "rydde", "slutte", og "begynne" brukes også ofte, som i "på tide å rydde opp", "på tide å slutte å røyke", og "på tide å begynne å trene". I tillegg kan verb som "ta" og "oppdatere" forekomme, som i "på tide å ta en beslutning" og "på tide å oppdatere programvaren". Disse verbene reflekterer ofte en oppfordring til handling eller endring, og de brukes for å uttrykke at det er et passende tidspunkt for å gjennomføre den aktuelle handlingen.
 examples:
   - |
        På tide å bytte ut bakgrunnen på skrivebordet?
   - |
-       På tide å komme opp med en morsom overskrift
+       På tide å komme opp med en morsom overskrift.
+  - |
+       Det er på tide å ta grep.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

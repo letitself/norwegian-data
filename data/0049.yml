@@ -3,15 +3,21 @@ record: 49
 name: 'PRON, da?'
 UD_name: ''
 illustration: 'Du, da?'
-cefr_level: 
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjonen setter fokus på referenten uttrykt av pronomenet (Hvordan går det med deg? Bra. Du, da?) (Her har dere en kaffe! Meg, da?) (Er du ferdig? Ja. Han, da?)
+       Konstruksjonen setter fokus på referenten uttrykt av pronomenet
 examples:
+  - |
+       A: Hvordan går det med deg? B: Bra. Du, da?
+  - |
+       A: Her har dere en kaffe! B: Meg, da?
+  - |
+       A: Er du ferdig? B: Ja. Han, da?
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Diskurskonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

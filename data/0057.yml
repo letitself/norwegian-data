@@ -1,17 +1,19 @@
 ---
 record: 57
-name: 'ha PARTISIPP i/siden TID'
+name: 'ha V i [ANTALL TID] / siden [TIDSPUNKT]'
 UD_name: ''
-illustration: 'Jeg har bodd i Norge i to år / siden 2023'
-cefr_level: 
+illustration: 'Jeg har bodd i Norge i to år / siden 2023.'
+cefr_level: A2
 definitions:
   - norwegian: |
        Konstruksjonen uttrykker at en situasjon har pågått i en viss varighet og fortsatt pågår.
 examples:
   - |
-       SV, AP og SP har samarbeidet i fire år allerede
+       SV, AP og SP har samarbeidet i fire år allerede.
   - |
-       Det har snødd i to døgn
+       Det har snødd i to døgn.
+  - |
+       Vi har vært gift i tre år nå.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,13 +1,19 @@
 ---
 record: 69
-name: 'få N PARTISIPP'
+name: 'få S V / få V S'
 UD_name: ''
-illustration: 'Mange vil få husleien økt'
-cefr_level: 
+illustration: 'Mange vil få husleien økt.'
+cefr_level: B2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes ofte for å uttrykke at noe blir gjort for eller mot subjektet, uten å spesifisere hvem som utfører handlingen. Konstruksjonen kan defineres som en passiv konstruksjon med hjelpeverbet "få". S står for et substantiv eller pronomen som er mottaker av handlingen. Hjelpeverbet "få" indikerer at subjektet er gjenstand for en handling utført av noen andre. Et partisipp (V) beskriver handlingen som utføres på subjektet. Konstruksjonen er nyttig når man ønsker å understreke resultatet eller effekten av en handling.
 examples:
   - |
-       Unge kvinner fikk innsatt spiral
+       Unge kvinner fikk innsatt spiral.
+  - |
+       Elevene fikk utdelt bøker.
+  - |
+       De vil få rapporten sendt i morgen.
 morphology:
   - ~
 syntactic_type_of_construction:

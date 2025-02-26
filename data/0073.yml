@@ -1,15 +1,19 @@
 ---
 record: 73
-name: 'hele TID lang'
+name: 'hele TIDSPERIODE lang'
 UD_name: ''
-illustration: 'Jeg har jobbet hele dagen lang'
-cefr_level: 
+illustration: 'Jeg har jobbet hele dagen lang.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å understreke varigheten av en handling eller tilstand over en bestemt tidsperiode og gir en følelse av at noe skjer kontinuerlig eller gjennom hele denne perioden. I denne konstruksjonen står substantivet som beskriver tidsperioden vanligvis i bestemt form. Dette er fordi uttrykket refererer til en spesifikk tidsperiode som er kjent for både taleren og lytteren: "dagen", "natta", "sommeren".
 examples:
   - |
-       Vi ber om en mann som kan danse hele natta lang
+       Vi ber om en mann som kan danse hele natta lang.
   - |
        Basketcamper hele sommeren lang!
+  - |
+       Han jobbet hele uken lang uten pause.
 morphology:
   - ~
 syntactic_type_of_construction:

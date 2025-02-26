@@ -2,20 +2,22 @@
 record: 51
 name: 'få nesten V'
 UD_name: ''
-illustration: 'Jeg får nesten dra, det er sent'
-cefr_level: 
+illustration: 'Jeg får nesten dra, det er sent.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke en form for forsiktig anbefaling eller forslag. Det kan også signalisere en viss usikkerhet eller tilbakeholdenhet fra talerens side. Når "nesten" brukes på denne måten, fungerer det som en dempende partikkel som gjør utsagnet mindre kategorisk eller påtrengende.
 examples:
   - |
-       Du får nesten sende en mail til dem hvis du lar deg provosere slik
+       Du får nesten sende en mail til dem hvis du lar deg provosere slik.
   - |
-       Dere får nesten bedømme selv
+       Dere får nesten bedømme selv.
   - |
-       Vi får nesten se hva som skjer
+       Vi får nesten se hva som skjer.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

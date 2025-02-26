@@ -1,15 +1,17 @@
 ---
 record: 35
-name: 'NUM (X) til'
+name: 'ANTALL (X) til'
 UD_name: ''
 illustration: 'Kan jeg få én pose til?'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen legger til et antall av noe (X) som er nevnt eller implisitt.
 examples:
   - |
-       Gi meg to til, så bytter vi
+       Gi meg to til, så bytter vi.
   - |
-       Du får én til når du er ferdig med den første
+       Du får én til når du er ferdig med den første.
   - |
        Kan du si det én gang til?
 morphology:

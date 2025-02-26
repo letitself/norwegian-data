@@ -1,11 +1,19 @@
 ---
 record: 31
-name: 'Det høres/kjennes/føles/ser ut som at'
+name: 'det V ut som at Cl'
 UD_name: ''
-illustration: ''
+illustration: 'Det ser ut som at noe mangler.'
 cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at situasjonen uttrykt av leddsetningen er sannsynlig, basert på sensorisk informasjon uttrykt av verbet.
 examples:
+  - |
+       Det høres ut som at jeg prumper.
+  - |
+       Flere mener det høres ut som den ler.
+  - |
+       Har vi flere folk her til lands som ser ut som at de sagger?
 morphology:
   - ~
 syntactic_type_of_construction:

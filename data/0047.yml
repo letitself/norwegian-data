@@ -1,19 +1,24 @@
 ---
 record: 47
-name: 'det skal s-verb at Cl (concessive)'
+name: 'det skal V-s at Cl'
 UD_name: ''
-illustration: 'Det skal sies at det ikke bare er kvinner som har problemer med å vokse opp i en æreskultur'
-cefr_level: 
+illustration: 'Det skal sies at det ikke bare er kvinner som har problemer med å vokse opp i en æreskultur.'
+cefr_level: B2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å balansere eller nyansere en diskusjon ved å trekke inn motstridende meninger eller supplementerende informasjon.
 examples:
   - |
-       Det skal innrømmes at Galilei selv slett ikke var uten skyld
+       Det skal innrømmes at Galilei selv slett ikke var uten skyld.
   - |
-       Det skal dog nevnes at filmoversettere har det med å bruke dette ordet
+       Det skal dog nevnes at filmoversettere har det med å bruke dette ordet.
+  - |
+       Det skal ikke stikkes under stol at fremstillingen av og til kan bli nokså pratsom.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Passiv konstruksjon
+  - Presenteringskonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

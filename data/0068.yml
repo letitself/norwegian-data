@@ -1,11 +1,19 @@
 ---
 record: 68
-name: 'N-ubestemt på NUM'
+name: 'en S på STØRRELSE'
 UD_name: ''
-illustration: 'En leilighet på 70 m2'
-cefr_level: 
+illustration: 'En leilighet på 70 m2.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å spesifisere størrelsen, vekten eller mengden av noe.
 examples:
+  - |
+       Han fanget en gjedde på tre kilo.
+  - |
+       En bok på 300 sider
+  - |
+       En tur på fem timer
 morphology:
   - ~
 syntactic_type_of_construction:

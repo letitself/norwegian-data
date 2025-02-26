@@ -1,19 +1,19 @@
 ---
 record: 70
-name: 'V og V'
+name: 'V og V (iterativ)'
 UD_name: ''
-illustration: 'Jeg har prøvd og prøvd, men jeg fordrar ikke dataspill'
-cefr_level: 
+illustration: 'Jeg har prøvd og prøvd, men jeg fordrar ikke dataspill.'
+cefr_level: B1
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker at handlingen som uttrykkes av V foregår over lengre tid eller ved gjentatte anledninger
+       Konstruksjonen uttrykker at handlingen som uttrykkes av V foregår over lengre tid eller ved gjentatte anledninger.
 examples:
   - |
        Hva er det som går og går og aldri kommer til døra?
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Reduplikativ konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

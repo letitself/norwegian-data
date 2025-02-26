@@ -1,11 +1,19 @@
 ---
 record: 66
-name: 'V av N'
+name: 'holde på å V (ufullstendig)'
 UD_name: ''
-illustration: 'Skiutstyr består av kondomdress og rumpetaske'
-cefr_level: 
+illustration: 'Jeg holdt på å dø av skam.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at en hendelse er/var nær ved å inntreffe, men kanskje ikke blir/ble fullstendig realisert.
 examples:
+  - |
+       Veronica fikk hjelp da hun holdt på å falle ut av arbeidslivet – nå hjelper hun andre.
+  - |
+       Konsentrasjonsvansker, hjernetåke, nummenhet og sviktende hukommelse. Dette er noen av faresignalene på at du holder på å bli utbrent.
+  - |
+       Striden om norsk medlemskap i EU holdt på å splitte Arbeiderpartiet på 70-tallet.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -2,14 +2,18 @@
 record: 40
 name: 'for å V'
 UD_name: ''
-illustration: 'Jeg går på kurs for å lære norsk'
+illustration: 'Jeg går på kurs for å lære norsk.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke hensikten eller formålet med en handling som er nevnt i den forutgående konteksten.
 examples:
   - |
-       Hun går på badet for å pynte seg litt
+       Hun går på badet for å pynte seg litt.
   - |
-       Du må ha sykemelding for å kunne levere etter tidsfristen
+       Du må ha sykemelding for å kunne levere etter tidsfristen.
+  - |
+       A: Hvorfor gjorde du det? B: For å imponere henne.
 morphology:
   - ~
 syntactic_type_of_construction:

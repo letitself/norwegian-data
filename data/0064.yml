@@ -1,11 +1,19 @@
 ---
 record: 64
-name: 'det være X som Y'
+name: 'det er X som VP'
 UD_name: ''
-illustration: 'Det er Norge som er bra, det er Norge som er best'
-cefr_level: 
+illustration: 'Det er Norge som er bra, det er Norge som er best.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å fremheve eller understreke en bestemt del av informasjonen som viktig eller avgjørende. Dette mønsteret kalles ofte en fokuseringskonstruksjon eller kløyvd setning. Det brukes for å sette ekstra vekt på en bestemt informasjon ved å presentere den som en kontrast eller en viktig opplysning. Ofte brukes denne strukturen for å kontrastere med andre mulige alternativer eller oppfatninger.
 examples:
+  - |
+       Det er Kobe som er den beste spilleren.
+  - |
+       Det er Høyre som er Robin Hood.
+  - |
+       Det er skattefordelene som er hovedgrunnen til at det blir drevet sånn.
 morphology:
   - ~
 syntactic_type_of_construction:

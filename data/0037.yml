@@ -1,15 +1,23 @@
 ---
 record: 37
-name: 'for en time siden'
+name: 'for [ANTALL] [TID] siden'
 UD_name: ''
-illustration: 'For to dager siden'
+illustration: 'For to dager siden.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen spesifiserer når noe skjedde.
 examples:
+  - |
+       Jeg begynte med timen for tre uker siden.
+  - |
+       For 20 år siden var undertegnede på vei til Bodø.
+  - |
+       Han ble toppscorer for to sesonger siden.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbial konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

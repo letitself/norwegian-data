@@ -1,15 +1,23 @@
 ---
 record: 81
-name: 'V PARTISIPP (STED)'
+name: 'komme PRESENS PARTISIPP (RETNING) (STED)'
 UD_name: ''
-illustration: 'Hun kom løpende (ned trappa)'
-cefr_level: 
+illustration: 'Hun kom løpende (ned trappa).'
+cefr_level: B2
 definitions:
+  - norwegian: |
+       Konstruksjonen beskriver måten noe eller noen beveger seg fra et sted til et annet på. Måten uttrykkes av presens partisipp (løpende, brasende, kjørende, smygende). Konstruksjonen brukes for å uttrykke samtidige handlinger eller for å beskrive hvordan noe skjer, og det gir setningen en mer dynamisk og detaljert beskrivelse.
 examples:
+  - |
+       Plutselig så vi soldaten komme brasende inn gjennom døren (NoWaC)
+  - |
+       Bilen kom kjørende fra Stjørdal i retning Hegra da utforkjøringen skjedde (NoWaC)
+  - |
+       Kjenner panikken komme smygende inn under ribbbena (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

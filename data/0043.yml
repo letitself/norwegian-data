@@ -3,9 +3,17 @@ record: 43
 name: 'X er som Y'
 UD_name: ''
 illustration: 'Nordmenn er som en termos. Kalde utenpå, men varme inni.'
-cefr_level: 
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen fungerer som en simile der X sidestilles med Y.
 examples:
+  - |
+       Kristin Clemet er som en potet. Hun kan brukes til alt.
+  - |
+       Klarer ikke å komme på noen som er som Paul Gascoigne, heldigvis.
+  - |
+       Seieren i FA-cupen var som bensin på bålet.
 morphology:
   - ~
 syntactic_type_of_construction:

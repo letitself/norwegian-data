@@ -1,13 +1,19 @@
 ---
 record: 22
-name: 'det kroppspositurverb S PP og V'
+name: 'det V [NOE(N)] [STED] og V'
 UD_name: ''
 illustration: 'Det sitter en statsråd i Oslo og overkjører lokaldemokratiet'
 cefr_level: B1
 definitions:
   - norwegian: |
-       Konstruksjonen er en kombinasjon av "det V en N prep. STED" og "V og V"
+       Konstruksjonen er en kombinasjon av "det V en N PP" og "V og V (samtid)"
 examples:
+  - |
+       Det står en mann i storgata og selger juletrær.
+  - |
+       Det ligger en katt der og fryser.
+  - |
+       Det sitter ei jente i sandkassa og leker.
 morphology:
   - ~
 syntactic_type_of_construction:

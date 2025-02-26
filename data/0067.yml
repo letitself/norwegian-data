@@ -1,11 +1,19 @@
 ---
 record: 67
-name: 'holde på å V'
+name: 'holde på å V (pågående)'
 UD_name: ''
-illustration: 'Jeg holdt på å dø av skam'
-cefr_level: 
+illustration: 'Jeg holder på å rydde i klesskapet.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at en hendelse er i gang eller pågår i øyeblikket.
 examples:
+  - |
+       Jeg holder på å lage middag til meg selv.
+  - |
+       Vi holder på å bytte leverandør, så det finnes ikke nett hjemme.
+  - |
+       Fiskerne hadde gått i land og holdt på å skylle garnene sine.
 morphology:
   - ~
 syntactic_type_of_construction:

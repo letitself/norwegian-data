@@ -1,6 +1,6 @@
 ---
 record: 18
-name: '... med mindre ...'
+name: 'X med mindre Y'
 UD_name: ''
 illustration: 'Vi drar på stranden i morgen, med mindre det regner.'
 cefr_level: B2
@@ -17,7 +17,8 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konjunksjonskonstruksjon
+  - Biklausal konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

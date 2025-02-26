@@ -2,16 +2,22 @@
 record: 54
 name: 'V som bare det'
 UD_name: ''
-illustration: 'Det snør som bare det'
-cefr_level: 
+illustration: 'Det snør som bare det.'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Forsterker
+       Konstruksjonen brukes for å forsterke eller understreke graden av noe. Det fungerer som en intensiverende frase som gir ekstra vekt til beskrivelsen og kan bety ca. det samme som "veldig". Det er en uformell måte å uttrykke noe på, som ofte brukes i dagligtale. For eksempel, "Lett som bare det!" betyr at noe er veldig lett, enklere enn man kanskje skulle tro. "Tulla sparker som bare det." betyr at Tulla sparker veldig kraftig eller energisk.
 examples:
+  - |
+       Lett som bare det!
+  - |
+       Tulla sparker som bare det.
+  - |
+       Hun vokser og trives som bare det.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

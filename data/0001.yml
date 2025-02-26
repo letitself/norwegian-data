@@ -2,13 +2,13 @@
 record: 1
 name: 'X og X (fru Blom)'
 UD_name: ''
-illustration: 'billig og billig, fru Blom'
-cefr_level: A2
+illustration: 'A: Så billig! B: Billig og billig, fru Blom'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjon brukes for å markere at taleren er uenig med eller skeptisk til samtalepartnerens bruk av X, der X kan være et hvilket som helst ord.
+       Konstruksjonen brukes for å markere at taleren er uenig med eller skeptisk til samtalepartnerens bruk av X, eller for å markere at taleren modifiserer sin egen bruk av X. X kan være et ord av en hvilken som helst ordklasse som nettopp er nevnt i teksten/samtalen. Vedhenget "fru Blom", som stammer fra teaterstykket Karusellen (eksempel 1), er valgfritt.
   - english: |
-       The construction is used to signal that the speaker disagrees with the interlocutor's use of X, where X can be any word.
+       The construction is used to signal that the speaker disagrees with their interlocutor's use of X, or to modify their own use of X. X can be a word of any grammatical category mentioned in the immedately preceding discourse. The final "mrs. Blom", from the play Karusellen, is optional.
 examples:
   - |
        Helene: Gi meg noen piller De, så skal jeg nok ta dem. Holm (drar på skuldrene): Piller og piller, fru Blom! Vi har vokst fra pillene nå. (Karusellen, Alex Brinchmann, 1940)
@@ -19,7 +19,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Reduplikativ konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

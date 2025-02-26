@@ -1,21 +1,23 @@
 ---
 record: 46
-name: 'det skal s-verb (plan)'
+name: 'det skal V-s'
 UD_name: ''
-illustration: 'Nå skal det feires'
-cefr_level: 
+illustration: 'Nå skal det feires.'
+cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker at noen (som regel et underforstått jeg eller vi) skal utføre den handlingen som utfyller skal. Den skiller seg fra andre uttrykk med skal V ved at subjektet som skal utføre handlingen ikke uttrykkes syntaktisk.
+       Konstruksjonen uttrykker at noen (som regel et underforstått jeg eller vi) skal utføre den handlingen som utfyller skal. Den skiller seg fra lignende uttrykk med skal V ved at subjektet som skal utføre handlingen ikke uttrykkes syntaktisk.
 examples:
   - |
        I dag skal det ryddes og handles
   - |
        Når sola kommer skal det grilles
+  - |
+       Her skal det strikkes!
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Passiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

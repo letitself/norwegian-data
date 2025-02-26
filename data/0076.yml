@@ -2,20 +2,22 @@
 record: 76
 name: 'V seg X'
 UD_name: ''
-illustration: 'Le seg fillete'
-cefr_level: 
+illustration: 'Jeg trodde jeg skulle le meg fillete.'
+cefr_level: B2
 definitions:
+  - norwegian: |
+       Konstruksjonen er en refleksiv verbkonstruksjon der handlingen utført av subjektet resulterer i en endring i subjektets tilstand eller opplevelse. Den består av et verb etterfulgt av et refleksivt pronomen og et adjektiv eller partisipp som beskriver den nye tilstanden subjektet oppnår som følge av handlingen.
 examples:
   - |
        Spise seg stor
   - |
        Drikke seg full
   - |
-       Føle seg verdsatt
+       Vestli jobber seg stadig mer inn i kampen (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Refleksiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

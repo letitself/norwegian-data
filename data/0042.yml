@@ -2,18 +2,22 @@
 record: 42
 name: 'V inn/bortom'
 UD_name: ''
-illustration: 'Jeg stikker innom etter jobb'
-cefr_level: 
+illustration: 'Jeg stikker innom etter jobb.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker en kort og spontan visitt som ikke trenger være planlagt eller avtalt på forhånd.
 examples:
   - |
-       Bare å komme innom når det passer
+       Bare å komme innom når det passer.
   - |
-       Vi må komme bortom og hilse på
+       Vi må komme bortom og hilse på.
+  - |
+       Takk for at du titter innom bloggen.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Partikkelverbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

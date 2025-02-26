@@ -2,16 +2,22 @@
 record: 23
 name: 'u-X'
 UD_name: ''
-illustration: 'ufin, umenneske'
+illustration: 'ufin'
 cefr_level: A1
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker det motsatte av X
+       Konstruksjonen uttrykker at en referent kan karakteriseres som det motsatte av X eller som i svært liten grad oppfører seg som X.
 examples:
+  - |
+       umenneske
+  - |
+       ukjent
+  - |
+       uinteressant
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Morfologisk konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,11 +1,15 @@
 ---
 record: 168
-name: 'X dårlig til Y'
+name: 'ADJ til beins'
 UD_name: ''
-illustration: 'Hun er dårlig til beins'
+illustration: 'Hun er dårlig til beins.'
 cefr_level: 
 definitions:
 examples:
+  - |
+       Han er lett til beins.
+  - |
+       Ungdom som er raske til beins.
 morphology:
   - ~
 syntactic_type_of_construction:

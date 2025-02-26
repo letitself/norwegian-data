@@ -1,15 +1,23 @@
 ---
 record: 80
-name: 'få X til å Y'
+name: 'X få Y til å V'
 UD_name: ''
-illustration: 'Trump fikk våre naboer til å bråvåkne'
-cefr_level: 
+illustration: 'Trump fikk våre naboer til å bråvåkne.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen beskriver at noe eller noen (X) forårsaker eller overbeviser noen (Y) til å utføre en bestemt handling (V). Denne konstruksjonen brukes ofte i både skriftlig og muntlig kommunikasjon. Vanlige verb som ofte brukes i denne konstruksjonen inkluderer: lese, danse, avlyse, gråte, tenke, smile, løpe, og skrive.
 examples:
+  - |
+       Dette har fått sametinget til å reagere (NoWaC)
+  - |
+       Dråpen som fikk begeret til å renne over.
+  - |
+       Jesus gjorde under som fikk folk til å tro på ham og følge ham (NRK)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

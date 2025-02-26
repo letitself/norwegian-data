@@ -1,21 +1,23 @@
 ---
 record: 77
-name: 'LA seg V'
+name: 'la seg V'
 UD_name: ''
-illustration: 'Ikke la deg friste'
-cefr_level: 
+illustration: 'Ikke la deg friste.'
+cefr_level: C1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke at subjektet tillater seg selv å bli påvirket eller endret av en handling. Den består av verbet "la" etterfulgt av et refleksivt pronomen og et hovedverb i infinitiv som beskriver handlingen eller påvirkningen. Denne konstruksjonen er nyttig for å uttrykke passiv mottakelighet eller åpenhet for påvirkning, og den brukes ofte i både formelle og uformelle sammenhenger i norsk.
 examples:
   - |
-       Han lot seg overbevise
+       Han lot seg overbevise.
   - |
-       De lar seg inspirere av barna
+       De lar seg inspirere av barna.
   - |
-       Det skal la seg gjøre
+       Det skal la seg gjøre.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Refleksiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

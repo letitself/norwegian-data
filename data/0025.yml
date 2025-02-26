@@ -2,14 +2,22 @@
 record: 25
 name: 'X-messig'
 UD_name: ''
-illustration: 'kjempemessig, treningsmessig, feriemessig'
+illustration: 'skattemessig'
 cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen setter fokus på en spesifikk del av en situasjon (f.eks. den delen av situasjonen som kan relateres til skatt, følelser eller samfunn).
 examples:
+  - |
+       følelsesmessig
+  - |
+       samfunnsmessig
+  - |
+       treningsmessig
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Morfologisk konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

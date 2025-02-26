@@ -1,15 +1,23 @@
 ---
 record: 36
-name: 'NUM ganger i TID-bestemt'
+name: '[ANTALL] ganger i [TID]'
 UD_name: ''
-illustration: 'To ganger i uka'
+illustration: 'To ganger i uka.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen beskriver hvor ofte noe skjer.
 examples:
+  - |
+       Kommunen ville jeg skulle betale to ganger i året.
+  - |
+       Hyttemagasinet utkommer 10 ganger i året.
+  - |
+       Jeg gjør det et par ganger i ferien.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbial konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

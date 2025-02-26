@@ -1,23 +1,23 @@
 ---
 record: 13
-name: 'det V en N prep. STED'
+name: 'det V [NOE(N)] [STED]'
 UD_name: ''
-illustration: 'Det sitter noen studenter i kantina'
+illustration: 'Det sitter noen studenter i kantina.'
 cefr_level: B1
 definitions:
   - norwegian: |
        Konstruksjonen brukes for å presentere en ny referent (uttrykt av et ubestemt substantiv), hvor denne befinner seg (uttrykt av en preposisjonsfrase). Verbet kan være et kroppspositurverb (sitte, ligge, stå), men også verbet være.
 examples:
   - |
-       Det ligger et hus i veien i Belgia
+       Det ligger et hus i veien i Belgia.
   - |
-       Det står noen bøker på hylla
+       Det står noen bøker på hylla.
   - |
-       Det sitter en grevling på trappa
+       Det sitter en grevling på trappa.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Presenteringskonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,17 +1,23 @@
 ---
 record: 15
-name: 'gå lei av å V'
+name: 'gå lei av S / å V'
 UD_name: ''
 illustration: 'Jeg har gått lei av pizza etter å ha spist det hver helg i flere måneder.'
 cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen betyr å bli trøtt eller miste interessen for noe. Konstruksjonen beskriver en følelse av kjedsomhet eller frustrasjon som oppstår når man har hatt for mye av noe, eller når noe ikke lenger er spennende eller interessant.
+       Konstruksjonen betyr å bli trøtt av eller miste interessen for noe. Konstruksjonen beskriver en følelse av kjedsomhet eller frustrasjon som oppstår når man har hatt for mye av noe, eller når noe ikke lenger er spennende eller interessant.
 examples:
+  - |
+       Paparazziene har gått lei av alle skandalene rundt Britney Spears.
+  - |
+       Du er ikke nødt til å bytte den ut om du har gått lei av trappen din.
+  - |
+       Jeg er utdannet kokk og gikk lei av jobben.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,13 +1,19 @@
 ---
 record: 34
-name: 'V STED og V'
+name: 'V [STED] og V'
 UD_name: ''
-illustration: 'Jeg drar hjem og legger meg'
+illustration: 'Jeg drar hjem og legger meg.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at subjektet har intensjon om å dra til et bestemt sted for å utføre en bestemt handling.
 examples:
   - |
-       Alle skal på do og tisse
+       Alle skal på do og tisse.
+  - |
+       Jeg skal på butikken og kjøpe melk.
+  - |
+       Jeg skal på konferanse og holde innlegg.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -2,16 +2,22 @@
 record: 59
 name: 'si seg X'
 UD_name: ''
-illustration: 'Jeg må si meg enig'
+illustration: 'Jeg må si meg enig.'
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å formidle en personlig erklæring eller innrømmelse om en bestemt tilstand eller følelse.
 examples:
   - |
-       Hun sa seg villig til å ta på seg jobben
+       Hun sa seg villig til å ta på seg jobben.
+  - |
+       Det er tre separate partier som alle må kunne si seg fornøyd med resultatet. (NoWaC)
+  - |
+       Willie Williams sa seg skyldig i å ha skutt og drept Claude Schaffer. (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Refleksiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,15 +1,23 @@
 ---
 record: 48
-name: 's-verb ved å V / at Cl'
+name: 'V-s ved å V / at Cl'
 UD_name: ''
 illustration: 'Dette gjøres ved å klikke deg inn her / ved at du klikker deg inn her'
-cefr_level: 
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen beskriver hvordan noe kan oppnås eller utføres. Konstruksjonen indikerer metoden eller måten noe blir gjort på.
 examples:
+  - |
+       Dette kan hindres ved å ta vekk haken.
+  - |
+       De kan bare stoppes ved å ødelegge hodene deres.
+  - |
+       Smitten skjer ved at infisert blod podes inn i blodbanen til en frisk person.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Passiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

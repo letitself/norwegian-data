@@ -3,21 +3,22 @@ record: 52
 name: 'redupliseringskonstruksjon'
 UD_name: ''
 illustration: 'Du er rar, du!'
-cefr_level: 
+cefr_level: B2
 definitions:
   - norwegian: |
-       Denne konstruksjonen fungerer ved at subjektet i setningen gjentas som et pronomen. Den ser ut til å forsterke utsagnet, legge vekt på at utsagnet er talerens personlige mening (når subjekt er jeg) eller (sammen med imperativ) understreke tillatelse eller oppfordring.
+       Konstruksjonen fungerer ved at subjektet i setningen gjentas som et pronomen. Den ser ut til å forsterke utsagnet, legge vekt på at utsagnet er talerens personlige mening (når subjekt er jeg) eller (sammen med imperativ) understreke tillatelse eller oppfordring.
 examples:
   - |
-       Åpningsakten var flott, den
+       Åpningsakten var flott, den.
   - |
-       Ta deg litt mer kaffe, du
+       Ta deg litt mer kaffe, du.
   - |
-       Jeg synes FHK gjør det bra jeg
+       Jeg synes FHK gjør det bra, jeg.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Diskurskonstruksjon
+  - Reduplikativ konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

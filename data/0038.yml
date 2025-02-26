@@ -1,15 +1,17 @@
 ---
 record: 38
-name: 'SUBJEKT ha NP.ubestemt'
+name: 'ha S-ubestemt'
 UD_name: ''
-illustration: 'Han har barn'
+illustration: 'Han har barn.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke abstrakt eierskap uten å spesifisere detaljer.
 examples:
   - |
-       Hun har jobb
+       Hun har jobb.
   - |
-       De har bil
+       De har bil.
   - |
        Har han kjæreste?
 morphology:

@@ -2,12 +2,18 @@
 record: 72
 name: 'PLEIE å V'
 UD_name: ''
-illustration: 'Jeg har to venner som jeg pleier å være med'
-cefr_level: 
+illustration: 'Jeg har to venner som jeg pleier å være med.'
+cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker at handlingen som uttrykkes av V er vanlig
+       Konstruksjonen uttrykker en vane eller en regelmessig aktivitet. I setningen "Jeg har to venner som jeg pleier å være med," brukes "pleier å" for å indikere at det er noe som skjer ofte eller vanligvis. Verbet "pleie" er hjelpeverbet som uttrykker vanen, og "V" er hovedverbet i infinitiv. Dette mønsteret brukes for å beskrive handlinger som er en del av ens rutine eller vanlige praksis.
 examples:
+  - |
+       Jeg pleier å drikke kaffe om morgenen.
+  - |
+       Hun pleier å gå en tur etter middag.
+  - |
+       Vi pleier å se en film på lørdager.
 morphology:
   - ~
 syntactic_type_of_construction:

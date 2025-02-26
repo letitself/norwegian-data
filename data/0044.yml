@@ -1,21 +1,23 @@
 ---
 record: 44
-name: 'V seg STED'
+name: 'V seg [STED]'
 UD_name: ''
-illustration: 'Jeg drømmer meg bort'
-cefr_level: 
+illustration: 'Jeg drømmer meg bort.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker en fysisk eller mental reise mot et mål eller en tilstand.
 examples:
   - |
-       Klikk deg inn her
+       Klikk deg inn her.
   - |
-       Stjernene beveger seg bort fra Melkeveien
+       Stjernene beveger seg bort fra Melkeveien.
   - |
        Hva ønsker man å regulere seg vekk fra?
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Refleksiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

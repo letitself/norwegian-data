@@ -1,15 +1,23 @@
 ---
 record: 82
-name: 'å være lei seg over at ...'
+name: 'X være lei seg over Y / at Y'
 UD_name: ''
-illustration: 'Jeg er lei meg over at jeg uttalte meg utydelig.'
-cefr_level: 
+illustration: 'Det er ikke sikkert president George W. Bush er så lei seg over valgnederlaget tirsdag  (NoWaC)'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker subjektets følelse av tristhet eller beklagelse i forbindelse med en spesifikk situasjon eller hendelse. Den brukes for å uttrykke følelser om noe som er generelt eller utenfor subjektets kontroll, i motsetning til tilsvarende uttrykk med "for Y / for at Y", der subjektet har kontroll over situasjonen. For eksempel, "Jeg er lei meg over at været ble så dårlig," indikerer tristhet over en situasjon som subjektet ikke kan påvirke.
 examples:
+  - |
+       Muslimen var lei seg over at jeg kunne si så mye stygt om Islam. (NoWaC)
+  - |
+       John Arne Riise er oppriktig lei seg over Åge Hareides avgang (NoWaC)
+  - |
+       Folk i Fredrikstad er lei seg over at Stabburet flagger ut makrell-i-tomat til Sverige (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

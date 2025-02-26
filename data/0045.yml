@@ -2,9 +2,11 @@
 record: 45
 name: 'ikke bare bare (å V)'
 UD_name: ''
-illustration: 'Det er ikke bare bare å lære norsk'
-cefr_level: 
+illustration: 'Det er ikke bare bare å lære norsk.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at noe ikke er så enkelt som det kunne virke ved første øyekast.
 examples:
   - |
        Skal anlegge hage, og det er ikke bare bare.
@@ -15,7 +17,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Annet
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

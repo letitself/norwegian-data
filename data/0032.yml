@@ -8,10 +8,17 @@ definitions:
   - norwegian: |
        Konstruksjonen betyr at X handler om eller fokuserer på Y. Det brukes for å beskrive hva som er hovedtemaet eller hovedfokuset i en diskusjon, en tekst, en situasjon, eller lignende.
 examples:
+  - |
+       Det dreier seg om en mann i 30-årene, sier politiet.
+  - |
+       Når livet dreier seg om "likes".
+  - |
+       Prosjektet dreide seg om å undervise en gruppe klassiske sangstudenter i fri vokalimprovisasjon.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Refleksiv konstruksjon
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

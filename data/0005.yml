@@ -1,12 +1,12 @@
 ---
 record: 5
-name: 'X er enig/uenig med Y om Y/ at / i at Cl'
+name: 'X er (u)enig med Y om Z / om at Cl / i at Cl'
 UD_name: ''
 illustration: 'Studentene er enige med læreren sin i at eksamen er viktig.'
 cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen å være enig med" betyr at man deler samme oppfatning, synspunkt eller holdning som en annen person. Når du er enig med noen, støtter du deres mening eller konklusjon. Konstruksjonen "å være uenig med" betyr at man har en annen oppfatning eller synspunkt enn en annen person. Når du er uenig med noen, betyr det at du ikke støtter deres mening eller konklusjon.
+       Konstruksjonen betyr at man deler samme oppfatning, synspunkt eller holdning med en annen person. Når prefikset u- brukes har konstruksjonen motsatt betydning.
 examples:
   - |
        Jeg er enig med deg i at vi bør starte prosjektet neste uke.
@@ -17,7 +17,7 @@ examples:
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

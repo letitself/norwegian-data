@@ -1,15 +1,19 @@
 ---
 record: 39
-name: 'SUBJEKT være NP.ubestemt'
+name: 'være S-ubestemt'
 UD_name: ''
-illustration: 'Hun er snekker'
+illustration: 'Hun er snekker.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke en kategori eller rolle.
 examples:
   - |
-       Jeg er enke
+       Jeg er enke.
   - |
-       Jeg er pensjonist
+       Han er pensjonist.
+  - |
+       Hun er ingeniør.
 morphology:
   - ~
 syntactic_type_of_construction:

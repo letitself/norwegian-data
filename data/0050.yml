@@ -2,16 +2,18 @@
 record: 50
 name: 'takk for X'
 UD_name: ''
-illustration: 'Takk for sist'
-cefr_level: 
+illustration: 'Takk for sist!'
+cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å vise anerkjennelse og takknemlighet i ulike sosiale situasjoner. Eksemplene av denne konstruksjonen er vanlige høflighetsfraser i Norge. "Takk for sist!" brukes for å takke for det siste møtet eller samværet man hadde med noen. "Takk for maten!" sier man etter et måltid for å uttrykke takknemlighet til den som har laget eller servert maten. "Takk for i dag!" brukes for å takke for dagen man har tilbrakt sammen med noen, ofte ved slutten av en arbeidsdag, et møte, eller en sosial sammenkomst. "Takk for meg!" sier man når man forlater et selskap eller en sammenkomst, for å takke verten eller de andre deltakerne for samværet. Det er en måte å si farvel på samtidig som man uttrykker takknemlighet for å ha blitt inkludert.
 examples:
   - |
-       Takk for idag
+       Takk for i dag.
   - |
-       Takk for maten
+       Takk for maten.
   - |
-       Takk for meg
+       Takk for meg.
 morphology:
   - ~
 syntactic_type_of_construction:

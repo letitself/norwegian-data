@@ -1,15 +1,23 @@
 ---
 record: 27
-name: 'X synes (at) Cl'
+name: 'synes (at) Cl'
 UD_name: ''
-illustration: ''
+illustration: 'Jeg synes at traktekaffe kan være godt. (NoWaC)'
 cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker noens (subjektets) personlige vurdering av eller oppfatning om en situasjon (leddsetningen). Denne vurderingen er ofte styrt av smak, følelser eller andre subjektive inntrykk.
 examples:
+  - |
+       Det finnes noen som synes at jeg er pen.
+  - |
+       Hva synes du om genseren min
+  - |
+       Jeg synes ikke jeg er flink nok.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Biklausal konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

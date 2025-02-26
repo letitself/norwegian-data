@@ -1,15 +1,23 @@
 ---
 record: 28
-name: 'X mener (at) Cl'
+name: 'mener (at) Cl'
 UD_name: ''
-illustration: ''
+illustration: 'Viktor Norman mener at de med høy utdannelse må senke kravene til jobb. (NoWaC)'
 cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker noens (subjektets) personlige mening om en situasjon (leddsetningen). Denne meningen er ofte dannet på bakgrunn av fakta og kan begrunnes.
 examples:
+  - |
+       Jeg mener at det er en skandale!
+  - |
+       Det er litt flere menn enn kvinner som mener at menn diskrimineres.
+  - |
+       Fagforeningene mener at staben er slank nok.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Biklausal konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

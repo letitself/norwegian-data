@@ -1,11 +1,19 @@
 ---
 record: 26
-name: 'X tror (at) Cl'
+name: 'tror (at) Cl'
 UD_name: ''
-illustration: ''
+illustration: 'Jehovas vitner tror at jorden skal bestå i all evighet. (NoWaC)'
 cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at noen (subjektet) har en oppfatning om at en situasjon (leddsetningen) er sann. Oppfatningen kan være basert på ufullstendig kunnskap eller spekulasjon.
 examples:
+  - |
+       Noen som tror at jorda er flat her?
+  - |
+       Hvem tror du vinner valget?
+  - |
+       Jeg tror ikke jeg kommer til å stå på eksamen.
 morphology:
   - ~
 syntactic_type_of_construction:

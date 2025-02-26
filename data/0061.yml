@@ -1,13 +1,19 @@
 ---
 record: 61
-name: 'være (STED) og V-presens'
+name: 'være (STED) og V'
 UD_name: ''
-illustration: 'Han er og handler'
-cefr_level: 
+illustration: 'Han er (ute) og handler.'
+cefr_level: B2
 definitions:
+  - norwegian: |
+       Konstruksjonen er en enkel måte å beskrive både hva en person gjør og hvor de befinner seg.
 examples:
   - |
        Hun er ute og rir på hesten sin
+  - |
+       Husker du om du var ute og gikk? (Post mortem)
+  - |
+       Han er ute og kjører.
 morphology:
   - ~
 syntactic_type_of_construction:

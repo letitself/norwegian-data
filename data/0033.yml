@@ -1,17 +1,19 @@
 ---
 record: 33
-name: 'V på X (non-habitual)'
+name: 'V (preposisjon) [STED]'
 UD_name: ''
-illustration: 'Jeg skal på kino'
+illustration: 'Jeg skal på kino. Jeg drar hjem.'
 cefr_level: A1
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at subjektet har intensjon om å dra til et bestemt sted.
 examples:
   - |
-       Jeg skal på en konferanse
+       Jeg skal på en konferanse.
   - |
-       Jeg må på biblioteket
+       Jeg må til legen.
   - |
-       Jeg går på butikken
+       Jeg går i butikken
 morphology:
   - ~
 syntactic_type_of_construction:

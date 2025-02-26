@@ -1,15 +1,23 @@
 ---
 record: 60
-name: 'være som V'
+name: 'være som å V'
 UD_name: ''
-illustration: 'Det er som å drukne'
+illustration: 'Det er som å drukne.'
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen fungerer som en simile der noe sammenlignes med en situasjon (uttrykt av verbet)
 examples:
+  - |
+       Det er som å leve i en krigsfilm.
+  - |
+       Det er som å snakke til en vegg!
+  - |
+       Det er som å være i et fengsel, bare at jeg kan spasere ut.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

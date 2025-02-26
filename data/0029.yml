@@ -1,15 +1,23 @@
 ---
 record: 29
-name: 'X tenker (at) Cl'
+name: 'tenker (at) Cl'
 UD_name: ''
-illustration: ''
+illustration: 'Jeg tenker at lekser kan være en utfordring for forholdet mellom foreldre og barn (Språkrådet)'
 cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at noen (subjektet) har en oppfatning om en situasjon (leddsetningen), men denne oppfatningen kan tolkes som mer åpen enn hva tilfellet er for synes/mener (at) og som mindre usikker enn hva tilfellet er for tror (at).
 examples:
+  - |
+       Tenker at jeg er tjukk.
+  - |
+       Folk tenker at jeg har juksa.
+  - |
+       Få hodet ut av ræven og fokuser mindre på deg selv, tenker jeg da.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Biklausal konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

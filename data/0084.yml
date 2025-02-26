@@ -3,15 +3,17 @@ record: 84
 name: 'V i tide'
 UD_name: ''
 illustration: 'Oppgaven må leveres i tide.'
-cefr_level: 
+cefr_level: A2
 definitions:
   - norwegian: |
        Konstruksjonen betyr å gjøre noe innen en bestemt tidsfrist eller før det er for sent.
 examples:
+  - |
+       Jeg velger å tro at meldingen kommer i tide.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

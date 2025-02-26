@@ -1,11 +1,19 @@
 ---
 record: 53
-name: 'X for X'
+name: 'X for X (gradvis)'
 UD_name: ''
-illustration: 'Skritt for skritt'
-cefr_level: 
+illustration: 'Skritt for skritt.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke en gradvis eller trinnvis prosess. Det innebærer at noe skjer litt etter litt, eller at man tar én enhet av gangen. Konstruksjonen understreker en sekvensiell eller systematisk tilnærming til en aktivitet eller prosess.
 examples:
+  - |
+       Dag for dag.
+  - |
+       Minutt for minutt.
+  - |
+       Kapittel for kapittel.
 morphology:
   - ~
 syntactic_type_of_construction:

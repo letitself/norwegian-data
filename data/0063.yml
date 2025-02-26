@@ -1,17 +1,23 @@
 ---
 record: 63
-name: 'det s-verb'
+name: 'det V-s'
 UD_name: ''
-illustration: 'Det festes og drikker over en lav sko i løpet av de to fadderukene'
-cefr_level: 
+illustration: 'Det festes og drikkes over en lav sko i løpet av de to fadderukene.'
+cefr_level: B2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes ofte når man ønsker å rette oppmerksomheten mot selve handlingen eller effekten av handlingen, snarere enn hvem som utfører den. Dette kan være fordi man ikke vet hvem som utfører handlingen eller fordi det ikke er relevant.
 examples:
   - |
-       Nå vapes det som aldri før
+       Nå vapes det som aldri før.
+  - |
+       Det skapes livsfarlige presedenser når Sri Lanka og Burma uhindret får gå løs på sine etniske minoriteter.
+  - |
+       I dag virker det som det satses litt for ensporet litt for tidlig.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Passiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

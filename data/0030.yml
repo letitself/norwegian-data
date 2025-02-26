@@ -1,11 +1,19 @@
 ---
 record: 30
-name: 'X høres/kjennes/føles/ser ADJ ut'
+name: 'X V ADJ ut'
 UD_name: ''
 illustration: 'Hunden så veldig sulten ut.'
 cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at noe(n) (uttrykt av et substantiv i bestemt form) blir oppfattet på en bestemt måte (uttrykt av et adjektiv) gjennom sensorisk informasjon (uttrykt av et sensorisk verb som høres, kjennes, føles eller ser).
 examples:
+  - |
+       Det høres slitsomt ut.
+  - |
+       Redd for å ikke se bra ut?
+  - |
+       Jeg liker å se feminin ut.
 morphology:
   - ~
 syntactic_type_of_construction:

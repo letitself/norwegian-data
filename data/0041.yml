@@ -1,13 +1,19 @@
 ---
 record: 41
-name: 'X LIGGE i nærheten av STED'
+name: 'S V i nærheten av S'
 UD_name: ''
-illustration: 'Kiosken ligger i nærheten av biblioteket'
+illustration: 'Kiosken ligger i nærheten av biblioteket.'
 cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke at noe (den første nominalfrasen) befinner seg i relativ nærhet av noe annet (den andre nominalfrasen).
 examples:
   - |
-       Den ligger i nærheten av bussholdeplassen
+       Den ligger i nærheten av bussholdeplassen.
+  - |
+       Tønsberg er i nærheten av Horten.
+  - |
+       Appen lar deg finne folk som befinner seg i nærheten av deg geografisk.
 morphology:
   - ~
 syntactic_type_of_construction:

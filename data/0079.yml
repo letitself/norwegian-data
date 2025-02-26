@@ -2,16 +2,22 @@
 record: 79
 name: 'komme opp med S'
 UD_name: ''
-illustration: 'Dere kan komme opp med forslag til nye konstruksjoner'
-cefr_level: 
+illustration: 'Dere kan komme opp med forslag til nye konstruksjoner.'
+cefr_level: B1
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å beskrive prosessen med å generere eller foreslå noe nytt, som ideer, løsninger eller forslag. Denne konstruksjonen er nyttig i både formelle og uformelle sammenhenger når man ønsker å uttrykke behovet for kreativitet eller problemløsning. Vanlige ord som ofte brukes i denne konstruksjonen inkluderer: forslag, ideer, løsninger, planer, svar, og eksempler.
 examples:
   - |
-       De slipper å komme opp med svar
+       De slipper å komme opp med svar.
+  - |
+       Kan du komme opp med et godt eksempel?
+  - |
+       Hun klarte å komme opp med en kreativ løsning på problemet.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

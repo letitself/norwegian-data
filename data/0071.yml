@@ -2,12 +2,18 @@
 record: 71
 name: 'og X bare'
 UD_name: ''
-illustration: 'og hun bare: "det er ditt problem"'
-cefr_level: 
+illustration: 'Han kunne ikke komme og hun bare: "Det er ditt problem".'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjonen har en sitatfunksjon og erstatter kolon og sitattegn i muntlig språk. Typisk for uformelt og ungdommelig språk?
+       Konstruksjonen har en sitatfunksjon og brukes for å introdusere direkte tale eller en spontan reaksjon fra en person. Typisk for uformelt og muntlig språk.
 examples:
+  - |
+       Jeg spurte om han kunne hjelpe, og han bare: "Nei, jeg har ikke tid.
+  - |
+       Vi fortalte henne nyheten, og hun bare: "Det er fantastisk!"
+  - |
+       De sa at festen var avlyst, og jeg bare: "Hva? Hvorfor?"
 morphology:
   - ~
 syntactic_type_of_construction:

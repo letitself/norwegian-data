@@ -1,13 +1,19 @@
 ---
 record: 74
-name: 'på NUM TID'
+name: 'på TALL TID'
 UD_name: ''
-illustration: 'Det hele var over på fem minutter'
-cefr_level: 
+illustration: 'Det hele var over på fem minutter.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke hvor raskt eller effektivt en handling blir fullført innenfor en spesifikk tidsramme. Den fremhever at noe er gjort i løpet av en bestemt tidsperiode understreker ofte at det gjøres raskt og effektivt. Ord som ofte brukes i denne konstruksjonen er tidsuttrykk som "minutter", "timer", "dager", "uker", og "måneder", som angir hvor raskt eller effektivt en handling er fullført.
 examples:
   - |
-       Få julevasken unnagjort på 1-2-3
+       Få julevasken unnagjort på 1-2-3.
+  - |
+       Hun fullførte oppgaven på en time.
+  - |
+       Vi kjørte til hytta på to timer.
 morphology:
   - ~
 syntactic_type_of_construction:
