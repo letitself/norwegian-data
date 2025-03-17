@@ -1,13 +1,11 @@
 ---
 record: 165
-name: 'det stå (ADJ) til (med X)'
+name: 'miste Y av syne'
 UD_name: ''
-illustration: 'Hvordan står det til med moren din?'
+illustration: 'Så mista vi begge den yngste broren vår av syne.'
 cefr_level: 
 definitions:
 examples:
-  - |
-       Det står ikke så bra til med henne.
 morphology:
   - ~
 syntactic_type_of_construction:

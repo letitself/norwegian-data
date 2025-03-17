@@ -1,15 +1,23 @@
 ---
 record: 85
-name: 'om S-bestemt'
+name: 'V i tide'
 UD_name: ''
-illustration: 'om morgenen, om kvelden, om dagen, om sommeren'
-cefr_level: 
+illustration: 'Oppgaven må leveres i tide.'
+cefr_level: A2
 definitions:
+  - norwegian: |
+       Konstruksjonen betyr å gjøre noe innen en bestemt tidsfrist eller før det er for sent.
 examples:
+  - |
+       Jeg velger å tro at meldingen kommer i tide.
+  - |
+       Idag kom jeg faktisk i TIDE på skolen. HURRAAA! (NoWaC)
+  - |
+       STOPPER I TIDE: Slutter å spise når de er mette (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Adverbial konstruksjon
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,19 +1,19 @@
 ---
 record: 62
-name: 'det er så [ADJ] at [KONSEKVENS]'
+name: 'være (STED) og V'
 UD_name: ''
-illustration: 'Det er så kaldt at mange rør har frosset.'
-cefr_level: B1
+illustration: 'Han er (ute) og handler.'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjonen brukes for å uttrykke en situasjon der en egenskap eller tilstand er så ekstrem at den fører til en spesifikk konsekvens. Det er en måte å understreke intensiteten av en opplevelse eller følelse ved å vise hvordan den påvirker handlinger eller hendelser. Adjektivet beskriver noe positivt, negativt, eller nøytralt, men det er alltid i en grad som er utenom det vanlige og som fører til en konkret konsekvens eller utfall som illustrerer hvor intens den innledende beskrivelsen er.
+       Konstruksjonen er en enkel måte å beskrive både hva en person gjør og hvor de befinner seg.
 examples:
   - |
-       Det var så grusomt at jeg ikke greide å fullføre serveringen. (NoWaC)
+       Hun er ute og rir på hesten sin
   - |
-       Det var så kaldt at mobilen nesten frøs fast i øret mitt. (NoWaC)
+       Husker du om du var ute og gikk? (Post mortem)
   - |
-       Det var så varmt at det var uutholdelig. (NoWaC)
+       Han er ute og kjører.
 morphology:
   - ~
 syntactic_type_of_construction:

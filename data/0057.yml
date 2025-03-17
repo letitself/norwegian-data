@@ -1,19 +1,19 @@
 ---
 record: 57
-name: 'ha V i [ANTALL TID] / siden [TIDSPUNKT]'
+name: 'ha (ikke) V siden [TIDSPUNKT]'
 UD_name: ''
-illustration: 'Jeg har bodd i Norge i to år / siden 2023.'
+illustration: 'Jeg har bodd i Norge siden 2023.'
 cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker at en situasjon har pågått i en viss varighet og fortsatt pågår.
+       Konstruksjonen uttrykker at en situasjon (ikke) har pågått siden et gitt tidspunkt og at den fortsatt (ikke) pågår.
 examples:
   - |
-       SV, AP og SP har samarbeidet i fire år allerede.
+       Jeg har ikke jobbet siden Covid-19.
   - |
-       Det har snødd i to døgn.
+       Vi har ikke sett ham siden i går.
   - |
-       Vi har vært gift i tre år nå.
+       Klarer ikke å stole på dem, liker ikke å være med dem og har ikke gjort det siden sånn 7 klasse. (Ung.no)
 morphology:
   - ~
 syntactic_type_of_construction:

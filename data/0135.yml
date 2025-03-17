@@ -1,15 +1,23 @@
 ---
 record: 135
-name: 'sitte og V'
+name: 'drive og V'
 UD_name: ''
-illustration: 'De satt og leste da det ringte på.'
+illustration: 'De driver og jobber.'
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å uttrykke at en aktivitet er i gang eller foregår over en periode. Det gir en følelse av at handlingen er pågående eller gjentakende.
 examples:
+  - |
+       Min venninne og jeg driver og planlegger tur til Mount Everest Basecamp (NoWaC)
+  - |
+       Det er noen som driver og forteller at Jesus drev og vekte opp fugler og sånt fra de døde (NoWaC)
+  - |
+       Nå har jeg nettopp kommet hjem fra skolen og Tora driver og lager pannekaker til meg (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Pseudokoordinering
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

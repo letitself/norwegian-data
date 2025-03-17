@@ -1,23 +1,23 @@
 ---
 record: 71
-name: 'og X bare'
+name: 'V og V (iterativ)'
 UD_name: ''
-illustration: 'Han kunne ikke komme og hun bare: "Det er ditt problem".'
-cefr_level: B2
+illustration: 'Jeg har prøvd og prøvd, men jeg fordrar ikke dataspill.'
+cefr_level: B1
 definitions:
   - norwegian: |
-       Konstruksjonen har en sitatfunksjon og brukes for å introdusere direkte tale eller en spontan reaksjon fra en person. Typisk for uformelt og muntlig språk.
+       Konstruksjonen uttrykker at handlingen som uttrykkes av V foregår over lengre tid eller ved gjentatte anledninger.
 examples:
   - |
-       Jeg spurte om han kunne hjelpe, og han bare: "Nei, jeg har ikke tid.
+       Hva er det som går og går og aldri kommer til døra?
   - |
-       Vi fortalte henne nyheten, og hun bare: "Det er fantastisk!"
+       Føler du at jobber og jobber, men får ikke fremgang? (Instagram)
   - |
-       De sa at festen var avlyst, og jeg bare: "Hva? Hvorfor?"
+       Jeg spiser og spiser men jeg blir ikke mett (Ung.no)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Reduplikativ konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,19 +1,21 @@
 ---
 record: 86
-name: 'X bære med seg Y'
+name: 'om S-bestemt'
 UD_name: ''
-illustration: 'Kolonialiseringen bærer med seg mange stygge historier.'
+illustration: 'om morgenen, om kvelden, om dagen, om sommeren'
 cefr_level: 
 definitions:
 examples:
   - |
-       dagens maleri bærer med seg arven fra popkunsten
+       Den sure vinden som blåser over oss om dagen er ikke bra for noe (NoWaC)
   - |
-       resultatet bærer med seg håp om at befolkningen reiser seg til neste valg
+       Har ikke allverdens tid
+  - |
+       Med disse to produktene holder jeg meg brun også om vinteren (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Konstruksjon med kompleks predikat
+  - Adverbial konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

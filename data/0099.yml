@@ -1,11 +1,13 @@
 ---
 record: 99
-name: 'genitiv superlativ S'
+name: 'komme/slippe unna med X'
 UD_name: ''
-illustration: 'Verdens verste menneske.'
+illustration: 'Vi slapp unna med skrekken.'
 cefr_level: 
 definitions:
 examples:
+  - |
+       FrP fortjener ikke å komme unna med løgn overfor velgerne
 morphology:
   - ~
 syntactic_type_of_construction:

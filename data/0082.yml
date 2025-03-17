@@ -1,23 +1,23 @@
 ---
 record: 82
-name: 'X være lei seg over Y / at Y'
+name: 'komme V-PRS-PARTISIPP (RETNING) (STED)'
 UD_name: ''
-illustration: 'Det er ikke sikkert president George W. Bush er så lei seg over valgnederlaget tirsdag  (NoWaC)'
-cefr_level: B1
+illustration: 'Hun kom løpende (ned trappa).'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker subjektets følelse av tristhet eller beklagelse i forbindelse med en spesifikk situasjon eller hendelse. Den brukes for å uttrykke følelser om noe som er generelt eller utenfor subjektets kontroll, i motsetning til tilsvarende uttrykk med "for Y / for at Y", der subjektet har kontroll over situasjonen. For eksempel, "Jeg er lei meg over at været ble så dårlig," indikerer tristhet over en situasjon som subjektet ikke kan påvirke.
+       Konstruksjonen beskriver måten noe eller noen beveger seg fra et sted til et annet på. Måten uttrykkes av presens partisipp (løpende, brasende, kjørende, smygende). Konstruksjonen brukes for å uttrykke samtidige handlinger eller for å beskrive hvordan noe skjer, og det gir setningen en mer dynamisk og detaljert beskrivelse.
 examples:
   - |
-       Muslimen var lei seg over at jeg kunne si så mye stygt om Islam. (NoWaC)
+       Plutselig så vi soldaten komme brasende inn gjennom døren (NoWaC)
   - |
-       John Arne Riise er oppriktig lei seg over Åge Hareides avgang (NoWaC)
+       Bilen kom kjørende fra Stjørdal i retning Hegra da utforkjøringen skjedde (NoWaC)
   - |
-       Folk i Fredrikstad er lei seg over at Stabburet flagger ut makrell-i-tomat til Sverige (NoWaC)
+       Kjenner panikken komme smygende inn under ribbbena (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Konstruksjon med kompleks predikat
+  - Adverbialmodifisert verbkonstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

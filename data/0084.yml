@@ -1,19 +1,23 @@
 ---
 record: 84
-name: 'V i tide'
+name: 'gå fra X til å V-INF'
 UD_name: ''
-illustration: 'Oppgaven må leveres i tide.'
-cefr_level: A2
+illustration: 'Grønland har gått fra bortgjemt avkrok til å være på alles lepper.'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjonen betyr å gjøre noe innen en bestemt tidsfrist eller før det er for sent.
+       Konstruksjonen beskriver en overgang fra en opprinnelig tilstand eller situasjon (X) til en ny handling eller tilstand (V). Den brukes for å uttrykke endringer eller utviklinger som har skjedd over tid. X kan være et Substantiv (S) eller en infinitiv (å V). Vanlige verb som ofte brukes i V-plassen i denne konstruksjonen inkluderer være, bli, arbeide, studere, leve, fungere, operere, og eksistere.
 examples:
   - |
-       Jeg velger å tro at meldingen kommer i tide.
+       Byen har gått fra å være ukjent til å bli en populær turistdestinasjon.
+  - |
+       Hun har gått fra å være sjenert til å holde foredrag foran store forsamlinger.
+  - |
+       Han har gått fra å jobbe som lærer til å bli forfatter.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Adverbialmodifisert verbkonstruksjon
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

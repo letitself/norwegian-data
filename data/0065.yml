@@ -1,23 +1,23 @@
 ---
 record: 65
-name: 'possessiv (ADJ) S'
+name: 'det er X som VP'
 UD_name: ''
-illustration: 'Din (jævla) idiot!'
+illustration: 'Det er Norge som er bra, det er Norge som er best.'
 cefr_level: B1
 definitions:
   - norwegian: |
-       Konstruksjonen er en form for utrop som brukes for å uttrykke sterke følelser, ofte negative eller nedsettende. Denne konstruksjonen er vanlig i uformell tale og kan formidle sinne, frustrasjon, eller forakt. Disse eksempel brukes ofte i situasjoner hvor taleren er sint eller frustrert overfor personen de henvender seg til. De er ment å være fornærmende og kan oppfattes som støtende. Slike uttrykk er typisk for uformell eller vulgær tale og er ikke egnet for formelle eller høflige situasjoner.
+       Konstruksjonen brukes for å fremheve eller understreke en bestemt del av informasjonen som viktig eller avgjørende. Dette mønsteret kalles ofte en fokuseringskonstruksjon eller kløyvd setning. Det brukes for å sette ekstra vekt på en bestemt informasjon ved å presentere den som en kontrast eller en viktig opplysning. Ofte brukes denne strukturen for å kontrastere med andre mulige alternativer eller oppfatninger.
 examples:
   - |
-       Din gamle hore!
+       Det er Kobe som er den beste spilleren.
   - |
-       Din lille jævel!
+       Det er Høyre som er Robin Hood.
   - |
-       Din forbanna klovn!
+       Det er skattefordelene som er hovedgrunnen til at det blir drevet sånn.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Diskurskonstruksjon
+  - ~
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

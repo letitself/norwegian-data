@@ -1,19 +1,15 @@
 ---
 record: 211
-name: 'Det er snakk om X'
+name: 'helt X'
 UD_name: ''
-illustration: 'Det er snakk om store endringer i bedriften.'
+illustration: 'Det går helt fint!'
 cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen brukes for å indikere at noe er temaet for en samtale eller diskusjon. Det brukes ofte for å introdusere hva som er i fokus eller hva som diskuteres.
 examples:
   - |
-       Pengene går til å finansiere veiene våre, og det er snakk om betydelige summer
+       Er du helt idiot?
   - |
-       Vet du hvilken sykdom det er snakk om?
-  - |
-       Det er snakk om liv og død
+       Han er helt skjønn!
 morphology:
   - ~
 syntactic_type_of_construction:

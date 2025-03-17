@@ -1,10 +1,12 @@
 ---
 record: 176
-name: 'ta seg i å V'
+name: 'det er sant (at)'
 UD_name: ''
-illustration: 'Hun kan ta seg i å savne sjølufta når hun besøker barndomsbygda.'
+illustration: 'A: Det er et lite sted. B: Det er sant.'
 cefr_level: 
 definitions:
+  - english: |
+       Focal construction
 examples:
 morphology:
   - ~
@@ -29,7 +31,7 @@ common_fillers:
   - ~
 references:
   - |
-    
+    https://doi.org/10.1093/applin/amae006
 semantic_types:
 family:
   - |

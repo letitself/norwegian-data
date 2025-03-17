@@ -1,11 +1,15 @@
 ---
 record: 172
-name: 'fort gjort (å V)'
+name: 'ikke ha V på [ANTALL TID]'
 UD_name: ''
-illustration: 'Flere av oss har vel erfart at det er fort gjort å trykke på feil tast (NoWaC)'
+illustration: 'Jeg har ikke jobbet på 3 år.'
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen uttrykker at en situasjon ikke gjelder fra et gitt tidspunkt i fortiden og frem til taletidspunktet.
 examples:
+  - |
+       Jeg går ikke på skole og har ikke gjort det på en stund. (Ung.no)
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,13 +1,15 @@
 ---
 record: 175
-name: 'det er sant (at)'
+name: 'ende opp med å V'
 UD_name: ''
-illustration: 'A: Det er et lite sted. B: Det er sant.'
+illustration: 'Trond Viggo og Marte Stokstad prøvde seg som stuntmenn og endte opp med å gi hverandre juling.'
 cefr_level: 
 definitions:
-  - english: |
-       Focal construction
 examples:
+  - |
+       Fekk 1200 kr å bruke på ka som helst, men endte opp med en pose boller og litt snop
+  - |
+       De svømmer inn i navelen din og ender opp med å komme ut munnen (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
@@ -31,7 +33,7 @@ common_fillers:
   - ~
 references:
   - |
-    https://doi.org/10.1093/applin/amae006
+    
 semantic_types:
 family:
   - |

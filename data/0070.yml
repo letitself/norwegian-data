@@ -1,19 +1,23 @@
 ---
 record: 70
-name: 'V og V (iterativ)'
+name: 'få S V / få V S'
 UD_name: ''
-illustration: 'Jeg har prøvd og prøvd, men jeg fordrar ikke dataspill.'
-cefr_level: B1
+illustration: 'Mange vil få husleien økt.'
+cefr_level: B2
 definitions:
   - norwegian: |
-       Konstruksjonen uttrykker at handlingen som uttrykkes av V foregår over lengre tid eller ved gjentatte anledninger.
+       Konstruksjonen brukes ofte for å uttrykke at noe blir gjort for eller mot subjektet, uten å spesifisere hvem som utfører handlingen. Konstruksjonen kan defineres som en passiv konstruksjon med hjelpeverbet "få". S står for et substantiv eller pronomen som er mottaker av handlingen. Hjelpeverbet "få" indikerer at subjektet er gjenstand for en handling utført av noen andre. Et partisipp (V) beskriver handlingen som utføres på subjektet. Konstruksjonen er nyttig når man ønsker å understreke resultatet eller effekten av en handling.
 examples:
   - |
-       Hva er det som går og går og aldri kommer til døra?
+       Unge kvinner fikk innsatt spiral.
+  - |
+       Elevene fikk utdelt bøker.
+  - |
+       De vil få rapporten sendt i morgen.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Reduplikativ konstruksjon
+  - ~
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,19 +1,15 @@
 ---
 record: 90
-name: 'V for seg selv'
+name: 'holde X ansvarlig (for Y)'
 UD_name: ''
-illustration: 'Han ville leke for seg selv.'
+illustration: 'Mange holder danskene ansvarlig (for Grønlands problemer).'
 cefr_level: 
 definitions:
-  - norwegian: |
-       "for seg selv" = alene, uten selskap (med noen verb: synge, bo, tenke, leke, jobbe, trene)
 examples:
-  - |
-       Snakk for deg selv
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Adverbialmodifisert verbkonstruksjon
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

@@ -1,15 +1,17 @@
 ---
 record: 95
-name: 'det slutte å V'
+name: 'så og si'
 UD_name: ''
-illustration: 'Det sluttet å snø.'
+illustration: 'Så og si alle pengene mine går til det'
 cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen brukes for å indikere at en aktivitet eller en tilstand ikke lenger fortsetter.
 examples:
   - |
-       Jeg helte på vann til det sluttet å ryke.
+       Jeg skriver så og si hver dag
+  - |
+       Operasjonen gikk så og si smertefritt
+  - |
+       Mennesker tror vi har løst så og si alle problemer
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,11 +1,15 @@
 ---
 record: 96
-name: 'V på vei RETNING'
+name: 'det slutte å V-INF'
 UD_name: ''
-illustration: 'Solen var på vei ned i jungelen.'
+illustration: 'Det sluttet å snø.'
 cefr_level: 
 definitions:
+  - norwegian: |
+       Konstruksjonen brukes for å indikere at en aktivitet eller en tilstand ikke lenger fortsetter.
 examples:
+  - |
+       Jeg helte på vann til det sluttet å ryke.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,19 +1,19 @@
 ---
 record: 74
-name: 'på TALL TID'
+name: 'hele [TIDSPERIODE] lang'
 UD_name: ''
-illustration: 'Det hele var over på fem minutter.'
+illustration: 'Jeg har jobbet hele dagen lang.'
 cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen brukes for å uttrykke hvor raskt eller effektivt en handling blir fullført innenfor en spesifikk tidsramme. Den fremhever at noe er gjort i løpet av en bestemt tidsperiode understreker ofte at det gjøres raskt og effektivt. Ord som ofte brukes i denne konstruksjonen er tidsuttrykk som "minutter", "timer", "dager", "uker", og "måneder", som angir hvor raskt eller effektivt en handling er fullført.
+       Konstruksjonen brukes for å understreke varigheten av en handling eller tilstand over en bestemt tidsperiode og gir en følelse av at noe skjer kontinuerlig eller gjennom hele denne perioden. I denne konstruksjonen står substantivet som beskriver tidsperioden vanligvis i bestemt form. Dette er fordi uttrykket refererer til en spesifikk tidsperiode som er kjent for både taleren og lytteren: "dagen", "natta", "sommeren".
 examples:
   - |
-       Få julevasken unnagjort på 1-2-3.
+       Vi ber om en mann som kan danse hele natta lang.
   - |
-       Hun fullførte oppgaven på en time.
+       Basketcamper hele sommeren lang!
   - |
-       Vi kjørte til hytta på to timer.
+       Han jobbet hele uken lang uten pause.
 morphology:
   - ~
 syntactic_type_of_construction:

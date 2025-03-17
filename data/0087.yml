@@ -1,23 +1,21 @@
 ---
 record: 87
-name: 'X V så ADJ X kan'
+name: 'X bære med seg Y'
 UD_name: ''
-illustration: 'Han løp hjem så fort han kunne.'
+illustration: 'Kolonialiseringen bærer med seg mange stygge historier.'
 cefr_level: 
 definitions:
-  - norwegian: |
-       Konstruksjonen beskriver at noen gjør noe med maksimal innsats eller kapasitet. Den indikerer at personen gjør sitt beste eller bruker all sin tilgjengelige energi eller evne i en gitt situasjon. Det er en måte å understreke at handlingen ble utført med full intensitet eller effektivitet.
 examples:
   - |
-       Jeg lover å gjøre så godt jeg kan.
+       Dagens maleri bærer med seg arven fra popkunsten
   - |
-       Så raskt hun kan pakker hun sakene sine og forsøker å komme seg ut fra forelesningen uten å forstyrre de andre.
+       Resultatet bærer med seg håp om at befolkningen reiser seg til neste valg
   - |
-       Han hylgråter så høyt han kan og roper ting til meg.
+       Pasientene bærer med seg svært vonde historier fra oppveksten (Modum Blad)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

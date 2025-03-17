@@ -1,11 +1,13 @@
 ---
 record: 242
-name: 'X grue seg til Y'
+name: 'X slippe ADJ unna'
 UD_name: ''
-illustration: 'Det har tatt halvannet år fra drapet til dagen de har sett frem til, og gruet seg veldig til, kommer. (NRK)'
+illustration: 'slippe billig/lett/hel/helskinnet/uskadet unna'
 cefr_level: 
 definitions:
 examples:
+  - |
+       Min største frykt er jo at de skal slippe billig unna. (NRK)
 morphology:
   - ~
 syntactic_type_of_construction:

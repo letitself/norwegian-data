@@ -1,23 +1,23 @@
 ---
 record: 61
-name: 'være (STED) og V'
+name: 'være som å V-INF'
 UD_name: ''
-illustration: 'Han er (ute) og handler.'
-cefr_level: B2
+illustration: 'Det er som å drukne.'
+cefr_level: 
 definitions:
   - norwegian: |
-       Konstruksjonen er en enkel måte å beskrive både hva en person gjør og hvor de befinner seg.
+       Konstruksjonen fungerer som en simile der noe sammenlignes med en situasjon (uttrykt av verbet)
 examples:
   - |
-       Hun er ute og rir på hesten sin
+       Det er som å leve i en krigsfilm.
   - |
-       Husker du om du var ute og gikk? (Post mortem)
+       Det er som å snakke til en vegg!
   - |
-       Han er ute og kjører.
+       Det er som å være i et fengsel, bare at jeg kan spasere ut.
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Konstruksjon med kompleks predikat
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

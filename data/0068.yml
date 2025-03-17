@@ -1,19 +1,19 @@
 ---
 record: 68
-name: 'en S på STØRRELSE'
+name: 'holde på å V-INF (pågående)'
 UD_name: ''
-illustration: 'En leilighet på 70 m2.'
+illustration: 'Jeg holder på å rydde i klesskapet.'
 cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen brukes for å spesifisere størrelsen, vekten eller mengden av noe.
+       Konstruksjonen uttrykker at en hendelse er i gang eller pågår i øyeblikket.
 examples:
   - |
-       Han fanget en gjedde på tre kilo.
+       Jeg holder på å lage middag til meg selv.
   - |
-       En bok på 300 sider
+       Vi holder på å bytte leverandør, så det finnes ikke nett hjemme.
   - |
-       En tur på fem timer
+       Fiskerne hadde gått i land og holdt på å skylle garnene sine.
 morphology:
   - ~
 syntactic_type_of_construction:

@@ -1,19 +1,19 @@
 ---
 record: 75
-name: 'litt av en S'
+name: 'på [ANTALL] [TID]'
 UD_name: ''
-illustration: 'John Lennon var litt av en rebell.'
-cefr_level: B2
+illustration: 'Det hele var over på fem minutter.'
+cefr_level: A2
 definitions:
   - norwegian: |
-       Konstruksjonen fremhever ofte at personen eller situasjonen skiller seg ut fra det vanlige. Konstruksjonen beskriver noen eller noe som er bemerkelsesverdig eller spesielt på en eller annen måte. Det kan ha både positive og negative konnotasjoner, avhengig av sammenhengen.
+       Konstruksjonen brukes for å uttrykke hvor raskt eller effektivt en handling blir fullført innenfor en spesifikk tidsramme. Den fremhever at noe er gjort i løpet av en bestemt tidsperiode understreker ofte at det gjøres raskt og effektivt. Ord som ofte brukes i denne konstruksjonen er tidsuttrykk som "minutter", "timer", "dager", "uker", og "måneder", som angir hvor raskt eller effektivt en handling er fullført.
 examples:
   - |
-       Det er litt av en plan!
+       Få julevasken unnagjort på 1-2-3.
   - |
-       NRK: Fikk bil inn i stua: – Det var litt av en opplevelse. Men heldigvis er vi et rolig folkeslag, og har tatt det her veldig greit.
+       Hun fullførte oppgaven på en time.
   - |
-       Han er litt av en fyr!
+       Vi kjørte til hytta på to timer.
 morphology:
   - ~
 syntactic_type_of_construction:

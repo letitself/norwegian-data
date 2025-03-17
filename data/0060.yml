@@ -1,23 +1,23 @@
 ---
 record: 60
-name: 'være som å V'
+name: 'si seg ADJ'
 UD_name: ''
-illustration: 'Det er som å drukne.'
+illustration: 'Jeg må si meg enig.'
 cefr_level: 
 definitions:
   - norwegian: |
-       Konstruksjonen fungerer som en simile der noe sammenlignes med en situasjon (uttrykt av verbet)
+       Konstruksjonen brukes for å formidle en personlig erklæring eller innrømmelse om en bestemt tilstand eller følelse.
 examples:
   - |
-       Det er som å leve i en krigsfilm.
+       Hun sa seg villig til å ta på seg jobben.
   - |
-       Det er som å snakke til en vegg!
+       Det er tre separate partier som alle må kunne si seg fornøyd med resultatet. (NoWaC)
   - |
-       Det er som å være i et fengsel, bare at jeg kan spasere ut.
+       Willie Williams sa seg skyldig i å ha skutt og drept Claude Schaffer. (NoWaC)
 morphology:
   - ~
 syntactic_type_of_construction:
-  - Konstruksjon med kompleks predikat
+  - Refleksiv konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:

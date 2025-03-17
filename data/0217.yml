@@ -1,15 +1,19 @@
 ---
 record: 217
-name: 'X passer (for Y) / det passer (for Y) om/at X'
+name: 'over-X'
 UD_name: ''
-illustration: 'Passer det (for deg) om jeg kommer innom? Ja, det passer fint (for meg)!'
+illustration: 'overforbruk'
 cefr_level: 
 definitions:
 examples:
+  - |
+       overmett
+  - |
+       overpriset
 morphology:
   - ~
 syntactic_type_of_construction:
-  - ~
+  - Morfologisk konstruksjon
 syntactic_function_of_anchor:
   - ~
 syntactic_structure_of_anchor:
