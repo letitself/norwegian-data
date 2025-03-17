@@ -45,9 +45,9 @@ def write_record(row, record):
     with open(record_to_filename(record), "w") as f:
         f.write("---\n")
         f.write(f"record: {record}\n")
-        f.write(f"name: '{row['Name'].strip()}'\n")
+        f.write(f"name: \"{row['Name'].strip()}\"\n")
         f.write(f"UD_name: '{row['Name UD'].strip()}'\n")
-        f.write(f"illustration: '{row['Illustration'].strip()}'\n")
+        f.write(f"illustration: \"{row['Illustration'].strip()}\"\n")
         f.write(f"cefr_level: {row['CEFR level'].strip()}\n")
         f.write("definitions:\n")
         for language in ["Norwegian", "English"]:
